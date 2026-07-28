@@ -1,0 +1,31 @@
+FACTURE N° SFR-PRO-2024-09-017842
+Date facture     : 01/09/2024
+Date d'échéance : 16/09/2024
+
+Fournisseur : SFR Business SA
+N° SIRET     : 343 059 564 00065
+N° TVA       : FR22343059564
+Adresse      : 16 rue du Général Alain de Boissieu, 75015 Paris
+
+Client : Mécatech Industries SAS
+N° SIRET : 789 123 456 00018
+N° TVA   : FR61789123456
+Adresse  : ZI de la Clairière, 69800 Saint-Priest
+
+DÉTAIL DE L'ABONNEMENT — SEPTEMBRE 2024
+────────────────────────────────────────────────────────────────
+Forfait Business Fibre Pro 1 Gbps (siège):      149,00 €
+Lignes mobiles Pro 20 Go x 12             :      480,00 €
+Téléphonie fixe IP (30 postes)            :      210,00 €
+Location box SFR Pro (matériel)           :       14,90 €
+────────────────────────────────────────────────────────────────
+Sous-total abonnement mensuel             :      853,90 €
+
+Montant HT   :      853,90 €
+TVA (20 %)   :      170,78 €
+Montant TTC  :    1 024,68 €
+
+Devise       : EUR
+Mode de règlement : Prélèvement SEPA
+IBAN créancier : FR76 3000 4000 0100 0000 0000 000
+Référence mandat SEPA : SFRPRO-789123456-2021

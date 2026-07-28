@@ -1,0 +1,71 @@
+rmation on our operating segments and products, including product revenues, see Note 17, and for additional information on the key operational revenue drivers of our business, see the Analysis of the
+Consolidated Statements of Operations section within MD&A. For a discussion of the risks associated with our dependence on certain of our major products, see the Item 1A. Risk Factors—Concentration section.
+RESEARCH AND DEVELOPMENT
+R&D is at the heart of fulfilling our purpose to deliver breakthroughs that change patients’ lives as we work to translate advanced science and technologies into the medicines and vaccines that may be the most impactful for
+patients. In addition to discovering and developing new products, our R&D efforts seek to add value to our existing products by improving their safety, efficacy and ease of dosing and by discovering potential new indications.
+Our R&D Priorities and Strategy. Our R&D priorities include:
+• delivering a pipeline of highly differentiated medicines and vaccines where we have a unique opportunity to bring the most important new therapies to patients in need;
+• advancing our capabilities that can position us for long-term R&D leadership; and
+• advancing new models for partnerships with creativity, flexibility and urgency to deliver innovation to patients as quickly as possible.
+To that end, our R&D primarily focuses on our main therapeutic areas, which are oncology, internal medicine (including cardiometabolic, weight management and migraine), vaccines (with a pipeline focus on infectious diseases
+with significant unmet medical need) and inflammation and immunology.
+While a significant portion of our R&D is internal, we also seek promising chemical and biological lead molecules and innovative technologies developed by others to incorporate into our discovery and development processes or
+projects, as well as our portfolio. We do so by entering into collaboration, alliance and license agreements with universities, biotechnology companies and other firms as well as through acquisitions and investments, including co-
+funding agreements with third-parties. These arrangements allow us to share knowledge, risk and cost. They also enable us to access external scientific and technological expertise, as well as provide us the opportunity to
+advance our own products and in-licensed or acquired products. For information on certain of these collaborations, alliances and license arrangements and investments, see
+Note 2.
+Our R&D Operations. In 2025, we continued to enhance our global R&D operations and pursued strategies to improve R&D productivity and advance a sustainable and value-creating pipeline. We manage our R&D operations for
+all therapeutic areas in a single R&D organization led by the Chief Scientific Officer and President, Research and Development. This organization is responsible for overseeing all R&D activities with end-to-end responsibilities that
+span from discovery to late-phase clinical development and post-approval activities, including facilitating regulatory submissions, engaging with health authorities and global medical strategies, as well as U.S. Oncology medical
+affairs. We continue to evaluate how our simplified structure and sharpened focus might lead to improvements in productivity and potential efficiencies. For example, approximately $500 million of R&D savings achieved from our
+ongoing realigning our cost base program in 2025 is expected to be reinvested in R&D programs in 2026. See the Costs and Expenses––Restructuring Charges and Other Costs Associated with Acquisitions and Cost-
+Reduction/Productivity Initiatives section within MD&A for more information.
+We manage R&D operations on a total-company basis through the organization described above. The Portfolio Management Team (PMT), chaired by our Chief Strategy and Innovation Officer, Executive Vice President, is
+accountable for aligning resources across R&D, and for helping to ensure optimal capital allocation across the R&D portfolio. We believe that this approach also serves to maximize accountability and flexibility.
+We do not disaggregate total R&D expense by development phase or by therapeutic area since, as described above, we manage our R&D strategy and operations collectively under the governance of the PMT and do not manage
+our R&D operational spend independently by development phase or by therapeutic area. Further, as we are able to adjust a significant portion of our spending quickly, we believe that any prior-period information about R&D
+expense by development phase or by therapeutic area would not necessarily be representative of future spending.
+For additional information on our R&D operations, including R&D related costs and expenses, see the Costs and Expenses—Research and Development Expenses section within MD&A and Note 17.
+Pfizer Inc. 2025 Form 10-K 5
+Our R&D Pipeline. The process of drug, vaccine and biological product discovery from initiation through development and to potential regulatory approval is lengthy and can take more than ten years. As of February 3, 2026, we
+had the following number of projects in various stages of R&D:
+Pipeline.jpg
+Development of a single compound is often pursued as part of multiple programs. While our product candidates may or may not receive regulatory approval, new candidates entering clinical development phases are the foundation
+for future products. Information concerning several of our drug, vaccine and biological candidates in development, as well as supplemental filings for existing products, is set forth in the Product Developments section within MD&A.
+The discovery and development of drugs, vaccines and biological products are time consuming, costly and unpredictable. For information on the risks associated with R&D, see the Item 1A. Risk Factors—Research and
+Development section.
+COLLABORATION AND CO-PROMOTION AGREEMENTS
+We use collaboration and/or co-promotion arrangements to enhance our R&D, sales and distribution of certain biopharmaceutical products, which include, among others, the following:
+• Comirnaty is an mRNA-based coronavirus vaccine to help prevent COVID-19, which is jointly developed and commercialized with BioNTech. Pfizer and BioNTech equally share the costs of development for the Comirnaty
+program. We also share gross profits equally from commercialization of Comirnaty (excluding mainland China, Hong Kong, Macau and Taiwan, where we do not have rights), subject to regulatory authorizations or approvals
+market by market. For discussion on Comirnaty, see the Overview of Our Performance, Operating Environment, Strategy and Outlook—COVID-19 section within MD&A.
+• Eliquis (apixaban) is part of the novel oral anticoagulant market and was jointly developed and is commercialized with BMS as an alternative treatment option to warfarin in appropriate patients. We fund between 50% and 60%
+of all development costs depending on the study, and profits and losses are shared equally except in certain countries where we commercialize Eliquis and pay a percentage of net sales to BMS. In certain smaller markets we
+have full commercialization rights and BMS supplies the product to us at cost plus a percentage of the net sales to end-customers.
+• Xtandi (enzalutamide) is an androgen receptor inhibitor that blocks multiple steps in the androgen receptor signaling pathway within tumor cells that is being developed and commercialized in collaboration with Astellas, which
+has exclusive commercialization rights for Xtandi outside the U.S. We share equally in the gross profits and losses related to U.S. net sales and also share equally all Xtandi commercialization costs attributable to the U.S.
+market, subject to certain exceptions. In addition, we share certain development and other collaboration expenses. For international net sales we receive royalties based on a tiered percentage.
+• Orgovyx (relugolix) is an oral gonadotropin-releasing hormone (GnRH) receptor antagonist for the treatment of adult patients with advanced prostate cancer that is being developed and commercialized with SMPS. The
+companies equally share profits and allowable expenses in the U.S. for Orgovyx. Pfizer does not have rights outside of this market. Separately, in December 2024, the companies terminated their collaboration with respect to
+the relugolix combination tablet.
+• Padcev (enfortumab vedotin-ejfv) is a first-in-class ADC that is directed to Nectin-4, a protein located on the surface of cells and highly expressed in bladder cancer, that is being co-developed and jointly commercialized with
+Astellas. In the U.S., Padcev has been approved for use with pembrolizumab for adult patients with locally advanced or metastatic urothelial cancer and for adult patients with muscle-invasive bladder cancer (MIBC) who are
+ineligible for cisplatin-containing chemotherapy. Other approvals and indications for Padcev vary by market. In the U.S., Pfizer and Astellas jointly promote, and we record net sales and are responsible for all U.S. distribution
+activities for Padcev. The companies each bear the costs of their own sales organizations in the U.S., and equally share certain other costs associated with commercializing and any profits realized for Padcev in the U.S.
+Outside the U.S., we have commercialization rights in all countries in North and South America, and Astellas has commercialization rights in the rest of the world. The agreement between us and Astellas provides that the
+companies will effectively equally share in profits realized in markets outside of the U.S. through: (i) a costs-incurred and profit-sharing mechanism based on product sales and costs of commercialization in certain markets and
+(ii) a royalty-payment mechanism intended to approximate an equal profit share for both parties in the remaining markets.
+• Adcetris (brentuximab vedotin) is being developed and commercialized in collaboration with Takeda. Pfizer has commercialization rights for Adcetris in the U.S. and its territories and in Canada. Takeda has commercialization
+rights in the rest of the world and pays Pfizer a royalty based on a percentage of Takeda’s net sales of Adcetris in its licensed territories, based on annual net sales tiers.
+• Tivdak (tisotumab vedotin-tftv) is commercialized in collaboration with Genmab. Pfizer has co-promotion rights in the U.S. Outside the U.S., Genmab has the sole right to promote Tivdak for second-line plus mCC and has co-
+promotion rights for other indications in all territories except certain territories where Zai Lab Limited (Zai Lab) has commercialization rights (mainland China, Hong Kong, Macau, and Taiwan). Our profit sharing rights, royalty
+rights and expense obligations relating to Tivdak vary by jurisdiction.
+In addition, we have collaboration and/or co-promotion arrangements with respect to certain other biopharmaceutical products.
+Revenues associated with these arrangements are included in Alliance revenues (except in certain markets where we have direct sales and except for the majority of revenues for Comirnaty and Padcev, which are included in
+Product revenues). In addition, we have collaboration arrangements for the development and commercialization of certain pipeline products that are in development stage, including, among others certain of those described in the
+Product Developments section within MD&A. For further discussion of collaboration and co-promotion agreements, see the Item 1. Business—Patents and Other Intellectual Property Rights section, the Item 1A. Risk Factors—
+Collaborations and Other Relationships with Third Parties section and Notes 2 and 17.
+Pfizer Inc. 2025 Form 10-K 6
+INTERNATIONAL OPERATIONS
+Our operations are conducted globally, and we supply our medicines and vaccines to approximately 200 countries and territories. Emerging markets are an important component of our strategy for global leadership, and our
+commercial structure recognizes that the demographics and rising economic power of the

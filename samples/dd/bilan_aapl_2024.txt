@@ -1,0 +1,43 @@
+BILAN SIMPLIFIÉ
+Entreprise : Apple Technologies SAS
+Exercice    : 2024
+
+Source : Données issues du SEC 10-K FY2024 — filiale européenne
+Secteur     : Matériels, Logiciels & Services (Consumer Electronics)
+
+════════════════════════════════════════════════════
+ACTIF
+════════════════════════════════════════════════════
+Actif immobilisé                :  22 000 000,00 €
+  Immobilisations incorporelles :  16 500 000,00 €
+    Brevets & propriété intell. :  11 000 000,00 €
+    Fonds commercial            :   5 500 000,00 €
+  Immobilisations corporelles   :   5 500 000,00 €
+    Outillage & équipements     :   3 800 000,00 €
+    Baux capitalisés (IFRS 16)  :   1 700 000,00 €
+Actif circulant                 :  11 500 000,00 €
+  Créances clients              :   8 200 000,00 €
+  Stocks & produits finis       :   2 100 000,00 €
+  Autres créances               :   1 200 000,00 €
+Trésorerie et équivalents       :   8 500 000,00 €
+  Disponibilités bancaires      :   5 000 000,00 €
+  Titres de placement CT        :   3 500 000,00 €
+
+TOTAL ACTIF                     :  42 000 000,00 €
+
+════════════════════════════════════════════════════
+PASSIF
+════════════════════════════════════════════════════
+Capitaux propres                :  14 000 000,00 €
+  Capital social                :   1 500 000,00 €
+  Réserves & report à nouveau   :   9 800 000,00 €
+  Résultat de l'exercice        :   2 700 000,00 €
+Dettes financières              :  18 000 000,00 €
+  Emprunts bancaires            :  10 000 000,00 €
+  Obligations senior notes      :   8 000 000,00 €
+Dettes d'exploitation           :   8 500 000,00 €
+  Fournisseurs & sous-traitants :   5 200 000,00 €
+  Dettes fiscales et sociales   :   1 800 000,00 €
+  Produits constatés d'avance   :   1 500 000,00 €
+
+TOTAL PASSIF                    :  40 500 000,00 €

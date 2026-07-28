@@ -1,0 +1,86 @@
+ase see Note 4 — “Derivative financial instruments and risk management” of Part II, Item 8 "Financial Statements and Supplementary Data." See also the risk factors associated with our financial products
+business included in Item 1A. of this Form 10-K.
+4
+Table of Contents
+In managing foreign currency risk for Cat Financial’s operations, the objective is to minimize earnings volatility resulting from conversion and the remeasurement of net foreign currency balance
+sheet positions, and future transactions denominated in foreign currencies. This policy allows the use of foreign currency forward, option and cross currency contracts to offset the risk of currency
+mismatch between the assets and liabilities, and exchange rate risk associated with future transactions denominated in foreign currencies.
+Caterpillar Insurance Company, a wholly owned subsidiary of Caterpillar Insurance Holdings Inc., is a U.S. insurance company domiciled in Missouri and primarily regulated by the Missouri
+Department of Insurance. Caterpillar Insurance Company is licensed to conduct property and casualty insurance business in 50 states, the District of Columbia and Guam and, as such, is also
+regulated in those jurisdictions. The State of Missouri acts as the lead regulatory authority and monitors Caterpillar Insurance Company’s financial status to ensure that it is in compliance with
+minimum solvency requirements, as well as other financial ratios prescribed by the National Association of Insurance Commissioners. Caterpillar Insurance Company is also licensed to conduct
+insurance business through a branch in Zurich, Switzerland and, as such, is regulated by the Swiss Financial Market Supervisory Authority.
+Caterpillar Life Insurance Company, a wholly owned subsidiary of Caterpillar, is a U.S. insurance company domiciled in Missouri and primarily regulated by the Missouri Department of Insurance.
+Caterpillar Life Insurance Company is licensed to conduct life and accident and health insurance business in 26 states and the District of Columbia and, as such, is also regulated in those jurisdictions.
+The State of Missouri acts as the lead regulatory authority, and it monitors the financial status to ensure that it is in compliance with minimum solvency requirements, as well as other financial ratios
+prescribed by the National Association of Insurance Commissioners. Caterpillar Life Insurance Company provides reinsurance coverage to Caterpillar Insurance Company. Specifically, Caterpillar
+Life Insurance Company has entered into a reinsurance agreement with Caterpillar Insurance Company, assuming 100% of the risk of an Accident and Health Stop Loss Insurance Policy to cover a
+Caterpillar Voluntary Employees' Benefits Association (VEBA) Trust for medical losses sustained by a select group of Caterpillar retirees and dependents.
+Caterpillar Insurance Co. Ltd., a wholly owned subsidiary of Caterpillar Insurance Holdings Inc., is a captive insurance company domiciled in Bermuda and regulated by the Bermuda Monetary
+Authority. Caterpillar Insurance Co. Ltd. is registered as a Class 2 (General Business) and Class B (Long-Term) insurer with the Bermuda Monetary Authority. Under its Class 2 insurance license,
+Caterpillar Insurance Co. Ltd. insures its parent and affiliates for general liability, property, auto liability and cargo. It also provides reinsurance to Caterpillar Insurance Company under a quota share
+reinsurance agreement for its Domestic Machine contractual liability policy in the United States. In addition, Caterpillar Insurance Co. Ltd. reinsures 100% of the international employee benefit plans
+of Caterpillar Inc. through retrocession agreements with other insurers. The employee benefits coverages include medical and accident coverages, which are reported under its Class 2 insurance
+license, and life and disability coverages, which are reported under its Class B insurance license. The Bermuda Monetary Authority is responsible for monitoring compliance with solvency
+requirements and requires an Annual Financial Filing for this purpose.
+Caterpillar Insurance Services Corporation, a wholly owned subsidiary of Caterpillar Insurance Holdings Inc., is a Tennessee insurance agency licensed in all 50 states, the District of Columbia and
+Guam. It provides brokerage and insurance services for all property and casualty and life and health lines of business.
+Caterpillar’s insurance group provides protection and service for claims under the following programs:
+• Contractual Liability Insurance to insure certain service contract obligations of Caterpillar and its affiliates, Caterpillar dealers and original equipment manufacturers (OEMs).
+• Cargo reinsurance for the worldwide cargo risks of Caterpillar products.
+• Contractors’ Equipment Physical Damage Insurance for equipment manufactured by Caterpillar or OEMs, which is leased, rented or sold by third party dealers to customers.
+• General liability, employer’s liability, auto liability and property insurance for Caterpillar.
+• Life, disability, medical and accident reinsurance for Caterpillar's international employee benefits program (non-U.S.).
+• Reinsurance to cover VEBA Trust for medical claims of certain Caterpillar retirees and dependents.
+• Brokerage and insurance services for property and casualty and life and health business.
+5
+Table of Contents
+Competitive Environment
+Caterpillar products and services are sold worldwide into a variety of highly competitive markets. In all markets, we compete on the basis of product performance, customer service, quality and
+price. From time to time, the intensity of competition results in price discounting in a particular industry or region. Such price discounting puts pressure on margins and can negatively impact
+operating profit. Outside the United States, certain competitors enjoy competitive advantages inherent to operating in their home countries or regions.
+Raw Materials and Component Products
+We source our raw materials and manufactured components from suppliers both domestically and internationally. These purchases include unformed materials and rough and finished parts. Unformed
+materials include a variety of steel products, which are then cut or formed to shape and machined in our facilities. Rough parts include various sized steel and iron castings and forgings, which are
+machined to final specification levels inside our facilities. Finished parts are ready to assemble components, which are made either to Caterpillar specifications or to supplier developed specifications.
+We machine and assemble some of the components used in our machines, engines and power generation units and to support our after-market dealer parts sales. We also purchase various goods and
+services used in production, logistics, offices and product development processes. We maintain global strategic sourcing models to meet our global facilities’ production needs while building long-
+term supplier relationships and leveraging enterprise spend. We expect our suppliers to maintain, at all times, industry-leading levels of quality and the ability to timely deliver raw materials and
+component products for our machine and engine products. However, in some cases, increases in demand or supply chain disruptions have led to parts and components constraints across some
+products. We use a variety of agreements with suppliers to protect our intellectual property and processes to monitor and mitigate risks of the supply base causing a business disruption. The risks
+monitored include supplier financial viability, the ability to increase or decrease production levels, business continuity, quality and delivery.
+Patents and Trademarks
+We own a number of patents and trademarks, which have been obtained over a period of years and relate to the products we manufacture and the services we provide. These patents and trademarks
+are generally considered beneficial to our business. We do not regard our business as being dependent upon any single patent or group of patents.
+Order Backlog
+The dollar amount of backlog believed to be firm was approximately $51.2 billion at December 31, 2025 and $30.0 billion at December 31, 2024. Compared with year-end 2024, the order backlog
+increased across the primary segments, with the largest increase in Power & Energy. Of the total backlog at December 31, 2025, approximately $19.3 billion was not expected to be filled in 2026.
+Dealers and Distributors
+We distribute our machines principally through a worldwide organization of dealers (dealer network), 41 located in the United States and 109 located outside the United States, serving 190
+countries. We sell reciprocating engines principally through the dealer network and to other manufacturers for use in products. We also sell some of the reciprocating engines manufactured by our
+subsidiary Perkins Engines Company Limited through its worldwide network of 86 distributors covering 183 countries. We sell the FG Wilson branded electric power generation systems through its
+worldwide network of 108 distributors covering 159 countries.
+Our dealers do not deal exclusively with our products; however, in most cases sales and servicing of our products are the dealers’ principal business. We sell some products, primarily turbines and
+locomotives, directly to end customers through sales forces employed by the company. At times, these employees are assisted by independent sales representatives.
+While the large majority of our worldwide dealers are independently owned and operated, we own and operate a dealership in Japan that covers approximately 80% of the Japanese market: Nippon
+Caterpillar Division. We are currently operating this Japanese dealer directly and we report its results in the All Other Segment. There are also three independent dealers in the Southern Region of
+Japan.
+6
+Table of Contents
+For Caterpillar-branded products, the company’s relationship with each of its independent dealers is memorialized in standard sales and service agreements. Pursuant to these agreements, the
+company grants the dealer the right to purchase and sell its products and to service the products in a specified geographic service territory. The company establishes prices to dealers after receiving
+input from dealers on transactional pricing in the marketplace. The company also agrees to defend its intellectual property and to provide warranty and technical support to the dealer. The agreement
+further grants the dealer a non-exclusive license to use the company’s trademarks, service marks and brand names. In some instances, a separate trademark agreement exists between the company and
+a dealer.
+In exchange for these rights, the agreement obligates the dealer to develop and promote the sale of the company’s products to current and prospective customers in the dealer’s service territory. Each
+dealer agrees to employ adequate sales and support personnel to market, sell and promote the company’s products, demonstrate and exhibit the products, perform the company’s product improvement
+programs, inform the company concerning any features that might affect the safe operation of any of the company’s products and maintain detailed books and records of the dealer’s financial
+condition, sales and inventories and make these books and records available at the company’s reasonable request.
+These sales and service agreements are terminable at will by either party primarily upon 90 days written notice.
+Human Capital
+Core Values
+Caterpillar’s global workforce is united by Our Values In Action, Caterpillar’s Code of Conduct. Safety, Integrity, Teamwork, Excellence, and Commitment provide the foundation for our values-
+based culture. Our human capital management principles are embedded in our values. Our values unite us, and reflect our diverse cultures, languages, geographies, and businesses, as one Caterpillar
+team.
+Health and Safety
+The health and safety of our employees is an important focus at Caterpillar. Our safety driven

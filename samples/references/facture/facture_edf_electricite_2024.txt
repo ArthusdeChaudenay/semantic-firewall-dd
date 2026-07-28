@@ -1,0 +1,33 @@
+FACTURE N° EDF-PRO-2024-07-00998241
+Date facture     : 31/07/2024
+Date d'échéance : 31/08/2024
+
+Fournisseur : EDF SA — Direction Clientèle Professionnels
+N° SIRET     : 552 081 317 01234
+N° TVA       : FR05552081317
+Adresse      : 22-30 avenue de Wagram, 75008 Paris
+
+Client : Mécatech Industries SAS
+N° de contrat  : 987654321-00
+N° PDL (point de livraison) : 09800800111111
+
+DÉTAIL DE LA FACTURE
+────────────────────────────────────────────────────────────────
+Consommation Haute Tension A (HTA)
+  Abonnement puissance souscrite 250 kVA  :      412,00 €
+  Énergie consommée (HPH + HCH)           :    1 814,00 €
+  Énergie consommée (HPE + HCE)           :    1 012,00 €
+TURPE (accès réseau transport)            :      318,00 €
+CTA (contribution tarifaire d'acheminement):      87,00 €
+CSPE (contribution service public énergie):      214,00 €
+Taxe communale et départementale          :       62,00 €
+────────────────────────────────────────────────────────────────
+Sous-total HT                             :    3 919,00 €
+
+Montant HT   :    3 919,00 €
+TVA (20 %)   :      783,80 €
+Montant TTC  :    4 702,80 €
+
+Devise       : EUR
+Mode de règlement : Prélèvement automatique
+Période de consommation : 01/07/2024 au 31/07/2024

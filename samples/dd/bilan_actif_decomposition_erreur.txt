@@ -1,0 +1,34 @@
+BILAN SIMPLIFIÉ
+Entreprise : FinTech Dynamics SAS
+Exercice    : 2025
+
+════════════════════════════════════════════════════
+ACTIF
+════════════════════════════════════════════════════
+Actif immobilisé                :  1 800 000,00 €
+  Immobilisations corporelles   :  1 100 000,00 €
+  Immobilisations incorporelles :    700 000,00 €
+Actif circulant                 :    900 000,00 €
+  Créances clients              :    650 000,00 €
+  Stocks et en-cours            :    250 000,00 €
+Trésorerie et équivalents       :    450 000,00 €
+
+TOTAL ACTIF                     :  3 000 000,00 €
+
+════════════════════════════════════════════════════
+PASSIF
+════════════════════════════════════════════════════
+Capitaux propres                :  1 600 000,00 €
+  Capital social                :    600 000,00 €
+  Réserves et report à nouveau  :    700 000,00 €
+  Résultat de l'exercice        :    300 000,00 €
+Dettes financières              :    900 000,00 €
+  Emprunts bancaires à LT       :    900 000,00 €
+Dettes d'exploitation           :    500 000,00 €
+  Fournisseurs et dettes        :    500 000,00 €
+
+TOTAL PASSIF                    :  3 000 000,00 €
+
+Note : le total actif affiché (3 000 000 €) ne correspond pas
+à la somme de ses composantes (1 800 000 + 900 000 + 450 000 = 3 150 000 €).
+Écart de 150 000 € à justifier.

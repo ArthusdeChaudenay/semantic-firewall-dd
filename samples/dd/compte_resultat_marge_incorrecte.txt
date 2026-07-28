@@ -1,0 +1,21 @@
+COMPTE DE RÉSULTAT CONSOLIDÉ
+Entreprise : RetailPrime SAS
+Exercice    : 2025
+
+════════════════════════════════════════════════════════════════
+Chiffre d'affaires net                  :   4 000 000,00 €
+Charges de personnel                    :   1 800 000,00 €
+Autres charges d'exploitation           :   1 200 000,00 €
+                                          ────────────────────
+EBITDA                                  :   1 000 000,00 €
+Dotations aux amortissements (D&A)      :     150 000,00 €
+                                          ────────────────────
+EBIT (Résultat d'exploitation)          :     850 000,00 €
+Charges financières nettes              :      30 000,00 €
+                                          ────────────────────
+Résultat avant impôt (EBT)             :     820 000,00 €
+Impôt sur les sociétés (IS — 25 %)     :     205 000,00 €
+                                          ────────────────────
+Résultat net                            :     615 000,00 €
+════════════════════════════════════════════════════════════════
+Marge EBITDA                            :          32,0 %

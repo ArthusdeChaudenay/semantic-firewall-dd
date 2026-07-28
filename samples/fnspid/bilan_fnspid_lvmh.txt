@@ -1,0 +1,54 @@
+BILAN SIMPLIFIÉ — EXERCICE 2023
+Société     : LVMH Moët Hennessy Louis Vuitton SE (France)
+Date        : 31/12/2023
+Source      : Inspiration FNSPID S&P 500 — entité biens de luxe Europe
+Secteur     : Consommation discrétionnaire — Maroquinerie & Spiritueux
+
+════════════════════════════════════════════════════════════════
+ACTIF
+════════════════════════════════════════════════════════════════
+Actif immobilisé
+  Immobilisations incorporelles         :   40 000 000,00 €
+    dont marques et droits à produits   :    8 500 000,00 €
+    dont fonds commercial               :    6 200 000,00 €
+    dont logiciels et brevets           :    5 300 000,00 €
+  Immobilisations corporelles           :   15 000 000,00 €
+    dont terrains et constructions      :    7 800 000,00 €
+    dont matériel et outillage          :    4 100 000,00 €
+  Immobilisations financières           :    5 200 000,00 €
+    dont titres de participation        :    3 900 000,00 €
+    dont prêts et cautionnements        :    1 300 000,00 €
+Total actif immobilisé                  :   60 200 000,00 €
+
+Actif circulant
+  Stocks et en-cours de production      :   22 000 000,00 €
+  Créances clients et comptes rattachés :    9 500 000,00 €
+  Autres créances d'exploitation        :    3 800 000,00 €
+Total actif circulant                   :   35 300 000,00 €
+
+Trésorerie et équivalents de trésorerie :    8 000 000,00 €
+
+TOTAL ACTIF                             :  103 500 000,00 €
+
+════════════════════════════════════════════════════════════════
+PASSIF
+════════════════════════════════════════════════════════════════
+Capitaux propres
+  Capital social                        :   25 000 000,00 €
+  Primes d'émission et de fusion        :    7 500 000,00 €
+  Réserves légales et statutaires       :    8 000 000,00 €
+  Report à nouveau                      :    4 000 000,00 €
+  Résultat de l'exercice                :    9 000 000,00 €
+Total capitaux propres                  :   53 500 000,00 €
+
+Dettes financières
+  Emprunts obligataires                 :   28 000 000,00 €
+  Emprunts et dettes auprès des EC      :   10 000 000,00 €
+Total dettes financières                :   38 000 000,00 €
+
+Dettes d'exploitation
+  Fournisseurs et comptes rattachés     :    7 000 000,00 €
+  Dettes fiscales et sociales           :    5 000 000,00 €
+Total dettes d'exploitation             :   12 000 000,00 €
+
+TOTAL PASSIF                            :  103 500 000,00 €

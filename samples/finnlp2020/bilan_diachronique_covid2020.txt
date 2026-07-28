@@ -1,0 +1,61 @@
+BILAN SIMPLIFIÉ — EXERCICE 2020
+Société     : Restauration Paris SAS
+Date        : 31/12/2020
+Secteur     : Hôtellerie-Restauration (HCR) — impact COVID-19
+Source      : Inspiration FinNLP 2020 — dérive diachronique vocabulaire COVID
+
+Contexte : Exercice 2020 marqué par deux confinements et fermetures administratives.
+Prêt Garanti par l'État (PGE) souscrit le 05/05/2020 : 1 200 000 €.
+Activité partielle (chômage partiel) sur 8 mois — 18 salariés concernés.
+Moratoire URSSAF et loyers accordé T1-T2 2020.
+
+════════════════════════════════════════════════════════════════
+ACTIF
+════════════════════════════════════════════════════════════════
+Actif immobilisé
+  Fonds commercial (droit au bail)               :    1 800 000,00 €
+  Matériel de cuisine et agencements             :      720 000,00 €
+  Immobilisations en cours (travaux COVID)       :      280 000,00 €
+Total actif immobilisé                           :    2 800 000,00 €
+
+Actif circulant
+  Stocks (matières premières alimentaires)       :      280 000,00 €
+  Créances clients (tickets-restaurant, TPE)     :      420 000,00 €
+  Crédit TVA à récupérer (CA nul T2)             :      700 000,00 €
+Total actif circulant                            :    1 400 000,00 €
+
+Trésorerie et équivalents
+  Compte courant (dont PGE non consommé)         :    1 300 000,00 €
+
+TOTAL ACTIF                                      :    5 500 000,00 €
+
+════════════════════════════════════════════════════════════════
+PASSIF
+════════════════════════════════════════════════════════════════
+Capitaux propres
+  Capital social                                 :      300 000,00 €
+  Réserves et report à nouveau (avant COVID)     :      700 000,00 €
+  Résultat de l'exercice 2020 (perte COVID)      :     (200 000,00) €
+Total capitaux propres                           :      800 000,00 €
+
+Dettes financières
+  PGE — Prêt Garanti par l'État (BPI/banque)    :    1 200 000,00 €
+  Emprunts bancaires moyen terme                 :    2 000 000,00 €
+Total dettes financières                         :    3 200 000,00 €
+
+Dettes d'exploitation
+  Moratoire cotisations sociales URSSAF          :      400 000,00 €
+  Dettes fournisseurs et comptes rattachés       :      700 000,00 €
+  Loyers échus (moratoire bailleur T1-T2)        :      400 000,00 €
+Total dettes d'exploitation                      :    1 500 000,00 €
+
+TOTAL PASSIF                                     :    5 500 000,00 €
+
+════════════════════════════════════════════════════════════════
+NOTE — CONTINUITÉ D'EXPLOITATION (COVID-19)
+════════════════════════════════════════════════════════════════
+  Plan de rebond post-COVID validé par le CAC.
+  Résilience opérationnelle : réouverture terrasses mai 2021.
+  Renforcement click & collect et livraison à domicile.
+  Accord de rééchelonnement PGE sur 4 ans (2021-2025).
+  Bénéfice activité partielle cumulée 2020 : 312 000 €.

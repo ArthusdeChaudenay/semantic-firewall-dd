@@ -1,0 +1,95 @@
+# NVIDIA NIM — Config de reprise
+# ================================
+# Pour reprendre l'intégration NVIDIA NIM, modifier .env avec les valeurs ci-dessous.
+
+OPENAI_BASE_URL=https://integrate.api.nvidia.com/v1
+OPENAI_API_KEY=<générer une nouvelle clé sur build.nvidia.com/settings>
+MODEL_NAME=writer/palmyra-fin-70b-32k   # recommandé pour factures financières
+
+# Modèles disponibles sur ce compte (listés le 22/06/2026) :
+#   upstage/solar-10.7b-instruct     --> seule choix trouve sur NVIDIA
+#   writer/palmyra-creative-122b
+#   writer/palmyra-fin-70b-32k       ← meilleur choix pour le benchmark
+#   writer/palmyra-med-70b
+#   writer/palmyra-med-70b-32k
+#   z-ai/glm-5.1
+#   zyphra/zamba2-7b-instruct
+
+# BLOCAGE RENCONTRÉ :
+#   Erreur 403/404 "Not found for account" sur tous les modèles.
+#   Cause : chaque modèle doit être activé individuellement sur build.nvidia.com.
+#
+# ÉTAPES POUR DÉBLOQUER :
+#   1. Aller sur build.nvidia.com/explore/models
+#   2. Chercher chaque modèle (ex: "palmyra-fin")
+#   3. Cliquer sur la fiche du modèle
+#   4. Cliquer "Get API Key" ou "Try this NIM" sur la page du modèle
+#      → cela active le modèle pour le compte
+#   5. Générer une nouvelle clé API et la mettre dans .env
+#   6. Tester avec :
+#      .\\venv\\Scripts\\python.exe -c "
+#      from openai import OpenAI; import os; from dotenv import load_dotenv
+#      load_dotenv()
+#      client = OpenAI(base_url=os.getenv('OPENAI_BASE_URL'), api_key=os.getenv('OPENAI_API_KEY'))
+#      r = client.chat.completions.create(model=os.getenv('MODEL_NAME'), messages=[{'role':'user','content':'OK'}], max_tokens=5)
+#      print(r.choices[0].message.content)
+#      "
+
+
+
+
+from fastapi import BackgroundTasks, UploadFile, File
+import requests
+
+# (Assure-toi que certify_document_from_bytes est bien importé depuis pipeline.py)
+
+def send_workflow_alert(filename: str, report: dict):
+    """
+    Fonction qui pousse l'alerte vers Teams, Slack ou Airtable.
+    Elle est exécutée en tâche de fond.
+    """
+    # Si le document est parfait, on ne spamme pas les analystes
+    if report.get("statut") == "CERTIFIÉ":
+        print(f"✅ {filename} est clean. Aucune alerte envoyée.")
+        return
+
+    # Extraction des erreurs détectées par ton pare-feu
+    anomalies = report.get("anomalies", ["Dérive sémantique ou erreur inconnue"])
+    anomalies_texte = "\n- ".join(anomalies)
+
+    # Exemple de payload pour Microsoft Teams (via Webhook entrant)
+    webhook_url = "TON_LIEN_WEBHOOK_TEAMS_ICI" # À remplacer par le vrai lien
+    
+    message = {
+        "title": f"🚨 Alerte Due Diligence Pare-feu : {filename}",
+        "text": f"Le modèle a bloqué ce document.\n\n**Anomalies détectées :**\n- {anomalies_texte}"
+    }
+    
+    # Envoi de la requête HTTP au workflow
+    try:
+        # requests.post(webhook_url, json=message) # Décommente pour la vraie prod
+        print(f"--> [SIMULATION RÉSEAU] Alerte envoyée au workflow pour {filename}")
+        print(message)
+    except Exception as e:
+        print(f"Erreur lors de l'envoi de l'alerte : {e}")
+
+@app.post("/webhook/ingest", tags=["Connecteur Réseau"])
+async def ingest_from_vdr(background_tasks: BackgroundTasks, file: UploadFile = File(...)):
+    """
+    Endpoint appelé automatiquement par la VDR ou SharePoint 
+    dès qu'un nouveau fichier financier est déposé.
+    """
+    # 1. Lecture du fichier en mémoire
+    content = await file.read()
+    
+    # 2. Passage dans le Pare-feu Sémantique
+    report = certify_document_from_bytes(content, file.filename)
+    
+    # 3. Déclenchement de l'alerte de manière asynchrone
+    background_tasks.add_task(send_workflow_alert, file.filename, report)
+    
+    return {
+        "message": "Fichier intercepté avec succès. L'analyse est terminée et l'alerte a été routée.",
+        "fichier": file.filename,
+        "statut_parefeu": report.get("statut")
+    }

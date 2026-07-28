@@ -1,0 +1,67 @@
+BILAN CONSOLIDÉ — NORMES IFRS
+Société     : Michelin Technologies SE
+Date        : 31/12/2023
+Secteur     : Industrie — Groupe coté CAC 40
+Source      : Inspiration FinNLP 2020 — dérive synchronique IFRS vs GAAP français
+
+Contexte : Reporting groupe en normes IFRS 9/15/16. Goodwill net d'impairment test.
+Droits d'utilisation IFRS 16 (leases) activés au bilan.
+Instruments financiers classifiés FVOCI / FVTPL / coût amorti.
+
+════════════════════════════════════════════════════════════════
+ACTIF
+════════════════════════════════════════════════════════════════
+Actif non courant (immobilisé)
+  Goodwill et écarts d'acquisition              :   10 000 000,00 €
+  Immobilisations incorporelles à durée indéfinie:    8 000 000,00 €
+    dont marques & brevets (durée indéfinie)    :    6 000 000,00 €
+  Immobilisations corporelles                    :    7 000 000,00 €
+  Droits d'utilisation (IFRS 16 — leases)        :    5 000 000,00 €
+  Instruments financiers FVOCI                   :    5 000 000,00 €
+Total actif non courant                          :   35 000 000,00 €
+
+Actif courant (circulant)
+  Créances clients (nettes provision ECL)        :    9 000 000,00 €
+  Stocks et en-cours                             :    7 000 000,00 €
+  Autres actifs courants                         :    4 000 000,00 €
+Total actif courant                              :   20 000 000,00 €
+
+Trésorerie et équivalents                        :    5 000 000,00 €
+
+TOTAL ACTIF                                      :   60 000 000,00 €
+
+════════════════════════════════════════════════════════════════
+PASSIF
+════════════════════════════════════════════════════════════════
+Capitaux propres consolidés
+  Capital et primes                              :   12 000 000,00 €
+  Résultats non distribués (retained earnings)  :    7 000 000,00 €
+  Autres éléments du résultat global (OCI)       :    3 000 000,00 €
+    dont réévaluation instruments FVOCI         :    1 200 000,00 €
+    dont écarts actuariels (IAS 19)              :   (1 200 000,00) €
+    dont écarts de conversion                   :    3 000 000,00 €
+Total capitaux propres                           :   22 000 000,00 €
+
+Passifs non courants
+  Emprunts obligataires                          :   16 000 000,00 €
+  Passifs de location (IFRS 16 — non courant)   :    4 000 000,00 €
+  Provisions pour avantages au personnel (IAS 19):    4 000 000,00 €
+  Impôts différés passifs (IDA / IDL)            :    4 000 000,00 €
+Total passifs non courants                       :   28 000 000,00 €
+
+Passifs courants
+  Dettes fournisseurs                            :    5 000 000,00 €
+  Passifs de location courants (IFRS 16)         :    1 000 000,00 €
+  Autres passifs courants                        :    4 000 000,00 €
+Total passifs courants                           :   10 000 000,00 €
+
+TOTAL PASSIF                                     :   60 000 000,00 €
+
+════════════════════════════════════════════════════════════════
+NOTE — TEST DE DÉPRÉCIATION (IAS 36)
+════════════════════════════════════════════════════════════════
+  Goodwill soumis à impairment test annuel.
+  Valeur recouvrable (valeur d'utilité) : 11 200 000 €
+  Aucune perte de valeur (impairment loss) comptabilisée en 2023.
+  Sensibilité : une hausse de 100 bp du WACC entraînerait
+  un impairment de 1 800 000 €.

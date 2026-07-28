@@ -1,0 +1,46 @@
+INCOME STATEMENT — FY2024 H1 (10-Q)
+Company     : Microsoft Corporation (MSFT)
+Period      : January 1 – December 31, 2023 (FY2024 H1)
+Source      : FNSPID dataset — SEC 10-Q filing, S&P 500 Information Technology sector
+
+======================================================================
+REVENUE BY SEGMENT
+======================================================================
+  Productivity and Business Processes  :     $38,296M
+  Intelligent Cloud                    :     $54,072M
+  More Personal Computing              :     $25,136M
+  Total Revenue                        :    $117,504M
+
+======================================================================
+OPERATING EXPENSES
+======================================================================
+  Cost of Revenue                      :     $37,414M
+  Gross Profit                         :     $80,090M   (Gross Margin: 68.2%)
+
+  Research and Development             :     $15,138M
+  Sales and Marketing                  :     $11,591M
+  General and Administrative           :      $3,382M
+  Total Operating Expenses             :     $67,525M
+
+  Operating Income (EBIT)              :     $49,979M   (EBIT Margin: 42.5%)
+
+======================================================================
+BELOW-THE-LINE ITEMS
+======================================================================
+  Interest and Other Income            :      $2,534M
+  Income Before Tax                    :     $52,513M
+  Provision for Income Taxes           :      $8,552M
+  Effective Tax Rate                   :         16.3%
+  Net Income                           :     $43,961M
+
+======================================================================
+PER SHARE DATA & METRICS (FNSPID consensus)
+======================================================================
+  EPS (diluted)                        :          $5.90
+  Weighted-avg diluted shares          :   7,454,000K
+  EBITDA                               :     $57,215M   (margin: 48.7%)
+  Azure & Cloud Services revenue growth:         +28% YoY
+  AI-driven incremental ARR            :         ~$1.1B
+  Analyst consensus rating             :         Strong Buy (47/52 analysts)
+  Price Target (median)                :        $415.00
+  Revenue Guidance (next quarter)      :     $60,500M – $61,500M

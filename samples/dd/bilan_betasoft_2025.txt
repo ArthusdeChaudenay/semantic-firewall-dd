@@ -1,0 +1,30 @@
+BILAN SIMPLIFIÉ
+Entreprise : BetaSoft SAS
+Exercice    : 2025
+
+════════════════════════════════════════════════════
+ACTIF
+════════════════════════════════════════════════════
+Actif immobilisé                :  1 800 000,00 €
+  Immobilisations corporelles   :  1 100 000,00 €
+  Immobilisations incorporelles :    700 000,00 €
+Actif circulant                 :  1 300 000,00 €
+  Créances clients              :    950 000,00 €
+  Stocks et en-cours            :    350 000,00 €
+Trésorerie et équivalents       :    700 000,00 €
+
+TOTAL ACTIF                     :  3 800 000,00 €
+
+════════════════════════════════════════════════════
+PASSIF
+════════════════════════════════════════════════════
+Capitaux propres                :  2 200 000,00 €
+  Capital social                :    500 000,00 €
+  Réserves et report à nouveau  :  1 200 000,00 €
+  Résultat de l'exercice        :    500 000,00 €
+Dettes financières              :    900 000,00 €
+  Emprunts bancaires à LT       :    900 000,00 €
+Dettes d'exploitation           :    700 000,00 €
+  Fournisseurs et dettes        :    700 000,00 €
+
+TOTAL PASSIF                    :  3 800 000,00 €

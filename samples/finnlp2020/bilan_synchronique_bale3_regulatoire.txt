@@ -1,0 +1,59 @@
+BILAN PRUDENTIEL — REPORTING BÂLE III
+Société     : Crédit Régional SAS
+Date        : 31/12/2023
+Secteur     : Banque — Établissement de crédit régional
+Source      : Inspiration FinNLP 2020 — dérive synchronique post-crise réglementaire
+
+Contexte : Reporting prudentiel Bâle III / CRR2. Ratio CET1 cible : 12 %.
+Actifs pondérés des risques (RWA) : 58 333 000 €
+Ratio LCR (Liquidity Coverage Ratio) : 142 %
+Ratio NSFR (Net Stable Funding Ratio) : 113 %
+Buffer de conservation CET1 : 2,5 %
+
+════════════════════════════════════════════════════════════════
+ACTIF
+════════════════════════════════════════════════════════════════
+Actif immobilisé
+  Expositions crédit long terme (pondération 100%)  :    6 000 000,00 €
+  Participations et titres de placement             :    2 000 000,00 €
+Total actif immobilisé                              :    8 000 000,00 €
+
+Actif circulant
+  Portefeuille de négociation (trading book)        :   15 000 000,00 €
+  Créances interbancaires (pondération 20%)         :   25 000 000,00 €
+  Autres expositions bilan                          :    5 000 000,00 €
+Total actif circulant                               :   45 000 000,00 €
+
+Trésorerie (actifs liquides HQLA — buffer LCR)      :   17 000 000,00 €
+
+TOTAL ACTIF                                         :   70 000 000,00 €
+
+════════════════════════════════════════════════════════════════
+PASSIF
+════════════════════════════════════════════════════════════════
+Fonds propres prudentiels
+  CET1 (Common Equity Tier 1)                       :    7 000 000,00 €
+  AT1 (Additional Tier 1 — instruments hybrides)    :    1 400 000,00 €
+Total capitaux propres (Tier 1 + AT2)               :    8 400 000,00 €
+
+Dettes financières
+  Obligations senior (MREL eligible)                :   18 000 000,00 €
+  Refinancement BCE (TLTRO III)                     :   12 000 000,00 €
+  Dépôts interbancaires                             :   10 000 000,00 €
+Total dettes financières                            :   40 000 000,00 €
+
+Dettes d'exploitation
+  Dépôts clientèle (passif stable NSFR)             :   17 000 000,00 €
+  Autres passifs de bilan                           :    4 600 000,00 €
+Total dettes d'exploitation                         :   21 600 000,00 €
+
+TOTAL PASSIF                                        :   70 000 000,00 €
+
+════════════════════════════════════════════════════════════════
+RATIOS PRUDENTIELS BÂLE III (stress test EBA 2023)
+════════════════════════════════════════════════════════════════
+  CET1 ratio                           :          12,0 %
+  Tier 1 ratio                         :          14,0 %
+  Ratio de levier (leverage ratio)     :           9,5 %
+  LCR                                  :         142,0 %
+  NSFR                                 :         113,0 %

@@ -1,0 +1,34 @@
+FACTURE N° CAB-MARTIN-2024-Q3-018
+Date facture     : 30/09/2024
+Date d'échéance : 31/10/2024
+
+Prestataire : Cabinet d'expertise comptable Martin & Associés
+N° SIRET    : 423 567 890 00014
+N° TVA      : FR28423567890
+Adresse     : 45 avenue des Ternes, 75017 Paris
+Ordre       : Inscrit à l'OEC Paris Île-de-France
+
+Client : Mécatech Industries SAS
+N° SIRET : 789 123 456 00018
+Adresse  : ZI de la Clairière, 69800 Saint-Priest
+
+DÉTAIL DES HONORAIRES — 3ème TRIMESTRE 2024
+────────────────────────────────────────────────────────────────
+Tenue de comptabilité (forfait mensuel)
+  3 mois × 1 200,00 €                    :    3 600,00 €
+Déclarations TVA trimestrielles
+  1 déclaration × 180,00 €               :      180,00 €
+Charges sociales et DSN
+  3 mois × 250,00 €                      :      750,00 €
+Secrétariat juridique (AG ordinaire)     :      350,00 €
+Révision des comptes intermédiaires      :      820,00 €
+────────────────────────────────────────────────────────────────
+Sous-total honoraires                    :    5 700,00 €
+
+Montant HT   :    5 700,00 €
+TVA (20 %)   :    1 140,00 €
+Montant TTC  :    6 840,00 €
+
+Devise       : EUR
+Mode de règlement : Virement bancaire
+IBAN         : FR76 3005 6009 0914 0200 1401 742

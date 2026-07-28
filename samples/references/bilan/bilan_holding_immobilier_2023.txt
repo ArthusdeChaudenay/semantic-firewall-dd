@@ -1,0 +1,51 @@
+BILAN CONSOLIDÉ
+Groupe : Patrimoine Immobilier Développement SA (holding)
+Exercice : 31 décembre 2023
+Normes : PCG consolidation simplifiée — en euros
+
+════════════════════════════════════════════════════════════════
+ACTIF
+════════════════════════════════════════════════════════════════
+Actif immobilisé                         : 28 417 000,00 €
+  Immobilisations corporelles            : 24 812 000,00 €
+    Terrains                             :  8 400 000,00 €
+    Constructions (valeur brute)         : 19 217 000,00 €
+    Amortissements des constructions     : -2 805 000,00 €
+  Titres de participation (filiales)     :  3 418 000,00 €
+  Créances rattachées à participations   :    187 000,00 €
+Actif circulant                          :  2 817 000,00 €
+  Clients et comptes rattachés (loyers)  :    412 000,00 €
+  Autres créances (dépôts de garantie)   :    518 000,00 €
+  Charges constatées d'avance            :    187 000,00 €
+  Créances fiscales                      :    412 000,00 €
+  Valeurs mobilières de placement        :  1 288 000,00 €
+Trésorerie et équivalents                :    814 000,00 €
+
+TOTAL ACTIF                              : 32 048 000,00 €
+
+════════════════════════════════════════════════════════════════
+PASSIF
+════════════════════════════════════════════════════════════════
+Capitaux propres                         :  8 217 000,00 €
+  Capital social                         :  1 000 000,00 €
+  Réserves                               :  5 614 000,00 €
+  Résultat de l'exercice                 :  1 603 000,00 €
+Provisions pour risques et charges       :    412 000,00 €
+Dettes financières long terme            : 19 814 000,00 €
+  Emprunts immobiliers bancaires         : 16 412 000,00 €
+  Emprunts filiales intra-groupe         :  3 402 000,00 €
+Dettes d'exploitation courantes          :  3 605 000,00 €
+  Dettes fournisseurs et prestataires    :    812 000,00 €
+  Dépôts de garantie locataires          :  1 214 000,00 €
+  Dettes fiscales et sociales            :    417 000,00 €
+  Autres dettes courantes                :  1 162 000,00 €
+
+TOTAL PASSIF                             : 32 048 000,00 €
+
+════════════════════════════════════════════════════════════════
+RATIOS CLÉS
+════════════════════════════════════════════════════════════════
+Loan-to-Value (LTV)                      :         61,8 %
+Taux d'occupation moyen du parc          :         94,2 %
+Rendement net locatif                    :          4,7 %
+Dette nette / valeur parc immobilier     :          0,62

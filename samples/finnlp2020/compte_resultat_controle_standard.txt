@@ -1,0 +1,29 @@
+COMPTE DE RÉSULTAT CONSOLIDÉ — EXERCICE 2023
+Société     : Services Pro SAS
+Date        : 31/12/2023
+Secteur     : Services aux entreprises
+Source      : Inspiration FinNLP 2020 — contrôle (vocabulaire DD standard)
+
+Contexte : Entreprise de services B2B, vocabulaire comptable standard.
+Pas de terminologie sectorielle spécifique — sert de ligne de base.
+
+════════════════════════════════════════════════════════════════
+RÉSULTAT D'EXPLOITATION
+════════════════════════════════════════════════════════════════
+  Chiffre d'affaires                   :    2 400 000,00 €
+  Charges de personnel                 :      960 000,00 €
+  Autres charges d'exploitation        :      720 000,00 €
+  ──────────────────────────────────────────────────────────
+  EBITDA                               :      720 000,00 €
+    Taux de marge EBITDA               :           30,0 %
+
+  Dotations aux amortissements (D&A)   :      144 000,00 €
+  ──────────────────────────────────────────────────────────
+  EBIT (Résultat d'exploitation)       :      576 000,00 €
+
+  Charges financières nettes           :       57 600,00 €
+
+  Résultat avant impôt (EBT)           :      518 400,00 €
+  Impôt sur les sociétés (IS — 25 %)   :      129 600,00 €
+  ──────────────────────────────────────────────────────────
+  Résultat net de l'exercice           :      388 800,00 €

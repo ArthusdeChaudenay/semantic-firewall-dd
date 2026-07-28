@@ -1,0 +1,35 @@
+CAPITALIZATION TABLE — SERIES B PREFERRED FINANCING
+Company: NovaTech AI Inc.
+Date: January 10, 2025
+Pre-Money Valuation: $85,000,000
+Round Size: $20,000,000
+Post-Money Valuation: $105,000,000
+
+SHAREHOLDER BREAKDOWN
+                                Shares          % Pre    % Post
+Common Stock
+  Founders (3 persons)       5,000,000         55.0%     44.2%
+  Employee Stock Pool (ESOP) 1,100,000         12.1%      9.7%
+  Early Employees              400,000          4.4%      3.5%
+  Total Common              6,500,000         71.4%     57.4%
+
+Preferred Stock
+  Seed Investors (2022)        800,000          8.8%      7.1%
+  Series A Investors (2023)  1,300,000         14.3%     11.5%
+  Series B Investors (2025)  2,500,000            —      22.1%
+  Total Preferred            4,600,000         23.1%     40.7%
+
+Warrants & Options (unissued)
+  Outstanding warrants         250,000          2.7%      2.2%
+  Options reserved             750,000          8.2%      6.6%
+  Total dilutive             1,000,000         11.0%      8.8%
+
+TOTAL FULLY DILUTED         11,300,000        100.0%    106.2%
+
+Price per share (Series B):   $8.00
+Liquidation preference: 1x non-participating
+Anti-dilution: broad-based weighted average
+Ownership threshold for pro-rata rights: 5%
+
+Lead investor: Sequoia Capital — $12,000,000
+Co-investors: a16z — $5,000,000 ; Tiger Global — $3,000,000

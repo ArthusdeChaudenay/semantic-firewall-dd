@@ -1,0 +1,49 @@
+BILAN CONSOLIDÉ
+Groupe : TotalEnergies SE
+Exercice : 31 décembre 2023
+Normes : IFRS — en millions USD
+
+════════════════════════════════════════════════════════════════
+ACTIF
+════════════════════════════════════════════════════════════════
+Actif immobilisé                         :    185 412,00 M$
+  Immobilisations corporelles nettes     :    108 723,00 M$
+  Immobilisations incorporelles          :      6 845,00 M$
+  Droits d'exploration et évaluation     :     14 217,00 M$
+  Participations dans les coentreprises  :     25 601,00 M$
+  Actifs financiers non courants         :     30 026,00 M$
+Actif circulant                          :     66 814,00 M$
+  Stocks (pétrole, produits raffinés)    :     20 305,00 M$
+  Créances clients                       :     24 619,00 M$
+  Autres créances et dérivés             :     21 890,00 M$
+Trésorerie et équivalents                :     32 017,00 M$
+
+TOTAL ACTIF                              :    284 243,00 M$
+
+════════════════════════════════════════════════════════════════
+PASSIF
+════════════════════════════════════════════════════════════════
+Capitaux propres (part du groupe)        :    106 321,00 M$
+  Capital social                         :      6 512,00 M$
+  Réserves consolidées                   :     74 618,00 M$
+  Résultat net part du groupe            :     19 819,00 M$
+  Réserves de conversion et couverture   :      5 372,00 M$
+Intérêts minoritaires                    :      3 917,00 M$
+Dettes financières long terme            :     51 204,00 M$
+  Emprunts et dettes obligataires LT     :     44 618,00 M$
+  Dettes de loyer long terme             :      6 586,00 M$
+Provisions pour démantèlement et retraite:     23 814,00 M$
+Passifs d'impôts différés                :     19 624,00 M$
+Dettes d'exploitation courantes          :     79 363,00 M$
+  Dettes fournisseurs                    :     27 415,00 M$
+  Dettes financières court terme         :     14 812,00 M$
+  Autres dettes et produits dérivés      :     37 136,00 M$
+
+TOTAL PASSIF                             :    284 243,00 M$
+
+════════════════════════════════════════════════════════════════
+RATIOS CLÉS
+════════════════════════════════════════════════════════════════
+Gearing (dette nette / capitaux propres) :          0,15
+Ratio de liquidité courante              :          0,84
+Retour sur capitaux propres (ROE)        :         18,6 %

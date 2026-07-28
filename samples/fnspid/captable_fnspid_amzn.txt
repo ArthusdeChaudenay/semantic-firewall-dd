@@ -1,0 +1,50 @@
+EQUITY STRUCTURE & CAPITAL ALLOCATION — FY2023 PROXY STATEMENT
+Company     : Amazon.com Inc. (AMZN)
+Date        : March 15, 2023
+Source      : FNSPID dataset — SEC DEF 14A (Proxy Statement), S&P 500 Consumer Discretionary sector
+
+======================================================================
+SHARE STRUCTURE (as of February 28, 2023)
+======================================================================
+  Class A Common Stock authorized      :  24,000,000,000 shares
+  Class A Common Stock outstanding     :  10,264,316,028 shares
+  Weighted-avg diluted shares (FY2022) :  10,189,000,000 shares
+  Par value per share                  :              $0.01
+  Closing price (Dec 31, 2022)         :            $84.00
+  Implied Market Capitalization        :      $862,200M
+
+======================================================================
+OWNERSHIP BREAKDOWN (approximate, beneficial holders)
+======================================================================
+  Institutional Investors              :             57.8%
+  Jeff Bezos (founder, ~10.5B shares)  :              9.1%
+  Employee RSU & Stock Award Plans     :              4.6%
+  Public Float (retail + other)        :             28.5%
+  ------------------------------------------
+  TOTAL                                :            100.0%
+
+======================================================================
+EXECUTIVE COMPENSATION (top 5 NEOs — FNSPID disclosure)
+======================================================================
+  Andy Jassy (CEO)                     :           $1,300K salary + $212M RSU
+  Brian Olsavsky (CFO)                 :           $1,200K salary +  $38M RSU
+  Adam Selipsky (AWS CEO)              :           $1,200K salary +  $56M RSU
+  Dave Clark (Consumer CEO)            :            $350K salary +  $49M RSU
+  David Zapolsky (SVP Legal)           :           $1,700K salary +  $28M RSU
+
+======================================================================
+SHARE REPURCHASE PROGRAM
+======================================================================
+  Board-authorized buyback program     :        $10,000M
+  Shares repurchased FY2022            :    56,100,000 shares
+  Average repurchase price             :            $131.45
+  Total buyback spend FY2022           :          $7,375M
+  Remaining authorization (Dec 2022)   :          $2,625M
+
+======================================================================
+DILUTION & EQUITY AWARDS OUTSTANDING
+======================================================================
+  Outstanding RSUs (unvested)          :   178,000,000 shares
+  Outstanding stock options             :     4,300,000 shares
+  Equity plan shares available          :   200,000,000 shares
+  Total potential dilution              :             3.7%

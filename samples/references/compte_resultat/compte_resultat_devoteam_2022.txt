@@ -1,0 +1,33 @@
+COMPTE DE RÉSULTAT CONSOLIDÉ
+Groupe : Devoteam SA
+Exercice : 31 décembre 2022
+Normes : IFRS — en milliers d'euros
+
+════════════════════════════════════════════════════════════════
+Chiffre d'affaires                       :  1 102 417,00 K€
+Charges de sous-traitance                :   -187 614,00 K€
+Charges de personnel (collaborateurs)    :   -614 218,00 K€
+Charges externes et frais généraux       :   -122 417,00 K€
+                                           ─────────────────
+EBITDA                                   :    178 168,00 K€
+Dotations aux amortissements             :    -19 814,00 K€
+Amortissements droits d'utilisation IFRS :    -34 217,00 K€
+                                           ─────────────────
+EBIT (Résultat d'exploitation courant)   :    124 137,00 K€
+Résultat des cessions et éléments non-rép:     -4 214,00 K€
+                                           ─────────────────
+Résultat d'exploitation                  :    119 923,00 K€
+Coût de l'endettement financier net      :     -2 814,00 K€
+Autres produits et charges financiers    :      1 217,00 K€
+                                           ─────────────────
+Résultat avant impôt (EBT)              :    118 326,00 K€
+Impôt sur les sociétés                   :    -31 814,00 K€
+                                           ─────────────────
+Résultat net                             :     86 512,00 K€
+  dont part du groupe                    :     84 214,00 K€
+  dont intérêts minoritaires             :      2 298,00 K€
+════════════════════════════════════════════════════════════════
+Marge EBITDA                             :         16,2 %
+Marge EBIT courant                       :         11,3 %
+Marge nette (part groupe)                :          7,6 %
+Taux de croissance organique             :         17,4 %

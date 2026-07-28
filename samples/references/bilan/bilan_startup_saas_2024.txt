@@ -1,0 +1,49 @@
+BILAN CONSOLIDÉ
+Entreprise : CloudOps SAS (startup SaaS B2B)
+Exercice : 31 décembre 2024
+Normes : PCG — en euros
+
+════════════════════════════════════════════════════════════════
+ACTIF
+════════════════════════════════════════════════════════════════
+Actif immobilisé                         :  1 842 000,00 €
+  Immobilisations incorporelles          :  1 214 000,00 €
+    Frais de développement capitalisés   :    987 000,00 €
+    Logiciels développés en interne      :    227 000,00 €
+  Immobilisations corporelles            :    428 000,00 €
+    Serveurs et infrastructure           :    312 000,00 €
+    Matériel informatique                :    116 000,00 €
+  Dépôts et cautionnements              :    200 000,00 €
+Actif circulant                          :  2 814 000,00 €
+  Créances clients (abonnements SaaS)    :  1 987 000,00 €
+  Charges constatées d'avance            :    312 000,00 €
+  Créances État (CIR, TVA)               :    515 000,00 €
+Trésorerie et équivalents                :  3 412 000,00 €
+
+TOTAL ACTIF                              :  8 068 000,00 €
+
+════════════════════════════════════════════════════════════════
+PASSIF
+════════════════════════════════════════════════════════════════
+Capitaux propres                         :  4 812 000,00 €
+  Capital social                         :  2 000 000,00 €
+  Primes d'émission (levée Série A)      :  3 412 000,00 €
+  Report à nouveau                       : -1 214 000,00 €
+  Résultat de l'exercice                 :    614 000,00 €
+Dettes financières                       :    987 000,00 €
+  Obligations convertibles (OCA)         :    512 000,00 €
+  Emprunts garantis État (PGE)           :    475 000,00 €
+Dettes d'exploitation                    :  2 269 000,00 €
+  Produits constatés d'avance (ARR)      :  1 412 000,00 €
+  Dettes fournisseurs                    :    412 000,00 €
+  Dettes sociales et fiscales            :    445 000,00 €
+
+TOTAL PASSIF                             :  8 068 000,00 €
+
+════════════════════════════════════════════════════════════════
+RATIOS CLÉS
+════════════════════════════════════════════════════════════════
+ARR (Annual Recurring Revenue)           :  4 217 000,00 €
+Trésorerie nette                         :  2 425 000,00 €
+Runway estimé (au taux de burn actuel)   :        18 mois
+Ratio dette / capitaux propres           :          0,20

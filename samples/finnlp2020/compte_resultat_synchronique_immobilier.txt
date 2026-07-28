@@ -1,0 +1,57 @@
+COMPTE DE RÉSULTAT — SOCIÉTÉ FONCIÈRE
+Société     : Foncière Paris Est SAS
+Date        : 31/12/2023
+Secteur     : Immobilier — Gestion de patrimoine locatif
+Source      : Inspiration FinNLP 2020 — dérive synchronique secteur immobilier
+
+Contexte : Portefeuille de 40 lots locatifs (bureaux + locaux commerciaux).
+Taux d'occupation physique : 91,0 % — Surface totale : 4 200 m²
+Loyer moyen pondéré : 8 000 €/mois/lot — Rendement brut : 8,2 %
+Valorisation patrimoniale (expertise annuelle) : 43 900 000 €
+
+════════════════════════════════════════════════════════════════
+PRODUITS LOCATIFS ET FONCIERS
+════════════════════════════════════════════════════════════════
+  Loyers bruts facturés (revenus locatifs)      :    3 600 000,00 €
+    dont bureaux (2 800 m² occupés)             :    2 160 000,00 €
+    dont locaux commerciaux (1 022 m²)          :    1 440 000,00 €
+  Charges locatives refacturées aux locataires  :      432 000,00 €
+  Indemnités d'occupation et rétrocessions      :       48 000,00 €
+  ──────────────────────────────────────────────────────────
+  Chiffre d'affaires total                      :    3 600 000,00 €
+
+════════════════════════════════════════════════════════════════
+CHARGES D'EXPLOITATION
+════════════════════════════════════════════════════════════════
+  Charges de personnel (gérance, gestion)       :      720 000,00 €
+  Autres charges d'exploitation                 :    1 080 000,00 €
+    Charges locatives non refacturées (vacance) :      324 000,00 €
+    Frais de gestion locative (honoraires)      :      216 000,00 €
+    Entretien et réparations du patrimoine      :      360 000,00 €
+    Assurances PNO et responsabilité civile     :      180 000,00 €
+  ──────────────────────────────────────────────────────────
+  EBITDA (revenu net locatif)                   :    1 800 000,00 €
+    Taux de marge EBITDA (rendement net)        :           50,0 %
+
+  Dotations aux amortissements (D&A)            :      540 000,00 €
+    Amortissement du patrimoine bâti            :      432 000,00 €
+    Amortissement des agencements               :      108 000,00 €
+  ──────────────────────────────────────────────────────────
+  EBIT (résultat foncier d'exploitation)        :    1 260 000,00 €
+
+  Charges financières nettes                    :      504 000,00 €
+    Intérêts emprunts immobiliers               :      504 000,00 €
+
+  Résultat avant impôt (EBT)                   :      756 000,00 €
+  Impôt sur les sociétés (régime foncier)       :       75 600,00 €
+  ──────────────────────────────────────────────────────────
+  Résultat net de l'exercice                    :      680 400,00 €
+
+════════════════════════════════════════════════════════════════
+INDICATEURS FONCIERS (FinNLP 2020 — drift synchronique)
+════════════════════════════════════════════════════════════════
+  Rendement locatif brut                        :           8,2 %
+  Rendement locatif net (après charges)         :           5,5 %
+  Taux de vacance financière                    :           9,0 %
+  Durée résiduelle des baux (WALB)              :       4,2 ans
+  Valor. patrimoniale / fonds propres (LTV)     :          72,0 %

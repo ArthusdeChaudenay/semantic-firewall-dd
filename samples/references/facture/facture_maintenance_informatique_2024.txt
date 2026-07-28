@@ -1,0 +1,33 @@
+FACTURE N° ITSERV-2024-NOV-00234
+Date facture     : 30/11/2024
+Date d'échéance : 30/12/2024
+
+Prestataire : InfoSys Maintenance SARL
+N° SIRET    : 507 891 234 00033
+N° TVA      : FR93507891234
+Adresse     : 21 rue de la Technologie, 31670 Labège
+
+Client : Mécatech Industries SAS
+N° SIRET : 789 123 456 00018
+N° contrat de maintenance : MSP-MEC-2022-001
+
+FACTURATION MENSUELLE NOVEMBRE 2024
+────────────────────────────────────────────────────────────────
+Contrat MCO (Maintien en Conditions Opérat.)
+  Surveillance 24/7 infrastructure réseau :      980,00 €
+  Administration postes de travail (62)   :      930,00 €
+  Gestion serveurs Windows/Linux (8 srv)  :    1 200,00 €
+  Sauvegardes et PRA (Plan de Reprise)    :      480,00 €
+Interventions hors contrat
+  Remplacement switch défaillant (pièces) :      312,00 €
+  2h intervention urgence 15/11/2024      :      280,00 €
+────────────────────────────────────────────────────────────────
+Sous-total prestations                   :    4 182,00 €
+
+Montant HT   :    4 182,00 €
+TVA (20 %)   :      836,40 €
+Montant TTC  :    5 018,40 €
+
+Mode de règlement : Prélèvement SEPA
+IBAN créancier : FR76 3006 6000 9108 0910 1000 210
+Référence contrat : MSP-MEC-2022-001-NOV2024

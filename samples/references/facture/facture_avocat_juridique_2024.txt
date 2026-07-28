@@ -1,0 +1,37 @@
+FACTURE N° CAB-LECLERC-2024-138
+Date facture     : 20/11/2024
+Date d'échéance : 20/12/2024
+
+Prestataire : Cabinet Leclerc & Partenaires — Avocats d'affaires
+N° SIRET    : 381 234 567 00005
+N° TVA      : FR64381234567
+Barreau     : Paris — N° d'ordre : P12345
+Adresse     : 86 boulevard Haussmann, 75008 Paris
+
+Client : PayStream Technologies SAS
+N° SIRET : 812 456 789 00014
+Adresse  : 14 rue de la Victoire, 75009 Paris
+
+Dossier : Levée de fonds Série B — Due diligence juridique
+
+ÉTAT DE FRAIS — OCTOBRE/NOVEMBRE 2024
+────────────────────────────────────────────────────────────────
+Audit juridique (pacte d'actionnaires)   :
+  12,5 h × 480,00 €/h                   :    6 000,00 €
+Rédaction term sheet et SHA               :
+  8 h × 480,00 €/h                      :    3 840,00 €
+Revue contrats commerciaux clients (DD)  :
+  6 h × 480,00 €/h                      :    2 880,00 €
+Consultation droit des sociétés          :
+  2 h × 480,00 €/h                      :      960,00 €
+Frais de secrétariat et copies           :      180,00 €
+────────────────────────────────────────────────────────────────
+Sous-total honoraires                    :   13 860,00 €
+
+Montant HT   :   13 860,00 €
+TVA (20 %)   :    2 772,00 €
+Montant TTC  :   16 632,00 €
+
+Mode de règlement : Virement bancaire
+IBAN         : FR76 3000 4025 0101 0304 0201 762
+Référence dossier : 2024-PAYSTREAM-SB-042

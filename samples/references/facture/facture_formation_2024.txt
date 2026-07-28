@@ -1,0 +1,37 @@
+FACTURE N° FORM-2024-087
+Date facture     : 15/10/2024
+Date d'échéance : 14/11/2024
+
+Prestataire : Qualiforma SAS — Organisme de formation
+N° SIRET    : 834 567 234 00009
+N° TVA      : FR51834567234
+NDA (Déclaration d'activité) : 11 75 12345 75
+Adresse     : 3 rue de la Paix, 75002 Paris
+
+Client : Mécatech Industries SAS
+OPCO de référence : OPCO 2i (Industrie)
+N° SIRET : 789 123 456 00018
+
+Référence devis : DEV-2024-MEC-042
+
+DÉTAIL DE LA FORMATION
+────────────────────────────────────────────────────────────────
+Formation : ISO 9001:2015 — Auditeur interne qualité
+Dates      : 07/10/2024 et 08/10/2024 (2 jours)
+Lieu       : Intra-entreprise (site Saint-Priest)
+Stagiaires : 8 personnes
+
+Forfait formation intra-entreprise       :    4 800,00 €
+  Conception et animation (2 jours)      :    3 200,00 €
+  Support de cours et certificats        :      400,00 €
+  Frais de déplacement formateur         :      600,00 €
+  Plateforme e-learning 3 mois           :      600,00 €
+────────────────────────────────────────────────────────────────
+Sous-total formation                     :    4 800,00 €
+
+Montant HT   :    4 800,00 €
+TVA          :        0,00 € (exonération — formation professionnelle art. 261-4-4° CGI)
+Montant TTC  :    4 800,00 €
+
+Mode de règlement : Virement bancaire / prise en charge OPCO 2i possible
+IBAN         : FR76 1780 6000 3218 0730 0200 070

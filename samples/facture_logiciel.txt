@@ -1,0 +1,22 @@
+FACTURE
+Référence : LIC-2026-089
+Date d'émission : 10/06/2026
+Échéance : 25/06/2026
+
+Éditeur : SoftEdge Solutions SAS
+TVA intracommunautaire : FR87654321098
+Siège : 7 rue du Louvre, 75001 Paris
+
+Destinataire : BTP Groupe Bernard SA
+N° client : CLI-00342
+
+Désignation : Licence annuelle ERP BuildSmart v3
+Quantité : 1
+Prix unitaire HT : 3 200,00 €
+
+Sous-total HT :  3 200,00 €
+TVA 20 %      :    640,00 €
+Total TTC     :  3 840,00 €
+
+Devise : EUR
+Conditions : Paiement à 15 jours

@@ -1,0 +1,33 @@
+BILAN CONSOLIDÉ
+Entreprise : PharmaBio SA
+Exercice    : 2025
+
+════════════════════════════════════════════════════
+ACTIF
+════════════════════════════════════════════════════
+Actif immobilisé                :  8 000 000,00 €
+  Actifs de développement clinique phase III         :  5 000 000,00 €
+  Droits d'exploitation de brevets pharmaceutiques   :  2 500 000,00 €
+  Équipements et instruments de laboratoire          :    500 000,00 €
+Actif circulant                 :  3 000 000,00 €
+  Créances sur partenaires pharmaceutiques           :  2 000 000,00 €
+  Stocks de matières premières biologiques           :  1 000 000,00 €
+Trésorerie et équivalents       :  1 000 000,00 €
+
+TOTAL ACTIF                     : 12 000 000,00 €
+
+════════════════════════════════════════════════════
+PASSIF
+════════════════════════════════════════════════════
+Capitaux propres                :  9 000 000,00 €
+  Capital social                :  1 000 000,00 €
+  Primes d'émission série B     :  6 500 000,00 €
+  Résultat de l'exercice        :  1 500 000,00 €
+Dettes financières              :  2 000 000,00 €
+  Prêt BEI programme biotech    :  1 500 000,00 €
+  Dettes royalties sur licences :    500 000,00 €
+Autres dettes et provisions     :  1 000 000,00 €
+  Provisions pour essais cliniques :  700 000,00 €
+  Dettes fournisseurs laboratoire  :  300 000,00 €
+
+TOTAL PASSIF                    : 12 000 000,00 €

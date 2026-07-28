@@ -1,0 +1,25 @@
+TABLEAU DE CAPITALISATION — SÉRIE B
+Entreprise  : AlphaScale SAS
+Date        : 01/06/2025
+
+════════════════════════════════════════════════════════════════
+OPÉRATION
+════════════════════════════════════════════════════════════════
+Valorisation pré-money          :   15 000 000,00 €
+Montant levée Série B           :    5 000 000,00 €
+Valorisation post-money         :   20 000 000,00 €
+
+════════════════════════════════════════════════════════════════
+STRUCTURE DU CAPITAL
+════════════════════════════════════════════════════════════════
+Nombre total d'actions          :    2 000 000
+Prix par action (post-money)    :           10,00 €
+
+Répartition :
+  Fondateurs                    :         50,0 %
+  Investisseurs Série A         :         20,0 %
+  Investisseurs Série B         :         15,0 %
+  ESOP / BSA                    :         10,0 %
+  Business Angels (seed)        :          5,0 %
+  ────────────────────────────────────────────
+  TOTAL                         :        100,0 %

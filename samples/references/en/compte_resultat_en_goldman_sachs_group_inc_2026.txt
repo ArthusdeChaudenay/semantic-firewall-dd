@@ -1,0 +1,291 @@
+struments held in
+connection with the firm’s market-making or risk management
+activities. These instruments are carried at fair value and the
+related fair value gains and losses are recognized in the
+consolidated statements of earnings.
+In the table above:
+• Assets are shown as positive amounts and liabilities are
+shown as negative amounts.
+• Corporate debt instruments includes corporate loans, debt
+securities, convertible debentures, prepaid commodity
+transactions and transfers of assets accounted for as secured
+loans rather than purchases.
+• Other debt obligations includes other asset-backed securities
+and money market instruments.
+• Equity securities includes public equities and exchange-
+traded funds.
+See Note 4 for an overview of the firm’s fair value
+measurement policies, valuation techniques and significant
+inputs used to determine the fair value of trading cash
+instruments.
+Significant Unobservable Inputs. The table below
+presents the amount of level 3 trading cash instrument assets,
+and ranges and weighted averages of significant unobservable
+inputs used to value such trading cash instrument assets.
+As of December 2025 As of December 2024
+Amount or Weighted Amount or Weighted
+$ in millions Range Average Range Average
+Loans and securities backed by real estate
+Level 3 assets $ 155 $ 95
+3.1% to 7.2% to
+Yield 10.6% 11.5%
+45.1% 24.3%
+22.3% to 23.3% to
+Recovery rate 36.5% 50.9%
+62.5% 69.2%
+Duration
+0.3 to 9.0 3.4 1.9 to 12.1 3.7
+(years)
+Corporate debt instruments
+Level 3 assets $ 484 $ 728
+2.1% to 3.0% to
+Yield 8.0% 13.0%
+18.0% 35.9%
+4.1% to 6.8% to
+Recovery rate 32.3% 53.6%
+72.0% 69.0%
+Duration
+2.3 to 14.7 3.9 1.6 to 3.3 2.3
+(years)
+Other
+Level 3 assets $ 265 $ 390
+8.4% to 4.7% to
+Yield 17.5% 15.2%
+30.0% 37.9%
+Duration
+0.2 to 8.7 2.6 1.5 to 3.5 2.4
+(years)
+Goldman Sachs 2025 Form 10-K 155
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+In the table above: Level 3 Rollforward. The table below presents a summary of
+the changes in fair value for level 3 trading cash instruments.
+• Other includes government and agency obligations, state and
+municipal obligations, other debt obligations, equity
+Year Ended December
+securities and commodities.
+$ in millions 2025 2024
+• Ranges represent the significant unobservable inputs that
+Assets
+were used in the valuation of each type of trading cash
+Beginning balance $ 1,213 $ 1,791
+instrument.
+Net realized gains/(losses) 104 161
+• Weighted averages are calculated by weighting each input by
+Net unrealized gains/(losses) (11) 7
+the relative fair value of the trading cash instruments.
+Purchases 455 512
+• The ranges and weighted averages of these inputs are not Sales (356) (618)
+representative of the appropriate inputs to use when
+Settlements (498) (382)
+calculating the fair value of any one trading cash instrument.
+Transfers into level 3 119 222
+For example, the highest recovery rate for corporate debt
+Transfers out of level 3 (122) (480)
+instruments is appropriate for valuing a specific corporate
+Ending balance $ 904 $ 1,213
+debt instrument, but may not be appropriate for valuing any
+other corporate debt instrument. Accordingly, the ranges of
+Liabilities
+inputs do not represent uncertainty in, or possible ranges of,
+Beginning balance $ (75) $ (78)
+fair value measurements of level 3 trading cash instruments.
+Net realized gains/(losses) 4 4
+• Increases in yield or duration used in the valuation of level 3
+Net unrealized gains/(losses) (4) (25)
+trading cash instruments would have resulted in a lower fair
+Purchases 42 57
+value measurement, while an increase in recovery rate
+Sales (77) (43)
+would have resulted in a higher fair value measurement as of
+Settlements 1 1
+both December 2025 and December 2024. Due to the
+distinctive nature of each level 3 trading cash instrument, the Transfers into level 3 (16) (9)
+interrelationship of inputs is not necessarily uniform within Transfers out of level 3 6 18
+each product type. Ending balance $ (119) $ (75)
+• Trading cash instruments are valued using discounted cash
+In the table above:
+flows.
+• Changes in fair value are presented for all trading cash
+instruments that are classified in level 3 as of the end of the
+period.
+• Net unrealized gains/(losses) relates to trading cash
+instruments that were still held at period-end.
+• Transfers between levels of the fair value hierarchy are
+reported at the beginning of the reporting period in which
+they occur. If a trading cash instrument was transferred to
+level 3 during a reporting period, its entire gain or loss for
+the period is classified in level 3.
+• For level 3 trading cash instrument assets, increases are
+shown as positive amounts, while decreases are shown as
+negative amounts. For level 3 trading cash instrument
+liabilities, increases are shown as negative amounts, while
+decreases are shown as positive amounts.
+• Level 3 trading cash instruments are frequently economically
+hedged with level 1 and level 2 trading cash instruments
+and/or level 1, level 2 or level 3 derivatives. Accordingly,
+gains or losses that are classified in level 3 can be partially
+offset by gains or losses attributable to level 1 or level 2
+trading cash instruments and/or level 1, level 2 or level 3
+derivatives. As a result, gains or losses included in the level
+3 rollforward below do not necessarily represent the overall
+impact on the firm’s results of operations, liquidity or capital
+resources.
+156 Goldman Sachs 2025 Form 10-K
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+Level 3 Rollforward Commentary for the Year Ended
+The table below presents information, by product type, for
+December 2024. The net realized and unrealized gains on
+assets included in the summary table above.
+level 3 trading cash instrument assets of $168 million
+(reflecting $161 million of net realized gains and $7 million of
+Year Ended December
+net unrealized gains) for 2024 included gains of $100 million
+$ in millions 2025 2024
+reported in market making and $68 million reported in interest
+Loans and securities backed by real estate income.
+Beginning balance $ 95 $ 144
+The drivers of the net unrealized gains on level 3 trading cash
+Net realized gains/(losses) 5 18
+instrument assets for 2024 were not material.
+Net unrealized gains/(losses) 4 (11)
+Transfers into level 3 trading cash instrument assets during
+Purchases 57 37
+2024 primarily reflected transfers of certain corporate debt
+Sales (8) (33)
+instruments and certain other debt obligations (included in
+Settlements (10) (28)
+other cash instruments) from level 2 (in each case, principally
+Transfers into level 3 44 6 due to reduced price transparency as a result of a lack of
+Transfers out of level 3 (32) (38) market evidence, including fewer market transactions in these
+Ending balance $ 155 $ 95 instruments).
+Transfers out of level 3 trading cash instrument assets during
+Corporate debt instruments
+2024 primarily reflected transfers of certain corporate debt
+Beginning balance $ 728 $ 1,415
+instruments to level 2 (principally due to increased price
+Net realized gains/(losses) 88 87
+transparency as a result of market evidence, including market
+Net unrealized gains/(losses) 6 2
+transactions in these instruments).
+Purchases 281 253
+Sales (219) (389)
+Settlements (442) (327)
+Transfers into level 3 60 116
+Transfers out of level 3 (18) (429)
+Ending balance $ 484 $ 728
+Other
+Beginning balance $ 390 $ 232
+Net realized gains/(losses) 11 56
+Net unrealized gains/(losses) (21) 16
+Purchases 117 222
+Sales (129) (196)
+Settlements (46) (27)
+Transfers into level 3 15 100
+Transfers out of level 3 (72) (13)
+Ending balance $ 265 $ 390
+In the table above, other includes government and agency
+obligations, state and municipal obligations, other debt
+obligations, equity securities and commodities.
+Level 3 Rollforward Commentary for the Year Ended
+December 2025. The net realized and unrealized gains on
+level 3 trading cash instrument assets of $93 million
+(reflecting $104 million of net realized gains and $11 million
+of net unrealized losses) for 2025 included gains of $14
+million reported in market making and $79 million reported in
+interest income.
+The drivers of the net unrealized losses on level 3 trading cash
+instrument assets for 2025 were not material.
+The drivers of both transfers into and transfers out of level 3
+trading cash instrument assets during 2025 were not material.
+Goldman Sachs 2025 Form 10-K 157
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+Derivatives
+In the table above:
+Fair Value by Level. The table below presents derivatives on
+• Gross fair values exclude the effects of both counterparty
+a gross basis by level and product type, as well as the impact
+netting and collateral netting, and therefore are not
+of netting.
+representative of the firm’s exposure.
+• Counterparty netting is reflected in each level to the extent
+$ in millions Level 1 Level 2 Level 3 Total
+that receivable and payable balances are netted within the
+As of December same level and is included in counterparty netting in levels.
+2025
+Where the counterparty netting is across levels, the netting is
+Assets
+included in cross-level counterparty netting.
+Interest rates $ 6 $ 161,089 $ 618 $ 161,713
+• Assets are shown as positive amounts and liabilities are
+Credit – 11,305 2,470 13,775
+shown as negative amounts.
+Currencies – 79,714 80 79,794
+Commodities – 16,151 949 17,100 See Note 4 for an overview of the firm’s fair value
+measurement policies, valuation techniques and significant
+Equities 5 86,643 1,050 87,698
+inputs used to determine the fair value of derivatives.
+Gross fair value 11 354,902 5,167 360,080
+Counterparty netting Significant Unobservable Inputs. The table below
+– (259,670) (884) (260,554)
+in levels
+presents the amount of level 3 derivative assets (liabilities),
+Subtotal $ 11 $ 95,232 $ 4,283 $ 99,526
+and ranges, averages and medians of significant unobservable
+Cross-level (621) inputs used to value such derivatives.
+counterparty netting
+Cash collateral
+(45,952) As of December 2025 As of December 2024
+netting
+$ in millions, except Amount or Average/ Amount or Average/
+Net fair value $ 52,953
+inputs Range Median Range Median
+Liabilities Interest rates, $ (104) $ (112)
+net
+Interest rates $ (11) $ (121,455) $ (722) $ (122,188)
+(10)% to (10)% to
+Credit – (13,296) (839) (14,135) Correlation 34%/25% 60%/72%
+95% 95%
+Currencies – (83,756) (58) (83,814) Volatility (bps) 31 to 151 69/57 31 to 101 63/59
+Commodities – (19,302) (214) (19,516) Credit, net $ 1,631 $ 1,218
+Equities (9) (147,803) (3,749) (151,561) Credit spreads
+9 to 1,065 135/106 8 to 1,328 134/91
+Gross fair value (20) (385,612) (5,582) (391,214) (bps)
+Counterparty netting Upfront credit
+– 259,670 884 260,554 0 to 100 19/10 (10) to 100 24/14
+in levels points
+Subtotal $ (20) $ (125,942) $ (4,698) $ (130,660) Recovery rates 25% to 60% 43%/40% 20% to 70% 46%/50%
+Cross-level Currencies, net $ 22 $ 47
+621
+counterparty netting Correlation 0% to 70% 21%/3% 20% to 68% 34%/23%
+Cash collateral 45,634 Volatility 17% to 18% 17%/17% 17% to 17% 17%/17%
+netting
+Commodities,
+Net fair value $ (84,405) net $ 735 $ 778
+21% to
+As of December Volatility 20% to 101% 35%/30% 37%/33%
+2024 120%
+Assets Natural gas $(4.27) to $(0.40)/$(0.33) $(2.82) to $(0.14)/
+spread $2.19 $3.76 $(0.16)
+Interest rates $ 102 $ 156,054 $ 580 $ 156,736
+$(6.42) to $1.77/
+Credit – 9,249 2,188 11,437 Oil spread N/A N/A
+$22.10 $(3.80)
+Currencies – 114,500 174 114,674
+$2.98 to $1.89 to $52.18/
+Electricity price $57.43/$35.57
+Commodities – 12,134 1,192 13,326 $489.82 $587.75 $32.68
+Equities 136 79,301 742 80,179 Equities, net $ (2,699) $ (1,106)
+Gross fair value 238 371,238 4,876 376,352 (70)% to (75)% to
+Correlation 58%/60% 56%/52%
+100% 100%
+Counterparty netting
+– (279,215) (750) (279,965)
+in levels Volatility 2% to 102% 14%/9% 2% to 101% 15%/12%
+Subtotal $ 238 $ 92,023 $ 4,126 $ 96,387
+In the table above:
+Cross-level
+(947)
+counterparty netting • Assets are shown 

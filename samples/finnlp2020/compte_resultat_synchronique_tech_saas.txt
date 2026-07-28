@@ -1,0 +1,54 @@
+COMPTE DE RÉSULTAT — BUSINESS UNIT SAAS
+Société     : CloudScale SAS
+Date        : 31/12/2023
+Secteur     : Technologie — Logiciel B2B (SaaS)
+Source      : Inspiration FinNLP 2020 — dérive synchronique secteur tech
+
+Contexte : Scale-up SaaS série A, modèle revenus récurrents.
+ARR (Annual Recurring Revenue) cible : 4 800 000 €
+MRR (Monthly Recurring Revenue) : 400 000 €
+NRR (Net Revenue Retention) : 118 %
+Churn rate (annuel brut) : 8,2 %
+
+════════════════════════════════════════════════════════════════
+REVENUS
+════════════════════════════════════════════════════════════════
+  Chiffre d'affaires (ARR réalisé)     :    4 800 000,00 €
+    dont expansion revenue (upsell)    :      576 000,00 €
+    dont new ARR (nouveaux clients)    :    1 200 000,00 €
+    dont ARR churn (résiliation)       :     (393 600,00) €
+
+════════════════════════════════════════════════════════════════
+CHARGES D'EXPLOITATION
+════════════════════════════════════════════════════════════════
+  Charges de personnel                 :    2 160 000,00 €
+    Sales & Account Management         :      864 000,00 €
+    R&D et Product                     :      864 000,00 €
+    Customer Success                   :      432 000,00 €
+  Autres charges d'exploitation        :    1 440 000,00 €
+    Infrastructure cloud (AWS/GCP)     :      480 000,00 €
+    Marketing & acquisition (CAC)      :      576 000,00 €
+    Frais généraux & G&A               :      384 000,00 €
+  ──────────────────────────────────────────────────────────
+  EBITDA                               :    1 200 000,00 €
+    Taux de marge EBITDA               :           25,0 %
+
+  Dotations aux amortissements (D&A)   :      240 000,00 €
+  ──────────────────────────────────────────────────────────
+  EBIT (Résultat d'exploitation)       :      960 000,00 €
+
+  Charges financières nettes           :       96 000,00 €
+
+  Résultat avant impôt (EBT)           :      864 000,00 €
+  Impôt sur les sociétés (IS — 25 %)   :      216 000,00 €
+  ──────────────────────────────────────────────────────────
+  Résultat net de l'exercice           :      648 000,00 €
+
+════════════════════════════════════════════════════════════════
+MÉTRIQUES SAAS (FNLP 2020 — drift synchronique)
+════════════════════════════════════════════════════════════════
+  CAC (Coût d'acquisition client)      :       12 000,00 €
+  LTV (Lifetime Value moyen)           :       58 000,00 €
+  LTV / CAC ratio                      :             4,8x
+  Runway restant (trésorerie / burn)   :          18 mois
+  Burn rate mensuel net                :       35 000,00 €

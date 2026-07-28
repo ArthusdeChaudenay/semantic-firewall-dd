@@ -1,0 +1,47 @@
+BILAN SIMPLIFIÉ
+Entreprise : Microsoft France SAS
+Exercice    : 2024
+
+Source : Données issues du SEC 10-K FY2024 — filiale française
+Secteur     : Logiciels & Services Cloud (SaaS / Infrastructure)
+
+════════════════════════════════════════════════════
+ACTIF
+════════════════════════════════════════════════════
+Actif immobilisé                :  18 500 000,00 €
+  Immobilisations incorporelles :  14 200 000,00 €
+    Licences & brevets logiciels:   9 800 000,00 €
+    Fonds commercial (goodwill) :   4 400 000,00 €
+  Immobilisations corporelles   :   4 300 000,00 €
+    Serveurs & infrastructure   :   3 100 000,00 €
+    Agencements & matériels     :   1 200 000,00 €
+Actif circulant                 :   7 200 000,00 €
+  Créances clients              :   5 900 000,00 €
+    Contrats SaaS (facturés)    :   4 100 000,00 €
+    Prestations en cours        :   1 800 000,00 €
+  Stocks & fournitures IT       :     340 000,00 €
+  Charges constatées d'avance   :     960 000,00 €
+Trésorerie et équivalents       :   4 300 000,00 €
+  Disponibilités bancaires      :   3 500 000,00 €
+  Placements court terme (OPCVM):     800 000,00 €
+
+TOTAL ACTIF                     :  30 000 000,00 €
+
+════════════════════════════════════════════════════
+PASSIF
+════════════════════════════════════════════════════
+Capitaux propres                :  19 000 000,00 €
+  Capital social                :   2 000 000,00 €
+  Réserves légales & statutaires:   6 800 000,00 €
+  Report à nouveau              :   7 500 000,00 €
+  Résultat de l'exercice        :   2 700 000,00 €
+Dettes financières              :   7 500 000,00 €
+  Emprunt bancaire (LT)         :   5 000 000,00 €
+  Obligations convertibles      :   2 500 000,00 €
+Dettes d'exploitation           :   3 500 000,00 €
+  Fournisseurs & comptes rattach.:  1 800 000,00 €
+  SaaS Tooling Payables         :     700 000,00 €
+  Dettes fiscales et sociales   :     650 000,00 €
+  Produits constatés d'avance   :     350 000,00 €
+
+TOTAL PASSIF                    :  30 000 000,00 €

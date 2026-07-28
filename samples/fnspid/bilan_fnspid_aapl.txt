@@ -1,0 +1,61 @@
+ANNUAL BALANCE SHEET — FY2023 (10-K)
+Company     : Apple Inc. (AAPL)
+Fiscal Year : September 30, 2023
+Source      : FNSPID dataset — SEC 10-K filing, S&P 500 Information Technology sector
+
+======================================================================
+ASSETS
+======================================================================
+Current Assets
+  Cash and Cash Equivalents            :     $29,965M
+  Short-term Marketable Securities     :     $31,590M
+  Accounts Receivable, net             :     $29,508M
+  Inventories                          :      $6,331M
+  Vendor Non-Trade Receivables         :     $31,477M
+  Other Current Assets                 :     $14,695M
+  Total Current Assets                 :    $143,566M
+
+Non-Current Assets
+  Non-current Marketable Securities    :     $99,552M
+  Property, Plant and Equipment, net   :     $43,715M
+  Operating Lease Right-of-Use Assets  :      $8,879M
+  Deferred Tax Assets                  :     $17,852M
+  Other Non-Current Assets             :     $50,229M
+  Total Non-Current Assets             :    $220,227M
+
+TOTAL ASSETS                           :    $352,583M
+
+======================================================================
+LIABILITIES AND SHAREHOLDERS' EQUITY
+======================================================================
+Current Liabilities
+  Accounts Payable                     :     $62,611M
+  Other Current Liabilities            :     $58,829M
+  Deferred Revenue                     :      $8,055M
+  Commercial Paper                     :      $5,985M
+  Term Debt (current portion)          :      $9,822M
+  Total Current Liabilities            :    $145,302M
+
+Non-Current Liabilities
+  Term Debt                            :     $95,281M
+  Non-current Deferred Revenue         :      $1,519M
+  Other Non-Current Liabilities        :     $49,848M
+  Total Non-Current Liabilities        :    $146,648M
+
+Total Liabilities                      :    $291,950M
+Total Shareholders' Equity (Deficit)   :    $(62,158)M
+TOTAL LIABILITIES AND EQUITY           :    $352,583M
+
+======================================================================
+KEY FINANCIAL METRICS (analyst consensus — FNSPID)
+======================================================================
+  EPS (diluted)                        :          $6.13
+  Return on Assets (ROA)               :          18.4%
+  Debt-to-Equity Ratio                 :           N/A (negative book equity)
+  Market Capitalization (year-end)     :          $2.95T
+  Price-to-Earnings Ratio (P/E)        :          29.5x
+  Free Cash Flow                       :     $99,584M
+  Share Buyback (FY2023)               :     $77,550M
+  Dividend Yield                       :          0.5%
+  Revenue Growth (YoY)                 :         -2.8%
+  Gross Margin                         :          44.1%

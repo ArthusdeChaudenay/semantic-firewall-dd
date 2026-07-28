@@ -1,0 +1,20 @@
+FACTURE COMMERCIALE
+N° FAC-2026-010
+Date d'émission : 05/06/2026
+Échéance de paiement : 05/07/2026
+
+Prestataire : Hôtel Le Belvédère SAS
+N° TVA intracommunautaire : FR55443322110
+
+Client : Groupe Voyages Express
+
+Désignation          Quantité   PU HT      Total HT
+Hébergement (3 nuits)   3       500,00 €   1.500,00 €
+
+Montant HT :    1.500,00 €
+Taux TVA :      10 %
+Montant TVA :     150,00 €
+Montant TTC :   1.650,00 €
+Devise : EUR
+
+Conditions de paiement : virement bancaire 30 jours date de facture.

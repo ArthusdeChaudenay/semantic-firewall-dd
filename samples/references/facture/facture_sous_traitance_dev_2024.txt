@@ -1,0 +1,36 @@
+FACTURE N° DEVEXT-2024-042
+Date facture     : 30/09/2024
+Date d'échéance : 30/10/2024
+
+Prestataire : DigitalCraft SARL
+N° SIRET    : 812 345 678 00012
+N° TVA      : FR42812345678
+Adresse     : 8 rue de la Roquette, 75011 Paris
+
+Client : CloudOps SAS
+N° SIRET : 512 876 543 00021
+N° TVA   : FR84512876543
+Adresse  : 12 rue des Entrepreneurs, 75015 Paris
+
+Objet : Prestation de développement backend — Septembre 2024
+Référence commande : PO-2024-CLOPS-018
+
+DÉTAIL DES PRESTATIONS
+────────────────────────────────────────────────────────────────
+Développement API REST Python/FastAPI     :
+  12 jours × 850,00 €                    :   10 200,00 €
+Revue de code et audit sécurité          :
+   2 jours × 850,00 €                    :    1 700,00 €
+Rédaction documentation technique        :
+   1 jour  × 850,00 €                    :      850,00 €
+────────────────────────────────────────────────────────────────
+Sous-total prestations                   :   12 750,00 €
+
+Montant HT   :   12 750,00 €
+TVA (20 %)   :    2 550,00 €
+Montant TTC  :   15 300,00 €
+
+Devise       : EUR
+Mode de règlement : Virement bancaire
+IBAN         : FR76 1027 8060 0012 3456 7890 123
+BIC          : CMCIFR2A

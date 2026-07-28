@@ -1,0 +1,159 @@
+continued operations in the Company’s Consolidated Financial Statements through the date of the exchange
+offer (see Note 21 for additional details). Unless otherwise indicated, the information in the notes to the Consolidated Financial Statements refer only
+to Johnson & Johnson’s continuing operations.
+In the fiscal second quarter of 2024 the Company completed a debt for equity exchange of the retained stake in Kenvue. Upon completion of the debt
+for equity exchange, the Company no longer owns any shares of Kenvue Common Stock.
+Annual closing date
+The Company follows the concept of a fiscal year, which ends on the Sunday nearest to the end of the month of December. Normally each fiscal year
+consists of 52 weeks, but every five or six years the fiscal year consists of 53 weeks, and therefore includes additional shipping days, as was the case
+in fiscal year 2020, and will be the case again in fiscal year 2026.
+2025 Annual Report 55
+2. Cash, cash equivalents and current marketable securities
+At the end of the fiscal year 2025 and 2024, cash, cash equivalents and current marketable securities comprised:
+2025
+Current
+Carrying Estimated Cash & Cash Marketable
+(Dollars in Millions) Amount Fair Value Equivalents Securities
+Cash $3,299 3,299 3,299 —
+U.S. Reverse repurchase agreements 7,063 7,063 7,063 —
+Money market funds 5,993 5,993 5,993 —
+Time deposits(1) 893 893 893 —
+Subtotal $17,248 17,248 17,248 —
+U.S. Gov't Securities $2,365 2,365 2,324 41
+Other Sovereign Securities 260 260 102 158
+Corporate and other debt securities 229 229 35 194
+Subtotal available for sale(2) $2,854 2,854 2,461 393
+Total cash, cash equivalents and
+current marketable securities $19,709 393
+2024
+Current
+Carrying Unrecognized Estimated Cash & Cash Marketable
+(Dollars in Millions) Amount Gain Fair Value Equivalents Securities
+Cash $2,918 — 2,918 2,918 —
+Non-U.S. Sovereign Securities(1) 120 — 120 — 120
+U.S. Reverse repurchase agreements 7,100 — 7,100 7,100 —
+Money market funds 6,123 — 6,123 6,123 —
+Time deposits(1) 1,045 — 1,045 1,045 —
+Subtotal 17,306 — 17,306 17,186 120
+U.S. Gov't Securities $6,815 1 6,816 6,796 20
+Other Sovereign Securities 176 — 176 83 93
+Corporate and other debt securities 224 — 224 40 184
+Subtotal available for sale(2) $7,215 1 7,216 6,919 297
+Total cash, cash equivalents
+and current marketable
+securities $24,105 417
+(1) Held to maturity investments are reported at amortized cost and realized gains or losses are reported in earnings.
+(2) Available for sale debt securities are reported at fair value with unrealized gains and losses reported net of taxes in other comprehensive income.
+Fair value of government securities and obligations and corporate debt securities were estimated using quoted broker prices and significant other
+observable inputs.
+Jhonson&Jhonson.jpg
+56
+The contractual maturities of the available for sale debt securities at December 28, 2025 are as follows:
+(Dollars in Millions) Cost Basis Fair Value
+Due within one year $2,829 2,829
+Due after one year through five years 25 25
+Due after five years through ten years — —
+Total debt securities $2,854 2,854
+The Company invests its excess cash in both deposits with major banks throughout the world and other high-quality money market instruments. The
+Company has a policy of making investments only with commercial institutions that have at least an investment grade credit rating.
+3. Inventories
+At the end of fiscal years 2025 and 2024, inventories comprised:
+(Dollars in Millions) 2025 2024
+Raw materials and supplies $2,530 2,337
+Goods in process 3,828 2,815
+Finished goods 7,833 7,292
+Total inventories $14,191 12,444
+4. Property, plant and equipment
+At the end of fiscal years 2025 and 2024, property, plant and equipment at cost and accumulated depreciation were:
+(Dollars in Millions) 2025 2024
+Land and land improvements $701 718
+Buildings and building equipment 13,429 12,317
+Machinery and equipment 32,873 29,444
+Construction in progress 7,361 6,289
+Total property, plant and equipment, gross $54,364 48,768
+Less accumulated depreciation 31,195 28,250
+Total property, plant and equipment, net $23,169 20,518
+The Company capitalizes interest expense as part of the cost of construction of facilities and equipment. Interest expense capitalized in fiscal years
+2025, 2024 and 2023 was $114 million, $79 million and $70 million, respectively.
+Depreciation expense, including the amortization of capitalized interest in fiscal years 2025, 2024 and 2023 was $2.9 billion, $2.8 billion and $2.6
+billion, respectively.
+Upon retirement or other disposal of property, plant and equipment, the costs and related amounts of accumulated depreciation or amortization are
+eliminated from the asset and accumulated depreciation accounts, respectively. The difference, if any, between the net asset value and the proceeds
+are recorded in earnings.
+2025 Annual Report 57
+5. Intangible assets and goodwill
+At the end of fiscal years 2025 and 2024, the gross and net amounts of intangible assets were:
+(Dollars in Millions) 2025 2024
+Intangible assets with definite lives:
+Patents and trademarks — gross(1) $59,156 44,695
+Less accumulated amortization (32,507) (26,124)
+Patents and trademarks — net $26,649 18,571
+Customer relationships and other intangibles — gross $21,361 20,310
+Less accumulated amortization (14,998) (13,544)
+Customer relationships and other intangibles — net(2) $6,363 6,766
+Intangible assets with indefinite lives:
+Trademarks(3) 1,772 —
+Purchased in-process research and development 15,619 12,281
+Total intangible assets with indefinite lives $17,391 12,281
+Total intangible assets — net $50,403 37,618
+(1) See Note 18 to the Consolidated Financial Statements for additional details related to acquisitions and divestitures.
+(2) The majority is comprised of customer relationships.
+(3) In October 2025, the Company announced its intention to separate its Orthopaedics business, to be named DePuy Synthes. In connection with this strategic
+decision, the Company determined the DePuy Synthes trademarks will continue to be used on existing and future products. Therefore, $1.7 billion of trademarks
+associated with the DePuy Synthes brand were reclassified from definite lived to indefinite lived. This reclassification reflects management’s revised expectations
+regarding the future economic life and continued use of these trademarks through and following the planned separation. Based on a qualitative assessment, the
+Company concluded that the trademarks are not impaired.
+Goodwill as of December 28, 2025 and December 29, 2024, as allocated by segment of business, was as follows:
+Innovative
+(Dollars in Millions) Medicine MedTech Total
+Goodwill at December 31, 2023 $10,407 26,151 36,558
+Goodwill, related to acquisitions 640 7,569 8,209
+Goodwill, related to divestitures — (56) (56)
+Currency translation/other (355) (156) (511)
+Goodwill at December 29, 2024 10,692 33,508 44,200
+Goodwill, related to acquisitions 3,488 — 3,488
+Goodwill, related to divestitures — (29) (29)
+Currency translation/other 787 326 1,113
+Goodwill at December 28, 2025 $14,967 33,805 48,772
+The weighted average amortization period for patents and trademarks is approximately 12 years. The weighted average amortization period for
+customer relationships and other intangible assets is approximately 19 years. The amortization expense of amortizable assets included in Cost of
+products sold was $4.6 billion, $4.5 billion and $4.5 billion before tax, for the fiscal years ended December 28, 2025, December 29, 2024 and
+December 31, 2023, respectively. Intangible asset write-downs are included in Other (income) expense, net.
+Jhonson&Jhonson.jpg
+58
+The estimated amortization expense related to intangible assets for approved products, before tax, for the five succeeding years is approximately:
+(Dollars in Millions)
+2026 2027 2028 2029 2030
+$5,100 4,400 3,700 3,600 3,500
+See Note 18 to the Consolidated Financial Statements for additional details related to acquisitions and divestitures.
+6. Fair value measurements
+The Company uses forward foreign exchange contracts to manage its exposure to the variability of cash flows, primarily related to the foreign
+exchange rate changes of future intercompany products and third-party purchases of materials denominated in a foreign currency. The Company uses
+cross currency interest rate swaps to manage currency risk primarily related to borrowings. Both types of derivatives are designated as cash flow
+hedges.
+Additionally, the Company uses interest rate swaps as an instrument to manage interest rate risk related to fixed rate borrowings. These derivatives
+are designated as fair value hedges. The Company uses cross currency interest rate swaps and forward foreign exchange contracts designated as net
+investment hedges. Additionally, the Company uses forward foreign exchange contracts to offset its exposure to certain foreign currency assets and
+liabilities. These forward foreign exchange contracts are not designated as hedges and therefore, changes in the fair values of these derivatives are
+recognized in earnings, thereby offsetting the current earnings effect of the related foreign currency assets and liabilities.
+The Company does not enter into derivative financial instruments for trading or speculative purposes, or that contain credit risk related contingent
+features. The Company maintains credit support agreements (CSA) with certain derivative counterparties establishing collateral thresholds based on
+respective credit ratings and netting agreements. As of December 28, 2025 and December 29, 2024, the total amount of cash collateral paid by the
+Company under the CSA amounted to $4.6 billion and $2.2 billion net respectively, related to net investment and cash flow hedges. On an ongoing
+basis, the Company monitors counter-party credit ratings. The Company considers credit non-performance risk to be low, because the Company
+primarily enters into agreements with commercial institutions that have at least an investment grade credit rating. Refer to the table on significant
+financial assets and liabilities measured at fair value contained in this footnote for receivables and payables with these commercial institutions. As of
+December 28, 2025, the Company had notional amounts outstanding for forward foreign exchange contracts, cross currency interest rate swaps and
+interest rate swaps of $40.6 billion, $38.9 billion and $8.0 billion, respectively. As of December 29, 2024, the Company had notional amounts
+outstanding for forward foreign exchange contracts, cross currency interest rate swaps and interest rate swaps of $45.1 billion, $40.5 billion and $9.0
+billion, respectively.
+All derivative instruments are recorded on the balance sheet at fair value. Changes in the fair value of derivatives are recorded each period in current
+earnings or other comprehensive income, depending on whether the derivative is designated as part of a hedge transaction, and if so, the type of
+hedge transaction. Cash exchanged for derivatives is primarily in cash flows from operating activities.
+The designation as a cash flow hedge is made at the entrance date of the derivative contract. At inception, all derivatives are expected to be highly
+effective. Foreign exchange contracts designated as cash flow hedges are accounted for under the forward method and all gains/losses associated
+with these contracts will be recognized in the income statement when the hedged item impacts earnings. Changes in the fair value of these derivatives
+are recorded in accumulated other comprehensive income until the underlying transaction affects earnings, and are then reclassified to earnings in the
+same account as the hedged transaction.
+Gains and losses associated with interest rate swaps and changes in fair value of hedged debt attributable to changes in interest rates are recorded to
+interest expense in the period in which they occur. Gains and losses on net investment hedges are accounted through the currency translation account

@@ -1,0 +1,39 @@
+COMPTE DE RÉSULTAT
+Groupe : Patrimoine Immobilier Développement SA
+Exercice : 31 décembre 2023
+Normes : PCG — en euros
+
+════════════════════════════════════════════════════════════════
+Produits d'exploitation
+  Loyers et revenus locatifs              :  2 817 000,00 €
+  Charges récupérées auprès des locataires:    412 000,00 €
+  Produits de cessions immobilières       :  1 614 000,00 €
+  Plus-values de cession                  :    487 000,00 €
+────────────────────────────────────────────────────────────────
+Total produits d'exploitation            :  5 330 000,00 €
+
+Charges d'exploitation
+  Charges de personnel                   :   -214 000,00 €
+  Charges d'entretien et maintenance     :   -412 000,00 €
+  Assurances et taxes foncières          :   -318 000,00 €
+  Honoraires de gestion et syndic        :   -187 000,00 €
+  Autres charges d'exploitation          :    -96 000,00 €
+  Coût de revient des immeubles cédés    : -1 127 000,00 €
+────────────────────────────────────────────────────────────────
+EBITDA                                   :  2 976 000,00 €
+Dotations aux amortissements             :   -812 000,00 €
+Dépréciations d'actifs                   :   -114 000,00 €
+────────────────────────────────────────────────────────────────
+EBIT (Résultat d'exploitation)           :  2 050 000,00 €
+Charges financières (intérêts emprunts)  :   -714 000,00 €
+Produits financiers                      :     87 000,00 €
+────────────────────────────────────────────────────────────────
+Résultat courant avant impôt (EBT)      :  1 423 000,00 €
+Impôt sur les sociétés                   :   -314 000,00 €
+Résultat des sociétés intégrées          :    494 000,00 €
+────────────────────────────────────────────────────────────────
+Résultat net                             :  1 603 000,00 €
+════════════════════════════════════════════════════════════════
+Rendement brut du parc locatif           :          8,4 %
+Taux de vacance locative                 :          5,8 %
+Marge EBITDA sur loyers                  :         85,6 %

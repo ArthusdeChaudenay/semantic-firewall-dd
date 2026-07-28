@@ -1,0 +1,36 @@
+FACTURE N° FONCIA-IMMO-2024-09-00812
+Date facture     : 01/09/2024
+Date d'échéance : 05/09/2024
+
+Bailleur : Foncia Entreprise SAS (mandataire)
+Pour le compte de : SCI Les Berges du Rhône
+N° SIRET    : 489 012 345 00022
+N° TVA      : FR17489012345
+Adresse     : 10 place Bellecour, 69002 Lyon
+
+Locataire   : Devoteam SA — Agence Lyon
+N° SIRET    : 379 445 461 00087
+N° TVA      : FR82379445461
+Adresse     : 12 quai de Serbie, 69006 Lyon
+
+Bail commercial — Référence : BC-LYO-2019-0042
+
+DÉTAIL DE LA QUITTANCE DE LOYER — SEPTEMBRE 2024
+────────────────────────────────────────────────────────────────
+Loyer principal (650 m² × 22,00 €/m²)   :   14 300,00 €
+Charges locatives récupérables           :    1 430,00 €
+  Gardiennage et accueil                 :      480,00 €
+  Entretien parties communes             :      340,00 €
+  Eau et charges communes                :      210,00 €
+  Assurance immeuble (quote-part)        :      400,00 €
+Participation aux frais de gestion       :      312,00 €
+────────────────────────────────────────────────────────────────
+Sous-total HT                            :   16 042,00 €
+
+Montant HT   :   16 042,00 €
+TVA (20 %)   :    3 208,40 €
+Montant TTC  :   19 250,40 €
+
+Mode de règlement : Virement bancaire
+IBAN         : FR76 3000 3009 9500 0503 8640 031
+Référence    : LOYER-BC-LYO-2019-0042-SEPT2024

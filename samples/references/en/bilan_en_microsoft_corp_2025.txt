@@ -1,0 +1,155 @@
+
+Goodwill 119,509 119,220
+Intangible assets, net 22,604 27,597
+Other long-term assets 40,565 36,460
+Total assets $ 619,003 $ 512,163
+Liabilities and stockholders’ equity
+Current liabilities:
+Accounts payable $ 27,724 $ 21,996
+Short-term debt 0 6,693
+Current portion of long-term debt 2,999 2,249
+Accrued compensation 13,709 12,564
+Short-term income taxes 7,211 5,017
+Short-term unearned revenue 64,555 57,582
+Other current liabilities 25,020 19,185
+Total current liabilities 141,218 125,286
+Long-term debt 40,152 42,688
+Long-term income taxes 25,986 27,931
+Long-term unearned revenue 2,710 2,602
+Deferred income taxes 2,835 2,618
+Operating lease liabilities 17,437 15,497
+Other long-term liabilities 45,186 27,064
+Total liabilities 275,524 243,686
+Commitments and contingencies
+Stockholders’ equity:
+Common stock and paid-in capital – shares authorized 24,000; outstanding 7,434
+and 7,434 109,095 100,923
+Retained earnings 237,731 173,144
+Accumulated other comprehensive loss (3,347) (5,590)
+Total stockholders’ equity 343,479 268,477
+Total liabilities and stockholders’ equity $ 619,003 $ 512,163
+Refer to accompanying notes.
+52
+PART II
+Item 8
+CASH FLOWS STATEMENTS
+(In millions)
+Year Ended June 30, 2025 2024 2023
+Operations
+Net income $ 101,832 $ 88,136 $ 72,361
+Adjustments to reconcile net income to net cash from operations:
+Depreciation, amortization, and other 34,153 22,287 13,861
+Stock-based compensation expense 11,974 10,734 9,611
+Net recognized losses on investments and derivatives 609 305 196
+Deferred income taxes (7,056) (4,738) (6,059)
+Changes in operating assets and liabilities:
+Accounts receivable (10,581) (7,191) (4,087)
+Inventories 309 1,284 1,242
+Other current assets (3,044) (1,648) (1,991)
+Other long-term assets (2,950) (6,817) (2,833)
+Accounts payable 569 3,545 (2,721)
+Unearned revenue 5,438 5,348 5,535
+Income taxes (38) 1,687 (358)
+Other current liabilities 5,922 4,867 2,272
+Other long-term liabilities (975) 749 553
+Net cash from operations 136,162 118,548 87,582
+Financing
+Proceeds from issuance (repayments) of debt, maturities of 90 days
+or less, net (5,746) 5,250 0
+Proceeds from issuance of debt 0 24,395 0
+Repayments of debt (3,216) (29,070) (2,750)
+Common stock issued 2,056 2,002 1,866
+Common stock repurchased (18,420) (17,254) (22,245)
+Common stock cash dividends paid (24,082) (21,771) (19,800)
+Other, net (2,291) (1,309) (1,006)
+Net cash used in financing (51,699) (37,757) (43,935)
+Investing
+Additions to property and equipment (64,551) (44,477) (28,107)
+Acquisition of companies, net of cash acquired and divestitures, and
+purchases of intangible and other assets (5,978) (69,132) (1,670)
+Purchases of investments (29,775) (17,732) (37,651)
+Maturities of investments 16,079 24,775 33,510
+Sales of investments 9,309 10,894 14,354
+Other, net 2,317 (1,298) (3,116)
+Net cash used in investing (72,599) (96,970) (22,680)
+Effect of foreign exchange rates on cash and cash equivalents 63 (210) (194)
+Net change in cash and cash equivalents 11,927 (16,389) 20,773
+Cash and cash equivalents, beginning of period 18,315 34,704 13,931
+Cash and cash equivalents, end of period $ 30,242 $ 18,315 $ 34,704
+Refer to accompanying notes.
+53
+PART II
+Item 8
+STOCKHOLDERS’ EQUITY STATEMENTS
+(In millions, except per share amounts)
+Year Ended June 30, 2025 2024 2023
+Common stock and paid-in capital
+Balance, beginning of period $ 100,923 $ 93,718 $ 86,939
+Common stock issued 2,056 2,002 1,866
+Common stock repurchased (5,856) (5,712) (4,696)
+Stock-based compensation expense 11,974 10,734 9,611
+Other, net (2) 181 (2)
+Balance, end of period 109,095 100,923 93,718
+Retained earnings
+Balance, beginning of period 173,144 118,848 84,281
+Net income 101,832 88,136 72,361
+Common stock cash dividends (24,677) (22,293) (20,226)
+Common stock repurchased (12,568) (11,547) (17,568)
+Balance, end of period 237,731 173,144 118,848
+Accumulated other comprehensive loss
+Balance, beginning of period (5,590) (6,343) (4,678)
+Other comprehensive income (loss) 2,243 753 (1,665)
+Balance, end of period (3,347) (5,590) (6,343)
+Total stockholders’ equity $ 343,479 $ 268,477 $ 206,223
+Cash dividends declared per common share $ 3.32 $ 3.00 $ 2.72
+Refer to accompanying notes.
+54
+PART II
+Item 8
+NOTES TO FINANCIAL STATEMENTS
+NOTE 1 — ACCOUNTING POLICIES
+Accounting Principles
+Our consolidated financial statements and accompanying notes are prepared in accordance with accounting principles
+generally accepted in the United States of America (“GAAP”).
+Principles of Consolidation
+The consolidated financial statements include the accounts of Microsoft Corporation and its subsidiaries. Intercompany
+transactions and balances have been eliminated.
+Recast of Certain Prior Period Information
+In August 2024, we announced changes to the composition of our segments. These changes align our segments with how
+we currently manage our business, most notably bringing the commercial components of Microsoft 365 together in the
+Productivity and Business Processes segment. Beginning in fiscal year 2025, the information that our chief operating
+decision maker is regularly provided and reviews for purposes of allocating resources and assessing performance reflects
+these segment changes. Prior period segment information has been recast to conform to the way we internally manage
+and monitor our business during fiscal year 2025. These changes primarily impacted Note 8 – Goodwill, Note 12 –
+Unearned Revenue, and Note 18 – Segment Information and Geographic Data.
+The recast of prior period information had no impact on our consolidated balance sheets, consolidated income statements,
+or consolidated cash flows statements.
+Estimates and Assumptions
+Preparing financial statements requires management to make estimates and assumptions that affect the reported
+amounts of assets, liabilities, revenue, and expenses. Examples of estimates and assumptions include: for revenue
+recognition, determining the nature and timing of satisfaction of performance obligations, and determining the standalone
+selling price ("SSP") of performance obligations, variable consideration, and other obligations such as product returns and
+refunds; loss contingencies; the fair value of and/or potential impairment of goodwill and intangible assets for our reporting
+units; product life cycles; useful lives of our tangible and intangible assets; allowances for doubtful accounts; stock-based
+compensation forfeiture rates; when technological feasibility is achieved for our products; the potential outcome of
+uncertain tax positions that have been recognized in our consolidated financial statements or tax returns; and determining
+the timing and amount of impairments for investments. Actual results and outcomes may differ from management’s
+estimates and assumptions due to risks and uncertainties.
+Foreign Currencies
+Assets and liabilities recorded in foreign currencies are translated at the exchange rate on the balance sheet date.
+Revenue and expenses are translated at average rates of exchange prevailing during the year. Translation adjustments
+resulting from this process are recorded to other comprehensive income.
+Revenue
+Product Revenue and Service and Other Revenue
+Product revenue includes sales from operating systems, cross-device productivity and collaboration applications, server
+applications, business solution applications, desktop and server management tools, software development tools, video
+games, and hardware such as PCs, tablets, gaming and entertainment consoles, other intelligent devices, and related
+accessories.
+Service and other revenue includes sales from cloud-based solutions that provide customers with software, services,
+platforms, and content such as Office 365, Azure, Dynamics 365, and gaming; solution support; and consulting services.
+Service and other revenue also includes sales from online advertising and LinkedIn.
+55
+PART II
+Item 8
+Revenue Recognition
+Revenue is recognized upon transfer of control of promised products or services to customers in an amount that r

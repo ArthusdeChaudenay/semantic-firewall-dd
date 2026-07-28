@@ -1,0 +1,48 @@
+BILAN CONSOLIDÉ
+Groupe : LVMH Moët Hennessy Louis Vuitton SE
+Exercice : 31 décembre 2023
+Normes : IFRS — en millions d'euros
+
+════════════════════════════════════════════════════════════════
+ACTIF
+════════════════════════════════════════════════════════════════
+Actif immobilisé                         :     71 208,00 M€
+  Goodwill et marques                    :     24 317,00 M€
+  Immobilisations incorporelles          :     15 812,00 M€
+  Immobilisations corporelles            :     19 407,00 M€
+  Droits d'utilisation (IFRS 16)         :      9 102,00 M€
+  Participations et titres mis en éq.    :      2 570,00 M€
+Actif circulant                          :     28 441,00 M€
+  Stocks et en-cours                     :     19 627,00 M€
+  Créances clients et autres             :      5 214,00 M€
+  Autres actifs courants                 :      3 600,00 M€
+Trésorerie et équivalents                :      9 017,00 M€
+
+TOTAL ACTIF                              :    108 666,00 M€
+
+════════════════════════════════════════════════════════════════
+PASSIF
+════════════════════════════════════════════════════════════════
+Capitaux propres (part du groupe)        :     42 111,00 M€
+  Capital social                         :        152,00 M€
+  Primes d'émission et réserves          :     35 812,00 M€
+  Résultat net part du groupe            :      8 961,00 M€
+  Réserves de conversion                 :     -2 814,00 M€
+Intérêts minoritaires                    :      5 893,00 M€
+Dettes financières long terme            :     20 218,00 M€
+  Emprunts obligataires                  :     15 604,00 M€
+  Dettes de loyer long terme (IFRS 16)   :      4 614,00 M€
+Provisions et impôts différés           :      9 014,00 M€
+Dettes d'exploitation et autres          :     31 430,00 M€
+  Dettes fournisseurs                    :      7 321,00 M€
+  Dettes sociales et fiscales            :      6 708,00 M€
+  Autres dettes courantes                :     17 401,00 M€
+
+TOTAL PASSIF                             :    108 666,00 M€
+
+════════════════════════════════════════════════════════════════
+RATIOS CLÉS
+════════════════════════════════════════════════════════════════
+Ratio dette nette / capitaux propres     :          0,26
+Fonds de roulement                       :     -2 989,00 M€
+Besoin en fonds de roulement             :     16 120,00 M€

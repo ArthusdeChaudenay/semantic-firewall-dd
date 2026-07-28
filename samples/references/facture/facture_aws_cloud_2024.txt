@@ -1,0 +1,30 @@
+FACTURE N° AWS-FR-2024-08-00418
+Date facture     : 31/08/2024
+Date d'echéance : 30/09/2024
+
+Fournisseur : Amazon Web Services EMEA SARL
+N° TVA       : LU26375245
+Adresse      : 38 avenue John F. Kennedy, L-1855 Luxembourg
+
+Client : CloudOps SAS
+N° TVA : FR84512345678
+Adresse : 12 rue des Entrepreneurs, 75015 Paris
+
+DÉTAIL DES PRESTATIONS
+────────────────────────────────────────────────────────────────
+Amazon EC2 (instances m5.xlarge x 4)     :    1 824,00 €
+Amazon S3 (stockage 12 To)               :      276,00 €
+Amazon RDS PostgreSQL (multi-AZ)         :      814,00 €
+AWS CloudFront (CDN — 8 To transfert)    :      312,00 €
+AWS Lambda (invocations et durée)        :       87,00 €
+Support Business (10 % du total compute) :      301,30 €
+────────────────────────────────────────────────────────────────
+Sous-total services cloud                :    3 614,30 €
+
+Montant HT   :    3 614,30 €
+TVA (20 %)   :      722,86 €
+Montant TTC  :    4 337,16 €
+
+Devise       : EUR
+Règlement    : Prélèvement automatique CB enregistrée
+Période      : Août 2024

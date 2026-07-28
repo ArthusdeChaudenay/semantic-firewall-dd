@@ -1,0 +1,291 @@
+ change in the fair value of these investment funds would increase or decrease
+the liability by $169 million. Changes in the liability are recorded in operating earnings.
+52
+Table of Contents
+Item 8. Financial Statements and Supplementary Data
+Index to the Consolidated Financial Statements
+Page
+Consolidated Statements of Operations 54
+Consolidated Statements of Comprehensive Income 55
+Consolidated Statements of Financial Position 56
+Consolidated Statements of Cash Flows 57
+Consolidated Statements of Equity 58
+Summary of Business Segment Data 59
+Note 1 - Summary of Significant Accounting Policies 60
+Note 2 - Spirit Acquisition 70
+Note 3 - Digital Aviation Solutions Divestiture 72
+Note 4 - Goodwill and Acquired Intangibles 73
+Note 5 - Earnings Per Share 74
+Note 6 - Income Taxes 76
+Note 7 - Accounts Receivable 81
+Note 8 - Allowance for Losses on Financial Assets 81
+Note 9 - Inventories 82
+Note 10 - Contracts with Customers 83
+Note 11 - Financing Receivables and Operating Lease Equipment 83
+Note 12 - Property, Plant and Equipment 85
+Note 13 - Investments 85
+Note 14 - Leases 86
+Note 15 - Liabilities, Commitments and Contingencies 87
+Note 16 - Arrangements with Off-Balance Sheet Risk 93
+Note 17 - Debt 94
+Note 18 - Postretirement Plans 95
+Note 19 - Share-Based Compensation and Other Compensation Arrangements 104
+Note 20 - Shareholders’ Equity 108
+Note 21 - Derivative Financial Instruments 110
+Note 22 - Fair Value Measurements 112
+Note 23 - Legal Proceedings 114
+Note 24 - Segment and Revenue Information 115
+Reports of Independent Registered Public Accounting Firm 121
+53
+Table of Contents
+The Boeing Company and Subsidiaries
+Consolidated Statements of Operations
+(Dollars in millions, except per share data)
+Years ended December 31, 2025 2024 2023
+Sales of products $75,356 $53,227 $65,581
+Sales of services 14,107 13,290 12,213
+Total revenues 89,463 66,517 77,794
+Cost of products (73,761) (57,394) (59,864)
+Cost of services (11,413) (11,114) (10,206)
+Total costs and expenses (85,174) (68,508) (70,070)
+4,289 (1,991) 7,724
+Income from operating investments, net 25 71 46
+General and administrative expense (6,090) (5,021) (5,168)
+Research and development expense, net (3,615) (3,812) (3,377)
+Gain on dispositions, net 9,672 46 2
+Earnings/(loss) from operations 4,281 (10,707) (773)
+Other income, net 1,125 1,222 1,227
+Interest and debt expense (2,771) (2,725) (2,459)
+Earnings/(loss) before income taxes 2,635 (12,210) (2,005)
+Income tax (expense)/benefit (397) 381 (237)
+Net earnings/(loss) 2,238 (11,829) (2,242)
+Less: Net earnings/(loss) attributable to noncontrolling interest 3 (12) (20)
+Net earnings/(loss) attributable to Boeing shareholders 2,235 (11,817) (2,222)
+Less: Mandatory convertible preferred stock dividends
+accumulated during the period 345 58
+Net earnings/(loss) attributable to Boeing common
+shareholders $1,890 ($11,875) ($2,222)
+Basic earnings/(loss) per share $2.49 ($18.36) ($3.67)
+Diluted earnings/(loss) per share $2.48 ($18.36) ($3.67)
+See Notes to the Consolidated Financial Statements on pages 59 - 120.
+54
+Table of Contents
+The Boeing Company and Subsidiaries
+Consolidated Statements of Comprehensive Income
+(Dollars in millions)
+Years ended December 31, 2025 2024 2023
+Net earnings/(loss) $2,238 ($11,829) ($2,242)
+Other comprehensive income/(loss), net of tax:
+Currency translation adjustments 225 (44) 33
+Reclassification of realized loss on foreign currency translation to
+Gain on dispositions, net 17
+Unrealized gain on certain investments, net of tax of $0, $0 and $0 2
+Derivative instruments:
+Unrealized gain/(loss) arising during period, net of tax of ($10),
+$0 and ($11) 262 (258) 41
+Reclassification adjustment for loss/(gain) included in net loss,
+net of tax of ($1), $0 and $1 37 35 (5)
+Total unrealized gain/(loss) on derivative instruments, net of tax 299 (223) 36
+Defined benefit pension plans & other postretirement benefits:
+Net actuarial gain/(loss) arising during the period, net of tax of
+($1), ($1) and $13 25 (225) (722)
+Amortization of actuarial loss/(gain) included in net periodic
+benefit cost, net of tax of ($9), $0 and $0 149 105 (2)
+Amortization of prior service credits included in net periodic
+benefit cost, net of tax of $4, $0 and $1 (71) (92) (102)
+Prior service credits arising during the period, net of tax of $0,
+$0 and $0 (6) (140)
+Pension and postretirement benefit related to our equity method
+investments, net of tax of $0, $0 and $0 9
+Total defined benefit pension plans & other postretirement
+benefits, net of tax 97 (343) (826)
+Other comprehensive income/(loss), net of tax 638 (610) (755)
+Comprehensive income/(loss) 2,876 (12,439) (2,997)
+Less: Comprehensive income/(loss) attributable to noncontrolling interest 3 (12) (20)
+Comprehensive income/(loss) attributable to Boeing Shareholders $2,873 ($12,427) ($2,977)
+See Notes to the Consolidated Financial Statements on pages 59 - 120.
+55
+Table of Contents
+The Boeing Company and Subsidiaries
+Consolidated Statements of Financial Position
+(Dollars in millions, except per share data)
+December 31, 2025 2024
+Assets
+Cash and cash equivalents $10,921 $13,801
+Short-term and other investments 18,479 12,481
+Accounts receivable, net 2,921 2,631
+Unbilled receivables, net 9,158 8,363
+Current portion of financing receivables, net 207
+Inventories 84,679 87,550
+Other current assets, net 2,301 2,965
+Total current assets 128,459 127,998
+Financing receivables and operating lease equipment, net 241 314
+Property, plant and equipment, net 15,361 11,412
+Goodwill 17,275 8,084
+Acquired intangible assets, net 1,567 1,957
+Deferred income taxes 107 185
+Investments 1,048 999
+Other assets, net of accumulated amortization of $1,014 and $1,085 4,177 5,414
+Total assets $168,235 $156,363
+Liabilities and equity
+Accounts payable $13,109 $11,364
+Accrued liabilities 27,141 24,103
+Advances and progress billings 59,404 60,333
+Short-term debt and current portion of long-term debt 8,461 1,278
+Total current liabilities 108,115 97,078
+Deferred income taxes 216 122
+Accrued retiree health care 2,091 2,176
+Accrued pension plan liability, net 4,287 5,997
+Other long-term liabilities 2,432 2,318
+Long-term debt 45,637 52,586
+Total liabilities 162,778 160,277
+Shareholders’ equity:
+Mandatory convertible preferred stock, 6.00% Series A, par value $1.00 –
+20,000,000 shares authorized; 5,750,000 shares issued; aggregate liquidation
+preference $5,750 6 6
+Common stock, par value $5.00 – 1,200,000,000 shares authorized;
+1,012,261,159 shares issued 5,061 5,061
+Additional paid-in capital 21,441 18,964
+Treasury stock, at cost (28,029) (32,386)
+Retained earnings 17,252 15,362
+Accumulated other comprehensive loss (10,277) (10,915)
+Total shareholders' equity/(deficit) 5,454 (3,908)
+Noncontrolling interests 3 (6)
+Total equity 5,457 (3,914)
+Total liabilities and equity $168,235 $156,363
+See Notes to the Consolidated Financial Statements on pages 59 - 120.
+56
+Table of Contents
+The Boeing Company and Subsidiaries
+Consolidated Statements of Cash Flows
+(Dollars in millions)
+Years ended December 31, 2025 2024 2023
+Cash flows – operating activities:
+Net earnings/(loss) $2,238 ($11,829) ($2,242)
+Adjustments to reconcile net earnings/(loss) to net cash provided/(used) by operating
+activities:
+Non-cash items –
+Share-based plans expense 426 407 690
+Treasury shares issued for 401(k) contribution 1,530 1,601 1,515
+Depreciation and amortization 1,953 1,836 1,861
+Investment/asset impairment charges, net 45 112 46
+Gain on dispositions, net (9,672) (46) (2)
+777X and 767 reach-forward losses 5,283 4,079
+Other charges and credits, net 264 528 3
+Changes in assets and liabilities –
+Accounts receivable (95) (37) (128)
+Unbilled receivables (677) (60) 321
+Advances and progress billings (723) 4,069 3,365
+Inventories (1,501) (12,353) (1,681)
+Other current assets 155 (16) 389
+Accounts payable 724 (793) 1,672
+Accrued liabilities 1,341 1,563 779
+Income taxes receivable, payable and deferred 115 (567) 44
+Other long-term liabilities (346) (329) (313)
+Pension and other postretirement plans (593) (959) (1,049)
+Financing receivables and operating lease equipment, net 274 512 571
+Other 324 202 119
+Net cash provided/(used) by operating activities 1,065 (12,080) 5,960
+Cash flows – investing activities:
+Payments to acquire property, plant and equipment (2,942) (2,230) (1,527)
+Proceeds from disposals of property, plant and equipment 82 49 27
+Acquisitions, net of cash acquired (1,248) (50) (70)
+Proceeds from dispositions 10,585 124
+Contributions to investments (51,938) (13,856) (16,448)
+Proceeds from investments 46,628 4,743 15,739
+Supplier notes receivable (662) (694) (162)
+Repayments on supplier notes receivable 2 40
+Purchase of distribution rights (9) (88)
+Other 1 (11) 4
+Net cash provided/(used) by investing activities 499 (11,973) (2,437)
+Cash flows – financing activities:
+New borrowings 165 10,161 75
+Debt repayments (3,621) (8,673) (5,216)
+Common stock issuance, net of issuance costs 18,200
+Mandatory convertible preferred stock issuance, net of issuance costs 5,657
+Stock options exercised 45
+Employee taxes on certain share-based payment arrangements (34) (83) (408)
+Dividends paid on Mandatory convertible preferred stock (331)
+Other 58 (53) 17
+Net cash (used)/provided by financing activities (3,763) 25,209 (5,487)
+Effect of exchange rate changes on cash and cash equivalents 40 (47) 30
+Net (decrease)/increase in cash & cash equivalents, including restricted (2,159) 1,109 (1,934)
+Cash & cash equivalents, including restricted, at beginning of year 13,822 12,713 14,647
+Cash & cash equivalents, including restricted, at end of year 11,663 13,822 12,713
+Less restricted cash & cash equivalents, included in Investments 742 21 22
+Cash and cash equivalents at end of year $10,921 $13,801 $12,691
+See Notes to the Consolidated Financial Statements on pages 59 - 120.
+57
+Table of Contents
+The Boeing Company and Subsidiaries
+Consolidated Statements of Equity
+Boeing shareholders
+Accumulated
+Mandatory Additional other Non-
+convertible Common paid-in Treasury Retained comprehensive controlling
+(Dollars in millions) preferred stock stock capital stock earnings loss interests Total
+Balance at January 1, 2023 $5,061 $9,947 ($50,814) $29,473 ($9,550) $35 ($15,848)
+Net loss (2,222) (20) (2,242)
+Other comprehensive loss, net of tax of
+(755) (755)
+$4
+Share-based compensation 690 690
+Treasury shares issued for stock options
+(28) 73 45
+exercised, net
+Treasury shares issued for other share-
+(660) 304 (356)
+based plans, net
+Treasury shares issued for 401(k)
+627 888 1,515
+contributions
+Subsidiary shares purchased from non-
+(267) (267)
+controlling interests
+Other changes in noncontrolling interests (10) (10)
+Balance at December 31, 2023 $5,061 $10,309 ($49,549) $27,251 ($10,305) $5 ($17,228)
+Net loss (11,817) (12) (11,829)
+Other comprehensive loss, net of tax of
+(610) (610)
+($1)
+Share-based compensation 407 407
+Mandatory convertible preferred stock
+6 5,645 5,651
+issued, net of issuance costs
+Common stock issued, net of issuance
+2,253 15,928 18,181
+costs
+Treasury shares issued for other share-
+(145) 129 (16)
+based plans, net
+Treasury shares issued for 401(k)
+495 1,106 1,601
+contributions
+Cash dividends declared on Mandatory
+(72) (72)
+convertible preferred stock
+Other changes in noncontrolling interests 1 1
+Balance at December 31, 2024 $6 $5,061 $18,964 ($32,386) $15,362 ($10,915) ($6) ($3,914)
+Net earnings 2,235 3 2,238
+Other comprehensive income, net of tax
+638 638
+of ($17)
+Share-based compensation 426 426
+Treasury shares issued for other share-
+(489) 556 67
+based plans, net
+Treasury shares issued for 401(k)
+559 971 1,530
+contributions
+Treasury shares issued in exchange for
+1,874 2,830 4,704
+shares of Spirit
+Premium on Exchangeable Notes
+109 109
+assumed from acquisition of Spirit
+Cash dividends declared on Mandatory
+(345) (345)
+convertible preferred stock
+Other changes in noncontrolling interests (2) 6 4
+Balance at December 31, 2025 $6 $5,061 $21,441 ($28,029) $17,252 ($10,277) $3 $5,457
+See Notes to the Consolidated Financial Statements on pages 

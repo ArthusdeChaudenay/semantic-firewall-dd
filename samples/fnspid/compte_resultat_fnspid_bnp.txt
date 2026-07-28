@@ -1,0 +1,26 @@
+COMPTE DE RÉSULTAT SIMPLIFIÉ — EXERCICE 2023
+Société     : BNP Paribas France SA
+Date        : 31/12/2023
+Source      : Inspiration FNSPID S&P 500 — entité bancaire Europe
+Secteur     : Services financiers — Banque commerciale & Gestion de patrimoine
+
+════════════════════════════════════════════════════════════════
+RÉSULTAT D'EXPLOITATION
+════════════════════════════════════════════════════════════════
+  Chiffre d'affaires                   :   65 000 000,00 €
+  Charges de personnel                 :   28 000 000,00 €
+  Autres charges d'exploitation        :   16 500 000,00 €
+  ──────────────────────────────────────────────────────────
+  EBITDA                               :   20 500 000,00 €
+    Taux de marge EBITDA               :           31,5 %
+
+  Dotations aux amortissements (D&A)   :    3 200 000,00 €
+  ──────────────────────────────────────────────────────────
+  EBIT (Résultat d'exploitation)       :   17 300 000,00 €
+
+  Charges financières nettes           :   (1 300 000,00) €
+
+  Résultat avant impôt (EBT)           :   18 600 000,00 €
+  Impôt sur les sociétés (IS — 25 %)   :    4 650 000,00 €
+  ──────────────────────────────────────────────────────────
+  Résultat net de l'exercice           :   13 950 000,00 €

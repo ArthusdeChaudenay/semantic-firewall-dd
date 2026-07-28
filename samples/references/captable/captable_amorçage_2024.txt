@@ -1,0 +1,46 @@
+TABLEAU DE CAPITALISATION — AMORÇAGE (SEED)
+Entreprise  : DataBridge SAS
+Date        : 28/03/2024
+Opération   : Tour de table seed — Montant : 800 000 €
+
+════════════════════════════════════════════════════════════════
+OPÉRATION
+════════════════════════════════════════════════════════════════
+Valorisation pré-money                   :    3 200 000,00 €
+Montant levée seed                       :      800 000,00 €
+Valorisation post-money                  :    4 000 000,00 €
+
+════════════════════════════════════════════════════════════════
+STRUCTURE DU CAPITAL
+════════════════════════════════════════════════════════════════
+Nombre total d'actions (post-money)      :        400 000
+Prix par action (post-money)             :          10,00 €
+
+Répartition des actionnaires :
+  Fondateurs                             :         72,5 %
+    Marie Dupont (CEO & co-fondatrice)   :         40,0 %
+    Thomas Leroy (CTO & co-fondateur)    :         32,5 %
+  Investisseurs seed                     :         20,0 %
+    Kima Ventures                        :         10,0 %
+    Business angels individuels          :         10,0 €
+  BPI France (prêt convertible)          :          2,5 %
+  ESOP (pool à créer post-seed)          :          5,0 %
+  ────────────────────────────────────────────────────────
+  TOTAL                                  :        100,0 %
+
+════════════════════════════════════════════════════════════════
+INSTRUMENTS DILUTIFS
+════════════════════════════════════════════════════════════════
+BSPCE (réservé fondateurs et futurs emp.)  :   20 000 titres
+OCA BPI France (conv. à 5 M€ pré-money)   :   10 000 titres
+────────────────────────────────────────────────────────────────
+Dilution potentielle totale              :          7,5 %
+Capitalisation pleinement diluée         :    4 320 000,00 €
+
+════════════════════════════════════════════════════════════════
+CONDITIONS PRINCIPALES (TERM SHEET)
+════════════════════════════════════════════════════════════════
+Droit de suite (pro-rata)                : Oui — investisseurs seed
+Droit de préemption                      : Oui
+Anti-dilution                            : Broad-based weighted average
+Clause de bad leaver / good leaver       : Oui — vesting sur 4 ans (cliff 1 an)

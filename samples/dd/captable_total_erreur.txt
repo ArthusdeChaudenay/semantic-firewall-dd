@@ -1,0 +1,24 @@
+TABLEAU DE CAPITALISATION — SÉRIE A
+Entreprise  : MedTech Innovations SAS
+Date        : 10/06/2025
+
+════════════════════════════════════════════════════════════════
+OPÉRATION
+════════════════════════════════════════════════════════════════
+Valorisation pré-money          :   12 000 000,00 €
+Montant levée Série A           :    3 000 000,00 €
+Valorisation post-money         :   15 000 000,00 €
+
+════════════════════════════════════════════════════════════════
+STRUCTURE DU CAPITAL
+════════════════════════════════════════════════════════════════
+Nombre total d'actions          :    1 500 000
+Prix par action (post-money)    :           10,00 €
+
+Répartition :
+  Fondateurs                    :         45,0 %
+  Investisseurs Série A         :         25,0 %
+  ESOP / BSA                    :         10,0 %
+  Business Angels (seed)        :         10,0 %
+  ────────────────────────────────────────────
+  TOTAL                         :         90,0 %

@@ -1,0 +1,33 @@
+COMPTE DE RÉSULTAT CONSOLIDÉ
+Entreprise : Tesla Motors SAS
+Exercice    : 2024
+
+Source : Données issues du SEC 10-K FY2024 — entité fabrication Europe
+Secteur     : Véhicules électriques & Stockage d'énergie
+
+════════════════════════════════════════════════════════════════
+Chiffre d'affaires net                  :   8 400 000,00 €
+  Ventes véhicules                      :   7 100 000,00 €
+  Services & énergie                    :   1 300 000,00 €
+Charges de personnel                    :   3 360 000,00 €
+  Production & ingénierie               :   2 520 000,00 €
+  Ventes, admin & support               :     840 000,00 €
+Autres charges d'exploitation           :   2 520 000,00 €
+  Matières premières & composants       :   1 680 000,00 €
+  Frais logistiques & distribution      :     504 000,00 €
+  Frais généraux                        :     336 000,00 €
+                                          ────────────────────
+EBITDA                                  :   3 780 000,00 €
+Dotations aux amortissements (D&A)      :     420 000,00 €
+  Amort. lignes de fabrication          :     280 000,00 €
+  Amort. outillages & moules            :     140 000,00 €
+                                          ────────────────────
+EBIT (Résultat d'exploitation)          :   3 360 000,00 €
+Charges financières nettes              :      84 000,00 €
+                                          ────────────────────
+Résultat avant impôt (EBT)             :   3 276 000,00 €
+Impôt sur les sociétés (IS — 25 %)     :     819 000,00 €
+                                          ────────────────────
+Résultat net                            :   2 457 000,00 €
+════════════════════════════════════════════════════════════════
+Marge EBITDA                            :          45,0 %

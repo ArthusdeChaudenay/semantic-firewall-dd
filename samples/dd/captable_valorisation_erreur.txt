@@ -1,0 +1,25 @@
+TABLEAU DE CAPITALISATION — SÉRIE B
+Entreprise  : CloudScale SAS
+Date        : 20/05/2025
+
+════════════════════════════════════════════════════════════════
+OPÉRATION
+════════════════════════════════════════════════════════════════
+Valorisation pré-money          :   20 000 000,00 €
+Montant levée Série B           :    5 000 000,00 €
+Valorisation post-money         :   28 000 000,00 €
+
+════════════════════════════════════════════════════════════════
+STRUCTURE DU CAPITAL
+════════════════════════════════════════════════════════════════
+Nombre total d'actions          :    2 000 000
+Prix par action (post-money)    :           12,50 €
+
+Répartition :
+  Fondateurs                    :         40,0 %
+  Investisseurs Série B         :         20,0 %
+  Investisseurs Série A         :         20,0 %
+  ESOP / BSA                    :         12,0 %
+  Business Angels (seed)        :          8,0 %
+  ────────────────────────────────────────────
+  TOTAL                         :        100,0 %

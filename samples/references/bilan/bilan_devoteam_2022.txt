@@ -1,0 +1,52 @@
+BILAN CONSOLIDÉ
+Groupe : Devoteam SA
+Exercice : 31 décembre 2022
+Normes : IFRS — en milliers d'euros
+
+════════════════════════════════════════════════════════════════
+ACTIF
+════════════════════════════════════════════════════════════════
+Actif immobilisé                         :    605 412,00 K€
+  Goodwill                               :    374 815,00 K€
+  Immobilisations incorporelles          :     42 317,00 K€
+  Immobilisations corporelles            :     18 904,00 K€
+  Droits d'utilisation IFRS 16           :     87 614,00 K€
+  Autres actifs financiers               :     81 762,00 K€
+Actif circulant                          :    501 318,00 K€
+  Créances clients et comptes rattachés  :    348 219,00 K€
+  Autres actifs courants                 :     87 416,00 K€
+  Impôts courants                        :     17 814,00 K€
+  Instruments dérivés courants           :      4 217,00 K€
+  Autres créances financières courantes  :     43 652,00 K€
+Trésorerie et équivalents                :    226 817,00 K€
+
+TOTAL ACTIF                              :  1 333 547,00 K€
+
+════════════════════════════════════════════════════════════════
+PASSIF
+════════════════════════════════════════════════════════════════
+Capitaux propres (part du groupe)        :    413 214,00 K€
+  Capital social                         :      8 412,00 K€
+  Primes et réserves                     :    287 614,00 K€
+  Résultat net part du groupe            :    117 188,00 K€
+Intérêts minoritaires                    :     14 317,00 K€
+Dettes financières long terme            :    284 615,00 K€
+  Emprunts bancaires LT                  :    142 317,00 K€
+  Dettes de loyer LT (IFRS 16)           :     72 814,00 K€
+  Autres dettes financières LT           :     69 484,00 K€
+Passifs d'impôts différés                :     58 417,00 K€
+Provisions long terme                    :     24 618,00 K€
+Dettes d'exploitation courantes          :    538 366,00 K€
+  Dettes fournisseurs                    :    112 614,00 K€
+  Dettes sociales                        :    148 317,00 K€
+  Dettes de loyer CT (IFRS 16)           :     34 217,00 K€
+  Autres dettes courantes                :    243 218,00 K€
+
+TOTAL PASSIF                             :  1 333 547,00 K€
+
+════════════════════════════════════════════════════════════════
+RATIOS CLÉS
+════════════════════════════════════════════════════════════════
+Dette nette                              :     57 798,00 K€
+Ratio dette nette / EBITDA               :          0,38
+Résultat par action                      :         14,12 €

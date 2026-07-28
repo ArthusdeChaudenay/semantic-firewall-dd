@@ -1,0 +1,51 @@
+TABLEAU DE CAPITALISATION — SÉRIE B
+Entreprise  : PayStream Technologies SAS
+Date        : 12/09/2024
+Opération   : Levée de fonds Série B — Lead investisseur : Partech Partners
+
+════════════════════════════════════════════════════════════════
+OPÉRATION
+════════════════════════════════════════════════════════════════
+Valorisation pré-money                   :   42 000 000,00 €
+Montant levée Série B                    :   12 000 000,00 €
+Valorisation post-money                  :   54 000 000,00 €
+
+════════════════════════════════════════════════════════════════
+STRUCTURE DU CAPITAL (POST-MONEY)
+════════════════════════════════════════════════════════════════
+Nombre total d'actions (post-money)      :      5 400 000
+Prix par action (post-money)             :          10,00 €
+
+Répartition des actionnaires :
+  Fondateurs                             :         38,5 %
+    Paul Martin (CEO)                    :         22,0 %
+    Sophie Bernard (CTO)                 :         16,5 %
+  Investisseurs Série B (nouveaux)       :         22,2 %
+    Partech Partners                     :         14,8 %
+    BPI France Investissement             :          7,4 %
+  Investisseurs Série A                  :         18,5 %
+    Kima Ventures                        :          9,3 %
+    Idinvest Partners                    :          9,2 %
+  Business Angels (seed et Série A)      :          8,3 %
+  ESOP / BSA (pool stock-options)        :         12,5 %
+    Attribués                            :          7,8 %
+    Pool réservé non attribué            :          4,7 %
+  ────────────────────────────────────────────────────────
+  TOTAL                                  :        100,0 %
+
+════════════════════════════════════════════════════════════════
+INSTRUMENTS DILUTIFS
+════════════════════════════════════════════════════════════════
+BSA (Bons de souscription d'actions)     :    270 000 titres
+BSPCE (collaborateurs clés)             :    405 000 titres
+OCA convertibles (tranche 1)             :    108 000 titres (conv. à 40 M€ pré-money)
+────────────────────────────────────────────────────────────────
+Dilution potentielle totale              :          14,5 %
+Capitalisation pleinement diluée         :   63 210 000,00 €
+
+════════════════════════════════════════════════════════════════
+LIQUIDATION PREFERENCES
+════════════════════════════════════════════════════════════════
+Série B : 1x non-participating liquidation preference
+Série A : 1x non-participating liquidation preference
+Seed : pas de liquidation preference

@@ -1,0 +1,106 @@
+d/or profit sharing
+obligations. See Note 5, "Licensing, Acquisitions and Other Arrangements—Other Licensing & Acquisitions Activity," to the Consolidated
+Financial Statements included under Item 8, "Financial Statements and Supplementary Data."
+Third Party Agreements
+AbbVie has agreements with third parties for process development, product distribution, analytical services and manufacturing of
+certain products. AbbVie procures certain products and services from a limited number of suppliers and, in some cases, a single supply source.
+In addition, AbbVie has agreements with third parties for active pharmaceutical ingredient and product manufacturing, formulation and
+development services, fill, finish and packaging services, transportation and distribution and logistics services for certain products. AbbVie
+does not believe that these manufacturing-related agreements are material because AbbVie's business is not substantially dependent on any
+individual agreement. In most cases, AbbVie maintains alternate supply relationships that it can utilize without undue disruption of its
+manufacturing processes if a third party fails to perform its contractual obligations. AbbVie seeks to maintain sufficient inventory of product to
+minimize the impact of any supply disruption.
+AbbVie is also party to certain collaborations and other arrangements, as discussed in Note 5, "Licensing, Acquisitions and Other
+Arrangements—Other Licensing & Acquisitions Activity," to the Consolidated Financial Statements included under Item 8, "Financial
+Statements and Supplementary Data."
+Sources and Availability of Raw Materials
+AbbVie purchases, in the ordinary course of business, raw materials and supplies essential to its operations from numerous suppliers
+around the world. In addition, certain medical devices and components necessary for the manufacture of AbbVie products are provided by
+unaffiliated third party suppliers. AbbVie has robust business continuity and supplier monitoring programs.
+Research and Development Activities
+AbbVie makes a significant investment in research and development and has numerous compounds (and complementary devices) in
+clinical development, including potential treatments for complex, life-threatening diseases. AbbVie's ability to discover and develop new
+compounds is enhanced by the company's use of integrated discovery and development project teams, which include chemists, biologists,
+physicians and pharmacologists who work on the same compounds as a team. AbbVie also partners with third parties, such as biotechnology
+companies, other pharmaceutical companies and academic institutions to identify and prioritize promising new treatments that complement
+and enhance AbbVie’s existing portfolio. AbbVie also supplements its research and development efforts with acquisitions.
+The research and development process generally begins with discovery research which focuses on the identification of a molecule that
+has a desired effect against a given disease. If preclinical testing of an identified compound proves successful, the compound moves into
+clinical development which generally includes the following phases:
+• Phase 1— involves the first human tests in a small number of healthy volunteers or patients to assess safety, tolerability and
+doses for later phases.
+• Phase 2— tests different doses of the drug in a disease state in order to assess efficacy.
+• Phase 3— tests a drug that demonstrates favorable results in the earlier phases in a significantly larger patient population to
+further demonstrate efficacy and safety in order to meet regulatory requirements to enable global approval.
+Preclinical data and clinical trials from all of the development phases provide the data required to prepare and submit an NDA, a
+Biological License Application (BLA) or other submission for regulatory approval to the FDA or similar government agencies outside the United
+States. The specific requirements (e.g., scope of clinical trials) for obtaining regulatory approval vary across different countries and geographic
+regions.
+The research and development process from discovery through a new drug launch typically takes 8 to 12 years and can be even longer.
+The research and development of new pharmaceutical products has a significant amount of inherent uncertainty. There is no guarantee when,
+or if, a molecule will receive the regulatory approval required to launch a new drug or indication.
+abbvieimage3.gif
+2025 Form 10-K | 8
+In addition to the development of new products, delivery devices and new formulations, research and development projects also may
+include Phase 4 trials, sometimes called post-marketing studies. For such projects, clinical trials are designed and conducted to collect
+additional data regarding, among other parameters, the benefits and risks of an approved drug.
+Regulation—Discovery and Clinical Development
+United States. Securing approval to market a new pharmaceutical product in the United States requires substantial effort and financial
+resources and takes several years to complete. The applicant must complete preclinical tests and submit protocols to the FDA before
+commencing clinical trials. Clinical trials are intended to establish the safety and efficacy of the pharmaceutical product and typically are
+conducted in sequential phases, although the phases may overlap or be combined. If the required clinical testing is successful, the results are
+submitted to the FDA in the form of an NDA or BLA requesting approval to market the product for one or more indications. The FDA reviews
+an NDA or BLA to determine whether a product is safe and effective for its intended use and whether its manufacturing is compliant with
+current Good Manufacturing Practices (cGMP).
+Compliance with regulatory requirements is assured through periodic, announced or unannounced inspections by the FDA and other
+regulatory authorities, and these inspections associated with clinical development may include the sponsor, investigator sites, laboratories,
+hospitals and manufacturing facilities of AbbVie's subcontractors or other third-party manufacturers. Failure to comply with applicable
+regulatory requirements can result in enforcement action by the FDA, including rejection of an NDA or BLA.
+Even if an NDA or a BLA receives approval, the applicant must comply with post-approval requirements. For example, holders of an
+approval must report adverse reactions, provide updated safety and efficacy information and comply with requirements concerning
+advertising and promotional materials and activities. Also, quality control and manufacturing procedures must continue to conform to cGMP
+after approval, and certain changes to the manufacturing procedures and finished product must be submitted and approved by the FDA prior
+to implementation. The FDA periodically inspects manufacturing facilities to assess compliance with cGMP, which imposes extensive
+procedural and record keeping requirements. In addition, as a condition of approval, the FDA may require post-marketing testing and
+surveillance to further assess and monitor the product's safety or efficacy after commercialization, which may require additional clinical trials,
+patient registries, observational data or additional work on chemistry, manufacturing and controls. Any post-approval regulatory obligations,
+and the cost of complying with such obligations, could expand in the future. Further, the FDA continues to regulate product labeling and
+prohibits the promotion of products for unapproved or “off-label” uses along with other labeling restrictions.
+Outside the United States. AbbVie is subject to similar regulatory requirements outside the United States for approval and marketing
+of pharmaceutical products. AbbVie must obtain approval of a clinical trial application or product from applicable supervising regulatory
+authorities before it can commence clinical trials or marketing of the product in target markets. The approval requirements and process for
+each country can vary and the time required to obtain approval may be longer or shorter than that required for FDA approval in the United
+States. For example, AbbVie may submit marketing authorizations in the European Union under either a centralized or decentralized
+procedure. The centralized procedure is mandatory for the approval of biotechnology products and many pharmaceutical products and
+provides for a single marketing authorization that is valid for all European Union member states. Under the centralized procedure, a single
+marketing authorization application is submitted to the European Medicines Agency. After the agency evaluates the application, it makes a
+recommendation to the European Commission, which then makes the final determination on whether to approve the application. The
+decentralized procedure provides for mutual recognition of individual national approval decisions and is available for products that are not
+subject to the centralized procedure.
+In Japan, applications for approval of a new product are made through the Pharmaceutical and Medical Devices Agency (PMDA). Japan-
+specific trials and/or bridging studies to demonstrate that the non-Japanese clinical data applies to Japanese patients are usually required.
+After completing a comprehensive review, the PMDA reports to the Ministry of Health, Labour and Welfare, which then approves or denies
+the application.
+Similarly, applications for a new product in China are submitted to the Center for Drug Evaluation of the National Medical Products
+Administration for technical review and approval of a product for marketing in China. Clinical data in Chinese subjects are usually required to
+support approval in China, requiring the inclusion of China in global pivotal studies, or a separate China/Asian clinical trial.
+The regulatory process in many emerging markets continues to evolve. Many emerging markets, including those in Asia, generally
+require regulatory approval to have been obtained in a large developed market (such as the United States or Europe) before the country will
+begin or complete its regulatory review process. Similar to the requirements in Japan and
+Image3.gif
+9 | 2025 Form 10-K
+China, certain countries (notably South Korea, Taiwan, India and Russia) also generally require that clinical studies that include data from
+patients in those countries be conducted in order to support local regulatory approval.
+The requirements governing the conduct of clinical trials and product licensing also vary. In addition, post-approval regulatory
+obligations such as adverse event reporting and cGMP compliance generally apply and may vary by country. For example, after a marketing
+authorization has been granted in the European Union, periodic safety reports must be submitted and other pharmacovigilance measures may
+be required (such as Risk Management Plans).
+Regulation—Commercialization, Distribution and Manufacturing
+The manufacturing, marketing, sale, promotion and distribution of AbbVie's products are subject to comprehensive government
+regulation. Government regulation by various national, regional, federal, state and local agencies, both in the United States and other
+countries, addresses (among other matters) inspection of, and controls over, research and laboratory procedures, clinical investigations,
+product approvals and manufacturing, labeling, packaging, marketing and promotion, pricing and reimbursement, sampling, distribution,
+quality control, post-marketing surveillance, record keeping, storage and disposal practices. AbbVie's operations are also affected by trade
+regulations in many countries that limit the import of raw materials and finished products and by laws and regulations that seek to prevent
+corruption and bribery in the marketplace (including the United States Foreign Corrupt Practices Act and the United Kingdom Bribery Act,
+which provide guidance on corporate interactions with government officials) and require safeguard

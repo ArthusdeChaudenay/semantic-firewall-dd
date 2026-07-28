@@ -1,0 +1,22 @@
+Facture N° CONS-2026-014
+Date facture : 03/06/2026
+Date d'échéance : 03/07/2026
+
+Prestataire : Cabinet Dupont Conseil SARL
+N° TVA : FR23456789012
+Adresse : 18 avenue de l'Opéra, 75001 Paris
+
+Client : Fintech Innov SAS
+Adresse : 42 rue de la Paix, 69002 Lyon
+
+Prestation : Mission de conseil en transformation digitale
+Période : Mai 2026
+Durée : 10 jours × 850,00 €
+
+Montant HT   :  8 500,00 €
+TVA (20 %)   :  1 700,00 €
+Montant TTC  : 10 200,00 €
+
+Devise : EUR
+Mode de règlement : Virement bancaire
+IBAN : FR76 3000 6000 0112 3456 7890 189

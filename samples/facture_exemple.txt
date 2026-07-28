@@ -1,0 +1,11 @@
+Facture N° INV-2026-001
+Date facture: 12/06/2026
+Date d'échéance: 26/06/2026
+Fournisseur: SARL Exemple
+TVA: FR12345678901
+Client: Société Client
+Montant HT: 1000,00 €
+Taux TVA: 20%
+Montant TVA: 200,00 €
+Montant TTC: 1200,00 €
+Devise: EUR

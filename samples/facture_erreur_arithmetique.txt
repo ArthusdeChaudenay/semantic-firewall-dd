@@ -1,0 +1,19 @@
+FACTURE
+Numéro : FC-2026-ERR-001
+Date de facture : 10/06/2026
+Date d'échéance : 10/07/2026
+
+Fournisseur : BTP Rénov SARL
+N° TVA : FR29876543210
+
+Client : Résidence Les Pins
+
+Travaux de rénovation intérieure
+Montant HT    :  5 000,00 €
+Taux TVA      :  10 %
+Montant TVA   :    500,00 €
+Montant TTC   :  6 000,00 €
+
+Devise : EUR
+
+[Note : le montant TTC indiqué est erroné — 5000 + 500 = 5500, pas 6000]

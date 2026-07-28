@@ -1,0 +1,34 @@
+COMPTE DE RÉSULTAT CONSOLIDÉ
+Groupe : TotalEnergies SE
+Exercice : 31 décembre 2023
+Normes : IFRS — en millions USD
+
+════════════════════════════════════════════════════════════════
+Chiffre d'affaires et produits           :    218 942,00 M$
+Achats de pétrole brut et produits       :   -163 412,00 M$
+                                           ─────────────────
+Marge brute sur ventes d'énergie         :     55 530,00 M$
+Charges d'exploration et production      :     -8 214,00 M$
+Charges de raffinage et distribution     :     -6 417,00 M$
+Charges administratives et R&D           :     -3 812,00 M$
+Autres charges opérationnelles           :     -1 614,00 M$
+                                           ─────────────────
+EBITDA ajusté                            :     35 473,00 M$
+Dotations aux amortissements et déplétion:    -10 814,00 M$
+Dépréciations d'actifs                   :       -812,00 M$
+                                           ─────────────────
+EBIT (Résultat opérationnel ajusté)      :     23 847,00 M$
+Charges financières nettes               :     -1 412,00 M$
+Résultat des sociétés mises en équivalence:      2 817,00 M$
+                                           ─────────────────
+Résultat avant impôt (EBT)              :     25 252,00 M$
+Impôts sur le résultat                   :     -5 433,00 M$
+                                           ─────────────────
+Résultat net                             :     19 819,00 M$
+  dont part du groupe                    :     18 941,00 M$
+  dont intérêts minoritaires             :        878,00 M$
+════════════════════════════════════════════════════════════════
+Marge EBITDA ajustée                     :         16,2 %
+Marge EBIT ajustée                       :         10,9 %
+Marge nette (part groupe)                :          8,6 %
+Retour sur capitaux employés (ROCE)      :         13,4 %

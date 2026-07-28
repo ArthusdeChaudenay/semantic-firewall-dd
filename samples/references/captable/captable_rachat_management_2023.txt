@@ -1,0 +1,49 @@
+TABLEAU DE CAPITALISATION — MBO (Management Buy-Out)
+Entreprise  : Industech Solutions SAS
+Date        : 15/11/2023
+Opération   : Rachat par le management avec LBO — fonds sponsor : Eurazeo PME
+
+════════════════════════════════════════════════════════════════
+OPÉRATION
+════════════════════════════════════════════════════════════════
+Prix d'acquisition (entreprise)          :   28 000 000,00 €
+  Dette senior (LBO)                     :   16 800 000,00 €
+  Fonds propres équipe management        :    1 400 000,00 €
+  Fonds propres sponsor (Eurazeo PME)    :    9 800 000,00 €
+Ratio dette/équité                       :          1,75 x
+
+════════════════════════════════════════════════════════════════
+STRUCTURE DU CAPITAL (CLOSING)
+════════════════════════════════════════════════════════════════
+Nombre total d'actions ordinaires        :      2 800 000
+Prix par action                          :          10,00 €
+
+Répartition des actionnaires :
+  Management (équipe dirigeante)         :          5,0 %
+    Directeur général (DG)               :          2,5 %
+    Directeur financier (DAF)            :          1,5 %
+    Directeur commercial                 :          1,0 %
+  Eurazeo PME (fonds LBO sponsor)        :         35,0 %
+  Co-investisseurs                        :         10,0 %
+  Actions de préférence (ratchet mgmt)   :         50,0 %
+  ESOP / Management Package              :          0,0 %
+  ────────────────────────────────────────────────────────
+  TOTAL                                  :        100,0 %
+
+════════════════════════════════════════════════════════════════
+ACTIONS DE PRÉFÉRENCE ET RATCHET
+════════════════════════════════════════════════════════════════
+Actions ordinaires (management)          :      140 000
+Actions de préférence (sponsor + co-inv) :    2 660 000
+Mécanisme de ratchet management          : +5% à +15% selon TRI sponsor
+TRI cible sponsor                        :         20,0 %
+Horizon de sortie prévu                  :    4 à 6 ans
+
+════════════════════════════════════════════════════════════════
+DETTE LBO
+════════════════════════════════════════════════════════════════
+Dette senior tranche A (amortissable)    :   11 200 000,00 €
+Dette senior tranche B (bullet)          :    5 600 000,00 €
+Taux (Euribor 3M + marge)               :   Euribor + 3,25 %
+Covenant DSCR                            :         > 1,20 x
+Covenant levier (dette nette / EBITDA)   :          < 4,0 x

@@ -1,0 +1,18 @@
+FACTURE
+Numéro : FC-2026-TEMP-001
+Date de facture  : 25/06/2026
+Date d'échéance  : 10/06/2026
+
+Fournisseur : Logistique Rapide SAS
+N° TVA intracommunautaire : FR13579246801
+
+Client : Distribution Sud SARL
+
+Prestation de transport express — juin 2026
+Montant HT    :   800,00 €
+Taux TVA      :    20 %
+Montant TVA   :   160,00 €
+Montant TTC   :   960,00 €
+Devise        :   EUR
+
+[Note : l'échéance (10/06) est antérieure à la date de facture (25/06) — anomalie temporelle]

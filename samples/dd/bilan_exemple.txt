@@ -1,0 +1,30 @@
+BILAN SIMPLIFIÉ
+Entreprise : TechVenture SAS
+Exercice    : 2025
+
+════════════════════════════════════════════════════
+ACTIF
+════════════════════════════════════════════════════
+Actif immobilisé                :  1 200 000,00 €
+  Immobilisations corporelles   :    800 000,00 €
+  Immobilisations incorporelles :    400 000,00 €
+Actif circulant                 :    850 000,00 €
+  Créances clients              :    600 000,00 €
+  Stocks et en-cours            :    250 000,00 €
+Trésorerie et équivalents       :    450 000,00 €
+
+TOTAL ACTIF                     :  2 500 000,00 €
+
+════════════════════════════════════════════════════
+PASSIF
+════════════════════════════════════════════════════
+Capitaux propres                :  1 500 000,00 €
+  Capital social                :    500 000,00 €
+  Réserves et report à nouveau  :    600 000,00 €
+  Résultat de l'exercice        :    400 000,00 €
+Dettes financières              :    700 000,00 €
+  Emprunts bancaires à LT       :    700 000,00 €
+Dettes d'exploitation           :    300 000,00 €
+  Fournisseurs et dettes        :    300 000,00 €
+
+TOTAL PASSIF                    :  2 500 000,00 €

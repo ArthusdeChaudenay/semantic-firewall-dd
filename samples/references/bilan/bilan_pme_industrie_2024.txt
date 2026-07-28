@@ -1,0 +1,63 @@
+BILAN SIMPLIFIÉ
+Entreprise : Mécatech Industries SAS
+Exercice : 31 décembre 2024
+Normes : PCG (Plan Comptable Général) — en euros
+
+════════════════════════════════════════════════════════════════
+ACTIF
+════════════════════════════════════════════════════════════════
+Actif immobilisé                         :  4 217 450,00 €
+  Immobilisations incorporelles          :    312 000,00 €
+    Logiciels et licences                :    187 000,00 €
+    Brevets industriels                  :    125 000,00 €
+  Immobilisations corporelles            :  3 618 450,00 €
+    Terrains et constructions            :  1 850 000,00 €
+    Machines et outillages industriels   :  1 412 000,00 €
+    Matériel informatique et bureautique :    142 000,00 €
+    Véhicules                            :    214 450,00 €
+  Immobilisations financières            :    287 000,00 €
+    Dépôts et cautionnements             :     87 000,00 €
+    Titres de participation              :    200 000,00 €
+Actif circulant                          :  2 814 320,00 €
+  Stocks et en-cours de production       :    987 000,00 €
+    Matières premières                   :    412 000,00 €
+    En-cours de fabrication              :    318 000,00 €
+    Produits finis                       :    257 000,00 €
+  Créances clients et comptes rattachés  :  1 542 000,00 €
+  Autres créances (État, charges prép.)  :    285 320,00 €
+Trésorerie et équivalents                :    618 000,00 €
+
+TOTAL ACTIF                              :  7 649 770,00 €
+
+════════════════════════════════════════════════════════════════
+PASSIF
+════════════════════════════════════════════════════════════════
+Capitaux propres                         :  3 412 000,00 €
+  Capital social                         :    500 000,00 €
+  Primes d'émission                      :    250 000,00 €
+  Réserve légale                         :     50 000,00 €
+  Réserves facultatives                  :  1 814 000,00 €
+  Report à nouveau                       :    412 000,00 €
+  Résultat de l'exercice                 :    386 000,00 €
+Provisions pour risques et charges       :    214 000,00 €
+  Provisions pour litiges                :    114 000,00 €
+  Provisions pour garanties clients      :    100 000,00 €
+Dettes financières                       :  1 987 000,00 €
+  Emprunts bancaires moyen terme         :  1 412 000,00 €
+  Concours bancaires courants            :    187 000,00 €
+  Dettes sur immobilisations             :    388 000,00 €
+Dettes d'exploitation                    :  2 036 770,00 €
+  Dettes fournisseurs et comptes ratt.   :    912 000,00 €
+  Dettes fiscales et sociales            :    687 000,00 €
+  Avances et acomptes reçus              :    124 000,00 €
+  Autres dettes                          :    313 770,00 €
+
+TOTAL PASSIF                             :  7 649 770,00 €
+
+════════════════════════════════════════════════════════════════
+RATIOS CLÉS
+════════════════════════════════════════════════════════════════
+Fonds de roulement net global (FRNG)     :    608 550,00 €
+Besoin en fonds de roulement (BFR)       :    817 320,00 €
+Trésorerie nette                         :   -208 770,00 €
+Ratio d'autonomie financière             :         44,6 %

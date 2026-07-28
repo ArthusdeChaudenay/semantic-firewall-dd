@@ -1,0 +1,33 @@
+COMPTE DE RÉSULTAT CONSOLIDÉ
+Groupe : LVMH Moët Hennessy Louis Vuitton SE
+Exercice : 31 décembre 2023
+Normes : IFRS — en millions d'euros
+
+════════════════════════════════════════════════════════════════
+Chiffre d'affaires                       :     86 153,00 M€
+Coût des ventes                          :    -28 817,00 M€
+                                           ─────────────────
+Marge brute                              :     57 336,00 M€
+Charges de distribution et marketing     :    -20 414,00 M€
+Charges administratives et générales     :      -9 817,00 M€
+Autres produits et charges d'exploitation:         812,00 M€
+                                           ─────────────────
+EBITDA                                   :     27 917,00 M€
+Dotations aux amortissements             :      -4 812,00 M€
+Amortissements droits d'utilisation IFRS :      -2 214,00 M€
+                                           ─────────────────
+EBIT (Résultat d'exploitation)           :     20 891,00 M€
+Charges financières nettes               :      -1 217,00 M€
+Produits sur actifs financiers           :         412,00 M€
+                                           ─────────────────
+Résultat avant impôt (EBT)              :     20 086,00 M€
+Impôt sur les sociétés                   :      -5 814,00 M€
+                                           ─────────────────
+Résultat net total                       :     14 272,00 M€
+  dont part du groupe                    :      8 961,00 M€
+  dont intérêts minoritaires             :      5 311,00 M€
+════════════════════════════════════════════════════════════════
+Marge brute                              :         66,6 %
+Marge EBITDA                             :         32,4 %
+Marge EBIT                               :         24,2 %
+Marge nette (part groupe)                :         10,4 %

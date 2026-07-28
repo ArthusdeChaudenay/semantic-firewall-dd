@@ -1,0 +1,40 @@
+TABLEAU DE CAPITALISATION — SÉRIE B
+Entreprise  : Netflix Content SAS
+Date        : 20/06/2024
+
+Source : Données issues du SEC 10-K FY2024 — entité production Europe
+Secteur     : Streaming & Production de contenus
+
+════════════════════════════════════════════════════════════════
+OPÉRATION SÉRIE B
+════════════════════════════════════════════════════════════════
+Valorisation pré-money          :   20 000 000,00 €
+Montant levée Série B           :    5 000 000,00 €
+Valorisation post-money         :   25 000 000,00 €
+
+════════════════════════════════════════════════════════════════
+STRUCTURE DU CAPITAL
+════════════════════════════════════════════════════════════════
+Nombre total d'actions          :    2 500 000
+Prix par action (post-money)    :          10,00 €
+
+Répartition post-opération :
+  Fondateurs                    :         48,0 %
+  Investisseurs (Série A + B)   :         38,0 %
+  ESOP / BSA collaborateurs     :         10,0 %
+  Business Angels (amorçage)    :          4,0 %
+  ────────────────────────────────────────────
+  TOTAL                         :        100,0 %
+
+  Détail investisseurs (pour information) :
+    dont Série A (2023)         :         18,0 %
+    dont Série B (2024)         :         20,0 %
+
+════════════════════════════════════════════════════════════════
+HISTORIQUE DES LEVÉES
+════════════════════════════════════════════════════════════════
+  Amorçage (2022)               :    1 500 000,00 €  à  3,00 €/action
+  Série A (2023)                :    3 000 000,00 €  à  6,00 €/action
+  Série B (2024)                :    5 000 000,00 €  à 10,00 €/action
+  ────────────────────────────────────────────────────────────
+  Total levé cumulé             :    9 500 000,00 €

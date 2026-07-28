@@ -1,0 +1,18 @@
+COMPTE DE RÉSULTAT COMPACT
+Entreprise : SaaSify Player SAS
+Exercice   : 2025
+
+Chiffre d'affaires net                  : 500 000,00 €
+Charges de personnel                    : 220 000,00 €
+Autres charges d'exploitation           : 130 000,00 €
+                                          ──────────────
+EBITDA                                  : 150 000,00 €
+Dotations aux amortissements (D&A)      :  30 000,00 €
+                                          ──────────────
+EBIT (Résultat d'exploitation)          : 120 000,00 €
+Charges financières                     :   5 000,00 €
+Impôts sur les sociétés (IS — 25 %)     :  23 000,00 €
+                                          ──────────────
+Résultat net                            :  92 000,00 €
+                                          ══════════════
+Marge EBITDA                            :      30,0 %

@@ -1,0 +1,20 @@
+SaaSify Player SAS - COMPTE DE RÉSULTAT COMPACT AU 31/12/2025
+------------------------------------------------------------
+CHIFFRE D'AFFAIRES (CA) : 1 200 000 €
+Production vendue (Abonnements SaaS récurrents ARR) : 1 150 000 €
+Prestations de services (Intégration API) : 50 000 €
+
+CHARGES OPÉRATIONNELLES : -900 000 €
+Charges de personnel (Salaires ingénieurs et R&D) : -600 000 €
+Autres charges externes (Hébergement serveurs AWS) : -300 000 €
+
+EXCÉDENT BRUT D'EXPLOITATION (EBITDA) : 300 000 €
+Marge d'EBITDA calculée : 25%
+
+Dotations aux amortissements et provisions (D&A) : -50 000 €
+RÉSULTAT D'EXPLOITATION (EBIT) : 250 000 €
+
+Charges financières (Intérêts d'emprunts) : -15 000 €
+Impôts sur les bénéfices (IS) : -35 000 €
+
+RÉSULTAT NET DE L'EXERCICE (Bénéfice) : 200 000 €

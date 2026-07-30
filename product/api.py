@@ -1474,9 +1474,9 @@ async def rag_index(
     """
     Indexe une data room complète dans le corpus RAG.
 
-    Chaque fichier passe par le gate JSD statique (seuil = 0.55) :
-    - JSD ≤ 0.55 → conforme au corpus de référence → indexé
-    - JSD > 0.55 → dérive de distribution lexicale détectée → exclu
+    Chaque fichier passe par le gate JSD statique (seuil = config.JSD_ALERT_THRESHOLD) :
+    - JSD ≤ seuil → conforme au corpus de référence → indexé
+    - JSD > seuil → dérive de distribution lexicale détectée → exclu
 
     Retourne le rapport d'indexation avec le détail par fichier.
     """
@@ -1563,7 +1563,7 @@ def rag_query(req: QueryRequest):
 async def rag_check_file(file: UploadFile = File(...)):
     """
     Vérifie la dérive sémantique d'un fichier par rapport au corpus de référence.
-    Utilise SemanticMonitor (min-JSD par document, seuil fixe 0.55) pour le score JSD.
+    Utilise SemanticMonitor (min-JSD par document, seuil config.JSD_ALERT_THRESHOLD) pour le score JSD.
     Le corpus RAG n'est utilisé que pour les documents similaires.
     """
     content = await file.read()

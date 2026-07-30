@@ -22,6 +22,8 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
+from semantic_firewall.config import JSD_ALERT_THRESHOLD
+
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
@@ -753,7 +755,8 @@ def _semantic_section(rapport: dict) -> str:
 
         doc   = _safe_str(cert.get("document"), "—")
         jsd       = _safe_float(sa.get("jsd_score"), 0.0)
-        jsd_thr   = _safe_float(sa.get("jsd_threshold"), 0.55)
+        # D7: fall back to the single source of truth, never a retyped literal.
+        jsd_thr   = _safe_float(sa.get("jsd_threshold"), JSD_ALERT_THRESHOLD)
         jsd_pct   = round(jsd * 100, 1)
         jsd_thr_pct = round(jsd_thr * 100, 1)
         jsd_alert = bool(sa.get("jsd_alert", False))

@@ -3,7 +3,7 @@ rag_corpus.py — Corpus RAG avec gate Jensen-Shannon pour fonds d'investissemen
 
 Architecture :
   - Un cluster par type de document (bilan / compte_resultat / captable / facture)
-  - Seuil statique THRESHOLD_RAG = 0.55 (calibré sur la frontière légitime/dérivant)
+  - Seuil statique THRESHOLD_RAG = config.JSD_ALERT_THRESHOLD (source unique, D7)
   - Indexation batch par data room, jamais en continu
   - Persistance JSON → output/rag_corpus.json
 
@@ -25,12 +25,15 @@ import json
 import numpy as np
 from pathlib import Path
 
+from semantic_firewall.config import JSD_ALERT_THRESHOLD
 from semantic_firewall.monitoring.semantic_monitor import _tokenize, _word_freq, _cosine, get_monitor
 
 # ── Constantes ────────────────────────────────────────────────────────────────
 
 CORPUS_PATH   = Path("output/rag_corpus.json")
-THRESHOLD_RAG = 0.55   # seuil statique calibré — JSD ≤ 0.55 → indexé, > 0.55 → exclu
+# D7: single source of truth. The RAG indexing gate reuses the JSD alert threshold
+# from semantic_firewall.config — never retype the literal here.
+THRESHOLD_RAG = JSD_ALERT_THRESHOLD   # JSD ≤ seuil → indexé, > seuil → exclu
 
 
 # ==========================================

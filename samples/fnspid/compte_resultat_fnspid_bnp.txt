@@ -1,7 +1,8 @@
 COMPTE DE RÉSULTAT SIMPLIFIÉ — EXERCICE 2023
 Société     : BNP Paribas France SA
 Date        : 31/12/2023
-Source      : Inspiration FNSPID S&P 500 — entité bancaire Europe
+Source      : DOCUMENT SYNTHÉTIQUE écrit à la main pour les tests unitaires.
+              N'EST PAS extrait du dataset FNSPID (presse + cours, pas d'état financier).
 Secteur     : Services financiers — Banque commerciale & Gestion de patrimoine
 
 ════════════════════════════════════════════════════════════════

@@ -21,8 +21,11 @@ if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
 
 from tqdm import tqdm
 
-from dd_base import DD_BILAN_SCHEMA, DD_CR_SCHEMA, DD_CAPTABLE_SCHEMA, build_dd_prompt, DDTaxonomy, SCHEMAS_BY_TYPE
-from llm_extractor import extract_text_from_file, _client, MODEL_NAME, _clean_llm_response
+from semantic_firewall.validation.dd_base import DD_BILAN_SCHEMA, DD_CR_SCHEMA, DD_CAPTABLE_SCHEMA, build_dd_prompt, DDTaxonomy, SCHEMAS_BY_TYPE
+from semantic_firewall.extraction.llm_extractor import extract_text_from_file, _client, MODEL_NAME, _clean_llm_response
+# Completeness and anchoring now live in the validation layer (single source).
+from semantic_firewall.validation.completeness import CHAMPS_OBLIGATOIRES, check_completeness
+from semantic_firewall.validation.anchoring import check_transcription_divergence
 
 SAMPLES_DIR    = Path("samples/dd")
 GT_DIR         = Path("output")
@@ -30,7 +33,7 @@ REPORT_PATH    = GT_DIR / "dd_report.json"
 
 # ─── Mapping fichier → type de document (auto-découverte) ────────────────────
 def _build_doc_type_map() -> dict:
-    from detect_doc_type import detect_doc_type
+    from semantic_firewall.extraction.detect_doc_type import detect_doc_type
     result = {}
     for p in sorted(SAMPLES_DIR.glob("*.txt")):
         try:
@@ -44,13 +47,6 @@ def _build_doc_type_map() -> dict:
 
 DOC_TYPE_MAP = _build_doc_type_map()
 
-CHAMPS_OBLIGATOIRES = {
-    "bilan":           ["entreprise_nom", "exercice", "actif_total", "passif_total"],
-    "compte_resultat": ["entreprise_nom", "exercice", "chiffre_affaires", "ebit"],
-    "captable":        ["entreprise_nom", "valorisation_pre_money", "valorisation_post_money",
-                        "total_actions", "prix_par_action"],
-}
-
 
 # ==========================================
 # EXTRACTION LLM DD
@@ -58,7 +54,8 @@ CHAMPS_OBLIGATOIRES = {
 
 def call_dd_extraction(document_text: str, doc_type: str) -> dict:
     prompt = build_dd_prompt(document_text, doc_type)
-    time.sleep(1.0)
+    # NOTE: no time.sleep here — it would contaminate the latency we claim to
+    # measure (audit minor defect). Rate-limiting/back-off belongs in the client.
     response = _client.chat.completions.create(
         model=MODEL_NAME,
         messages=[{"role": "user", "content": prompt}],
@@ -102,133 +99,9 @@ def compare_fields(llm: dict, gt: dict) -> dict:
     return results
 
 
-def check_completeness(flat: dict, doc_type: str) -> dict:
-    manquants = [
-        c for c in CHAMPS_OBLIGATOIRES.get(doc_type, [])
-        if not flat.get(c) or str(flat[c]).strip() in ("", "null", "None", "0", "0.0")
-    ]
-    if manquants:
-        return {"statut": "FAIL", "message": f"Champs obligatoires manquants : {', '.join(manquants)}"}
-    return {"statut": "PASS"}
-
-
-# Champs financiers a verifier par type de document
-_TRANSCRIPTION_FIELDS = {
-    "bilan":           ["actif_total", "passif_total", "capitaux_propres"],
-    "compte_resultat": ["chiffre_affaires", "ebit"],
-    "captable":        ["valorisation_pre_money", "valorisation_post_money"],
-}
-
-# Mots-cles d'ancrage comptable : libelles attendus sur la ligne du montant.
-# Bilingues FR + EN pour les documents SEC 10-K anglais.
-_ANCHOR_KEYWORDS: dict[str, list[str]] = {
-    "actif_total":            ["total actif", "total de l actif",
-                               "total assets"],
-    "passif_total":           ["total passif", "total du passif",
-                               "total liabilities and", "total liabilities stockholders"],
-    "capitaux_propres":       ["capitaux propres", "total capitaux propres", "fonds propres",
-                               "stockholders equity", "shareholders equity", "total equity"],
-    "chiffre_affaires":       ["chiffre d affaires", "ca net", "revenus nets",
-                               "net sales", "total net sales", "net revenues",
-                               "total revenues", "total net revenues",
-                               "total revenue", "net revenue"],
-    "ebitda":                 ["ebitda", "excedent brut", "ebe",
-                               "adjusted ebitda", "operating ebitda"],
-    "ebit":                   ["ebit", "resultat d exploitation", "resultat operationnel",
-                               "operating income", "income from operations", "operating profit"],
-    "valorisation_pre_money": ["pre-money", "pre money", "valorisation pre"],
-    "valorisation_post_money":["post-money", "post money", "valorisation post"],
-}
-
-
-def _amount_present_in_text(amount: float, text: str) -> bool:
-    n = int(abs(amount))
-    if n == 0:
-        return True
-    NBSP  = ' '
-    NNBSP = ' '
-    sep   = '{:,}'.format(n)
-    variants: set = {
-        str(n),
-        sep.replace(',', ' '),    # espace normale
-        sep.replace(',', NBSP),   # nbsp
-        sep.replace(',', NNBSP),  # espace fine
-        sep.replace(',', '.'),    # point (1.200.000)
-        sep,                      # virgule (1,200,000)
-        '{:.2f}'.format(amount),
-    }
-    if n >= 1_000 and n % 1_000 == 0:
-        k = n // 1_000
-        variants.update({str(k)+'K', str(k)+'k', str(k)+' K'})
-    if n >= 1_000_000 and n % 1_000_000 == 0:
-        m = n // 1_000_000
-        variants.update({str(m)+'M', str(m)+' M', '{:.1f}M'.format(m)})
-    normalized = text.replace(NBSP, ' ').replace(NNBSP, ' ')
-    return any(v in normalized for v in variants)
-
-
-def _find_anchor_lines(lines: list[str], keywords: list[str]) -> list[int]:
-    """Retourne tous les indices de lignes contenant un mot-cle d'ancrage."""
-    result = []
-    for i, line in enumerate(lines):
-        ln = line.lower()
-        if any(kw in ln for kw in keywords):
-            result.append(i)
-    return result
-
-
-def check_transcription_divergence(flat: dict, raw_text: str, doc_type: str) -> dict:
-    """Verifie que les montants cles sont presents STRICTEMENT sur la ligne
-    d'ancrage comptable ou sur la ligne immediatement suivante.
-    Si le montant existe ailleurs mais pas dans ce contexte localise : FAIL.
-    """
-    fields = _TRANSCRIPTION_FIELDS.get(doc_type, [])
-    if not fields:
-        return {"statut": "PASS", "message": "Aucun champ financier cle a verifier."}
-
-    lines   = raw_text.splitlines()
-    absents = []
-
-    for field in fields:
-        val = flat.get(field)
-        if not val or str(val).strip() in ("", "null", "None"):
-            continue
-        num = DDTaxonomy._f(val)
-        if num == 0:
-            continue
-
-        anchors      = _ANCHOR_KEYWORDS.get(field, [])
-        anchor_idxs  = _find_anchor_lines(lines, anchors) if anchors else []
-
-        if not anchor_idxs:
-            if not _amount_present_in_text(num, raw_text):
-                absents.append(field + "=" + str(int(num)) + " (libelle absent)")
-        else:
-            # Verifie chaque occurrence de l'ancrage (sous-segments + total consolidé)
-            found = any(
-                _amount_present_in_text(
-                    num,
-                    chr(10).join(lines[max(0, idx - 2): idx + 10])
-                )
-                for idx in anchor_idxs
-            )
-            # Fallback : si non trouvé près de l'ancre, vérifier le doc entier
-            # (tables 10-K complexes : valeur présente mais plus loin dans la colonne)
-            if not found:
-                found = _amount_present_in_text(num, raw_text)
-            if not found:
-                absents.append(field + "=" + str(int(num)))
-
-    if not absents:
-        return {"statut": "PASS", "message": "Montants cles presents en contexte localise."}
-    return {
-        "statut": "FAIL",
-        "message": (
-            "Montants absents du contexte localise (possible hallucination LLM) : "
-            + ", ".join(absents)
-        ),
-    }
-
+# check_completeness  -> semantic_firewall.validation.completeness
+# check_transcription_divergence -> semantic_firewall.validation.anchoring
+# (both imported at the top of this module)
 
 
 # ==========================================
@@ -388,42 +261,12 @@ def run_dd_evaluation() -> dict:
     print(f"{sep}")
     print(f"  Rapport : {REPORT_PATH}\n")
 
-    # ── Matrice de confusion & metriques ACL ─────────────────────────────────
-    # Ground Truth : nom de fichier contient "erreur" ou "atypique" => anomalie attendue
-    # Prediction   : completeness FAIL ou au moins un controle DDTaxonomy FAIL/ERROR
-    tp = fp = fn = 0
-    for r in all_results:
-        if r.get("statut") == "error":
-            continue
-        nom          = r.get("document", "").lower()
-        gt_positive  = any(kw in nom for kw in ("erreur", "atypique"))
-        pred_positive = (
-            r.get("completeness", {}).get("statut") == "FAIL"
-            or any(
-                v.get("statut") in ("FAIL", "ERROR")
-                for v in r.get("dd_audit", {}).values()
-            )
-        )
-        if gt_positive and pred_positive:
-            tp += 1
-        elif not gt_positive and pred_positive:
-            fp += 1
-        elif gt_positive and not pred_positive:
-            fn += 1
-
-    precision = tp / (tp + fp) if (tp + fp) > 0 else 0.0
-    recall    = tp / (tp + fn) if (tp + fn) > 0 else 0.0
-    f1        = 2 * precision * recall / (precision + recall) if (precision + recall) > 0 else 0.0
-
-    print(f"\n  Metriques ACL — Matrice de confusion  (TP={tp}  FP={fp}  FN={fn})")
-    print(f"  {'─' * 44}")
-    print(f"  {'Metrique':<20} {'Valeur':>10}   {'Detail':>12}")
-    print(f"  {'─' * 44}")
-    print(f"  {'Precision':<20} {precision*100:>9.1f}%   TP={tp} / (TP+FP={tp+fp})")
-    print(f"  {'Rappel':<20} {recall*100:>9.1f}%   TP={tp} / (TP+FN={tp+fn})")
-    print(f"  {'F1-Score':<20} {f1*100:>9.1f}%")
-    print(f"  {'─' * 44}")
-
+    # NOTE (D3): the previous precision/recall/F1 "confusion matrix" derived the
+    # ground-truth label from keywords in the FILENAME ("erreur"/"atypique") on
+    # ~14 author-written documents. That is a self-fulfilling unit test, not an
+    # evaluation, and has been REMOVED. Classification metrics must be computed
+    # against XBRL-derived labels on hundreds of real filings — see
+    # semantic_firewall/evaluation/run_experiment.py (experiment E1).
 
     return report
 

@@ -1,0 +1,2492 @@
+{
+  "apple": {
+    "id": "apple",
+    "nom": "Apple Inc.",
+    "ticker": "AAPL",
+    "cik": 320193,
+    "labelled_year": 2025,
+    "chosen_fy": 2025,
+    "entity": "Apple Inc.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 416161000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2025-09-27",
+        "accn": "0000320193-25-000079"
+      },
+      "ebit": {
+        "val": 133050000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-09-27",
+        "accn": "0000320193-25-000079"
+      },
+      "dotations_amortissements": {
+        "val": 11698000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-09-27",
+        "accn": "0000320193-25-000079"
+      },
+      "resultat_net": {
+        "val": 112010000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-09-27",
+        "accn": "0000320193-25-000079"
+      },
+      "actif_total": {
+        "val": 359241000000.0,
+        "concept": "Assets",
+        "end": "2025-09-27",
+        "accn": "0000320193-25-000079"
+      },
+      "passif_total": {
+        "val": 359241000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-09-27",
+        "accn": "0000320193-25-000079"
+      },
+      "capitaux_propres": {
+        "val": 73733000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-09-27",
+        "accn": "0000320193-25-000079"
+      },
+      "ebitda": {
+        "val": 144748000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "alphabet": {
+    "id": "alphabet",
+    "nom": "Alphabet Inc.",
+    "ticker": "GOOGL",
+    "cik": 1652044,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "Alphabet Inc.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 402836000000.0,
+        "concept": "Revenues",
+        "end": "2025-12-31",
+        "accn": "0001652044-26-000018"
+      },
+      "ebit": {
+        "val": 129039000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001652044-26-000018"
+      },
+      "resultat_net": {
+        "val": 132170000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001652044-26-000018"
+      },
+      "actif_total": {
+        "val": 595281000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0001652044-26-000018"
+      },
+      "passif_total": {
+        "val": 595281000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001652044-26-000018"
+      },
+      "capitaux_propres": {
+        "val": 415265000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001652044-26-000018"
+      }
+    }
+  },
+  "amazon": {
+    "id": "amazon",
+    "nom": "Amazon.com Inc.",
+    "ticker": "AMZN",
+    "cik": 1018724,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "AMAZON COM INC",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 716924000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2025-12-31",
+        "accn": "0001018724-26-000004"
+      },
+      "ebit": {
+        "val": 79975000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001018724-26-000004"
+      },
+      "dotations_amortissements": {
+        "val": 65756000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0001018724-26-000004"
+      },
+      "resultat_net": {
+        "val": 77670000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001018724-26-000004"
+      },
+      "actif_total": {
+        "val": 818042000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0001018724-26-000004"
+      },
+      "passif_total": {
+        "val": 818042000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001018724-26-000004"
+      },
+      "capitaux_propres": {
+        "val": 411065000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001018724-26-000004"
+      },
+      "ebitda": {
+        "val": 145731000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "microsoft": {
+    "id": "microsoft",
+    "nom": "Microsoft Corp.",
+    "ticker": "MSFT",
+    "cik": 789019,
+    "labelled_year": 2025,
+    "chosen_fy": 2025,
+    "entity": "MICROSOFT CORPORATION",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 281724000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2025-06-30",
+        "accn": "0001193125-26-323660"
+      },
+      "ebit": {
+        "val": 128528000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-06-30",
+        "accn": "0001193125-26-323660"
+      },
+      "resultat_net": {
+        "val": 101832000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-06-30",
+        "accn": "0001193125-26-323660"
+      },
+      "actif_total": {
+        "val": 619003000000.0,
+        "concept": "Assets",
+        "end": "2025-06-30",
+        "accn": "0001193125-26-323660"
+      },
+      "passif_total": {
+        "val": 619003000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-06-30",
+        "accn": "0001193125-26-323660"
+      },
+      "capitaux_propres": {
+        "val": 343479000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-06-30",
+        "accn": "0001193125-26-323660"
+      }
+    }
+  },
+  "meta": {
+    "id": "meta",
+    "nom": "Meta Platforms Inc.",
+    "ticker": "META",
+    "cik": 1326801,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "Meta Platforms, Inc.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 200966000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-003942"
+      },
+      "ebit": {
+        "val": 83276000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-003942"
+      },
+      "dotations_amortissements": {
+        "val": 18616000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-003942"
+      },
+      "resultat_net": {
+        "val": 60458000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-003942"
+      },
+      "actif_total": {
+        "val": 366021000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-003942"
+      },
+      "passif_total": {
+        "val": 366021000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-003942"
+      },
+      "capitaux_propres": {
+        "val": 217243000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-003942"
+      },
+      "ebitda": {
+        "val": 101892000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "nvidia": {
+    "id": "nvidia",
+    "nom": "NVIDIA Corp.",
+    "ticker": "NVDA",
+    "cik": 1045810,
+    "labelled_year": 2026,
+    "chosen_fy": 2026,
+    "entity": "NVIDIA CORP",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 215938000000.0,
+        "concept": "Revenues",
+        "end": "2026-01-25",
+        "accn": "0001045810-26-000021"
+      },
+      "ebit": {
+        "val": 130387000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2026-01-25",
+        "accn": "0001045810-26-000021"
+      },
+      "dotations_amortissements": {
+        "val": 2843000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2026-01-25",
+        "accn": "0001045810-26-000021"
+      },
+      "resultat_net": {
+        "val": 120067000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2026-01-25",
+        "accn": "0001045810-26-000021"
+      },
+      "actif_total": {
+        "val": 206803000000.0,
+        "concept": "Assets",
+        "end": "2026-01-25",
+        "accn": "0001045810-26-000021"
+      },
+      "passif_total": {
+        "val": 206803000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2026-01-25",
+        "accn": "0001045810-26-000021"
+      },
+      "capitaux_propres": {
+        "val": 157293000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2026-01-25",
+        "accn": "0001045810-26-000021"
+      },
+      "ebitda": {
+        "val": 133230000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "cisco": {
+    "id": "cisco",
+    "nom": "Cisco Systems Inc.",
+    "ticker": "CSCO",
+    "cik": 858877,
+    "labelled_year": 2025,
+    "chosen_fy": 2025,
+    "entity": "CISCO SYSTEMS, INC.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 56654000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2025-07-26",
+        "accn": "0000858877-25-000111"
+      },
+      "ebit": {
+        "val": 11760000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-07-26",
+        "accn": "0000858877-25-000111"
+      },
+      "dotations_amortissements": {
+        "val": 700000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-07-26",
+        "accn": "0000858877-25-000111"
+      },
+      "resultat_net": {
+        "val": 10180000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-07-26",
+        "accn": "0000858877-25-000111"
+      },
+      "actif_total": {
+        "val": 122291000000.0,
+        "concept": "Assets",
+        "end": "2025-07-26",
+        "accn": "0000858877-25-000111"
+      },
+      "passif_total": {
+        "val": 122291000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-07-26",
+        "accn": "0000858877-25-000111"
+      },
+      "capitaux_propres": {
+        "val": 46843000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-07-26",
+        "accn": "0000858877-25-000111"
+      },
+      "ebitda": {
+        "val": 12460000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "ibm": {
+    "id": "ibm",
+    "nom": "IBM Corp.",
+    "ticker": "IBM",
+    "cik": 51143,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 67535000000.0,
+        "concept": "Revenues",
+        "end": "2025-12-31",
+        "accn": "0000051143-26-000010"
+      },
+      "resultat_net": {
+        "val": 10593000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000051143-26-000010"
+      },
+      "actif_total": {
+        "val": 151880000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0000051143-26-000010"
+      },
+      "passif_total": {
+        "val": 151880000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000051143-26-000010"
+      },
+      "capitaux_propres": {
+        "val": 32648000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000051143-26-000010"
+      }
+    }
+  },
+  "oracle": {
+    "id": "oracle",
+    "nom": "Oracle Corp.",
+    "ticker": "ORCL",
+    "cik": 1341439,
+    "labelled_year": 2026,
+    "chosen_fy": 2026,
+    "entity": "Oracle Corporation",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 67357000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2026-05-31",
+        "accn": "0001193125-26-277521"
+      },
+      "ebit": {
+        "val": 20606000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2026-05-31",
+        "accn": "0001193125-26-277521"
+      },
+      "resultat_net": {
+        "val": 17087000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2026-05-31",
+        "accn": "0001193125-26-277521"
+      },
+      "actif_total": {
+        "val": 261759000000.0,
+        "concept": "Assets",
+        "end": "2026-05-31",
+        "accn": "0001193125-26-277521"
+      },
+      "passif_total": {
+        "val": 261759000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2026-05-31",
+        "accn": "0001193125-26-277521"
+      },
+      "capitaux_propres": {
+        "val": 42508000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2026-05-31",
+        "accn": "0001193125-26-277521"
+      }
+    }
+  },
+  "adobe": {
+    "id": "adobe",
+    "nom": "Adobe Inc.",
+    "ticker": "ADBE",
+    "cik": 796343,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "ADOBE INC.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 23769000000.0,
+        "concept": "Revenues",
+        "end": "2025-11-28",
+        "accn": "0000796343-26-000003"
+      },
+      "ebit": {
+        "val": 8706000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-11-28",
+        "accn": "0000796343-26-000003"
+      },
+      "dotations_amortissements": {
+        "val": 818000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-11-28",
+        "accn": "0000796343-26-000003"
+      },
+      "resultat_net": {
+        "val": 7130000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-11-28",
+        "accn": "0000796343-26-000003"
+      },
+      "actif_total": {
+        "val": 29496000000.0,
+        "concept": "Assets",
+        "end": "2025-11-28",
+        "accn": "0000796343-26-000003"
+      },
+      "passif_total": {
+        "val": 29496000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-11-28",
+        "accn": "0000796343-26-000003"
+      },
+      "capitaux_propres": {
+        "val": 11623000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-11-28",
+        "accn": "0000796343-26-000003"
+      },
+      "ebitda": {
+        "val": 9524000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "qualcomm": {
+    "id": "qualcomm",
+    "nom": "Qualcomm Inc.",
+    "ticker": "QCOM",
+    "cik": 804328,
+    "labelled_year": 2025,
+    "chosen_fy": 2025,
+    "entity": "QUALCOMM INC/DE",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 44284000000.0,
+        "concept": "Revenues",
+        "end": "2025-09-28",
+        "accn": "0000804328-25-000085"
+      },
+      "ebit": {
+        "val": 12355000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-09-28",
+        "accn": "0000804328-25-000085"
+      },
+      "dotations_amortissements": {
+        "val": 1602000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-09-28",
+        "accn": "0000804328-25-000085"
+      },
+      "resultat_net": {
+        "val": 5541000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-09-28",
+        "accn": "0000804328-25-000085"
+      },
+      "actif_total": {
+        "val": 50143000000.0,
+        "concept": "Assets",
+        "end": "2025-09-28",
+        "accn": "0000804328-25-000085"
+      },
+      "passif_total": {
+        "val": 50143000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-09-28",
+        "accn": "0000804328-25-000085"
+      },
+      "capitaux_propres": {
+        "val": 21206000000.0,
+        "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+        "end": "2025-09-28",
+        "accn": "0000804328-25-000085"
+      },
+      "ebitda": {
+        "val": 13957000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "netflix": {
+    "id": "netflix",
+    "nom": "Netflix Inc.",
+    "ticker": "NFLX",
+    "cik": 1065280,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "NETFLIX INC",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 45183036000.0,
+        "concept": "Revenues",
+        "end": "2025-12-31",
+        "accn": "0001065280-26-000034"
+      },
+      "ebit": {
+        "val": 13326603000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001065280-26-000034"
+      },
+      "dotations_amortissements": {
+        "val": 333389000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0001065280-26-000034"
+      },
+      "resultat_net": {
+        "val": 10981201000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001065280-26-000034"
+      },
+      "actif_total": {
+        "val": 55596993000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0001065280-26-000034"
+      },
+      "passif_total": {
+        "val": 55596993000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001065280-26-000034"
+      },
+      "capitaux_propres": {
+        "val": 26615488000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001065280-26-000034"
+      },
+      "ebitda": {
+        "val": 13659992000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "jpmorgan": {
+    "id": "jpmorgan",
+    "nom": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "cik": 19617,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "JPMORGAN CHASE & CO",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 182447000000.0,
+        "concept": "Revenues",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-008131"
+      },
+      "dotations_amortissements": {
+        "val": 8821000000.0,
+        "concept": "DepreciationAmortizationAndAccretionNet",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-008131"
+      },
+      "resultat_net": {
+        "val": 57048000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-008131"
+      },
+      "actif_total": {
+        "val": 4424900000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-008131"
+      },
+      "passif_total": {
+        "val": 4424900000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-008131"
+      },
+      "capitaux_propres": {
+        "val": 362438000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-008131"
+      }
+    }
+  },
+  "bofa": {
+    "id": "bofa",
+    "nom": "Bank of America",
+    "ticker": "BAC",
+    "cik": 70858,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "BofA Finance LLC",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 113097000000.0,
+        "concept": "Revenues",
+        "end": "2025-12-31",
+        "accn": "0000070858-26-000157"
+      },
+      "dotations_amortissements": {
+        "val": 2314000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0000070858-26-000157"
+      },
+      "resultat_net": {
+        "val": 30509000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000070858-26-000157"
+      },
+      "actif_total": {
+        "val": 3411738000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0000070858-26-000157"
+      },
+      "passif_total": {
+        "val": 3411738000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000070858-26-000157"
+      },
+      "capitaux_propres": {
+        "val": 303243000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000070858-26-000157"
+      }
+    }
+  },
+  "citigroup": {
+    "id": "citigroup",
+    "nom": "Citigroup Inc.",
+    "ticker": "C",
+    "cik": 831001,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "Citigroup Inc",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 85225000000.0,
+        "concept": "Revenues",
+        "end": "2025-12-31",
+        "accn": "0000831001-26-000011"
+      },
+      "dotations_amortissements": {
+        "val": 4373000000.0,
+        "concept": "DepreciationAmortizationAndAccretionNet",
+        "end": "2025-12-31",
+        "accn": "0000831001-26-000011"
+      },
+      "resultat_net": {
+        "val": 14306000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000831001-26-000011"
+      },
+      "actif_total": {
+        "val": 2657202000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0000831001-26-000011"
+      },
+      "passif_total": {
+        "val": 2657202000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000831001-26-000011"
+      },
+      "capitaux_propres": {
+        "val": 212291000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000831001-26-000011"
+      }
+    }
+  },
+  "morganstanley": {
+    "id": "morganstanley",
+    "nom": "Morgan Stanley",
+    "ticker": "MS",
+    "cik": 895421,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "MORGAN STANLEY",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "dotations_amortissements": {
+        "val": 4658000000.0,
+        "concept": "DepreciationAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0000895421-26-000086"
+      },
+      "resultat_net": {
+        "val": 16861000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000895421-26-000086"
+      },
+      "actif_total": {
+        "val": 1420270000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0000895421-26-000086"
+      },
+      "passif_total": {
+        "val": 1420270000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000895421-26-000086"
+      },
+      "capitaux_propres": {
+        "val": 111632000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000895421-26-000086"
+      }
+    }
+  },
+  "wellsfargo": {
+    "id": "wellsfargo",
+    "nom": "Wells Fargo & Co.",
+    "ticker": "WFC",
+    "cik": 72971,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "WELLS        FARGO & COMPANY/MN",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "dotations_amortissements": {
+        "val": 7713000000.0,
+        "concept": "DepreciationAmortizationAndAccretionNet",
+        "end": "2025-12-31",
+        "accn": "0000072971-26-000133"
+      },
+      "resultat_net": {
+        "val": 21338000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000072971-26-000133"
+      },
+      "actif_total": {
+        "val": 2148631000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0000072971-26-000133"
+      },
+      "passif_total": {
+        "val": 2148631000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000072971-26-000133"
+      },
+      "capitaux_propres": {
+        "val": 181117000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000072971-26-000133"
+      }
+    }
+  },
+  "goldman": {
+    "id": "goldman",
+    "nom": "Goldman Sachs Group",
+    "ticker": "GS",
+    "cik": 886982,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "The Goldman Sachs Group, Inc.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "dotations_amortissements": {
+        "val": 2182000000.0,
+        "concept": "DepreciationAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0000886982-26-000091"
+      },
+      "resultat_net": {
+        "val": 17176000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000886982-26-000091"
+      },
+      "actif_total": {
+        "val": 1809320000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0000886982-26-000091"
+      },
+      "passif_total": {
+        "val": 1809320000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000886982-26-000091"
+      },
+      "capitaux_propres": {
+        "val": 124972000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000886982-26-000091"
+      }
+    }
+  },
+  "visa": {
+    "id": "visa",
+    "nom": "Visa Inc.",
+    "ticker": "V",
+    "cik": 1403161,
+    "labelled_year": 2025,
+    "chosen_fy": 2025,
+    "entity": "VISA INC.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 40000000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2025-09-30",
+        "accn": "0001403161-25-000089"
+      },
+      "ebit": {
+        "val": 23994000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-09-30",
+        "accn": "0001403161-25-000089"
+      },
+      "dotations_amortissements": {
+        "val": 1220000000.0,
+        "concept": "DepreciationAndAmortization",
+        "end": "2025-09-30",
+        "accn": "0001403161-25-000089"
+      },
+      "resultat_net": {
+        "val": 20058000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-09-30",
+        "accn": "0001403161-25-000089"
+      },
+      "actif_total": {
+        "val": 99627000000.0,
+        "concept": "Assets",
+        "end": "2025-09-30",
+        "accn": "0001403161-25-000089"
+      },
+      "passif_total": {
+        "val": 99627000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-09-30",
+        "accn": "0001403161-25-000089"
+      },
+      "capitaux_propres": {
+        "val": 37909000000.0,
+        "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+        "end": "2025-09-30",
+        "accn": "0001403161-25-000089"
+      },
+      "ebitda": {
+        "val": 25214000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "mastercard": {
+    "id": "mastercard",
+    "nom": "Mastercard Inc.",
+    "ticker": "MA",
+    "cik": 1141391,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "Mastercard Inc",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 32791000000.0,
+        "concept": "Revenues",
+        "end": "2025-12-31",
+        "accn": "0001141391-26-000013"
+      },
+      "ebit": {
+        "val": 18897000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001141391-26-000013"
+      },
+      "dotations_amortissements": {
+        "val": 1143000000.0,
+        "concept": "DepreciationAmortizationAndAccretionNet",
+        "end": "2025-12-31",
+        "accn": "0001141391-26-000013"
+      },
+      "resultat_net": {
+        "val": 14968000000.0,
+        "concept": "ProfitLoss",
+        "end": "2025-12-31",
+        "accn": "0001141391-26-000013"
+      },
+      "actif_total": {
+        "val": 54157000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0001141391-26-000013"
+      },
+      "passif_total": {
+        "val": 54157000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001141391-26-000013"
+      },
+      "capitaux_propres": {
+        "val": 7737000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001141391-26-000013"
+      },
+      "ebitda": {
+        "val": 20040000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "jnj": {
+    "id": "jnj",
+    "nom": "Johnson & Johnson",
+    "ticker": "JNJ",
+    "cik": 200406,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "Johnson & Johnson",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 94193000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2025-12-28",
+        "accn": "0000200406-26-000016"
+      },
+      "dotations_amortissements": {
+        "val": 7503000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-12-28",
+        "accn": "0000200406-26-000016"
+      },
+      "resultat_net": {
+        "val": 26804000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-28",
+        "accn": "0000200406-26-000016"
+      },
+      "actif_total": {
+        "val": 199210000000.0,
+        "concept": "Assets",
+        "end": "2025-12-28",
+        "accn": "0000200406-26-000016"
+      },
+      "passif_total": {
+        "val": 199210000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-28",
+        "accn": "0000200406-26-000016"
+      },
+      "capitaux_propres": {
+        "val": 81544000000.0,
+        "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+        "end": "2025-12-28",
+        "accn": "0000200406-26-000016"
+      }
+    }
+  },
+  "pfizer": {
+    "id": "pfizer",
+    "nom": "Pfizer Inc.",
+    "ticker": "PFE",
+    "cik": 78003,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "Pfizer Inc.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 62579000000.0,
+        "concept": "Revenues",
+        "end": "2025-12-31",
+        "accn": "0000078003-26-000026"
+      },
+      "dotations_amortissements": {
+        "val": 6592000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0000078003-26-000026"
+      },
+      "resultat_net": {
+        "val": 7771000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000078003-26-000026"
+      },
+      "actif_total": {
+        "val": 208160000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0000078003-26-000026"
+      },
+      "passif_total": {
+        "val": 208160000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000078003-26-000026"
+      },
+      "capitaux_propres": {
+        "val": 86476000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000078003-26-000026"
+      }
+    }
+  },
+  "abbvie": {
+    "id": "abbvie",
+    "nom": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "cik": 1551152,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "AbbVie Inc.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 61160000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2025-12-31",
+        "accn": "0001551152-26-000008"
+      },
+      "ebit": {
+        "val": 15075000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001551152-26-000008"
+      },
+      "resultat_net": {
+        "val": 4226000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001551152-26-000008"
+      },
+      "actif_total": {
+        "val": 133960000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0001551152-26-000008"
+      },
+      "passif_total": {
+        "val": 133960000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001551152-26-000008"
+      },
+      "capitaux_propres": {
+        "val": -3270000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001551152-26-000008"
+      }
+    }
+  },
+  "merck": {
+    "id": "merck",
+    "nom": "Merck & Co.",
+    "ticker": "MRK",
+    "cik": 310158,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "Merck & Co., Inc.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 65011000000.0,
+        "concept": "Revenues",
+        "end": "2025-12-31",
+        "accn": "0000310158-26-000063"
+      },
+      "resultat_net": {
+        "val": 18254000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000310158-26-000063"
+      },
+      "actif_total": {
+        "val": 136866000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0000310158-26-000063"
+      },
+      "passif_total": {
+        "val": 136866000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000310158-26-000063"
+      },
+      "capitaux_propres": {
+        "val": 52606000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000310158-26-000063"
+      }
+    }
+  },
+  "elililly": {
+    "id": "elililly",
+    "nom": "Eli Lilly & Co.",
+    "ticker": "LLY",
+    "cik": 59478,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "ELI LILLY & Co",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 65179000000.0,
+        "concept": "Revenues",
+        "end": "2025-12-31",
+        "accn": "0000059478-26-000013"
+      },
+      "dotations_amortissements": {
+        "val": 1997000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0000059478-26-000013"
+      },
+      "resultat_net": {
+        "val": 20640000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000059478-26-000013"
+      },
+      "actif_total": {
+        "val": 112476000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0000059478-26-000013"
+      },
+      "passif_total": {
+        "val": 112476000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000059478-26-000013"
+      },
+      "capitaux_propres": {
+        "val": 26535000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000059478-26-000013"
+      }
+    }
+  },
+  "amgen": {
+    "id": "amgen",
+    "nom": "Amgen Inc.",
+    "ticker": "AMGN",
+    "cik": 318154,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "Amgen Inc.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 36751000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2025-12-31",
+        "accn": "0000318154-26-000010"
+      },
+      "ebit": {
+        "val": 9080000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000318154-26-000010"
+      },
+      "dotations_amortissements": {
+        "val": 5167000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0000318154-26-000010"
+      },
+      "resultat_net": {
+        "val": 7711000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000318154-26-000010"
+      },
+      "actif_total": {
+        "val": 90586000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0000318154-26-000010"
+      },
+      "passif_total": {
+        "val": 90586000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000318154-26-000010"
+      },
+      "capitaux_propres": {
+        "val": 8658000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000318154-26-000010"
+      },
+      "ebitda": {
+        "val": 14247000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "gilead": {
+    "id": "gilead",
+    "nom": "Gilead Sciences",
+    "ticker": "GILD",
+    "cik": 882095,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "GILEAD SCIENCES, INC.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 29443000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2025-12-31",
+        "accn": "0000882095-26-000006"
+      },
+      "ebit": {
+        "val": 10022000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000882095-26-000006"
+      },
+      "resultat_net": {
+        "val": 8510000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000882095-26-000006"
+      },
+      "actif_total": {
+        "val": 59023000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0000882095-26-000006"
+      },
+      "passif_total": {
+        "val": 59023000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000882095-26-000006"
+      },
+      "capitaux_propres": {
+        "val": 22703000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000882095-26-000006"
+      }
+    }
+  },
+  "unitedhealth": {
+    "id": "unitedhealth",
+    "nom": "UnitedHealth Group",
+    "ticker": "UNH",
+    "cik": 731766,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "UnitedHealth Group Incorporated",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 447567000000.0,
+        "concept": "Revenues",
+        "end": "2025-12-31",
+        "accn": "0000731766-26-000062"
+      },
+      "ebit": {
+        "val": 18964000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000731766-26-000062"
+      },
+      "dotations_amortissements": {
+        "val": 4361000000.0,
+        "concept": "DepreciationAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0000731766-26-000062"
+      },
+      "resultat_net": {
+        "val": 12056000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000731766-26-000062"
+      },
+      "actif_total": {
+        "val": 309581000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0000731766-26-000062"
+      },
+      "passif_total": {
+        "val": 309581000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000731766-26-000062"
+      },
+      "capitaux_propres": {
+        "val": 100090000000.0,
+        "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+        "end": "2025-12-31",
+        "accn": "0000731766-26-000062"
+      },
+      "ebitda": {
+        "val": 23325000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "abbott": {
+    "id": "abbott",
+    "nom": "Abbott Laboratories",
+    "ticker": "ABT",
+    "cik": 1800,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "ABBOTT LABORATORIES",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 44328000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-010185"
+      },
+      "ebit": {
+        "val": 8053000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-010185"
+      },
+      "resultat_net": {
+        "val": 6524000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-010185"
+      },
+      "actif_total": {
+        "val": 86713000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-010185"
+      },
+      "passif_total": {
+        "val": 86713000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-010185"
+      },
+      "capitaux_propres": {
+        "val": 52130000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-010185"
+      }
+    }
+  },
+  "medtronic": {
+    "id": "medtronic",
+    "nom": "Medtronic plc",
+    "ticker": "MDT",
+    "cik": 1613103,
+    "labelled_year": 2026,
+    "chosen_fy": 2026,
+    "entity": "Medtronic plc",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 36364000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2026-04-24",
+        "accn": "0001628280-26-044354"
+      },
+      "ebit": {
+        "val": 6467000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2026-04-24",
+        "accn": "0001628280-26-044354"
+      },
+      "dotations_amortissements": {
+        "val": 2958000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2026-04-24",
+        "accn": "0001628280-26-044354"
+      },
+      "resultat_net": {
+        "val": 4801000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2026-04-24",
+        "accn": "0001628280-26-044354"
+      },
+      "actif_total": {
+        "val": 93028000000.0,
+        "concept": "Assets",
+        "end": "2026-04-24",
+        "accn": "0001628280-26-044354"
+      },
+      "passif_total": {
+        "val": 93028000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2026-04-24",
+        "accn": "0001628280-26-044354"
+      },
+      "capitaux_propres": {
+        "val": 49463000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2026-04-24",
+        "accn": "0001628280-26-044354"
+      },
+      "ebitda": {
+        "val": 9425000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "cocacola": {
+    "id": "cocacola",
+    "nom": "Coca-Cola Co.",
+    "ticker": "KO",
+    "cik": 21344,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "COCA COLA CO",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 47941000000.0,
+        "concept": "Revenues",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-010047"
+      },
+      "ebit": {
+        "val": 13762000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-010047"
+      },
+      "dotations_amortissements": {
+        "val": 1050000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-010047"
+      },
+      "resultat_net": {
+        "val": 13107000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-010047"
+      },
+      "actif_total": {
+        "val": 104816000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-010047"
+      },
+      "passif_total": {
+        "val": 104816000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-010047"
+      },
+      "capitaux_propres": {
+        "val": 32169000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-010047"
+      },
+      "ebitda": {
+        "val": 14812000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "pepsico": {
+    "id": "pepsico",
+    "nom": "PepsiCo Inc.",
+    "ticker": "PEP",
+    "cik": 77476,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "PepsiCo, Inc.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 93925000000.0,
+        "concept": "Revenues",
+        "end": "2025-12-27",
+        "accn": "0000077476-26-000007"
+      },
+      "ebit": {
+        "val": 11498000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-27",
+        "accn": "0000077476-26-000007"
+      },
+      "dotations_amortissements": {
+        "val": 3451000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-12-27",
+        "accn": "0000077476-26-000007"
+      },
+      "resultat_net": {
+        "val": 8240000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-27",
+        "accn": "0000077476-26-000007"
+      },
+      "actif_total": {
+        "val": 107399000000.0,
+        "concept": "Assets",
+        "end": "2025-12-27",
+        "accn": "0000077476-26-000007"
+      },
+      "passif_total": {
+        "val": 107399000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-27",
+        "accn": "0000077476-26-000007"
+      },
+      "capitaux_propres": {
+        "val": 20406000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-27",
+        "accn": "0000077476-26-000007"
+      },
+      "ebitda": {
+        "val": 14949000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "pg": {
+    "id": "pg",
+    "nom": "Procter & Gamble",
+    "ticker": "PG",
+    "cik": 80424,
+    "labelled_year": 2025,
+    "chosen_fy": 2025,
+    "entity": "PROCTER & GAMBLE CO",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 84284000000.0,
+        "concept": "Revenues",
+        "end": "2025-06-30",
+        "accn": "0000080424-25-000076"
+      },
+      "ebit": {
+        "val": 20451000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-06-30",
+        "accn": "0000080424-25-000076"
+      },
+      "dotations_amortissements": {
+        "val": 2847000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-06-30",
+        "accn": "0000080424-25-000076"
+      },
+      "resultat_net": {
+        "val": 15974000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-06-30",
+        "accn": "0000080424-25-000076"
+      },
+      "actif_total": {
+        "val": 125231000000.0,
+        "concept": "Assets",
+        "end": "2025-06-30",
+        "accn": "0000080424-25-000076"
+      },
+      "passif_total": {
+        "val": 125231000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-06-30",
+        "accn": "0000080424-25-000076"
+      },
+      "capitaux_propres": {
+        "val": 52284000000.0,
+        "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+        "end": "2025-06-30",
+        "accn": "0000080424-25-000076"
+      },
+      "ebitda": {
+        "val": 23298000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "walmart": {
+    "id": "walmart",
+    "nom": "Walmart Inc.",
+    "ticker": "WMT",
+    "cik": 104169,
+    "labelled_year": 2026,
+    "chosen_fy": 2026,
+    "entity": "WALMART INC.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 706413000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2026-01-31",
+        "accn": "0000104169-26-000055"
+      },
+      "ebit": {
+        "val": 29825000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2026-01-31",
+        "accn": "0000104169-26-000055"
+      },
+      "dotations_amortissements": {
+        "val": 14203000000.0,
+        "concept": "DepreciationAmortizationAndAccretionNet",
+        "end": "2026-01-31",
+        "accn": "0000104169-26-000055"
+      },
+      "resultat_net": {
+        "val": 21893000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2026-01-31",
+        "accn": "0000104169-26-000055"
+      },
+      "actif_total": {
+        "val": 284668000000.0,
+        "concept": "Assets",
+        "end": "2026-01-31",
+        "accn": "0000104169-26-000055"
+      },
+      "passif_total": {
+        "val": 284668000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2026-01-31",
+        "accn": "0000104169-26-000055"
+      },
+      "capitaux_propres": {
+        "val": 99617000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2026-01-31",
+        "accn": "0000104169-26-000055"
+      },
+      "ebitda": {
+        "val": 44028000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "target": {
+    "id": "target",
+    "nom": "Target Corp.",
+    "ticker": "TGT",
+    "cik": 27419,
+    "labelled_year": 2026,
+    "chosen_fy": 2026,
+    "entity": "TARGET CORPORATION",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 104780000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2026-01-31",
+        "accn": "0000027419-26-000016"
+      },
+      "ebit": {
+        "val": 5117000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2026-01-31",
+        "accn": "0000027419-26-000016"
+      },
+      "dotations_amortissements": {
+        "val": 3134000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2026-01-31",
+        "accn": "0000027419-26-000016"
+      },
+      "resultat_net": {
+        "val": 3705000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2026-01-31",
+        "accn": "0000027419-26-000016"
+      },
+      "actif_total": {
+        "val": 59490000000.0,
+        "concept": "Assets",
+        "end": "2026-01-31",
+        "accn": "0000027419-26-000016"
+      },
+      "passif_total": {
+        "val": 59490000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2026-01-31",
+        "accn": "0000027419-26-000016"
+      },
+      "capitaux_propres": {
+        "val": 16165000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2026-01-31",
+        "accn": "0000027419-26-000016"
+      },
+      "ebitda": {
+        "val": 8251000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "homedepot": {
+    "id": "homedepot",
+    "nom": "Home Depot Inc.",
+    "ticker": "HD",
+    "cik": 354950,
+    "labelled_year": 2026,
+    "chosen_fy": 2026,
+    "entity": "HOME DEPOT, INC.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 164683000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2026-02-01",
+        "accn": "0001628280-26-019436"
+      },
+      "ebit": {
+        "val": 20890000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2026-02-01",
+        "accn": "0001628280-26-019436"
+      },
+      "dotations_amortissements": {
+        "val": 3514000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2026-02-01",
+        "accn": "0001628280-26-019436"
+      },
+      "resultat_net": {
+        "val": 14156000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2026-02-01",
+        "accn": "0001628280-26-019436"
+      },
+      "actif_total": {
+        "val": 105095000000.0,
+        "concept": "Assets",
+        "end": "2026-02-01",
+        "accn": "0001628280-26-019436"
+      },
+      "passif_total": {
+        "val": 105095000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2026-02-01",
+        "accn": "0001628280-26-019436"
+      },
+      "capitaux_propres": {
+        "val": 12813000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2026-02-01",
+        "accn": "0001628280-26-019436"
+      },
+      "ebitda": {
+        "val": 24404000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "lowes": {
+    "id": "lowes",
+    "nom": "Lowe's Companies",
+    "ticker": "LOW",
+    "cik": 60667,
+    "labelled_year": 2026,
+    "chosen_fy": 2026,
+    "entity": "LOWE’S COMPANIES, INC.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 86286000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2026-01-30",
+        "accn": "0000060667-26-000029"
+      },
+      "ebit": {
+        "val": 10153000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2026-01-30",
+        "accn": "0000060667-26-000029"
+      },
+      "dotations_amortissements": {
+        "val": 2194000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2026-01-30",
+        "accn": "0000060667-26-000029"
+      },
+      "resultat_net": {
+        "val": 6654000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2026-01-30",
+        "accn": "0000060667-26-000029"
+      },
+      "actif_total": {
+        "val": 54144000000.0,
+        "concept": "Assets",
+        "end": "2026-01-30",
+        "accn": "0000060667-26-000029"
+      },
+      "passif_total": {
+        "val": 54144000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2026-01-30",
+        "accn": "0000060667-26-000029"
+      },
+      "capitaux_propres": {
+        "val": -9917000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2026-01-30",
+        "accn": "0000060667-26-000029"
+      },
+      "ebitda": {
+        "val": 12347000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "boeing": {
+    "id": "boeing",
+    "nom": "Boeing Co.",
+    "ticker": "BA",
+    "cik": 12927,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "THE BOEING COMPANY",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 89463000000.0,
+        "concept": "Revenues",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-004357"
+      },
+      "ebit": {
+        "val": 4281000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-004357"
+      },
+      "dotations_amortissements": {
+        "val": 1953000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-004357"
+      },
+      "resultat_net": {
+        "val": 2235000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-004357"
+      },
+      "actif_total": {
+        "val": 168235000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-004357"
+      },
+      "passif_total": {
+        "val": 168235000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-004357"
+      },
+      "capitaux_propres": {
+        "val": 5454000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-004357"
+      },
+      "ebitda": {
+        "val": 6234000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "caterpillar": {
+    "id": "caterpillar",
+    "nom": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "cik": 18230,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "CATERPILLAR INC",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 67589000000.0,
+        "concept": "Revenues",
+        "end": "2025-12-31",
+        "accn": "0000018230-26-000008"
+      },
+      "ebit": {
+        "val": 11151000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000018230-26-000008"
+      },
+      "dotations_amortissements": {
+        "val": 2262000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0000018230-26-000008"
+      },
+      "resultat_net": {
+        "val": 8882000000.0,
+        "concept": "ProfitLoss",
+        "end": "2025-12-31",
+        "accn": "0000018230-26-000008"
+      },
+      "actif_total": {
+        "val": 98585000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0000018230-26-000008"
+      },
+      "passif_total": {
+        "val": 98585000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000018230-26-000008"
+      },
+      "capitaux_propres": {
+        "val": 21318000000.0,
+        "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+        "end": "2025-12-31",
+        "accn": "0000018230-26-000008"
+      },
+      "ebitda": {
+        "val": 13413000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "deere": {
+    "id": "deere",
+    "nom": "Deere & Co.",
+    "ticker": "DE",
+    "cik": 315189,
+    "labelled_year": 2025,
+    "chosen_fy": 2025,
+    "entity": "DEERE FUNDING CANADA Corp",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 45684000000.0,
+        "concept": "Revenues",
+        "end": "2025-11-02",
+        "accn": "0001104659-25-122321"
+      },
+      "dotations_amortissements": {
+        "val": 2229000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-11-02",
+        "accn": "0001104659-25-122321"
+      },
+      "resultat_net": {
+        "val": 5027000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-11-02",
+        "accn": "0001104659-25-122321"
+      },
+      "actif_total": {
+        "val": 105996000000.0,
+        "concept": "Assets",
+        "end": "2025-11-02",
+        "accn": "0001104659-25-122321"
+      },
+      "passif_total": {
+        "val": 105996000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-11-02",
+        "accn": "0001104659-25-122321"
+      },
+      "capitaux_propres": {
+        "val": 25950000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-11-02",
+        "accn": "0001104659-25-122321"
+      }
+    }
+  },
+  "3m": {
+    "id": "3m",
+    "nom": "3M Company",
+    "ticker": "MMM",
+    "cik": 66740,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "3M COMPANY",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 24948000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2025-12-31",
+        "accn": "0000066740-26-000014"
+      },
+      "ebit": {
+        "val": 4629000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000066740-26-000014"
+      },
+      "dotations_amortissements": {
+        "val": 1308000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0000066740-26-000014"
+      },
+      "resultat_net": {
+        "val": 3250000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000066740-26-000014"
+      },
+      "actif_total": {
+        "val": 37733000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0000066740-26-000014"
+      },
+      "passif_total": {
+        "val": 37733000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000066740-26-000014"
+      },
+      "capitaux_propres": {
+        "val": 4702000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000066740-26-000014"
+      },
+      "ebitda": {
+        "val": 5937000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "ups": {
+    "id": "ups",
+    "nom": "UPS Inc.",
+    "ticker": "UPS",
+    "cik": 1090727,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "United Parcel Service, Inc",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 88661000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-008432"
+      },
+      "ebit": {
+        "val": 7867000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-008432"
+      },
+      "dotations_amortissements": {
+        "val": 3000000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-008432"
+      },
+      "resultat_net": {
+        "val": 5572000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-008432"
+      },
+      "actif_total": {
+        "val": 73090000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-008432"
+      },
+      "passif_total": {
+        "val": 73090000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-008432"
+      },
+      "capitaux_propres": {
+        "val": 16227000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-008432"
+      },
+      "ebitda": {
+        "val": 10867000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "chevron": {
+    "id": "chevron",
+    "nom": "Chevron Corp.",
+    "ticker": "CVX",
+    "cik": 93410,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "Chevron Corp",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 184432000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2025-12-31",
+        "accn": "0000093410-26-000078"
+      },
+      "dotations_amortissements": {
+        "val": 20132000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0000093410-26-000078"
+      },
+      "resultat_net": {
+        "val": 12299000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000093410-26-000078"
+      },
+      "actif_total": {
+        "val": 324012000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0000093410-26-000078"
+      },
+      "passif_total": {
+        "val": 324012000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000093410-26-000078"
+      },
+      "capitaux_propres": {
+        "val": 186450000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000093410-26-000078"
+      }
+    }
+  },
+  "att": {
+    "id": "att",
+    "nom": "AT&T Inc.",
+    "ticker": "T",
+    "cik": 732717,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "AT&T INC.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 125648000000.0,
+        "concept": "Revenues",
+        "end": "2025-12-31",
+        "accn": "0000732717-26-000120"
+      },
+      "ebit": {
+        "val": 24162000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000732717-26-000120"
+      },
+      "dotations_amortissements": {
+        "val": 20886000000.0,
+        "concept": "DepreciationDepletionAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0000732717-26-000120"
+      },
+      "resultat_net": {
+        "val": 21953000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000732717-26-000120"
+      },
+      "actif_total": {
+        "val": 420198000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0000732717-26-000120"
+      },
+      "passif_total": {
+        "val": 420198000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000732717-26-000120"
+      },
+      "capitaux_propres": {
+        "val": 126491000000.0,
+        "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+        "end": "2025-12-31",
+        "accn": "0000732717-26-000120"
+      },
+      "ebitda": {
+        "val": 45048000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "verizon": {
+    "id": "verizon",
+    "nom": "Verizon Communications",
+    "ticker": "VZ",
+    "cik": 732712,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "VERIZON COMMUNICATIONS INC",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 138191000000.0,
+        "concept": "Revenues",
+        "end": "2025-12-31",
+        "accn": "0000732712-26-000007"
+      },
+      "ebit": {
+        "val": 29259000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000732712-26-000007"
+      },
+      "dotations_amortissements": {
+        "val": 18349000000.0,
+        "concept": "DepreciationAndAmortization",
+        "end": "2025-12-31",
+        "accn": "0000732712-26-000007"
+      },
+      "resultat_net": {
+        "val": 17174000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0000732712-26-000007"
+      },
+      "actif_total": {
+        "val": 404258000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0000732712-26-000007"
+      },
+      "passif_total": {
+        "val": 404258000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0000732712-26-000007"
+      },
+      "capitaux_propres": {
+        "val": 105741000000.0,
+        "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+        "end": "2025-12-31",
+        "accn": "0000732712-26-000007"
+      },
+      "ebitda": {
+        "val": 47608000000.0,
+        "concept": "DERIVED(OperatingIncomeLoss + DepreciationDepletionAndAmortization)",
+        "end": null,
+        "accn": null
+      }
+    }
+  },
+  "tesla": {
+    "id": "tesla",
+    "nom": "Tesla Inc.",
+    "ticker": "TSLA",
+    "cik": 1318605,
+    "labelled_year": 2026,
+    "chosen_fy": 2025,
+    "entity": "Tesla, Inc.",
+    "matched_on": "CIK + fy + fp=FY + form=10-K + USD unit",
+    "fields": {
+      "chiffre_affaires": {
+        "val": 94827000000.0,
+        "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-003952"
+      },
+      "ebit": {
+        "val": 4355000000.0,
+        "concept": "OperatingIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-003952"
+      },
+      "resultat_net": {
+        "val": 3794000000.0,
+        "concept": "NetIncomeLoss",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-003952"
+      },
+      "actif_total": {
+        "val": 137806000000.0,
+        "concept": "Assets",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-003952"
+      },
+      "passif_total": {
+        "val": 137806000000.0,
+        "concept": "LiabilitiesAndStockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-003952"
+      },
+      "capitaux_propres": {
+        "val": 82137000000.0,
+        "concept": "StockholdersEquity",
+        "end": "2025-12-31",
+        "accn": "0001628280-26-003952"
+      }
+    }
+  }
+}

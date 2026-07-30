@@ -22,9 +22,9 @@ from datetime import datetime
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 # ── Infrastructure partagée ────────────────────────────────────────────────────
-from llm_extractor import extract_text_from_file, _client, _clean_llm_response, MODEL_NAME
-from dd_base import DDTaxonomy
-from pipeline import _prepare_text, _certify_dd
+from semantic_firewall.extraction.llm_extractor import extract_text_from_file, _client, _clean_llm_response, MODEL_NAME
+from semantic_firewall.validation.dd_base import DDTaxonomy
+from semantic_firewall.pipeline import _prepare_text, _certify_dd
 
 OUTPUT_DIR        = Path("output")
 RESULTS_PATH      = OUTPUT_DIR / "benchmark_results.json"
@@ -266,30 +266,12 @@ KEY_FIELDS = [
 # MÉTHODE 1 : Parseur Regex / Géométrique Classique
 # ══════════════════════════════════════════════════════════════════════════════
 
-_PATTERNS_M1 = {
-    "chiffre_affaires": [
-        r'Total\s+net\s+revenues?\s+([\d,]+)',
-        r'Net\s+revenues?\s+([\d,]+)',
-        r'Net\s+sales?\s+([\d,]+)',
-        r'Total\s+revenues?\s+([\d,]+)',
-        r'Revenues?\s+([\d,]+)',
-    ],
-    "ebit": [
-        r'Income\s+from\s+operations\s+([\d,]+)',
-        r'Operating\s+income\s+([\d,]+)',
-        r'Operating\s+profit\s+([\d,]+)',
-        r'Total\s+operating\s+income\s+([\d,]+)',
-    ],
-    "dotations_amortissements": [
-        r'Depreciation\s+and\s+amortization\s+([\d,]+)',
-        r'Depreciation,\s*depletion\s+and\s+amortization\s+([\d,]+)',
-    ],
-    "resultat_net": [
-        r'Net\s+income\s+attributable\s+to\s+\S+.*?([\d,]+)',
-        r'Net\s+income\s+([\d,]+)',
-        r'Net\s+earnings\s+([\d,]+)',
-    ],
-}
+# D4: the M1 baseline now uses the EXACT SAME patterns as the system's internal
+# regex backfill (semantic_firewall.validation.corrector.REGEX_BACKFILL_PATTERNS).
+# Previously M1 was given brittle "number-glued-to-label" patterns while the system
+# used flexible ones that absorb leader dots — a straw-man ablation. Any residual
+# M1↔system gap is now a property of the surrounding logic, not of unequal patterns.
+from semantic_firewall.validation.corrector import REGEX_BACKFILL_PATTERNS as _PATTERNS_M1
 
 def method1_regex(text: str) -> dict:
     result = {}
@@ -299,12 +281,12 @@ def method1_regex(text: str) -> dict:
             if m:
                 try:
                     v = float(m.group(1).replace(",", ""))
-                    if v > 0:
+                    if v >= 100:  # same floor as the system's backfill
                         result[field] = v
                         break
                 except (ValueError, IndexError):
                     pass
-    # EBITDA calculé uniquement si on a EBIT + D&A
+    # EBITDA calculé uniquement si on a EBIT + D&A (capacité de base de la baseline)
     ebit = result.get("ebit", 0)
     da   = result.get("dotations_amortissements", 0)
     if ebit > 0 and da > 0:
@@ -423,32 +405,74 @@ def method4_hybrid(doc_name: str, text: str) -> dict:
 # CALCUL DES MÉTRIQUES
 # ══════════════════════════════════════════════════════════════════════════════
 
-def compute_metrics(fields: dict) -> dict:
+def compute_metrics(fields: dict, ground_truth: dict | None = None,
+                    rel_tol: float = 0.01) -> dict:
+    """Score an extraction.
+
+    D2 fix. Previously the headline "recall" was the proportion of *non-null* fields
+    — a coverage rate, not correctness — and EBITDA "coherence" was checked against
+    the same formula the corrector applied (tautology). Now, when XBRL ground truth
+    is supplied, we report the honest metric:
+
+        field_accuracy_pct = proportion of fields CORRECT within an explicit
+                             tolerance (default ±1 %) vs the SEC-tagged value.
+
+    ``coverage_pct`` (the old non-null rate) is kept but clearly labelled as
+    coverage, not accuracy. ``ebitda_coherent`` is an *internal-consistency* signal
+    on the raw extraction — never the headline score, and only meaningful alongside
+    ground-truth accuracy.
+
+    ``ground_truth`` is the ``fields`` block from benchmark_ground_truth (i.e.
+    {field: {"val": ...}}). When absent, accuracy is None (no fake number).
+    """
     f = DDTaxonomy._f
 
-    # Rappel : % champs extraits (non-null, non-zéro)
+    # Coverage (was misnamed "recall"): share of non-null, non-zero fields.
     nb_extracted = sum(1 for k in KEY_FIELDS if f(fields.get(k)) != 0)
-    recall = round(nb_extracted / len(KEY_FIELDS) * 100, 1)
+    coverage = round(nb_extracted / len(KEY_FIELDS) * 100, 1)
 
-    # Cohérence EBITDA = EBIT + D&A (±15 % tolérance DDTaxonomy)
+    # Correctness vs XBRL ground truth — the real metric.
+    field_accuracy_pct = None
+    field_results: dict = {}
+    n_correct = n_scored = 0
+    if ground_truth:
+        for k in KEY_FIELDS:
+            gt = ground_truth.get(k)
+            if not gt or gt.get("val") is None:
+                continue  # no truth for this field/company (e.g. banks have no EBIT)
+            truth = float(gt["val"])
+            got = f(fields.get(k))
+            tol = max(abs(truth) * rel_tol, 1.0)
+            ok = abs(got - truth) <= tol
+            field_results[k] = {"extracted": got, "truth": truth,
+                                "within_tol": ok,
+                                "abs_error_pct": round(abs(got - truth) / max(abs(truth), 1) * 100, 2)}
+            n_scored += 1
+            n_correct += int(ok)
+        field_accuracy_pct = round(n_correct / n_scored * 100, 1) if n_scored else None
+
+    # Internal EBITDA consistency on the RAW extraction (a signal, NOT the score).
     ebit   = f(fields.get("ebit"))
     da     = f(fields.get("dotations_amortissements"))
     ebitda = f(fields.get("ebitda"))
-
     coherence = None
     coherence_error_pct = None
-    if ebit > 0 and da > 0 and ebitda > 0:
+    if ebit != 0 and da > 0 and ebitda != 0:
         expected = ebit + da
-        err_pct  = abs(ebitda - expected) / expected * 100
+        err_pct  = abs(ebitda - expected) / max(abs(ebitda), 1) * 100
         coherence = err_pct <= 15.0
         coherence_error_pct = round(err_pct, 1)
 
     return {
-        "fields_extracted":   nb_extracted,
-        "total_fields":       len(KEY_FIELDS),
-        "recall_pct":         recall,
-        "ebitda_coherent":    coherence,
-        "ebitda_error_pct":   coherence_error_pct,
+        "fields_extracted":     nb_extracted,
+        "total_fields":         len(KEY_FIELDS),
+        "coverage_pct":         coverage,        # renamed: coverage, not accuracy
+        "field_accuracy_pct":   field_accuracy_pct,   # correctness vs XBRL (D2)
+        "fields_correct":       n_correct,
+        "fields_scored":        n_scored,
+        "field_results":        field_results,
+        "ebitda_coherent":      coherence,       # internal signal on raw extraction
+        "ebitda_error_pct":     coherence_error_pct,
     }
 
 
@@ -477,9 +501,21 @@ def run_benchmark(docs: list, results_path: Path,
 
     all_docs = list(completed.values())  # start from cached docs
 
+    # D2: real XBRL ground truth (built by benchmark_ground_truth). If absent, the
+    # benchmark still runs but field_accuracy is None (no fabricated number) and a
+    # warning is printed telling the user to build it.
+    from semantic_firewall.evaluation.benchmark_ground_truth import load as _load_gt
+    GT = _load_gt()
+    if not GT:
+        print("  ⚠ No XBRL ground truth found (output/benchmark_xbrl_ground_truth.json).")
+        print("    Build it: python -m semantic_firewall.evaluation.benchmark_ground_truth [--full]")
+        print("    field_accuracy_pct will be null until then.")
+
     for idx, doc in enumerate(docs, 1):
         if doc["id"] in completed:
             continue  # déjà traité
+        gt_rec = GT.get(doc["id"], {})
+        gt_fields = gt_rec.get("fields")
 
         print(f"\n{'━'*62}")
         print(f"  [{idx}/{len(docs)}] {doc['nom']}  ({doc['secteur']}, {doc['annee']})")
@@ -503,14 +539,21 @@ def run_benchmark(docs: list, results_path: Path,
             "particularite": doc["particularite"],
             "defi":        doc["defi"],
             "text_chars":  len(text),
+            "ground_truth": {"cik": gt_rec.get("cik"), "chosen_fy": gt_rec.get("chosen_fy"),
+                             "entity": gt_rec.get("entity")} if gt_rec else None,
             "methods":     {},
         }
+
+        def _fmt(m):
+            acc = m["field_accuracy_pct"]
+            acc_s = f"{acc}% ({m['fields_correct']}/{m['fields_scored']})" if acc is not None else "n/a (no GT)"
+            return f"accuracy {acc_s}  coverage {m['coverage_pct']}%  EBITDA-coh {m['ebitda_coherent']}"
 
         # ── Méthode 1 : Regex ─────────────────────────────────────────────────
         print("\n  [M1] Regex / Géométrique classique …", flush=True)
         t0 = time.time()
         m1_fields  = method1_regex(text)
-        m1_metrics = compute_metrics(m1_fields)
+        m1_metrics = compute_metrics(m1_fields, gt_fields)
         doc_entry["methods"]["method1"] = {
             "label":   "Regex / Géométrique",
             "fields":  m1_fields,
@@ -518,15 +561,14 @@ def run_benchmark(docs: list, results_path: Path,
             "time_s":  round(time.time() - t0, 3),
             "anomalies_detected": [],
         }
-        print(f"     Recall {m1_metrics['recall_pct']}%  "
-              f"EBITDA cohérent: {m1_metrics['ebitda_coherent']}")
+        print("     " + _fmt(m1_metrics))
 
         # ── Méthode 2 : LLM Zéro-Shot ─────────────────────────────────────────
         print("\n  [M2] LLM Zéro-Shot …", flush=True)
-        time.sleep(1.0)
+        # (no sleep: latency is measured immediately after; rate-limit in client)
         t0 = time.time()
         m2_fields  = method2_zeroshot(text)
-        m2_metrics = compute_metrics(m2_fields)
+        m2_metrics = compute_metrics(m2_fields, gt_fields)
         doc_entry["methods"]["method2"] = {
             "label":   "LLM Zéro-Shot",
             "fields":  m2_fields,
@@ -534,15 +576,14 @@ def run_benchmark(docs: list, results_path: Path,
             "time_s":  round(time.time() - t0, 1),
             "anomalies_detected": [],
         }
-        print(f"     Recall {m2_metrics['recall_pct']}%  "
-              f"EBITDA cohérent: {m2_metrics['ebitda_coherent']}")
+        print("     " + _fmt(m2_metrics))
 
         # ── Méthode 3 : LLM + CoT ─────────────────────────────────────────────
         print("\n  [M3] LLM + Chain-of-Thought …", flush=True)
-        time.sleep(1.0)
+        # (no sleep: latency is measured immediately after; rate-limit in client)
         t0 = time.time()
         m3_fields  = method3_cot(text)
-        m3_metrics = compute_metrics(m3_fields)
+        m3_metrics = compute_metrics(m3_fields, gt_fields)
         doc_entry["methods"]["method3"] = {
             "label":   "LLM + CoT Auto-correction",
             "fields":  m3_fields,
@@ -550,15 +591,14 @@ def run_benchmark(docs: list, results_path: Path,
             "time_s":  round(time.time() - t0, 1),
             "anomalies_detected": [],
         }
-        print(f"     Recall {m3_metrics['recall_pct']}%  "
-              f"EBITDA cohérent: {m3_metrics['ebitda_coherent']}")
+        print("     " + _fmt(m3_metrics))
 
         # ── Méthode 4 : Hybride Neuro-Symbolique ─────────────────────────────
         print("\n  [M4] Hybride Neuro-Symbolique …", flush=True)
-        time.sleep(1.0)
+        # (no sleep: latency is measured immediately after; rate-limit in client)
         t0 = time.time()
         m4_result  = method4_hybrid(Path(doc["path"]).name, text)
-        m4_metrics = compute_metrics(m4_result["fields"])
+        m4_metrics = compute_metrics(m4_result["fields"], gt_fields)
         doc_entry["methods"]["method4"] = {
             "label":            "Pare-feu Hybride Neuro-Symbolique",
             "fields":           m4_result["fields"],
@@ -571,9 +611,8 @@ def run_benchmark(docs: list, results_path: Path,
             "semantic_jsd":     m4_result["semantic_jsd"],
             "semantic_alert":   m4_result["semantic_alert"],
         }
-        print(f"     Recall {m4_metrics['recall_pct']}%  "
-              f"EBITDA cohérent: {m4_metrics['ebitda_coherent']}  "
-              f"Statut: {m4_result['statut']}  Score: {m4_result['score']}%")
+        print("     " + _fmt(m4_metrics)
+              + f"  Statut: {m4_result['statut']}  Score: {m4_result['score']}%")
 
         all_docs.append(doc_entry)
 
@@ -607,6 +646,8 @@ if __name__ == "__main__":
 
         data     = json.loads(RESULTS_FULL_PATH.read_text(encoding="utf-8"))
         all_docs = {d["id"]: d for d in data["documents"]}
+        from semantic_firewall.evaluation.benchmark_ground_truth import load as _load_gt
+        GT = _load_gt()
 
         erreur_ids   = {d["id"] for d in data["documents"]
                         if d.get("methods", {}).get("method4", {}).get("statut") == "ERREUR"}
@@ -632,9 +673,9 @@ if __name__ == "__main__":
                 continue
 
             t0 = time.time()
-            time.sleep(1.0)
+            # (no sleep: latency is measured immediately after; rate-limit in client)
             m4_result  = method4_hybrid(Path(doc["path"]).name, text)
-            m4_metrics = compute_metrics(m4_result["fields"])
+            m4_metrics = compute_metrics(m4_result["fields"], GT.get(doc["id"], {}).get("fields"))
             elapsed    = round(time.time() - t0, 1)
 
             new_m4 = {
@@ -661,7 +702,9 @@ if __name__ == "__main__":
                     "methods": {"method4": new_m4},
                 }
 
-            print(f"    Recall {m4_metrics['recall_pct']}%  "
+            _acc = m4_metrics["field_accuracy_pct"]
+            _acc_s = f"{_acc}%" if _acc is not None else "n/a"
+            print(f"    accuracy {_acc_s}  coverage {m4_metrics['coverage_pct']}%  "
                   f"Statut: {m4_result['statut']}  Score: {m4_result['score']}%")
             updated += 1
 
@@ -720,22 +763,24 @@ if __name__ == "__main__":
     for doc in data["documents"]:
         row = f"│ {doc['nom'][:18]:<18} │"
         for mk in ["method1", "method2", "method3", "method4"]:
-            m = doc["methods"].get(mk, {})
-            r = m.get("metrics", {}).get("recall_pct", 0)
-            row += f" {r:>5.1f}%  │"
+            m = doc["methods"].get(mk, {}).get("metrics", {})
+            a = m.get("field_accuracy_pct")
+            row += (f" {a:>5.1f}%  │" if a is not None else f" {'  —':>6}  │")
         print(row)
     print(f"└{'─'*20}┴{'─'*10}┴{'─'*10}┴{'─'*10}┴{'─'*10}┘")
-    print("  (Recall = % champs extraits sur 5 champs obligatoires)")
+    print("  (Accuracy = % champs CORRECTS vs vérité de terrain XBRL, tolérance ±1%)")
+    print("  ('—' = pas de vérité de terrain pour ce document)")
 
-    # Moyennes par méthode
+    # Moyennes par méthode : accuracy micro-moyennée sur les champs notés (D2)
     print()
     for mk, label in [("method1","M1 Regex"),("method2","M2 ZeroShot"),
                       ("method3","M3 CoT"),("method4","M4 Hybride")]:
-        recalls = [d["methods"].get(mk,{}).get("metrics",{}).get("recall_pct",0)
-                   for d in data["documents"]]
-        coh = [d["methods"].get(mk,{}).get("metrics",{}).get("ebitda_coherent")
-               for d in data["documents"] if d["methods"].get(mk,{}).get("metrics",{}).get("ebitda_coherent") is not None]
-        avg_r = sum(recalls)/len(recalls) if recalls else 0
-        coh_r = sum(1 for c in coh if c)/len(coh)*100 if coh else None
-        coh_s = f"{coh_r:.0f}%" if coh_r is not None else "—"
-        print(f"  {label:<12} avg recall={avg_r:>5.1f}%  EBITDA cohérent={coh_s}")
+        correct = sum(d["methods"].get(mk,{}).get("metrics",{}).get("fields_correct",0)
+                      for d in data["documents"])
+        scored  = sum(d["methods"].get(mk,{}).get("metrics",{}).get("fields_scored",0)
+                      for d in data["documents"])
+        cov = [d["methods"].get(mk,{}).get("metrics",{}).get("coverage_pct",0)
+               for d in data["documents"]]
+        acc_s = f"{100*correct/scored:>5.1f}% ({correct}/{scored})" if scored else "  n/a (no GT)"
+        avg_cov = sum(cov)/len(cov) if cov else 0
+        print(f"  {label:<12} accuracy={acc_s}   coverage={avg_cov:>5.1f}%")

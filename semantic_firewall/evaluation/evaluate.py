@@ -18,8 +18,8 @@ from pathlib import Path
 
 from tqdm import tqdm
 
-from benchmark_base import FinVerBenchTaxonomy
-from llm_extractor import extract_document, SUPPORTED_EXTENSIONS, MODEL_NAME
+from semantic_firewall.validation.finverbench import FinVerBenchTaxonomy
+from semantic_firewall.extraction.llm_extractor import extract_document, SUPPORTED_EXTENSIONS, MODEL_NAME
 
 SAMPLES_DIR = Path("samples")
 GROUND_TRUTH_DIR = Path("output")

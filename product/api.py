@@ -31,11 +31,11 @@ from fastapi           import FastAPI, File, Form, UploadFile, HTTPException, He
 from fastapi.responses import JSONResponse, FileResponse, HTMLResponse
 from pydantic          import BaseModel
 
-from pipeline    import certify_document_from_bytes, certify_dossier
-from rag_corpus  import RagCorpus, CORPUS_PATH
+from semantic_firewall.pipeline import certify_document_from_bytes, certify_dossier
+from product.rag_corpus import RagCorpus, CORPUS_PATH
 from connectors  import get_manager
-from dd_workflow        import classify_alerts, WORKFLOW_SCHEMA
-from dd_generate_report import build_html, generate_dd_report
+from product.dd_workflow import classify_alerts, WORKFLOW_SCHEMA
+from product.dd_generate_report import build_html, generate_dd_report
 
 DOSSIERS_DIR = Path("output/dossiers")
 DOSSIERS_DIR.mkdir(parents=True, exist_ok=True)
@@ -1572,8 +1572,8 @@ async def rag_check_file(file: UploadFile = File(...)):
     _check_file_size(content)
     safe_name = _safe_filename(file.filename or "document")
 
-    from detect_doc_type import detect_doc_type
-    from semantic_monitor import get_monitor, _jsd_contributors, _tokenize, _word_freq
+    from semantic_firewall.extraction.detect_doc_type import detect_doc_type
+    from semantic_firewall.monitoring.semantic_monitor import get_monitor, _jsd_contributors, _tokenize, _word_freq
 
     # Extraction texte : PDF/binaires via llm_extractor, texte brut sinon
     suffix = Path(safe_name).suffix.lower()
@@ -1583,7 +1583,7 @@ async def rag_check_file(file: UploadFile = File(...)):
         tmp_path = tmp_dir / safe_name
         tmp_path.write_bytes(content)
         try:
-            from llm_extractor import extract_text_from_file
+            from semantic_firewall.extraction.llm_extractor import extract_text_from_file
             text = extract_text_from_file(str(tmp_path))
         except Exception as e:
             try:
@@ -1659,7 +1659,7 @@ def rag_reset():
 @app.get("/monitor/stats", tags=["RAG"])
 def monitor_stats():
     """Statistiques du SemanticMonitor (corpus de référence JSD)."""
-    from semantic_monitor import get_monitor
+    from semantic_firewall.monitoring.semantic_monitor import get_monitor
     monitor = get_monitor()
     refs = {
         f"{dt} [{lang}]": len(freqs)
@@ -1678,7 +1678,7 @@ def monitor_rebuild():
     Reconstruit le SemanticMonitor depuis les fichiers samples/.
     À appeler après avoir ajouté de nouveaux documents dans samples/references/.
     """
-    from semantic_monitor import reset_monitor, get_monitor
+    from semantic_firewall.monitoring.semantic_monitor import reset_monitor, get_monitor
     reset_monitor()
     monitor = get_monitor()
     refs = {

@@ -1,0 +1,17 @@
+# Core research artifact — extraction + validation + monitoring + evaluation.
+# Pinned for reproducibility (D11). Python 3.11+.
+numpy==2.5.0
+requests==2.34.2
+openai==2.42.0
+python-dotenv==1.2.2
+tqdm==4.68.3
+
+# Document extraction (PDF / image / docx / OCR)
+PyMuPDF==1.27.2.3
+pillow==12.2.0
+pytesseract==0.3.13
+python-docx==1.2.0
+lxml==6.1.1
+
+# Optional but recommended for E0 batch manifests / analysis
+pandas==3.0.3

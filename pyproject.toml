@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "semantic-firewall"
+version = "1.0.0"
+description = "Neuro-symbolic firewall for financial due-diligence extraction (FinNLP)"
+readme = "README.md"
+requires-python = ">=3.11"
+dynamic = ["dependencies"]
+
+[tool.setuptools]
+packages = ["semantic_firewall",
+            "semantic_firewall.extraction",
+            "semantic_firewall.validation",
+            "semantic_firewall.monitoring",
+            "semantic_firewall.evaluation"]
+
+[tool.setuptools.dynamic]
+dependencies = { file = ["requirements.txt"] }
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+# Default run = fast, offline unit tests only. The integration tests below hit the
+# LLM API / SEC network and are excluded from the default suite.
+addopts = "-q --ignore=tests/test_parsing.py --ignore=tests/test_sec.py --ignore=tests/test_batch_api.py"

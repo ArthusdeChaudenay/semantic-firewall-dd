@@ -25,7 +25,7 @@ import json
 import numpy as np
 from pathlib import Path
 
-from semantic_monitor import _tokenize, _word_freq, _cosine, get_monitor
+from semantic_firewall.monitoring.semantic_monitor import _tokenize, _word_freq, _cosine, get_monitor
 
 # ── Constantes ────────────────────────────────────────────────────────────────
 
@@ -158,7 +158,7 @@ class RagCorpus:
         Indexe un batch de fichiers (data room complète).
         Sauvegarde automatique à la fin du batch.
         """
-        from detect_doc_type import detect_doc_type
+        from semantic_firewall.extraction.detect_doc_type import detect_doc_type
 
         results  = []
         indexed  = 0
@@ -173,7 +173,7 @@ class RagCorpus:
 
             try:
                 if p.suffix.lower() in (".pdf", ".docx", ".xlsx", ".png", ".jpg", ".jpeg"):
-                    from llm_extractor import extract_text_from_file
+                    from semantic_firewall.extraction.llm_extractor import extract_text_from_file
                     text = extract_text_from_file(str(p))
                 else:
                     text = p.read_text(encoding="utf-8", errors="replace")

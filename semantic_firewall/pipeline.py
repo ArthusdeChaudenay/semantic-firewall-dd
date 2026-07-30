@@ -15,18 +15,25 @@ import time
 from datetime import datetime
 from pathlib import Path
 
-from detect_doc_type   import detect_doc_type
-from llm_extractor     import extract_text_from_file, MODEL_NAME
-from semantic_monitor  import get_monitor
+from semantic_firewall.config import MAX_DOC_CHARS, MAX_LLM_CHARS
+from semantic_firewall.extraction.detect_doc_type import detect_doc_type
+from semantic_firewall.extraction.llm_extractor import extract_text_from_file, MODEL_NAME
+from semantic_firewall.monitoring.semantic_monitor import get_monitor
+from semantic_firewall.validation.anchoring import check_transcription_divergence
+from semantic_firewall.validation.completeness import check_completeness
+from semantic_firewall.validation.corrector import apply_corrections
 
 OUTPUT_DIR  = Path("output")
 DOSSIERS_DIR = OUTPUT_DIR / "dossiers"
 DOSSIERS_DIR.mkdir(parents=True, exist_ok=True)
 
-# Limite de caractères envoyés au LLM — seulement pour les documents extrêmement longs
-# (Bank of America: ~800k chars / 202k tokens > limite 131k du modèle)
-# 400k chars ≈ 100k tokens + overhead prompt : safe pour tous les 10-K normaux
-_MAX_DOC_CHARS = 400_000
+# Enable the separate corrector stage in production certification. Turn OFF to
+# obtain the honest raw-extraction baseline (B5 in the benchmark).
+ENABLE_CORRECTOR = True
+
+# Limite de caractères — voir semantic_firewall.config. Documents extrêmement longs
+# (Bank of America: ~800k chars) : on cible la section états financiers.
+_MAX_DOC_CHARS = MAX_DOC_CHARS
 
 # Marqueurs de début des états financiers (FR + EN)
 _FIN_SECTION_RE = re.compile(
@@ -54,13 +61,13 @@ def _prepare_text(text: str) -> str:
 # ── helpers d'import différé pour éviter les imports circulaires ──────────────
 
 def _get_invoice_pipeline():
-    from llm_extractor    import extract_document
-    from benchmark_base   import FinVerBenchTaxonomy
+    from semantic_firewall.extraction.llm_extractor import extract_document
+    from semantic_firewall.validation.finverbench import FinVerBenchTaxonomy
     return extract_document, FinVerBenchTaxonomy
 
 def _get_dd_pipeline():
-    from llm_extractor import extract_text_from_file, _client, _clean_llm_response
-    from dd_base       import build_dd_prompt, DDTaxonomy
+    from semantic_firewall.extraction.llm_extractor import extract_text_from_file, _client, _clean_llm_response
+    from semantic_firewall.validation.dd_base import build_dd_prompt, DDTaxonomy
     return extract_text_from_file, _client, _clean_llm_response, build_dd_prompt, DDTaxonomy
 
 
@@ -171,9 +178,17 @@ def _certify_dd(doc_name: str, doc_type: str, text: str) -> dict:
     extract_text_from_file, _client, _clean_llm_response, build_dd_prompt, DDTaxonomy = _get_dd_pipeline()
 
     # Extraction LLM (1 retry sur JSONDecodeError)
-    doc_text = _prepare_text(text)
-    # Plafonner à 200k chars (≈50k tokens) pour rester dans la fenêtre contextuelle NIM
-    doc_text = doc_text[:200_000]
+    prepared = _prepare_text(text)
+    doc_text = prepared[:MAX_LLM_CHARS]
+    # Journaliser toute troncature (D-minor : la perte de données ne doit jamais
+    # être invisible dans les résultats).
+    truncation = {
+        "original_chars":  len(text),
+        "prepared_chars":  len(prepared),
+        "sent_to_llm_chars": len(doc_text),
+        "truncated": len(doc_text) < len(text),
+        "chars_dropped": max(0, len(text) - len(doc_text)),
+    }
     last_err = None
     extracted = None
     _TRANSIENT = ("429", "connection error", "timeout", "service unavailable",
@@ -207,143 +222,39 @@ def _certify_dd(doc_name: str, doc_type: str, text: str) -> dict:
     if extracted is None:
         return _cert_error(doc_name, doc_type, f"Réponse LLM non parseable : {last_err}")
 
-    flat = {k: str(v) if v is not None else "" for k, v in extracted.items()}
+    # ── RAW extraction (what the LLM actually produced) ───────────────────────
+    raw_flat = {k: str(v) if v is not None else "" for k, v in extracted.items()}
 
-    if doc_type == "compte_resultat":
-        import re as _re
+    # ── DETECTOR — runs on RAW, BEFORE any correction (D1) ─────────────────────
+    # These violations and the confidence score are earned, not tautological.
+    dd_audit_raw = DDTaxonomy.run_audit(raw_flat, doc_type)
+    completeness = check_completeness(raw_flat, doc_type)
+    anchoring    = check_transcription_divergence(raw_flat, doc_text, doc_type)
 
-        ca_v     = DDTaxonomy._f(flat.get("chiffre_affaires", "0"))
-        ebit_v   = DDTaxonomy._f(flat.get("ebit", "0"))
-        ebitda_v = DDTaxonomy._f(flat.get("ebitda", "0"))
-        da_v     = DDTaxonomy._f(flat.get("dotations_amortissements", "0"))
+    # ── CORRECTOR — a SEPARATE, optional second system (D1) ────────────────────
+    if ENABLE_CORRECTOR:
+        corrected_flat, corrections = apply_corrections(raw_flat, doc_type, doc_text)
+    else:
+        corrected_flat, corrections = dict(raw_flat), []
+    dd_audit_post = DDTaxonomy.run_audit(corrected_flat, doc_type)
 
-        # ── Fallback Regex (avant auto-corrections pour alimenter les cas) ────────
-        # Patterns robustes : [^\n]{0,60}? absorbe les lignes pointillées des 10-K.
-        # Appliqué à tous les docs (banques incluses pour EBIT via pre-tax income).
-        _REGEX_FALLBACKS = {
-            "chiffre_affaires": [
-                r'Net\s+sales[^\n]{0,60}?([\d,]{4,})',
-                r'Total\s+net\s+revenues?[^\n]{0,60}?([\d,]{4,})',
-                r'Net\s+revenues?[^\n]{0,60}?([\d,]{4,})',
-                r'Total\s+revenues?[^\n]{0,60}?([\d,]{4,})',
-                r'Revenues?[^\n]{0,60}?([\d,]{4,})',
-            ],
-            "ebit": [
-                r'Income\s+from\s+operations[^\n]{0,60}?([\d,]{4,})',
-                r'Operating\s+income[^\n]{0,60}?([\d,]{4,})',
-                r'Operating\s+profit[^\n]{0,60}?([\d,]{4,})',
-                r'Total\s+operating\s+income[^\n]{0,60}?([\d,]{4,})',
-                # Banques : pre-tax income en lieu d'EBIT
-                r'Income\s+before\s+income\s+tax[^\n]{0,60}?([\d,]{4,})',
-                r'Pre[-\s]tax\s+income[^\n]{0,60}?([\d,]{4,})',
-                r'Earnings\s+before\s+income\s+tax[^\n]{0,60}?([\d,]{4,})',
-            ],
-            "dotations_amortissements": [
-                r'Depreciation\s+and\s+amortization[^\n]{0,60}?([\d,]{3,})',
-                r'Depreciation,\s*depletion\s+and\s+amortization[^\n]{0,60}?([\d,]{3,})',
-                r'Amortization\s+of\s+content\s+assets[^\n]{0,60}?([\d,]{3,})',
-                r'Depreciation[^\n]{0,60}?([\d,]{3,})',
-            ],
-            "resultat_net": [
-                r'Net\s+income\s+attributable[^\n]{0,80}?([\d,]{4,})',
-                r'Net\s+income[^\n]{0,60}?([\d,]{4,})',
-                r'Net\s+earnings[^\n]{0,60}?([\d,]{4,})',
-            ],
-        }
-        for _fld, _pats in _REGEX_FALLBACKS.items():
-            if flat.get(_fld, "") == "":
-                for _pat in _pats:
-                    _m = _re.search(_pat, doc_text, _re.IGNORECASE)
-                    if _m:
-                        try:
-                            _v = float(_m.group(1).replace(",", ""))
-                            if _v >= 100:
-                                flat[_fld] = str(_v)
-                                break
-                        except (ValueError, IndexError):
-                            pass
-
-        # Rafraîchir les variables après regex
-        ca_v     = DDTaxonomy._f(flat.get("chiffre_affaires", "0"))
-        ebit_v   = DDTaxonomy._f(flat.get("ebit", "0"))
-        ebitda_v = DDTaxonomy._f(flat.get("ebitda", "0"))
-        da_v     = DDTaxonomy._f(flat.get("dotations_amortissements", "0"))
-
-        # ── Auto-corrections post-extraction ──────────────────────────────────────
-
-        # Cas 0 : EBITDA absent → EBITDA = EBIT + D&A
-        if ebitda_v == 0 and ebit_v > 0 and da_v > 0:
-            ebitda_v = ebit_v + da_v
-            flat["ebitda"] = str(ebitda_v)
-
-        # Cas 1 : EBITDA ≈ EBIT (LLM a oublié d'ajouter D&A) → recalculer
-        if ebit_v > 0 and da_v > 0 and abs(ebitda_v - ebit_v) < 1.0:
-            ebitda_v = ebit_v + da_v
-            flat["ebitda"] = str(ebitda_v)
-
-        # Cas 2 : EBITDA > CA → impossible → recalculer
-        if ca_v > 0 and ebitda_v > ca_v and ebit_v > 0:
-            ebitda_v = ebit_v + da_v
-            flat["ebitda"] = str(ebitda_v)
-
-        # Cas 3 : EBIT < D&A avec gros écart sur EBITDA → EBIT extrait d'un sous-segment
-        if (ebit_v > 0 and da_v > 0 and ebitda_v > 0
-                and ebit_v < da_v
-                and abs((ebit_v + da_v) - ebitda_v) / ebitda_v > 0.30):
-            ebit_v = ebitda_v - da_v
-            flat["ebit"] = str(ebit_v)
-
-        # Cas 4 : EBITDA < EBIT → mathématiquement impossible (D&A ≥ 0) → recalculer
-        if ebit_v > 0 and 0 < ebitda_v < ebit_v:
-            ebitda_v = ebit_v + da_v
-            flat["ebitda"] = str(ebitda_v)
-
-        # Cas 5 : D&A > EBITDA avec EBIT > 0 → D&A inclut des items hors-EBITDA
-        #         (content amortization Netflix, DD&A Chevron dans le CF statement)
-        #         → ajuster D&A = EBITDA − EBIT
-        if ebit_v > 0 and ebitda_v > 0 and da_v > ebitda_v:
-            da_v = max(ebitda_v - ebit_v, 0)
-            flat["dotations_amortissements"] = str(da_v)
-
-        # Règle générale : si EBIT et D&A disponibles et écart EBITDA > 15% → recalculer
-        if ebit_v != 0 and da_v > 0:
-            computed_ebitda = ebit_v + da_v
-            if ebitda_v == 0 or abs(computed_ebitda - ebitda_v) / max(abs(ebitda_v), 1) > 0.15:
-                ebitda_v = computed_ebitda
-                flat["ebitda"] = str(ebitda_v)
-
-        # Dérivation EBIT : si EBIT manquant mais EBITDA et D&A connus
-        if ebit_v == 0 and ebitda_v > 0 and da_v > 0 and ebitda_v > da_v:
-            ebit_v = ebitda_v - da_v
-            flat["ebit"] = str(ebit_v)
-
-        # Marge EBITDA recalculée systématiquement depuis EBITDA/CA
-        if ca_v > 0 and ebitda_v > 0:
-            marge_v = DDTaxonomy._f(flat.get("marge_ebitda_pct", "0"))
-            computed_marge = ebitda_v / ca_v * 100
-            if marge_v == 0 or abs(computed_marge - marge_v) > 1.0:
-                flat["marge_ebitda_pct"] = str(round(computed_marge, 1))
-
-    # Contrôles DDTaxonomy
-    dd_audit = DDTaxonomy.run_audit(flat, doc_type)
-
-    # Complétude (champs obligatoires)
-    from dd_eval import CHAMPS_OBLIGATOIRES, check_completeness
-    completeness = check_completeness(flat, doc_type)
-
+    # ── Honest verdict: derived from the RAW detector + completeness + anchoring
     anomalies = []
     if completeness["statut"] != "PASS":
         anomalies.append({"check": "completeness", "statut": "FAIL",
                           "message": completeness.get("message", "")})
-    for k, v in dd_audit.items():
+    for k, v in dd_audit_raw.items():
         if v["statut"] in ("FAIL", "ERROR"):
             anomalies.append({"check": k, "statut": v["statut"],
                               "message": v.get("message", "")})
+    if anchoring["statut"] == "FAIL":
+        anomalies.append({"check": "anchoring", "statut": "FAIL",
+                          "message": anchoring.get("message", "")})
 
     statut = "CERTIFIÉ" if not anomalies else "ANOMALIE"
-    score  = _compute_score_dd(completeness, dd_audit)
+    score  = _compute_score_dd(completeness, dd_audit_raw, anchoring)
 
-    all_controles = {"completeness": completeness, **dd_audit}
+    all_controles = {"completeness": completeness, "anchoring": anchoring, **dd_audit_raw}
     semantic = get_monitor().analyze(text, doc_type)
 
     if statut == "CERTIFIÉ" and semantic.get("jsd_alert"):
@@ -353,11 +264,15 @@ def _certify_dd(doc_name: str, doc_type: str, text: str) -> dict:
         "document":          doc_name,
         "doc_type":          doc_type,
         "statut":            statut,
-        "score_confiance":   score,
+        "score_confiance":   score,               # computed on RAW detection
         "anomalies":         anomalies,
-        "controles":         all_controles,
-        "champs_extraits":   {k: (v if v != "" else None) for k, v in flat.items()},
+        "controles":         all_controles,       # RAW detector (honest)
+        "controles_post_correction": dd_audit_post,
+        "champs_extraits":   {k: (v if v != "" else None) for k, v in raw_flat.items()},
+        "champs_corriges":   {k: (v if v != "" else None) for k, v in corrected_flat.items()},
+        "corrections_appliquees": corrections,
         "semantic_analysis": semantic,
+        "truncation":        truncation,
         "modele":            MODEL_NAME,
         "horodatage":        _now(),
     }

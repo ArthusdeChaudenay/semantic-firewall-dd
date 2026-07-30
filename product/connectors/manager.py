@@ -20,7 +20,7 @@ def _enrich(rapport: dict) -> dict:
     if rapport.get("workflow_event"):
         return rapport
     try:
-        from dd_workflow import classify_alerts
+        from product.dd_workflow import classify_alerts
         event = classify_alerts(rapport)
         return {**rapport, "workflow_event": event.to_dict()}
     except Exception:

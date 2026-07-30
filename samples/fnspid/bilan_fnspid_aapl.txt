@@ -1,7 +1,10 @@
 ANNUAL BALANCE SHEET — FY2023 (10-K)
 Company     : Apple Inc. (AAPL)
 Fiscal Year : September 30, 2023
-Source      : FNSPID dataset — SEC 10-K filing, S&P 500 Information Technology sector
+Source      : DOCUMENT SYNTHÉTIQUE écrit à la main pour les tests unitaires.
+              Chiffres inspirés d'ordres de grandeur publics ; N'EST PAS extrait
+              du dataset FNSPID (Dong et al., 2024), qui ne contient ni bilan ni
+              état financier de 10-K (uniquement presse financière et cours).
 
 ======================================================================
 ASSETS

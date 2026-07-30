@@ -16,8 +16,8 @@ import re
 import sys
 from pathlib import Path
 
-from benchmark_base import FinVerBenchTaxonomy
-from llm_extractor import extract_text_from_file, extract_document, SUPPORTED_EXTENSIONS
+from semantic_firewall.validation.finverbench import FinVerBenchTaxonomy
+from semantic_firewall.extraction.llm_extractor import extract_text_from_file, extract_document, SUPPORTED_EXTENSIONS
 
 SAMPLES_DIR = Path("samples")
 

@@ -19,6 +19,10 @@ tessdata/
 *.pdf
 *.html
 
+# Cache XBRL et vérité de terrain générée (garder les manifestes CSV versionnés)
+data/xbrl_cache/
+data/*.jsonl
+
 # Modèles et corpus volumineux
 *.bin
 *.gguf

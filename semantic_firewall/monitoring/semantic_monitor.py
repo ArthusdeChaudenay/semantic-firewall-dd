@@ -29,6 +29,8 @@ from pathlib import Path
 
 import numpy as np
 
+from semantic_firewall.config import JSD_ALERT_THRESHOLD as _CONFIG_JSD_THRESHOLD
+
 _EPSILON = 1e-5
 
 REFERENCE_CORPUS_DIRS: tuple = ("samples/dd", "samples")
@@ -91,12 +93,17 @@ def detect_language(text: str) -> str:
     Heuristique rapide sur les 2 000 premiers tokens :
     compte les occurrences de marqueurs fonctionnels FR vs EN.
     Précision >99 % sur les documents financiers standard.
+
+    Corrections (audit, défauts mineurs) :
+      - la classe de caractères inclut désormais œ et ÿ ;
+      - en cas d'égalité (dont chaîne vide, 0 vs 0) on retourne 'fr' au lieu de
+        biaiser systématiquement vers 'en' : le tie-break est explicite et neutre.
     """
-    words = re.findall(r"[a-záàâäéèêëïîôùûüç]+", text.lower())[:2000]
+    words = re.findall(r"[a-záàâäéèêëïîœôùûüÿç]+", text.lower())[:2000]
     freq  = Counter(words)
     fr    = sum(freq.get(w, 0) for w in _FR_MARKERS)
     en    = sum(freq.get(w, 0) for w in _EN_MARKERS)
-    return "en" if en >= fr else "fr"
+    return "en" if en > fr else "fr"
 
 
 # ==========================================
@@ -193,7 +200,9 @@ class SemanticMonitor:
     JSD et centroïdes sont calculés dans l'espace vectoriel de la langue détectée.
     """
 
-    JSD_ALERT_THRESHOLD = 0.55
+    # D7: single source of truth — imported from semantic_firewall.config.
+    # Never retype the literal "0.55"; report generators must read this value.
+    JSD_ALERT_THRESHOLD = _CONFIG_JSD_THRESHOLD
     REFERENCE_EXCLUDE   = ("derive_semantique",)
 
     def __init__(self):
@@ -223,7 +232,7 @@ class SemanticMonitor:
         jsd_dirs : sous-ensemble de sample_dirs inclus dans le corpus JSD.
                    Les autres ne servent qu'aux centroïdes TF-IDF.
         """
-        from detect_doc_type import detect_doc_type
+        from semantic_firewall.extraction.detect_doc_type import detect_doc_type
 
         jsd_set = {Path(d).resolve() for d in jsd_dirs} if jsd_dirs else None
 

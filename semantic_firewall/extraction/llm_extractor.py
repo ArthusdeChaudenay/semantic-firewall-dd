@@ -11,7 +11,7 @@ from docx import Document as DocxDocument
 from openai import OpenAI
 from dotenv import load_dotenv
 
-from benchmark_base import AUDITWEN_TEMPLATES, CHAMPS_SCHEMA
+from semantic_firewall.validation.finverbench import AUDITWEN_TEMPLATES, CHAMPS_SCHEMA
 
 load_dotenv()
 

@@ -1,7 +1,8 @@
 EQUITY STRUCTURE & CAPITAL ALLOCATION — FY2023 PROXY STATEMENT
 Company     : Amazon.com Inc. (AMZN)
 Date        : March 15, 2023
-Source      : FNSPID dataset — SEC DEF 14A (Proxy Statement), S&P 500 Consumer Discretionary sector
+Source      : DOCUMENT SYNTHÉTIQUE écrit à la main pour les tests unitaires.
+              N'EST PAS extrait du dataset FNSPID (presse + cours, pas de proxy DEF 14A).
 
 ======================================================================
 SHARE STRUCTURE (as of February 28, 2023)

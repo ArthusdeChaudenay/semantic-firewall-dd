@@ -1,7 +1,8 @@
 INCOME STATEMENT — FY2024 H1 (10-Q)
 Company     : Microsoft Corporation (MSFT)
 Period      : January 1 – December 31, 2023 (FY2024 H1)
-Source      : FNSPID dataset — SEC 10-Q filing, S&P 500 Information Technology sector
+Source      : DOCUMENT SYNTHÉTIQUE écrit à la main pour les tests unitaires.
+              N'EST PAS extrait du dataset FNSPID (presse + cours, pas d'état financier 10-Q).
 
 ======================================================================
 REVENUE BY SEGMENT

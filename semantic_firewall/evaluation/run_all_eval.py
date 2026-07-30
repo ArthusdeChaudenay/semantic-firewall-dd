@@ -16,8 +16,8 @@ if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 # ── imports des deux pipelines ─────────────────────────────────────────────
-from evaluate import run_evaluation
-from dd_eval  import run_dd_evaluation
+from semantic_firewall.evaluation.evaluate import run_evaluation
+from semantic_firewall.evaluation.dd_eval import run_dd_evaluation
 
 SEP = "=" * 60
 
@@ -42,11 +42,6 @@ DD_TO_UNIFIED = {
 }
 
 AXES = ["completeness", "arithmetic", "temporal"]
-
-# Mots-clés identifiant une anomalie attendue dans le nom de fichier
-_ANOMALY_KEYWORDS = ("erreur", "incoherent", "marge_incorrecte")
-# Fichiers à exclure du périmètre arithmétique (relèvent du moniteur sémantique)
-_SEMANTIC_EXCLUDE = "derive_semantique"
 
 
 def _agg(results_list: list[dict]) -> dict:
@@ -82,74 +77,10 @@ def _pass_rate(c: dict) -> float:
     return round(c.get("PASS", 0) / total * 100, 1) if total else 0.0
 
 
-# ==========================================
-# MATRICE DE CONFUSION ARITHMÉTIQUE
-# ==========================================
-
-def _confusion_matrix(all_results: list[dict]) -> None:
-    """
-    Calcule TP/FP/FN/TN sur le périmètre des contrôles arithmétiques et de structure.
-
-    Ground Truth  : nom de fichier contient un mot-clé de _ANOMALY_KEYWORDS
-    Exclus        : fichiers contenant _SEMANTIC_EXCLUDE (périmètre moniteur sémantique)
-    Prédiction    : FAIL sur au moins un contrôle arithmétique ou de complétude
-    """
-    tp = fp = fn = tn = skipped = 0
-
-    for r in all_results:
-        if r.get("statut") == "error":
-            skipped += 1
-            continue
-
-        nom = (r.get("document") or r.get("source") or "").lower()
-
-        if _SEMANTIC_EXCLUDE in nom:
-            skipped += 1
-            continue
-
-        gt_positive = any(kw in nom for kw in _ANOMALY_KEYWORDS)
-
-        # Prédiction : FAIL sur au moins un contrôle arithmétique ou de structure
-        pred_positive = False
-        tc = r.get("taxonomy_checks") or r.get("audit_finverbench")
-        if tc:
-            # Invoice docs : axes taxonomy
-            for ax in ("arithmetic", "completeness"):
-                if tc.get(ax, {}).get("statut") == "FAIL":
-                    pred_positive = True
-                    break
-        else:
-            # DD docs : completeness + dd_audit
-            if r.get("completeness", {}).get("statut") == "FAIL":
-                pred_positive = True
-            if not pred_positive:
-                for v in r.get("dd_audit", {}).values():
-                    if v.get("statut") == "FAIL":
-                        pred_positive = True
-                        break
-
-        if     gt_positive and     pred_positive: tp += 1
-        elif not gt_positive and   pred_positive: fp += 1
-        elif   gt_positive and not pred_positive: fn += 1
-        else:                                     tn += 1
-
-    precision = tp / (tp + fp) if (tp + fp) > 0 else 0.0
-    recall    = tp / (tp + fn) if (tp + fn) > 0 else 0.0
-    f1        = 2 * precision * recall / (precision + recall) if (precision + recall) > 0 else 0.0
-    scope     = tp + fp + fn + tn
-
-    print(f"\n  Matrice de confusion — Périmètre arithmétique / structure")
-    print(f"  GT : nom contient {list(_ANOMALY_KEYWORDS)}")
-    print(f"  Exclus : '{_SEMANTIC_EXCLUDE}'  |  Scope : {scope} docs  ({skipped} exclus)")
-    print(f"  {'─' * 52}")
-    print(f"  {'':22s}  {'Prédit ANOMALIE':>15}  {'Prédit OK':>9}")
-    print(f"  {'GT ANOMALIE':22s}  {'TP = '+str(tp):>15}  {'FN = '+str(fn):>9}")
-    print(f"  {'GT OK':22s}  {'FP = '+str(fp):>15}  {'TN = '+str(tn):>9}")
-    print(f"  {'─' * 52}")
-    print(f"  {'Precision':<22} {precision*100:>9.1f}%   TP={tp} / (TP+FP={tp+fp})")
-    print(f"  {'Rappel':<22} {recall*100:>9.1f}%   TP={tp} / (TP+FN={tp+fn})")
-    print(f"  {'F1-Score':<22} {f1*100:>9.1f}%")
-    print(f"  {'─' * 52}")
+# NOTE (D3): a filename-keyword confusion matrix used to live here. It labelled
+# ground truth from the presence of "erreur"/"incoherent" in the filename on a
+# handful of author-written documents - a self-fulfilling test, not an evaluation.
+# Removed. Classification metrics belong in run_experiment.py against XBRL labels.
 
 
 # ==========================================
@@ -205,7 +136,6 @@ def run_all() -> None:
     print(f"  (⚠ = FAIL attendu sur doc de test intentionnel)")
     print(f"{SEP}")
 
-    _confusion_matrix(all_results)
     print()
 
 

@@ -1,7 +1,8 @@
 BILAN SIMPLIFIÉ — EXERCICE 2023
 Société     : LVMH Moët Hennessy Louis Vuitton SE (France)
 Date        : 31/12/2023
-Source      : Inspiration FNSPID S&P 500 — entité biens de luxe Europe
+Source      : DOCUMENT SYNTHÉTIQUE écrit à la main pour les tests unitaires.
+              N'EST PAS extrait du dataset FNSPID (presse + cours, pas de bilan).
 Secteur     : Consommation discrétionnaire — Maroquinerie & Spiritueux
 
 ════════════════════════════════════════════════════════════════

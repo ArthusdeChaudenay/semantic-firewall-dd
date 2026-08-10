@@ -1,0 +1,784 @@
+management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Report of Management. Our responsibility is to express an opinion on the Company's internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+Definition and Limitations of Internal Control Over Financial Reporting
+A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/s/ Ernst & Young LLP
+Dallas, Texas
+February 9, 2026
+41
+AT&T Inc.
+Dollars in millions except per share amounts
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Consolidated Statements of Income
+2025 2024 2023
+Operating Revenues
+Service $ 101,158 $ 100,135 $ 99,649
+Equipment 24,490 22,201 22,779
+Total operating revenues 125,648 122,336 122,428
+Operating Expenses
+Cost of revenues
+Equipment 25,396 22,249 23,136
+Other cost of revenues (exclusive of depreciation
+and amortization shown separately below)
+25,424 26,972 26,987
+Selling, general and administrative 28,942 28,411 28,874
+Asset impairments and abandonments and restructuring 838 5,075 1,193
+Depreciation and amortization 20,886 20,580 18,777
+Total operating expenses 101,486 103,287 98,967
+Operating Income
+24,162 19,049 23,461
+Other Income (Expense)
+Interest expense ( 6,804 ) ( 6,759 ) ( 6,704 )
+Equity in net income of affiliates 1,895 1,989 1,675
+Other income (expense) net 7,754 2,419 1,416
+Total other income (expense) 2,845 ( 2,351 ) ( 3,613 )
+Income Before Income Taxes
+27,007 16,698 19,848
+Income tax expense
+3,621 4,445 4,225
+Net Income
+23,386 12,253 15,623
+Less: Net Income Attributable to Noncontrolling Interest ( 1,433 ) ( 1,305 ) ( 1,223 )
+Net Income Attributable to AT&T
+$ 21,953 $ 10,948 $ 14,400
+Less: Preferred Stock Dividends and Redemption Gain
+( 64 ) ( 202 ) ( 208 )
+Net Income Attributable to Common Stock
+$ 21,889 $ 10,746 $ 14,192
+Basic Earnings Per Share Attributable to Common Stock
+$ 3.04 $ 1.49 $ 1.97
+Diluted Earnings Per Share Attributable to Common Stock
+$ 3.04 $ 1.49 $ 1.97
+The accompanying notes are an integral part of the consolidated financial statements.
+42
+AT&T Inc.
+Dollars in millions except per share amounts
+Consolidated Statements of Comprehensive Income
+2025 2024 2023
+Net income
+$ 23,386 $ 12,253 $ 15,623
+Other comprehensive income (loss), net of tax:
+Foreign Currency:
+Translation adjustment, net of taxes of $ 117 , $( 175 ) and $ 143
+354 ( 545 ) 463
+Reclassification adjustment included in net income, net of taxes of
+$ 0 , $( 14 ) and $ 0
+— 127 —
+Securities:
+Net unrealized gains (losses), net of taxes of $ 5 , $( 5 ) and $ 8
+15 ( 19 ) 22
+Reclassification adjustment included in net income, net of taxes of $ 1 , $ 10
+and $ 4
+3 30 11
+Derivative Instruments:
+Net unrealized gains (losses), net of taxes of $( 216 ), $ 121 and $ 228
+( 650 ) 380 922
+Reclassification adjustment included in net income, net of taxes of $ 14 , $ 14
+and $ 12
+45 45 47
+Defined benefit postretirement plans:
+Net prior service (cost) credit arising during period, net of taxes of $ 0 , $ 0
+and $ 10
+— — 32
+Amortization of net prior service credit included in net income, net of taxes of
+$( 457 ), $( 492 ) and $( 642 )
+( 1,427 ) ( 1,523 ) ( 1,963 )
+Reclassification adjustment realized in net income, net of taxes of $( 4 ), $ 0 and $ 0
+5 — —
+Other comprehensive income (loss) ( 1,655 ) ( 1,505 ) ( 466 )
+Total comprehensive income
+21,731 10,748 15,157
+Less: Total comprehensive income attributable to noncontrolling interest ( 1,433 ) ( 1,305 ) ( 1,223 )
+Total Comprehensive Income Attributable to AT&T
+$ 20,298 $ 9,443 $ 13,934
+The accompanying notes are an integral part of the consolidated financial statements.
+43
+AT&T Inc.
+Dollars in millions except per share amounts
+Consolidated Balance Sheets
+December 31,
+2025 2024
+Assets
+Current Assets
+Cash and cash equivalents $ 18,234 $ 3,298
+Accounts receivable net of related allowance for credit loss of $ 429 and $ 375
+8,843 9,638
+Inventories 2,420 2,270
+Prepaid and other current assets 19,235 15,962
+Total current assets 48,732 31,168
+Property, Plant and Equipment Net 131,559 128,871
+Goodwill Net 63,425 63,432
+Licenses Net 128,148 127,035
+Other Intangible Assets Net 5,254 5,255
+Investments in and Advances to Equity Affiliates 1,106 295
+Operating Lease Right-Of-Use Assets 22,642 20,909
+Other Assets 19,332 17,830
+Total Assets $ 420,198 $ 394,795
+Liabilities and Stockholders' Equity
+Current Liabilities
+Debt maturing within one year $ 9,011 $ 5,089
+Accounts payable and accrued liabilities 38,514 35,657
+Advanced billings and customer deposits 4,266 4,099
+Dividends payable 1,989 2,027
+Total current liabilities 53,780 46,872
+Long-Term Debt 127,089 118,443
+Deferred Credits and Other Noncurrent Liabilities
+Noncurrent deferred tax liabilities 58,312 58,939
+Postemployment benefit obligation 8,478 9,025
+Operating lease liabilities 18,943 17,391
+Other noncurrent liabilities 25,104 23,900
+Total deferred credits and other noncurrent liabilities 110,837 109,255
+Redeemable Noncontrolling Interest 2,001 1,980
+Stockholders' Equity
+Preferred stock ($ 1 par value, 10,000,000 authorized at December 31, 2025
+and December 31, 2024):
+Series A ( 48,000 issued and outstanding at December 31, 2025 and December 31, 2024)
+— —
+Series B ( 20,000 issued and 0 outstanding at December 31, 2025 and
+20,000 issued and outstanding at December 31, 2024)
+— —
+Series C ( 70,000 issued and outstanding at December 31, 2025 and December 31, 2024)
+— —
+Common stock ($ 1 par value, 14,000,000,000 authorized at December 31, 2025 and
+December 31, 2024: issued 7,620,748,598 at December 31, 2025 and December 31, 2024)
+7,621 7,621
+Additional paid-in capital 106,533 109,108
+Retained earnings 15,768 1,871
+Treasury stock ( 583,246,242 at December 31, 2025 and 444,853,148 at December 31, 2024, at cost)
+( 18,529 ) ( 15,023 )
+Accumulated other comprehensive income (loss) ( 860 ) 795
+Noncontrolling interest 15,958 13,873
+Total stockholders' equity 126,491 118,245
+Total Liabilities and Stockholders' Equity $ 420,198 $ 394,795
+The accompanying notes are an integral part of the consolidated financial statements.
+44
+AT&T Inc.
+Dollars in millions except per share amounts
+Consolidated Statements of Cash Flows
+2025 2024 2023
+Operating Activities
+Net Income $ 23,386 $ 12,253 $ 15,623
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization 20,886 20,580 18,777
+Provision for uncollectible accounts 2,271 1,969 1,969
+Asset impairments and abandonments and restructuring 838 5,075 1,193
+Pension and postretirement benefit expense (credit) ( 1,588 ) ( 1,883 ) ( 2,552 )
+Actuarial and settlement (gain) loss on pension and postretirement benefits net
+519 56 1,594
+Net (gain) loss on investments
+( 5,889 ) 80 441
+Changes in operating assets and liabilities:
+Receivables ( 1,526 ) 123 82
+Equipment installment receivables and related sales 324 ( 1,846 ) ( 133 )
+Contract asset and cost deferral
+( 1,208 ) 160 ( 1,006 )
+Inventories, prepaid and other current assets ( 460 ) 70 747
+Accounts payable and other accrued liabilities 884 ( 1,104 ) ( 1,574 )
+Changes in income taxes
+2,226 1,978 2,618
+Postretirement claims and contributions ( 1,436 ) ( 166 ) ( 735 )
+Other net 1,057 1,426 1,270
+Total adjustments 16,898 26,518 22,691
+Net Cash Provided by Operating Activities
+40,284 38,771 38,314
+Investing Activities
+Capital expenditures ( 20,842 ) ( 20,263 ) ( 17,853 )
+Acquisitions, net of cash acquired ( 379 ) ( 380 ) ( 2,942 )
+Dispositions 3,218 75 72
+Distributions from DIRECTV in excess of cumulative equity in earnings — 928 2,049
+(Purchases), sales and settlements of securities net
+181 2,575 ( 902 )
+Other net ( 955 ) ( 425 ) ( 84 )
+Net Cash Used in Investing Activities
+( 18,777 ) ( 17,490 ) ( 19,660 )
+Financing Activities
+Net change in short-term borrowings with original maturities of three months or less — — ( 914 )
+Issuance of other short-term borrowings — 491 5,406
+Repayment of other short-term borrowings — ( 2,487 ) ( 3,415 )
+Issuance of long-term debt 14,027 19 10,004
+Repayment of long-term debt ( 5,528 ) ( 10,297 ) ( 12,044 )
+Note payable to DIRECTV, net of payments
+— — ( 130 )
+Payment of vendor financing ( 1,181 ) ( 1,792 ) ( 5,742 )
+Redemption of preferred stock ( 2,075 ) — —
+Purchase of treasury stock ( 4,500 ) ( 215 ) ( 194 )
+Issuance of treasury stock 21 15 3
+Issuance of preferred interests in subsidiary
+2,221 — 7,151
+Redemption of preferred interests in subsidiary
+( 65 ) — ( 5,333 )
+Dividends paid ( 8,180 ) ( 8,208 ) ( 8,136 )
+Other net ( 1,126 ) ( 2,234 ) ( 2,270 )
+Net Cash Used in Financing Activities
+( 6,386 ) ( 24,708 ) ( 15,614 )
+Net increase (decrease) in cash and cash equivalents and restricted cash
+15,121 ( 3,427 ) 3,040
+Cash and cash equivalents and restricted cash beginning of year 3,406 6,833 3,793
+Cash and Cash Equivalents and Restricted Cash End of Year $ 18,527 $ 3,406 $ 6,833
+The accompanying notes are an integral part of the consolidated financial statements.
+45
+AT&T Inc.
+Dollars and shares in millions except per share amounts
+Consolidated Statements of Changes in Stockholders' Equity
+2025 2024 2023
+Shares Amount Shares Amount Shares Amount
+Preferred Stock Series A
+Balance at beginning of year — $ — — $ — — $ —
+Balance at end of year — $ — — $ — — $ —
+Preferred Stock Series B
+Balance at beginning of year — $ — — $ — — $ —
+Balance at end of year — $ — — $ — — $ —
+Preferred Stock Series C
+Balance at beginning of year — $ — — $ — — $ —
+Balance at end of year — $ — — $ — — $ —
+Common Stock
+Balance at beginning of year 7,621 $ 7,621 7,621 $ 7,621 7,621 $ 7,621
+Balance at end of year 7,621 $ 7,621 7,621 $ 7,621 7,621 $ 7,621
+Additional Paid-In Capital
+Balance at beginning of year $ 109,108 $ 114,519 $ 123,610
+Redemption of preferred stock
+( 2,165 ) — —
+Preferred stock dividends
+— ( 134 ) ( 205 )
+Common stock dividends ($ 1.11 , $ 1.11
+and $ 1.11 per share in 2025, 2024 and 2023)
+— ( 4,020 ) ( 7,991 )
+Issuance of treasury stock ( 469 ) ( 516 ) ( 379 )
+Share-based compensation
+59 ( 184 ) ( 109 )
+Redemption or reclassification of
+interests held by noncontrolling owners
+— ( 557 ) ( 407 )
+Balance at end of year $ 106,533 $ 109,108 $ 114,519
+Retained Earnings (Deficit)
+Balance at beginning of year $ 1,871 $ ( 5,015 ) $ ( 19,415 )
+Net income attributable to AT&T
+21,953 10,948 14,400
+Preferred stock redemption gain
+90 — —
+Preferred stock dividends ( 194 ) ( 71 ) —
+Common stock dividends ($ 1.11 , $ 1.11
+and $ 1.11 per share in 2025, 2024 and 2023)
+( 7,952 ) ( 3,991 ) —
+Balance at end of year $ 15,768 $ 1,871 $ ( 5,015 )
+The accompanying notes are an integral part of the consolidated financial statements.
+46
+AT&T Inc.
+Dollars and shares in millions except per share amounts
+Consolidated Statements of Changes in Stockholders' Equity continued
+2025 2024 2023
+Shares Amount
+Shares Amount
+Shares Amount
+Treasury Stock
+Balance at beginning of year ( 445 ) $ ( 15,023 ) ( 471 ) $ ( 16,128 ) ( 493 ) $ ( 17,082 )
+Repurchase and acquisition of
+common stock
+( 168 ) ( 4,539 ) ( 12 ) ( 215 ) ( 10 ) ( 194 )
+Reissuance of treasury stock
+30 1,033 38 1,320 32 1,148
+Balance at end of year ( 583 ) $ ( 18,529 ) ( 445 ) $ ( 15,023 ) ( 471 ) $ ( 16,128 )
+Accumulated Other Comprehensive Income (Loss)
+Attributable to AT&T, net of tax
+Balance at beginning of year $ 795 $ 2,300 $ 2,766
+Other comprehensive income (loss)
+attributable to AT&T
+( 1,655 ) ( 1,505 ) ( 466 )
+Balance at end of year $ ( 860 ) $ 795 $ 2,300
+Noncontrolling Interest 1
+Balance at beginning of year $ 13,873 $ 14,145 $ 8,957
+Net income attributable to
+noncontrolling interest
+1,276 1,163 1,146
+Issuance and acquisition (disposition) of
+noncontrolling owners
+2,221 ( 29 ) 5,180
+Redemption of noncontrolling interest ( 144 ) ( 76 ) ( 53 )
+Distributions ( 1,268 ) ( 1,330 ) ( 1,085 )
+Balance at end of year $ 15,958 $ 13,873 $ 14,145
+Total Stockholders' Equity at
+beginning of year
+$ 118,245 $ 117,442 $ 106,457
+Total Stockholders' Equity at
+end of year
+$ 126,491 $ 118,245 $ 117,442
+1 Excludes redeemable noncontrolling interest.
+The accompanying notes are an integral part of the consolidated financial statements.
+47
+AT&T Inc.
+Dollars in millions except per share amounts
+Notes to Consolidated Financial Statements
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation Throughout this document, AT&T Inc. is referred to as "AT&T," "we" or the "Company." The consolidated financial statements include the accounts of the Company and subsidiaries and affiliates which we control. AT&T is a holding company whose subsidiaries and affiliates operate worldwide in the telecommunications and technology industries.
+The consolidated financial statements include our controlled subsidiaries, as well as variable interest entities (VIE) where we are deemed to be the primary beneficiary. All significant intercompany transactions are eliminated in consolidation. Investments in entities that we do not control but have significant influence are accounted for under the equity method. We also record our proportionate share of our equity method investees' other comprehensive income (OCI) items, including translation adjustments. We treat distributions received from equity method investees as returns on investment and classify them as cash flows from operating activities until those distributions exceed our cumulative equity in the earnings of that investment. We treat the excess amount as a return of investment and classify it as cash flows from investing activities. In the event we receive dividends in excess of the carrying amount of the investment, and we have no obligation to provide financial support to the equity method investee, we treat those dividends as returns on investment and classify them as cash flows from operating activities.
+The preparation of financial statements in conformity with U.S. generally accepted accounting principles (GAAP) requires management to make estimates and assumptions, including other estimates of fair value, probable losses and expenses, that affect the amounts reported in the financial statements and accompanying notes. Actual results could differ from those estimates. Moreover, unfavorable changes in market conditions, including interest rates, could adversely impact those estimates and result in asset impairments. Certain prior-period amounts have been conformed to the current period's presentation, providing further disaggregation of activities within Cash from Operations in our consolidated statements of cash flows and additional revenue categories for our Business Wireline and Consumer Wireline business units.
+Adopted and New Accounting Standards
+Income Taxes In December 2023, the Financial Accounting Standards Board (FASB) issued ASU No. 2023-09, "Income Taxes (Topic 740): Improvements to Income Tax Disclosures" (ASU 2023-09). Beginning with our 2025 annual reporting, we adopted, through retrospective application, ASU 2023-09, which requires that a public entity disclose specific categories in its annual income tax rate reconciliation table and provide additional qualitative information for reconciling items representing at least 5% of pre-tax income or loss from continuing operations, using the federal statutory tax rate. The standard also requires an annual breakdown of income taxes paid by jurisdiction (i.e., federal, state and foreign), with further disaggregation by jurisdictions representing at least 5% of total income taxes paid.
+Segment Reporting In November 2023, the FASB issued ASU No. 2023-07, "Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures" (ASU 2023-07). Beginning with our 2024 annual reporting, we adopted, through retrospective application, ASU 2023-07 , which requires that a public entity disclose, on an interim and annual basis, significant segment expense categories and amounts that are regularly provided to its chief operating decision maker (CODM) and included in each reported measure of segment profit or loss. An entity must also disclose, by reportable segment, the amount and composition of other expenses. The standard requires an entity disclose the title and position of its CODM and explain how the CODM uses these reported measures in assessing segment performance and determining how to allocate resources.
+Convertible Instruments Beginning with 2022 interim reporting, we adopted, through retrospective application, ASU No. 2020-06, "Debt - Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging - Contracts in Entity's Own Equity (Subtopic 815-40): Accounting for Convertible Instruments and Contracts in an Entity's Own Equity" (ASU 2020-06) . ASU 2020-06 requires that instruments which may be settled in cash or stock are presumed settled in stock in calculating diluted earnings per share. Prior to the April 2023 repurchase, settlement of our Series A Cumulative Perpetual Membership Interests in AT&T Mobility II LLC (Mobility preferred interests) could have resulted in additional dilutive impact, the magnitude of which was influenced by the fair value of the Mobility preferred interests and the average AT&T common stock price during the reporting period, which varied from period-to-period (see Note 16).
+Disaggregation of Income Statement Expenses In November 2024, the FASB issued ASU No. 2024-03, "Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses" (ASU 2024-03), which requires that a public entity disclose the amounts of (a) purchases of inventory, (b) employee compensation, (c) depreciation and (d) intangible asset amortization included in each relevant expense caption presented on the face of the income statement. The standard also requires an entity to disclose a qualitative description of the amounts remaining in relevant expense captions that are not separately disaggregated quantitatively as well as disclose the total
+48
+AT&T Inc.
+Dollars in millions except per share amounts
+amount of selling expenses and, annually, the entity's definition of selling expenses. ASU 2024-03 will be effective for annual periods beginning after December 15, 2026, with either retrospective or prospective application. The standard allows for early adoption of these requirements; we are currently evaluating the disclosure impacts of our adoption.
+Internal-Use Software In September 2025, the FASB issued ASU No. 2025-06, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software (ASU 2025-06). ASU 2025-06 removes references to prescriptive and sequential software development stages and requires software cost capitalization when management has authorized and committed to funding, and it is probable that the project will be completed, and the software used for its intended function. ASU 2025-06 will be effective for annual reporting periods beginning after December 15, 2027. We are evaluating the impacts of our adoption of ASU 2025-06 and currently do not expect that it will have a material impact on our financial statements.
+Accounting Policies
+Income Taxes We record deferred income taxes for temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the computed tax basis of those assets and liabilities. We record valuation allowances against the deferred tax assets (included, together with our deferred income tax assets, as part of our reportable net deferred income tax liabilities on our consolidated balance sheets), for which the realization is uncertain. We review these items regularly in light of changes in federal, state and foreign tax laws and changes in our business.
+On July 4, 2025, the One Big Beautiful Bill Act was enacted, which restores or makes permanent certain expiring business tax provisions from the Tax Cuts and Jobs Act of 2017. As a result of the legislation, we reduced our taxable income position in 2025. The legislation did not materially impact our income tax expense, but we expect it will result in a material decrease to cash taxes paid relative to our expectations. (See Note 13)
+Cash and Cash Equivalents Cash and cash equivalents include all highly liquid investments with original maturities of three months or less. The carrying amounts approximate fair value. At December 31, 2025, we held $ 3,521 in cash and $ 14,713 in money market funds and other cash equivalents. Of our total cash and cash equivalents, $ 1,330 resided in foreign jurisdictions, some of which is subject to restrictions on repatriation.
+Allowance for Credit Losses We record expense to maintain an allowance for credit losses for estimated losses that result from the failure or inability of our customers to make required payments deemed collectible from the customer when the service was provided or product was delivered. When determining the allowances for trade receivables and loans, we consider the probability of recoverability of accounts receivable based on past experience, taking into account current collection trends and general economic factors, including bankruptcy rates. We also consider future economic trends to estimate expected credit losses over the lifetime of the asset. Credit risks are assessed based on historical write-offs, net of recoveries, as well as an analysis of the aged accounts receivable balances with allowances generally increasing as the receivable ages. Accounts receivable may be fully reserved for when specific collection issues are known to exist, such as catastrophes or pending bankruptcies.
+Inventories Inventories primarily consist of wireless devices and accessories and are valued at the lower of cost or net realizable value .
+Property, Plant and Equipment Property, plant and equipment is stated at cost, except for assets acquired through business combinations, which are initially recorded at fair value. The cost of additions and substantial improvements to property, plant and equipment is capitalized, and includes internal compensation costs for these projects. The cost of maintenance and repairs of property, plant and equipment is charged to operating expenses. Property, plant and equipment costs are depreciated using straight-line methods over their estimated economic lives. Certain subsidiaries follow composite group depreciation methodology. Accordingly, when a portion of their depreciable property, plant and equipment is retired in the ordinary course of business, the gross book value is reclassified to accumulated depreciation, and no gain or loss is recognized on the disposition of these assets.
+Property, plant and equipment is reviewed for recoverability whenever events or changes in circumstances indicate that the carrying amount of an asset group may not be recoverable. We recognize an impairment loss when the carrying amount of a long-lived asset is not recoverable. The carrying amount of a long-lived asset is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual disposition of the asset. (See Note 7)
+The liability for the fair value of an asset retirement obligation is recorded in the period in which it is incurred if a reasonable estimate of fair value can be made. In periods subsequent to initial measurement, we recognize period-to-period changes in the
+49
+AT&T Inc.
+Dollars in millions except per share amounts
+liability resulting from the passage of time and revisions to either the timing or the amount of the original estimate. The increase in the carrying value of the associated long-lived asset is depreciated over the corresponding estimated economic life.
+Software Costs We capitalize certain costs incurred in connection with developing or obtaining internal-use software. Capitalized software costs are included in "Property, Plant and Equipment Net" on our consolidated balance sheets.
+We amortize our capitalized software costs over a three -year to seven -year period, reflecting the estimated period during which these assets will remain in service.
+Goodwill and Other Intangible Assets We have the following major classes of intangible assets: goodwill; licenses, which include Federal Communications Commission (FCC) and other wireless licenses; customer lists and relationships; and trademarks, trade names and various other finite-lived intangible assets (see Note 9).
+Goodwill represents the excess of consideration paid over the fair value of identifiable net assets acquired in business combinations.
+Wireless licenses provide us with the exclusive right to utilize certain radio frequency spectrum to provide wireless communications services. While wireless licenses are issued for a fixed period of time (generally 10 years), renewals of domestic wireless licenses have occurred routinely and at nominal cost. We have determined that there are currently no legal, regulatory, contractual, competitive, economic or other factors that limit the useful lives of our FCC wireless licenses. Cash paid, including spectrum deposits (net of refunds), capitalized interest, and any payments for incentive and relocation costs are included in "Acquisitions, net of cash acquired" in our consolidated statements of cash flows. Interest is capitalized until the spectrum is ready for its intended use.
+We amortize our wireless licenses in Mexico over their average remaining economic life of 25 years.
+We acquired the rights to the AT&T and other trade names in previous acquisitions, classifying certain of those trade names as indefinite-lived. We have the effective ability to retain these exclusive rights permanently at a nominal cost.
+Goodwill, FCC wireless licenses and other indefinite-lived intangible assets are not amortized but are tested at least annually for impairment (see Note 9). The testing for Goodwill and other indefinite-lived intangible assets is performed on the value as of October 1 each year and compares the book values of the assets to their fair values. Goodwill is tested by comparing the carrying amount of each reporting unit, deemed to be our principal operating segments or one level below them, to the fair value using both discounted cash flow as well as market multiple approaches. Trade names are tested by comparing their book values to their fair values calculated using a discounted cash flow approach on a presumed royalty rate derived from the revenues related to each brand name.
+For FCC wireless licenses, we have the option to first perform a qualitative assessment to determine whether it is more likely than not that the book value exceeds their fair value. We consider several factors under the qualitative assessment, including macroeconomic conditions, industry and regulatory considerations, recent and projected performance of the business and the prior quantitative impairment testing results. On a periodic basis, or if the qualitative assessment indicates potential impairment, we perform a quantitative impairment test on the value as of October 1. FCC wireless licenses are tested on an aggregate basis, consistent with our use of the licenses on a national scope, using a discounted cash flow approach. We last performed a quantitative test in 2024.
+Intangible assets that have finite useful lives are amortized over their estimated economic lives (see Note 9). Customer lists and relationships are amortized using primarily the sum-of-the-months-digits method of amortization over the period in which those relationships are expected to contribute to our future cash flows. Finite-lived trademarks and trade names are amortized using the straight-line method over the estimated useful life of the assets. The remaining finite-lived intangible assets are generally amortized using the straight-line method. These assets, along with other long-lived assets, are reviewed for recoverability whenever events or changes in circumstances indicate that the carrying amount of an asset group may not be recoverable.
+Advertising Costs We expense advertising costs for products and services or for promoting our corporate image as incurred (see Note 23).
+Foreign Currency Translation Our foreign subsidiaries and foreign investments generally report their earnings in their local currencies. We translate their foreign assets and liabilities at exchange rates in effect at the balance sheet dates. We translate their revenues and expenses using average rates during the year. The resulting foreign currency translation adjustments are recorded as a separate component of accumulated OCI on our consolidated balance sheets (see Note 3).
+50
+AT&T Inc.
+Dollars in millions except per share amounts
+Pension and Other Postretirement Benefits See Note 14 for a comprehensive discussion of our pension and postretirement benefits, including a discussion of the actuarial assumptions, our policy for recognizing the associated gains and losses and our method used to estimate service and interest cost components.
+NOTE 2. EARNINGS PER SHARE
+A reconciliation of the numerators and denominators of basic and diluted earnings per share is shown in the table below:
+Year Ended December 31, 2025 2024 2023
+Numerators
+Numerator for basic earnings per share:
+Net Income Attributable to Common Stock
+$ 21,889 $ 10,746 $ 14,192
+Dilutive potential common shares:
+Mobility preferred interests
+— — 72
+Share-based compensation
+12 — 13
+Numerator for diluted earnings per share $ 21,901 $ 10,746 $ 14,277
+Denominators (000,000)
+Denominator for basic earnings per share:
+Weighted average number of common shares outstanding 7,169 7,199 7,181
+Dilutive potential common shares:
+Mobility preferred interests (in shares) — — 71
+Share-based compensation (in shares)
+10 5 6
+Denominator for diluted earnings per share
+7,179 7,204 7,258
+On April 5, 2023, we repurchased all of our Mobility preferred interests (see Note 16). For periods prior to repurchase, under ASU 2020-06, the ability to settle the Mobility preferred interests in stock was reflected in our diluted earnings per share calculation (see Note 1).
+51
+AT&T Inc.
+Dollars in millions except per share amounts
+NOTE 3. OTHER COMPREHENSIVE INCOME
+Changes in the balances of each component included in accumulated OCI are presented below. All amounts are net of tax and exclude noncontrolling interest.
+Foreign
+Currency
+Translation
+Adjustment Net Unrealized
+Gains (Losses) on Securities
+Net Unrealized
+Gains (Losses) on Derivative Instruments
+Defined Benefit
+Postretirement
+Plans Accumulated Other
+Comprehensive
+Income
+Balance as of December 31, 2022 $ ( 1,800 ) $ ( 90 ) $ ( 1,998 ) $ 6,654 $ 2,766
+Other comprehensive income
+(loss) before reclassifications
+463 22 922 32 1,439
+Amounts reclassified from
+accumulated OCI
+— 1 11 1 47 2 ( 1,963 ) 3 ( 1,905 )
+Net other comprehensive
+income (loss)
+463 33 969 ( 1,931 ) ( 466 )
+Balance as of December 31, 2023 ( 1,337 ) ( 57 ) ( 1,029 ) 4,723 2,300
+Other comprehensive income
+(loss) before reclassifications
+( 545 ) ( 19 ) 380 — ( 184 )
+Amounts reclassified from
+accumulated OCI
+127 1 30 1 45 2 ( 1,523 ) 3 ( 1,321 )
+Net other comprehensive
+income (loss)
+( 418 ) 11 425 ( 1,523 ) ( 1,505 )
+Balance as of December 31, 2024 ( 1,755 ) ( 46 ) ( 604 ) 3,200 795
+Other comprehensive income
+(loss) before reclassifications
+354 15 ( 650 ) — ( 281 )
+Amounts reclassified from
+accumulated OCI
+— 1 3 1 45 2 ( 1,422 ) 3 ( 1,374 )
+Net other comprehensive
+income (loss)
+354 18 ( 605 ) ( 1,422 ) ( 1,655 )
+Balance as of December 31, 2025 $ ( 1,401 ) $ ( 28 ) $ ( 1,209 ) $ 1,778 $ ( 860 )
+1 (Gains) losses are included in "Other income (expense) net" in the consolidated statements of income.
+2 (Gains) losses are primarily included in "Interest expense" in the consolidated statements of income (see Note 12).
+3 The amortization of prior service credits associated with postretirement benefits is included in "Other income (expense) net" in the consolidated statements of income (see Note 14).
+NOTE 4. SEGMENT INFORMATION
+Our segments are comprised of strategic business units or other operations that offer products and services to different customer segments over various technology platforms and/or in different geographies that are managed accordingly. We have two reportable segments: Communications and Latin America.
+Our chief operating decision maker (CODM) is our Chief Executive Officer and President. Our CODM uses operating income to evaluate performance and allocate resources, including capital allocations, when managing the business. Our CODM manages operations through the review of actual and forecasted "Operations and Support Expenses" information at a segment and business unit level, with Communications and Latin America segments primarily evaluated on a direct cost basis and comprised of equipment, compensation, network and technology, sales, advertising and other costs.
+Additionally, business unit expenses within the Communications segment include direct and shared costs. Direct costs are incurred in support of products and services offered by the business units, such as equipment costs (predominantly wireless devices), network access, rents, leases, sales support, customer provisioning and commission expenses. Shared costs amongst the business units generally include information technology, network engineering and construction costs, advertising and other general and administrative expense.
+52
+AT&T Inc.
+Dollars in millions except per share amounts
+The Communications segment provides wireless and wireline telecom and broadband services to consumers located in the United States and businesses globally. Our business strategies reflect integrated product offerings that cut across product lines and utilize shared assets. This segment contains the following business units:
+Mobility provides nationwide wireless service and equipment.
+Business Wireline provides advanced ethernet-based fiber services, fixed wireless services, IP Voice and managed professional services, as well as legacy voice and data services and related equipment, to business customers.
+Consumer Wireline provides broadband services, including fiber connections that provide multi-gig services, and our fixed wireless access product (AT&T Internet Air or "AIA") that provides internet services delivered over our 5G wireless network, to residential customers in select locations. Consumer Wireline also provides legacy telephony voice communication services.
+The Latin America segment provides wireless service and equipment in Mexico.
+Corporate and Other reconciles our segment results to consolidated operating income and income before income taxes.
+Corporate includes :
+DTV-related retained costs , which are costs previously allocated to the Video business that were retained after the transaction, net of reimbursements from DIRECTV Entertainment Holdings, LLC (DIRECTV) under transition service agreements. With the sale of our remaining interest in DIRECTV, we will no longer report these costs in 2026 (see Note 10).
+Parent administration support , which includes costs borne by AT&T where the business units do not influence decision making.
+Securitization fees associated with our sales of receivables (see Note 17).
+Value portfolio , which are businesses no longer integral to our operations or which we no longer actively market.
+Other items consist of :
+Certain significant items , which includes items associated with the merger and integration of acquired or divested businesses, including amortization of intangible assets, employee separation charges associated with voluntary and/or strategic offers, asset impairments and abandonments and restructuring, and other items for which the segments are not being evaluated.
+"Interest expense" and "Other income (expense) net" are managed only on a total company basis and are, accordingly, reflected only in consolidated results.
+For the year ended December 31, 2025
+Revenues Operations
+and Support
+Expenses Depreciation
+and
+Amortization
+Operating
+Income
+(Loss)
+Communications
+Mobility $ 89,482 $ 51,864 $ 10,422 $ 27,196
+Business Wireline 17,231 12,213 5,834 ( 816 )
+Consumer Wireline 14,183 8,933 3,703 1,547
+Total Communications 120,896 73,010 19,959 27,927
+Latin America
+4,379 3,563 671 145
+Segment Total 125,275 76,573 20,630 28,072
+Corporate and Other
+Corporate:
+DTV-related retained costs — 225 200 ( 425 )
+Parent administration support ( 1 ) 1,737 18 ( 1,756 )
+Securitization fees 115 702 — ( 587 )
+Value portfolio 259 50 — 209
+Total Corporate 373 2,714 218 ( 2,559 )
+Certain significant items — 1,313 38 ( 1,351 )
+Total Corporate and Other 373 4,027 256 ( 3,910 )
+AT&T Inc. $ 125,648 $ 80,600 $ 20,886 $ 24,162
+53
+AT&T Inc.
+Dollars in millions except per share amounts
+For the year ended December 31, 2024
+Revenues Operations
+and Support
+Expenses Depreciation
+and
+Amortization Operating
+Income
+(Loss)
+Communications
+Mobility $ 85,255 $ 48,724 $ 10,217 $ 26,314
+Business Wireline 18,819 13,352 5,555 ( 88 )
+Consumer Wireline 13,578 9,048 3,661 869
+Total Communications 117,652 71,124 19,433 27,095
+Latin America
+4,232 3,535 657 40
+Segment Total 121,884 74,659 20,090 27,135
+Corporate and Other
+Corporate:
+DTV-related retained costs — 465 414 ( 879 )
+Parent administration support ( 2 ) 1,722 6 ( 1,730 )
+Securitization fees 116 628 — ( 512 )
+Value portfolio 338 102 17 219
+Total Corporate 452 2,917 437 ( 2,902 )
+Certain significant items — 5,131 53 ( 5,184 )
+Total Corporate and Other 452 8,048 490 ( 8,086 )
+AT&T Inc. $ 122,336 $ 82,707 $ 20,580 $ 19,049
+For the year ended December 31, 2023
+Revenues Operations
+and Support
+Expenses Depreciation
+and
+Amortization Operating
+Income
+(Loss)
+Communications
+Mobility $ 83,982 $ 49,604 $ 8,517 $ 25,861
+Business Wireline 20,883 14,217 5,377 1,289
+Consumer Wireline 13,173 9,053 3,469 651
+Total Communications 118,038 72,874 17,363 27,801
+Latin America
+3,932 3,349 724 ( 141 )
+Segment Total 121,970 76,223 18,087 27,660
+Corporate and Other
+Corporate:
+DTV-related retained costs — 686 586 ( 1,272 )
+Parent administration support ( 7 ) 1,416 6 ( 1,429 )
+Securitization fees 85 604 — ( 519 )
+Value portfolio 380 99 22 259
+Total Corporate 458 2,805 614 ( 2,961 )
+Certain significant items — 1,162 76 ( 1,238 )
+Total Corporate and Other 458 3,967 690 ( 4,199 )
+AT&T Inc. $ 122,428 $ 80,190 $ 18,777 $ 23,461
+54
+AT&T Inc.
+Dollars in millions except per share amounts
+The following table is a reconciliation of Segment Operating Income to "Income Before Income Taxes" reported in our consolidated statements of income:
+For the years ended December 31,
+2025 2024 2023
+Communications $ 27,927 $ 27,095 $ 27,801
+Latin America 145 40 ( 141 )
+Segment Operating Income 28,072 27,135 27,660
+Reconciling Items:
+Corporate ( 2,559 ) ( 2,902 ) ( 2,961 )
+Transaction, legal and other costs
+( 627 ) ( 123 ) ( 98 )
+Amortization of intangibles acquired ( 38 ) ( 53 ) ( 76 )
+Asset impairments and abandonments and restructuring ( 838 ) ( 5,075 ) ( 1,193 )
+Benefit-related gains (losses) 152 67 129
+AT&T Operating Income
+24,162 19,049 23,461
+Interest expense
+6,804 6,759 6,704
+Equity in net income of affiliates 1,895 1,989 1,675
+Other income (expense) net 7,754 2,419 1,416
+Income Before Income Taxes
+$ 27,007 $ 16,698 $ 19,848
+The following table sets forth revenues earned from customers, and property, plant and equipment located in different geographic areas:
+At or for the years ended December 31,
+2025 2024 2023
+Revenues Net Property,
+Plant &
+Equipment
+Revenues
+Net Property,
+Plant &
+Equipment
+Revenues
+Net Property,
+Plant &
+Equipment
+United States $ 120,219 $ 128,181 $ 116,882 $ 125,573 $ 117,097 $ 124,387
+Mexico 4,428 3,097 4,286 2,981 3,993 3,750
+Asia/Pacific Rim 395 68 462 82 521 99
+Europe 382 126 441 139 504 166
+Latin America 110 54 149 60 194 67
+Other 114 33 116 36 119 20
+Total $ 125,648 $ 131,559 $ 122,336 $ 128,871 $ 122,428 $ 128,489
+The following table presents assets, investments in equity affiliates and capital expenditures by segment:
+At or for the years ended December 31, 2025 2024
+Assets Investments in
+Equity Method
+Investees Capital
+Expenditures Assets Investments in
+Equity Method
+Investees Capital
+Expenditures
+Communications $ 500,244 $ — $ 19,588 $ 481,757 $ — $ 19,335
+Latin America 9,460 — 276 7,808 — 269
+Corporate and eliminations
+( 89,506 ) 1,106 978 ( 94,770 ) 295 659
+Total $ 420,198 $ 1,106 $ 20,842 $ 394,795 $ 295 $ 20,263
+55
+AT&T Inc.
+Dollars in millions except per share amounts
+NOTE 5. REVENUE RECOGNITION
+We report our revenues net of sales taxes and record certain regulatory fees, primarily Universal Service Fund (USF) fees, on a net basis. No customer accounted for more than 10% of consolidated revenues in 2025, 2024 or 2023.
+We offer service-only contracts and contracts that bundle equipment used to access the services and/or with other service offerings. Some contracts have fixed terms and others are cancelable on a short-term basis (i.e., month-to-month arrangements).
+Examples of service revenues include wireless, fiber and other advanced connectivity, transitional and legacy voice and data. These services represent a series of distinct services that is considered a separate performance obligation. Service revenue is recognized when services are provided, based upon either period of time (e.g., monthly service fees) or usage (e.g., bytes of data processed).
+Some of our services require customer premises equipment that, when combined and integrated with AT&T's specific network infrastructure, facilitates the delivery of service to the customer. In evaluating whether the equipment is a separate performance obligation, we consider the customer's ability to benefit from the equipment on its own or together with other readily available resources and if so, whether the service and equipment are separately identifiable (i.e., is the service highly dependent on, or highly interrelated with the equipment). When equipment is a separate performance obligation, we record the sale of equipment when title has passed and the products are accepted by the customer. For devices sold through indirect channels (e.g., national retailers), revenue is recognized when the retailer accepts the device, not upon activation.
+Our equipment and service revenues are predominantly recognized on a gross basis, as most of our services do not involve a third party and we typically control the equipment that is sold to our customers.
+Revenue recognized from fixed-term contracts that bundle services and/or equipment is allocated based on the standalone selling price of all required performance obligations of the contract (i.e., each item included in the bundle). Promotional discounts are attributed to each required component of the arrangement, resulting in recognition over the contract term. Standalone selling prices are determined by assessing prices paid for service-only contracts (e.g., arrangements where customers bring their own devices) and standalone device pricing.
+We offer the majority of our customers the option to purchase certain wireless devices in installments over a specified period of time, and, in many cases, they may be eligible to trade in the original equipment for a new device and have the remaining unpaid balance paid or settled. For customers that elect these equipment installment payment programs, at the point of sale, we recognize revenue for the entire amount of revenue allocated to the customer receivable net of fair value of the trade-in right guarantee, when applicable. The difference between the revenue recognized and the consideration received is recorded as a note receivable when the devices are not discounted and our right to consideration is unconditional. When installment sales include promotional discounts that are earned by customers over the contract term (e.g., "buy one get one free" or equipment discounts with trade-in of a device), notes receivable are recognized net of discounts and the difference between revenue recognized and consideration received is recorded as a contract asset to be amortized over the contract term.
+Less commonly, we offer certain customers highly discounted devices when they enter into a minimum service agreement term. For these contracts, we recognize equipment revenue at the point of sale based on a standalone selling price allocation. The difference between the revenue recognized and the cash received is recorded as a contract asset that will amortize over the contract term.
+Our contracts allow for customers to frequently modify their arrangement, without incurring penalties in many cases. When a contract is modified, we evaluate the change in scope or price of the contract to determine if the modification should be treated as a new contract or if it should be considered a change of the existing contract. We generally do not have significant impacts from contract modifications.
+Revenues from transactions between us and our customers are recorded net of revenue-based regulatory fees and taxes. Cash incentives given to customers are recorded as a reduction of revenue. Nonrefundable, upfront service activation and setup fees associated with service arrangements are deferred and recognized over the associated service contract period or customer relationship life.
+56
+AT&T Inc.
+Dollars in millions except per share amounts
+Revenue Categories
+The following tables set forth reported revenue by category and by business unit:
+For the year ended December 31, 2025
+Communications
+Mobility Business Wireline Consumer Wireline Latin America Corporate & Other Total
+Wireless service $ 67,384 $ — $ — $ 2,715 $ — $ 70,099
+Fiber and advanced connectivity 1
+— 7,333 8,645 — — 15,978
+Non-fiber consumer broadband
+— — 3,542 — — 3,542
+Legacy and other transitional
+— 9,170 1,013 — 179 10,362
+Other — — 983 — 194 1,177
+Total Service 67,384 16,503 14,183 2,715 373 101,158
+Equipment 22,098 728 — 1,664 — 24,490
+Total $ 89,482 $ 17,231 $ 14,183 $ 4,379 $ 373 $ 125,648
+1 Advanced connectivity services reported in Business Wireline.
+For the year ended December 31, 2024
+Communications
+Mobility Business Wireline Consumer Wireline Latin America Corporate & Other Total
+Wireless service $ 65,373 $ — $ — $ 2,668 $ — $ 68,041
+Fiber and advanced connectivity 1
+— 6,969 7,391 — — 14,360
+Non-fiber consumer broadband
+— — 3,821 — — 3,821
+Legacy and other transitional
+— 11,095 1,265 — 253 12,613
+Other — — 1,101 — 199 1,300
+Total Service 65,373 18,064 13,578 2,668 452 100,135
+Equipment 19,882 755 — 1,564 — 22,201
+Total $ 85,255 $ 18,819 $ 13,578 $ 4,232 $ 452 $ 122,336
+1 Advanced connectivity services reported in Business Wireline.
+For the year ended December 31, 2023
+Communications
+Mobility Business Wireline Consumer Wireline Latin America Corporate & Other Total
+Wireless service $ 63,175 $ — $ — $ 2,569 $ — $ 65,744
+Fiber and advanced connectivity 1
+— 6,594 6,267 — — 12,861
+Non-fiber consumer broadband
+— — 4,188 — — 4,188
+Legacy and other transitional
+— 13,680 1,508 — 294 15,482
+Other — — 1,210 — 164 1,374
+Total Service 63,175 20,274 13,173 2,569 458 99,649
+Equipment 20,807 609 — 1,363 — 22,779
+Total $ 83,982 $ 20,883 $ 13,173 $ 3,932 $ 458 $ 122,428
+1 Advanced connectivity services reported in Business Wireline.
+Deferred Customer Contract Acquisition and Fulfillment Costs
+Costs to acquire and fulfill customer contracts, including commissions on service activations, for our Mobility, Business Wireline and Consumer Wireline services, are deferred and amortized over the contract period or expected customer relationship life, which typically ranges from three years to five years .
+57
+AT&T Inc.
+Dollars in millions except per share amounts
+The following table presents the deferred customer contract acquisition and fulfillment costs included on our consolidated balance sheets at December 31:
+Consolidated Balance Sheets 2025 2024
+Deferred Acquisition Costs
+Prepaid and other current assets $ 3,550 $ 3,239
+Other Assets 4,778 4,177
+Total deferred customer contract acquisition costs $ 8,328 $ 7,416
+Deferred Fulfillment Costs
+Prepaid and other current assets $ 1,862 $ 2,101
+Other Assets 2,864 3,289
+Total deferred customer contract fulfillment costs $ 4,726 $ 5,390
+The following table presents deferred customer contract acquisition and fulfillment cost amortization, which are primarily included in "Selling, general and administrative" and "Other cost of revenues," respectively, for the years ended December 31:
+Consolidated Statements of Income 2025 2024
+Deferred acquisition cost amortization $ 3,837 $ 3,667
+Deferred fulfillment cost amortization 2,279 2,525
+Contract Assets and Liabilities
+A contract asset is recorded when revenue is recognized in advance of our right to bill and receive consideration. The contract asset will decrease as services are provided and billed. For example, when installment sales include promotional discounts (e.g., trade-in device credits) the difference between revenue recognized and consideration received is recorded as a contract asset to be amortized over the contract term.
+Our contract assets primarily relate to our wireless businesses. Promotional equipment sales where we offer handset credits, which are allocated between equipment and service in proportion to their standalone selling prices, when customers commit to a specified service period result in additional contract assets recognized. These contract assets will amortize over the service contract period, resulting in lower future service revenue.
+When consideration is received in advance of the delivery of goods or services, a contract liability is recorded. Reductions in the contract liability will be recorded as we satisfy the performance obligations.
+The following table presents contract assets and liabilities on our consolidated balance sheets at December 31:
+Consolidated Balance Sheets
+2025 2024
+Contract asset $ 7,816 $ 6,855
+Current portion in "Prepaid and other current assets" 4,131 3,845
+Contract liability 4,409 4,272
+Current portion in "Advanced billings and customer deposits" 4,136 3,981
+Our beginning of period contract liabilities recorded as customer contract revenue during 2025 was $ 3,981 .
+Remaining Performance Obligations
+Remaining performance obligations represent services we are required to provide to customers under bundled or discounted arrangements, which are satisfied as services are provided over the contract term. In determining the transaction price allocated, we do not include non-recurring charges and estimates for usage, nor do we consider arrangements with an original expected duration of less than one year, which are primarily prepaid wireless and residential internet agreements.
+Remaining performance obligations associated with business contracts reflect recurring charges billed, adjusted to reflect estimates for sales incentives and revenue adjustments. Performance obligations associated with wireless contracts are estimated using a portfolio approach in which we review all relevant promotional activities, calculating the remaining performance obligation using the average service component for the portfolio and the average device price. As of December 31,
+58
+AT&T Inc.
+Dollars in millions except per share amounts
+2025, the aggregate amount of the transaction price allocated to remaining performance obligations was $ 43,989 , of which we expect to recognize approximately 88 % by the end of 2027, with the balance recognized thereafter.
+NOTE 6. ACQUISITIONS, DISPOSITIONS AND OTHER ADJUSTMENTS
+Spectrum Auctions In February 2021, the FCC announced that AT&T was the winning bidder for 1,621 C-Band licenses, comprised of a total of 80 MHz nationwide, including 40 MHz in Phase I. We received the licenses in July 2021 and classified the auction deposits, related capitalized interest and billed relocation costs as "Licenses Net" on our December 31, 2021 consolidated balance sheet. In December 2021, we paid $ 955 of Incentive Payments upon clearing of Phase I spectrum and paid $ 2,112 upon clearing of Phase II spectrum in 2023.
+Pending Acquisitions
+Spectrum On August 25, 2025, we agreed to purchase FCC licenses in the 600 MHz and 3.45 GHz bands from EchoStar Corporation for approximately $ 23,000 , subject to certain adjustments. The transaction is expected to close in early 2026 and is subject to regulatory approval and other closing conditions. The FCC licenses will be used to expand our 5G network, meet future capacity demands and support future wireless communications services. We signed a short-term spectrum manager lease on the 3.45 GHz spectrum, which was deployed in cell sites covering nearly two-thirds of the U.S. population.
+Fiber On May 21, 2025, we agreed to acquire substantially all of Lumen's Mass Markets fiber business for $ 5,750 cash, subject to purchase price adjustments. At the time of signing, the pending acquisition covered approximately one million fiber customers, and also included fiber network assets that reached more than four million fiber locations. On February 2, 2026, we completed the transaction and expect to manage the customer relationships in our Consumer Wireline business and place the fiber network assets in a new, wholly owned subsidiary. We plan to sell a controlling interest in the subsidiary to an equity partner that will co-invest in the ongoing business, and, as such, it is expected to meet the criteria for discontinued operations.
+NOTE 7. PROPERTY, PLANT AND EQUIPMENT
+Property, plant and equipment is summarized as follows at December 31:
+Lives (years)
+2025 2024
+Land - $ 1,370 $ 1,372
+Buildings and improvements 2 - 44
+40,674 39,947
+Central office equipment 1
+3 - 10
+87,496 101,607
+Cable, wiring and conduit 15 - 50
+101,530 95,217
+Other equipment 3 - 20
+90,853 87,656
+Software 3 - 7
+17,942 17,663
+Under construction - 7,705 7,452
+347,570 350,914
+Accumulated depreciation and amortization 216,011 222,043
+Property, plant and equipment net $ 131,559 $ 128,871
+1 Includes certain network software.
+Our depreciation expense was $ 20,746 in 2025, $ 20,421 in 2024 and $ 18,593 in 2023. Depreciation expense included amortization of software totaling $ 3,209 in 2025, $ 3,076 in 2024 and $ 3,023 in 2023.
+In conjunction with the decommissioning of our copper-based legacy network, we retired approximately $ 16,600 of fully depreciated assets that were no longer in use. These assets were primarily related to our network and central offices.
+NOTE 8. LEASES
+We have operating and finance leases for certain facilities and equipment used in our operations. Our leases generally have remaining lease terms of up to 15 years. Some of our operating leases (e.g., for towers and real estate) contain renewal options that may be exercised, and some of our leases include options to terminate the leases within one year.
+We have recognized a right-of-use asset for both operating and finance leases, and a corresponding lease liability that represents the present value of our obligation to make payments over the lease term. The present value of the lease payments is calculated using the incremental borrowing rate for operating and finance leases, which was determined using a portfolio approach based
+59
+AT&T Inc.
+Dollars in millions except per share amounts
+on the rate of interest that we would have to pay to borrow an amount equal to the lease payments on a collateralized basis over a similar term. We use the unsecured borrowing rate and risk-adjust that rate to approximate a collateralized rate in the currency of the lease, which will be updated on a quarterly basis for measurement of new lease liabilities.
+The components of lease expense were as follows:
+2025 2024 2023
+Operating lease cost $ 5,927 $ 5,776 $ 5,577
+Finance lease cost:
+Amortization of leased assets in property, plant and equipment
+$ 182 $ 205 $ 232
+Interest on lease obligation 142 171 184
+Total finance lease cost $ 324 $ 376 $ 416
+The following table provides supplemental cash flows information related to leases:
+2025 2024 2023
+Cash Flows from Operating Activities
+Cash paid for amounts included in lease obligations:
+Operating cash flows from operating leases $ 4,830 $ 4,757 $ 4,588
+Supplemental Lease Cash Flow Disclosures
+Operating lease right-of-use assets obtained in exchange for new operating lease obligations
+5,517 3,762 2,693
+The following tables set forth supplemental balance sheet information related to leases at December 31:
+2025 2024
+Operating Leases
+Operating lease right-of-use assets $ 22,642 $ 20,909
+Accounts payable and accrued liabilities $ 3,581 $ 3,533
+Operating lease obligation 18,943 17,391
+Total operating lease obligation $ 22,524 $ 20,924
+Finance Leases
+Property, plant and equipment, at cost $ 2,476 $ 2,449
+Accumulated depreciation and amortization ( 1,484 ) ( 1,378 )
+Property, plant and equipment net $ 992 $ 1,071
+Current portion of long-term debt $ 190 $ 179
+Long-term debt 1,192 1,237
+Total finance lease obligation $ 1,382 $ 1,416
+2025 2024
+Weighted-Average Remaining Lease Term (years)
+Operating leases 7.6 7.6
+Finance leases 5.3 6.7
+Weighted-Average Discount Rate
+Operating leases 4.6 % 4.5 %
+Finance leases 8.7 % 8.5 %
+60
+AT&T Inc.
+Dollars in millions except per share amounts
+The following table provides the expected future minimum maturities of lease obligations:
+At December 31, 2025
+Operating Leases Finance
+Leases
+2026 $ 4,956 $ 309
+2027 4,489 316
+2028 3,871 324
+2029 3,141 333
+2030 2,291 275
+Thereafter 8,808 204
+Total lease payments 27,556 1,761
+Less: Imputed interest
+( 5,032 ) ( 379 )
+Total $ 22,524 $ 1,382
+NOTE 9. GOODWILL AND OTHER INTANGIBLE ASSETS
+We test goodwill for impairment at a reporting unit level, which is deemed to be our principal operating segments or one level below, using the methodology described in Note 1. Wit

@@ -1,0 +1,465 @@
+598 ) ( 26 ) ( 21 ) ( 18 ) — — —
+Amortization of prior service credit ( 8 ) ( 8 ) ( 7 ) — 1 — ( 3 ) ( 4 ) ( 3 )
+Actuarial losses (gains) and other ( 581 ) ( 521 ) ( 590 ) ( 42 ) 4 13 ( 24 ) 2 16
+Net periodic benefit (income) cost $ ( 458 ) $ ( 304 ) $ ( 289 ) $ 20 $ 65 $ 75 $ 66 $ 89 $ 101
+Amounts recognized in other comprehensive loss were primarily related to amortization of prior service cost in our U.S. Pension Plans of $ 8 million in 2026 and $ 8 million in 2025 ($ 6 million, net of tax, in 2026 and $ 6 million, net of tax, in 2025).
+Benefit payments, which reflect expected future service, are expected to be paid as follows for the years ending May 31 (in millions):
+U.S. Pension Plan International
+Pension Plans Postretirement
+Healthcare Plans
+2027 $ 1,931 $ 40 $ 78
+2028 1,946 62 88
+2029 1,954 74 98
+2030 1,948 81 109
+2031 1,999 88 120
+2032-2036 10,507 462 666
+These estimates are based on assumptions about future events. Actual benefit payments may vary significantly from these estimates.
+Future medical benefit claims costs are estimated to increase at an annual rate of 8.30 % during the fiscal year 2027, decreasing to an annual growth rate of 4.00 % in 2050 and thereafter.
+NOTE 13: BUSINESS SEGMENTS AND DISAGGREGATED REVENUE
+As a result of the Spin-Off, effective June 1, 2026, FedEx will no longer consolidate FedEx Freight, and FedEx Freight is no longer a reportable segment. Following the Spin-Off, we realigned our internal reporting and management structure, resulting in the identification of two new reportable segments: Express U.S. Domestic and Express International. These changes had no impact on our consolidated results of operations or financial position. Refer to Note 20 for additional information.
+Prior to the Spin-Off, Federal Express and FedEx Freight represented our major service lines and constituted our reportable segments. Our Chief Executive Officer is our chief operating decision maker ("CODM"). The CODM is responsible for our operating strategy, growth, and profitability and reviews financial information for our two reportable segments. The CODM uses operating income as the primary measure of segment performance because it reflects the underlying business performance and provides the CODM with a basis for making resource allocation decisions. Operating income is defined as income before other income (expense), interest expense and income tax expense. Our CODM also utilizes operating income in the annual budget and monthly forecasting process and considers forecast-to-actual variances on a monthly basis when making resource allocation decisions. Our CODM regularly reviews significant expense details, which include salaries and employee benefits, purchased transportation, rentals and landing fees, depreciation and amortization, fuel, maintenance and repairs, separation and other costs, business optimization costs, and other operating expenses. These expense categories are included within operating expenses in the accompanying consolidated statements of income and are used by the CODM in assessing performance and allocating resources.
+The Federal Express segment operates combined sales, marketing, administrative, and information-technology functions in shared service operations for U.S. customers of our major business units and certain back-office support to FedEx Freight and our other operating segments which allows us to obtain synergies from the combination of these functions. We allocate the net operating costs of these services to reflect the full cost of operating our businesses in the results of those segments. We review and evaluate the performance of FedEx Freight and our other operating segments based on operating income inclusive of these allocations.
+-105-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Operating expenses for our FedEx Freight segment included allocations of these services from the Federal Express segment. These allocations also included charges and credits for administrative services provided between operating companies. The allocations of net operating costs are based on metrics such as relative revenue or estimated services provided. We believe these allocations approximated the net cost of providing these functions. Our allocation methodologies are refined periodically, as necessary, to reflect changes in our businesses.
+Corporate, Other, and Eliminations
+Corporate, other, and eliminations includes corporate headquarters costs for executive officers and certain legal and finance functions, certain other costs and credits not attributed to our core business, and certain costs associated with developing integrated business solutions through our FedEx Dataworks, Inc. ("FedEx Dataworks") operating segment. FedEx Dataworks is focused on creating new digital revenue streams using proven FedEx intelligence to digitize supply chains and create new opportunities for our customers and team members.
+Also included in Corporate, other, and eliminations are the FedEx Office and Print Services, Inc. ("FedEx Office") operating segment, which provides an array of document and business services and retail access to our customers for our package transportation businesses, and the FedEx Logistics operating segment, which provides integrated supply chain management solutions, specialty transportation, customs brokerage, and global ocean and air freight forwarding. The results of Corporate, other, and eliminations are not allocated to the other business segments.
+Certain FedEx operating companies provide transportation and related services for other FedEx companies outside their reportable segment in order to optimize our resources. Billings for such services are based on negotiated rates and are reflected as revenue of the billing segment. These rates are adjusted from time to time based on market conditions. Such intersegment revenue and expenses are eliminated in our consolidated results and are not separately identified in the following segment information because the amounts are not material.
+The following table presents segment information for the years ended May 31, 2026, May 31, 2025, and May 31, 2024 (in millions):
+2026 2025 2024
+Federal Express segment:
+Revenue $ 82,273 $ 75,304 $ 74,663
+Operating expenses:
+Salaries and employee benefits 27,465 25,091 24,606
+Purchased transportation 21,812 19,974 19,330
+Rentals and landing fees 4,153 3,939 3,863
+Depreciation and amortization 3,799 3,722 3,754
+Fuel 3,565 3,316 4,137
+Maintenance and repairs 2,906 2,799 2,848
+Asset impairment charges 23 21 157
+Separation and other costs 92 — —
+Business optimization costs 303 384 251
+Intercompany allocations (charges) ( 853 ) ( 791 ) ( 684 )
+Other 13,096 11,964 11,582
+Total operating expenses 76,361 70,419 69,844
+Operating income $ 5,912 $ 4,885 $ 4,819
+-106-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+2026 2025 2024
+FedEx Freight segment:
+Revenue $ 8,795 $ 8,892 $ 9,429
+Operating expenses:
+Salaries and employee benefits 3,991 3,865 3,923
+Purchased transportation 807 807 877
+Rentals 301 287 280
+Depreciation and amortization 450 416 404
+Fuel 485 457 571
+Maintenance and repairs 314 332 330
+Separation and other costs 492 — —
+Intercompany allocations (charges) 561 573 543
+Other 778 666 680
+Total operating expenses 8,179 7,403 7,608
+Operating income $ 616 $ 1,489 $ 1,821
+2026 2025 2024
+Reconciliation of segment revenue:
+Total Federal Express and FedEx Freight revenue $ 91,068 $ 84,196 $ 84,092
+Other revenues (1)
+3,652 3,730 3,601
+Total consolidated revenue $ 94,720 $ 87,926 $ 87,693
+Reconciliation of segment operating income to income before income taxes:
+Total Federal Express and FedEx Freight operating income $ 6,528 $ 6,374 $ 6,640
+Other operating loss (1)
+( 1,065 ) ( 1,157 ) ( 1,081 )
+Operating income 5,463 5,217 5,559
+Interest, net ( 533 ) ( 426 ) ( 375 )
+Other retirement plans, net 885 713 722
+Other, net (2)
+( 22 ) ( 63 ) ( 70 )
+Total other (expense) income 330 224 277
+Income before income taxes $ 5,793 $ 5,441 $ 5,836
+(1) Revenue and operating loss from segments below the quantitative thresholds are attributable to operating segments contained within "Corporate, other, and eliminations." These operating segments include FedEx Corporate, FedEx Office, FedEx Logistics, and FedEx Dataworks.
+(2) Includes costs related to the Spin-Off of $ 6 million and $ 18 million for the years ended May 31, 2026 and 2025, respectively, included in "Corporate, other, and eliminations."
+The following table provides a reconciliation of segment assets to consolidated financial statement totals (in millions) for the years as of May 31:
+Federal
+Express
+Segment FedEx
+Freight
+Segment Corporate, other, and eliminations Consolidated
+Total
+Segment assets
+2026 (1)
+$ 84,047 $ 6,873 $ 8,017 $ 98,937
+2025 74,154 12,899 574 87,627
+2024 73,259 11,615 2,133 87,007
+(1) In connection with the Spin-Off, FedEx Freight settled an intercompany balance of $ 7.9 billion with Federal Express, impacting segment assets for both segments. In addition, segment assets for "Corporate, other, and eliminations" reflects the $ 4.1 billion dividend from FedEx Freight Holding to FedEx, funded through the FedEx Freight Notes and borrowings under the FedEx Freight Term Loan Facility, received as consideration for FedEx's contribution of assets to FedEx Freight Holding in connection with the Spin-Off, as well as an increase in additional $ 2.5 billion increase in cash and cash equivalents driven by overall growth in the business, increases in pension funded status and other changes in working capital accounts.
+-107-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The following table provides a reconciliation of reportable segment capital expenditures to consolidated totals for the years ended May 31 (in millions):
+Federal
+Express
+Segment FedEx
+Freight
+Segment Other Consolidated
+Total
+2026 $ 3,349 $ 379 $ 81 $ 3,809
+2025 3,505 437 113 4,055
+2024 4,591 461 124 5,176
+The following table presents revenue by service type and geographic information for the years ended or as of May 31 (in millions):
+2026 2025 2024
+REVENUE BY SERVICE TYPE
+Federal Express segment:
+Package:
+U.S. priority revenue $ 11,603 $ 10,520 $ 10,543
+U.S. deferred revenue 5,700 5,007 4,926
+U.S. ground revenue 37,335 33,887 32,981
+Total U.S. domestic package revenue 54,638 49,414 48,450
+International priority 9,639 8,737 9,454
+International economy 5,925 5,861 4,653
+Total international export package revenue 15,564 14,598 14,107
+International domestic (1)
+4,725 4,495 4,659
+Total package revenue 74,927 68,507 67,216
+Freight:
+U.S. 1,252 1,536 2,391
+International priority 2,560 2,320 2,205
+International economy 2,244 1,975 1,874
+Total freight revenue 6,056 5,831 6,470
+Other 1,290 966 977
+Total Federal Express segment 82,273 75,304 74,663
+FedEx Freight segment 8,795 8,892 9,429
+Other and eliminations (2)
+3,652 3,730 3,601
+$ 94,720 $ 87,926 $ 87,693
+GEOGRAPHICAL INFORMATION (3)
+Revenue:
+U.S. $ 67,944 $ 62,916 $ 63,531
+International:
+Federal Express segment 25,480 23,720 23,136
+FedEx Freight segment 243 247 266
+Other 1,053 1,043 760
+Total international revenue 26,776 25,010 24,162
+$ 94,720 $ 87,926 $ 87,693
+Noncurrent assets:
+U.S. $ 58,134 $ 57,040 $ 56,822
+International 12,900 12,201 11,978
+$ 71,034 $ 69,241 $ 68,800
+(1) International domestic revenue relates to our intra-country operations.
+(2) Includes the FedEx Office, FedEx Logistics, and FedEx Dataworks operating segments.
+(3) International revenue includes shipments that either originate in or are destined to locations outside the United States, which could include U.S. payors. Noncurrent assets include property and equipment, operating lease right-of-use assets, goodwill, and other long-term assets. Our flight equipment is registered in the U.S. and is included as U.S. assets; however, many of our aircraft operate internationally.
+-108-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 14: DERIVATIVE FINANCIAL INSTRUMENTS
+RISK MANAGEMENT OBJECTIVE OF USING DERIVATIVES. We enter into derivative financial instruments to reduce the effects of volatility in foreign currency exchange exposure or interest rates on operating results and cash flows. Our derivative financial instruments are used to manage differences in the amount, timing, and duration of cash receipts and cash payments principally related to our investments and debts.
+Certain of our foreign operations expose us to fluctuations of foreign exchange rates. These fluctuations may impact the value of our cash receipts and payments in terms of our functional currency. Certain of our debts expose us to fluctuations of interest rates, these fluctuations may impact our future cashflows.
+NET INVESTMENT HEDGES . We are exposed to fluctuations in foreign exchange rates on investments we hold in foreign entities. We use debt denominated in foreign currency and fixed-to-fixed cross-currency swaps to hedge our exposure to changes in foreign exchange rates on certain of our foreign investments. Cross-currency swaps involve the receipt of functional-currency-fixed rate amounts from a counterparty in exchange for us making foreign-currency-fixed rate payments over the life of the agreement. Cross-currency swaps also involve final exchanges of the functional-currency principal amounts for the foreign-currency principal amounts between us and the counterparty.
+For debt and foreign currency derivatives designated as net investment hedges, the gain or loss on the derivative is reported in AOCL as part of the cumulative translation adjustment. Amounts are reclassified out of AOCL into earnings when the hedged net investment is either sold or substantially liquidated.
+As of May 31, 2026 and 2025, we had 518 million and 506 million, respectively, of debt designated to reduce the volatility of the U.S. dollar value of a portion of our net investment in a euro-denominated consolidated subsidiary.
+During 2026 and 2025, we had certain foreign currency derivatives to hedge our net investments in foreign operations. The following foreign currency derivatives were outstanding as of May 31, 2026 and 2025 (notional amounts in millions):
+2026 2025
+Derivatives designated as net investment hedges Number of Instruments Notional Sold Notional Purchased Number of Instruments Notional Sold Notional Purchased
+Cross-currency swaps 4 ( 949 ) $ 1,000 4 ( 949 ) $ 1,000
+OTHER HEDGES . We are exposed to fluctuations in interest rate risks on the fair value of our debt. We are exposed to fluctuation in foreign exchange rates due to our international operations. We may enter into derivatives contracts to mitigate these risks. For derivatives not designated in hedging relationships, the changes in fair value are recognized immediately in Other, net.
+During 2026 we entered into certain interest rate derivatives to hedge our interest rate risk on debt. During 2026 and 2025 we entered into certain foreign exchange contracts to hedge our foreign exchange exposures in the balance sheet. The following interest rate derivatives and foreign exchange contracts were outstanding as of May 31, 2026 and 2025 (notional amounts in millions):
+2026 2025
+Derivatives not designated in a hedging relationship Underlying Notional Underlying Notional
+Interest rate swaps $ 2,300 $ —
+Foreign exchange contracts 1,753 1,118
+-109-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The following table presents the fair value of our derivatives, including their classification on the consolidated balance sheet, as of May 31, 2026 and 2025 (in millions):
+Balance Sheet Location 2026 2025
+Asset Derivatives
+Cross-currency swaps Prepaid expenses and other $ 12 $ 13
+Interest rate swaps Prepaid expenses and other 4 —
+Foreign exchange contracts Prepaid expenses and other 9 —
+Liability Derivatives
+Cross-currency swaps Other liabilities $ 115 $ 108
+Interest rate swaps Accrued expenses 1 —
+Foreign exchange contracts Accrued expenses 3 2
+The estimated fair values were determined using pricing models that rely on market-based inputs such as foreign currency exchange rates and yield curves and are classified as Level 2 within the fair value hierarchy. This classification is defined as a fair value determined using market-based inputs other than quoted prices that are observable for the derivative financial instruments, either directly or indirectly.
+Our cross-currency swaps and interest rate swaps contain an element of risk that counterparties may be unable to meet the terms of the agreements. We seek to minimize such risk exposures for these instruments by limiting the counterparties to banks and financial institutions that meet established credit guidelines. Our counterparties to the swaps all have an investment grade rating. To keep our exposure minimal, we monitor our counterparties' credit worthiness on a regular basis, reviewing amongst others Standard & Poor's rating and credit default swap spreads.
+We recognized losses of $ 9 million, $ 86 million, and $ 6 million in AOCL related to our cross-currency swaps for the periods ended May 31, 2026, 2025 and 2024. Losses recognized in AOCL related to our debt designated as a net investment hedge, which excludes any adjustments for the impact of deferred income taxes, was immaterial for the periods ended May 31, 2026, 2025, and 2024.
+Amounts recorded to "Other, net" related to our interest rate swaps and foreign exchange contracts for the periods ended May 31, 2026, 2025 and 2024 were immaterial.
+As of May 31, 2026 and 2025, we had not posted any collateral related to our derivatives. No amounts have been reclassified out of AOCL during 2026 or 2025 for our net investment hedges. As of May 31, 2026 and 2025, our net investment hedges remained effective.
+NOTE 15: SUPPLEMENTAL CASH FLOW INFORMATION
+Cash paid for interest expense and income taxes for the years ended May 31 was as follows (in millions):
+2026 2025 2024
+Cash payments for:
+Interest (net of capitalized interest) $ 881 $ 814 $ 744
+Income taxes $ 1,972 $ 1,285 $ 1,555
+Income tax refunds received ( 60 ) ( 35 ) ( 122 )
+Cash tax payments, net $ 1,912 $ 1,250 $ 1,433
+Noncash investing and financing activities for the years ended May 31 were as follows (in millions):
+2026 2025 2024
+Shares of common stock issued from treasury stock for acquisition $ — $ 90 $ —
+NOTE 16: GUARANTEES AND INDEMNIFICATIONS
+In conjunction with certain transactions, primarily the lease, sale, or purchase of real estate, operating assets, or services in the ordinary course of business and in connection with business sales and acquisitions, we may provide routine guarantees or indemnifications (e.g., environmental, fuel, tax, and intellectual property infringement), the terms of which range in duration, and often they are not limited and have no specified maximum obligation. The overall maximum potential amount of the obligation under
+-110-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+such guarantees and indemnifications cannot be reasonably estimated. Historically, we have not been required to make significant payments under our guarantee or indemnification obligations and no material amounts have been recognized in our financial statements for the underlying fair value of these obligations.
+NOTE 17: COMMITMENTS
+Annual purchase commitments under various contracts as of May 31, 2026 were as follows (in millions):
+Aircraft and
+Aircraft Related Other (1)
+Total
+2027 $ 919 $ 1,629 $ 2,548
+2028 1,031 1,311 2,342
+2029 443 1,288 1,731
+2030 383 931 1,314
+2031 308 705 1,013
+Thereafter 1,664 110 1,774
+Total $ 4,748 $ 5,974 $ 10,722
+(1) Primarily information technology and advertising contracts.
+The amounts reflected in the table above for purchase commitments represent noncancellable agreements to purchase goods or services. Open purchase orders that are cancellable are not considered unconditional purchase obligations for financial reporting purposes and are not included in the table above.
+We have several aircraft modernization programs led by the purchase of Boeing 777 Freighter ("B777F") aircraft. These aircraft are significantly more fuel-efficient per unit than the aircraft types previously utilized, and these future expenditures are necessary to achieve significant long-term operational savings and to replace older aircraft. Our ability to delay the timing of these aircraft-related expenditures is limited without incurring significant costs to modify existing purchase agreements.
+As of May 31, 2026, we had $ 727 million in deposits and progress payments on aircraft purchases and other planned aircraft-related transactions. These deposits are classified in "Other assets" in our accompanying consolidated balance sheets. Aircraft and aircraft-related contracts are subject to price escalations. The following table is a summary of the key aircraft we were committed to purchase as of May 31, 2026, with the year of expected delivery:
+Cessna SkyCourier 408 ATR 72-600F B777F Total
+2027 9 5 5 19
+2028 2 4 5 11
+2029 — 4 — 4
+2030 — 2 — 2
+Total 11 15 10 36
+NOTE 18: INVESTMENTS
+EQUITY SECURITIES. Equity securities are included within "Other assets" in the accompanying consolidated balance sheets. The summary of our investments in equity securities at May 31, 2026 and 2025 is as follows (in millions):
+2026 2025
+Equity securities with readily determinable fair values $ 102 $ 91
+Equity securities without readily determinable fair values - NAV practical expedient 60 51
+Equity securities without readily determinable fair values - measurement alternative 402 364
+Total equity securities $ 564 $ 506
+Equity securities with a readily determinable fair value are Level 1 investments that are valued at the closing price or last trade reported on the major market on which the individual securities are traded. For equity securities without readily determinable fair values that qualify for the NAV practical expedient, we have elected to apply the NAV practical expedient to estimate fair value. We apply the measurement alternative for all other equity securities without readily determinable fair values, where adjustments to cost
+-111-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+are made for observable price changes and any impairments. For equity securities where the measurement alternative is applied, annual and cumulative amounts of impairments, downward adjustments, and upward adjustments were immaterial for 2026 and 2025.
+Unrealized gains and (losses) recognized during the reporting period on all equity securities held at May 31, 2026, 2025, and 2024 were $ 35 million, ($ 6 ) million, and $ 14 million, respectively.
+DEBT SECURITIES. The carrying values of our investments in debt securities are classified as available-for-sale and reported at their estimated fair values within "Prepaid expenses and other" in the accompanying consolidated balance sheets. The summary of our investments in debt securities at May 31, 2026 and 2025 is as follows (in millions):
+2026 2025
+Gross Unrealized Amount in AOCL Gross Unrealized Amount in AOCL
+Amortized Cost Gains Losses Estimated Fair Value Amortized Cost Gains Losses Estimated Fair Value
+Fixed-income securities $ 236 $ — $ — $ 236 $ 69 $ 1 $ — $ 70
+Debt securities are classified as Level 2 within the fair value hierarchy. Realized gains and losses were immaterial for 2026, 2025 and 2024.
+NOTE 19: CONTINGENCIES
+Litigation Matters. FedEx and its subsidiaries are subject to various legal proceedings and claims, including lawsuits alleging that Federal Express should be treated as the employer or joint employer of drivers employed by service providers engaged by Federal Express, lawsuits containing various class-action allegations of wage-and-hour violations in which plaintiffs claim, among other things, that they were forced to work "off the clock," were not paid overtime, or were not provided work breaks or other benefits, and lawsuits alleging that FedEx and its subsidiaries are responsible for third-party losses related to vehicle accidents that could exceed our insurance coverage for such losses. In the opinion of management, the aggregate liability, if any, with respect to these actions will not have a material adverse effect on our financial position, results of operations, or cash flows.
+On February 20, 2026, the U.S. Supreme Court issued a decision invalidating tariffs imposed under the International Emergency Economic Powers Act ("IEEPA"). On February 23, 2026, FedEx filed a lawsuit in the U.S. Court of International Trade against the U.S. Customs and Border Protection ("CBP"), the CBP commissioner, and the United States of America seeking a full refund of all IEEPA tariffs that FedEx has paid to the United States. On April 20, 2026, FedEx began filing refund claims through the CBP's Consolidated Administration and Processing of Entries ("CAPE") system.
+FedEx has received cash refunds of approximately $ 800 million as of May 31, 2026. FedEx recognizes amounts associated with these claims when cash is received or when realization is otherwise considered probable and estimable. To the extent customers have previously paid amounts associated with these tariffs, FedEx plans to remit corresponding refunds as soon as practicable. Accordingly, FedEx has recorded $ 749 million as of May 31, 2026 within current liabilities representing estimated customer refund obligations for cash refunds received.
+Additionally, fourteen nationwide class action lawsuits seeking refunds of IEEPA tariffs from FedEx were filed in U.S. district courts in various states. Thirteen of those lawsuits were consolidated into a single case pending in Tennessee federal court. The remaining lawsuit is pending in the Court of International Trade. The financial impact of these events is uncertain, as it is unclear to what extent duties will be refunded by CBP, what processes will govern such refunds in upcoming CAPE phases, or if we can fully collect related accounts receivable. We are evaluating the impact of these developments on our business and financial statements. No adjustments have been recorded in the accompanying consolidated financial statements as we cannot reasonably estimate the financial impact; however, it is reasonably possible that it could be material.
+Environmental Matters. SEC regulations require us to disclose certain information about proceedings arising under federal, state, or local environmental provisions involving a governmental authority as a party if we reasonably believe that such proceedings may result in monetary sanctions above a stated threshold. Pursuant to the SEC regulations, FedEx uses a threshold of $ 1 million or more for purposes of determining whether disclosure of any such proceedings is required. Applying this threshold, there are no environmental matters required to be disclosed for this period.
+NOTE 20: SUBSEQUENT EVENTS
+SPIN-OFF. On June 1, 2026 (the "Distribution Date"), we completed the previously announced Spin-Off of the FedEx Freight business. The transaction was implemented through the distribution of shares of FedEx Freight Holding to holders of FedEx common stock and was structured as a tax-free Spin-Off for U.S. federal income tax purposes.
+-112-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+On the Distribution Date, each holder of record of FedEx common stock received one share of FedEx Freight Holding common stock for every two shares of FedEx common stock held. In the aggregate, we distributed 80.1 % of the outstanding shares of FedEx Freight Holding common stock on a pro rata basis to our stockholders of record as of the close of business on May 15, 2026. Following the completion of the Spin-Off, FedEx Freight Holding is an independent public company trading under the symbol "FDXF" on the New York Stock Exchange, and its financial results will no longer be consolidated in our financial statements beginning on the Distribution Date. Following the Spin-Off, the results and assets and liabilities of FedEx Freight will be reported as discontinued operations and excluded from both continuing operations and segment results for all reporting periods, including comparable historical periods.
+We retained an ownership interest of 19.9 % in FedEx Freight Holding common stock following the distribution, which will be accounted for as an equity security. The investment will be measured at fair value, with changes in fair value recognized in earnings in each reporting period. We expect to fully monetize our remaining stake in FedEx Freight Holding within 24 months of the Distribution Date, subject to market conditions.
+Financing. In connection with the Spin-Off, we received a $ 4.1 billion cash dividend from FedEx Freight Holding funded by its $ 3.7 billion of senior notes offering completed in February 2026 and additional borrowings under a delayed draw term loan facility. Upon completion of the Spin-Off, FedEx was released from its guarantee of these notes pursuant to the applicable guarantee agreement. The notes remain the obligation of FedEx Freight Holding and are guaranteed by certain of its subsidiaries, including FedEx Custom Critical. FedEx Freight Holding has agreed to file with the SEC an exchange registration statement with respect to an exchange offer for the notes and related guarantees or a shelf registration statement for the resale of the notes and the related guarantees.
+In July 2026, FedEx utilized the $ 4.1 billion dividend received from FedEx Freight Holding, together with cash on hand, to repurchase approximately $ 4.9 billion aggregate principal amount of its outstanding debt securities. These transactions occurred after the balance sheet date and, accordingly, have not been reflected in the accompanying consolidated financial statements.
+Retirement Plans. In connection with the Spin-Off described above and as a result of the legal split of certain plans as set forth in Note 12 , an immaterial amount of net liabilities associated with FedEx's retirement plans, including a portion of the defined benefit pension plans, were transferred to FedEx Freight Holding. The legal split and transfer of the plans and the related liabilities and obligations to FedEx Freight Holding will impact our assumptions and projections used to determine the funding and costs of FedEx's remaining plans.
+Other Spin-Off Related Agreements. Also in connection with the Spin-Off, FedEx entered into various agreements to effect the Spin-Off and provide a framework for the relationship between FedEx and FedEx Freight Holding, including a separation and distribution agreement, a tax matters agreement, a transition services agreement, an employee matters agreement, an intellectual property cross-license agreement, a trademark license agreement, and a stockholder and registration rights agreement.
+OTHER EVENTS
+Fiscal Year End Change. On January 27, 2025, our Board of Directors approved a change in our fiscal year end from May 31 to December 31. The fiscal year change became effective June 1, 2026. We will file a Transition Report on Form 10-K for the seven-month transition period from June 1, 2026 through December 31, 2026. The reporting periods and applicable reports preceding and following the effective date of the fiscal year change will be as follows:
+Fiscal Period Reporting Period Report to be Filed
+Fiscal year 2026 June 1, 2025 to
+May 31, 2026 Annual Report on Form 10-K
+Third quarter of calendar year 2026 July 1, 2026 to
+September 30, 2026 Quarterly Report on Form 10-Q (1)
+Transition Period June 1, 2026 to
+December 31, 2026 Transition Report on Form 10-KT
+(1) This report will also include discrete financial information for the one-month periods ending June 30, 2026 and 2025 .
+Collective Bargaining Agreement. On June 9, 2026, based on a majority pilot vote, Federal Express pilots ratified a new collective bargaining agreement with ALPA. This agreement marks a pivotal step forward, uniting our team behind a shared strategy for success as we continue to modernize our global operations and transform the business. The agreement includes new work rule changes, pay rate increases, and pension plan modifications, including an initial pay rate increase of 40 %. The agreement also includes a provision for a one-time payment of $ 625 million upon ratification, which is expected to be paid in the September 2026 quarter. As of May 31, 2026, this amount was accrued and is included within "Accrued salaries and employee benefits" in the accompanying consolidated balance sheets.
+-113-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+IEEPA Tariff Refunds. Subsequent to May 31, 2026, we have continued to submit refund claims with the CBP through the CAPE system and we have received material refunds related to these claims, which we plan to remit to customers as soon as practicable. Amounts received as of July 20, 2026 had an immaterial impact on our operating results. See Note 19 for further information related to these refunds.
+Treasury Shares. As of May 31, 2026, $ 1.3 billion remained available to use for repurchases under the 2024 program. In June 2026, we repurchased $ 0.3 billion of our common stock through open market transactions and executed an ASR to repurchase $ 1.0 billion of our common stock with a completion date by the end of September 2026. There are no amounts remaining available to be used for repurchases under the 2024 program.
+On July 20, 2026, our Board of Directors authorized a new stock repurchase program for additional repurchases of up to $ 5.0 billion of FedEx common stock ("2026 program"). Under the 2026 program, shares may be repurchased from time to time in the open market or in privately negotiated transactions. The timing and volume of repurchases are at the discretion of management, based on the capital needs of the business, the market price of FedEx common stock, and general market conditions. No time limits were set for the completion of the program; however, we may decide to suspend or discontinue the program at any time.
+Sale of Supply Chain. On July 1, 2026, FedEx announced that it would sell its FedEx Supply Chain business to CMA CGM Group for $ 1.4 billion as part of a strategic portfolio streamlining effort. The transaction is expected to close in the second half of calendar year 2026. Upon completion of the sale, FedEx will no longer consolidate FedEx Supply Chain and FedEx Supply Chain will no longer be included in "Corporate, other, and eliminations" in our segment reporting.
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+None.
+ITEM 9A. CONTROLS AND PROCEDURES
+Management's Evaluation of Disclosure Controls and Procedures
+The management of FedEx, with the participation of our principal executive and financial officers, has evaluated the effectiveness of our disclosure controls and procedures in ensuring that the information required to be disclosed in our filings under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized, and reported within the time periods specified in the SEC's rules and forms, including ensuring that such information is accumulated and communicated to FedEx management as appropriate to allow timely decisions regarding required disclosure. Based on such evaluation, our principal executive and financial officers have concluded that such disclosure controls and procedures were effective as of May 31, 2026 (the end of the period covered by this Annual Report).
+Assessment of Internal Control Over Financial Reporting
+Management's report on our internal control over financial reporting and the report of Ernst & Young LLP with respect to our internal control over financial reporting are presented in "Item 8. Financial Statements and Supplementary Data" of this Annual Report.
+Changes in Internal Control Over Financial Reporting
+During our fiscal quarter ended May 31, 2026, no change occurred in our internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+ITEM 9B. OTHER INFORMATION
+Trading Arrangements
+During our fiscal quarter ended May 31, 2026, no director or officer of FedEx adopted , modified, or terminated any Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement, as such terms are defined in Item 408(a) of Regulation S-K.
+Retirement of Director
+On July 19, 2026, Amy B. Lane provided notice of her decision to retire from the Board of Directors of FedEx, effective immediately before the next annual meeting of FedEx's stockholders on September 28, 2026, and not stand for reelection. Ms. Lane has served with distinction on the FedEx Board since 2022.
+-114-
+ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+Not applicable.
+PART III
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE
+Information required by this Item regarding members of the Board of Directors and certain other aspects of FedEx's corporate governance (such as the procedures by which FedEx's stockholders may recommend nominees to the Board of Directors, information about the Audit and Finance Committee, including its members and our "audit committee financial expert," and information regarding FedEx's policies and procedures regarding insider trading ) will be presented in FedEx's definitive proxy statement for its 2026 annual meeting of stockholders, which will be held on September 28, 2026, and is incorporated herein by reference. Information regarding timely filing of reports under Section 16 of the Exchange Act of 1934 will also be presented in FedEx's definitive proxy statement for its 2026 annual meeting of stockholders and is incorporated herein by reference. Information regarding executive officers of FedEx is included above in Part I of this Annual Report under the caption "Information About Our Executive Officers" pursuant to the Instruction to Item 401 of Regulation S-K and General Instruction G(3) of Form 10-K. Information regarding FedEx's Code of Conduct is included above in " Item 1. Business " of this Annual Report under the caption "Reputation and Responsibility — Governance."
+ITEM 11. EXECUTIVE COMPENSATION
+Information required by this Item regarding director and executive compensation will be presented in FedEx's definitive proxy statement for its 2026 annual meeting of stockholders, which will be held on September 28, 2026, and is incorporated herein by reference; provided that the information in the "Executive Compensation — Pay Versus Performance" section of the definitive proxy statement is not incorporated herein by reference.
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+Information required by this Item regarding security ownership of certain beneficial owners and management and related stockholder matters, as well as equity compensation plan information, will be presented in FedEx's definitive proxy statement for its 2026 annual meeting of stockholders, which will be held on September 28, 2026, and is incorporated herein by reference.
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+Information required by this Item regarding certain relationships and transactions with related persons and director independence will be presented in FedEx's definitive proxy statement for its 2026 annual meeting of stockholders, which will be held on September 28, 2026, and is incorporated herein by reference.
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+Information regarding the fees for services provided by Ernst & Young LLP during 2026 and 2025 and the Audit and Finance Committee's administration of the engagement of Ernst & Young LLP, including the Committee's preapproval policies and procedures (such as FedEx's Policy on Engagement of Independent Auditor), will be presented in FedEx's definitive proxy statement for its 2026 annual meeting of stockholders, which will be held on September 28, 2026, and is incorporated herein by reference.
+-115-
+PART IV
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+(a)(1) and (2) Financial Statements; Financial Statement Schedules
+FedEx's consolidated financial statements, together with the notes thereto and the report of Ernst & Young LLP dated July 20, 2026 thereon, are presented in " Item 8. Financial Statements and Supplementary Data " of this Annual Report. FedEx's "Schedule II — Valuation and Qualifying Accounts," together with the report of Ernst & Young LLP dated July 20, 2026 thereon, is presented on pages 128 through 129 of this Annual Report. All other financial statement schedules have been omitted because they are not applicable or the required information is included in FedEx's consolidated financial statements or the notes thereto.
+(a)(3) Exhibits
+Exhibit
+Number
+Description of Exhibit
+Plan of Acquisition/Reorganization
+2.1 Se paration and Distribution Agreement, effective as of May 28, 2026, by and between the Company and FedEx Freight Holding Company, Inc. (Filed as Exhibit 2.1 to FedEx ' s Current Report on Form 8-K dated May 28, 2026 and filed June 1, 2026, and in c orporated herein by reference .)
+Certificate of Incorporation and Bylaws
+3.1
+Restated Certificate of Incorporation of FedEx. (Filed as Exhibit 3.1 to FedEx's FY25 Second Qua rter Report on Form 10-Q , and incorporated herein by reference.)
+3.2
+Amended and Restated Bylaws of FedEx. (Filed as Exhibit 3.1 to FedEx's Current Report on Form 8-K dated and filed March 11, 2024, and incorporated herein by reference.)
+Long-Term Debt Instruments
+*4.1
+Description of Capital Stock and Debt Securities.
+4.2
+Indenture, dated as of August 8, 2006, between FedEx, the Guarantors named therein and The Bank of New York Mellon Trust Company, N.A. (formerly, The Bank of New York Trust Company, N.A.), as trustee. (Filed as Exhibit 4.3 to FedEx's Registration Statement on Form S-3 filed on September 19, 2012, and incorporated herein by reference.)
+4.3
+Supplemental Indenture No. 3, dated as of July 27, 2012, between FedEx, the Guarantors named therein and The Bank of New York Mellon Trust Company, N.A., as trustee. (Filed as Exhibit 4.5 to FedEx's Registration Statement on Form S-3 filed on September 19, 2012, and incorporated herein by reference.)
+4.4
+Form of 3.875% Note due 2042. (Included in Exhibit 4.5 to FedEx's Registration Statement on Form S-3 filed on September 19, 2012, and incorporated herein by reference.)
+4.5
+Supplemental Indenture No. 4, dated as of April 11, 2013, between FedEx, the Guarantors named therein and The Bank of New York Mellon Trust Company, N.A., as trustee. (Filed as Exhibit 4.1 to FedEx's Current Report on Form 8-K dated and filed April 11, 2013, and incorporated herein by reference.)
+4.6
+Form of 4.10% Note due 2043. (Included in Exhibit 4.1 to FedEx's Current Report on Form 8-K dated and filed April 11, 2013, and incorporated herein by reference.)
+4.7
+Supplemental Indenture No. 5, dated as of January 9, 2014, between FedEx, the Guarantors named therein and The Bank of New York Mellon Trust Company, N.A., as trustee. (Filed as Exhibit 4.1 to FedEx's Current Report on Form 8-K dated and filed January 9, 2014, and incorporated herein by reference.)
+4.8
+Form of 4.900% Note due 2034. (Included in Exhibit 4.1 to FedEx's Current Report on Form 8-K dated and filed January 9, 2014, and incorporated herein by reference.)
+4.9
+Form of 5.100% Note due 2044. (Included in Exhibit 4.1 to FedEx's Current Report on Form 8-K dated and filed January 9, 2014, and incorporated herein by reference.)
+4.10
+Supplemental Indenture No. 6, dated as of January 9, 2015, between FedEx, the Guarantors named therein and The Bank of New York Mellon Trust Company, N.A., as trustee. (Filed as Exhibit 4.1 to FedEx's Current Report on Form 8-K dated and filed January 9, 2015, and incorporated herein by reference.)
+-116-
+4.11
+Form of 3.900% Note due 2035. (Included in Exhibit 4.1 to FedEx's Current Report on Form 8-K dated and filed January 9, 2015, and incorporated herein by reference.)
+4.12
+Form of 4.100% Note due 2045. (Included in Exhibit 4.1 to FedEx's Current Report on Form 8-K dated and filed January 9, 2015, and incorporated herein by reference.)
+4.13
+Form of 4.500% Note due 2065. (Included in Exhibit 4.1 to FedEx's Current Report on Form 8-K dated and filed January 9, 2015, and incorporated herein by reference.)
+4.14 Supplemental Indenture No. 7, dated as of February 26, 2025, among FedEx Corporation, as issuer, the subsidiary guarantors named therein and U.S. Bank Trust Company, National Association, as trustee. (Filed as Exhibit 4.1 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.15
+Indenture, dated as of October 23, 2015, between FedEx, the Guarantors named therein and Wells Fargo Bank, National Association, as trustee. (Filed as Exhibit 4.1 to FedEx's Current Report on Form 8-K dated and filed October 23, 2015, and incorporated herein by reference.)
+4.16
+Supplemental Indenture No. 1, dated as of October 23, 2015, between FedEx, the Guarantors named therein and Wells Fargo Bank, National Association, as trustee. (Filed as Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed October 23, 2015, and incorporated herein by reference.)
+4.17
+Form of 4.750% Note due 2045. (Included in Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed October 23, 2015, and incorporated herein by reference.)
+4.18
+Supplemental Indenture No. 2, dated as of March 24, 2016, between FedEx, the Guarantors named therein and Wells Fargo Bank, National Association, as trustee. (Filed as Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed March 24, 2016, and incorporated herein by reference.)
+4.19
+Form of 3.250% Note due 2026. (Included in Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed March 24, 2016, and incorporated herein by reference.)
+4.20
+Form of 4.550% Note due 2046. (Included in Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed March 24, 2016, and incorporated herein by reference.)
+4.21
+Supplemental Indenture No. 3, dated as of April 11, 2016, between FedEx, the Guarantors named therein, Wells Fargo Bank, National Association, as trustee, and Elavon Financial Services Limited, UK Branch, as paying agent. (Filed as Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed April 11, 2016, and incorporated herein by reference.)
+4.22
+Form of 1.625% Note due 2027. (Included in Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed April 11, 2016, and incorporated herein by reference.)
+4.23 Supplemental Indenture No. 4, dated as of January 6, 2017, between FedEx, the Guarantors named therein and Wells Fargo Bank, National Association, as trustee. (Filed as Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed January 6, 2017, and incorporated herein by reference.)
+4.24
+Form of 4.400% Note due 2047. (Included in Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed January 6, 2017, and incorporated herein by reference.)
+4.25
+Supplemental Indenture No. 5, dated as of January 31, 2018, between FedEx, the Guarantors named therein and Wells Fargo Bank, National Association, as trustee. (Filed as Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed January 31, 2018, and incorporated herein by reference.)
+4.26
+Form of 3.400% Note due 2028. (Included in Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed January 31, 2018, and incorporated herein by reference.)
+4.27
+Form of 4.050% Note due 2048. (Included in Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed January 31, 2018, and incorporated herein by reference.)
+4.28
+Supplemental Indenture No. 6, dated as of October 17, 2018, between FedEx, the Guarantors named therein and Wells Fargo Bank, National Association, as trustee. (Filed as Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed October 17, 2018, and incorporated herein by reference.)
+4.29
+Form of 4.200% Note due 2028. (Included in Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed October 17, 2018, and incorporated herein by reference.)
+-117-
+4.30
+Form of 4.950% Note due 2048. (Included in Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed October 17, 2018, and incorporated herein by reference.)
+4.31
+Supplemental Indenture No. 9, dated as of July 24, 2019, between FedEx, the Guarantors named therein and Wells Fargo Bank, National Association, as trustee. (Filed as Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed July 24, 2019, and incorporated herein by reference.)
+4.32
+Form of 3.100% Note due 2029. (Included in Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed July 24, 2019, and incorporated herein by reference.)
+4.33
+Supplemental Indenture No. 10, dated as of August 5, 2019, between FedEx, the Guarantors named therein, Wells Fargo Bank, National Association, as trustee, and Elavon Financial Services DAC, UK Branch, as paying agent. (Filed as Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed August 5, 2019, and incorporated herein by reference.)
+4.34
+Form of 1.300% Note due 2031. (Included in Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed August 5, 2019, and incorporated herein by reference.)
+4.35
+Supplemental Indenture No. 11, dated as of April 7, 2020, between FedEx, the Guarantors named therein and Wells Fargo Bank, National Association, as trustee. (Filed as Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed April 7, 2020, and incorporated herein by reference.)
+4.36
+Form of 4.250% Note due 2030. (Included in Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed April 7, 2020, and incorporated herein by reference.)
+4.37
+Form of 5.250% Note due 2050. (Included in Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed April 7, 2020, and incorporated herein by reference.)
+4.38
+Pass Through Trust Agreement, dated as of August 13, 2020, between Fed eral Express and Wilmington Trust Company. (Filed as Exhibit 4.1 to FedEx's Current Report on Form 8-K dated and filed August 13, 2020 (the "August 13, 2020 Form 8-K"), and incorporated herein by reference.)
+4.39
+Trust Supplement No. 2020-1AA, dated as of August 13, 2020, between Fed eral Express and Wilmington Trust Company, as Trustee, to the Pass Through Trust Agreement dated as of August 13, 2020. (Filed as Exhibit 4.2 to the August 13, 2020 Form 8-K, and incorporated herein by reference.)
+4.40
+Guarantee of FedEx dated August 13, 2020. (Filed as Exhibit 4.3 to the August 13, 2020 Form 8-K, and incorporated herein by reference.)
+4.41
+Form of Pass Through Trust Certificate, Series 2020-1AA. (Included in Exhibit A to Exhibit 4.2 to the August 13, 2020 Form 8-K, and incorporated herein by reference.)
+4.42
+Intercreditor Agreement, dated as of August 13, 2020, among Wilmington Trust Company, as Trustee of the FedEx Pass Through Trust 2020-1AA, BNP Paribas, acting through its New York Branch, as Liquidity Provider, and Wilmington Trust Company, as Subordination Agent. (Filed as Exhibit 4.5 to the August 13, 2020 Form 8-K, and incorporated herein by reference.)
+4.43
+Revolving Credit Agreement (2020-1AA), dated as of August 13, 2020, between Wilmington Trust Company, as Subordination Agent, agent and trustee for the trustee of the FedEx Pass Through Trust 2020-1AA and as Borrower, and BNP Paribas, acting through its New York Branch, as Liquidity Provider (the "Liquidity Provider Revolving Credit Agreement"). (Filed as Exhibit 4.6 to the August 13, 2020 Form 8-K, and incorporated herein by reference.)
+4.44
+Amendment No. 1, dated May 22, 2023, to the Liquidity Provider Revolving Credit Agreement. (Filed as Exhibit 4.44 to FedEx's FY23 Annual Report on Form 10-K, and incorporated herein by reference.)
+** 4.45
+Participation Agreement (N126FE), dated as of August 13, 2020, among Federal Express, Wilmington Trust Company, as Pass Through Trustee under the Pass Through Trust Agreements, Wilmington Trust Company, as Subordination Agent, Wilmington Trust Company, as Loan Trustee, and Wilmington Trust Company, in its individual capacity as set forth therein. (Filed as Exhibit 4.7 to the August 13, 2020 Form 8-K, and incorporated herein by reference.)
+-118-
+*** 4.46
+Participation Agreement (N869FD), dated as of August 13, 2020, among Fed e ral Express, Wilmington Trust Company, as Pass Through Trustee under the Pass Through Trust Agreements, Wilmington Trust Company, as Subordination Agent, Wilmington Trust Company, as Loan Trustee, and Wilmington Trust Company, in its individual capacity as set forth therein. (Filed as Exhibit 4.8 to the August 13, 2020 Form 8-K, and incorporated herein by reference.)
+**4.47
+Indenture and Security Agreement (N126FE), dated as of August 13, 2020, between Fed eral Express and Wilmington Trust Company, as Loan Trustee. (Filed as Exhibit 4.9 to the August 13, 2020 Form 8-K, and incorporated herein by reference.)
+***4.48
+Indenture and Security Agreement (N869FD), dated as of August 13, 2020, between Fed eral Express and Wilmington Trust Company, as Loan Trustee. (Filed as Exhibit 4.10 to the August 13, 2020 Form 8-K, and incorporated herein by reference.)
+4.49
+Form of Series 2020-1AA Equipment Notes. (Included in Exhibit 4.9 to the August 13, 2020 Form 8-K, and incorporated herein by reference.)
+4.50
+Supplemental Indenture No. 12, dated as of April 29, 2021, between FedEx, the Guarantors named therein and Wells Fargo Bank, National Association, as trustee. (Filed as Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed April 29, 2021, and incorporated herein by reference.)
+4.51
+Form of 2.400% Note due 2031. (Included in Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed April 29, 2021, and incorporated herein by reference.)
+4.52
+Form of 3.250% Note due 2041. (Included in Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed April 29, 2021, and incorporated herein by reference.)
+4.53
+Supplemental Indenture No. 13, dated as of May 4, 2021, between FedEx, the Guarantors named therein, Wells Fargo Bank, National Association, as trustee, and Elavon Financial Services DAC, UK Branch, as paying agent. (Filed as Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed May 4, 2021, and incorporated herein by reference.)
+4.54
+Form of 0.450% Note due 2029. (Included in Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed May 4, 2021, and incorporated herein by reference.)
+4.55
+Form of 0.950% Note due 2033. (Included in Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed May 4, 2021, and incorporated herein by reference.)
+4.56
+Supplemental Indenture No. 14, dated as of February 26, 2025, among FedEx, as issuer, the subsidiary guarantors named therein and U.S. Bank Trust Company, National Association, as trustee. (Filed as Exhibit 4.3 to FedEx ' s Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.57 Supplemental Indenture No. 15, dated as of February 26, 2025, among FedEx, as issuer, the subsidiary guarantors named therein and U.S. Bank Trust Company, National Association, as trustee. (Filed as Exhibit 4.4 to FedEx ' s Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.58 Form of 3.400% Notes due 2028. (Included in Exhibit 4.4 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.59 Form of 4.200% Notes due 2028. (Included in Exhibit 4.4 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.60 Form of 3.100% Notes due 2029. (Included in Exhibit 4.4 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.61 Form of 4.250% Notes due 2030. (Included in Exhibit 4.4 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.62 Form of 2.400% Notes due 2031. (Included in Exhibit 4.4 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.63 Form of 4.900% Notes due 2034. (Included in Exhibit 4.4 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+-119-
+4.64 Form of 3.900% Notes due 2035. (Included in Exhibit 4.4 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.65 Form of 3.250% Notes due 2041. (Included in Exhibit 4.4 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.66 Form of 3.875% Notes due 2042. (Included in Exhibit 4.4 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.67 Form of 4.100% Notes due 2043. (Included in Exhibit 4.4 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.68 Form of 5.100% Notes due 2044. (Included in Exhibit 4.4 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.69 Form of 4.100% Notes due 2045. (Included in Exhibit 4.4 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.70 Form of 4.750% Notes due 2045. (Included in Exhibit 4.4 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.71 Form of 4.550% Notes due 2046. (Included in Exhibit 4.4 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.72 Form of 4.400% Notes due 2047 (Included in Exhibit 4.4 to the February 24, 2025 Form 8-K, and incorporated herein by reference).
+4.73 Form of 4.050% Notes due 2048 (Included in Exhibit 4.4 to the February 24, 2025 Form 8-K, and incorporated herein by reference).
+4.74 Form of 4.950% Notes due 2048. (Included in Exhibit 4.4 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.75 Form of 5.250% Notes due 2050. (Included in Exhibit 4.4 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.76 Form of 4.500% Notes due 2065 (Included in Exhibit 4.4 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.77 Supplemental Indenture No. 16, dated as of February 26, 2025, among FedEx, as issuer, the subsidiary guarantors named therein, U.S. Bank Trust Company, National Association, as trustee, and U.S. Bank Europe DAC, UK Branch, as paying agent. (Filed as Exhibit 4.24 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.78 Form of 0.450% Notes due 2029. (Included in Exhibit 4.24 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.79 Form of 1.300% Notes due 2031. (Included in Exhibit 4.24 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2025, and incorporated herein by reference).
+4.80 Form of 0.950% Notes due 2033. (Included in Exhibit 4.24 to FedEx's Current Report on Form 8-K dated February 24, 2025 and filed February 26, 2

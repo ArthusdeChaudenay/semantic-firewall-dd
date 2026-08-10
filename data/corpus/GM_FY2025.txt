@@ -1,0 +1,402 @@
+nternal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management's Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company's internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+Definition and Limitations of Internal Control Over Financial Reporting
+A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/ s / Ernst & Young LLP
+Detroit, Michigan
+January 27, 2026
+53
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+Item 8. Financial Statements and Supplementary Data
+CONSOLIDATED INCOME STATEMENTS
+(In millions, except per share amounts)
+Years Ended December 31,
+2025 2024 2023
+Net sales and revenue
+Automotive $ 167,971 $ 171,606 $ 157,658
+GM Financial 17,048 15,836 14,184
+Total net sales and revenue (Note 3)
+185,019 187,442 171,842
+Costs and expenses
+Automotive and other cost of sales 159,128 151,065 141,330
+GM Financial interest, operating, and other expenses 14,295 12,972 11,374
+Automotive and other selling, general, and administrative expense 8,687 10,621 9,840
+Total costs and expenses 182,110 174,658 162,544
+Operating income (loss) 2,909 12,784 9,298
+Automotive interest expense 727 846 911
+Interest income and other non-operating income, net (Note 19)
+1,535 1,257 1,537
+Equity income (loss) (Note 8)
+( 600 ) ( 4,675 ) 480
+Income (loss) before income taxes 3,117 8,519 10,403
+Income tax expense (benefit) (Note 17)
+338 2,556 563
+Net income (loss) 2,780 5,963 9,840
+Net loss (income) attributable to noncontrolling interests ( 83 ) 45 287
+Net income (loss) attributable to stockholders $ 2,697 $ 6,008 $ 10,127
+Net income (loss) attributable to common stockholders $ 3,180 $ 7,189 $ 10,022
+Earnings per share (Note 21)
+Basic earnings per common share $ 3.33 $ 6.45 $ 7.35
+Weighted-average common shares outstanding basic 955 1,115 1,364
+Diluted earnings per common share $ 3.27 $ 6.37 $ 7.32
+Weighted-average common shares outstanding diluted 973 1,129 1,369
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(In millions)
+Years Ended December 31,
+2025 2024 2023
+Net income (loss) $ 2,780 $ 5,963 $ 9,840
+Other comprehensive income (loss), net of tax (Note 20)
+Foreign currency translation adjustments and other 459 ( 1,218 ) 457
+Defined benefit plans 339 ( 4 ) ( 2,814 )
+Unrealized gain (loss) on hedges 155 85 1
+Other comprehensive income (loss), net of tax 953 ( 1,137 ) ( 2,355 )
+Comprehensive income (loss) 3,733 4,826 7,485
+Comprehensive loss (income) attributable to noncontrolling interests ( 126 ) 176 297
+Comprehensive income (loss) attributable to stockholders $ 3,607 $ 5,002 $ 7,781
+Reference should be made to the notes to consolidated financial statements.
+Amounts may not add due to rounding.
+54
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(In millions, except per share amounts)
+December 31, 2025 December 31, 2024
+ASSETS
+Current Assets
+Cash and cash equivalents (Note 4)
+$ 20,945 $ 19,872
+Marketable debt securities (Note 4)
+6,724 7,265
+Accounts and notes receivable, net of allowance of $ 244 and $ 313
+13,054 12,827
+GM Financial receivables, net of allowance of $ 1,168 and $ 991 (Note 5; Note 11)
+45,266 46,362
+Inventories (Note 6)
+14,467 14,564
+Other current assets (Note 4; Note 11)
+8,312 7,655
+Total current assets 108,767 108,545
+Non-current Assets
+GM Financial receivables, net of allowance of $ 1,557 and $ 1,467 (Note 5; Note 11)
+44,384 46,474
+Equity in net assets of nonconsolidated affiliates (Note 8)
+5,681 7,102
+Property, net (Note 9)
+51,683 51,904
+Goodwill and intangible assets, net (Note 10)
+4,366 4,551
+Equipment on operating leases, net (Note 7; Note 11)
+33,686 31,586
+Deferred income taxes (Note 17)
+22,960 21,254
+Other assets (Note 4; Note 11; Note 15)
+9,756 8,346
+Total non-current assets 172,517 171,216
+Total Assets $ 281,284 $ 279,761
+LIABILITIES AND EQUITY
+Current Liabilities
+Accounts payable (principally trade) $ 23,919 $ 25,680
+Short-term debt and current portion of long-term debt (Note 13)
+Automotive 656 2,141
+GM Financial (Note 11)
+35,012 37,291
+Accrued liabilities (Note 12)
+33,754 31,154
+Total current liabilities 93,342 96,265
+Non-current Liabilities
+Long-term debt (Note 13)
+Automotive 15,591 13,327
+GM Financial (Note 11)
+79,018 76,973
+Postretirement benefits other than pensions (Note 15)
+4,025 3,990
+Pensions (Note 15)
+4,988 5,779
+Other liabilities (Note 12)
+21,151 17,836
+Total non-current liabilities 124,775 117,906
+Total Liabilities 218,116 214,171
+Commitments, contingencies, and uncertainties (Note 16)
+Equity (Note 20)
+Common stock, $ 0.01 par value
+9 10
+Additional paid-in capital 19,928 20,843
+Retained earnings 51,524 53,472
+Accumulated other comprehensive loss ( 10,343 ) ( 11,253 )
+Total stockholders' equity 61,119 63,072
+Noncontrolling interests 2,049 2,518
+Total Equity 63,168 65,590
+Total Liabilities and Equity $ 281,284 $ 279,761
+Reference should be made to the notes to consolidated financial statements.
+Amounts may not add due to rounding.
+55
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions)
+Years Ended December 31,
+2025 2024 2023
+Cash flows from operating activities
+Net income (loss) $ 2,780 $ 5,963 $ 9,840
+Depreciation and impairment of Equipment on operating leases, net 4,942 4,844 4,904
+Depreciation, amortization, and impairment charges on Property, net 9,646 7,545 6,984
+Foreign currency remeasurement and transaction (gains) losses 363 ( 321 ) 349
+Undistributed earnings and impairment of nonconsolidated affiliates, net 1,785 4,118 245
+Pension contributions and OPEB payments ( 539 ) ( 1,518 ) ( 1,100 )
+Pension and OPEB (income) expense, net 29 89 90
+Provision (benefit) for deferred taxes ( 1,249 ) 1,368 ( 1,041 )
+Change in other operating assets and liabilities (Note 24)
+9,056 ( 1,529 ) 1,822
+Other operating activities 54 ( 433 ) ( 1,163 )
+Net cash provided by (used in) operating activities 26,867 20,129 20,930
+Cash flows from investing activities
+Expenditures for property ( 9,303 ) ( 10,830 ) ( 10,970 )
+Available-for-sale marketable securities, acquisitions ( 2,339 ) ( 3,986 ) ( 4,429 )
+Available-for-sale marketable securities, liquidations 3,012 4,331 9,345
+Purchases of finance receivables ( 36,745 ) ( 36,348 ) ( 35,379 )
+Principal collections and recoveries on finance receivables 35,109 31,784 28,346
+Proceeds from sale of finance receivables (Note 5)
+2,005 — —
+Purchases of leased vehicles ( 15,793 ) ( 15,279 ) ( 13,640 )
+Proceeds from termination of leased vehicles 10,095 10,892 13,033
+Other investing activities ( 2,175 ) ( 1,081 ) ( 969 )
+Net cash provided by (used in) investing activities ( 16,134 ) ( 20,517 ) ( 14,663 )
+Cash flows from financing activities
+Net increase (decrease) in short-term debt ( 312 ) 128 ( 156 )
+Proceeds from issuance of debt (original maturities greater than three months) 43,191 53,435 50,963
+Payments on debt (original maturities greater than three months) ( 45,591 ) ( 43,399 ) ( 44,675 )
+Payments to purchase common stock (Note 20)
+( 6,012 ) ( 7,064 ) ( 11,115 )
+Issuance (redemption) of subsidiary stock (Note 20)
+( 29 ) ( 101 ) —
+Dividends paid ( 657 ) ( 653 ) ( 597 )
+Other financing activities ( 180 ) ( 407 ) ( 774 )
+Net cash provided by (used in) financing activities ( 9,590 ) 1,938 ( 6,353 )
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash 177 ( 503 ) 54
+Net increase (decrease) in cash, cash equivalents, and restricted cash 1,320 1,047 ( 31 )
+Cash, cash equivalents, and restricted cash at beginning of period 22,964 21,917 21,948
+Cash, cash equivalents, and restricted cash at end of period $ 24,284 $ 22,964 $ 21,917
+Significant Non-cash Investing and Financing Activity
+Non-cash property additions $ 3,859 $ 3,864 $ 6,013
+Non-cash Ultium loan receivable reduction $ 390 $ — $ —
+Reference should be made to the notes to consolidated financial statements.
+Amounts may not add due to rounding.
+56
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF EQUITY
+(In millions)
+Common Stockholders' Noncontrolling Interests Total Equity Noncontrolling Interest
+Cruise Stock Incentive Awards
+(Temporary Equity)
+Common Stock Additional Paid-in Capital Retained Earnings Accumulated Other Comprehensive Loss
+Balance at January 1, 2023 $ 14 $ 26,428 $ 49,251 $ ( 7,901 ) $ 4,135 $ 71,927 $ 357
+Net income (loss) — — 10,127 — ( 287 ) 9,840 —
+Other comprehensive income (loss) — — — ( 2,346 ) ( 9 ) ( 2,355 ) —
+Purchase of common stock (Note 20)
+( 2 ) ( 7,686 ) ( 3,426 ) — — ( 11,115 ) —
+Stock based compensation — 259 ( 6 ) — — 253 24
+Cash dividends paid on common stock — — ( 477 ) — — ( 477 ) —
+Dividends to noncontrolling interests — — — — ( 120 ) ( 120 ) —
+Other — 129 ( 77 ) — 185 237 ( 263 )
+Balance at December 31, 2023 12 19,130 55,391 ( 10,247 ) 3,903 68,189 118
+Net income (loss) — — 6,008 — ( 45 ) 5,963 —
+Other comprehensive income (loss) — — — ( 1,006 ) ( 131 ) ( 1,137 ) —
+Issuance (redemption) of subsidiary stock (Note 20) — 973 — — ( 1,074 ) ( 101 ) —
+Purchase of common stock (Note 20)
+( 2 ) 245 ( 7,307 ) — — ( 7,064 ) —
+Stock based compensation — 552 ( 9 ) — — 543 —
+Cash dividends paid on common stock — — ( 530 ) — — ( 530 ) —
+Dividends to noncontrolling interests — — — — ( 123 ) ( 123 ) —
+Other — ( 57 ) ( 80 ) — ( 13 ) ( 150 ) ( 118 )
+Balance at December 31, 2024 10 20,843 53,472 ( 11,253 ) 2,518 65,590 —
+Net income (loss) — — 2,697 — 83 2,780 —
+Other comprehensive income (loss) — — — 911 43 953 —
+Issuance (redemption) of subsidiary stock (Note 20)
+— 538 — — ( 567 ) ( 29 ) —
+Purchase of common stock (Note 20)
+( 1 ) ( 1,969 ) ( 4,043 ) — — ( 6,012 ) —
+Stock based compensation — 541 ( 10 ) — — 531 —
+Cash dividends paid on common stock — — ( 538 ) — — ( 538 ) —
+Dividends to noncontrolling interests — — — — ( 119 ) ( 119 ) —
+Other — ( 25 ) ( 53 ) — 91 13 —
+Balance at December 31, 2025 $ 9 $ 19,928 $ 51,524 $ ( 10,343 ) $ 2,049 $ 63,168 $ —
+Reference should be made to the notes to consolidated financial statements.
+Amounts may not add due to rounding.
+57
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Note 1. Nature of Operations and Basis of Presentation
+General Motors Company was incorporated as a Delaware corporation in 2009. We design, build, and sell trucks, crossovers, cars, and automobile parts, and provide software-enabled services and subscriptions worldwide. We also provide automotive financing services through GM Financial. We analyze the results of our operations through the following segments: GMNA, GMI, and GM Financial. In December 2024, we announced that we will no longer fund Cruise's robotaxi development work and in February 2025, began to wind down the Cruise robotaxi operations and combined the GM and Cruise autonomous technical efforts in our GMNA segment to focus on autonomous technology for personal vehicles. Corporate includes certain centrally recorded income and costs such as interest, income taxes, corporate expenditures, and certain revenues and expenses that are not part of a reportable segment. The consolidated financial statements are prepared in conformity with U.S. GAAP. Except for per share amounts or as otherwise specified, amounts presented within tables are stated in millions. Certain columns and rows may not add due to rounding.
+Throughout this report, we refer to General Motors Company and its consolidated subsidiaries in a simplified manner and on a collective basis, using words like "we," "our," "us," and "the Company." This drafting style is suggested by the SEC and is not meant to indicate that General Motors Company, the publicly traded parent company, or any particular subsidiary of the parent company, owns or operates any particular asset, business, or property. The operations and businesses described in this report are owned and operated by distinct subsidiaries of General Motors Company.
+Principles of Consolidation We consolidate entities that we control due to ownership of a majority voting interest and we consolidate variable interest entities (VIEs) when we are the primary beneficiary. All intercompany balances and transactions are eliminated in consolidation. Our share of earnings or losses of nonconsolidated affiliates is included in our consolidated operating results using the equity method of accounting when we are able to exercise significant influence over the operating and financial decisions of the affiliate.
+Use of Estimates in the Preparation of the Financial Statements Accounting estimates are an integral part of the consolidated financial statements. These estimates require the use of judgments and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses in the periods presented. We believe that the accounting estimates employed are appropriate and the resulting balances are reasonable; however, due to the inherent uncertainties in making estimates, actual results could differ from the original estimates, requiring adjustments to these balances in future periods.
+GM Financial The amounts presented for GM Financial are adjusted to reflect the impact on GM Financial's deferred tax positions and provision for income taxes resulting from the inclusion of GM Financial in our consolidated tax returns and to eliminate the effect of transactions between GM Financial and the other members of the consolidated group. Accordingly, the amounts presented will differ from those presented by GM Financial on a stand-alone basis.
+Note 2. Significant Accounting Policies
+The accounting policies that follow are utilized by our automotive, automotive financing, and Cruise operations, unless otherwise indicated.
+Revenue Recognition
+Automotive Automotive net sales and revenue represents the amount of consideration to which we expect to be entitled in exchange for vehicle, parts, accessories, services, and other sales. The consideration recognized represents the amount received, typically shortly after the sale to a customer, net of estimated dealer and customer sales incentives we reasonably expect to pay. Significant factors in determining our estimates of incentives include forecasted sales volume, product mix, and the rate of customer acceptance of incentive programs, all of which are estimated based on historical experience and assumptions concerning future customer behavior and market conditions. Subsequent adjustments to incentive estimates are possible as facts and circumstances change over time. A portion of the consideration received is deferred for separate performance obligations, such as software-enabled services and subscriptions, vehicle connectivity, customer rewards programs, maintenance, and extended warranty, that will be provided to our customers at a future date. Taxes assessed by various government entities, such as sales, use, and value-added taxes, collected at the time of the vehicle sale are excluded from Automotive net sales and revenue. Costs for shipping and handling activities that occur after control of the vehicle transfers to the dealer are recognized at the time of sale and presented in Automotive and other cost of sales.
+58
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+V e hicle, Parts, and Accessories For the majority of vehicle and accessories sales, our customers obtain control and we recognize revenue when the vehicle transfers to the dealer, which typically occurs either when the vehicle is released to the carrier responsible for transporting it to a dealer or upon delivery to a dealer. Revenue, net of estimated returns, is recognized on the sale of parts upon delivery to the customer. When our customers have a right to return eligible parts and accessories, we consider the returns in our estimation of the transaction price.
+Typically, transfers to daily rental companies are accounted for as sales, with revenue recognized at the time of transfer. We defer revenue for remarketing obligations, record a residual value guarantee, and reflect a liability for amounts expected to be paid once the remarketing services are complete at the time of sale and recognize deferred revenue in earnings upon completion of the remarketing service.
+Used Vehicles Proceeds from the auction of vehicles utilized by our employees are recognized in Automotive net sales and revenue upon transfer of control of the vehicle to the customer, and the related vehicle carrying value is recognized in Automotive and other cost of sales.
+Services and Other Services and other revenue primarily consists of revenue from vehicle-related service arrangements and after-sale services such as OnStar, Super Cruise, vehicle connectivity, maintenance, and extended service warranties. For those service arrangements that are bundled with a vehicle sale, a portion of the revenue from the sale is allocated to the service component and recognized as deferred revenue within Accrued liabilities or Other liabilities. We recognize revenue for bundled services and services sold separately as services are performed, typically over a period of up to eight years .
+Automotive Financing - GM Financial Finance charge income earned on finance receivables is recognized using the effective interest method. Fees and commissions received (including manufacturer subvention) and direct costs of originating loans are generally deferred and amortized over the term of the related finance receivables using the effective interest method and are removed from the consolidated balance sheets when the related finance receivables are fully charged off or paid in full. Accrual of finance charge income on retail finance receivables is generally suspended on accounts that are more than 60 days delinquent, accounts in bankruptcy, and accounts in repossession. Payments received on nonaccrual loans are first applied to any fees due, then to any interest due, and then any remaining amounts are applied to principal. Interest accrual generally resumes once an account has received payments bringing the delinquency status to less than 60 days past due. Accrual of finance charge income on commercial finance receivables is generally suspended on accounts that are more than 90 days delinquent, upon receipt of a bankruptcy notice from a borrower, or where reasonable doubt exists about the full collectability of contractually agreed upon principal and interest. Payments received on nonaccrual loans are first applied to principal. Interest accrual resumes once an account has received payments bringing the account fully current and collection of contractual principal and interest is reasonably assured (including amounts previously charged off).
+Income from operating lease assets, which includes lease origination fees, net of lease origination costs, is recorded as operating lease revenue on a straight-line basis over the term of the lease agreement. Gains or losses realized upon disposition of off-lease assets including any payments received from lessees upon lease termination, are included in GM Financial interest, operating, and other expenses.
+Advertising and Promotion Expenditures Advertising and promotion expenditures, which are expensed as incurred in Automotive and other selling, general, and administrative expense, were $ 3.1 billion, $ 3.3 billion, and $ 3.6 billion in the years ended December 31, 2025, 2024, and 2023.
+Research and Development Expenditures Research and development expenditures, which are expensed as incurred in Automotive and other cost of sales, were $ 8.5 billion, $ 9.2 billion, and $ 9.9 billion in the years ended December 31, 2025, 2024, and 2023. These expenditures include cost sharing payments and fees we receive when we enter into cost sharing arrangements with third parties or nonconsolidated affiliates for product-related research, engineering, design, and development activities and use of intellectual property.
+Cash Equivalents and Restricted Cash Cash equivalents are defined as short-term, highly-liquid investments with original maturities of 90 days or less. Certain operating agreements require us to post cash as collateral. Cash and cash equivalents subject to contractual restrictions and not readily available are classified as restricted cash. Restricted cash is invested in accordance with the terms of the underlying agreements and include amounts related to various deposits, escrows, and other cash collateral. Restricted cash is included in Other current assets and Other assets in the consolidated balance sheets.
+59
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Fair Value Measurements A three-level valuation hierarchy, based upon observable and unobservable inputs, is used for fair value measurements. Observable inputs reflect market data obtained from independent sources, while unobservable inputs reflect market assumptions based on the best evidence available. These two types of inputs create the following fair value hierarchy: Level 1 Quoted prices for identical instruments in active markets; Level 2 Quoted prices for similar instruments in active markets, quoted prices for identical or similar instruments in markets that are not active, and model-derived valuations whose significant inputs are observable; and Level 3 Instruments whose significant inputs are unobservable.
+Marketable Debt Securities We generally classify marketable debt securities as available-for-sale. Various factors, including turnover of holdings and investment guidelines, are considered in determining the classification of securities. Available-for-sale debt securities are recorded at fair value with non-credit related unrealized gains and losses recorded in Accumulated other comprehensive loss until realized. Credit losses are recorded in Interest income and other non-operating income, net. An evaluation is made quarterly to determine if any portion of unrealized losses recorded in Accumulated other comprehensive loss needs to be reclassified. Non-credit related unrealized losses are reclassified to Interest income and other non-operating income, net if we intend to sell the security or it is more likely than not that we will be required to sell the security before the recovery of the unrealized loss.
+We determine realized gains and losses for all debt securities using the specific identification method and measure the fair value of our marketable debt securities using a market approach where identical or comparable prices are available and an income approach in other cases. If quoted market prices are not available, fair values of securities are determined using prices from a pricing service, pricing models, quoted prices of securities with similar characteristics, or discounted cash flow models. These prices represent non-binding quotes. Our pricing service utilizes industry-standard pricing models that consider various inputs. We review our pricing service quarterly and believe the prices received from our pricing service are a reliable representation of exit prices.
+Accounts and Notes Receivable Accounts and notes receivable primarily consists of amounts that are due and payable from our customers for the sale of vehicles, parts, and accessories. We evaluate the collectability of receivables each reporting period and record an allowance for doubtful accounts to present the net amount expected to be collected on our receivables. Additions to the allowance are charged to bad debt expense reported in Automotive and other selling, general, and administrative expense and were insignificant in the years ended December 31, 2025, 2024, and 2023.
+GM Financial Receivables Finance receivables are carried at amortized cost basis, net of allowance for loan losses. Provisions for loan losses are charged to operations in amounts sufficient to maintain the allowance for loan losses at levels considered adequate to cover expected credit losses on the finance receivables. For retail finance receivables, GM Financial uses static pool modeling techniques to determine the allowance for loan losses expected over the remaining life of the receivables, which is supplemented by management judgment. The modeling techniques incorporate reasonable and supportable forecasts of economic conditions over the expected remaining life of the finance receivables. The economic forecasts incorporate factors which vary by region that GM Financial believes will have the largest impact on expected losses, including unemployment rates, interest rate spreads, disposable personal income, and growth rates in gross domestic product.
+Commercial finance receivables are carried at amortized cost basis, net of allowance for loan losses and amounts held under a cash management program. GM Financial establishes the allowance for loan losses based on historical loss experience, as well as forecasted auto industry conditions, which is the economic indicator believed to have the largest impact on expected losses.
+Inventories Inventories are stated at the lower of cost or net realizable value. Cost is determined on a first-in, first-out (FIFO) basis. Net realizable value is the estimated selling price in the ordinary course of business less cost to sell, and considers general market and economic conditions, periodic reviews of current profitability of vehicles, product warranty costs, and the effect of estimated sales incentives. Net realizable value for off-lease and other vehicles is current auction sales proceeds less disposal and warranty costs. Inventories are reviewed to determine if inventory quantities are in excess of forecasted usage or if they have become obsolete, with a primary focus on productive material, supplies, work in process, and parts and accessories.
+Equipment on Operating Leases Equipment on operating leases, net consists of vehicle leases to retail customers with lease terms of typically one to five years . We are exposed to changes in the residual values of these assets. The residual values represent estimates of the values of the leased vehicles at the end of the lease agreements and are determined based on forecasted auction proceeds when there is a reliable basis to make such a determination. Realization of the residual values is dependent on the future ability to market the vehicles under prevailing market conditions. The estimate of the residual value is evaluated over the life of the arrangement and adjustments may be made to the extent the expected value of the vehicle changes.
+60
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Adjustments may be in the form of revisions to the depreciation rate or recognition of an impairment charge. A lease vehicle asset group is determined to be impaired if an impairment indicator exists and the expected future cash flows, which include estimated residual values, are lower than the carrying amount of the vehicle asset group. If the carrying amount is considered impaired, an impairment charge is recorded for the amount by which the carrying amount exceeds fair value of the vehicle asset group. Fair value is determined primarily using the anticipated cash flows, including estimated residual values. In our automotive finance operations, when a leased vehicle is returned or repossessed, the asset is recorded in Other assets at the lower of amortized cost basis or net realizable value. Upon disposition a gain or loss is recorded in GM Financial interest, operating, and other expenses for any difference between the net book value of the leased asset and the proceeds from the disposition of the asset.
+Equity Investments When events and circumstances warrant, equity investments accounted for under the equity method of accounting are evaluated for impairment. An impairment charge is recorded whenever a decline in value of an equity investment below its carrying amount is determined to be other-than-temporary. Impairment charges related to equity method investments are recorded in Equity income (loss). Equity investments that are not accounted for under the equity method of accounting are measured at fair value or in certain cases adjusted to fair value upon an observable price change, with changes in fair value recorded in Interest income and other non-operating income, net.
+Property, net Property, plant, and equipment, including internal use software, is recorded at cost. The gross amount of assets under finance leases is included in property, plant, and equipment. Major improvements that extend the useful life or add functionality are capitalized. Expenditures for repairs and maintenance are charged to expense as incurred. We depreciate depreciable property using the straight-line method. Leasehold improvements are amortized over the period of lease or the life of the asset, whichever is shorter. The amortization of the assets under finance leases is included in depreciation expense. Upon retirement or disposition of property, plant, and equipment, the cost and related accumulated depreciation are eliminated and any resulting gain or loss is recorded in earnings. Impairment charges related to property are recorded in Automotive and other cost of sales, Automotive and other selling, general, and administrative expense, or GM Financial interest, operating, and other expenses.
+Special Tools Special tools represent product-specific propulsion and non-propulsion related tools, dies, molds, and other items used in the vehicle manufacturing process. Expenditures for special tools are recorded at cost and are capitalized. We amortize special tools over their estimated useful lives generally using the straight-line method of amortization. Impairment charges related to special tools are recorded in Automotive and other cost of sales.
+Goodwill Goodwill is not amortized but rather tested for impairment annually on October 1 and when events warrant such a review. The impairment test entails an assessment of qualitative factors to determine whether it is more likely than not that an impairment exists. If it is more likely than not that an impairment exists, then a quantitative impairment test is performed. Impairment exists when the carrying amount of a reporting unit exceeds its fair value.
+Intangible Assets, net Intangible assets, excluding goodwill, primarily include brand names, customer relationships, and dealer networks. Intangible assets are amortized on a straight-line or an accelerated method of amortization over their estimated useful lives. Amortization of developed technology and intellectual property is recorded in Automotive and other cost of sales. Amortization of brand names, customer relationships, and our dealer networks is recorded in Automotive and other selling, general, and administrative expense or GM Financial interest, operating, and other expenses. Impairment charges, if any, related to intangible assets are recorded in Automotive and other selling, general, and administrative expense or Automotive and other cost of sales.
+Valuation of Long-Lived Assets The carrying amount of long-lived assets and finite-lived intangible assets to be held and used in the business is evaluated for impairment when events and circumstances warrant. If the carrying amount of a long-lived asset group is considered impaired, a loss is recorded based on the amount by which the carrying amount exceeds fair value. Product-specific long-lived asset groups and non-product specific long-lived assets are separately tested for impairment on an asset group basis. Fair value is determined using either the market or sales comparison approach, cost approach, or anticipated cash flows discounted at a rate commensurate with the risk involved. Long-lived assets to be disposed of other than by sale are considered held for use until disposition.
+Government Incentives and Grants We receive incentives from federal, state, and local governments in different regions of the world that encourage us to establish, maintain, or increase investment, employment, or production in the region. We are also entitled to certain advanced manufacturing production credits under the IRA. We account for government incentives as a
+61
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+reduction of expense, a reduction of the cost of the capital investment, or other income based on the substance of the incentive received. The benefit from advanced manufacturing production credits are not accounted for or classified as an income tax credit. Benefits are generally recorded when it is probable that we will comply with the conditions attached to the grant and the grant will be received or, as it relates to advanced manufacturing production credits, upon the generation of the credit. Amounts are recorded in earnings on a systematic and rational basis as the expenses in which the incentive is meant to offset are incurred, as we meet the conditions of the grant, or indirectly as the capital investment is depreciated, or, as it relates to advanced manufacturing production credits, upon generation of the credit. At December 31, 2025 and 2024, cash incentives receivable in Accounts and notes receivable, net of allowance was $ 341 million and $ 343 million, cash incentives credited to Property, net was $ 480 million, cash incentives receivable in Other assets was $ 293 million and $ 292 million, amounts refundable in Accrued liabilities was $ 319 million and insignificant, and deferred incentive income in Other liabilities was insignificant and $ 212 million. In the years ended December 31, 2025, 2024, and 2023 we recognized $ 267 million, $ 524 million, and $ 251 million in Automotive and other cost of sales associated with incentives. Current agreements expire at various dates through 2032 and we consider the risk that any amounts recognized will be returned to be remote.
+Emissions Credits We periodically enter into agreements to purchase credits to facilitate our compliance with emission and fuel economy regulations. Purchased credits are recorded at cost in Other current assets and Other assets and are recognized in expense over the periods in which the acquired credits facilitate our compliance with emission and fuel economy regulations.
+Pension and OPEB Plans
+Attribution, Methods, and Assumptions The cost of benefits provided by defined benefit pension plans is recorded in the period employees provide service. The cost of pension plan amendments that provide for benefits already earned by plan participants is amortized over the expected period of benefit which may be the duration of the applicable collective bargaining agreement specific to the plan, the expected future working lifetime, or the life expectancy of the plan participants.
+The cost of medical, dental, legal service, and life insurance benefits provided through postretirement benefit plans is recorded in the period employees provide service. The cost of postretirement plan amendments that provide for benefits already earned by plan participants is amortized over the expected period of benefit which may be the average period to full eligibility or the average life expectancy of the plan participants.
+An expected return on plan asset methodology is utilized to calculate future pension expense for certain significant funded benefit plans. A market-related value of plan assets methodology is also utilized that averages gains and losses on the plan assets over a period of years to determine future pension expense. The methodology recognizes 60 % of the difference between the fair value of assets and the expected calculated value in the first year and 10 % of that difference over each of the next four years .
+The discount rate assumption is established for each of the retirement-related benefit plans at their respective measurement dates. In the U.S., we use a cash flow matching approach that uses projected cash flows matched to spot rates along a high-quality corporate bond yield curve to determine the present value of cash flows to calculate a single equivalent discount rate. We apply individual annual yield curve rates to determine the service cost and interest cost for our pension and OPEB plans to more specifically link the cash flows related to service cost and interest cost to bonds maturing in their year of payment.
+The benefit obligation for pension plans in Canada, the United Kingdom (UK), and Germany represents 88 % of the non-U.S. pension benefit obligation at December 31, 2025. The discount rates for plans in Canada, the UK, and Germany are determined using a cash flow matching approach like the U.S.
+Plan Asset Valuation Due to the lack of timely available market information for certain investments in the asset classes described below as well as the inherent uncertainty of valuation, reported fair values may differ from fair values that would have been used had timely available market information been available.
+Cash Equivalents and Other Short-Term Investments Cash equivalents, including reverse repurchase agreements, trade deposits, and other short-term investments, are valued based on pricing received from independent pricing services, dealers who make markets in such securities, or held at amortized cost basis. Cash equivalent pricing utilizes observable inputs and are classified in Level 2.
+62
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Common and Preferred Stock Common and preferred stock for which market prices are readily available at the measurement date are valued at the last reported sale price or official closing price on the primary market or exchange on which they are actively traded and are classified in Level 1. Such equity securities for which the market is not considered to be active are valued via the use of observable inputs, which may include the use of adjusted market prices last available, bids or last available sales prices, and/or other observable inputs and are classified in Level 2. Common and preferred stock classified in Level 3 are privately issued securities or other issues that are valued via the use of valuation models using significant unobservable inputs that generally consider aged (stale) pricing, earnings multiples, discounted cash flows, and/or other qualitative and quantitative factors.
+Debt Securities Valuations for debt securities are based on quotations received from independent pricing services or from dealers who make markets in such securities. Debt securities priced via pricing services that utilize matrix pricing which considers readily observable inputs such as the yield or price of bonds of comparable quality, coupon, maturity, and type as well as dealer supplied prices, are classified in Level 2. Debt securities that are typically priced by dealers and pricing services via the use of proprietary pricing models which incorporate significant unobservable inputs are classified in Level 3. These inputs primarily consist of yield and credit spread assumptions, discount rates, prepayment curves, default assumptions, and recovery rates.
+Investment Funds, Private Equity and Debt Investments, and Real Estate Investments Investment funds, private equity and debt investments, and real estate investments are valued based on the Net Asset Value (NAV) per Share (or its equivalent) as a practical expedient to estimate fair value due to the absence of readily available market prices.
+NAVs are provided by the respective investment sponsors or investment advisers and are subsequently reviewed and approved by management. In the event management concludes a reported NAV does not reflect fair value or is not determined as of the financial reporting measurement date, we will consider whether and when deemed necessary to make an adjustment at the balance sheet date. In determining whether an adjustment to the external valuation is required, we will review material factors that could affect the valuation, such as changes in the composition or performance of the underlying investments or comparable investments, overall market conditions, expected sale prices for private investments which are probable of being sold in the short-term, and other economic factors that may possibly have a favorable or unfavorable effect on the reported external valuation.
+Stock Incentive Plans Our stock incentive plans include RSUs, PSUs, stock options, and awards that may be settled in our stock, the stock of our subsidiaries, or in cash. We measure and record compensation expense based on the fair value of GM's common stock on the date of grant for RSUs and PSUs and the grant date fair value, determined utilizing the Black-Scholes formula or a lattice model, for stock options and PSUs. We record compensation cost for service-based RSUs, PSUs, and service-based stock options on a straight-line basis over the entire vesting period, or for retirement eligible employees over the requisite service period. Compensation cost for awards that do not have an established accounting grant date, but for which the service inception date has been established or are settled in cash is based on the fair value of GM's common stock at the end of each reporting period.
+In March 2022, all outstanding RSUs that settle in Cruise's common stock were modified to remove a liquidity vesting condition and will vest solely based upon satisfaction of a service condition. Compensation cost was recorded on a straight-line basis over the entire vesting period based on the fair value of Cruise's common stock. In April 2024, substantially all remaining outstanding unvested Cruise RSUs were exchanged by participants for unvested cash payment rights and as of December 31, 2025, no incentive awards settleable in Cruise common stock are outstanding.
+Product Warranty and Recall Campaigns The estimated costs related to product warranties are accrued at the time products are sold and are charged to Automotive and other cost of sales. These estimates are established using historical information on the nature, frequency, and average cost of claims of each vehicle line or each model year of the vehicle line and assumptions about future activity and events. Revisions are made when necessary and are based on changes in these factors.
+The estimated costs related to recall campaigns are accrued when probable and estimable. In GMNA, we estimate the costs related to recall campaigns by applying a paid loss approach that considers the number of historical recall campaigns and the estimated cost for each recall campaign. The estimated costs associated with recall campaigns in other geographical regions are determined using the estimated costs of repairs and the estimated number of vehicles to be repaired. Costs associated with recall campaigns are charged to Automotive and other cost of sales. Revisions are made when necessary based on changes in these factors.
+63
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Income Taxes The liability method is used in accounting for income taxes. Deferred tax assets and liabilities are recorded for temporary differences between the tax basis of assets and liabilities and their reported amounts in the consolidated financial statements using the statutory tax rates in effect for the year in which the differences are expected to reverse. The effect on deferred tax assets and liabilities of a change in tax laws or rates is recorded in the results of operations in the period that includes the enactment date under the law. We record Global Intangible Low Tax Income as a current period expense when incurred. Income tax effects are released from Accumulated other comprehensive loss using the specific-identification method.
+We establish valuation allowances for deferred tax assets based on a more likely than not standard. Deferred income tax assets are evaluated quarterly to determine if valuation allowances are required or should be adjusted. The ability to realize deferred tax assets depends on the ability to generate sufficient taxable income within the carryback or carryforward periods provided for in the tax law for each applicable tax jurisdiction. The assessment regarding whether a valuation allowance is required or should be adjusted also considers all available positive and negative evidence factors. It is difficult to conclude a valuation allowance is not required when there is significant objective and verifiable negative evidence, such as cumulative losses in recent years. We utilize a rolling three years of actual and current year results as the primary measure of cumulative losses in recent years.
+We record uncertain tax positions on the basis of a two-step process whereby we determine whether it is more likely than not that the tax positions will be sustained based on the technical merits of the position, and for those tax positions that meet the more likely than not criteria, we recognize the largest amount of tax benefit that is greater than 50 % likely to be realized upon ultimate settlement with the related tax authority. We record interest and penalties on uncertain tax positions in Income tax expense (benefit).
+Foreign Currency Transactions and Translation The assets and liabilities of foreign subsidiaries that use the local currency as their functional currency are translated to U.S. dollars based on the current exchange rate prevailing at each balance sheet date and any resulting translation adjustments are included in Accumulated other comprehensive loss. The assets and liabilities of foreign subsidiaries whose local currency is not their functional currency are remeasured from their local currency to their functional currency and then translated to U.S. dollars. Revenues and expenses are translated into U.S. dollars using the average exchange rates prevailing for each period presented. The financial statements of any foreign subsidiary that has been identified as having a highly inflationary economy are remeasured as if the functional currency were the U.S. dollar.
+Gains and losses arising from foreign currency transactions and the effects of remeasurements discussed in the preceding paragraph are recorded in Automotive and other cost of sales and GM Financial interest, operating, and other expenses unless related to Automotive debt, which are recorded in Interest income and other non-operating income, net. Foreign currency transactions and remeasurements in the years ended December 31, 2025, 2024, and 2023 were losses of $ 363 million, gains of $ 321 million, and losses of $ 349 million.
+Derivative Financial Instruments Derivative financial instruments are recognized as either assets or liabilities at fair value. The accounting for changes in the fair value of each derivative financial instrument depends on whether it has been designated and qualifies as an accounting hedge, as well as the type of hedging relationship identified. Cash flows for all derivative financial instruments are typically classified in cash flows from operating activities. Derivative instruments are not used for trading or speculative purposes.
+Automotive We utilize options, swaps, and forward contracts to manage foreign currency, commodity price, and interest rate risks. The change in the fair value of option, swap, and forward contracts not designated as an accounting hedge is recorded in Interest income and other non-operating income, net.
+Certain foreign currency and commodity forward contracts have been designated and qualify as cash flow hedges. The risks being hedged are foreign currency and commodity price risks related to forecasted transactions that are generally expected to occur in the next 12 months. The change in the fair value of these forward contracts is recorded in Accumulated other comprehensive loss and will be recognized in Automotive net sales and revenue or Automotive and other cost of sales when the hedged transaction impacts earnings. Forward contracts designated as cash flow hedges are evaluated for effectiveness using regression analysis at inception and throughout the hedge period.
+Certain receive-fixed, pay-float interest rate swap agreements have been designated and qualify as fair value hedges of our fixed-rate debt. The risk being hedged is the risk of changes in the fair value of the hedged debt attributable to changes in the benchmark interest rate. The changes in both the fair value of the hedged debt and the hedging instrument are recorded in
+64
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Automotive interest expense. When a fair value hedge is de-designated, or when the derivative is terminated prior to maturity, the fair value adjustment to the hedged debt continues to be reported as part of the carrying value of the debt and is recognized in Automotive interest expense over its remaining life.
+Automotive Financing - GM Financial GM Financial utilizes interest rate derivative instruments to manage interest rate risk and foreign currency derivative instruments to manage foreign currency risk. The change in fair value of the derivative instruments not designated as an accounting hedge is recorded in GM Financial interest, operating, and other expenses.
+Certain interest rate and foreign currency swap agreements have been designated as fair value hedges. The risk being hedged is the risk of changes in the fair value of the hedged debt attributable to changes in the benchmark interest rate or the risk of changes in fair value attributable to changes in foreign currency exchange rates. If the swap has been designated as a fair value hedge, the changes in the fair value of the hedged item are recorded in GM Financial interest, operating, and other expenses. The change in fair value of the related hedge is also recorded in GM Financial interest, operating, and other expenses.
+Certain interest rate swap and foreign currency swap agreements have been designated as cash flow hedges. The risk being hedged is the interest rate and foreign currency risk related to forecasted transactions. If the contract has been designated as a cash flow hedge, the change in the fair value of the cash flow hedge is deferred in Accumulated other comprehensive loss and is recognized in GM Financial interest, operating, and other expenses along with the earnings effect of the hedged item when the hedged item affects earnings. Changes in the fair value of amounts excluded from the assessment of effectiveness are recorded currently in earnings and are presented in the same income statement line as the earnings effect of the hedged item.
+Accounting Standards Not Yet Adopted In September 2025, the Financial Accounting Standards Board (FASB) issued ASU 2025-06 "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software" (ASU 2025-06) which modernizes the accounting for internal-use software to current development practices, clarifies when to begin capitalizing costs, and enhances disclosure requirements. This update is effective for interim and annual periods beginning after December 15, 2027, with early adoption permitted. ASU 2025-06 is not expected to significantly change our current accounting for internal-use software.
+In December 2025, the FASB issued ASU 2025-10 "Accounting for Government Grants Received by Business Entities" (ASU 2025-10) to establish guidance on the recognition, measurement, and presentation of government grants received by business entities. The new guidance leverages the principles in the accounting framework for government assistance in International Accounting Standard 20 "Accounting for Government Grants and Disclosure of Government Assistance". The new guidance is effective for public business entities in annual periods beginning after December 15, 2028, with early adoption permitted. ASU 2025-10 is not expected to significantly change our current accounting for incentives from federal, state, and local governments.
+Note 3. Revenue
+The following table disaggregates our revenue by major source :
+Year Ended December 31, 2025
+GMNA GMI Corporate Total Automotive Cruise GM Financial Eliminations/ Reclassifications Total
+Vehicle, parts, and accessories $ 148,076 $ 12,290 $ 145 $ 160,511 $ — $ — $ — $ 160,511
+Used vehicles 1,700 37 — 1,737 — — — 1,737
+Services and other 4,541 1,100 82 5,723 1 — — 5,724
+Automotive net sales and revenue 154,317 13,427 227 167,970 1 — — 167,971
+Leased vehicle income — — — — — 7,800 — 7,800
+Finance charge income — — — — — 8,173 ( 4 ) 8,169
+Other income — — — — — 1,087 ( 8 ) 1,079
+GM Financial net sales and revenue — — — — — 17,060 ( 12 ) 17,048
+Net sales and revenue $ 154,317 $ 13,427 $ 227 $ 167,970 $ 1 $ 17,060 $ ( 12 ) $ 185,019
+65
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Year Ended December 31, 2024
+GMNA GMI Corporate Total Automotive Cruise GM Financial Eliminations/ Reclassifications Total
+Vehicle, parts, and accessories $ 152,306 $ 12,775 $ 90 $ 165,171 $ — $ — $ ( 1 ) $ 165,170
+Used vehicles 1,259 31 — 1,290 — — — 1,290
+Services and other 3,944 1,084 116 5,145 257 — ( 255 ) 5,147
+Automotive net sales and revenue 157,509 13,890 206 171,605 257 — ( 256 ) 171,606
+Leased vehicle income — — — — — 7,297 — 7,297
+Finance charge income — — — — — 7,669 ( 33 ) 7,636
+Other income — — — — — 910 ( 7 ) 903
+GM Financial net sales and revenue — — — — — 15,875 ( 40 ) 15,836
+Net sales and revenue $ 157,509 $ 13,890 $ 206 $ 171,605 $ 257 $ 15,875 $ ( 296 ) $ 187,442
+Year Ended December 31, 2023
+GMNA GMI Corporate Total Automotive Cruise GM Financial Eliminations/ Reclassifications Total
+Vehicle, parts, and accessories $ 136,983 $ 14,424 $ 113 $ 151,520 $ — $ — $ ( 10 ) $ 151,510
+Used vehicles 954 37 — 991 — — — 991
+Services and other 3,508 1,487 160 5,155 102 — ( 100 ) 5,157
+Automotive net sales and revenue 141,445 15,949 273 157,667 102 — ( 110 ) 157,658
+Leased vehicle income — — — — — 7,266 — 7,266
+Finance charge income — — — — — 6,204 ( 18 ) 6,187
+Other income — — — — — 754 ( 23 ) 732
+GM Financial net sales and revenue — — — — — 14,225 ( 41 ) 14,184
+Net sales and revenue $ 141,445 $ 15,949 $ 273 $ 157,667 $ 102 $ 14,225 $ ( 151 ) $ 171,842
+Revenue is measured as the amount of consideration we expect to receive in exchange for transferring goods or providing services. Adjustments to sales incentives for previously recognized sales were insignificant during the years ended December 31, 2025, 2024, and 2023.
+Contract liabilities in our Automotive operations primarily consist of vehicle connectivity, customer rewards programs, maintenance, extended warranty, and other contracts of $ 8.2 billion and $ 6.6 billion at December 31, 2025 and 2024, which are included in Accrued liabilities and Other liabilities. We recognized revenue of $ 2.6 billion and $ 2.0 billion related to contract liabilities during the years ended December 31, 2025 and 2024. We expect to recognize revenue of $ 2.6 billion, $ 1.5 billion, and $ 4.1 billion in the years ending December 31, 2026, 2027, and thereafter related to contract liabilities at December 31, 2025.
+66
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Note 4. Marketable and Other Securities
+The following table summarizes the fair value of cash equivalents and marketable debt securities, which approximates cost:
+Fair Value Level December 31, 2025 December 31, 2024
+Cash and cash equivalents
+Cash and time deposits $ 10,884 $ 12,471
+Available-for-sale debt securities
+U.S. government and agencies 2 451 26
+Corporate debt 2 3,317 1,541
+Sovereign debt 2 923 785
+Total available-for-sale debt securities cash equivalents 4,691 2,351
+Money market funds 1 5,369 5,050
+Total cash and cash equivalents $ 20,945 $ 19,872
+Marketable debt securities
+U.S. government and agencies 2 $ 2,370 $ 3,082
+Corporate debt and other 2 3,796 3,592
+Mortgage and asset-backed 2 558 591
+Total available-for-sale debt securities marketable securities $ 6,724 $ 7,265
+Restricted cash
+Cash and cash equivalents $ 357 $ 294
+Money market funds 1 2,981 2,798
+Total restricted cash $ 3,339 $ 3,092
+Available-for-sale debt securities included above with contractual maturities(a)
+Due in one year or less $ 5,863
+Due between one and five years 4,976
+Total available-for-sale debt securities with contractual maturities $ 10,839
+__________
+(a) Excludes mortgage and asset-backed securities as these securities are not due at a single maturity date.
+Proceeds from the sale of available-for-sale debt securities sold prior to maturity were $ 3.2 billion, $ 2.5 billion, and $ 2.1 billion in the years ended December 31, 2025, 2024, and 2023. Net unrealized gains on available-for-sale debt securities were insignificant in the years ended December 31, 2025 and 2024 and $ 196 million in the year ended December 31, 2023. Cumulative unrealized losses on available-for-sale debt securities were insignificant at December 31, 2025 and 2024.
+The following table provides a reconciliation of cash, cash equivalents, and restricted cash reported within the consolidated balance sheets to the total shown i

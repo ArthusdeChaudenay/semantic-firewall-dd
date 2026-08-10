@@ -1,0 +1,621 @@
+llows the successful efforts method of accounting for crude oil and natural gas exploration and production activities. Depreciation and depletion of all capitalized costs of proved crude oil and natural gas producing properties, except mineral interests, are expensed using the unit-of-production method, generally by individual field, as the proved developed reserves are produced. Depletion expenses for capitalized costs of proved mineral interests are recognized using the unit-of-production method by individual field as the related proved reserves are produced. As disclosed by management, variables impacting the Company's estimated volumes of proved crude oil, natural gas liquids (NGLs) and natural gas reserves include field performance, available technology, commodity prices, and development, production and carbon costs. Reserves are estimated by Company asset teams composed of earth scientists and engineers. As part of the internal control process related to reserves estimation, the Company maintains a Reserves Advisory Committee (RAC) (the Company's earth scientists, engineers and RAC are collectively referred to as "management's specialists").
+The principal considerations for our determination that performing procedures relating to the impact of proved developed crude oil and natural gas reserves on upstream property, plant, and equipment, net is a critical audit matter are (i) the significant judgment by management, including the use of management's specialists, when developing the estimates of proved developed crude oil and natural gas reserves, which in turn led to (ii) a high degree of auditor judgment, subjectivity, and effort in performing procedures and evaluating audit evidence obtained related to the data, methods, and assumptions used by management and its specialists in developing the estimates of proved developed crude oil and natural gas reserves.
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to management's estimates of proved developed crude oil and natural gas reserves. The work of management's specialists was used in performing the procedures to evaluate the reasonableness of the proved developed crude oil and natural gas reserves. As a basis for using this work, the specialists' qualifications were understood and the Company's relationship with the specialists was assessed. The procedures performed also included evaluation of the methods and assumptions used by the specialists, tests of data used by the specialists and an evaluation of the specialists' findings related to estimated future production volumes by comparing the estimate to relevant historical and current period information, as applicable.
+/s/ PricewaterhouseCoopers LLP
+San Francisco, California
+February 21, 2025
+We have served as the Company's auditor since 1935.
+63
+Consolidated Statement of Income Financial Table of Contents
+Millions of dollars, except per-share amounts
+Year ended December 31
+2024 2023 2022
+Revenues and Other Income
+Sales and other operating revenues $ 193,414 $ 196,913 $ 235,717
+Income (loss) from equity affiliates 4,596 5,131 8,585
+Other income (loss) 4,782 ( 1,095 ) 1,950
+Total Revenues and Other Income 202,792 200,949 246,252
+Costs and Other Deductions
+Purchased crude oil and products 119,206 119,196 145,416
+Operating expenses 27,464 24,887 24,714
+Selling, general and administrative expenses 4,834 4,141 4,312
+Exploration expenses 995 914 974
+Depreciation, depletion and amortization 17,282 17,326 16,319
+Taxes other than on income 4,716 4,220 4,032
+Interest and debt expense 594 469 516
+Other components of net periodic benefit costs 195 212 295
+Total Costs and Other Deductions 175,286 171,365 196,578
+Income (Loss) Before Income Tax Expense 27,506 29,584 49,674
+Income Tax Expense (Benefit) 9,757 8,173 14,066
+Net Income (Loss) 17,749 21,411 35,608
+Less: Net income (loss) attributable to noncontrolling interests 88 42 143
+Net Income (Loss) Attributable to Chevron Corporation $ 17,661 $ 21,369 $ 35,465
+Per Share of Common Stock
+Net Income (Loss) Attributable to Chevron Corporation
+- Basic $ 9.76 $ 11.41 $ 18.36
+- Diluted $ 9.72 $ 11.36 $ 18.28
+See accompanying Notes to the Consolidated Financial Statements.
+64
+Consolidated Statement of Comprehensive Income Financial Table of Contents
+Millions of dollars
+Year ended December 31
+2024 2023 2022
+Net Income (Loss) $ 17,749 $ 21,411 $ 35,608
+Currency translation adjustment
+Unrealized net change arising during period ( 67 ) 11 ( 41 )
+Unrealized holding gain (loss) on securities
+Net gain (loss) arising during period ( 8 ) 1 ( 1 )
+Derivatives
+Net derivatives gain (loss) on hedge transactions ( 50 ) ( 11 ) 65
+Reclassification to net income 25 33 ( 80 )
+Income tax benefit (cost) on derivatives transactions 6 ( 5 ) 3
+Total ( 19 ) 17 ( 12 )
+Defined benefit plans
+Actuarial gain (loss)
+Amortization to net income of net actuarial loss and settlements 247 244 599
+Actuarial gain (loss) arising during period 228 ( 550 ) 1,050
+Prior service credits (cost)
+Amortization to net income of net prior service costs and curtailments ( 10 ) ( 13 ) ( 19 )
+Prior service (costs) credits arising during period ( 48 ) ( 29 ) ( 96 )
+Defined benefit plans sponsored by equity affiliates - benefit (cost) ( 19 ) 6 100
+Income tax benefit (cost) on defined benefit plans ( 104 ) 151 ( 489 )
+Total 294 ( 191 ) 1,145
+Other Comprehensive Gain (Loss), Net of Tax 200 ( 162 ) 1,091
+Comprehensive Income (Loss) 17,949 21,249 36,699
+Comprehensive loss (income) attributable to noncontrolling interests ( 88 ) ( 42 ) ( 143 )
+Comprehensive Income (Loss) Attributable to Chevron Corporation $ 17,861 $ 21,207 $ 36,556
+See accompanying Notes to the Consolidated Financial Statements.
+65
+Consolidated Balance Sheet Financial Table of Contents
+Millions of dollars, except per-share amounts
+At December 31
+2024 2023
+Assets
+Cash and cash equivalents $ 6,781 $ 8,178
+Time deposits 4 —
+Marketable securities — 45
+Accounts and notes receivable (less allowance: 2024 - $ 259 ; 2023 - $ 301 )
+20,684 19,921
+Inventories:
+Crude oil and products 6,490 6,059
+Chemicals 502 406
+Materials, supplies and other 2,082 2,147
+Total inventories 9,074 8,612
+Prepaid expenses and other current assets 4,368 4,372
+Total Current Assets 40,911 41,128
+Long-term receivables, net (less allowances: 2024 - $ 352 ; 2023 - $ 340 )
+877 942
+Investments and advances 47,438 46,812
+Properties, plant and equipment, at cost 345,933 346,081
+Less: Accumulated depreciation, depletion and amortization 198,134 192,462
+Properties, plant and equipment, net 147,799 153,619
+Deferred charges and other assets 14,854 13,734
+Goodwill 4,578 4,722
+Assets held for sale 481 675
+Total Assets $ 256,938 $ 261,632
+Liabilities and Equity
+Short-term debt
+$ 4,406 $ 529
+Accounts payable 22,079 20,423
+Accrued liabilities 8,486 7,655
+Federal and other taxes on income 1,872 1,863
+Other taxes payable 1,715 1,788
+Total Current Liabilities 38,558 32,258
+Long-term debt 1
+20,135 20,307
+Deferred credits and other noncurrent obligations 22,094 24,226
+Noncurrent deferred income taxes 19,137 18,830
+Noncurrent employee benefit plans 3,857 4,082
+Total Liabilities 2
+$ 103,781 $ 99,703
+Preferred stock (authorized 100,000,000 shares; $ 1.00 par value; none issued)
+— —
+Common stock (authorized 6,000,000,000 shares; $ 0.75 par value; 2,442,676,580 shares
+issued at December 31, 2024 and 2023)
+1,832 1,832
+Capital in excess of par value 21,671 21,365
+Retained earnings 205,852 200,025
+Accumulated other comprehensive losses ( 2,760 ) ( 2,960 )
+Deferred compensation and benefit plan trust ( 240 ) ( 240 )
+Treasury stock, at cost (2024 - 673,664,306 shares; 2023 - 577,028,776 shares)
+( 74,037 ) ( 59,065 )
+Total Chevron Corporation Stockholders' Equity 152,318 160,957
+Noncontrolling interests (includes redeemable noncontrolling interest of $ 0 and $ 166 at December 31, 2024 and 2023)
+839 972
+Total Equity 153,157 161,929
+Total Liabilities and Equity $ 256,938 $ 261,632
+1 Includes finance lease liabilities of $ 546 and $ 574 at December 31, 2024 and 2023, respectively.
+2 Refer to Note 24 Other Contingencies and Commitments .
+See accompanying Notes to the Consolidated Financial Statements.
+66
+Consolidated Statement of Cash Flows Financial Table of Contents
+Millions of dollars
+Year ended December 31
+2024 2023 2022
+Operating Activities
+Net Income (Loss) $ 17,749 $ 21,411 $ 35,608
+Adjustments
+Depreciation, depletion and amortization 17,282 17,326 16,319
+Dry hole expense 429 436 486
+Distributions more (less) than income from equity affiliates ( 366 ) ( 885 ) ( 4,730 )
+Net before-tax gains on asset retirements and sales ( 1,685 ) ( 138 ) ( 550 )
+Net foreign currency effects ( 629 ) 578 ( 412 )
+Deferred income tax provision 1,240 298 2,124
+Net decrease (increase) in operating working capital 1,211 ( 3,185 ) 2,125
+Decrease (increase) in long-term receivables 114 150 153
+Net decrease (increase) in other deferred charges ( 1,225 ) ( 300 ) ( 212 )
+Cash contributions to employee pension plans ( 844 ) ( 1,120 ) ( 1,322 )
+Other ( 1,784 ) 1,038 13
+Net Cash Provided by Operating Activities 31,492 35,609 49,602
+Investing Activities
+Acquisition of businesses, net of cash received — 55 ( 2,862 )
+Capital expenditures ( 16,448 ) ( 15,829 ) ( 11,974 )
+Proceeds and deposits related to asset sales and returns of investment 7,704 669 2,635
+Net maturities of (investments in) time deposits ( 4 ) — —
+Net sales (purchases) of marketable securities 45 175 117
+Net repayment (borrowing) of loans by equity affiliates ( 233 ) ( 302 ) ( 24 )
+Net Cash Used for Investing Activities ( 8,936 ) ( 15,232 ) ( 12,108 )
+Financing Activities
+Net borrowings (repayments) of short-term obligations 4,868 135 263
+Proceeds from issuances of long-term debt 478 150 —
+Repayments of long-term debt and other financing obligations ( 1,778 ) ( 4,340 ) ( 8,742 )
+Cash dividends - common stock ( 11,801 ) ( 11,336 ) ( 10,968 )
+Net contributions from (distributions to) noncontrolling interests ( 195 ) ( 40 ) ( 114 )
+Net sales (purchases) of treasury shares ( 15,044 ) ( 14,678 ) ( 5,417 )
+Net Cash Provided by (Used for) Financing Activities ( 23,472 ) ( 30,109 ) ( 24,978 )
+Effect of Exchange Rate Changes on Cash, Cash Equivalents and Restricted Cash
+( 97 ) ( 114 ) ( 190 )
+Net Change in Cash, Cash Equivalents and Restricted Cash ( 1,013 ) ( 9,846 ) 12,326
+Cash, Cash Equivalents and Restricted Cash at January 1 9,275 19,121 6,795
+Cash, Cash Equivalents and Restricted Cash at December 31 $ 8,262 $ 9,275 $ 19,121
+See accompanying Notes to the Consolidated Financial Statements.
+67
+Consolidated Statement of Equity Financial Table of Contents
+Millions of dollars, except per-share amounts
+Acc. Other Treasury Chevron Corp.
+Common Retained Comprehensive Stock Stockholders' Noncontrolling Total
+Stock 1
+Earnings Income (Loss) ( at cost )
+Equity Interests Equity
+Balance at December 31, 2021 $ 18,874 $ 165,546 $ ( 3,889 ) $ ( 41,464 ) $ 139,067 $ 873 $ 139,940
+Treasury stock transactions 63 — — — 63 — 63
+Net income (loss) — 35,465 — — 35,465 143 35,608
+Cash dividends ($ 5.68 per share)
+— ( 10,968 ) — — ( 10,968 ) ( 118 ) ( 11,086 )
+Stock dividends — ( 3 ) — — ( 3 ) — ( 3 )
+Other comprehensive income — — 1,091 — 1,091 — 1,091
+Purchases of treasury shares — — — ( 11,255 ) ( 11,255 ) — ( 11,255 )
+Issuances of treasury shares 1,315 — — 4,523 5,838 — 5,838
+Other changes, net — ( 16 ) — — ( 16 ) 62 46
+Balance at December 31, 2022 $ 20,252 $ 190,024 $ ( 2,798 ) $ ( 48,196 ) $ 159,282 $ 960 $ 160,242
+Treasury stock transactions 174 — — — 174 — 174
+PDC Energy, Inc. acquisition 2,550 — — 3,970 6,520 — 6,520
+Net income (loss) — 21,369 — — 21,369 42 21,411
+Cash dividends ($ 6.04 per share)
+— ( 11,336 ) — — ( 11,336 ) ( 54 ) ( 11,390 )
+Stock dividends — ( 9 ) — — ( 9 ) — ( 9 )
+Other comprehensive income — — ( 162 ) — ( 162 ) — ( 162 )
+Purchases of treasury shares — — — ( 15,085 ) ( 15,085 ) — ( 15,085 )
+Issuances of treasury shares 17 — — 246 263 — 263
+Other changes, net ( 36 ) ( 23 ) — — ( 59 ) 24 ( 35 )
+Balance at December 31, 2023 $ 22,957 $ 200,025 $ ( 2,960 ) $ ( 59,065 ) $ 160,957 $ 972 $ 161,929
+Treasury stock transactions 255 — — — 255 — 255
+Net income (loss) — 17,661 — — 17,661 88 17,749
+Cash dividends ($ 6.52 per share)
+— ( 11,801 ) — — ( 11,801 ) ( 210 ) ( 12,011 )
+Stock dividends — ( 22 ) — — ( 22 ) — ( 22 )
+Other comprehensive income — — 200 — 200 — 200
+Purchases of treasury shares 2
+— — — ( 15,374 ) ( 15,374 ) — ( 15,374 )
+Issuances of treasury shares 51 — — 402 453 — 453
+Other changes, net — ( 11 ) — — ( 11 ) ( 11 ) ( 22 )
+Balance at December 31, 2024 $ 23,263 $ 205,852 $ ( 2,760 ) $ ( 74,037 ) $ 152,318 $ 839 $ 153,157
+Common Stock Share Activity
+Issued 3
+Treasury Outstanding
+Balance at December 31, 2021 2,442,676,580 ( 512,870,523 ) 1,929,806,057
+Purchases — ( 69,912,961 ) ( 69,912,961 )
+Issuances — 55,323,247 55,323,247
+Balance at December 31, 2022 2,442,676,580 ( 527,460,237 ) 1,915,216,343
+Purchases — ( 92,849,905 ) ( 92,849,905 )
+Issuances — 43,281,366 43,281,366
+Balance at December 31, 2023 2,442,676,580 ( 577,028,776 ) 1,865,647,804
+Purchases — ( 100,444,608 ) ( 100,444,608 )
+Issuances — 3,809,078 3,809,078
+Balance at December 31, 2024 2,442,676,580 ( 673,664,306 ) 1,769,012,274
+1 Beginning and ending balances for all periods include capital in excess of par, common stock issued at par for $ 1,832 , and $( 240 ) associated with Chevron's Benefit Plan Trust. Changes reflect capital in excess of par.
+2 Includes excise tax on share repurchases.
+3 Beginning and ending total issued share balances include 14,168,000 shares associated with Chevron's Benefit Plan Trust.
+See accompanying Notes to the Consolidated Financial Statements.
+68
+Notes to the Consolidated Financial Statements
+Financial Table of Contents
+Millions of dollars, except per-share amounts
+Note 1
+Summary of Significant Accounting Policies
+General The company's Consolidated Financial Statements are prepared in accordance with accounting principles generally accepted in the United States of America. These require the use of estimates and assumptions that affect the assets, liabilities, revenues and expenses reported in the financial statements, as well as amounts included in the notes thereto, including discussion and disclosure of contingent liabilities. Although the company uses its best estimates and judgments, actual results could differ from these estimates as circumstances change and additional information becomes known. Prior years' data have been reclassified in certain cases to conform to the 2024 presentation basis.
+Subsidiary and Affiliated Companies The Consolidated Financial Statements include the accounts of controlled subsidiary companies more than 50 percent-owned and any variable interest entities in which the company is the primary beneficiary. Undivided interests in oil and gas joint ventures and certain other assets are consolidated on a proportionate basis. Investments in and advances to affiliates in which the company has a substantial ownership interest of approximately 20 percent to 50 percent, or for which the company exercises significant influence but not control over policy decisions, are accounted for by the equity method.
+Investments in affiliates are assessed for possible impairment when events indicate that the fair value of the investment may be below the company's carrying value. When such a condition is deemed to be other than temporary, the carrying value of the investment is written down to its fair value, and the amount of the write-down is included in net income. In making the determination as to whether a decline is other than temporary, the company considers such factors as the duration and extent of the decline, the investee's financial performance, and the company's ability and intention to retain its investment for a period that will be sufficient to allow for any anticipated recovery in the investment's market value. The new cost basis of investments in these equity investees is not changed for subsequent recoveries in fair value.
+Differences between the company's carrying value of an equity investment and its underlying equity in the net assets of the affiliate are assigned to the extent practicable to specific assets and liabilities based on the company's analysis of the various factors giving rise to the difference. When appropriate, the company's share of the affiliate's reported earnings is adjusted quarterly to reflect the difference between these allocated values and the affiliate's historical book values.
+Noncontrolling Interests Ownership interests in the company's subsidiaries held by parties other than the parent are presented separately from the parent's equity on the Consolidated Balance Sheet. The amount of consolidated net income attributable to the parent and the noncontrolling interests are both presented on the face of the Consolidated Statement of Income and Consolidated Statement of Equity. Included within noncontrolling interest is redeemable noncontrolling interest.
+Fair Value Measurements The three levels of the fair value hierarchy of inputs the company uses to measure the fair value of an asset or a liability are as follows. Level 1 inputs are quoted prices in active markets for identical assets or liabilities. Level 2 inputs are inputs other than quoted prices included within Level 1 that are directly or indirectly observable for the asset or liability. Level 3 inputs are inputs that are not observable in the market.
+Derivatives The majority of the company's activity in derivative commodity instruments is intended to manage the financial risk posed by physical transactions. For some of this derivative activity, the company may elect to apply fair value or cash flow hedge accounting with changes in fair value recorded as components of accumulated other comprehensive income (loss). For other similar derivative instruments, generally because of the short-term nature of the contracts or their limited use, the company does not apply hedge accounting, and changes in the fair value of those contracts are reflected in current income. For the company's commodity trading activity, gains and losses from derivative instruments are reported in current income. The company may enter into interest rate swaps from time to time as part of its overall strategy to manage the interest rate risk on its debt. Interest rate swaps related to a portion of the company's fixed-rate debt, if any, may be accounted for as fair value hedges. Interest rate swaps related to floating-rate debt, if any, are recorded at fair value on the balance sheet with resulting gains and losses reflected in income. Where Chevron is a party to master netting arrangements, fair value receivable and payable amounts recognized for derivative instruments executed with the same counterparty are generally offset on the balance sheet.
+Inventories Crude oil, products and chemicals inventories are generally stated at cost, using a last-in, first-out method. In the aggregate, these costs are below market. "Materials, supplies and other" inventories are primarily stated at cost or net realizable value.
+69
+Notes to the Consolidated Financial Statements
+Financial Table of Contents
+Millions of dollars, except per-share amounts
+Properties, Plant and Equipment The successful efforts method is used for crude oil and natural gas exploration and production activities. All costs for development wells, related plant and equipment, proved mineral interests in crude oil and natural gas properties, and related asset retirement obligation (ARO) assets are capitalized. Costs of exploratory wells are capitalized pending determination of whether the wells found proved reserves. Costs of wells that are assigned proved reserves remain capitalized. Costs also are capitalized for exploratory wells that have found crude oil and natural gas reserves even if the reserves cannot be classified as proved when the drilling is completed, provided the exploratory well has found a sufficient quantity of reserves to justify its completion as a producing well and the company is making sufficient progress assessing the reserves and the economic and operating viability of the project. All other exploratory wells and costs are expensed. Refer to Note 21 Accounting for Suspended Exploratory Wells for additional discussion of accounting for suspended exploratory well costs.
+Long-lived assets to be held and used, including proved crude oil and natural gas properties, are assessed for possible impairment by comparing their carrying values with their associated undiscounted, future net cash flows. Events that can trigger assessments for possible impairments include write-downs of proved reserves based on field performance, significant decreases in the market value of an asset (including changes to the commodity price forecast or carbon costs), significant change in the extent or manner of use of or a physical change in an asset, and a more likely than not expectation that a long-lived asset or asset group will be sold or otherwise disposed of significantly sooner than the end of its previously estimated useful life. Impaired assets are written down to their estimated fair values, generally their discounted, future net cash flows. For proved crude oil and natural gas properties, the company performs impairment reviews on a country, concession, PSC, development area or field basis, as appropriate. In downstream, impairment reviews are performed on the basis of a refinery, a plant, a marketing/lubricants area or distribution area, as appropriate. Impairment amounts are recorded as incremental "Depreciation, depletion and amortization" expense.
+Long-lived assets that are held for sale are evaluated for possible impairment by comparing the carrying value of the asset with its fair value less the cost to sell. If the net book value exceeds the fair value less cost to sell, the asset is considered impaired and adjusted to the lower value. Refer to Note 9 Fair Value Measurements relating to fair value measurements.
+The fair value of a liability for an ARO is recorded as an asset and a liability when there is a legal obligation associated with the retirement of a long-lived asset and the amount can be reasonably estimated. Refer also to Note 25 Asset Retirement Obligations relating to AROs.
+Depreciation and depletion of all capitalized costs of proved crude oil and natural gas producing properties, except mineral interests, are expensed using the unit-of-production method, generally by individual field, as the proved developed reserves are produced. Depletion expenses for capitalized costs of proved mineral interests are recognized using the unit-of-production method by individual field as the related proved reserves are produced. Impairments of capitalized costs of unproved mineral interests are expensed.
+The capitalized costs of all other plant and equipment are depreciated or amortized over their estimated useful lives. In general, the declining-balance method is used to depreciate plant and equipment in the United States; the straight-line method is generally used to depreciate international plant and equipment and to amortize finance lease right-of-use assets.
+Gains or losses are not recognized for normal retirements of properties, plant and equipment subject to composite group amortization or depreciation. Gains or losses from abnormal retirements are recorded as expenses, and from sales as "Other income."
+Expenditures for maintenance (including those for planned major maintenance projects), repairs and minor renewals to maintain facilities in operating condition are generally expensed as incurred. Major replacements and renewals are capitalized.
+Leases Leases are classified as operating or finance leases. Both operating and finance leases recognize lease liabilities and associated right-of-use assets. The company has elected the short-term lease exception and therefore only recognizes right-of-use assets and lease liabilities for leases with a term greater than one year. The company has elected the practical expedient to not separate non-lease components from lease components for most asset classes except for certain asset classes that have significant non-lease (i.e., service) components.
+Where leases are used in joint ventures, the company recognizes 100 percent of the right-of-use assets and lease liabilities when the company is the sole signatory for the lease (in most cases, where the company is the operator of a joint venture). Lease costs reflect only the costs associated with the operator's working interest share. The lease term includes the committed lease term identified in the contract, taking into account renewal and termination options that management is
+70
+Notes to the Consolidated Financial Statements
+Financial Table of Contents
+Millions of dollars, except per-share amounts
+reasonably certain to exercise. The company uses its incremental borrowing rate as a proxy for the discount rate based on the term of the lease unless the implicit rate is available.
+Decommissioning Obligations from Previously Divested Assets Some assets are divested with their related liabilities, including decommissioning obligations, to a buyer that results in de-recognition of the liability from the balance sheet. In certain instances, such transferred obligations may return to the company and result in losses. To the extent the current owners of the company's previously divested assets default on their decommissioning obligations, regulators may require that Chevron assume such obligations. The company would accrue losses associated with these obligations when management determines the loss to be both probable and reasonably estimable. This typically requires judgment to assess the likelihood of decommissioning obligations reverting to the company, the timing of decommissioning activity, regulatory requirements and the scope of decommissioning activities. For more information on decommissioning obligations related to previously divested assets, refer to Note 24 Other Contingencies and Commitments .
+Goodwill Goodwill resulting from a business combination is not subject to amortization. The company tests such goodwill at the reporting unit level for impairment annually at December 31, or more frequently if an event occurs or circumstances change that would more likely than not reduce the fair value of the reporting unit below its carrying amount.
+Environmental Expenditures Environmental expenditures that relate to ongoing operations or to conditions caused by past operations are expensed. Expenditures that create future benefits or contribute to future revenue generation are capitalized.
+Liabilities related to future remediation costs are recorded when environmental assessments or cleanups or both are probable and the costs can be reasonably estimated. For crude oil, natural gas and mineral-producing properties, a liability for an ARO is made in accordance with accounting standards for asset retirement and environmental obligations. Refer to Note 25 Asset Retirement Obligations for a discussion of the company's AROs.
+For U.S. federal Superfund sites and analogous sites under state laws, the company records a liability for its designated share of the probable and estimable costs, and probable amounts for other potentially responsible parties when mandated by the regulatory agencies because the other parties are not able to pay their respective shares. The gross amount of environmental liabilities is based on the company's best estimate of future costs using currently available technology and applying current regulations and the company's own internal environmental policies. Future amounts are not discounted. Recoveries or reimbursements are recorded as assets when receipt is reasonably assured.
+Currency Translation The U.S. dollar is the functional currency for substantially all of the company's consolidated operations and those of its equity affiliates. For those operations, all gains and losses from currency remeasurement are included in current period income. The cumulative translation effects for those few entities, both consolidated and affiliated, using functional currencies other than the U.S. dollar are included in "Currency translation adjustment" on the Consolidated Statement of Equity.
+Revenue Recognition The company accounts for each delivery order of crude oil, NGLs, natural gas, petroleum and chemical products as a separate performance obligation. Revenue is recognized when the performance obligation is satisfied, which typically occurs at the point in time when control of the product transfers to the customer. Payment is generally due within 30 days of delivery. The company accounts for delivery transportation as a fulfillment cost, not a separate performance obligation, and recognizes these costs as an operating expense in the period when revenue for the related commodity is recognized.
+Revenue is measured as the amount the company expects to receive in exchange for transferring commodities to the customer. The company's commodity sales are typically based on prevailing market-based prices and may include discounts and allowances. Until market prices become known under terms of the company's contracts, the transaction price included in revenue is based on the company's estimate of the most likely outcome.
+Discounts and allowances are estimated using a combination of historical and recent data trends. When deliveries contain multiple products, an observable standalone selling price is generally used to measure revenue for each product. The company includes estimates in the transaction price only to the extent that a significant reversal of revenue is not probable in subsequent periods.
+Stock Options and Other Share-Based Compensation The company issues stock options and other share-based compensation to certain employees. For equity awards, such as stock options and certain restricted stock units, total compensation cost is based on the grant date fair value, and for liability awards, such as stock appreciation rights, total compensation cost is based on the settlement value. The company recognizes stock-based compensation expense for all awards over the service period required to earn the award, which is the shorter of the vesting period or the time period in
+71
+Notes to the Consolidated Financial Statements
+Financial Table of Contents
+Millions of dollars, except per-share amounts
+which an employee becomes eligible to retain the award at retirement. For more information on stock options and other share-based compensation, refer to Note 22 Stock Options and Other Share-Based Compensation .
+Note 2
+Changes in Accumulated Other Comprehensive Losses
+The change in Accumulated Other Comprehensive Losses (AOCL) presented on the Consolidated Balance Sheet and the impact of significant amounts reclassified from AOCL on information presented in the Consolidated Statement of Income for the year ended December 31, 2024, are reflected in the table below.
+Currency Translation Adjustments Unrealized Holding Gains (Losses) on Securities Derivatives Defined Benefit Plans Total
+Balance at December 31, 2021 $ ( 162 ) $ ( 11 ) $ — $ ( 3,716 ) $ ( 3,889 )
+Components of Other Comprehensive Income (Loss) 1 :
+Before Reclassifications
+( 41 ) ( 1 ) 68 703 729
+Reclassifications 2, 3
+— — ( 80 ) 442 362
+Net Other Comprehensive Income (Loss)
+( 41 ) ( 1 ) ( 12 ) 1,145 1,091
+Balance at December 31, 2022 $ ( 203 ) $ ( 12 ) $ ( 12 ) $ ( 2,571 ) $ ( 2,798 )
+Components of Other Comprehensive Income (Loss) 1 :
+Before Reclassifications
+11 1 ( 16 ) ( 397 ) ( 401 )
+Reclassifications 2, 3
+— — 33 206 239
+Net Other Comprehensive Income (Loss) 11 1 17 ( 191 ) ( 162 )
+Balance at December 31, 2023 $ ( 192 ) $ ( 11 ) $ 5 $ ( 2,762 ) $ ( 2,960 )
+Components of Other Comprehensive Income (Loss) 1 :
+Before Reclassifications
+( 67 ) ( 8 ) ( 44 ) 119 —
+Reclassifications 2, 3
+— — 25 175 200
+Net Other Comprehensive Income (Loss) ( 67 ) ( 8 ) ( 19 ) 294 200
+Balance at December 31, 2024 $ ( 259 ) $ ( 19 ) $ ( 14 ) $ ( 2,468 ) $ ( 2,760 )
+1 All amounts are net of tax.
+2 Refer to Note 23 Employee Benefit Plans , for reclassified components, including amortization of actuarial gains or losses, amortization of prior service costs and settlement losses, totaling $ 237 that are included in employee benefit costs for the year ended December 31, 2024. Related income taxes for the same period, totaling $ 62 , are reflected in Income Tax Expense on the Consolidated Statement of Income. All other reclassified amounts were insignificant.
+3 Refer to Note 10 Financial and Derivative Instruments for cash flow hedging.
+72
+Notes to the Consolidated Financial Statements
+Financial Table of Contents
+Millions of dollars, except per-share amounts
+Note 3
+Information Relating to the Consolidated Statement of Cash Flows
+Year ended December 31
+2024 2023 2022
+Distributions more (less) than income from equity affiliates includes the following:
+Distributions from equity affiliates $ 4,230 $ 4,246 $ 3,855
+(Income) loss from equity affiliates ( 4,596 ) ( 5,131 ) ( 8,585 )
+Distributions more (less) than income from equity affiliates $ ( 366 ) $ ( 885 ) $ ( 4,730 )
+Net decrease (increase) in operating working capital was composed of the following:
+Decrease (increase) in accounts and notes receivable $ ( 932 ) $ 1,187 $ ( 2,317 )
+Decrease (increase) in inventories ( 574 ) ( 320 ) ( 930 )
+Decrease (increase) in prepaid expenses and other current assets ( 16 ) ( 1,202 ) ( 226 )
+Increase (decrease) in accounts payable and accrued liabilities 2,569 ( 49 ) 2,750
+Increase (decrease) in income and other taxes payable 164 ( 2,801 ) 2,848
+Net decrease (increase) in operating working capital $ 1,211 $ ( 3,185 ) $ 2,125
+Net cash provided by operating activities includes the following cash payments:
+Interest on debt (net of capitalized interest) $ 587 $ 465 $ 525
+Income taxes 8,458 10,416 9,148
+Proceeds and deposits related to asset sales and returns of investment consisted of the following gross amounts:
+Proceeds and deposits related to asset sales $ 7,509 $ 446 $ 1,435
+Returns of investment from equity affiliates 195 223 1,200
+Proceeds and deposits related to asset sales and returns of investment $ 7,704 $ 669 $ 2,635
+Net maturities (investments) of time deposits consisted of the following gross amounts:
+Investments in time deposits $ ( 6 ) $ — $ —
+Maturities of time deposits 2 — —
+Net maturities of (investments in) time deposits $ ( 4 ) $ — $ —
+Net sales (purchases) of marketable securities consisted of the following gross amounts:
+Marketable securities purchased $ — $ ( 289 ) $ ( 7 )
+Marketable securities sold 45 464 124
+Net sales (purchases) of marketable securities $ 45 $ 175 $ 117
+Net repayment (borrowing) of loans by equity affiliates:
+Borrowing of loans by equity affiliates $ ( 304 ) $ ( 368 ) $ ( 108 )
+Repayment of loans by equity affiliates 71 66 84
+Net repayment (borrowing) of loans by equity affiliates $ ( 233 ) $ ( 302 ) $ ( 24 )
+Net borrowings (repayments) of short-term obligations consisted of the following gross and net amounts:
+Repayments of short-term obligations $ ( 840 ) $ — $ —
+Proceeds from issuances of short-term debt obligations 4,539 — —
+Net borrowings (repayments) of short-term obligations with three months or less maturity 1,169 135 263
+Net borrowings (repayments) of short-term obligations $ 4,868 $ 135 $ 263
+Net sales (purchases) of treasury shares consists of the following gross and net amounts:
+Shares issued for share-based compensation plans $ 330 $ 261 $ 5,838
+Shares purchased under share repurchase and deferred compensation plans ( 15,229 ) ( 14,939 ) ( 11,255 )
+Share repurchase excise tax payments ( 145 ) — —
+Net sales (purchases) of treasury shares $ ( 15,044 ) $ ( 14,678 ) $ ( 5,417 )
+Net contributions from (distributions to) noncontrolling interests consisted of the following gross and net amounts:
+Distributions to noncontrolling interests $ ( 210 ) $ ( 54 ) $ ( 118 )
+Contributions from noncontrolling interests 15 14 4
+Net contributions from (distributions to) noncontrolling interests $ ( 195 ) $ ( 40 ) $ ( 114 )
+The "Other" line in the Operating Activities section includes changes in asset retirement obligations, decommissioning obligations associated with previously divested assets, post-employment benefit obligations and other long-term liabilities. Refer also to Note 25 Asset Retirement Obligations for a discussion of the company's AROs activity, including revisions that did not involve cash receipts or payments .
+The Consolidated Statement of Cash Flows excludes changes to the Consolidated Balance Sheet that did not affect cash. "Depreciation, depletion and amortization" and "Deferred income tax provision" collectively include approximately $ 400
+73
+Notes to the Consolidated Financial Statements
+Financial Table of Contents
+Millions of dollars, except per-share amounts
+in non-cash reductions to "Properties, plant and equipment" and "Investments and advances" in 2024 relating to impairments. "Operating expenses" and "Deferred income tax provision" include an approximately $ 715 severance charge related to non-cash increases to "Net decrease (increase) in operating working capital" and "Other" associated with employee severance. The cash outlay for severance payments is expected to take place through 2026.
+The components of "Capital expenditures" are presented in the following table:
+Year ended December 31
+2024 2023 2022
+Additions to properties, plant and equipment *
+$ 15,544 $ 14,788 $ 10,349
+Additions to investments 573 690 1,147
+Current-year dry hole expenditures 331 326 309
+Payments for other assets and liabilities, net
+— 25 169
+Capital expenditures $ 16,448 $ 15,829 $ 11,974
+* Excludes non-cash movements of $ 395 in 2024, $ 1,559 in 2023 and $ 316 in 2022.
+The table below quantifies the beginning and ending balances of restricted cash and restricted cash equivalents in the Consolidated Balance Sheet:
+Year ended December 31
+2024 2023 2022
+Cash and cash equivalents
+$ 6,781 $ 8,178 $ 17,678
+Restricted cash included in "Prepaid expenses and other current assets"
+281 275 630
+Restricted cash included in "Deferred charges and other assets"
+1,200 822 813
+Total cash, cash equivalents and restricted cash
+$ 8,262 $ 9,275 $ 19,121
+Note 4
+New Accounting Standards
+Segment Reporting (Topic 280) Improvements to Reportable Segment Disclosures The company has adopted the Financial Accounting Standards Board (FASB) Accounting Standard Update (ASU) 2023-07 which is effective for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024. The standard requires companies to disclose significant segment expenses. The adoption of this ASU did not have an impact on the company's consolidated financial position or results of operations. For additional information, refer to Note 14 Operating Segments and Geographic Data .
+Income Taxes (Topic 740) Improvements to Income Tax Disclosures In December 2023, the FASB issued ASU 2023-09, which becomes effective for fiscal years beginning after December 15, 2024. The standard requires companies to disclose specific categories in the income tax rate reconciliation table and the amount of income taxes paid per major jurisdiction. The company does not expect the standard to have a material effect on its consolidated financial statements and continues to evaluate disclosure presentation alternatives.
+Income Statement (Topic 220) Reporting Comprehensive Income - Expense Disaggregation Disclosures In November 2024, the FASB issued ASU 2024-03, which becomes effective for fiscal years beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027. The standard requires companies to disclose disaggregated information about certain income statement expense line items. The company does not expect the standard to have a material effect on its consolidated financial statements and has begun evaluating disclosure presentation alternatives.
+Note 5
+Lease Commitments
+The company enters into leasing arrangements as a lessee; any lessor arrangements are not significant. Operating lease arrangements mainly involve land, bareboat charters, terminals, drill ships, drilling rigs, time chartered vessels, office buildings and warehouses, and exploration and production equipment. Finance leases primarily include facilities, vessels and office buildings.
+74
+Notes to the Consolidated Financial Statements
+Financial Table of Contents
+Millions of dollars, except per-share amounts
+Details of the right-of-use assets and lease liabilities for operating and finance leases, including the balance sheet presentation, are as follows:
+At December 31, 2024 At December 31, 2023
+Operating
+Leases Finance
+Leases Operating
+Leases Finance
+Leases
+Deferred charges and other assets $ 5,315 $ — $ 5,422 $ —
+Properties, plant and equipment, net — 570 — 583
+Right-of-use assets* $ 5,315 $ 570 $ 5,422 $ 583
+Accrued liabilities $ 1,519 $ — $ 1,538 $ —
+Short-term debt — 58 — 60
+Current lease liabilities 1,519 58 1,538 60
+Deferred credits and other noncurrent obligations 3,551 — 3,696 —
+Long-term debt — 546 — 574
+Noncurrent lease liabilities 3,551 546 3,696 574
+Total lease liabilities
+$ 5,070 $ 604 $ 5,234 $ 634
+Weighted-average remaining lease term (in years) 6.3 13.2 6.7 12.6
+Weighted-average discount rate 3.7 % 4.6 % 3.3 % 4.5 %
+* Includes non-cash additions of $ 2,205 and $ 40 in 2024, and $ 2,556 and $ 233 in 2023 for right-of-use assets obtained in exchange for new and modified lease liabilities for operating and finance leases, respectively.
+Total lease costs consist of both amounts recognized in the Consolidated Statement of Income during the period and amounts capitalized as part of the cost of another asset. Total lease costs incurred for operating and finance leases were as follows:
+Year-ended December 31
+2024 2023 2022
+Operating lease costs* $ 3,447 $ 2,984 $ 2,359
+Finance lease costs 83 52 57
+Total lease costs
+$ 3,530 $ 3,036 $ 2,416
+* Includes variable and short-term lease costs.
+Cash paid for amounts included in the measurement of lease liabilities was as follows:
+Year-ended December 31
+2024 2023 2022
+Operating cash flows from operating leases $ 2,468 $ 2,271 $ 1,892
+Investing cash flows from operating leases 979 713 467
+Operating cash flows from finance leases 26 15 18
+Financing cash flows from finance leases 67 42 44
+At December 31, 2024, the estimated future undiscounted cash flows for operating and finance leases were as follows:
+At December 31, 2024
+Operating Leases Finance
+Leases
+Year 2025 $ 1,665 $ 83
+2026 1,162 80
+2027 833 73
+2028 555 69
+2029 275 64
+Thereafter 1,276 445
+Total $ 5,766 $ 814
+Less: Amounts representing interest 696 210
+Total lease liabilities
+$ 5,070 $ 604
+Additionally, the company has $ 403 in future undiscounted cash flows for operating leases not yet commenced. These leases are primarily for drilling rigs, time chartered vessels, exploration and production equipment and storage tanks. For
+75
+Notes to the Consolidated Financial Statements
+Financial Table of Contents
+Millions of dollars, except per-share amounts
+those leasing arrangements where the underlying asset is not yet constructed, the lessor is primarily involved in the design and construction of the asset.
+Note 6
+Summarized Financial Data Chevron U.S.A. Inc.
+Chevron U.S.A. Inc. (CUSA) is a major subsidiary of Chevron Corporation. CUSA and its subsidiaries manage and operate most of Chevron's U.S. businesses. Assets include those related to the exploration and production of crude oil, natural gas, and natural gas liquids (NGLs) and those associated with the refining, marketing, supply and distribution of products derived from petroleum, excluding most of the regulated pipeline operations of Chevron. CUSA also holds the company's investment in the Chevron Phillips Chemical Company LLC joint venture, which is accounted for using the equity method. The summarized financial information for CUSA and its consolidated subsidiaries is as follows:
+Year ended December 31
+2024 2023 2022
+Sales and other operating revenues
+$ 149,925 $ 152,347 $ 183,032
+Total costs and other deductions
+145,582 144,482 166,955
+Net income (loss) attributable to CUSA
+4,151 4,598 13,315
+At December 31
+2024 2023
+Current assets $ 20,153 $ 19,489
+Other assets 58,485 54,460
+Current liabilities 25,825 20,624
+Other liabilities 21,455 22,227
+Total CUSA net equity $ 31,358 $ 31,098
+Memo: Total debt $ 8,917 $ 9,740
+Note 7
+Summarized Financial Data Tengizchevroil LLP
+Chevron has a 50 percent equity ownership interest in Tengizchevroil LLP (TCO). Refer to Note 15 Investments and Advances for a discussion of TCO operations. Summarized financial information for 100 percent of TCO is presented in the table below:
+Year ended December 31
+2024 2023 2022
+Sales and other operating revenues $ 18,872 $ 19,758 $ 23,975
+Costs and other deductions 10,616 10,193 11,956
+Net income attributable to TCO 5,779 6,569 8,566
+At December 31
+2024 2023
+Current assets $ 4,753 $ 3,919
+Other assets 58,057 57,454
+Current liabilities 3,203 2,372
+Other liabilities 12,459 12,782
+Total TCO net equity $ 47,148 $ 46,219
+Note 8
+Restructuring and Reorganization Costs
+In 2024, the company announced plans to achieve $ 2 - 3 billion in structural cost reductions by the end of 2026. As a result, the company recorded severance accruals during fourth quarter 2024 for employee reduction programs related to an enterprise-wide restructuring, which is expected to be substantially completed by the end of 2026.
+A charge of $ 980 was recorded in fourth quarter 2024, with $ 706 reported as " Operating expenses " and $ 274 reported as "Selling, general and administrative expenses" on the Consolidated Statement of Income. Approximately $ 240 is associated with employee reductions in U.S. Upstream, $ 197 in International Upstream, $ 247 in U.S. Downstream, $ 22 in International Downstream and $ 274 in All Other. Approximately $ 560 is classified as current and $ 430 is classified as long-term on the Consolidated Balance Sheet at December 31, 2024.
+76
+Notes to the Consolidated Financial Statements
+Financial Table of Contents
+Millions of dollars, except per-share amounts
+The following table summarizes the accrued severance liability.
+Amounts Before Tax
+Balance at January 1, 2024 $ 6
+Accruals/Adjustments 987
+Payments ( 3 )
+Balance at December 31, 2024 $ 990
+Note 9
+Fair Value Measurements
+Marketable Securities The company calculates fair value for its marketable securities based on quoted market prices for identical assets. The fair values reflect the cash that would have been received if the instruments were sold at December 31, 2024.
+Derivatives The company records most of its derivative instruments other than any commodity derivative contracts that are accounted for as normal purchase and normal sale on the Consolidated Balance Sheet at fair value, with the offsetting amount to the Consolidated Statement of Income. The company designates certain derivative instruments as cash flow hedges, if applicable. Derivatives classified as Level 1 include futures, swaps and options contracts valued using quoted prices from active markets such as the New York Mercantile Exchange. Derivatives classified as Level 2 include swaps, options and forward contracts, the fair values of which are obtained from third-party broker quotes, industry pricing services and exchanges. The company obtains multiple sources of pricing information for the Level 2 instruments. Since this pricing information is generated from observable market data, it has historically been very consistent. The company does not materially adjust this information.
+Properties, Plant and Equipment In 2024, the company did not have any individually material impairments of long lived assets measured at fair value on a nonrecurring basis. In 2023, the company impaired a portion of its U.S. upstream assets, primarily in California, due to continuing regulatory challenges in the state that have resulted in lower anticipated future investment levels in its business plans.
+Investments and Advances The company did not have any material impairments of investments and advances measured at fair value on a nonrecurring basis to report in 2024 or 2023.
+The tables below show the fair value hierarchy for assets and liabilities measured at fair value on a recurring and nonrecurring basis at December 31, 2024 and 2023.
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+At December 31, 2024 At December 31, 2023
+Total Level 1 Level 2 Level 3 Total Level 1 Level 2 Level 3
+Marketable securities $ — $ — $ — $ — $ 45 $ 45 $ — $ —
+Derivatives - not designated 137 127 10 — 152 24 128 —
+Derivatives - designated — — — — 7 7 — —
+Total assets at fair value $ 137 $ 127 $ 10 $ — $ 204 $ 76 $ 128 $ —
+Derivatives - not designated 136 47 89 — 262 160 102 —
+Derivatives - designated 17 17 — — — — — —
+Total liabilities at fair value $ 153 $ 64 $ 89 $ — $ 262 $ 160 $ 102 $ —
+Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis
+At December 31 At December 31
+Before-Tax Loss Before-Tax Loss
+Total Level 1 Level 2 Level 3 Year 2024 Total Level 1 Level 2 Level 3 Year 2023
+Properties, plant and equipment, net (held and used) $ 324 $ — $ — $ 324 $ 226 $ 484 $ — $ — $ 484 $ 2,175
+Properties, plant and equipment, net (held for sale) 616 — 616 — 274 — — — — 5
+Investments and advances 36 — 36 — 289 207 5 165 37 352
+Total nonrecurring assets at fair value $ 976 $ — $ 652 $ 324 $ 789 $ 691 $ 5 $ 165 $ 521 $ 2,532
+77
+Notes to the Consolidated Financial Statements
+Financial Table of Contents
+Millions of dollars, except per-share amounts
+At year-end 2024, the company had assets measured at fair value Level 3 using unobservable inputs of $ 324 . The carrying value of these assets were written down to fair value based on estimates derived from discounted cash flow models. Cash flows were determined using estimates of future production, an outlook of future price based on published prices and a discount rate believed to be consistent with those used by principal market participants.
+Assets and Liabilities Not Required to Be Measured at Fair Value The company holds cash equivalents in U.S. and non-U.S. portfolios. The instruments classified as cash equivalents are primarily bank time deposits with maturities of 90 days or less and money market funds. "Cash and cash equivalents" had carrying/fair values of $ 6,781 and $ 8,178 at December 31, 2024, and December 31, 2023, respectively. The fair values of cash and cash equivalents are classified as Level 1 and reflect the cash that would have been received if the instruments were settled at December 31, 2024.
+"Cash and cash equivalents" do not include investments with a carrying/fair value of $ 1,481 and $ 1,097 at December 31, 2024, and December 31, 2023, respectively. At December 31, 2024, these investments are classified as Level 1 and include restricted funds mainly related to certain upstream decommissioning activities, a tax-deferred transaction and financing programs.
+Long-term debt, excluding finance lease liabilities, of $ 10,810 and $ 14,612 at December 31, 2024, and December 31, 2023, respectively, had estimated fair values of $ 9,791 and $ 13,709 , respectively. Long-term debt primarily includes corporate issued bonds. At December 31, 2024, the fair value of corporate bonds is $ 9,243 and classified as Level 1 and the fair value of other long-term debt classified as Level 2 is $ 548 .
+The carrying values of other short-term financial assets and liabilities on the Consolidated Balance Sheet approximate their fair values. Fair value remeasurements of other financial instruments at December 31, 2024 and 2023, were not material.
+Note 10
+Financial and Derivative Instruments
+Derivative Commodity Instruments The company's derivative commodity instruments principally include crude oil, natural gas, liquefied natural gas and refined product futures, swaps, options, and forward contracts. The company applies cash flow hedge accounting to certain commodity transactions, where appropriate, to manage the market price risk associated with forecasted sales of crude oil. The company's derivatives are not material to the company's financial position, results of operations or liquidity. The company believes it has no material market or credit risks to its operations, financial position or liquidity as a result of its commodity derivative activities.
+The company uses derivative commodity instruments traded on the New York Mercantile Exchange and on electronic platforms of the Inter-Continental Exchange and Chicago Mercantile Exchange. In addition, the company enters into swap contracts and option contracts principally with major financial institutions and other oil and gas companies in the "over-the-counter" markets, which are governed by International Swaps and Derivatives Association agreements and other master netting arrangements. Depending on the nature of the derivative transactions, bilateral collateral arrangements may also be required.
+Derivative instruments measured at fair value at December 31, 2024, 2023 and 2022, and their classification on the Consolidated Balance Sheet and Consolidated Statement of Income are as follows:
+Consolidated Balance Sheet: Fair Value of Derivatives
+At December 31
+Type of Contract Balance Sheet Classification 2024 2023
+Commodity Accounts and notes receivable $ 122 $ 151
+Commodity Long-term receivables, net
+15 8
+Total assets at fair value $ 137 $ 159
+Commodity Accounts payable $ 127 $ 216
+Commodity Deferred credits and other noncurrent obligations
+26 46
+Total liabilities at fair value $ 153 $ 262
+78
+Notes to the Consolidated Financial Statements
+Financial Table of Contents
+Millions of dollars, except per-share amounts
+Consolidated Statement of Income: The Effect of Derivatives
+Gain/(Loss)
+Year ended December 31
+Type of Contract Statement of Income Classification 2024 2023 2022
+Commodity Sales and other operating revenues $ ( 57 ) $ ( 304 ) $ ( 651 )
+Commodity Purchased crude oil and products
+28 ( 154 ) ( 226 )
+Commodity Other income (loss) 6 ( 47 ) 10
+$ ( 23 ) $ ( 505 ) $ ( 867 )
+The amount reclassified from AOCL to "Sales and other operating revenues" from designated hedges was a net loss of $ 25 in 2024, compared with a net loss of $ 33 in the prior year. At December 31, 2024, before-tax deferred losses in AOCL related to outstanding crude oil price hedging contracts were $ 17 , all of which is expected to be reclassified into earnings during the next 12 months as the hedged crude oil sales are recognized in earnings.
+The table below represents gross and net derivative assets and liabilities subject to netting agreements on the Consolidated Balance Sheet at December 31, 2024 and 2023.
+Consolidated Balance Sheet: The Effect of Netting Derivative Assets and Liabilities
+Gross Amounts Recognized Gross Amounts Offset Net Amounts Presented Gross Amounts Not Offset Net Amounts
+At December 31, 2024
+Derivative Assets - not designated $ 1,895 $ 1,758 $ 137 $ 3 $ 134
+Derivative Assets - designated $ — $ — $ — $ — $ —
+Derivative Liabilities - not designated $ 1,894 $ 1,758 $ 136 $ 2 $ 134
+Derivative Liabilities - designated $ 17 $ — $ 17 $ — $ 17
+At December 31, 2023
+Derivative Assets - not designated $ 2,394 $ 2,242 $ 152 $ 4 $ 148
+Derivative Assets - designated $ 8 $ 1 $ 7 $ — $ 7
+Derivative Liabilities - not designated $ 2,504 $ 2,242 $ 262 $ 15 $ 247
+Derivative Liabilities - designated $ 1 $ 1 $ — $ — $ —
+Derivative assets and liabilities are classified on the Consolidated Balance Sheet as "Accounts and notes receivable," "Long-term receivables," "Accounts payable," and "Deferred credits and other noncurrent obligations." Amounts not offset on the Consolidated Balance Sheet represent positions that do not meet all the conditions for "a right of offset."
+Concentrations of Credit Risk The company's financial instruments that are exposed to concentrations of credit risk consist primarily of its cash equivalents, marketable securities, derivative financial instruments and trade receivables. The company's short-term investments are placed with a wide array of financial institutions with high credit ratings. Company investment policies limit the company's exposure both to credit risk and to concentrations of credit risk. Similar policies on diversification and creditworthiness are applied to the company's counterparties in derivative instruments. For a discussion of credit risk on trade receivables, see Note 28 Financial Instruments - Credit Losses .
+Note 11
+Assets Held for Sale
+At December 31, 2024, the company classifie d $ 481 of net properties, plant and equipment as "Assets held for sale" on the Consolidated Balance Sheet. These assets are associated with upstream and downstream operations that were sold in early 2025, or are anticipated to be sold in the next 12 months. The revenues and earnings contributions of these assets in 2024 were not material.
+Note 12
+Equity
+Retained earnings at December 31, 2024 and 2023, included $ 35,349 and $ 34,359 , respectively, for the company's share of undistributed earnings of equity affiliates.
+At December 31, 2024, about 96 million shares of Chevron's common stock remained available for issuance from the 104 million shares that were reserved for issuance under the 2022 Chevron Long-Term Incentive Plan. In addition, 559,513 shares remain available for issuance from the 1,600,000 shares of the company's common stock that were reserved for awards under the Chevron Corporation Non-Employee Directors' Equity Compensation and Deferral Plan.
+79
+Notes to the Consolidated Financial Statements
+Financial Table of Contents
+Millions of dollars, except per-share amounts
+Note 13
+Earnings Per Share
+Basic earnings per share (EPS) is based upon "Net Income (Loss) Attributable to Chevron Corporation" ("earnings") and includes the effects of deferrals of salary and other compensation awards that are invested in Chevron stock units by certain officers and employees of the company. Diluted EPS includes the effects of these items as well as the dilutive effects of outstanding stock options awarded under the company's stock option programs (refer to Note 22 Stock Options and Other Share-Based Compensation ). The table below sets forth the computation of basic and diluted EPS:
+Year ended December 31
+2024 2023 2022
+Basic EPS Calculation
+Earnings available to common stockholders - Basic *
+$ 17,661 $ 21,369 $ 35,465
+Weighted-average number of common shares outstanding 1,810 1,873 1,931
+Add: Deferred awards held as stock units
+— — —
+Total weighted-average number of common shares outstanding 1,810 1,873 1,931
+Earnings per share of common stock - Basic $ 9.76 $ 11.41 $ 18.36
+Diluted EPS Calculation
+Earnings available to common stockholders - Diluted *
+$ 17,661 $ 21,369 $ 35,465
+Weighted-average number of common shares outstanding 1,810 1,873 1,931
+Add: Deferred awards held as stock units
+— — —
+Add: Dilutive effect of employee stock-based awards
+7 7 9
+Total weighted-average number of common shares outstanding 1,817 1,880 1,940
+Earnings per share of common stock - Diluted $ 9.72 $ 11.36 $ 18.28
+* There was no effect of dividend equivalents paid on stock units or dilutive impact of employee stock-based awards on earnings.
+Note 14
+Operating Segments and Geographic Data
+Although each subsidiary of Chevron is responsible for its own affairs, Chevron Corporation manages its investments in these subsidiaries and their affiliates. The investments are grouped into two business segments, Upstream and Downstream, representing the company's "reportable segments" and "operating segments." Upstream operations consist primarily of exploring for, developing, producing and transporting crude oil and natural 

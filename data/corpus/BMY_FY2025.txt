@@ -1,0 +1,449 @@
+l other variables held constant) would decrease the fair value of foreign exchange contracts by $428 million and $455 million as of December 31, 2025 and December 31, 2024, respectively, reducing earnings over the remaining life of the contracts.
+Cross-currency swap contracts are used to manage risk arising from long-term debt denominated in euros and to hedge the Company's net investment in its foreign subsidiaries. We estimate that a 10% appreciation in the underlying currencies being hedged from their levels against the U.S. dollar (with all other variables held constant) would decrease the fair value of cross-currency swap contracts by $8 million as of December 31, 2025 and increase the fair value of cross-currency swap contracts by $49 million as of December 31, 2024.
+For additional information, refer to "Item 8. Financial Statements and Supplementary Data—Note 9. Financial Instruments and Fair Value Measurements."
+71
+Interest Rate Risk
+We use fixed-to-floating interest rate swap contracts designated as fair value hedges to provide an appropriate balance of fixed and floating rate debt. We use cross-currency swap contracts designated to manage risk arising from long-term debt denominated in euros and to hedge the Company's net investment in its foreign subsidiaries. The fair values of these contracts as well as our marketable debt securities are analyzed at year-end to determine their sensitivity to interest rate changes. In this sensitivity analysis, if there was a 1% increase in short-term or long-term interest rates as of December 31, 2025 and December 31, 2024, the expected adverse impact on our earnings would not be material.
+We estimate that an increase of 1% in long-term interest rates as of December 31, 2025 and December 31, 2024 would decrease the fair value of long-term debt by $3.5 billion and $3.6 billion, respectively.
+Credit Risk
+We monitor our investments with counterparties with the objective of minimizing concentrations of credit risk. Our investment policy is to invest only in institutions that meet high credit quality standards and establishes limits on the amount and time to maturity of investments with any individual counterparty. The policy also requires that investments are only entered into with corporate and financial institutions that meet high credit quality standards.
+The use of derivative instruments exposes us to credit risk if the counterparty fails to perform when the fair value of a derivative instrument contract is positive. If the counterparty fails to perform, collateral is not required by any party whether derivatives are in an asset or liability position. We have a policy of diversifying derivatives with counterparties to mitigate the overall risk of counterparty defaults. For additional information, refer to "Item 8. Financial Statements and Supplementary Data—Note 9. Financial Instruments and Fair Value Measurements."
+72
+Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+BRISTOL-MYERS SQUIBB COMPANY
+CONSOLIDATED STATEMENTS OF EARNINGS
+Dollars in millions, except per share data
+Year Ended December 31,
+2025 2024 2023
+Net product sales $ 46,756 $ 46,778 $ 43,778
+Alliance and other revenues 1,438 1,522 1,228
+Total Revenues 48,194 48,300 45,006
+Cost of products sold (a)
+13,936 13,968 10,693
+Selling, general and administrative 7,267 8,414 7,772
+Research and development 9,951 11,159 9,299
+Acquired IPRD 3,721 13,373 913
+Amortization of acquired intangible assets 3,317 8,872 9,047
+Other (income)/expense, net 674 893 ( 1,158 )
+Total Expenses 38,866 56,679 36,566
+Earnings/(Loss) before income taxes 9,328 ( 8,379 ) 8,440
+Income tax provision
+2,272 554 400
+Net earnings/(loss) 7,055 ( 8,933 ) 8,040
+Noncontrolling Interest 2 15 15
+Net earnings/(loss) attributable to BMS $ 7,054 $ ( 8,948 ) $ 8,025
+Earnings/(Loss) per common share:
+Basic $ 3.47 $ ( 4.41 ) $ 3.88
+Diluted 3.46 ( 4.41 ) 3.86
+(a) Excludes amortization of acquired intangible assets.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME/(LOSS)
+Dollars in millions
+Year Ended December 31,
+2025 2024 2023
+Net earnings/(loss) $ 7,055 $ ( 8,933 ) $ 8,040
+Other comprehensive income/(loss), net of taxes and reclassifications to earnings:
+Derivatives qualifying as cash flow hedges ( 340 ) 374 ( 230 )
+Pension and postretirement benefits 82 90 ( 115 )
+Marketable debt securities 1 — 2
+Foreign currency translation ( 29 ) ( 156 ) 78
+Total other comprehensive income/(loss)
+( 286 ) 308 ( 265 )
+Comprehensive income/(loss) 6,769 ( 8,625 ) 7,775
+Comprehensive income/(loss) attributable to noncontrolling interest
+2 15 15
+Comprehensive income/(loss) attributable to BMS $ 6,767 $ ( 8,640 ) $ 7,760
+The accompanying notes are an integral part of these consolidated financial statements.
+73
+BRISTOL-MYERS SQUIBB COMPANY
+CONSOLIDATED BALANCE SHEETS
+Dollars in millions, except share and per share data
+December 31,
+ASSETS 2025 2024
+Current assets:
+Cash and cash equivalents $ 10,209 $ 10,346
+Marketable debt securities
+464 513
+Receivables 11,414 10,747
+Inventories 2,690 2,557
+Other current assets 4,613 5,617
+Total Current assets 29,390 29,780
+Property, plant and equipment 7,543 7,136
+Goodwill 21,754 21,719
+Other intangible assets 19,103 23,307
+Deferred income taxes 5,378 4,236
+Marketable debt securities
+396 320
+Other non-current assets 6,474 6,105
+Total Assets $ 90,038 $ 92,603
+LIABILITIES
+Current liabilities:
+Short-term debt obligations $ 2,261 $ 2,046
+Accounts payable 3,575 3,602
+Other current liabilities 17,581 18,126
+Total Current liabilities 23,417 23,774
+Deferred income taxes 222 369
+Long-term debt 42,850 47,603
+Other non-current liabilities 5,043 4,469
+Total Liabilities 71,533 76,215
+Commitments and Contingencies (Note 20)
+EQUITY
+Bristol-Myers Squibb Company Shareholders' Equity:
+Preferred stock, $ 2 convertible series, par value $ 1 per share: Authorized 10 million shares; issued and outstanding 2,510 in 2025 and 2,868 in 2024, liquidation value of $ 50 per share
+— —
+Common stock, par value of $ 0.10 per share: Authorized 4.5 billion shares; 2.9 billion issued in 2025 and 2024
+292 292
+Capital in excess of par value of stock 46,387 46,024
+Accumulated other comprehensive loss ( 1,524 ) ( 1,238 )
+Retained earnings 16,896 14,912
+Less cost of treasury stock — 887 million common shares in 2025 and 894 million common shares in 2024
+( 43,579 ) ( 43,655 )
+Total BMS Shareholders' Equity
+18,473 16,335
+Noncontrolling interest 33 53
+Total Equity 18,506 16,388
+Total Liabilities and Equity $ 90,038 $ 92,603
+The accompanying notes are an integral part of these consolidated financial statements.
+74
+BRISTOL-MYERS SQUIBB COMPANY
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Dollars in millions
+Year Ended December 31,
+2025 2024 2023
+Cash Flows From Operating Activities:
+Net earnings/(loss) $ 7,055 $ ( 8,933 ) $ 8,040
+Adjustments to reconcile net earnings/(loss) to net cash provided by operating activities:
+Depreciation and amortization, net 4,011 9,600 9,760
+Deferred income taxes ( 965 ) ( 2,089 ) ( 3,288 )
+Stock-based compensation 553 507 518
+Impairment charges 1,098 2,963 255
+Divestiture gains and royalties ( 1,165 ) ( 1,119 ) ( 884 )
+Acquired IPRD 3,721 13,373 913
+Equity investment (gains)/losses, net
+( 280 ) ( 16 ) 160
+Contingent consideration fair value adjustments 351 — —
+Other adjustments 232 94 300
+Changes in operating assets and liabilities:
+Receivables ( 295 ) 264 ( 995 )
+Inventories ( 184 ) ( 486 ) ( 751 )
+Accounts payable ( 2 ) 184 198
+Rebates and discounts ( 441 ) 1,484 904
+Income taxes payable ( 4 ) ( 1,260 ) ( 603 )
+Other 471 624 ( 667 )
+Net cash provided by operating activities 14,156 15,190 13,860
+Cash Flows From Investing Activities:
+Sale and maturities of marketable debt securities 1,975 1,122 733
+Purchase of marketable debt securities ( 2,000 ) ( 769 ) ( 1,774 )
+Proceeds from sales of equity investments
+77 265 215
+Capital expenditures ( 1,311 ) ( 1,248 ) ( 1,209 )
+Divestiture and other proceeds 1,071 1,099 909
+Acquisition and other payments, net of cash acquired ( 3,944 ) ( 21,821 ) ( 1,169 )
+Net cash provided by/(used in) investing activities
+( 4,132 ) ( 21,352 ) ( 2,295 )
+Cash Flows From Financing Activities:
+Proceeds from issuance of short-term debt obligations — 2,987 —
+Repayments of short-term debt obligations — ( 3,000 ) —
+Other short-term financing obligations, net
+25 99 ( 120 )
+Proceeds from issuance of long-term debt
+5,740 12,883 4,455
+Repayments of long-term debt
+( 10,940 ) ( 2,873 ) ( 3,879 )
+Repurchase of common stock — — ( 5,155 )
+Dividends ( 5,045 ) ( 4,863 ) ( 4,744 )
+Stock option proceeds and other, net ( 128 ) ( 106 ) 27
+Net cash provided by/(used in) financing activities
+( 10,348 ) 5,127 ( 9,416 )
+Effect of exchange rates on cash, cash equivalents and restricted cash 195 ( 137 ) 45
+Increase/(decrease) in cash, cash equivalents and restricted cash
+( 129 ) ( 1,172 ) 2,194
+Cash, cash equivalents and restricted cash at beginning of period 10,347 11,519 9,325
+Cash, cash equivalents and restricted cash at end of period $ 10,218 $ 10,347 $ 11,519
+The accompanying notes are an integral part of these consolidated financial statements.
+75
+Note 1. ACCOUNTING POLICIES AND RECENTLY ISSUED ACCOUNTING STANDARDS
+Nature of Operations and Basis of Consolidation
+Bristol-Myers Squibb Company ("BMS", or "the Company") is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases.
+The consolidated financial statements are prepared in conformity with U.S. GAAP, including the accounts of Bristol-Myers Squibb Company and all of its controlled majority-owned subsidiaries and certain variable interest entities. All intercompany balances and transactions are eliminated. Material subsequent events are evaluated and disclosed through the report issuance date. Beginning in 2025, the financial statement line item "Marketing, Selling and Administrative" included in the 2024 Form 10-K was changed to "Selling, General and Administrative", and such nomenclature will be used by the Company going forward. No changes were made to the corresponding definition. Refer to the Summary of Abbreviated Terms at the end of this 2025 Form 10-K for definitions of capitalized terms used throughout the document.
+Certain amounts in this 2025 Form 10-K may not sum due to rounding. Percentages have been calculated using unrounded amounts.
+Alliance and license arrangements are assessed to determine whether the terms provide economic or other control over the entity requiring consolidation of an entity. Entities controlled by means other than a majority voting interest are referred to as variable interest entities and are consolidated when BMS has both the power to direct the activities of the variable interest entity that most significantly impacts its economic performance and the obligation to absorb losses or the right to receive benefits that could potentially be significant to the entity.
+Business Segment Information
+BMS operates in a single segment engaged in the discovery, development, licensing, manufacturing, marketing, distribution and sale of innovative medicines that help patients prevail over serious diseases. A global research and development organization and supply chain organization are responsible for the discovery, development, manufacturing and supply of products. Regional commercial organizations market, distribute and sell the products. The business is also supported by global corporate staff functions. Consistent with BMS ' s operational structure, the Chief Executive Officer ("CEO"), as the chief operating decision maker, uses consolidated net income or loss as reported on the income statement when managing and allocating resources at the corporate level. Managing and allocating resources at the global corporate level enables the CEO to assess both the overall level of resources available and how to best deploy these resources across functions, therapeutic areas, regional commercial organizations and research and development projects in line with our overarching long-term corporate-wide strategic goals, rather than on a product or franchise basis. The determination of a single segment is consistent with the financial information regularly reviewed by the CEO for purposes of evaluating performance, allocating resources, setting incentive compensation targets, and planning and forecasting future periods. For further information on product and regional revenue, see "—Note 2. Revenue."
+The following table represents the significant segment expenses regularly provided to the CEO:
+Year ended December 31,
+Dollars in millions 2025 2024 2023
+Research (a)
+$ 1,341 $ 1,522 $ 1,557
+Drug Development (b)
+4,550 4,495 3,835
+Other (c)
+4,060 5,142 3,907
+Research and development
+$ 9,951 $ 11,159 $ 9,299
+(a) Includes costs to support the discovery and development of new molecular entities through pre-clinical studies.
+(b) Includes costs to support clinical development of potential new products, including expansion of indications for existing products through Phase I, Phase II and Phase III clinical studies.
+(c) Includes costs to support manufacturing development of pre-approved products, medical support of marketed products, IPRD impairment charges, acquisition-related charges and proportionate allocations of enterprise-wide costs including facilities, information technology, and other appropriate costs.
+Use of Estimates and Judgments
+The preparation of financial statements requires the use of management estimates, judgments and assumptions. The most significant assumptions are estimates used in determining accounting for acquisitions; impairments of intangible assets; charge-backs, cash discounts, sales rebates, returns and other adjustments; legal contingencies; and income taxes. Actual results may differ from estimates.
+76
+Cash and Cash Equivalents
+Cash and cash equivalents include bank deposits, time deposits, commercial paper, treasury bills and money market funds. Cash equivalents consist of highly liquid investments with original maturities of three months or less at the time of purchase and are recognized at cost, which approximates fair value.
+Marketable Debt Securities
+Marketable debt securities are classified as "available-for-sale" on the date of purchase and reported at fair value. Fair value is determined based on observable market quotes or valuation models using assessments of counterparty credit worthiness, credit default risk or underlying security and overall capital market liquidity. Marketable debt securities are reviewed for impairment by assessing if the decline in market value of the investment below the carrying value is other than temporary, which considers the intent and ability to retain the investment for a period of time sufficient to allow for any anticipated recovery in market value, the duration and extent that the market value has been less than cost and the investee's financial condition.
+Equity Investments
+Equity investments with readily determinable fair values are recorded at fair value with changes in fair value recorded in Other (income)/expense, net. Equity investments without readily determinable fair values are recorded at cost minus any impairment, plus or minus changes in their estimated fair value resulting from observable price changes in orderly transactions for the identical or a similar investment of the same issuer. Changes in the estimated fair value of equity investments without readily determinable fair values are recorded in Other (income)/expense, net.
+BMS holds investments in limited partnerships, which primarily invest in early-stage life sciences companies. Such limited partnership investments are measured by using our proportionate share of the net asset values of the underlying investments held by the limited partnerships as a practical expedient. These investments are typically redeemable only through distributions upon liquidation of the underlying assets. Limited partnerships and investments in 50% or less owned companies are accounted for using the equity method of accounting when the ability to exercise significant influence over the operating and financial decisions of the investee is maintained, except for instances where the fair value option is elected. Under the equity method of accounting, the proportional share of the investee's net income or losses of equity investments accounted for using the equity method are included in Other (income)/expense, net. In instances where the fair value option is elected, changes in fair value are recorded in Other (income)/expense.
+Equity investments without readily determinable fair values and equity investments accounted for using the equity method are assessed for potential impairment on a quarterly basis based on qualitative factors.
+Inventory Valuation
+Inventories are stated at the lower of average cost or net realizable value.
+Property, Plant and Equipment and Depreciation
+Expenditures for additions, renewals and improvements are capitalized at cost. Depreciation is computed on a straight-line method based on the estimated useful lives of the related assets ranging from 20 to 50 years for buildings and 3 to 20 years for machinery, equipment and fixtures.
+Current facts or circumstances are periodically evaluated to determine if the carrying value of depreciable assets to be held and used may not be recoverable. If such circumstances exist, an estimate of undiscounted future cash flows generated by the long-lived asset, or appropriate grouping of assets, is compared to the carrying value to determine whether an impairment exists at its lowest level of identifiable cash flows. If an asset is determined to be impaired, the loss is measured based on the difference between the asset's fair value and its carrying value. An estimate of the asset's fair value is based on quoted market prices in active markets, if available. If quoted market prices are not available, the estimate of fair value is based on various valuation techniques using unobservable fair value inputs, such as a discounted value of estimated future cash flows.
+Capitalized Software
+Eligible costs to obtain internal use software are capitalized and amortized over the estimated useful life of the software ranging from three to ten years .
+77
+Acquisitions
+In a business combination, businesses acquired are consolidated upon obtaining control. The fair value of assets acquired and liabilities assumed are recognized at the date of acquisition. Any excess of the purchase price over the estimated fair values of the net assets acquired is recognized as goodwill. Business acquisition costs are expensed when incurred. Contingent consideration from potential development, regulatory, approval and sales-based milestones and sales-based royalties are included in the purchase price for business combinations and excluded for asset acquisitions.
+If the assets acquired do not meet the definition of a business, primarily because the inputs and processes do not significantly contribute to the ability to create outputs or substantially all of the relative fair value was allocated to a single asset, the transaction is accounted for as an asset acquisition rather than a business combination and no goodwill is recorded. In addition, in an asset acquisition, acquired in-process research and development ("IPRD") assets with no alternative future use are expensed to Acquired IPRD.
+Goodwill and Other Intangible Assets
+The fair value of acquired intangible assets is determined using an income-based approach referred to as the excess earnings method utilizing Level 3 fair value inputs. Market participant valuations assume a global view considering all potential jurisdictions and indications based on discounted after-tax cash flow projections, risk adjusted for estimated probability of technical and regulatory success.
+Finite-lived intangible assets, including acquired marketed product rights and R&D technology are amortized on a straight-line basis over their estimated useful life. Estimated useful lives are determined considering the period assets are expected to contribute to future cash flows. Finite-lived intangible assets are tested for impairment when facts or circumstances suggest that the carrying value of the asset may not be recoverable. If the carrying value exceeds the projected undiscounted pretax cash flows of the intangible asset, an impairment loss equal to the excess of the carrying value over the estimated fair value (discounted after-tax cash flows) is recognized.
+Goodwill is tested at least annually for impairment by assessing qualitative factors in determining whether it is more likely than not that the fair value of net assets is below their carrying amounts. Examples of qualitative factors assessed include BMS ' s share price, financial performance compared to budgets, long-term financial plans, macroeconomic, industry and market conditions as well as the substantial excess of fair value over the carrying value of net assets from the annual impairment test performed in a prior year. Each relevant factor is assessed both individually and in the aggregate.
+IPRD is tested for impairment at least annually or more frequently if events occur or circumstances change that would indicate a potential reduction in the fair values of the assets below their carrying value. Impairment charges are recognized to the extent the carrying value of IPRD is determined to exceed its fair value.
+Derivatives
+All derivative instruments are recognized as either assets or liabilities at fair value on the consolidated balance sheets and are classified as current or long-term based on the scheduled maturity of the instrument. Derivatives designated as hedges, are assessed at inception and quarterly thereafter, to determine whether they are highly effective in offsetting changes or cash flows of the hedged item. The changes in fair value of a derivative designated as a fair value hedge and of the hedged item attributable to the hedged risk are recognized in earnings immediately. The effective portions of changes in the fair value of a derivative designated as a cash flow hedge are reported in Accumulated other comprehensive loss and are subsequently recognized in earnings consistent with the underlying hedged item. If a derivative is no longer highly effective as a hedge, the Company discontinues hedge accounting prospectively. The earnings impact related to discontinued cash flow hedges and hedge ineffectiveness was not material during all periods presented. If a hedged forecasted transaction becomes probable of not occurring, any gains or losses are reclassified from Accumulated other comprehensive loss to earnings. Derivatives that are not designated as hedges are adjusted to fair value through current earnings. The Company also uses derivative instruments or foreign currency denominated debt to hedge its net investments in certain foreign subsidiaries and affiliates. Realized and unrealized gains and losses from these hedges are included in foreign currency translation in Accumulated other comprehensive loss. Derivative cash flows, with the exception of net investment hedges, are principally classified in the operating section of the consolidated statements of cash flows, consistent with the underlying hedged item. Cash flows related to net investment hedges are classified in investing activities.
+78
+Restructuring
+Restructuring charges are recognized as a result of actions to streamline operations, realize synergies from acquisitions and reduce the number of facilities. Estimating the impact of restructuring plans, including future termination benefits, integration expenses and other exit costs, requires judgment. Actual results could vary from these estimates. Restructuring charges are recognized upon meeting certain criteria, including finalization of committed plans, reliable estimates and discussions with local works councils in certain markets.
+Contingencies
+Loss contingencies from legal proceedings and claims may occur from government investigations, shareholder lawsuits, product and environmental liability, contractual claims, tax and other matters. Accruals are recognized when it is probable that a liability will be incurred and the amount of loss can be reasonably estimated. Gain contingencies (including contingent proceeds related to the divestitures) are not recognized until realized. Legal fees are expensed as incurred.
+Revenue Recognition
+Refer to "—Note 2. Revenue" for a detailed discussion of accounting policies related to revenue recognition, including deferred revenue and royalties. Refer to "—Note 3. Alliances" for further details regarding alliances.
+Research and Development and Acquired IPRD
+Research and development costs are expensed as incurred. Clinical study and certain research costs are recognized over the service periods specified in the contracts and adjusted as necessary based upon an ongoing review of the level of effort and costs actually incurred. Research and development costs are presented net of reimbursements from alliance partners.
+Acquired IPRD expenses include upfront payments, contingent milestone payments in connection with asset acquisitions or in-license arrangements of third-party intellectual property rights, as well as any upfront and contingent milestones payable by BMS to alliance partners prior to regulatory approval.
+The Company's Acquired IPRD by type of transaction was as follows:
+Year ended December 31,
+Dollars in millions 2025 2024 2023
+Alliance (Note 3) $ 1,750 $ 880 $ 55
+Acquisitions (Note 4)
+1,379 12,122 —
+In-license and other arrangements (Note 4)
+592 371 858
+Acquired IPRD $ 3,721 $ 13,373 $ 913
+Advertising and Product Promotion Costs
+Advertising and product promotion costs are expensed as incurred. Advertising and product promotion costs are included in Selling, general and administrative expenses and were $ 1.3 billion in 2025, $ 1.5 billion in 2024 and $ 1.4 billion in 2023.
+Foreign Currency Translation
+Foreign subsidiary earnings are translated into U.S. dollars using average exchange rates. The net assets of foreign subsidiaries are translated into U.S. dollars using current exchange rates. The U.S. dollar effects that arise from translating the net assets of these subsidiaries at changing rates are recognized in Other Comprehensive Income/(Loss).
+79
+Income Taxes
+The provision for income taxes includes income taxes paid or payable for the current year plus the change in deferred taxes during the year. Deferred taxes result from differences between the financial and tax basis of assets and liabilities and are adjusted for changes in tax rates and tax laws when changes are enacted. Valuation allowances are recognized to reduce deferred tax assets when it is more likely than not that a tax benefit will not be realized. The assessment of whether or not a valuation allowance is required often requires significant judgment including the long-range forecast of future taxable income and the evaluation of tax planning initiatives. Adjustments to the deferred tax valuation allowances are made to earnings in the period when such assessments are made. The tax effects of global intangible low-taxed income from certain foreign subsidiaries is recognized in the income tax provision in the period the tax arises.
+Tax benefits are recognized from an uncertain tax position only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities based on the technical merits of the position. The tax benefit recognized in the financial statements for a particular tax position is based on the largest benefit that is more likely than not to be realized upon settlement.
+Recently Adopted Accounting Standards
+Income Taxes
+In December 2023, the FASB issued amended guidance on income tax disclosures. The guidance is intended to provide additional disaggregation to the effective income tax rate reconciliation and income tax payment disclosures. The amended guidance is effective for annual periods beginning after December 15, 2024. BMS adopted the new guidance prospectively, beginning with the annual period ending December 31, 2025. Refer to " — Note 7. Income Taxes".
+Recently Issued Accounting Standards Not Yet Adopted
+Derivatives, Hedging and Revenue from Contracts with Customers
+In September 2025, the FASB issued amended guidance to refine the scope of derivative accounting and clarify the accounting for share-based noncash consideration from a customer in a revenue contract. Among other provisions, the amendment excludes from derivative accounting non-exchange-traded contracts with underlyings that are based on operations or activities specific to one of the parties in the contract. The amended guidance is effective for annual periods beginning after December 15, 2026 and interim periods within those annual periods. Early adoption is permitted. The Company is assessing the potential impact of the amended standard.
+Internal-Use Software
+In September 2025, the FASB issued amended guidance on internal-use software. The guidance clarifies disclosure requirements and establishes new capitalization criteria based on management's authorization and funding commitment as well as the probability that a project will be completed and used for its intended function. The amended guidance is effective for annual periods beginning after December 15, 2027 and interim periods within those annual periods. Early adoption is permitted. The Company is assessing the potential impact of the amended standard.
+Disaggregation of Income Statement Expenses
+In November 2024, the FASB issued guidance on income statement disclosures. The guidance aims to provide enhanced disclosures of income statement expenses to improve transparency and provide financial statement users with more detailed information about the nature, amount and timing of expenses impacting financial performance. The new guidance is effective for annual periods beginning after December 15, 2026 and interim periods within annual reporting periods beginning after December 15, 2027. Early adoption is permitted.
+80
+Note 2. REVENUE
+The following table summarizes the disaggregation of revenue by nature:
+Year Ended December 31,
+Dollars in millions 2025 2024 2023
+Net product sales $ 46,756 $ 46,778 $ 43,778
+Alliance revenues 447 479 608
+Other revenues 992 1,043 620
+Total Revenues $ 48,194 $ 48,300 $ 45,006
+Net product sales represent more than 95 % of total revenues for all periods presented. Products are sold principally to wholesalers, distributors, specialty pharmacies, and to a lesser extent, directly to retailers, hospitals, clinics, government agencies and patients. Customer orders are generally fulfilled within a few days of receipt resulting in minimal order backlog. Contractual performance obligations are usually limited to transfer of control of the product to the customer. The transfer occurs either upon shipment, upon receipt of the product after considering when the customer obtains legal title to the product, or upon infusion for cell therapies and when BMS obtains a right of payment. At these points, customers are able to direct the use of and obtain substantially all of the remaining benefits of the product.
+Gross revenue to the three largest pharmaceutical wholesalers in the U.S. as a percentage of U.S. gross revenues was as follows:
+Year Ended December 31,
+2025 2024 2023
+McKesson Corporation 36 % 34 % 33 %
+Cencora, Inc.
+29 % 29 % 29 %
+Cardinal Health, Inc. 22 % 22 % 23 %
+Wholesalers are initially invoiced at contractual list prices. Payment terms are typically 30 to 90 days based on customary practices in each country. Revenue is reduced from wholesaler list price at the time of recognition for expected charge-backs, discounts, rebates, sales allowances and product returns ("GTN adjustments"). In the U.S., these GTN adjustments are attributed to various commercial arrangements, managed healthcare organizations and government programs such as Medicare, Medicaid and the 340B program containing various pricing implications, such as mandatory discounts or pricing protection below wholesaler list price. In addition, non-U.S. government programs include different pricing schemes such as cost caps, volume discounts, outcome-based pricing and pricing claw-backs determined on sales of individual companies or an aggregation of companies participating in a specific market. Charge-backs and cash discounts are reflected as a reduction to receivables and settled through the issuance of credits to the customer, typically within one month. All other GTN adjustments, are reflected as a liability and settled through cash payments to the customer, typically within various time periods ranging from a few months to one year.
+Significant judgment is required in estimating GTN adjustments considering legal interpretations of applicable laws and regulations, historical experience, payer channel mix, current contract prices under applicable programs, unbilled claims, processing time lags and inventory levels in the distribution channel.
+The following table summarizes GTN adjustments:
+Year Ended December 31,
+Dollars in millions 2025 2024 2023
+Gross product sales $ 88,085 $ 83,671 $ 73,679
+GTN adjustments (a)
+Charge-backs and cash discounts ( 14,067 ) ( 11,510 ) ( 9,144 )
+Medicaid and Medicare rebates ( 18,010 ) ( 16,551 ) ( 13,411 )
+Other rebates, returns, discounts and adjustments ( 9,253 ) ( 8,832 ) ( 7,346 )
+Total GTN adjustments (b)
+( 41,329 ) ( 36,893 ) ( 29,901 )
+Net product sales $ 46,756 $ 46,778 $ 43,778
+(a) Includes reductions of provisions for product sales made in prior periods resulting from changes in estimates of $ 485 million in 2025, $ 159 million in 2024, and $ 134 million in 2023.
+(b) Includes U.S. GTN adjustments of $ 38.0 billion in 2025, $ 33.6 billion in 2024 and $ 26.9 billion in 2023.
+Alliance and other revenues consist primarily of amounts related to collaborations and out-licensing arrangements. Each of these arrangements are evaluated for whether they represent contracts that are within the scope of the revenue recognition guidance in their entirety or contain aspects that are within the scope of the guidance, either directly or by reference based upon the application of the guidance related to the derecognition of nonfinancial assets (ASC 610).
+81
+Performance obligations are identified and separated when the other party can benefit directly from the rights, goods or services either on their own or together with other readily available resources and when the rights, goods or services are not highly interdependent or interrelated.
+Transaction prices for these arrangements may include fixed upfront amounts as well as variable consideration such as contingent development and regulatory milestones, sales-based milestones and royalties. The most likely amount method is used to estimate contingent development, regulatory and sales-based milestones because the ultimate outcomes are binary in nature. Variable consideration is included in the transaction price only to the extent a significant reversal in the amount of cumulative revenue recognized is not probable of occurring when the uncertainty associated with the variable consideration is subsequently resolved. Significant judgment is required in estimating the amount of variable consideration to recognize when assessing factors outside of BMS's influence such as likelihood of regulatory success, limited availability of third party information, expected duration of time until resolution, lack of relevant past experience, historical practice of offering fee concessions and a large number and broad range of possible amounts. To the extent arrangements include multiple performance obligations that are separable, the transaction price assigned to each distinct performance obligation is reflective of the relative stand-alone selling price and recognized at a point in time upon the transfer of control.
+Three types of out-licensing arrangements are typically utilized: (i) arrangements when BMS out-licenses intellectual property to another party and has no further performance obligations; (ii) arrangements that include a license and an additional performance obligation to supply product upon the request of the third party; and (iii) collaboration arrangements, which include transferring a license to a third party to jointly develop and commercialize a product.
+Most out-licensing arrangements consist of a single performance obligation that is satisfied upon execution of the agreement when the development and commercialization rights are transferred to a third party. Upfront fees are recognized immediately and included in Other (income)/expense, net. Although contingent development and regulatory milestone amounts are assessed each period for the likelihood of achievement, they are typically constrained and recognized when the uncertainty is subsequently resolved for the full amount of the milestone and included in Other (income)/expense, net. Sales-based milestones and royalties are recognized when the milestone is achieved or the subsequent sales occur. Sales-based milestones and royalties are included in Alliance and other revenues.
+Certain out-licensing arrangements may also include contingent performance obligations to supply commercial product to the third party upon its request. The license and supply obligations are accounted for as separate performance obligations as they are considered distinct because the third party can benefit from the license either on its own or together with other supply resources readily available to it and the obligations are separately identifiable from other obligations in the contract in accordance with the revenue recognition guidance. After considering the standalone selling prices in these situations, upfront fees, contingent development and regulatory milestone amounts and sales-based milestone and royalties are allocated to the license and recognized in the manner described above. Consideration for the supply obligation is usually based upon stipulated cost-plus margin contractual terms which represent a standalone selling price. The supply consideration is recognized at a point in time upon transfer of control of the product to the third party and included in Alliance and other revenues. The above fee allocation between the license and the supply represents the amount of consideration expected to be entitled to for the satisfaction of the separate performance obligations.
+Although collaboration arrangements are unique in nature, both parties are active participants in the operating activities and are exposed to significant risks and rewards depending on the commercial success of the activities. Performance obligations inherent in these arrangements may include the transfer of certain development or commercialization rights, ongoing development and commercialization services and product supply obligations. Each arrangement is assessed to determine whether performance obligations are distinct and whether those obligations are satisfied at a point in time or over time. Contingent development and regulatory milestones that are no longer constrained are recognized in a similar manner on a prospective basis. Royalties and profit sharing are recognized when the underlying sales and profits occur and are included in Alliance and other revenues. Refer to "—Note 3. Alliances" for further information.
+82
+The following table summarizes the disaggregation of revenue by product and region:
+Year Ended December 31,
+Dollars in millions 2025 2024 2023
+Growth Portfolio
+Opdivo $ 10,049 $ 9,304 $ 9,009
+Opdivo Qvantig
+238 — —
+Orencia 3,705 3,682 3,601
+Yervoy 2,900 2,530 2,238
+Reblozyl 2,327 1,773 1,008
+Breyanzi 1,358 747 364
+Opdualag 1,185 928 627
+Camzyos 1,068 602 231
+Zeposia 577 566 434
+Abecma 427 406 472
+Sotyktu 291 246 170
+Krazati 205 126 —
+Cobenfy
+155 10 —
+Other Growth products (a)
+1,924 1,643 1,212
+Total Growth Portfolio 26,409 22,563 19,366
+Legacy Portfolio
+Eliquis 14,443 13,333 12,206
+Revlimid 2,951 5,773 6,097
+Pomalyst/Imnovid 2,733 3,545 3,441
+Sprycel 493 1,286 1,930
+Abraxane 368 875 1,004
+Other Legacy products (b)
+798 925 962
+Total Legacy Portfolio 21,785 25,737 25,640
+Total Revenues $ 48,194 $ 48,300 $ 45,006
+United States $ 33,279 $ 34,105 $ 31,210
+International
+13,828 13,199 13,097
+Other (c)
+1,087 996 699
+Total Revenues $ 48,194 $ 48,300 $ 45,006
+(a) Includes Augtyro, Onureg , Inrebic , Nulojix , Empliciti and royalty revenues, including royalties received from Merck on Winrevair *.
+(b) Includes other mature brands.
+(c) Other revenues include alliance-related revenues for products not sold by BMS's regional commercial organizations, including royalties received from Merck on Winrevair *.
+Contract assets are primarily estimated future royalties and termination fees not eligible for the licensing exclusion and therefore recognized under ASC 606 and ASC 610. Contract assets are reduced and receivables are increased in the period the underlying sales occur. Cumulative catch-up adjustments to revenue affecting contract assets or contract liabilities were not material in 2025, 2024 and 2023. Revenue recognized from performance obligations satisfied in prior periods was $ 1.3 billion in 2025, $ 797 million in 2024, and $ 462 million in 2023 consisting primarily of revised estimates for GTN adjustments related to prior period sales and royalties from out-licensing arrangements.
+Sales commissions and other incremental costs of obtaining customer contracts are expensed as incurred as the amortization periods would be less than one year.
+Note 3. ALLIANCES
+BMS enters into collaboration arrangements with third parties for the development and commercialization of certain products. Although each of these arrangements is unique in nature, both parties are active participants in the operating activities of the collaboration and exposed to significant risks and rewards depending on the commercial success of the activities. BMS may either in-license intellectual property owned by the other party or out-license its intellectual property to the other party. These arrangements also typically include research, development, manufacturing, and/or commercial activities and can cover a single investigational compound or commercial product or multiple compounds and/or products in various life cycle stages. The rights and obligations of the parties can be global or limited to geographic regions. BMS refers to these collaborations as alliances, and its partners as alliance partners.
+83
+The most common activities between BMS and its alliance partners are presented in results of operations as follows:
+When BMS is the principal in the end customer sale, 100% of product sales are included in Net product sales. When BMS's alliance partner is the principal in the end customer sale, BMS's contractual share of the third-party sales and/or royalty income are included in Alliance revenues as the sale of commercial products are considered part of BMS's ongoing major or central operations. Refer to "—Note 2. Revenue" for information regarding recognition criteria.
+Amounts payable to BMS by alliance partners (who are the principal in the end customer sale) for supply of commercial products are included in Alliance revenues as the sale of commercial products are considered part of BMS's ongoing major or central operations.
+Profit sharing, royalties and other sales-based fees payable by BMS to alliance partners are included in Cost of products sold as incurred.
+Cost reimbursements between the parties are recognized as incurred and included in Cost of products sold; Selling, general and administrative expenses; or Research and development expenses, based on the underlying nature of the related activities subject to reimbursement.
+Upfront and contingent development and regulatory approval milestones payable to BMS by alliance partners for investigational compounds and commercial products are deferred and amortized over the expected period of BMS's development and co-promotion obligation through the market exclusivity period or the periods in which the related compounds or products are expected to contribute to future cash flows. The amortization is presented consistent with the nature of the payment under the arrangement. For example, amounts received for investigational compounds are presented in Other (income)/expense, net as the activities being performed at that time are not related to the sale of commercial products included in BMS's ongoing major or central operations; amounts received for commercial products are presented in alliance revenue as the sale of commercial products are considered part of BMS's ongoing major or central operations.
+Upfront and contingent regulatory approval milestones payable by BMS to alliance partners for commercial products are capitalized and amortized over the shorter of the contractual term or the periods in which the related products are expected to contribute to future cash flows.
+Upfront and contingent milestones payable by BMS to alliance partners prior to regulatory approval are expensed as incurred and included in Acquired IPRD expense.
+Royalties and contingent sales based milestones payable to BMS by license partners are presented in Alliance revenues.
+Royalties and other contingent consideration payable to BMS by alliance partners related to the divestiture of such businesses are included in Other (income)/expense, net when earned.
+All payments between BMS and its alliance partners are presented in Cash Flows From Operating Activities except for upfront and developmental and regulatory milestone payments which are presented in Cash Flows From Investing Activities.
+Selected financial information pertaining to alliances was as follows, including net product sales when BMS is the principal in the third-party customer sale for products subject to the alliance agreements. Expenses summarized below do not include all amounts attributed to the activities for the products in the alliance, but only the payments between the alliance partners or the related amortization if the payments were deferred or capitalized.
+Year Ended December 31,
+Dollars in millions 2025 2024 2023
+Revenues from alliances:
+Net product sales $ 14,588 $ 13,587 $ 12,543
+Alliance revenues 447 479 608
+Total alliance revenues
+$ 15,035 $ 14,066 $ 13,151
+Payments to/(from) alliance partners:
+Cost of products sold $ 7,181 $ 6,597 $ 6,067
+Selling, general and administrative ( 267 ) ( 295 ) ( 263 )
+Research and development 318 237 137
+Acquired IPRD 1,750 880 55
+Other (income)/expense, net ( 23 ) ( 137 ) ( 49 )
+December 31,
+Dollars in millions 2025 2024
+Selected alliance balance sheet information:
+Receivables from alliance partners $ 198 $ 221
+Accounts payable to alliance partners 1,684 1,578
+Deferred income from alliances (a)
+175 222
+(a) Includes unamortized upfront and milestone payments.
+84
+Specific information pertaining to significant alliances is discussed below, including their nature and purpose; the significant rights and obligations of the parties; specific accounting policy elections; and the statements of earnings classification of and amounts attributable to payments between the parties. Significant developments and updates related to alliances during the years ended December 31, 2025 and 2024 are set forth below.
+BioNTech
+In June 2025, BMS and BioNTech entered into a global strategic collaboration for the co-development and co-commercialization of pumitamig (BNT327/BMS986545), a bispecific antibody targeting PD-L1 and VEGF-A, which is currently being evaluated in several indications, including in CRC, ES-SCLC, NSCLC and TNBC. The companies will jointly develop and commercialize pumitamig as monotherapy and in combination with other assets. Both companies also have the right to independently develop pumitamig in further indications and combinations, including combinations of pumitamig with proprietary pipeline assets. Subject to certain exceptions, BMS and BioNTech will share equally in global profits and losses.
+BMS made an upfront payment to BioNTech of $ 1.5 billion, which was recorded as Acquired IPRD during 2025. BioNTech will also receive $ 2.0 billion in aggregate of anniversary payments, which will be payable beginning in 2026 through 2028, provided that there is no prior termination of the agreement by BMS, and up to $ 7.6 billion of contingent development, regulatory and sales-based milestones.
+SystImmune
+BMS and SystImmune, Inc. ("SystImmune") are parties to a global strategic collaboration for the co-development and co-commercialization of izalontamab brengitecan (iza-bren or BL-B01D1), a bispecific topoisomerase inhibitor-based antibody drug conjugate, which is currently being evaluated in metastatic or unresectable NSCLC, breast cancer and other tumor types. BMS paid an upfront fee of $ 800 million, which was included in Acquired IPRD during 2024. BMS is also obligated to pay up to $ 7.6 billion upon the achievement of contingent development, regulatory and sales-based milestones. In 2025, BMS recorded a $ 250 million charge as Acquired IPRD following the achievement of a development milestone under the arrangement.
+The parties will jointly develop and commercialize BL-B01D1 in the U.S. and share in the profits and losses. SystImmune will be responsible for the development, commercialization, and manufacturing in Mainland China and will be responsible for manufacturing certain drug supplies for outside of Mainland China, where BMS will receive a royalty on net sales. BMS will be responsible for the development and commercialization in the rest of the world, where SystImmune will receive a royalty on net sales.
+Pfizer
+BMS and Pfizer jointly develop and commercialize Eliquis , an anticoagulant discovered by BMS. Pfizer funds between 50 % and 60 % of all development costs depending on the study. Profits and losses are shared equally on a global basis except in certain countries where Pfizer commercializes Eliquis and pays BMS a sales-based fee.
+The co-exclusive license rights granted to Pfizer in exchange for an upfront payment and potential milestone payments were recorded to Deferred income and are being amortized in Other (income)/expense, net, as Eliquis was not a commercial product at the commencement of the alliance. The upfront payment and any subsequent contingent milestone proceeds are amortized over the expected period of BMS's co-promotion obligation through the market exclusivity period. Both parties assumed certain obligations to actively participate in a joint executive committee and various other operating committees and have joint responsibilities for the research, development, distribution, sales and marketing activities of the alliance using resources in their own infrastructures. BMS and Pfizer manufacture the product in the alliance and BMS is the principal in the end customer product sales in the U.S., significant countries in Europe, as well as Canada, Australia, China, Japan and South Korea. In certain smaller countries, Pfizer has full commercialization rights and BMS supplies the product to Pfizer at cost plus a percentage of the net sales price to end-customers, which is recorded in full upon transfer of control of the product to Pfizer.
+85
+Summarized financial information related to this alliance was as follows:
+Year Ended December 31,
+Dollars in millions 2025 2024 2023
+Revenues from Pfizer alliance:
+Net product sales $ 14,328 $ 13,187 $ 12,006
+Alliance revenues 115 146 200
+Total revenues $ 14,443 $ 13,333 $ 12,206
+Payments to/(from) Pfizer:
+Cost of products sold profit sharing $ 6,980 $ 6,419 $ 5,833
+Other (income)/expense, net amortization of deferred income ( 42 ) ( 42 ) ( 42 )
+Selected alliance balance sheet information: December 31,
+Dollars in millions 2025 2024
+Receivables $ 176 $ 189
+Accounts payable 1,599 1,463
+Deferred income 95 137
+Ono
+BMS and Ono jointly develop and commercialize Opdivo , Yervoy and several BMS investigational compounds in Japan, South Korea and Taiwan. BMS is responsible for supply of the products. Profits, losses and development costs are shared equally for all combination therapies involving compounds of both parties. Otherwise, sharing is 80 % and 20 % for activities involving only one of the party's compounds.
+BMS and Ono also jointly develop and commercialize Orencia in Japan. BMS is responsible for the order fulfillment and distribution of the intravenous formulation and Ono is responsible for the subcutaneous formulation. Both formulations are jointly promoted by both parties with assigned customer accounts and BMS is responsible for the product supply. A co-promotion fee of 60 % is paid when a sale is made to the other party's assigned customer.
+Summarized financial information related to this alliance was as follows:
+Year Ended December 31,
+2025 2024 2023
+(Dollars in millions)
+Net product sales $ 178 $ 158 $ 180
+Alliance revenues 331 333 408
+Total Revenues $ 510 $ 491 $ 588
+BMS is the principal in the end customer product sales and has the exclusive right to develop, manufacture and commercialize Opdivo and Opdivo Qvantig worldwide except in Japan, South Korea and Taiwan. Ono is entitled to receive royalties of 4 % in North America and 15 % in all territories excluding the three countries listed above, subject to customary adjustments. Ono also receives royalties on the nivolumab component of Opdualag consistent with the terms previously stated for Opdivo .
+Janssen
+BMS and Janssen jointly develop milvexian, an investigational oral, highly selective factor XIa inhibitor being studied for the prevention of major thrombotic conditions. Both parties share global development costs equally. Following regulatory approval, BMS and Janssen will jointly commercialize the product under the arrangement and share global profits and losses equally.
+The co-exclusive license rights granted to Janssen in exchange for an upfront payment and potential milestone payments were recorded to Deferred income and are being amortized in Other (income)/expense, net over the expected period of BMS's co-promotion obligation through the market exclusivity period. Both parties assumed certain obligations to actively participate in joint operating committees and have joint responsibilities for the research, development, sales and marketing activities of the alliance using resources in their own infrastructures.
+Research and development expenses included payments to Janssen of $ 277 million in 2025, $ 274 million in 2024 and $ 177 million in 2023.
+86
+Note 4. ACQUISITIONS, DIVESTITURES, LICENSING AND OTHER ARRANGEMENTS
+Acquisitions
+Orbital Therapeutics
+In December 2025, BMS completed the acquisition of Orbital Therapeutics, a biotechnology company pioneering a new generation of RNA medicines that reprogram the immune system in vivo, in an all-cash transaction for total consideration of $ 1.7 billion, or $ 1.5 billion net of cash acquired. The acquisition provided BMS with full rights to OTX-201, a preclinical in vivo CAR T-cell therapy currently being studied in autoimmune disease. The transaction was accounted for as an asset acquisition as Orbital Therapeutics did not meet the definition of a business, which requires inputs and processes that significantly contribute to the ability to create outputs. As a result, $ 1.4 billion was expensed as Acquired IPRD during 2025 and the net assets acquired were not material. Additionally, cash-settled unvested equity awards of $ 55 million and $ 13 million were expensed as Selling, general and administrative and Research and development, respectively.
+2seventy bio
+On May 13, 2025, BMS completed the acquisition of 2seventy bio, which provides BMS with full U.S. rights to Abecma , a cell therapy for the treatment of adult patients with relapsed or refractory multiple myeloma. BMS acquired all of the issued and outstanding shares of 2seventy bio's common stock for $ 5.00 per share in an all-cash transaction for total consideration of $ 287 million, or $ 114 million net of cash acquired. The transaction was accounted for as an asset acquisition as 2seventy bio did not meet the definition of a business, which requires inputs and processes that significantly contribute to the ability to create outputs. Net assets acquired primarily consisted of cash, right-of-use lease assets and liabilities, deferred tax assets and acquired marketed product rights for Abecma.
+Karuna
+On March 18, 2024, BMS acquired Karuna, a clinical-stage biopharmaceutical company driven to discover, develop, and deliver transformative medicines for people living with psychiatric and neurological conditions. The acquisition provided BMS with rights to Cobenfy (xanomeline and trospium chloride), formerly KarXT. Cobenfy is an antipsychotic with a novel mechanism of action and differentiated efficacy and safety, which was approved by the FDA on September 26, 2024 for the treatment of schizophrenia in adults. Cobenfy is being studied across multiple neuropsychiatric conditions.
+BMS acquired all of the issued and outstanding shares of Karuna's common stock for $ 330.00 per share in an all-cash transaction for total consideration of $ 14.0 billion, or $ 12.9 billion net of cash acquired. The acquisition was funded primarily with debt proceeds (see "—Note 10. Financing Arrangements" for further detail). The transaction was accounted for as an asset acquisition since Cobenfy represented substantially all of the fair value of the gross assets acquired. As a result, $ 12.1 billion was expensed to Acquired IPRD during 2024. The following summarizes the total consideration transferred and allocated:
+Dollars in millions
+Cash consideration for outstanding shares $ 12,606
+Cash consideration for equity awards 1,421
+Consideration paid 14,027
+Less: Charge for unvested stock awards (a)
+( 289 )
+Transaction costs 55
+Total consideration allocated $ 13,793
+(a) Includes cash-settled unvested equity awards of $ 130 million expensed in Selling, general and administrative and $ 159 million expensed in Research and development during 2024.
+87
+RayzeBio
+On February 26, 2024, BMS acquired RayzeBio, a clinical-stage radiopharmaceutical therapeutics ("RPT") company with actinium-based RPTs for solid tumors. The acquisition provided BMS with rights to RayzeBio's actinium-based radiopharmaceutical platform and lead asset, RYZ101, which is in development for treatment of gastroenteropancreatic neuroendocrine tumors.
+BMS acquired all of the issued and outstanding shares of RayzeBio's common stock for $ 62.50 per share in an all-cash transaction for total consideration of $ 4.1 billion, or $ 3.6 billion net of cash acquired. The acquisition was funded through a combination of cash on hand and debt proceeds (see "—Note 10. Financing Arrangements" for further detail).
+Total consideration for the acquisition consisted of the following:
+Dollars in millions
+Cash consideration for outstanding shares $ 3,851
+Cash consideration for equity awards 296
+Consideration paid
+4,147
+Less: Unvested stock awards (a)
+( 274 )
+Total consideration allocated $ 3,873
+(a) Includes cash settlement for unvested equity awards of $ 159 million expensed in Selling, general and administrative and $ 115 million expensed in Research and development during 2024.
+The transaction was accounted for as a business combination requiring all assets acquired and liabilities assumed to be recognized at fair value as of the acquisition date. The majority of the purchase price was allocated to indefinite-lived IPRD and R&D technology.
+Mirati
+On January 23, 2024, BMS acquired Mirati, a commercial stage targeted oncology company, obtaining the rights to commercialize lung cancer medicine Krazati, and to further develop several clinical assets, including navlimetostat (PRMT5 Inhibitor). Krazati, a KRAS G12C inhibitor, is FDA and EMA approved for second-line NSCL

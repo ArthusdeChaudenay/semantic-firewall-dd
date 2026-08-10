@@ -1,0 +1,12 @@
+{
+  "fields": {
+    "chiffre_affaires": null,
+    "ebit": null,
+    "ebitda": null,
+    "dotations_amortissements": null,
+    "resultat_net": null
+  },
+  "seconds": 11.52,
+  "tokens": 77,
+  "accepted_verification": true
+}

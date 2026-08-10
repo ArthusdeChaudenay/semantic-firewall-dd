@@ -1,0 +1,365 @@
+risdictions to evaluate the Company's accounting for its tax contingencies. We evaluated developments in the applicable regulatory environments to assess potential effects on the Company's positions, including recent decisions in relevant court cases. We analyzed the appropriateness of the Company's assumptions and the accuracy of the Company's calculations and data used to determine the amount of tax benefits to recognize. We evaluated the Company's income tax disclosures in relation to these matters.
+/s/ Ernst & Young LLP
+We have served as the Company's auditor since 1996.
+Seattle, Washington
+February 5, 2026
+35
+Table of Contents
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in millions)
+Year Ended December 31,
+2023 2024 2025
+CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, BEGINNING OF PERIOD $ 54,253 $ 73,890 $ 82,312
+OPERATING ACTIVITIES:
+Net income 30,425 59,248 77,670
+Adjustments to reconcile net income to net cash from operating activities:
+Depreciation and amortization of property and equipment and capitalized content costs, operating lease assets, and other 48,663 52,795 65,756
+Stock-based compensation 24,023 22,011 19,467
+Non-operating expense (income), net ( 748 ) 2,012 ( 14,880 )
+Deferred income taxes ( 5,876 ) ( 4,648 ) 11,470
+Changes in operating assets and liabilities:
+Inventories 1,449 ( 1,884 ) ( 3,002 )
+Accounts receivable, net and other ( 8,348 ) ( 3,249 ) ( 7,333 )
+Other assets ( 12,265 ) ( 14,483 ) ( 15,632 )
+Accounts payable 5,473 2,972 11,231
+Accrued expenses and other ( 2,428 ) ( 2,904 ) ( 5,019 )
+Unearned revenue 4,578 4,007 ( 214 )
+Net cash provided by (used in) operating activities 84,946 115,877 139,514
+INVESTING ACTIVITIES:
+Purchases of property and equipment ( 52,729 ) ( 82,999 ) ( 131,819 )
+Proceeds from property and equipment sales and incentives 4,596 5,341 3,499
+Acquisitions, net of cash acquired, non-marketable investments, and other, net ( 5,839 ) ( 7,082 ) ( 3,841 )
+Sales and maturities of marketable securities 5,627 16,403 44,386
+Purchases of marketable securities ( 1,488 ) ( 26,005 ) ( 54,770 )
+Net cash provided by (used in) investing activities ( 49,833 ) ( 94,342 ) ( 142,545 )
+FINANCING ACTIVITIES:
+Proceeds from short-term debt, and other 18,129 5,142 9,320
+Repayments of short-term debt, and other ( 25,677 ) ( 5,060 ) ( 8,426 )
+Proceeds from long-term debt — — 15,673
+Repayments of long-term debt ( 3,676 ) ( 9,182 ) ( 5,021 )
+Principal repayments of finance leases ( 4,384 ) ( 2,043 ) ( 1,557 )
+Principal repayments of financing obligations ( 271 ) ( 669 ) ( 328 )
+Net cash provided by (used in) financing activities ( 15,879 ) ( 11,812 ) 9,661
+Foreign currency effect on cash, cash equivalents, and restricted cash 403 ( 1,301 ) 1,164
+Net increase (decrease) in cash, cash equivalents, and restricted cash 19,637 8,422 7,794
+CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, END OF PERIOD $ 73,890 $ 82,312 $ 90,106
+See accompanying notes to consolidated financial statements.
+36
+Table of Contents
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in millions, except per share data)
+Year Ended December 31,
+2023 2024 2025
+Net product sales $ 255,887 $ 272,311 $ 296,266
+Net service sales 318,898 365,648 420,658
+Total net sales 574,785 637,959 716,924
+Operating expenses:
+Cost of sales 304,739 326,288 356,414
+Fulfillment 90,619 98,505 109,074
+Technology and infrastructure 85,622 88,544 108,521
+Sales and marketing 44,370 43,907 47,129
+General and administrative 11,816 11,359 11,172
+Other operating expense (income), net 767 763 4,639
+Total operating expenses 537,933 569,366 636,949
+Operating income 36,852 68,593 79,975
+Interest income 2,949 4,677 4,381
+Interest expense ( 3,182 ) ( 2,406 ) ( 2,274 )
+Other income (expense), net 938 ( 2,250 ) 15,229
+Total non-operating income 705 21 17,336
+Income before income taxes 37,557 68,614 97,311
+Provision for income taxes ( 7,120 ) ( 9,265 ) ( 19,087 )
+Equity-method investment activity, net of tax ( 12 ) ( 101 ) ( 554 )
+Net income $ 30,425 $ 59,248 $ 77,670
+Basic earnings per share $ 2.95 $ 5.66 $ 7.29
+Diluted earnings per share $ 2.90 $ 5.53 $ 7.17
+Weighted-average shares used in computation of earnings per share:
+Basic 10,304 10,473 10,656
+Diluted 10,492 10,721 10,827
+See accompanying notes to consolidated financial statements.
+37
+Table of Contents
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(in millions)
+Year Ended December 31,
+2023 2024 2025
+Net income $ 30,425 $ 59,248 $ 77,670
+Other comprehensive income (loss):
+Foreign currency translation adjustments, net of tax of $( 55 ), $ 226 , and $( 194 )
+1,027 ( 3,333 ) 4,226
+Available-for-sale debt securities:
+Change in net unrealized gains (losses), net of tax of $( 110 ), $( 2,086 ), and $( 8,754 )
+366 6,339 28,304
+Less: reclassification adjustment for net losses (gains) included in "Other income (expense), net," net of tax of $( 15 ), $( 2 ), and $ 1,327
+50 5 ( 4,273 )
+Net change 416 6,344 24,031
+Other, net of tax of $( 1 ), $ 1 , and $( 1 )
+4 ( 5 ) 7
+Total other comprehensive income (loss) 1,447 3,006 28,264
+Comprehensive income $ 31,872 $ 62,254 $ 105,934
+See accompanying notes to consolidated financial statements.
+38
+Table of Contents
+AMAZON.COM, INC.
+CONSOLIDATED BALANCE SHEETS
+(in millions, except per share data)
+December 31,
+2024 2025
+ASSETS
+Current assets:
+Cash and cash equivalents $ 78,779 $ 86,810
+Marketable securities 22,423 36,219
+Inventories 34,214 38,325
+Accounts receivable, net and other 55,451 67,729
+Total current assets 190,867 229,083
+Property and equipment, net 252,665 357,025
+Operating leases 76,141 86,054
+Goodwill 23,074 23,273
+Other assets 82,147 122,607
+Total assets $ 624,894 $ 818,042
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable $ 94,363 $ 121,909
+Accrued expenses and other 66,965 75,520
+Unearned revenue 18,103 20,576
+Total current liabilities 179,431 218,005
+Long-term lease liabilities 78,277 87,339
+Long-term debt 52,623 65,648
+Other long-term liabilities 28,593 35,985
+Commitments and contingencies (Note 7)
+Stockholders' equity:
+Preferred stock ($ 0.01 par value; 500 shares authorized; no shares issued or outstanding)
+— —
+Common stock ($ 0.01 par value; 100,000 shares authorized; 11,108 and 11,246 shares issued; 10,593 and 10,731 shares outstanding)
+111 112
+Treasury stock, at cost ( 7,837 ) ( 7,837 )
+Additional paid-in capital 120,864 140,024
+Accumulated other comprehensive income (loss) ( 34 ) 28,230
+Retained earnings 172,866 250,536
+Total stockholders' equity 285,970 411,065
+Total liabilities and stockholders' equity $ 624,894 $ 818,042
+See accompanying notes to consolidated financial statements.
+39
+Table of Contents
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+(in millions)
+Common Stock
+Shares Amount Treasury
+Stock Additional
+Paid-In
+Capital Accumulated Other Comprehensive Income (Loss) Retained
+Earnings Total
+Stockholders'
+Equity
+Balance as of January 1, 2023 10,242 $ 108 $ ( 7,837 ) $ 75,066 $ ( 4,487 ) $ 83,193 $ 146,043
+Net income — — — — — 30,425 30,425
+Other comprehensive income (loss) — — — — 1,447 — 1,447
+Stock-based compensation and issuance of employee benefit plan stock 141 1 — 23,959 — — 23,960
+Balance as of December 31, 2023 10,383 109 ( 7,837 ) 99,025 ( 3,040 ) 113,618 201,875
+Net income — — — — — 59,248 59,248
+Other comprehensive income (loss) — — — — 3,006 — 3,006
+Stock-based compensation and issuance of employee benefit plan stock 210 2 — 21,839 — — 21,841
+Balance as of December 31, 2024 10,593 111 ( 7,837 ) 120,864 ( 34 ) 172,866 285,970
+Net income — — — — — 77,670 77,670
+Other comprehensive income (loss) — — — — 28,264 — 28,264
+Stock-based compensation and issuance of employee benefit plan stock 138 1 — 19,160 — — 19,161
+Balance as of December 31, 2025 10,731 $ 112 $ ( 7,837 ) $ 140,024 $ 28,230 $ 250,536 $ 411,065
+See accompanying notes to consolidated financial statements.
+40
+Table of Contents
+AMAZON.COM, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Note 1 — DESCRIPTION OF BUSINESS, ACCOUNTING POLICIES, AND SUPPLEMENTAL DISCLOSURES
+Description of Business
+We seek to be Earth's most customer-centric company. In each of our segments, we serve our primary customer sets, consisting of consumers, sellers, developers, enterprises, content creators, advertisers, and employees. We serve consumers through our online and physical stores and focus on selection, price, and convenience. We offer programs that enable sellers to grow their businesses, sell their products in our stores, and fulfill orders using our services, and programs that allow authors, independent publishers, musicians, filmmakers, Twitch streamers, skill and app developers, and others to publish and sell content. We serve developers and enterprises of all sizes through AWS, which offers a broad set of on-demand technology services, including compute, storage, database, analytics, artificial intelligence and machine learning, and other services. We also manufacture and sell electronic devices. In addition, we provide advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising.
+We have organized our operations into three segments: North America, International, and AWS. See "Note 10 — Segment Information."
+Principles of Consolidation
+The consolidated financial statements include the accounts of Amazon.com, Inc. and its consolidated entities (collectively, the "Company"), consisting of its wholly-owned subsidiaries and those entities in which we have a variable interest and of which we are the primary beneficiary, including certain entities in India and certain entities that support our healthcare services and production and distribution of video content. Intercompany balances and transactions between consolidated entities are eliminated.
+Use of Estimates
+The preparation of financial statements in conformity with GAAP requires estimates and assumptions that affect the reported amounts of assets and liabilities, revenues and expenses, and related disclosures of contingent liabilities in the consolidated financial statements and accompanying notes. Estimates are used for, but not limited to, collectability of receivables, commitments and contingencies, impairment of property and equipment and operating leases, income taxes, inventory valuation, self-insurance liabilities, stock-based compensation forfeiture rates, the determination of when to capitalize certain costs relating to new products or service offerings, useful lives of equipment, valuation and impairment of investments, valuation of acquired intangibles and goodwill, valuation of derivative instruments, vendor funding, and viewing patterns of capitalized video content. Actual results could differ materially from these estimates. We review the useful lives of equipment on an ongoing basis.
+Effective January 1, 2025 we changed our estimate of the useful lives of a subset of our servers and networking equipment from six years to five years . The shorter useful lives are due to the increased pace of technology development, particularly in the area of artificial intelligence and machine learning. The effect of this change in estimate for the year ended December 31, 2025, based on servers and networking equipment that were included in "Property and equipment, net" as of December 31, 2024 and those acquired during the year ended December 31, 2025, was an increase in depreciation and amortization expense of $ 1.4 billion and a reduction in net income of $ 1.0 billion, or $ 0.10 per basic share and $ 0.10 per diluted share, which primarily impacted our AWS segment.
+During Q3 2025, we recorded $ 2.5 billion of expense related to the settlement of a lawsuit with the FTC. This charge was recorded in "Other operating expense (income), net" and impacted our North America segment.
+During Q4 2025, we recorded $ 2.4 billion of expense related to settlements of a lawsuit and tax disputes, severance costs, and asset impairments. Of this total, $ 1.1 billion related to the resolution of tax disputes associated with our stores business in Italy, and the settlement of a lawsuit, recorded primarily in "Other operating expense (income), net" and "Fulfillment," and primarily impacted our International segment.
+For the year ended December 31, 2025, we recorded approximately $ 2.7 billion of estimated severance costs primarily related to planned role eliminations, of which $ 1.8 billion was recorded in Q3 2025 and $ 730 million was recorded in the fourth quarter. These charges increased our payroll and related expenses, were recorded primarily in "Technology and infrastructure," "Fulfillment," and "Sales and marketing," and impacted all of our segments.
+For the year ended December 31, 2025, we recorded approximately $ 1.3 billion of asset impairments, of which $ 610 million was recorded in the fourth quarter, primarily consisting of property and equipment and operating leases related to
+41
+Table of Contents
+physical stores. These fourth quarter charges were recorded in "Other operating expense (income), net" and primarily impacted our North America segment.
+Supplemental Cash Flow Information
+The following table shows supplemental cash flow information (in millions):
+Year Ended December 31,
+2023 2024 2025
+SUPPLEMENTAL CASH FLOW INFORMATION:
+Cash paid for interest on debt, net of capitalized interest $ 2,608 $ 1,858 $ 1,458
+Cash paid for operating leases 10,453 12,341 15,038
+Cash paid for interest on finance leases 308 287 295
+Cash paid for interest on financing obligations 196 219 196
+Cash paid for income taxes, net of refunds 11,179 12,308 8,295
+Assets acquired under operating leases 14,052 15,424 19,930
+Property and equipment acquired under finance leases, net of remeasurements and modifications 642 854 2,911
+Increase (decrease) in property and equipment acquired but not yet paid ( 1,414 ) 7,039 10,155
+Earnings Per Share
+Basic earnings per share is calculated using our weighted-average outstanding common shares. Diluted earnings per share is calculated using our weighted-average outstanding common shares including the dilutive effect of stock awards as determined under the treasury stock method. In periods when we have a net loss, stock awards are excluded from our calculation of earnings per share as their inclusion would have an antidilutive effect.
+The following table shows the calculation of diluted shares (in millions):
+Year Ended December 31,
+2023 2024 2025
+Shares used in computation of basic earnings per share 10,304 10,473 10,656
+Total dilutive effect of outstanding stock awards 188 248 171
+Shares used in computation of diluted earnings per share 10,492 10,721 10,827
+Revenue
+Revenue is measured based on the amount of consideration that we expect to receive, reduced by estimates for return allowances, promotional discounts, and rebates. Revenue also excludes any amounts collected on behalf of third parties, including sales and indirect taxes. In arrangements where we have multiple performance obligations, the transaction price is allocated to each performance obligation using the relative stand-alone selling price. We generally determine stand-alone selling prices based on the prices charged to customers or using expected cost plus a margin.
+A description of our principal revenue generating activities is as follows:
+Retail sales - We offer consumer products through our online and physical stores. Revenue is recognized when control of the goods is transferred to the customer, which generally occurs upon our delivery to a third-party carrier or, in the case of an Amazon delivery, to the customer.
+Third-party seller services - We offer programs that enable sellers to sell their products in our stores, and fulfill orders using our services. We are not the seller of record in these transactions. The commissions and any related fulfillment and shipping fees we earn from these arrangements are recognized when the services are rendered, which generally occurs upon delivery of the related products to a third-party carrier or, in the case of an Amazon delivery, to the customer.
+Advertising services - We provide advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising. Revenue is recognized as ads are delivered based on the number of clicks or impressions.
+42
+Table of Contents
+Subscription services - Our subscription sales include fees associated with Amazon Prime memberships and access to content including digital video, audiobooks, digital music, e-books, and other non-AWS subscription services. Prime memberships provide our customers with access to an evolving suite of benefits that represent a single stand-ready obligation. Subscriptions are paid for at the time of or in advance of delivering the services. Revenue from such arrangements is recognized over the subscription period.
+AWS - Our AWS arrangements include global sales of compute, storage, database, and other services. Revenue is allocated to services using stand-alone selling prices and is primarily recognized when the customer uses these services, based on the quantity of services rendered, such as compute or storage capacity delivered on-demand. Certain services, including compute and database, are also offered as a fixed quantity over a specified term, for which revenue is recognized ratably. Sales commissions we pay in connection with contracts that exceed one year are capitalized and amortized over the contract term.
+Other - Other revenue includes sales related to various other offerings, such as healthcare services, certain licensing and distribution of video content, and shipping services, and our co-branded credit card agreements. Revenue is recognized when content is licensed or distributed and as or when services are performed.
+Return Allowances
+Return allowances, which reduce revenue and cost of sales, are estimated using historical experience. Liabilities for return allowances are included in "Accrued expenses and other" and were $ 1.4 billion, $ 1.4 billion, and $ 1.6 billion as of December 31, 2023, 2024, and 2025. Additions to the allowance were $ 5.2 billion, $ 5.5 billion, and $ 5.8 billion and deductions from the allowance were $ 5.1 billion, $ 5.5 billion, and $ 5.8 billion in 2023, 2024, and 2025. Included in "Inventories" on our consolidated balance sheets are assets totaling $ 992 million, $ 998 million, and $ 1.2 billion as of December 31, 2023, 2024, and 2025, for the rights to recover products from customers associated with our liabilities for return allowances.
+Cost of Sales
+Cost of sales primarily consists of the purchase price of consumer products, inbound and outbound shipping costs, including costs related to sortation and delivery centers and where we are the transportation service provider, and digital media content costs where we record revenue gross, including video and music. Shipping costs to receive products from our suppliers are included in our inventory, and recognized as cost of sales upon sale of products to our customers. Payment processing and related transaction costs, including those associated with seller transactions, are classified in "Fulfillment" on our consolidated statements of operations.
+Vendor Agreements
+We have agreements with our vendors to receive consideration primarily for cooperative marketing efforts, promotions, incentives, and volume rebates. We generally consider these amounts received from vendors to be a reduction of the prices we pay for their goods, including property and equipment, or services, and are recorded as a reduction of the cost of inventory, cost of services, or cost of property and equipment. Volume rebates typically depend on reaching minimum purchase thresholds. We evaluate the likelihood of reaching purchase thresholds using past experience and current year forecasts. When volume rebates can be reasonably estimated, we record a portion of the rebate as we make progress towards the purchase threshold.
+Fulfillment
+Fulfillment costs primarily consist of those costs incurred in operating and staffing our North America and International segments' fulfillment centers, physical stores, and customer service centers, including facilities and equipment expenses, such as depreciation and amortization, and rent; costs attributable to buying, receiving, inspecting, and warehousing inventories; picking, packaging, and preparing customer orders for shipment; payment processing and related transaction costs, including costs associated with our guarantee for certain seller transactions; responding to inquiries from customers; and supply chain management for our manufactured electronic devices. Fulfillment costs also include amounts paid to third parties that assist us in fulfillment and customer service operations.
+43
+Table of Contents
+Technology and Infrastructure
+Technology and infrastructure costs include payroll and related expenses for employees involved in the research and development of new and existing products and services, development, design, and maintenance of our stores, curation and display of products and services made available in our online stores, and infrastructure costs. Infrastructure costs include servers, networking equipment, and data center related depreciation and amortization, rent, utilities, and other expenses necessary to support AWS and other Amazon businesses. Collectively, these costs reflect the investments we make in order to offer a wide variety of products and services to our customers, including expenditures related to initiatives to build and deploy innovative and efficient software and electronic devices and the development of a satellite network for global broadband service and autonomous vehicles for ride-hailing services. Technology and infrastructure costs are generally expensed as incurred.
+Sales and Marketing
+Sales and marketing costs include advertising and payroll and related expenses for personnel engaged in marketing and selling activities, including sales commissions related to AWS. We pay commissions to third parties when their customer referrals result in sales. We also participate in cooperative advertising arrangements with certain of our vendors, and other third parties.
+Advertising and other promotional costs to market our products and services are expensed as incurred and were $ 20.3 billion, $ 21.4 billion, and $ 23.5 billion in 2023, 2024, and 2025.
+General and Administrative
+General and administrative expenses primarily consist of costs for corporate functions, including payroll and related expenses; facilities and equipment expenses, such as depreciation and amortization expense and rent; and professional fees.
+Stock-Based Compensation
+Compensation cost for all equity-classified stock awards expected to vest is measured at fair value on the date of grant and recognized over the service period. The fair value of restricted stock units is determined based on the number of shares granted and the quoted price of our common stock. Such value is recognized as expense over the service period, net of estimated forfeitures, using the accelerated method. Under this method, approximately 50 % of the grant date fair value is recognized as expense in the first year of grant for the majority of our stock-based compensation awards. The accelerated method also adds a higher level of sensitivity and complexity in estimating forfeitures. If an award is forfeited early in its life, the adjustment to compensation expense is much greater under an accelerated method than under a straight-line method. The estimated number of stock awards that will ultimately vest requires judgment, and to the extent actual results or updated estimates differ from our current estimates, such amounts will be recorded as a cumulative adjustment in the period estimates are revised. We consider many factors when estimating expected forfeitures, including historical forfeiture experience. Additionally, we have stock-based compensation awards that are expected to settle in cash. These liability-classified awards are remeasured to fair value at the end of each reporting period until settlement or expiration.
+Other Operating Expense (Income), Net
+Other operating expense (income), net, consists primarily of the amortization of intangible assets and asset impairments. During 2025, we also recorded the settlement of a lawsuit with the FTC and the resolution of tax disputes associated with our stores business in Italy.
+44
+Table of Contents
+Other Income (Expense), Net
+Other income (expense), net, is as follows (in millions):
+Year Ended December 31,
+2023 2024 2025
+Marketable equity securities valuation gains (losses), net $ 984 $ ( 1,278 ) $ 1,439
+Equity warrant valuation gains (losses), net 26 ( 192 ) 553
+Reclassification adjustments for gains (losses) on available-for-sale debt securities, net ( 65 ) ( 7 ) 5,600
+Upward adjustments relating to equity investments in private companies 40 49 7,709
+Foreign currency gains (losses), net 65 ( 408 ) 19
+Other, net ( 112 ) ( 414 ) ( 91 )
+Total other income (expense), net $ 938 $ ( 2,250 ) $ 15,229
+The marketable equity securities valuation gain (loss) of $ 984 million, $( 1.3 ) billion, and $ 1.4 billion in 2023, 2024, and 2025 is primarily from our equity investment in Rivian. The reclassification adjustments for the gains on available-for-sale debt securities of $ 5.6 billion for the year ended December 31, 2025 is primarily from the portions of our convertible notes investments in Anthropic that were converted to nonvoting preferred stock during the year ended December 31, 2025. The upward adjustments relating to equity investments in private companies of $ 7.7 billion for the year ended December 31, 2025 reflect observable changes in prices, primarily from our nonvoting preferred stock in Anthropic.
+Income Taxes
+Income tax expense includes U.S. (federal and state) and foreign income taxes. Certain foreign subsidiary earnings and losses are subject to current U.S. taxation and the subsequent repatriation of those earnings is not subject to tax in the U.S. We intend to invest substantially all of our foreign subsidiary earnings, as well as our capital in our foreign subsidiaries, indefinitely outside of the U.S. in those jurisdictions in which we would incur significant, additional costs upon repatriation of such amounts.
+Deferred income tax balances reflect the effects of temporary differences between the carrying amounts of assets and liabilities and their tax bases, as well as net operating loss and tax credit carryforwards, and are stated at enacted tax rates expected to be in effect when taxes are actually paid or recovered.
+Deferred tax assets represent amounts available to reduce income taxes payable in future periods. Deferred tax assets are evaluated for future realization and reduced by a valuation allowance to the extent we believe they will not be realized. We consider many factors when assessing the likelihood of future realization of our deferred tax assets, including recent cumulative loss experience and expectations of future earnings, capital gains and investment in such jurisdiction, the carry-forward periods available to us for tax reporting purposes, and other relevant factors.
+We utilize a two-step approach to recognizing and measuring uncertain income tax positions (income tax contingencies). The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates it is more likely than not the position will be sustained on audit, including resolution of related appeals or litigation processes. The second step is to measure the tax benefit as the largest amount which is more than 50% likely of being realized upon ultimate settlement. We consider many factors when evaluating our tax positions and estimating our tax benefits, which may require periodic adjustments and which may not accurately forecast actual outcomes. We include interest and penalties related to our income tax contingencies in income tax expense.
+Fair Value of Financial Instruments
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. To increase the comparability of fair value measures, the following hierarchy prioritizes the inputs to valuation methodologies used to measure fair value:
+Level 1 — Valuations based on quoted prices for identical assets and liabilities in active markets.
+Level 2 — Valuations based on observable inputs other than quoted prices included in Level 1, such as quoted prices for similar assets and liabilities in active markets, quoted prices for identical or similar assets and liabilities in markets that are not active, or other inputs that are observable or can be corroborated by observable market data.
+Level 3 — Valuations based on unobservable inputs reflecting our own assumptions, consistent with reasonably available assumptions made by other market participants. These valuations require significant judgment.
+45
+Table of Contents
+We measure the fair value of money market funds and certain marketable equity securities based on quoted prices in active markets for identical assets or liabilities. Other marketable securities were valued either based on recent trades of securities in inactive markets or based on quoted market prices of similar instruments and other significant inputs derived from or corroborated by observable market data.
+Derivative Instruments
+We enter into energy contracts to secure electricity supply for our existing and future operations, some of which extend 20 years. We may make or receive net cash payments, rather than take delivery of electricity, when our consumption is less than committed quantities due to operational variability. Because we may make or receive net cash payments, these contracts are derivative instruments. These contracts are not traded on exchanges or transacted in secondary markets and are not used for trading or speculative purposes.
+Derivative instruments are measured at fair value each reporting period. Fair value measurements are based on valuation methods using both common factors like electricity futures prices where there are more liquid trading volumes generally for remaining contractual periods up to four to five years , forward capacity auctions and risk-free interest rates, and a number of management assumptions for remaining contractual periods greater than four to five years where there is significantly less or no trading data such as long-dated forward commodity prices and implied volatility curves, and credit adjustments. The extent of management judgment is significant (Level 3).
+Fair value measurements will not impact cash flows but may be material to our statements of operations and balance sheet due to the duration of these contracts and volatility inherent in valuation methods. Generally, we can terminate our contracts by paying cash in the form of fixed penalties, such as reimbursing the counterparty for the costs of new construction incurred. Termination penalties are generally not based on fair value measurements.
+As of December 31, 2025, the energy contract quantities subject to derivative accounting fair value measurements were approximately 200 million megawatt-hours and the weighted-average remaining duration of these contracts is approximately 16 years, with the majority of these megawatt-hours to be delivered beyond the next nine years . The impact of these fair value measurements on our consolidated statement of operations for the year ended December 31, 2025 was not significant.
+Changes in fair value measurements will create unrealized gains and losses recorded within operating expenses on our statements of operations with corresponding assets (unrealized gains) and liabilities (unrealized losses) recorded on our balance sheet.
+Certain of our energy contracts are subject to regulatory approval and are exempt from derivative guidance until the approval is obtained. If possible, we may elect the normal purchases and normal sales (NPNS) scope exemption from derivative guidance for energy contracts where we expect to consume substantially all committed quantities. A contract that no longer meets the NPNS exemption must be measured at fair value with immediate recognition in our financial statements.
+Cash and Cash Equivalents
+We classify all highly liquid instruments with an original maturity of three months or less as cash equivalents.
+Inventories
+Inventories, consisting of products available for sale, are primarily accounted for using the first-in, first-out method, and are valued at the lower of cost and net realizable value. This valuation requires us to make judgments, based on currently available information, about the likely method of disposition, such as through sales to individual customers, returns to product vendors, or liquidations, and expected recoverable values of each disposition category. The inventory valuation allowance, representing a write-down of inventory, was $ 3.0 billion and $ 3.3 billion as of December 31, 2024 and 2025.
+We provide Fulfillment by Amazon services in connection with certain of our sellers' programs. Third-party sellers maintain ownership of their inventory, regardless of whether fulfillment is provided by us or the third-party sellers, and therefore these products are not included in our inventories.
+We also purchase electronic device components from a variety of suppliers and use several contract manufacturers to provide manufacturing services for our products. During the normal course of business, in order to manage manufacturing lead times and help ensure adequate supply, we enter into agreements with contract manufacturers and suppliers for certain electronic device components. We have certain non-cancellable purchase commitments arising from these agreements. These commitments are based on forecasted customer demand. If we reduce these commitments, we may incur additional costs.
+46
+Table of Contents
+Accounts Receivable, Net and Other
+Included in "Accounts receivable, net and other" on our consolidated balance sheets are receivables primarily related to customers, vendors, and prepaid expenses and other current assets. As of December 31, 2024 and 2025, customer receivables, net, were $ 34.3 billion and $ 40.4 billion, vendor receivables, net, were $ 11.6 billion and $ 15.9 billion, and other receivables, net, were $ 3.4 billion and $ 4.5 billion. Prepaid expenses and other current assets, which include amounts related to non-income taxes and satellite network launch services deposits, were $ 6.3 billion and $ 6.9 billion as of December 31, 2024 and December 31, 2025. We currently expense satellite network launch services deposits upon launch to "Technology and infrastructure."
+We estimate losses on receivables based on expected losses, including our historical experience of actual losses. Receivables are considered impaired and written-off when it is probable that all contractual payments due will not be collected in accordance with the terms of the agreement. The allowance for doubtful accounts was $ 1.7 billion, $ 2.0 billion, and $ 2.4 billion as of December 31, 2023, 2024, and 2025. Additions to the allowance were $ 1.9 billion, $ 1.9 billion, and $ 1.6 billion, and deductions to the allowance were $ 1.6 billion, $ 1.6 billion, and $ 1.2 billion in 2023, 2024, and 2025.
+Software Development Costs
+We incur software development costs related to products to be sold, leased, or marketed to external users, internal-use software, and our websites. Software development costs capitalized were not significant for the years presented. All other costs, including those related to design or maintenance, are expensed as incurred.
+Property and Equipment, Net
+Property and equipment are stated at cost less accumulated depreciation and amortization. Incentives that we receive from property and equipment vendors are recorded as a reduction to our costs. Property includes buildings and land that we own, along with property we have acquired under build-to-suit lease arrangements when we have control over the building during the construction period and finance lease arrangements. Heavy equipment consists primarily of assets that support the infrastructure of our fulfillment network and data centers. Other equipment consists primarily of fulfillment equipment. Depreciation and amortization is recorded on a straight-line basis over the estimated useful lives of the assets and classified within the corresponding operating expense categories on our consolidated statements of operations. The estimated useful lives as of December 31, 2025, are as follows:
+Property and equipment Estimated useful life
+Buildings Lesser of forty years or the remaining life of the underlying building
+Servers and networking equipment Five to six years (1)
+Heavy equipment Ten to thirteen years (2)
+Other equipment Three to ten years
+___________________
+(1) Effective January 1, 2024, we changed our estimate of the useful lives for our servers from five to six years , and effective January 1, 2025, we changed our estimate of the useful lives of a subset of our servers and networking equipment from six to five years .
+(2) Ten years prior to January 1, 2025.
+Leases
+We categorize leases with contractual terms longer than twelve months as either operating or finance. Finance leases are generally those leases that allow us to substantially utilize or pay for the entire asset over its estimated life. Assets acquired under finance leases are recorded in "Property and equipment, net." All other leases are categorized as operating leases. Our leases generally have terms that range from one to ten years for equipment and one to twenty years for property.
+Certain lease contracts include obligations to pay for other services, such as operations and maintenance. For leases of property, we account for these other services as a component of the lease. For substantially all other leases, the services are accounted for separately and we allocate payments to the lease and other services components based on estimated stand-alone prices.
+Lease liabilities are recognized at the present value of the fixed lease payments, reduced by landlord incentives using a discount rate based on similarly secured borrowings available to us. Lease assets are recognized based on the initial present value of the fixed lease payments, reduced by landlord incentives, plus any direct costs from executing the leases or lease prepayments reclassified from "Other assets" upon lease commencement. Leasehold improvements are capitalized at cost and amortized over the lesser of their expected useful life or the lease term.
+47
+Table of Contents
+When we have the option to extend the lease term, terminate the lease before the contractual expiration date, or purchase the leased asset, and it is reasonably certain that we will exercise the option, we consider the option in determining the classification and measurement of the lease. Our leases may include variable payments based on measures that include changes in price indices, market interest rates, or the level of sales at a physical store, which are expensed as incurred.
+Costs associated with operating lease assets are recognized on a straight-line basis within operating expenses over the term of the lease. Finance lease assets are amortized within operating expenses on a straight-line basis over the shorter of the estimated useful lives of the assets or, in the instance where title does not transfer at the end of the lease term, the lease term. The interest component of a finance lease is included in interest expense and recognized using the effective interest method over the lease term.
+We establish assets and liabilities for the present value of estimated future costs to retire long-lived assets at the termination or expiration of a lease. Such assets are amortized over the lease period into operating expense, and the recorded liabilities are accreted to the future value of the estimated retirement costs.
+Financing Obligations
+We record assets and liabilities for estimated construction costs under build-to-suit lease arrangements when we have control over the building during the construction period. If we continue to control the building after the construction period, the arrangement is classified as a financing obligation instead of a lease. The building is depreciated over the shorter of its useful life or the term of the obligation.
+If we do not control the building after the construction period ends, the assets and liabilities for construction costs are derecognized, and we classify the lease as operating.
+Goodwill and Indefinite-Lived Intangible Assets
+We evaluate goodwill and indefinite-lived intangible assets for impairment annually or more frequently when an event occurs or circumstances change that indicate the carrying value may not be recoverable. We may elect to utilize a qualitative assessment to evaluate whether it is more likely than not that the fair value of a reporting unit or indefinite-lived intangible asset is less than its carrying value and if so, we perform a quantitative test. We compare the carrying value of each reporting unit and indefinite-lived intangible asset to its estimated fair value and if the fair value is determined to be less than the carrying value, we recognize an impairment loss for the difference. We estimate the fair value of the reporting units using discounted cash flows. Forecasts of future cash flows are based on our best estimate of future net sales and operating expenses, based primarily on expected category expansion, pricing, market segment share, and general economic conditions.
+We completed the required annual impairment test of goodwill for all reporting units and indefinite-lived intangible assets as of April 1, 2025, resulting in no impairments. The fair value of our reporting units substantially exceeded their carrying value. There were no events that caused us to update our annual impairment test. See "Note 5 — Acquisitions, Goodwill, and Acquired Intangible Assets."
+Other Assets
+Included in "Other assets" on our consolidated balance sheets are amounts primarily related to convertible notes and certain equity investments; video and music content, net of accumulated amortization; long-term deferred tax assets; acquired intangible assets, net of accumulated amortization; satellite network launch services deposits; and affordable housing loans. We will reclassify the satellite network launch service deposits to construction-in-progress included within "Property and equipment, net" on our consolidated balance sheet once the service achieves commercial viability, including sales to customers. We recognize certain transactions with governments when it is probable that incentives included in the agreements, such as cash or certain tax credits, will be received and we are able to comply with any related conditions. These incentives are recorded as reductions to the cost of related assets or expenses.
+Digital Video and Music Content
+We obtain video content, inclusive of episodic television and movies, and music content for customers through licensing agreements that have a wide range of licensing provisions including both fixed and variable payment schedules. When the license fee for a specific video or music title is determinable or reasonably estimable and the content is available to us, we recognize an asset and a corresponding liability for the amounts owed. We reduce the liability as payments are made and we amortize the asset to "Cost of sales" on an accelerated basis, based on estimated usage or viewing patterns, or on a straight-line basis. If the licensing fee is not determinable or reasonably estimable, no asset or liability is recorded and licensing costs are expensed as incurred. We also develop original video content for which the production costs are capitalized and amortized to "Cost of sales" predominantly on an accelerated basis that follows the estimated viewing patterns associated with the content.
+48
+Table of Contents
+The weighted average remaining life of our capitalized video content is 3.2 years. We review usage and viewing patterns impacting the amortization of capitalized video content on an ongoing basis and reflect any changes prospectively.
+Our produced and licensed video content is primarily monetized together as a unit, referred to as a film group, in each major geography where we offer Amazon Prime memberships. These film groups are evaluated for impairment whenever an event occurs or circumstances change indicating the fair value is less than the carrying value. The total capitalized costs of video, which is primarily released content, and music as of December 31, 2024 and 2025 were $ 19.6 billion and $ 21.3 billion. Total video and music expense was $ 20.4 billion and $ 22.4 billion for the year ended December 31, 2024 and 2025. Total video and music expense includes licensing and production costs associated with content offered within Amazon Prime memberships, and costs associated with digital subscriptions and sold or rented content.
+Cash Equivalents and Marketable Securities
+We generally invest our excess cash in investment grade short- to intermediate-term marketable debt securities and AAA-rated money market funds. Such investments are included in "Cash and cash equivalents" or "Marketable securities" on the accompanying consolidated balance sheets.
+Marketable debt securities are classified as available-for-sale and reported at fair value with unrealized gains and losses included in "Accumulated other comprehensive income (loss)." Each reporting period, we evaluate whether declines in fair value below carrying value are due to expected credit losses, as well as our ability and intent to hold the investment until a forecasted recovery occurs. Expected credit losses are recorded as an allowance through "Other income (expense), net" on our consolidated statements of operations.
+Equity investments that have readily determinable fair values, including investments for which we have elected the fair value option, are included in "Marketable securities" on our consolidated balance sheets and measured at fair value with changes recognized in "Other income (expense), net" on our consolidated statements of operations.
+Non-Marketable Investments
+Notes that are convertible to equity classified as available-for-sale are reported at fair value with unrealized gains and losses included in "Accumulated other comprehensive income (loss)," a separate component of stockholders' equity. Credit losses, if any, are recorded as an allowance through "Other income (expense), net" on our consolidated statements of operations. Upon conversion, the amount of the notes reported at fair value are reclassified generally from available-for-sale to equity investments accounted for at cost, with any associated unrealized gain or loss reclassified from "Accumulated other comprehensive income (loss)" to "Other income (expense), net" on our consolidated statements of operations.
+From Q3 2023 to Q4 2024, we invested $ 5.3 billion in convertible notes from Anthropic, which are classified as available-for-sale and as Level 3 assets, and as of December 31, 2024 had an estimated fair value of approximately $ 13.8 billion. In making these estimates, we utilized valuation methods based on information available, including the rights and obligations of the convertible notes, other outstanding classes of securities, observable transactions such as new securities offerings, estimates of expected time to and type of liquidity events and anticipated securities offerings, and discounts for lack of marketability. Some of these notes converted to nonvoting preferred stock in Q1 2025. As a result of conversions, a significant portion of the unrealized gain associated with the notes as of December 31, 2024 was reclassified and a gain of approximately $ 3.3 billion was recorded in "Other income (expense), net" in our consolidated statement of operations. The investment in nonvoting preferred stock was initially recorded at its estimated fair value at the time of the conversion and is accounted for as a component of our equity investments in private companies not accounted for under the equity-method, with future adjustments for observable changes in prices or impairments representing Level 3 fair value measurements recognized in "Other income (expense), net" on our consolidated statements of operations. In Q2 2025, we invested $ 1.3 billion in a new convertible note from Anthropic. In Q3 2025, an additional portion of our notes was converted to nonvoting preferred stock, and as a result of the conversion a portion of the unrealized gain associated with the notes was reclassified and a gain of approximately $ 2.3 billion was recorded in "Other income (expense), net." We also recorded an upward adjustment of $ 7.2 billion to our nonvoting preferred stock in "Other income (expense), net" to reflect observable changes in price. In Q4 2025, we invested $ 1.4 billion in a new convertible note from Anthropic. As of December 31, 2025, the amount recorded on our consolidated balance sheet for nonvoting preferred stock was approximately $ 14.8 billion. As of December 31, 2025, the estimated fair value of our convertible notes recorded on our consolidated balance sheet was approximately $ 45.8 billion, and the associated pre-tax unrealized gain included in "Accumulated other comprehensive income (loss)" was $ 39.5 billion. We also have a commercial arrangement primarily for the provision of AWS cloud services, which includes the use of AWS chips.
+Subsequent to December 31, 2025, an additional portion of our notes was converted to nonvoting preferred stock. As a result of this conversion, in our Q1 2026 financial statements, we will reclassify a portion of the unrealized gain associated with the notes as of December 31, 2025 and record a gain of approximately $ 3 billion in "Other income (expense), net." In our Q1
+49
+Table of Contents
+2026 financial statements, we will also record an upward adjustment of approximately $ 12 billion to our nonvoting preferred stock as of December 31, 2025 in "Other income (expense), net" to reflect observable changes in price.
+Equity investments in private companies not accounted for under the equity-method, which primarily relate to nonvoting preferred stock in Anthropic, are accounted for at cost, with adjustments for observable changes in prices or impairments representing Level 3 fair value measurements recognized in "Other income (expense), net" on our consolidated statements of operations. Each reporting period, we perform a qualitative assessment to evaluate whether the investment is impaired. Our assessment includes a review of recent operating results and trends, recent sales/acquisitions of the investee securities, and other publicly available data. If the investment is impaired, we write it down to its estimated fair value. As of December 31, 2024 and 2025, these investments had a carrying value of $ 989 million and $ 16.2 billion.
+Equity investments where we can exercise significant influence, but not control, over an investee are accounted for using the equity-method of accounting, or at fair value if we elect the fair value option. Our share of the earnings or losses as reported by equity-method investees, amortization of basis differences, related gains or losses, and impairments, if any, are recognized in "Equity-method investment activity, net of tax" on our consolidated statements of operations. Each reporting period, we evaluate whether declines in fair value below carrying value are other-than-temporary and if so, we write down the investment to its estimated fair value. As of December 31, 2024 and 2025, these investments had a carrying value of $ 1.2 billion and $ 659 million.
+As of December 31, 2024 and 2025, equity warrants measured at fair value were $ 2.7 billion, with changes recognized in "Other income (expense), net" on our consolidated statements of operations. These warrants are classified as Level 2 and 3 assets.
+These non-marketable investments are included within "Other assets" on our consolidated balance sheets.
+Certain of our investments represent a variable interest in an entity for which we do not consolidate because we are not the primary beneficiary.
+Long-Lived Assets
+Long-lived assets, other than goodwill and indefinite-lived intangible assets, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of the assets might not be recoverable. Conditions that would necessitate an impairment assessment include a significant decline in the observable market value of an asset, a significant change in the extent or manner in which an asset is used, or any other significant adverse change that would indicate that the carrying amount of an asset or group of assets may not be recoverable.
+For long-lived assets used in operations, including lease assets, impairment losses are only recorded if the asset's carrying amount is not recoverable through its undiscounted, probability-weighted future cash flows. We measure the impairment loss based on the difference between the carrying amount and estimated fair value. Long-lived assets are considered held for sale when certain criteria are met, including when management has committed to a plan to sell the asset, the asset is available for sale in its immediate condition, and the sale is probable within one year of the reporting date. Assets held for sale are reported at the lower of cost or fair value less costs to sell. Assets held for sale were not significant as of December 31, 2024 and 2025.
+Accrued Expenses and Other
+Included in "Accrued expenses and other" on our consolidated balance sheets are liabilities primarily related to tax-related liabilities, leases and asset retirement obligations, payroll and related expenses, self-insurance liabilities, unredeemed gift cards, other operating expenses, customer liabilities, marketing liabilities, current debt, and acquired digital media content.
+As of December 31, 2024 and 2025, our liabilities for payroll related expenses were $ 7.5 billion and $ 10.5 billion and our liabilities for unredeemed gift cards were $ 5.4 billion and $ 5.6 billion. We reduce the liability for a gift card when redeemed by a customer. The portion of gift cards that we do not expect to be redeemed is recognized based on customer usage patterns.
+Self-Insurance Liabilities
+Although we maintain certain high-deductible, third-party insurance coverage for catastrophic losses, we effectively self-insure for exposure primarily related to workers' compensation, employee healthcare benefits, general and product liability, and automobile liability, including liability resulting from third-party transportation service providers. We estimate self-insurance liabilities by considering historical claims experience, frequency and costs of claims, projected claims development, inflation, and other actuarial assumptions. Changes in the number or costs of claims, healthcare costs, judgment and settlement amounts, associated legal expenses, and other factors could cause actual results to differ materially from these estimates. As of December 31, 2024 and 2025, our total self-insurance liabilities, which primarily relate to automobile liability, were $ 8.5 billion and $ 10.4 billion and are included in "Accrued expenses and other" on our consolidated balance sheets.
+50
+Table of Contents
+Unearned Revenue
+Unearned revenue is recorded when payments are received or due in advance of performing our service obligations and is recognized over the service period. Unearned revenue primarily relates to prepayments of AWS services and Amazon Prime memberships. Our total unearned revenue as of December 31, 2024 was $ 24.6 billion, of which $ 17.4 billion was recognized as revenue during the year ended December 31, 2025 and our total unearned revenue as of December 31, 2025 was $ 25.0 billion. Included in "Other long-term liabilities" on our consolidated balance sheets was $ 6.5 billion and $ 4.4 billion of unearned revenue as of December 31, 2024 and 2025.
+Additionally, we have performance obligations, primarily related to AWS, associated with commitments in customer contracts for future services that we expect to fulfill but have not yet been recognized in our financial statements. For contracts with original terms that exceed one year, those commitments not yet recognized were approximately $ 244 billion as of December 31, 2025. The weighted average remaining life of our long-term contracts is 4.1 years. The amount and timing of revenue recognition will be driven by customer usage and our performance in accordance with contractual obligations, which can extend beyond the original contractual duration and commitment.
+Other Long-Term Liabilities
+Included in "Other long-term liabilities" on our consolidated balance sheets are liabilities primarily related to deferred tax liabilities, financing obligations, asset retirement obligations, unearned revenue, tax contingencies, and digital video and music content.
+Foreign Currency
+We have internationally-focused stores for which the net sales generated, as well as most of the related expenses directly incurred from those operations, are denominated in local functional currencies. The functional currency of our subsidiaries that either operate or support these stores is generally the same as the local currency. Assets and liabilities of these subsidiaries are translated into U.S. Dollars at period-end foreign exchange rates, and revenues and expenses are translated at average rates prevailing throughout the period. Translation adjustments are included in "Accumulated other comprehensive income (loss)," a separate component of stockholders' equity. Transaction gains and losses including intercompany transactions denominated in a currency other than the functional currency of the entity involved are included in "Other income (expense), net" on our consolidated statements of operations. In connection with the settlement and remeasurement of intercompany balances, we recorded gains (losses) of $( 329 ) million, $ 413 million, and $( 863 ) million in 2023, 2024, and 2025.
+Accounting Pronouncements Recently Adopted
+In December 2023, the Financial Accounting Standards Board ("FASB") issued an Accounting Standards Update ("ASU") amending existing income tax disclosure guidance, primarily requiring more detailed disclosure for income taxes paid and the effective tax rate reconciliation. We adopted this ASU for the year ended December 31, 2025 on a retroactive basis. See "Note 9 — Income Taxes."
+Accounting Pronouncements Not Yet Adopted
+In November 2024, the FASB issued an ASU amending existing income statement disclosure guidance, primarily requiring more detailed disclosure for expenses. The ASU is effective for annual reporting periods beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027, with early adoption permitted. The amendments can be applied on either a prospective or retroactive basis. We are currently evaluating the ASU to determine its impact on our disclosures.
+51
+Table of Contents
+Note 2 — FINANCIAL INSTRUMENTS
+Cash, Cash Equivalents, Restricted Cash, and Marketable Securities
+As of December 31, 2024 and 2025, our cash, cash equivalents, restricted cash, and marketable securities primarily consisted of cash, AAA-rated money market funds, U.S. government and agency securities, other investment grade securities, and marketable equity securities. Cash equivalents and marketable securities are recorded at fair value. The following table sum

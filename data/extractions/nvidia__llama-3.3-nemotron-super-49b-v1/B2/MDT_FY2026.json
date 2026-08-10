@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "chiffre_affaires": "$36,364",
+    "total_revenue": "$36,364",
+    "net_sales": "$36,364",
+    "total_net_revenues": "$36,364",
+    "ebit": "$6,467",
+    "operating_income": "$6,467",
+    "income_from_operations": "$6,467",
+    "ebitda": "2,958 (D&A) + 6,467 (Operating Income) = $9,425",
+    "dotations_amortissements": "$2,958",
+    "depreciation_and_amortization": "$2,958",
+    "resultat_net": "$4,837",
+    "net_income": "$4,837"
+  },
+  "seconds": 87.98,
+  "tokens": 400,
+  "parsed": true
+}

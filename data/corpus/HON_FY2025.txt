@@ -1,0 +1,665 @@
+n net share repurchases.
+52 Honeywell International Inc.
+TABLE OF CONTENTS
+MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+PERFORMANCE GRAPH
+The following graph compares the five-year cumulative total return on our common stock to the total returns on the Standard & Poor's (S&P) 500 Stock Index, composite of S&P's Industrial Conglomerates and Aerospace and Defense indices, on a 45%/55% weighted basis (the Composite Index) and Nasdaq Industrial Select Sector (XLI Index). The weighting of the components of the Composite Index are based on our segments' relative contribution to total segment profit. The selection of the Industrial Conglomerates component of the Composite Index reflects the diverse and distinct range of non-aerospace businesses conducted by Honeywell. The annual changes for the five-year period shown in the graph are based on the assumption that $100 was invested in Honeywell stock and each index on December 31, 2020, and that all dividends were reinvested.
+Comparison of Cumulative Five-Year Total Return
+Dec. 2020
+Dec. 2021
+Dec. 2022
+Dec. 2023
+Dec. 2024
+Dec. 2025
+Honeywell $ 100.00 $ 99.71 $ 104.59 $ 104.61 $ 115.09 $ 107.80
+S&P 500 Index 100.00 128.71 105.40 133.10 166.40 196.16
+Composite Index 100.00 109.62 116.46 131.92 163.58 204.18
+XLI Index 100.00 121.08 114.34 135.07 158.45 189.10
+53 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS
+AND SUPPLEMENTARY DATA
+INDEX TO THE CONSOLIDATED FINANCIAL STATEMENTS
+55
+Consolidated Statement of Operations
+56
+Consolidated Statement of Comprehensive Income
+57
+Consolidated Balance Sheet
+58
+Consolidated Statement of Cash Flows
+59
+Consolidated Statement of Shareowners' Equity
+60
+Note 1. Summary of Significant Accounting Policies
+65
+Note 2. Acquisitions, Divestitures, and D iscontinued Operations
+71
+Note 3 . Revenue Recognition and Contracts with Customers
+74
+Note 4 . Repositioning and Other (Gains) Charges
+76
+Note 5 . Income Taxes
+81
+Note 6 . Inventories
+81
+Note 7 . Property, Plant and Equipment—Net
+82
+Note 8 . Goodwill and Other Intangible Assets—Net
+83
+Note 9 . Debt and Credit Agreements
+85
+Note 10 . Leases
+88
+Note 11 . Derivative Instruments and Hedging Transactions
+91
+Note 12 . Fair Value Measurements
+93
+Note 13 . Accrued Liabilities
+93
+Note 14 . Other Liabilities
+94
+Note 15 . Stock-Based Compensation Plans
+97
+Note 16 . Earnings Per Share
+98
+Note 17 . Accumulated Other Comprehensive Loss
+100
+Note 18 . Capital Stock
+101
+Note 19 . Commitments and Contingencies
+106
+Note 20 . Pension and Other Postretirement Benefits
+116
+Note 21 . Other (Income) Expense
+116
+Note 22 . Segment Financial Data
+119
+Note 23 . Geographic Areas—Financial Data
+119
+Note 24 . Supplemental Cash Flow Information
+120
+Note 25. Unaudited Quarterly Financial Inf or mation
+121
+Report of Independent Registered Public Accounting Firm
+54 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+HONEYWELL INTERNATIONAL INC.
+CONSOLIDATED STATEMENT OF OPERATIONS
+Years Ended December 31,
+2025 2024 2023
+(Dollars in millions,
+except per share amounts)
+Product sales $ 24,515 $ 22,841 $ 22,345
+Service sales 12,927 11,876 10,664
+Net sales 37,442 34,717 33,009
+Costs, expenses and other
+Cost of products sold 16,153 15,017 14,836
+Cost of services sold 7,460 6,343 5,801
+Total Cost of products and services sold 23,613 21,360 20,637
+Research and development expenses 1,812 1,454 1,375
+Selling, general and administrative expenses 5,450 5,235 4,887
+Impairment of goodwill
+724 — —
+Impairment of assets held for sale 270 219 —
+Other (income) expense ( 1,247 ) ( 843 ) ( 830 )
+Interest and other financial charges 1,344 1,048 749
+Total costs, expenses and other 31,966 28,473 26,818
+Income from continuing operations before taxes
+5,476 6,244 6,191
+Tax expense 1,008 1,249 1,262
+Net income from continuing operations
+4,468 4,995 4,929
+Net income from discontinued operations
+304 745 743
+Net income 4,772 5,740 5,672
+Less: Net income attributable to noncontrolling interest 43 35 14
+Net income attributable to Honeywell $ 4,729 $ 5,705 $ 5,658
+Earnings per share of common stock—basic:
+Earnings per share of common stock from continuing operations—basic
+$ 6.98 $ 7.63 $ 7.41
+Earnings per share of common stock from discontinued operations—basic
+$ 0.42 $ 1.13 $ 1.12
+Total earnings per share of common stock—basic
+$ 7.40 $ 8.76 $ 8.53
+Earnings per share of common stock—assuming dilution:
+Earnings per share of common stock from continuing operations—assuming dilution
+$ 6.94 $ 7.58 $ 7.36
+Earnings per share of common stock from discontinued operations—assuming dilution
+$ 0.42 $ 1.13 $ 1.11
+Total earnings per share of common stock—assuming dilution
+$ 7.36 $ 8.71 $ 8.47
+The Notes to Consolidated Financial Statements are an integral part of this statement.
+55 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+HONEYWELL INTERNATIONAL INC.
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+Years Ended December 31,
+2025 2024 2023
+(Dollars in millions)
+Net income $ 4,772 $ 5,740 $ 5,672
+Other comprehensive income (loss), net of tax
+Foreign exchange translation adjustment ( 883 ) 200 ( 274 )
+Actuarial gains (losses) recognized ( 752 ) 350 ( 468 )
+Prior service credit recognized — ( 10 ) —
+Prior service credit recognized during year ( 6 ) ( 17 ) ( 48 )
+Actuarial losses recognized during year 119 87 118
+Settlements and curtailments ( 91 ) — —
+Foreign exchange translation and other ( 6 ) 3 ( 9 )
+Pension and other postretirement benefit adjustments ( 736 ) 413 ( 407 )
+Changes in fair value of available for sale investments 6 1 5
+Cash flow hedges recognized in other comprehensive income (loss) ( 16 ) 17 60
+Less: Reclassification adjustment for gains included in net income 2 16 49
+Changes in fair value of cash flow hedges ( 18 ) 1 11
+Other comprehensive income (loss), net of tax ( 1,631 ) 615 ( 665 )
+Comprehensive income 3,141 6,355 5,007
+Less: Comprehensive income attributable to the noncontrolling interest
+67 6 9
+Comprehensive income attributable to Honeywell $ 3,074 $ 6,349 $ 4,998
+The Notes to Consolidated Financial Statements are an integral part of this statement.
+56 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+HONEYWELL INTERNATIONAL INC.
+CONSOLIDATED BALANCE SHEET
+December 31,
+2025 2024
+(Dollars in millions)
+ASSETS
+Current assets
+Cash and cash equivalents $ 12,487 $ 9,906
+Short-term investments 443 386
+Accounts receivable, less allowances of $ 202 and $ 307 , respectively
+7,621 7,247
+Inventories 6,162 5,884
+Assets held for sale 2,492 1,365
+Other current assets 1,182 1,259
+Current assets of discontinued operations
+— 1,861
+Total current assets 30,387 27,908
+Investments and long-term receivables 1,404 1,230
+Property, plant and equipment—net 4,629 4,457
+Goodwill 21,079 21,019
+Other intangible assets—net 6,736 6,621
+Deferred income taxes 199 235
+Other assets 9,247 10,556
+Assets of discontinued operations
+— 3,170
+Total assets $ 73,681 $ 75,196
+LIABILITIES
+Current liabilities
+Accounts payable $ 6,315 $ 6,109
+Commercial paper and other short-term borrowings 5,893 4,273
+Current maturities of long-term debt 1,546 1,325
+Accrued liabilities 8,462 8,055
+Current liabilities of discontinued operations
+— 1,086
+Liabilities held for sale 1,198 408
+Total current liabilities 23,414 21,256
+Long-term debt 27,141 25,440
+Deferred income taxes 1,577 1,581
+Postretirement benefit obligations other than pensions 111 112
+Asbestos-related liabilities — 1,325
+Other liabilities 6,408 5,581
+Liabilities of discontinued operations
+— 740
+Redeemable noncontrolling interest — 7
+SHAREOWNERS' EQUITY
+Capital—common stock issued 958 958
+—additional paid-in capital 10,157 9,695
+Common stock held in treasury, at cost ( 43,029 ) ( 39,378 )
+Accumulated other comprehensive loss ( 5,146 ) ( 3,491 )
+Retained earnings 50,964 50,835
+Total Honeywell shareowners' equity 13,904 18,619
+Noncontrolling interest 1,126 535
+Total shareowners' equity 15,030 19,154
+Total liabilities, redeemable noncontrolling interest and shareowners' equity $ 73,681 $ 75,196
+The Notes to Consolidated Financial Statements are an integral part of this statement.
+57 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+HONEYWELL INTERNATIONAL INC.
+CONSOLIDATED STATEMENT OF CASH FLOWS
+Years Ended December 31,
+2025 2024 2023
+(Dollars in millions)
+Cash flows from operating activities
+Net income $ 4,772 $ 5,740 $ 5,672
+Less: Net income from discontinued operations 304 745 743
+Net income from continuing operations
+4,468 4,995 4,929
+Adjustments to reconcile net income from continuing operations to net cash provided by operating activities
+Depreciation 546 493 490
+Amortization 842 659 514
+Loss (gain) on sale of non-strategic businesses and assets 18 1 ( 5 )
+Impairment of goodwill
+724 — —
+Impairment of assets held for sale 270 219 —
+Repositioning and other (gains) charges
+( 167 ) 239 844
+Net payments for repositioning and other charges ( 378 ) ( 470 ) ( 445 )
+NARCO Buyout payment — — ( 1,325 )
+Resideo indemnification and reimbursement agreement termination payment 1,590 — —
+Asbestos liabilities divestiture payment ( 1,428 ) — —
+Pension and other postretirement income ( 396 ) ( 477 ) ( 408 )
+Pension and other postretirement benefit payments ( 20 ) ( 32 ) ( 35 )
+Stock compensation expense 196 189 197
+Deferred income taxes 18 ( 229 ) 189
+Other 144 ( 191 ) ( 534 )
+Changes in assets and liabilities, net of the effects of acquisitions and divestitures
+Accounts receivable ( 825 ) ( 129 ) 67
+Inventories ( 636 ) ( 286 ) ( 549 )
+Other current assets ( 233 ) ( 111 ) 224
+Accounts payable 724 78 444
+Accrued liabilities 1,325 233 270
+Income taxes
+( 707 ) ( 69 ) ( 408 )
+Net cash provided by operating activities from continuing operations 6,075 5,112 4,459
+Net cash provided by operating activities from discontinued operations 333 985 881
+Net cash provided by operating activities 6,408 6,097 5,340
+Cash flows from investing activities
+Capital expenditures ( 986 ) ( 871 ) ( 741 )
+Proceeds from disposals of property, plant and equipment 31 — 43
+Increase in investments ( 1,503 ) ( 1,077 ) ( 560 )
+Decrease in investments 1,469 870 971
+(Payments) receipts from settlements of derivative contracts
+( 399 ) 94 6
+Cash paid for acquisitions, net of cash acquired ( 2,211 ) ( 8,880 ) ( 718 )
+Proceeds from sales of businesses, net of fees paid 1,157 — 4
+Net cash used for investing activities from continuing operations ( 2,442 ) ( 9,864 ) ( 995 )
+Net cash used for investing activities from discontinued operations ( 269 ) ( 293 ) ( 298 )
+Net cash used for investing activities ( 2,711 ) ( 10,157 ) ( 1,293 )
+HONEYWELL INTERNATIONAL INC.
+CONSOLIDATED STATEMENT OF CASH FLOWS—(Continued)
+Years Ended December 31,
+2025 2024 2023
+(Dollars in millions)
+Cash flows from financing activities
+Proceeds from issuance of commercial paper and other short-term borrowings 24,297 13,838 12,991
+Payments of commercial paper and other short-term borrowings ( 22,815 ) ( 11,578 ) ( 13,663 )
+Proceeds from issuance of common stock 237 537 196
+Proceeds from issuance of long-term debt 4,035 10,408 2,986
+Payments of long-term debt ( 2,909 ) ( 1,812 ) ( 1,731 )
+Repurchases of common stock ( 3,804 ) ( 1,655 ) ( 3,715 )
+Cash dividends paid ( 2,976 ) ( 2,902 ) ( 2,855 )
+Pre-separation funding 1,962 — —
+Spin-off cash ( 449 ) — —
+Other 469 3 28
+Net cash (used for) provided by financing activities ( 1,953 ) 6,839 ( 5,763 )
+Effect of foreign exchange rate changes on cash and cash equivalents 176 ( 137 ) 14
+Net increase (decrease) in cash and cash equivalents 1,920 2,642 ( 1,702 )
+Cash and cash equivalents at beginning of period 10,567 7,925 9,627
+Cash and cash equivalents at end of period $ 12,487 $ 10,567 $ 7,925
+The Notes to Consolidated Financial Statements are an integral part of this statement.
+58 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+HONEYWELL INTERNATIONAL INC.
+CONSOLIDATED STATEMENT OF SHAREOWNERS' EQUITY
+Years Ended December 31,
+2025 2024 2023
+Shares $ Shares $ Shares $
+(In millions, except per share amounts)
+Common stock, par value 957.6 958 957.6 958 957.6 958
+Additional paid-in capital
+Beginning balance 9,695 9,062 8,564
+Issued for employee savings and option plans 300 403 214
+Stock compensation expense 206 194 202
+Impact of Quantinuum contribution
+( 44 ) 36 82
+Ending balance 10,157 9,695 9,062
+Treasury stock
+Beginning balance ( 307.8 ) ( 39,378 ) ( 305.8 ) ( 38,008 ) ( 290.0 ) ( 34,443 )
+Reacquired stock or repurchases of common stock ( 18.1 ) ( 3,819 ) ( 8.0 ) ( 1,672 ) ( 19.2 ) ( 3,715 )
+Issued for employee savings and option plans 3.6 168 6.0 302 3.4 150
+Ending balance ( 322.3 ) ( 43,029 ) ( 307.8 ) ( 39,378 ) ( 305.8 ) ( 38,008 )
+Retained earnings
+Beginning balance 50,835 47,979 45,093
+Net income attributable to Honeywell 4,729 5,705 5,658
+Dividends on common stock ( 2,934 ) ( 2,849 ) ( 2,772 )
+Spin-offs ( 1,651 ) — —
+Other
+( 15 ) — —
+Ending balance 50,964 50,835 47,979
+Accumulated other comprehensive loss
+Beginning balance ( 3,491 ) ( 4,135 ) ( 3,475 )
+Foreign exchange translation adjustment ( 907 ) 229 ( 269 )
+Pension and other postretirement benefit adjustments ( 736 ) 413 ( 407 )
+Changes in fair value of available for sale investments 6 1 5
+Changes in fair value of cash flow hedges ( 18 ) 1 11
+Ending balance ( 5,146 ) ( 3,491 ) ( 4,135 )
+Noncontrolling interest
+Beginning balance 535 578 622
+Acquisitions, divestitures, and other 35 — ( 5 )
+Net income attributable to noncontrolling interest 43 35 14
+Foreign exchange translation adjustment 24 ( 29 ) ( 5 )
+Dividends paid ( 64 ) ( 78 ) ( 107 )
+Contributions from noncontrolling interest holders 553 29 59
+Ending balance 1,126 535 578
+Total shareowners' equity 635.3 15,030 649.8 19,154 651.8 16,434
+Cash dividends per share of common stock $ 4.58 $ 4.37 $ 4.17
+The Notes to Consolidated Financial Statements are an integral part of this statement.
+59 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Dollars in tables in millions, except per share amounts)
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ACCOUNTING PRINCIPLES
+The financial statements and accompanying notes are prepared in accordance with accounting principles generally accepted in the United States of America. The following is a description of Honeywell's significant accounting policies.
+PRINCIPLES OF CONSOLIDATION
+The Consolidated Financial Statements include the accounts of Honeywell International Inc. and all of its subsidiaries and entities in which a controlling interest is maintained. The Company's consolidation policy requires equity investments that the Company exercises significant influence over, but does not control the investee and are not the primary beneficiary of the investee's activities, to be accounted for using the equity method. Investments through which the Company is not able to exercise significant influence over the investee and which the Company does not have readily determinable fair values are accounted for under the cost method. All intercompany transactions and balances are eliminated in consolidation.
+USE OF ESTIMATES
+In preparation of the consolidated financial statements in accordance with generally accepted accounting principles, the Company makes certain estimates and assumptions in determining the amounts reflected in the financial statements and the related notes. Actual results could differ from those estimates.
+RECLASSIFICATIONS
+Certain prior year amounts are reclassified to conform to the current year presentation. This includes the separate disclosure of changes in Income taxes within operating activities on the Consolidated Statement of Cash Flows and the reclassification of Insurance recoveries for asbestos-related liabilities into Other assets on the Consolidated Balance Sheet.
+On October 30, 2025, the Company completed the spin-off of its Advanced Materials business into an independent, publicly traded company named Solstice Advanced Materials, Inc. (Solstice). Results of operations, financial position, and cash flows for the Advanced Materials business are reported as discontinued operations for all periods presented. Unless otherwise noted, information in these notes to consolidated financial statements relates to continuing operations.
+RECENT ACCOUNTING PRONOUNCEMENTS
+The Company considers the applicability and impact of all Accounting Standards Updates (ASUs) issued by the Financial Accounting Standards Board (FASB). ASUs not listed below were assessed and determined to be either not applicable or are expected to have minimal impact on the Company's Consolidated Financial Statements.
+In September 2025, the FASB issued ASU 2025-06, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software , which modernizes the accounting for internal-use software costs by removing all references to prescriptive and sequential software development stages. The new standard requires entities to consider whether significant development uncertainty has been resolved before starting to capitalize software costs and aligns disclosure requirements with Accounting Standard Codification (ASC) 360, Property, Plant, and Equipment . The ASU is effective for annual and interim reporting periods beginning after December 15, 2027, and can be applied prospectively, retrospectively, or using a modified transition method, with early adoption permitted. The Company is currently evaluating the impacts of this guidance on the Company's Consolidated Financial Statements.
+In November 2024, the FASB issued ASU 2024-03, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses , which requires companies to disclose additional information about the types of expenses in commonly presented expense captions. The new standard requires tabular disclosure of specified natural expenses in certain expense captions, a qualitative description of amounts that are not separately disaggregated, and disclosure of the Company's definition and total amount of selling expenses. The ASU should be applied prospectively for annual reporting periods beginning after December 15, 2026, with retrospective application and early adoption permitted. The Company is currently evaluating the impacts of this guidance on the Company's Consolidated Financial Statements.
+In December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Taxes Disclosures , which requires greater disaggregation of income tax disclosures. The new standard requires additional information to be disclosed annually with respect to the income tax rate reconciliation and income taxes paid disaggregated by jurisdiction. This ASU should be
+60 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in tables in millions, except per share amounts)
+applied prospectively for fiscal years beginning after December 15, 2024, with retrospective application permitted. The Company adopted this guidance on a prospective basis for annual disclosures for the year ended December 31, 2025. The adoption of this standard did not have a material impact on the Company's Consolidated Financial Statements.
+RESEARCH AND DEVELOPMENT
+Research and development costs for projects are expensed as incurred, unless these costs relate to contracts with customers where the Company receives reimbursements. Costs related to contracts with customers for customer-sponsored research and development projects are included as a contract cost and included in Cost of products and services sold when revenue from such contracts is recognized, consistent with the Company's sales recognition policies.
+CASH AND CASH EQUIVALENTS
+Cash and cash equivalents include cash on hand and highly liquid investments having an original maturity of three months or less.
+INVENTORIES
+Inventories are stated at the lower of cost or net realizable value, with cost determined on a first-in, first-out basis. Carrying value adjustments for inventory obsolescence is equal to the difference between the cost and net realizable value. Net realizable value is the estimated selling price in the ordinary course of business, less reasonably predictable costs of completion, disposal, and transportation. Items capable of being sold, including as spare parts, are classified as finished goods.
+PROPERTY, PLANT AND EQUIPMENT
+Property, plant and equipment are recorded at cost, including any asset retirement obligations, less accumulated depreciation. For financial reporting, the straight-line method of depreciation is used over the estimated useful lives of 10 to 50 years for buildings and improvements an d three to 16 years for machinery and equipment. Recognition of the fair value of obligations associated with the retirement of tangible long-lived assets is required when there is a legal obligation to incur such costs. Upon initial recognition of a liability, the cost is capitalized as part of the related long-lived asset and depreciated over the corresponding asset's useful life.
+GOODWILL AND INDEFINITE-LIVED INTANGIBLE ASSETS
+The Company recognizes goodwill and indefinite-lived intangible asset balances in conjunction with business combinations, with amounts being recorded at their respective fair values upon the closing of a transaction. Subsequent to the closing of a business combination, the Company evaluates and books adjustments, as applicable, to the preliminary amounts recorded over the relevant measurement period, which is not to exceed one year from the acquisition date.
+Goodwill and indefinite-lived intangible assets are subject to impairment testing annually as of the first day of the fourth quarter, or if a triggering event occurs or changes in circumstances indicate that the carrying amount may not be fully recoverable. This testing compares carrying values to fair values and, when appropriate, the carrying value of these assets is reduced to fair value, not to exceed the carrying value of goodwill. The Company completed its annual goodwill impairment test as of the first day of the fourth quarter and determined there was no goodwill impairment and an indefinite-lived intangible impairment of $ 44 million as of that date. As described in Note 2 Acquisitions, Divestitures, and Discontinued Operations , the Company performed an additional evaluation as of December 31, 2025 upon the Productivity Solutions and Services and Warehouse and Workflow Solutions businesses classification to assets held for sale which resulted in a goodwill impairment of $ 724 million.
+DEFINITE-LIVED INTANGIBLE ASSETS
+The Company recognizes definite-lived intangible asset balances in conjunction with business combinations, with amounts being recorded at their respective fair values upon the closing of a transaction. Subsequent to the closing of a business combination, the Company evaluates and books adjustments, as applicable, to the preliminary amounts recorded over the relevant measurement period, which is not to exceed one year from the acquisition date.
+Definite-lived intangible assets consist of customer relationships, patents and technology, trademarks, and other intangibles and are amortized over their estimated u seful lives, ranging from one to 20 years.
+61 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in tables in millions, except per share amounts)
+CAPITALIZED SOFTWARE
+The Company capitalizes costs of software developed or obtained for internal use during the application development stage of a project and amortizes those costs using the straight-line method over the expected useful life of the software, not to exceed seven years . Costs incurred during the preliminary and post-implementation stages are expensed as incurred. Development costs for software held for sale are capitalized once a project has reached the point of technological feasibility. Completed projects are amortized after reaching the point of general availability using the straight-line method based on the expected useful life, not to exceed seven years . At each balance sheet date, or earlier if an indicator of an impairment exists, the Company evaluates the recoverability of unamortized capitalized software costs based on estimated future undiscounted revenues net of estimated related costs over the remaining amortization period. Capitalized software held for internal use and held for sale is included in Other assets in the Consolidated Balance Sheet.
+FOREIGN CURRENCY TRANSLATION
+Assets and liabilities of subsidiaries operating outside the United States with a functional currency other than the U.S. dollar are translated into U.S. dollars using year-end exchange rates. Sales, costs, and expenses are translated at the average exchange rates in effect during the year. Foreign currency translation gains and losses are included as a component of Accumulated other comprehensive loss. For subsidiaries operating in highly inflationary environments, inventories and property, plant and equipment, including related expenses, are remeasured at the exchange rate in effect on the date the assets were acquired, while monetary assets and liabilities are remeasured at year-end exchange rates. Remeasurement adjustments for these subsidiaries are included in earnings.
+DERIVATIVE FINANCIAL INSTRUMENTS
+All derivative financial instruments are recorded on the balance sheet as assets or liabilities and measured at fair value. For derivatives designated as hedges of the fair value of assets or liabilities, the changes in fair values of both the derivatives and the hedged items are recorded in current earnings. For derivatives designated as cash flow hedges, the changes in fair value of the derivatives are recorded in Accumulated other comprehensive loss and subsequently recognized in earnings when the hedged items impact earnings.
+Derivative financial instruments designated as hedges must be designated and effective as a hedge of the identified risk exposure at the inception of the contract. Changes in fair value of the derivative contract must be highly correlated with changes in fair value of the underlying hedged item at inception and over the life of the hedge contract. Cash flows of such derivative financial instruments are classified consistent with the underlying hedged item. The Company elected to exclude the time value of the derivatives (i.e., the forward points) from the assessment of hedge effectiveness and to recognize the initial value of the excluded component in earnings using the amortization approach. For derivative instruments that are designated and qualify as a net investment hedge, the gain or loss is reported as a component of Other comprehensive income (loss) and recorded in Accumulated other comprehensive loss. The gain or loss will be subsequently reclassified into earnings when the hedged net investment is either sold or substantially liquidated.
+LEASES
+At the inception of a contract, the Company assesses whether the contract is, or contains, a lease. The assessment is based on (i) whether the contract involves the use of a distinct identified asset, (ii) whether the Company obtains the right to substantially all the economic benefit from the use of the asset throughout the period, and (iii) whether the Company has the right to direct the use of the asset.
+All significant lease arrangements are generally recognized at lease commencement. Operating lease right-of-use (ROU) assets and lease liabilities are recognized at commencement. An ROU asset and corresponding lease liability are not recorded for leases with an initial term of 12 months or less (short-term leases); however, lease expense for these leases is recognized as incurred over the lease term.
+ROU assets represent the Company's right to use an underlying asset during the reasonably certain lease term, and lease liabilities represent the obligation to make lease payments arising from the lease. The Company's lease terms may include options to extend or terminate the lease when it is reasonably certain that the Company will exercise that option.
+Operating lease ROU assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term. Lease payments may be fixed or variable, however, only fixed payments or in-substance fixed payments are included in determining the lease liability. Variable lease payments are recognized in operating expenses in the period in which the obligation for those payments are incurred. The operating lease ROU asset also includes any lease payments related to initial direct costs and prepayments and excludes lease incentives. Lease expense is recognized on a straight-line basis over the lease term. The Company has lease agreements with lease and non-lease components, which are generally accounted for separately.
+62 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in tables in millions, except per share amounts)
+The Company primarily uses its incremental borrowing rate, which is based on the information available at the lease commencement date, in determining the present value of the lease payments. In determining the borrowing rate, the Company considers the lease term, secured incremental borrowing rate, and for leases denominated in a currency different than the U.S. dollar, the collateralized borrowing rate in the foreign currency using the U.S. dollar and foreign currency swap spread, when available.
+PENSION BENEFITS
+The Company presents net periodic pension costs by disaggregating the service cost component of such costs and reports those costs in the same line item or items in the Consolidated Statement of Operations as other compensation costs arising from services rendered by the pertinent employees during the period. The other non-service components of such costs are required to be presented separately from the service cost component.
+The Company records the service cost component of Pension ongoing (income) expense in Cost of products and services sold, Research and development expenses, and Selling, general and administrative expenses. The remaining components of costs within Pension ongoing (income) expense, primarily interest costs and assumed return on plan assets, are recorded in Other (income) expense. The Company recognizes net actuarial gains or losses in excess of 10% of the greater of the fair value of plan assets or the plan's projected benefit obligation (the corridor) annually in the fourth quarter each year (MTM Adjustment). The MTM Adjustment is also reported in Other (income) expense.
+SUPPLY CHAIN FINANCING
+The Company maintains agreements with third-party financial institutions that offer voluntary supply chain financing (SCF) programs to suppliers. The SCF programs enable suppliers, at their sole discretion, to sell their receivables to third-party financial institutions in order to receive payment on receivables earlier than the negotiated commercial terms between suppliers and the Company. Supplier sale of receivables to third-party financial institutions is on terms negotiated between the supplier and the respective third-party financial institution. The Company agrees on commercial terms for the goods and services procured from suppliers, including prices, quantities, and payment terms, which normally range between 60 and 120 days, regardless of whether the supplier elects to participate in the SCF programs. A supplier's voluntary participation in the SCF programs has no bearing on the Company's payment terms and the Company has no economic interest in a supplier's decision to participate in the SCF programs. The Company agrees to pay participating third-party financial institutions the stated amounts of confirmed invoices from suppliers on the original maturity dates of the invoices.
+Amounts outstanding related to SCF programs are included in Accounts payable in the Consolidated Balance Sheet. The impact of these programs is not material to the Company's overall liquidity. The following table summarizes the Company's outstanding obligations confirmed as valid related to the SCF programs for the years ended December 31, 2025, and 2024:
+2025 2024
+Confirmed obligations outstanding at the beginning of the year $ 1,150 $ 1,112
+Invoices confirmed during the year 3,115 3,098
+Less: Confirmed invoices paid during the year 3,124 3,060
+Confirmed obligations outstanding at the end of the year $ 1,141 $ 1,150
+63 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in tables in millions, except per share amounts)
+SALES RECOGNITION
+Product and service sales are recognized when or as the Company transfers control of the promised products or services to its customers. Revenue is measured as the amount of consideration the Company expects to receive in exchange for transferring goods or providing services. Service sales, principally representing repair, maintenance, and engineering activities, are recognized over the contractual period or as services are rendered. Sales under long-term contracts with performance obligations satisfied over time are recognized using either an input or output method. The Company recognizes revenue over time as the Company performs on these contracts because of the continuous transfer of control to the customer. With control transferring over time, revenue is recognized based on the extent of progress towards completion of the performance obligation. The Company generally uses the cost-to-cost input method of progress for contracts because it best depicts the transfer of control to the customer that occurs as the Company incurs costs. Under the cost-to-cost input method, the extent of progress towards completion is measured based on the proportion of costs incurred to date to the total estimated costs at completion of the performance obligation. The Company reviews its cost estimates on significant contracts on a periodic basis, or when circumstances change and warrant a modification to a previous estimate. Cost estimates are largely based on negotiated or estimated purchase contract terms, historical performance trends, and other economic projections. Significant factors that influence these estimates include inflationary trends, technical and schedule risks, internal and subcontractor performance trends, business volume assumptions, asset utilization, and anticipated labor agreements. Provisions for anticipated losses on long-term contracts are recorded in full when such losses become evident, to the extent required.
+The customer funding for costs incurred for nonrecurring engineering and development activities of the Company's products under agreements with commercial customers is deferred and subsequently recognized as revenue as products are delivered to the customers. Additionally, expenses incurred, up to the customer agreed funded amount, are deferred as an asset and recognized as cost of sales when products are delivered to the customer. The deferred customer funding and costs result in recognition of deferred costs (asset) within Other assets and deferred revenue (liability) within Accrued liabilities and Other liabilities in the Consolidated Balance Sheet. Deferred contract fulfillment costs were $ 1,193 million and $ 1,156 million as of December 31, 2025, and 2024, respectively. The amounts recognized as Cost of products and services sold were $ 116 million, $ 188 million, and $ 148 million for the years ended December 31, 2025, 2024, and 2023, respectively.
+Revenues for the Company's mechanical service programs are recognized as performance obligations that are satisfied over time, with recognition reflecting a series of distinct services using the output method.
+The terms of a contract or the historical business practice can give rise to variable consideration due to, but not limited to, cash-based incentives, rebates, performance awards, or credits. The Company estimates variable consideration at the most likely amount the Company will receive from customers. The Company includes estimated amounts in the transaction price to the extent it is probable that a significant reversal of cumulative revenue recognized for such transaction will not occur, or when the uncertainty associated with the variable consideration is resolved. The Company's estimates of variable consideration and determination of whether to include estimated amounts in the transaction price are based largely on an assessment of the Company's anticipated performance and all information (historical, current and forecasted) that is reasonably available to the Company.
+STOCK-BASED COMPENSATION PLANS
+The principal awards issued under the Company's stock-based compensation plans, which are described in Note 15 Stock-Based Compensation Plans , are non-qualified stock options and restricted stock units. The cost for such awards is measured at the grant date based on the fair value of the award. The value of the portion of the award that is ultimately expected to vest is recognized as expense over the requisite service periods (generally the vesting period of the equity award) and is included in Selling, general and administrative expenses. Forfeitures are estimated at the time of grant to recognize expense for those awards expected to vest and are based on the Company's historical forfeiture rates.
+INCOME TAXES
+Significant judgment is required in evaluating tax positions. The Company establishes reserves for income taxes when, despite the belief that tax positions are fully supportable, certain positions remain that do not meet the minimum recognition threshold. The approach for evaluating certain and uncertain tax positions is defined by the authoritative guidance which determines when a tax position is more likely than not to be sustained upon examination by the applicable taxing authority. In the normal course of business, the Company and its subsidiaries are examined by various federal, state, and foreign tax authorities. The Company regularly assesses the potential outcomes of these examinations and any future examinations for the current or prior years in determining the adequacy of the Company's provision for income taxes. The Company continually assesses the likelihood and amount of potential adjustments and adjusts the income tax provision, the current tax liability, and deferred taxes in the period in which the facts that give rise to a change in estimate become known. See Note 5 Income Taxes for additional information.
+64 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in tables in millions, except per share amounts)
+On July 4, 2025, H.R.1, commonly referred to as the One Big Beautiful Bill Act (OBBBA) was enacted. The OBBBA includes a broad range of tax reform provisions affecting businesses, including extending and modifying certain key Tax Cuts & Jobs Act provisions (both domestic and international), expanding certain Inflation Reduction Act incentives, and accelerating the phase-out of or repealing others.
+EARNINGS PER SHARE
+Basic earnings per share is based on the weighted average number of common shares outstanding. Diluted earnings per share is based on the weighted average number of common shares outstanding and all dilutive potential common shares outstanding.
+ENVIRONMENTAL
+The Company accrues costs related to environmental matters when it is probable that it has incurred a liability related to a contaminated site and the amount can be reasonably estimated. See Note 19 Commitments and Contingencies for additional information.
+REIMBURSEMENT RECEIVABLES
+In conjunction with the Resideo Technologies, Inc. (Resideo) spin-off, the Company entered into a reimbursement agreement under which Honeywell received cash payments as reimbursement primarily related to net spending for environmental matters at certain sites as defined in the reimbursement agreement. Accordingly, the Company recorded receivables based on estimates of the underlying reimbursable Honeywell environmental spend, and the Company monitored the recoverability of such receivables, which were subject to the terms of applicable credit agreements and general ability to pay. In 2025, the Company and Resideo entered into a termination agreement for the accelerated monetization of the indemnification and reimbursement agreement. Upon closing of the transactions contemplated pursuant to the termination agreement, the Company received a one-time cash payment of $ 1,590 million in lieu of all future payments to which the Company was entitled pursuant to the indemnification and reimbursement agreement. As a result of the termination agreement, Resideo no longer has any obligation to make cash payments to Honeywell in respect of Honeywell's net spending for environmental matters. See Note 19 Commitments and Contingencies for additional information.
+ASBESTOS-RELATED LIABILITIES AND INSURANCE RECOVERIES
+The Company recognizes a liability for any asbestos-related contingency that is probable of occurrence and reasonably estimable. In connection with the recognition of liabilities for asbestos-related matters, the Company records asbestos-related insurance recoveries that are deemed probable. In 2025, the Company permanently divested all of its legacy Bendix asbestos liabilities and certain non-Bendix asbestos liabilities, contributing $ 1,428 million in cash and transferring asbestos liabilities to a third party entity. As part of the agreement, the Company will be indemnified from future asbestos claims. See Note 19 Commitments and Contingencies for additional information.
+NOTE 2. ACQUISITIONS, DIVESTITURES, AND DISCONTINUED OPERATIONS
+ACQUISITIONS
+Johnson Matthey's Catalyst Technologies Business
+On May 22, 2025, the Company announced its agreement to acquire Johnson Matthey's Catalyst Technologies business segment in an all-cash transaction for 1.8 billion. The transaction is subject to customary closing conditions, including receipt of certain regulatory approvals. The business will be included within the Process Automation and Technology reportable business segment.
+65 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in tables in millions, except per share amounts)
+Sundyne
+On June 6, 2025, the Company acquired 100 % of the outstanding equity interests of Sundyne, a leader in the design manufacturing, and aftermarket support of highly-engineered pumps and gas compressors for process industries, for total consideration of $ 2,160 million, net of cash acquired. The business is part of the Energy and Sustainability Solutions reportable business segment. The following table summarizes the determination of the fair value of identifiable assets acquired and liabilities assumed that are included in the Consolidated Balance Sheet as of December 31, 2025:
+Current assets $ 274
+Intangible assets 990
+Other noncurrent assets 92
+Current liabilities ( 103 )
+Noncurrent liabilities ( 224 )
+Net assets acquired 1,029
+Goodwill 1,241
+Purchase price $ 2,270
+The Sundyne identifiable intangible assets primarily include customer relationships, technology, and trademarks which will amortize over their estimated useful lives ranging from one to 15 years using straight-line and accelerated amortization methods. The goodwill is not deductible for tax purposes. As of December 31, 2025, the purchase accounting is subject to final adjustment, primarily for the valuation of intangible assets, amounts allocated to goodwill, working capital adjustments, and tax balances.
+Air Products' Liquefied Natural Gas Process Technology and Equipment Business
+On September 30, 2024, the Company acquired 100 % of the outstanding equity interests of Air Products' liquefied natural gas process technology and equipment business (LNG), strengthening the Company's energy transition portfolio, for total consideration of $ 1,843 million, net of cash acquired. The business is part of the Energy and Sustainability Solutions reportable business segment. The Company finalized the evaluation for the fair value of all the assets acquired and liabilities assumed with LNG during the third quarter of 2025. The following table summarizes the fair value of identifiable assets acquired and liabilities assumed:
+Current assets $ 73
+Intangible assets 894
+Other noncurrent assets 82
+Current liabilities ( 100 )
+Noncurrent liabilities ( 2 )
+Net assets acquired 947
+Goodwill 896
+Purchase price $ 1,843
+The LNG identifiable intangible assets primarily include customer relationships and technology which will amortize over their estimated useful lives ranging from three to 20 years using accelerated amortization methods. The goodwill is deductible for tax purposes.
+66 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in tables in millions, except per share amounts)
+CAES Systems Holdings LLC
+On August 30, 2024, the Company acquired 100 % of the outstanding equity interests of CAES Systems Holdings LLC (CAES), enhancing the Company's defense and space portfolio with high-reliability radio frequency technologies, for total consideration of $ 1,935 million, net of cash acquired. The business is part of the Aerospace Technologies reportable business segment. The Company finalized the evaluation for the fair value of all the assets acquired and liabilities assumed with CAES during the third quarter of 2025. The following table summarizes the fair value of identifiable assets acquired and liabilities assumed:
+Current assets $ 314
+Intangible assets 1,155
+Other noncurrent assets 226
+Current liabilities ( 123 )
+Noncurrent liabilities ( 119 )
+Net assets acquired 1,453
+Goodwill 525
+Purchase price $ 1,978
+The CAES identifiable intangible assets primarily include customer relationships and trademarks which will amortize over their estimated useful lives ranging from two to 15 years using straight line and accelerated amortization methods. The goodwill is not deductible for tax purposes.
+Civitanavi Systems S.p.A.
+On August 19, 2024, the Company completed the acquisition of Civitanavi Systems S.p.A., a leader in position navigation and timing technology for the aerospace, defense, and industrial markets, for total consideration of $ 200 million, net of cash acquired. The business is part of the Aerospace Technologies reportable business segment. The assets acquired and liabilities assumed with Civitanavi Systems S.p.A. included $ 75 million of intangible assets and $ 107 million of goodwill, which is not deductible for tax purposes. The Company finalized the evaluation for the fair value of all the assets acquired and liabilities assumed with Civitanavi Systems S.p.A. during the third quarter of 2025.
+Carrier Global Corporation's Global Access Solutions Business
+On June 3, 2024, the Company acquired 100 % of the outstanding equity interests of Carrier Global Corporation's Global Access Solutions business (Access Solutions), an innovative global leader in advanced access and security solutions, electronic locking systems, and contactless mobile key solutions, for total consideration of $ 4,913 million, net of cash acquired. The business is part of the Building Automation reportable business segment. The Company finalized the evaluation for the fair value of all the assets acquired and liabilities assumed with Access Solutions during the second quarter of 2025. The following table summarizes the fair value of identifiable assets acquired and liabilities assumed:
+Current assets $ 236
+Intangible assets 1,959
+Other noncurrent assets 43
+Current liabilities ( 158 )
+Noncurrent liabilities ( 6 )
+Net assets acquired 2,074
+Goodwill 2,924
+Purchase price $ 4,998
+The Access Solutions identifiable intangible assets primarily include customer relationships, technology, and trademarks which will amortize over their estimated useful lives ranging from 10 to 20 years using straight line and accelerated amortization methods. The majority of the goodwill is deductible for tax purposes.
+SCADAfence
+On August 25, 2023, the Company acquired 100 % of the outstanding equity interests of SCADAfence, a provider of operational technology and Internet of Things (IoT) cybersecurity solutions for monitoring large scale networks, for total consideration of $ 52 million, net of cash acquired. The business is part of the Industrial Automation reportable business segment. The Company finalized the evaluation for the fair value of all the assets acquired and liabilities assumed with SCADAfence during the third quarter of 2024. Management recorded intangible assets of $ 17 million and allocated $ 42 million to goodwill, which is not deductible for tax purposes.
+67 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in tables in millions, except per share amounts)
+Compressor Controls Corporation
+On June 30, 2023, the Company acquired 100 % of the outstanding equity interests of Compressor Controls Corporation, a turbomachinery services and controls company based in the United States, for total cash consideration of $ 673 million, net of cash acquired. The business is part of the Industrial Automation reportable business segment. The Company finalized the evaluation for the fair value of all the assets acquired and liabilities assumed with Compressor Controls Corporation during the second quarter of 2024. Management recorded intangible assets of $ 282 million and allocated $ 351 million to goodwill, which is deductible for tax purposes.
+DIVESTITURES AND ASSETS AND LIABILITIES HELD FOR SALE
+Productivity Solutions and Services and Warehouse and Workflow Solutions Businesses
+During the fourth quarter of 2025, the Company concluded the assets and liabilities of each of the Productivity Solutions and Services and Warehouse and Workflow Solutions businesses, which are part of the Productivity goodwill reporting unit within the Industrial Automation reportable business segment, met the held for sale criteria; therefore, the Company presented the associated assets and liabilities of each business as held for sale as of December 31, 2025. The disposal groups, consisting of the associated assets and liabilities, are measured at the lower of carrying value or fair value, less costs to sell. The carrying amount of any assets, including goodwill, that are part of the disposal groups, but not in the scope of ASC 360-10, Property, Plant, and Equipment, are tested for impairment under the relevant guidance prior to measuring the disposal groups at fair value, less costs to sell. The fair value is based on the use of estimates and is subject to change based on future developments and actual amounts realized upon sale may vary from those recorded as of December 31, 2025.
+The Company performed an evaluation as of December 31, 2025 to assess the recoverability of the carrying value of the assets held for sale. The Company recognized a goodwill impairment of $ 724 million and a valuation allowance of $ 255 million during the year ended December 31, 2025, to write down the disposal groups to fair value, less costs to sell, as applicable. Gains resulting from the fair value, less costs to sell, exceeding the carrying value of the disposal groups are not recognized until realized at the completion of the sale. The transactions are expected to be completed in the second half of 2026 and are subject to customary closing conditions.
+Personal Protective Equipment Business
+During the third quarter of 2024, the Company concluded the assets and liabilities of the Personal Protective Equipment (PPE) business, which was part of the Sensing and Safety Technologies business unit within the Industrial Automation reportable business segment, met the held for sale criteria; therefore, the Company presented the associated assets and liabilities of the business as held for sale beginning September 30, 2024. The disposal group, consisting of the associated assets and liabilities, was measured at the lower of carrying value or fair value less costs to sell. Depreciation and amortization expense was not recorded for the period in which assets were classified as held for sale. The carrying amount of any assets, including goodwill, that were part of the disposal group, but not in the scope of ASC 360-10, Property, Plant, and Equipment, were tested for impairment under the relevant guidance prior to measuring the disposal group at fair value, less costs to sell.
+The Company performed an evaluation as of December 31, 2024, to assess the recoverability of the carrying value of the assets held for sale. The Company recognized a valuation allowance of $ 219 million during the year ended December 31, 2024, to write down the disposal group to fair value, less costs to sell. During the first quarter of 2025, the Company recognized a $ 15 million increase to the valuation allowance to write down the disposal group to fair value, less costs to sell.
+On May 21, 2025, the Company completed the sale of its PPE business in exchange for total consideration of $ 1,157 million, net of cash transferred. The Company recognized a pre-tax loss on sale of the PPE business of $ 30 million for the year ended December 31, 2025, which was recorded in Other (income) expense in the Consolidated Statement of Operations.
+68 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in tables in millions, except per share amounts)
+The following table summarizes the assets and liabilities classified as held for sale in the Consolidated Balance Sheet as of December 31, 2025 and December 31, 2024:
+December 31, 2025
+December 31, 2024
+Assets held for sale
+Accounts receivable
+$ 489 $ 174
+Inventories
+394 197
+Other current assets
+47 29
+Investments and long-term receivables
+29 4
+Property, plant and equipment—net
+153 155
+Goodwill
+1,138 411
+Other intangible assets—net
+262 597
+Deferred income taxes
+136 —
+Other assets
+99 17
+Valuation allowance on assets held for sale
+( 255 ) ( 219 )
+Total Assets held for sale
+$ 2,492 $ 1,365
+Liabilities held for sale
+Accounts payable
+$ 532 $ 152
+Accrued liabilities
+484 110
+Deferred income taxes
+— 124
+Other liabilities
+182 22
+Total Liabilities held for sale
+$ 1,198 $ 408
+During 2024 and 2023, there were no significant divestitures individually or in the aggregate.
+SPIN-OFFS AND DISCONTINUED OPERATIONS
+Advanced Materials Business
+On October 30, 2025, the Company completed the spin-off of its Advanced Materials business into an independent, publicly traded company named Solstice Advanced Materials, Inc. (Solstice). The assets, liabilities, and equity associated with the Advanced Materials business of approximately $ 5.1 billion, $ 3.7 billion, and $ 0.2 billion, respectively, have been removed through Retained earnings from the Company's Consolidated Balance Sheet as of the effective date of the spin. Honeywell shareowners of record as of the close of business on October 17, 2025 received one share of Solstice common stock for every four shares of Honeywell common stock. Immediately prior to the effective date of the spin-off, Solstice incurred debt of $ 2.0 billion to make a $ 1.5 billion cash distribution to the Company, to pay fees, costs, and expenses related to the debt, and for other general corporate purposes. The Advanced Materials business was previously included within the Energy and Sustainability Solutions reportable segment.
+We have continuing involvement with Solstice primarily through a transition services agreement, through which Honeywell and Solstice continue to provide certain services to each other for a period of time following the separation, a tax matters agreement, an employee matters agreement, an intellectual property cross-license agreement, a trademark licensing agreement, and Accelerator license agreement.
+In connection with the spin-off of the Advanced Materials business into Solstice, the results of operations, financial position, and cash flows for Advanced Materials are reported as discontinued operations for all periods presented in the consolidated financial statements.
+69 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in tables in millions, except per share amounts)
+The following table summarizes the key components of net income from discontinued operations:
+Years Ended December 31,
+2025 2024 2023
+Product Sales
+$ 3,007 $ 3,438 $ 3,428
+Service Sales
+237 343 225
+Net Sales
+3,244 3,781 3,653
+Costs, expenses and other
+Cost of products sold
+1,972 2,210 2,137
+Cost of services sold
+183 266 216
+Total Cost of products and services sold
+2,155 2,476 2,353
+Research and development expenses
+78 82 81
+Selling, general and administrative expenses
+168 231 245
+Interest and other financial charges
+( 5 ) 9 16
+Other (income) expense
+242 14 ( 10 )
+Income from discontinued operations before taxes
+606 969 968
+Tax expense
+302 224 225
+Net income from discontinued operations
+304 745 743
+The following table summarizes major classes of assets and liabilities of discontinued operations:
+December 31, 2024
+ASSETS
+Cash and cash equivalents
+$ 661
+Accounts receivable
+572
+Inventories
+558
+Other current assets
+70
+Current assets of discontinued operations
+1,861
+Investments and long-term receivables
+164
+Property, plant and equipment—net
+1,737
+Goodwill
+806
+Other intangible assets—net
+35
+Other assets
+428
+Total assets of discontinued operations
+$ 5,031
+LIABILITIES
+Accounts Payable
+771
+Current maturities of long-term debt
+22
+Accrued liabilities
+293
+Current liabilities of discontinued operations
+1,086
+Long-term debt
+39
+Deferred income taxes
+206
+Other liabilities 495
+Total liabilities of discontinued operations
+$ 1,826
+70 Honeywell International Inc.
+TABLE OF CONTENTS
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in tables in millions, except per share amounts)
+Aerospace Technologies Business
+On February 6, 2025, the Company announced its intention to pursue a separation of Honeywell from Honeywell Aerospace, into independent, U.S. publicly traded companies, which is expected to be completed in the third quarter of 2026. The planned separation is intended to be a tax-free separation to Honeywell shareowners for U.S. federal income tax purposes. The separation will be subject to the satisfaction of a number of customary conditions, including, among others, the filing and effectiveness of applicable filings (including a Form 10 registration statement that includes required financial statements) with the SEC, assurance that the separation of the businesses will be tax-free to Honeywell's shareowners, receipt of applicable regulatory approvals, and final approval by Honeywel

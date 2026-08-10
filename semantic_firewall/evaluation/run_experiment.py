@@ -44,6 +44,18 @@ def _read_text(path: str) -> str:
     return extract_text_from_file(path)
 
 
+def _read_text_and_scale(path: str) -> tuple[str, dict]:
+    """Text plus the reporting scale inferred FROM THAT TEXT (D13).
+
+    XBRL facts are absolute USD; statement tables print thousands or millions. The
+    multiplier must come from the document, never from the ground truth — deriving
+    it from the label would leak the answer into the prediction.
+    """
+    from semantic_firewall.extraction.scale import infer_document_scale
+    text = _read_text(path)
+    return text, infer_document_scale(text)
+
+
 # ── E0 ──────────────────────────────────────────────────────────────────────
 def cmd_e0(args) -> None:
     from semantic_firewall.evaluation.xbrl_ground_truth import build_manifest
@@ -67,11 +79,14 @@ def cmd_e1(args) -> None:
     gt_index = _gt_index(args.ground_truth)
     corpus = _load_jsonl(args.corpus)
     records = []
+    n_no_scale = 0
     for doc in corpus:
-        text = _read_text(doc["path"])
+        text, scale = _read_text_and_scale(doc["path"])
+        n_no_scale += int(not scale["confident"])
         raw = method2_zeroshot(text)  # frozen raw extraction (B2)
         records.append({"cik": doc["cik"], "fy": doc["fy"],
                         "doc_type": doc.get("doc_type", "compte_resultat"),
+                        "scale": scale,
                         "raw_fields": {k: raw.get(k) for k in KEY_FIELDS}})
     scores, labels, skipped = build_detection_dataset(records, gt_index)
     if not scores:
@@ -81,7 +96,14 @@ def cmd_e1(args) -> None:
     summary = metrics.summarize(scores, labels, k=min(10, len(scores)))
     print("E1 — accounting-identity violation as an error detector")
     print(json.dumps(summary, indent=2))
-    print(f"skipped (no GT match): {skipped}")
+    print(f"n scored: {len(scores)}  positives: {sum(labels)}  "
+          f"negatives: {len(labels) - sum(labels)}")
+    print(f"skipped (no GT match, or scale not established): {skipped}")
+    if n_no_scale:
+        print(f"documents with no declared reporting scale: {n_no_scale} (D13)")
+    if sum(labels) in (0, len(labels)):
+        print("WARNING: one class is empty — ROC-AUC is undefined. Do not report a "
+              "number here; report the class imbalance instead.")
 
 
 # ── E2 — baseline ladder correctness vs XBRL ─────────────────────────────────
@@ -99,14 +121,15 @@ def cmd_e2(args) -> None:
         gt = gt_index.get((doc["cik"], doc["fy"]))
         if not gt:
             continue
-        text = _read_text(doc["path"])
+        text, scale = _read_text_and_scale(doc["path"])
         for ref in refs:
             b = BASELINES[ref]
             ctx = BaselineContext(text=text, doc_name=doc["path"],
                                   doc_type=doc.get("doc_type", "compte_resultat"),
                                   ground_truth=gt, model=args.model)
             fields = b.run(ctx)
-            scored = score_extraction({k: fields.get(k) for k in KEY_FIELDS}, gt)
+            scored = score_extraction({k: fields.get(k) for k in KEY_FIELDS}, gt,
+                                      scale=scale)
             table[ref]["correct"] += sum(1 for v in scored.values() if v["within_tol"])
             table[ref]["total"] += len(scored)
 
@@ -130,12 +153,12 @@ def cmd_e3(args) -> None:
         gt = gt_index.get((doc["cik"], doc["fy"]))
         if not gt:
             continue
-        text = _read_text(doc["path"])
+        text, scale = _read_text_and_scale(doc["path"])
         ctx = BaselineContext(text=text, doc_type=doc.get("doc_type", "compte_resultat"))
         base = _b2_zeroshot(ctx)
         cot = _b4_cot(ctx)
-        sb = score_extraction({k: base.get(k) for k in KEY_FIELDS}, gt)
-        sc = score_extraction({k: cot.get(k) for k in KEY_FIELDS}, gt)
+        sb = score_extraction({k: base.get(k) for k in KEY_FIELDS}, gt, scale=scale)
+        sc = score_extraction({k: cot.get(k) for k in KEY_FIELDS}, gt, scale=scale)
         for fld in KEY_FIELDS:
             if str(base.get(fld)) == str(cot.get(fld)):
                 unchanged += 1

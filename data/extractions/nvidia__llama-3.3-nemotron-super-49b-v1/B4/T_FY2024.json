@@ -1,0 +1,12 @@
+{
+  "fields": {
+    "chiffre_affaires": "122,336",
+    "ebit": "19,049",
+    "ebitda": "39,629",
+    "dotations_amortissements": "20,580",
+    "resultat_net": "12,253"
+  },
+  "seconds": 5.46,
+  "tokens": 130,
+  "accepted_verification": true
+}

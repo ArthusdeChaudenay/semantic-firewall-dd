@@ -1,0 +1,639 @@
+ing effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included under the heading "Assessment of Internal Control Over Financial Reporting" in the accompanying "Reports of Management." Our responsibility is to express an opinion on the Company's internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+Definition and Limitations of Internal Control Over Financial Reporting
+A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/s/ Ernst & Young LLP
+Houston, Texas
+February 17, 2026
+ConocoPhillips 2025 10-K
+70
+Financial Statements
+Table of Contents
+Consolidated Income Statement
+ConocoPhillips
+Years Ended December 31
+Millions of Dollars
+2025 2024 2023
+Revenues and other income
+Sales and other operating revenues $ 58,944 54,745 56,141
+Equity in earnings of affiliates 1,335 1,705 1,720
+Gain (loss) on dispositions 731 51 228
+Other income 538 452 485
+Total revenues and other income 61,548 56,953 58,574
+Costs and expenses
+Purchased commodities 22,325 20,012 21,975
+Production and operating expenses 10,331 8,751 7,693
+Selling, general and administrative expenses 893 1,158 705
+Exploration expenses 407 355 398
+Depreciation, depletion and amortization 11,500 9,599 8,270
+Impairments 26 80 14
+Taxes other than income taxes 2,146 2,087 2,074
+Accretion on discounted liabilities 378 325 283
+Interest and debt expense 855 783 780
+Foreign currency transaction (gain) loss 11 ( 50 ) 92
+Other expenses 20 181 2
+Total costs and expenses 48,892 43,281 42,286
+Income (loss) before income taxes 12,656 13,672 16,288
+Income tax provision (benefit) 4,668 4,427 5,331
+Net income (loss) $ 7,988 9,245 10,957
+Net income (loss) per share of common stock (dollars)
+Basic $ 6.36 7.82 9.08
+Diluted 6.35 7.81 9.06
+Weighted-average common shares outstanding (in thousands)
+Basic 1,252,042 1,178,920 1,202,757
+Diluted 1,253,446 1,180,871 1,205,675
+See Notes to Consolidated Financial Statements.
+71
+ConocoPhillips 2025 10-K
+Financial Statements
+Table of Contents
+Consolidated Statement of Comprehensive Income
+ConocoPhillips
+Years Ended December 31
+Millions of Dollars
+2025 2024 2023
+Net income (loss) $ 7,988 9,245 10,957
+Other comprehensive income (loss), net of tax:
+Defined benefit plans 55 3 55
+Unrealized holding gain (loss) on securities 5 1 13
+Foreign currency translation adjustments 502 ( 760 ) 197
+Unrealized gain (loss) on hedging activities — ( 44 ) 62
+Other comprehensive income (loss), net of tax 562 ( 800 ) 327
+Comprehensive income (loss) $ 8,550 8,445 11,284
+See Notes to Consolidated Financial Statements.
+ConocoPhillips 2025 10-K
+72
+Financial Statements
+Table of Contents
+Consolidated Balance Sheet
+ConocoPhillips
+At December 31
+Millions of Dollars
+2025 2024
+Assets
+Cash and cash equivalents $ 6,497 5,607
+Short-term investments 484 507
+Accounts and notes receivable (net of allowance of $ 4 and $ 7 , respectively)
+5,813 6,695
+Inventories 1,873 1,809
+Prepaid expenses and other current assets 865 1,029
+Total current assets 15,532 15,647
+Investments and long-term receivables 10,185 9,869
+Net properties, plants and equipment (net of accumulated DD&A of $ 90,396 and $ 81,072 , respectively)
+93,239 94,356
+Other assets 2,983 2,908
+Total assets $ 121,939 122,780
+Liabilities
+Accounts payable $ 6,218 6,044
+Short-term debt 1,020 1,035
+Accrued income and other taxes 1,835 2,460
+Employee benefit obligations 1,136 1,087
+Other accruals 1,763 1,498
+Total current liabilities 11,972 12,124
+Long-term debt 22,424 23,289
+Asset retirement obligations and accrued environmental costs 8,214 8,089
+Deferred income taxes 12,237 11,426
+Employee benefit obligations 969 1,022
+Other liabilities and deferred credits 1,636 2,034
+Total liabilities 57,452 57,984
+Equity
+Common stock ( 2,500,000,000 shares authorized at $ 0.01 par value)
+Issued (2025— 2,253,518,282 shares; 2024— 2,250,672,734 shares)
+Par value 23 23
+Capital in excess of par 77,728 77,529
+Treasury stock (at cost: 2025— 1,028,350,186 shares; 2024— 974,806,010 shares)
+( 76,217 ) ( 71,152 )
+Accumulated other comprehensive income (loss) ( 5,911 ) ( 6,473 )
+Retained earnings 68,864 64,869
+Total equity 64,487 64,796
+Total liabilities and equity $ 121,939 122,780
+See Notes to Consolidated Financial Statements.
+73
+ConocoPhillips 2025 10-K
+Financial Statements
+Table of Contents
+Consolidated Statement of Cash Flows
+ConocoPhillips
+Years Ended December 31
+Millions of Dollars
+2025 2024 2023
+Cash flows from operating activities
+Net income (loss) $ 7,988 9,245 10,957
+Adjustments to reconcile net income (loss) to net cash provided by operating activities
+Depreciation, depletion and amortization 11,500 9,599 8,270
+Impairments 26 80 14
+Dry hole costs and leasehold impairments 181 46 162
+Accretion on discounted liabilities 378 325 283
+Deferred taxes 549 367 1,145
+Distributions more (less) than income from equity affiliates 200 564 964
+(Gain) loss on dispositions ( 731 ) ( 51 ) ( 228 )
+Other ( 219 ) 130 ( 220 )
+Working capital adjustments
+Decrease (increase) in accounts and notes receivable 803 ( 262 ) 1,333
+Decrease (increase) in inventories ( 116 ) ( 68 ) ( 103 )
+Decrease (increase) in prepaid expenses and other current assets ( 24 ) 79 337
+Increase (decrease) in accounts payable ( 212 ) ( 543 ) ( 1,118 )
+Increase (decrease) in taxes and other accruals ( 527 ) 613 ( 1,831 )
+Net cash provided by operating activities 19,796 20,124 19,965
+Cash flows from investing activities
+Capital expenditures and investments ( 12,553 ) ( 12,118 ) ( 11,248 )
+Working capital changes associated with investing activities 546 302 30
+Acquisition of businesses, net of cash acquired — ( 24 ) ( 2,724 )
+Proceeds from asset dispositions 3,248 261 632
+Net sales (purchases) of investments ( 55 ) 415 1,373
+Other ( 22 ) 14 ( 63 )
+Net cash used in investing activities ( 8,836 ) ( 11,150 ) ( 12,000 )
+Cash flows from financing activities
+Issuance of debt — 5,591 3,787
+Repayment of debt ( 913 ) ( 4,981 ) ( 1,379 )
+Issuance of company common stock ( 100 ) ( 78 ) ( 52 )
+Repurchase of company common stock ( 5,018 ) ( 5,463 ) ( 5,400 )
+Dividends paid ( 3,995 ) ( 3,646 ) ( 5,583 )
+Other ( 76 ) ( 258 ) ( 34 )
+Net cash used in financing activities ( 10,102 ) ( 8,835 ) ( 8,661 )
+Effect of exchange rate changes on cash, cash equivalents and restricted cash 153 ( 133 ) ( 99 )
+Net change in cash, cash equivalents and restricted cash 1,011 6 ( 795 )
+Cash, cash equivalents and restricted cash at beginning of period 5,905 5,899 6,694
+Cash, cash equivalents and restricted cash at end of period $ 6,916 5,905 5,899
+Restricted cash of $ 65 million is included in the "Prepaid expenses and other current assets" line of our Consolidated Balance Sheet
+as of December 31, 2025.
+Restricted cash of $ 354 million and $ 298 million is included in the "Other assets" line of our Consolidated Balance Sheet at December 31, 2025, and December 31, 2024, respectively.
+See Notes to Consolidated Financial Statements.
+ConocoPhillips 2025 10-K
+74
+Financial Statements
+Table of Contents
+Consolidated Statement of Changes in Equity
+ConocoPhillips
+Millions of Dollars
+Common Stock
+Par Value Capital in
+Excess of
+Par Treasury
+Stock Accum. Other
+Comprehensive
+Income (Loss) Retained
+Earnings Total
+Balances at December 31, 2022
+$ 21 61,142 ( 60,189 ) ( 6,000 ) 53,029 48,003
+Net income (loss) 10,957 10,957
+Other comprehensive income (loss) 327 327
+Dividends declared
+Ordinary ($ 2.11 per share of common stock)
+( 2,550 ) ( 2,550 )
+Variable return of cash ($ 1.80 per share of common stock)
+( 2,170 ) ( 2,170 )
+Repurchase of company common stock ( 5,400 ) ( 5,400 )
+Excise tax on share repurchases ( 50 ) ( 50 )
+Distributed under benefit plans 161 161
+Other ( 1 ) 2 1
+Balances at December 31, 2023
+$ 21 61,303 ( 65,640 ) ( 5,673 ) 59,268 49,279
+Net income (loss) 9,245 9,245
+Other comprehensive income (loss) ( 800 ) ( 800 )
+Dividends declared
+Ordinary ($ 2.52 per share of common stock)
+( 2,942 ) ( 2,942 )
+Variable return of cash ($ 0.60 per share of common stock)
+( 704 ) ( 704 )
+Acquisition of Marathon Oil 2 16,037 16,039
+Repurchase of company common stock ( 5,463 ) ( 5,463 )
+Excise tax on share repurchases ( 50 ) ( 50 )
+Distributed under benefit plans 189 189
+Other 1 2 3
+Balances at December 31, 2024
+$ 23 77,529 ( 71,152 ) ( 6,473 ) 64,869 64,796
+Net income (loss) 7,988 7,988
+Other comprehensive income (loss) 562 562
+Dividends declared
+Ordinary ($ 3.18 per share of common stock)
+( 3,995 ) ( 3,995 )
+Repurchase of company common stock ( 5,018 ) ( 5,018 )
+Excise tax on share repurchases ( 47 ) ( 47 )
+Distributed under benefit plans 199 199
+Other — 2 2
+Balances at December 31, 2025
+$ 23 77,728 ( 76,217 ) ( 5,911 ) 68,864 64,487
+See Notes to Consolidated Financial Statements.
+75
+ConocoPhillips 2025 10-K
+Notes to Consolidated Financial Statements Table of Contents
+Notes to Consolidated Financial Statements
+Note 1—Accounting Policies
+Consolidation Principles and Investments —Our consolidated financial statements include the accounts of majority-owned, controlled subsidiaries and, if applicable, variable interest entities where we are the primary beneficiary. The equity method is used to account for investments in affiliates in which we have the ability to exert significant influence over the affiliates' operating and financial policies. When we do not have the ability to exert significant influence, the investment is measured at fair value except when the investment does not have a readily determinable fair value. For those exceptions, it will be measured at cost minus impairment, plus or minus observable price changes in orderly transactions for an identical or similar investment of the same issuer. Undivided interests in oil and gas joint ventures, pipelines, natural gas plants and terminals are consolidated on a proportionate basis. We manage our operations through five operating segments, defined by geographic region: Alaska; Lower 48; Canada; Europe, Middle East and North Africa; and Asia Pacific. See Note 22 .
+Foreign Currency Translation —Adjustments resulting from the process of translating foreign functional currency financial statements into U.S. dollars are included in accumulated other comprehensive income (loss) in common stockholders' equity. Foreign currency transaction gains and losses are included in current earnings. Some of our foreign operations use their local currency as the functional currency.
+Use of Estimates —The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses and the disclosures of contingent assets and liabilities. Actual results could differ from these estimates.
+Revenue Recognition —Revenues associated with the sales of crude oil, bitumen, natural gas, NGLs, LNG and other items are recognized at the point in time when the customer obtains control of the asset. In evaluating when a customer has control of the asset, we primarily consider whether the transfer of legal title and physical delivery has occurred, whether the customer has significant risks and rewards of ownership and whether the customer has accepted delivery and a right to payment exists. These products are typically sold at prevailing market prices. We allocate variable market-based consideration to deliveries (performance obligations) in the current period as that consideration relates specifically to our efforts to transfer control of current period deliveries to the customer and represents the amount we expect to be entitled to in exchange for the related products. Payment is typically due within 30 days or less.
+Transactions commonly called buy/sell contracts, in which the purchase and sale of inventory with the same counterparty are entered into "in contemplation" of one another, are combined and reported net (i.e., on the same income statement line).
+Shipping and Handling Costs —We typically incur shipping and handling costs prior to control transferring to the customer and account for these activities as fulfillment costs. Accordingly, we include shipping and handling costs in production and operating expenses for production activities. Transportation costs related to marketing activities are recorded in purchased commodities. Freight costs billed to customers are treated as a component of the transaction price and recorded as a component of revenue when the customer obtains control.
+Cash Equivalents —Cash equivalents are highly liquid, short-term investments that are readily convertible to known amounts of cash and have original maturities of 90 days or less from their date of purchase. They are carried at cost plus accrued interest, which approximates fair value.
+Short-Term Investments —Short-term investments include investments in bank time deposits and marketable securities (commercial paper and government obligations) which are carried at cost plus accrued interest and have original maturities of greater than 90 days but within one year or when the remaining maturities are within one year. We also invest in financial instruments classified as available for sale debt securities which are carried at fair value. Those instruments are included in short-term investments when they have remaining maturities of one year or less, as of the balance sheet date.
+Long-Term Investments in Debt Securities —Long-term investments in debt securities includes financial instruments classified as available for sale debt securities with remaining maturities greater than one year as of the balance sheet date. They are carried at fair value and presented within the "Investments and long-term receivables" line of our consolidated balance sheet.
+ConocoPhillips 2025 10-K
+76
+Notes to Consolidated Financial Statements Table of Contents
+Inventories —We have several valuation methods for our various types of inventories and consistently use the following methods for each type of inventory. The majority of our commodity-related inventories are recorded at cost using the LIFO basis. We measure these inventories at the lower-of-cost-or-market in the aggregate. Any necessary lower-of-cost-or-market write-downs at year end are recorded as permanent adjustments to the LIFO cost basis. LIFO is used to better match current inventory costs with current revenues. Costs include both direct and indirect expenditures incurred in bringing an item or product to its existing condition and location, but not unusual/nonrecurring costs or research and development costs. Materials, supplies and other miscellaneous inventories, such as tubular goods and well equipment, are valued using various methods, including the weighted-average-cost method and the FIFO method, consistent with industry practice.
+Fair Value Measurements —Assets and liabilities measured at fair value and required to be categorized within the fair value hierarchy are categorized into one of three different levels depending on the observability of the inputs employed in the measurement. Level 1 inputs are quoted prices in active markets for identical assets or liabilities. Level 2 inputs are observable inputs other than quoted prices included within Level 1 for the asset or liability, either directly or indirectly through market-corroborated inputs. Level 3 inputs are unobservable inputs for the asset or liability reflecting significant modifications to observable related market data or our assumptions about pricing by market participants.
+Derivative Instruments —Derivative instruments are recorded on the balance sheet at fair value. If the right of offset exists and certain other criteria are met, derivative assets and liabilities with the same counterparty are netted on the balance sheet and the collateral payable or receivable is netted against derivative assets and derivative liabilities, respectively.
+Recognition and classification of the gain or loss that results from recording and adjusting a derivative to fair value depends on the purpose for issuing or holding the derivative. Gains and losses from derivatives not accounted for as hedges are recognized immediately in earnings. We do not apply hedge accounting to our commodity derivative instruments.
+Oil and Gas Exploration and Development —Oil and gas exploration and development costs are accounted for using the successful efforts method of accounting.
+Property Acquisition Costs —Oil and gas leasehold acquisition costs are capitalized and included in the balance sheet caption PP&E. Leasehold impairment is recognized based on exploratory experience and management's judgment. Upon achievement of all conditions necessary for reserves to be classified as proved, the associated leasehold costs are reclassified to proved properties.
+Exploratory Costs —Geological and geophysical costs and the costs of carrying and retaining undeveloped properties are expensed as incurred. Exploratory well costs are capitalized, or "suspended," on the balance sheet pending further evaluation of whether economically recoverable reserves have been found. If economically recoverable reserves are not found, exploratory well costs are expensed as dry holes. If exploratory wells encounter potentially economic quantities of oil and gas, the well costs remain capitalized on the balance sheet as long as sufficient progress assessing the reserves and the economic and operating viability of the project is being made. For complex exploratory discoveries, it is not unusual to have exploratory wells remain suspended on the balance sheet for several years while we perform additional appraisal drilling and seismic work on the potential oil and gas field or while we seek government or coventurer approval of development plans or seek environmental permitting. Once all required approvals and permits have been obtained, the projects are moved into the development phase, and the oil and gas resources are designated as proved reserves.
+Management reviews suspended well balances quarterly, continuously monitors the results of the additional appraisal drilling and seismic work, and expenses the suspended well costs as dry holes when it judges the potential field does not warrant further investment in the near term. See Note 5 .
+Development Costs —Costs incurred to drill and equip development wells, including unsuccessful development wells, are capitalized.
+Depletion and Amortization —Leasehold costs of producing properties are depleted using the unit-of-production method based on estimated proved developed and proved undeveloped oil and gas reserves. Amortization of development costs is based on the unit-of-production method using estimated proved developed oil and gas reserves.
+77
+ConocoPhillips 2025 10-K
+Notes to Consolidated Financial Statements Table of Contents
+Capitalized Interest —Interest from external borrowings is capitalized on major projects with an expected construction period of one year or longer. Capitalized interest is added to the cost of the underlying asset and is amortized over the useful lives of the assets in the same manner as the underlying assets.
+Depreciation and Amortization —Depreciation and amortization of PP&E on producing hydrocarbon properties and SAGD facilities are determined by the unit-of-production method. Depreciation and amortization of all other PP&E are determined by either the individual-unit-straight-line method or the group-straight-line method (for those individual units that are highly integrated with other units).
+Impairment of Properties, Plants and Equipment —Long-lived assets used in operations are assessed for impairment whenever changes in facts and circumstances indicate a possible significant deterioration in the future cash flows expected to be generated by an asset group. If there is an indication the carrying amount of an asset may not be recovered, a recoverability test is performed using management's assumptions for prices, volumes and future development plans. If the sum of the undiscounted cash flows before income-taxes is less than the carrying value of the asset group, the carrying value is written down to estimated fair value and reported as an impairment in the period in which the determination is made. Individual assets are grouped for impairment purposes at the lowest level for which there are identifiable cash flows that are largely independent of the cash flows of other groups of assets—generally on a field-by-field basis for E&P assets. Because there usually is a lack of quoted market prices for long-lived assets, the fair value of impaired assets is typically determined based on the present values of expected future cash flows using discount rates and prices believed to be consistent with those used by principal market participants, or based on a multiple of operating cash flow validated with historical market transactions of similar assets where possible.
+The expected future cash flows used for impairment reviews and related fair value calculations are based on estimated future production volumes, commodity prices, operating costs and capital decisions, considering all available evidence at the date of review. The impairment review includes cash flows from proved developed and undeveloped reserves, including any development expenditures necessary to achieve that production. Additionally, when probable and possible reserves exist, an appropriate risk-adjusted amount of these reserves may be included in the impairment calculation.
+Long-lived assets committed by management for disposal within one year are accounted for at the lower of amortized cost or fair value, less cost to sell, with fair value determined using a binding negotiated price, if available, or present value of expected future cash flows as previously described.
+Maintenance and Repairs —Costs of maintenance and repairs, which are not significant improvements, are expensed when incurred.
+Property Dispositions —When complete units of depreciable property are sold, the asset cost and related accumulated depreciation are eliminated, with any gain or loss reflected in the "Gain (loss) on dispositions" line of our consolidated income statement. When partial units of depreciable property are sold or retired which do not significantly alter the DD&A rate, the asset cost and accumulated depreciation are eliminated such that no gain or loss is recorded.
+Asset Retirement Obligations and Environmental Costs —The fair value of legal obligations to retire and remove long-lived assets are recorded in the period in which the obligation is incurred (typically when the asset is installed at the production location). Fair value is estimated using a present value approach, incorporating assumptions about estimated amounts and timing of settlements and impacts of the use of technologies. See Note 6 .
+Environmental expenditures are expensed or capitalized, depending upon their future economic benefit. Expenditures relating to an existing condition caused by past operations, and those having no future economic benefit, are expensed. Liabilities for environmental expenditures are recorded on an undiscounted basis (unless acquired through a business combination, which we record on a discounted basis) when environmental assessments or cleanups are probable and the costs can be reasonably estimated. Recoveries of environmental remediation costs from other parties are recorded as assets when their receipt is probable and estimable.
+ConocoPhillips 2025 10-K
+78
+Notes to Consolidated Financial Statements Table of Contents
+Impairment of Investments in Nonconsolidated Entities —Investments in nonconsolidated entities are assessed for impairment whenever changes in the facts and circumstances indicate a loss in value has occurred. When such a condition is judgmentally determined to be other than temporary, the carrying value of the investment is written down to fair value. The fair value of the impaired investment is based on quoted market prices, if available, or upon the present value of expected future cash flows using discount rates and prices believed to be consistent with those used by principal market participants, plus market analysis of comparable assets owned by the investee, if appropriate.
+Guarantees —The fair value of a guarantee is determined and recorded as a liability at the time the guarantee is given. The initial liability is subsequently reduced as we are released from exposure under the guarantee. We amortize the guarantee liability over the relevant time period, if one exists, based on the facts and circumstances surrounding each type of guarantee. In cases where the guarantee term is indefinite, we reverse the liability when we have information indicating the liability is essentially relieved or amortize it over an appropriate time period as the fair value of our guarantee exposure declines over time. We amortize the guarantee liability to the related income statement line item based on the nature of the guarantee. When it becomes probable that we will have to perform on a guarantee, we accrue a separate liability if it is reasonably estimable, based on the facts and circumstances at that time. We reverse the fair value liability only when there is no further exposure under the guarantee.
+Share-Based Compensation —We recognize share-based compensation expense over the shorter of the service period (i.e., the stated period of time required to earn the award) or the period beginning at the start of the service period and ending when an employee first becomes eligible for retirement. We have elected to recognize expense on a straight-line basis over the service period for the entire award, whether the award was granted with ratable or cliff vesting.
+Income Taxes —Deferred income taxes are computed using the liability method and are provided on all temporary differences between the financial reporting basis and the tax basis of our assets and liabilities, except for deferred taxes on income and temporary differences related to the cumulative translation adjustment considered to be permanently reinvested in certain foreign subsidiaries and foreign corporate joint ventures. Allowable tax credits are applied currently as reductions of the provision for income taxes. Interest related to unrecognized tax benefits is reflected in interest and debt expense, and penalties related to unrecognized tax benefits are reflected in production and operating expenses.
+Taxes Collected from Customers and Remitted to Governmental Authorities —Sales and value-added taxes are recorded net.
+Net Income (Loss) Per Share of Common Stock —Basic net income (loss) per share is calculated using the two-class method. Under the two-class method, all earnings (distributed and undistributed) are allocated to common stock (including fully vested stock and unit awards that have not yet been issued as common stock) and participating securities. ConocoPhillips grants Restricted Stock Units (RSUs) under its share-based compensation programs, the majority of which entitle recipients to receive non-forfeitable dividends during the vesting period on a basis equivalent to dividends paid to holders of the company's common stock. See Note 14 . These unvested RSUs meet the definition of participating securities based on their respective rights to receive non-forfeitable dividends and are treated as a separate class of securities in computing basic EPS. Participating securities are not included as incremental shares in computing diluted EPS. Diluted EPS includes the potential impact of contingently issuable shares, including awards which require future service as a condition of delivery of the underlying common stock. Diluted EPS is calculated under both the two-class and treasury stock methods, and the more dilutive amount is reported. Diluted net loss per share does not assume conversion or exercise of securities that would have an antidilutive effect. Treasury stock is excluded from the daily weighted-average number of common shares outstanding in both calculations. See Note 21 .
+79
+ConocoPhillips 2025 10-K
+Notes to Consolidated Financial Statements Table of Contents
+Note 2—Inventories
+Inventories at December 31 were:
+Millions of Dollars
+2025 2024
+Crude oil and products $ 1,000 907
+Materials and supplies 873 902
+Total inventories $ 1,873 1,809
+Inventories valued on the LIFO basis $ 609 578
+The estimated excess of current replacement cost over LIFO cost of inventories was approximately $ 65 million and $ 113 million at December 31, 2025 and 2024, respectively.
+Note 3—Acquisitions and Dispositions
+All gains or losses on asset dispositions are reported before-tax and are included net in the " Gain (loss) on dispositions " line on our consolidated income statement. Cash proceeds and payments are included in the "Cash flows from investing activities" section of our consolidated statement of cash flows except for cash payments associated with a contingent consideration arrangement that are included in the "Cash flows from financing activities" section.
+2025
+Assets Sold
+In the second quarter of 2025, we sold our interests in the Ursa and Europa fields and Ursa Oil Pipeline Company LLC for net proceeds of $ 699 million. We recognized a $ 274 million before-tax and $ 266 million after-tax gain for this transaction, inclusive of the reduction of our valuation allowance recognized in the first quarter of 2025. At the time of disposition, these assets, in our Lower 48 segment, had a net carrying value of $ 444 million, comprised of $ 536 million of assets, primarily $ 522 million of PP&E, and $ 92 million of liabilities, primarily related to noncurrent AROs. For tax-related impacts of this disposition, s ee Note 15.
+In the fourth quarter of 2025, we sold Lower 48 assets in the Anadarko basin for net proceeds of $ 1.2 billion, after customary closing adjustments. At the time of the disposition, these assets had a net carrying value of approximately $ 1.2 billion, comprised primarily of PP&E.
+Additionally, during 2025, we sold our interests in other noncore assets in the Lower 48 segment for $ 1.1 billion and recognized a $ 404 million before-tax and $ 310 million after-tax net gain. Our interests in the disposed assets had an aggregate net carrying value of $ 719 million, comprised of $ 770 million of assets, primarily related to $ 645 million of PP&E and $ 51 million of liabilities related to noncurrent AROs.
+2024
+Acquisition of Marathon Oil Corporation (Marathon Oil)
+In November 2024, we completed our acquisition of Marathon Oil, an independent oil and gas exploration and production company with operations across the Lower 48 and in Equatorial Guinea. At close, the transaction was valued at $ 16.5 billion, which primarily represented 0.255 shares of ConocoPhillips common stock exchanged for each outstanding share of Marathon Oil common stock.
+ConocoPhillips 2025 10-K
+80
+Notes to Consolidated Financial Statements Table of Contents
+Total fair value Millions of Dollars
+Value of ConocoPhillips common stock issued* 15,972
+Cash transferred at close** 451
+Value attributable to Marathon Oil share-based awards 67
+Other liabilities incurred*** 17
+Total fair value $ 16,507
+*Represents the fair value of approximately 143 million shares of ConocoPhillips common stock issued to Marathon Oil stockholders. The fair value is based on the number of eligible shares of Marathon Oil common stock at a 0.255 exchange ratio and ConocoPhillips' average stock price on November 22, 2024, which was $ 111.93 .
+**Cash transferred at close primarily represents funds contributed to Marathon Oil for repayment of Marathon Oil's estimated commercial paper liabilities as of the closing date.
+***Liabilities incurred are related to cash settled share-based awards and payment of cash in lieu of fractional Marathon Oil shares outstanding. These liabilities were settled prior to the end of 2024.
+The transaction was accounted for as a business combination under FASB Topic ASC 805 using the acquisition method, which requires assets acquired and liabilities assumed to be measured at their acquisition date fair values. In the fourth quarter of 2025, we finalized the allocation of the purchase price to specific assets and liabilities. It was based on the fair value of the final consideration and the conclusion of the fair value determination of long-lived assets and all other assets acquired and liabilities assumed.
+Oil and gas properties were valued using a discounted cash flow approach incorporating market participant and internally generated price assumptions; production profiles; and operating and development cost assumptions. Debt assumed in the acquisition was valued based on observable market prices. The fair values of accounts receivable, accounts payable, and most other current assets and current liabilities were determined to be equivalent to the carrying value due to their short-term nature. The acquisition, valued at $ 16.5 billion, was allocated to the identifiable assets and liabilities based on their estimated fair values as of the acquisition date of November 22, 2024.
+Assets acquired Millions of Dollars
+Cash and cash equivalents $ 385
+Accounts receivable, net 976
+Inventories 302
+Investments and long-term receivables 562
+Net properties, plants and equipment 24,215
+Other assets 215
+Total assets acquired $ 26,655
+Liabilities assumed
+Accounts payable $ 1,183
+Accrued income and other taxes 201
+Employee benefit obligations 187
+Long-term debt 4,719
+Asset retirement obligations 781
+Deferred income taxes 2,471
+Other liabilities 606
+Total liabilities assumed $ 10,148
+Net assets acquired $ 16,507
+With the completion of the transaction, we acquired proved properties of approximately $ 13.2 billion, with $ 12.1 billion in Lower 48 and $ 1.1 billion in Equatorial Guinea, and unproved properties of $ 10.8 billion in Lower 48.
+We have recognized approximately $ 587 million of transaction-related costs, the majority of which were expensed in the fourth quarter of 2024. These non-recurring costs related primarily to employee severance and related benefits, fees paid to advisors and the settlement of share-based awards for certain Marathon Oil employees based on the terms of the Merger Agreement. These transaction-related costs included $ 334 million of employee severance expense. See Note 14 .
+81
+ConocoPhillips 2025 10-K
+Notes to Consolidated Financial Statements Table of Contents
+For the year ended December 31, 2024, "Total revenues and other income" and "Net income (loss)" associated with the acquired assets were $ 677 million and income of $ 66 million, respectively.
+Alaska Acquisition
+In the fourth quarter of 2024, after exercising our preferential rights, we completed an acquisition that increased our working interest by approximately 5 percent in the Kuparuk River Unit and approximately 0.4 percent in the Prudhoe Bay Unit from Chevron U.S.A. Inc. and Union Oil Company of California for $ 296 million, before customary adjustments. The transaction was accounted for as an asset acquisition, with the consideration allocated primarily to PP&E.
+2023
+Surmont Acquisition
+In October 2023, we completed our acquisition of the remaining 50 percent working interest in Surmont, an asset in our Canada segment, from TotalEnergies EP Canada Ltd. Following the acquisition, we own 100 percent working interest in Surmont. The final consideration for the all-cash transaction was $ 3.0 billion (CAD $ 4.1 billion) after customary adjustments:
+Fair value of consideration Millions of Dollars
+Cash paid $ 2,635
+Contingent consideration 320
+Total consideration $ 2,955
+For information related to the contingent consideration arrangement, s e e Note 11 .
+The transaction was accounted for as a business combination under FASB Topic ASC 805 using the acquisition method, which requires assets acquired and liabilities assumed to be measured at their acquisition date fair values. By the end of the first quarter of 2024, we finalized the allocation of the purchase price to specific assets and liabilities. It was based on the fair value of the final consideration and the conclusion of the fair value determination of long-lived assets and all other assets acquired and liabilities assumed.
+Oil and gas properties were valued using a discounted cash flow approach incorporating market participant and internally generated price assumptions, production profiles and operating and development cost assumptions. The fair values of other assets acquired and liabilities assumed, which included accounts receivable, accounts payable, and most other current assets and current liabilities, were determined to be equivalent to the carrying value due to their short-term nature. The total consideration of $ 3.0 billion was allocated to the identifiable assets and liabilities based on their fair values as of the acquisition date of October 4, 2023.
+Recognized amounts of identifiable assets acquired and liabilities assumed Millions of Dollars
+Oil and gas properties 3,082
+Asset retirement obligations ( 112 )
+Other ( 15 )
+Total identifiable net assets $ 2,955
+With the completion of the transaction, we acquired proved and unproved properties of approximately $ 2.9 billion and $ 0.2 billion, respectively.
+In anticipation of the acquisition, we entered into, and settled, various foreign exchange forward contracts to purchase CAD. For the year ended December 31, 2023, we recognized a loss of $ 112 million in the "Foreign currency transaction (gain) loss" line on our consolidated income statement associated with these forward contracts. The related cash flows are included within "Cash flows from investing activities" on our consolidated statement of cash flows.
+From the acquisition date through December 31, 2023, "Total revenues and other income" and "Net income (loss)" associated with the acquired assets were $ 572 million and $ 119 million, respectively.
+ConocoPhillips 2025 10-K
+82
+Notes to Consolidated Financial Statements Table of Contents
+Supplemental Pro Forma (unaudited)
+The following tables summarize the unaudited supplemental pro forma financial information combining the consolidated income statement of ConocoPhillips with assets acquired as shown for the year ended December 31, 2024 and 2023, as if we had completed the acquisition of Marathon Oil on January 1, 2023 and the remaining working interest in Surmont on January 1, 2022, respectively.
+Millions of Dollars
+Year Ended December 31, 2024
+As reported Pro forma Marathon Oil Pro forma Combined
+Total revenues and other income $ 56,953 6,168 63,121
+Net income (loss) 9,245 1,312 10,557
+Earnings per share:
+Basic net income (loss) $ 7.82 8.06
+Diluted net income (loss) 7.81 8.05
+Millions of Dollars
+Year Ended December 31, 2023
+As reported Pro forma Surmont Pro forma Marathon Oil Pro forma Combined
+Total revenues and other income $ 58,574 2,561 6,705 67,840
+Net income (loss) 10,957 501 1,657 13,115
+Earnings per share:
+Basic net income (loss) $ 9.08 9.72
+Diluted net income (loss) 9.06 9.70
+The unaudited supplemental pro forma financial information is presented for illustration purposes only and is not necessarily indicative of the operating results that would have occurred had the Surmont and Marathon Oil transactions been completed on January 1, 2022, and January 1, 2023, respectively, nor is it necessarily indicative of future operating results of the combined entity. The pro forma results do not include cost savings anticipated as a result of the transaction. The pro forma results include adjustments which relate primarily to DD&A, which is based on the unit-of-production method, resulting from the purchase price allocated to oil and gas properties as well as adjustments for the timing of transaction costs and tax impacts. We believe the estimates and assumptions are reasonable, and the relative effects of the transaction are properly reflected.
+QatarEnergy LNG NFS(3) (NFS3)
+During 2022, we were awarded a 25 percent interest in NFS3, a new joint venture with QatarEnergy, to participate in the North Field South (NFS) LNG project in Qatar. Formation of NFS3 closed during 2023. NFS3 has a 25 percent interest in the NFS project and is reported as an equity method investment in our Europe, Middle East and North Africa segment. See Note 4.
+Port Arthur Liquefaction Holdings, LLC (PALNG)
+During 2023, we acquired a 30 percent interest in PALNG, a joint venture for the development of a large-scale LNG facility for the first phase of the Port Arthur LNG project ("Phase 1"). Sempra PALNG Holdings, LLC owns the remaining 70 percent interest in the joint venture. PALNG is reported as an equity method investment in our Corporate and Other segment. See Note 4.
+83
+ConocoPhillips 2025 10-K
+Notes to Consolidated Financial Statements Table of Contents
+Note 4—Investments, Loans and Long-Term Receivables
+Components of investments and long-term receivables at December 31 were:
+Millions of Dollars
+2025 2024
+Equity investments $ 8,833 8,611
+Long-term receivables 110 113
+Long-term investments in debt securities 1,148 1,055
+Other investments 94 90
+Total $ 10,185 9,869
+Equity Investments
+Affiliated companies in which we had a significant equity investment at December 31, 2025, included:
+APLNG— 47.5 percent owned joint venture with Origin Energy ( 27.5 percent) and Sinopec ( 25 percent)—to produce CBM from the Bowen and Surat basins in Queensland, Australia, as well as process and export LNG.
+PALNG— 30 percent owned joint venture with Sempra PALNG Holdings, LLC for the development of a large-scale LNG facility for the first phase of the Port Arthur LNG project ("Phase 1"). See Note 3 .
+QatarEnergy LNG N(3) (N3)— 30 percent owned joint venture with affiliates of QatarEnergy ( 68.5 percent) and Mitsui & Co., Ltd. ( 1.5 percent)—produces and liquefies natural gas from Qatar's North Field, as well as exports LNG.
+QatarEnergy LNG NFE(4) (NFE4)— 25 percent owned joint venture with affiliates of QatarEnergy ( 70 percent) and China National Petroleum Corporation ( 5 percent)—participant in the North Field East LNG project.
+NFS3— 25 percent owned joint venture with an affiliate of QatarEnergy ( 75 percent)—participant in the North Field South LNG project. See Note 3 .
+Summarized 100 percent earnings information for equity method investments in affiliated companies, combined, was as follows:
+Millions of Dollars
+2025 2024 2023
+Revenues $ 13,607 15,286 15,314
+Income (loss) before income taxes 5,022 6,446 6,301
+Net income (loss) 3,441 4,389 4,214
+Summarized 100 percent balance sheet information for equity method investments in affiliated companies, combined, was as follows:
+Millions of Dollars
+2025 2024
+Current assets $ 5,793 4,608
+Noncurrent assets 43,935 41,417
+Current liabilities 3,521 3,829
+Noncurrent liabilities 18,815 16,947
+Our share of income taxes incurred directly by an equity method investee is reported in equity in earnings of affiliates, and as such is not included in income taxes on our consolidated financial statements.
+At December 31, 2025, retained earnings included $ 112 million related to the undistributed earnings of affiliated companies. Dividends received from affiliates were $ 1,531 million, $ 2,283 million and $ 2,684 million in 2025, 2024 and 2023, respectively.
+ConocoPhillips 2025 10-K
+84
+Notes to Consolidated Financial Statements Table of Contents
+APLNG
+APLNG is a joint venture focused on producing CBM from the Bowen and Surat basins in Queensland, Australia. Natural gas is sold to domestic customers and LNG is processed and exported to Asia Pacific markets. Our investment in APLNG gives us access to CBM resources in Australia and enhances our LNG position. The majority of APLNG LNG is sold under two long-term sales and purchase agreements, supplemented with sales of additional LNG cargoes targeting the Asia Pacific markets. Origin Energy, an integrated Australian energy company, is the operator of APLNG's production and pipeline system, while we operate the LNG facility.
+In 2012, APLNG executed an $ 8.5 billion project finance facility that became non-recourse following financial completion in 2017. The facility is currently composed of a financing agreement with the Export-Import Bank of the United States, a commercial bank facility and two United States Private Placement note facilities. APLNG principal and interest payments commenced in March 2017 and are scheduled to occur bi-annually until September 2030. At December 31, 2025, a balance of $ 3.4 billion was outstanding on the facilities. See Note 8 .
+At December 31, 2025, the carrying value of our equity method investment in APLNG was approximately $ 4.9 billion.
+PALNG
+PALNG is a joint venture for the development of a large-scale LNG facility. At December 31, 2025, the carrying value of our equity method investment in PALNG was approximately $ 1.6 billion. See Note 3 .
+Investments in Qatar
+N3
+N3 is a 30 percent owned joint venture in an integrated large-scale LNG project. We have terminal and pipeline use agreements with Golden Pass LNG Terminal and affiliated Golden Pass Pipeline near Sabine Pass, Texas, intended to provide us with terminal and pipeline capacity for the receipt, storage and regasification of LNG purchased from N3. Currently, the LNG from N3 is being sold to markets outside of the U.S.
+NFE4
+NFE4 is a joint venture participating in the NFE LNG project. NFE4 has a 12.5 percent interest in the NFE project.
+We have concluded NFE4 is a VIE as it currently requires advances from the joint venture participants to fund the project. We are not the primary beneficiary of the VIE because we do not have the power to direct the activities that most significantly impact economic performance of NFE4, which involve activities related to the production and commercialization of natural gas, as well as LNG processing and export marketing. As a result, we do not consolidate NFE4, and it is accounted for under the equity method. As of December 31, 2025, the carrying value of our equity is included in the total carrying value of our equity method investments in Qatar. This equity together with the guarantee is the only financial support that we have provided NFE4. See Note 8 .
+NFS3
+NFS3 is a joint venture participating in the NFS LNG project. NFS3 has a 25 percent interest in the NFS project. See Note 3 .
+At December 31, 2025, the carrying value of our equity method investments in Qatar was approximately $ 1.7 billion.
+Loans
+As part of our normal ongoing business operations and consistent with industry practice, we enter into numerous agreements with other parties to pursue business opportunities. Included in such activity are loans to certain affiliated and non-affiliated companies.
+At December 31, 2025, there were no outstanding loans to affiliated companies.
+85
+ConocoPhillips 2025 10-K
+Notes to Consolidated Financial Statements Table of Contents
+Note 5—Suspended Wells and Exploration Expenses
+The following table reflects the net changes in suspended exploratory well costs during 2025, 2024 and 2023:
+Millions of Dollars
+2025 2024 2023
+Beginning balance $ 196 184 527
+Additions pending the determination of proved reserves 113 32 —
+Reclassifications to proved properties — ( 2 ) ( 285 )
+Sales of suspended wells ( 30 ) — —
+Charged to dry hole expense ( 36 ) ( 18 ) ( 58 )
+Ending balance $ 243 196 184
+The following table provides an aging of suspended well balances at December 31:
+Millions of Dollars
+2025 2024 2023
+Exploratory well costs capitalized for a period of one year or less $ 110 33 —
+Exploratory well costs capitalized for a period greater than one year 133 163 184
+Ending balance $ 243 196 184
+Number of projects with exploratory well costs capitalized for a period greater than one year 13 13 14
+The following table provides a further aging of those exploratory well costs that have been capitalized for more than one year since the completion of drilling as of December 31, 2025:
+Millions of Dollars
+Suspended Since
+Total 2021-2024 2018-2020 2017 and Prior
+PL891—Norway (1)
+31 — 31 —
+West Willow—Alaska (2)
+30 — 30 —
+Narwhal Trend—Alaska (1)
+25 — 25 —
+Montney—Canada (2)
+15 7 8 —
+Other of $10 million or less each (1)(2)
+32 4 — 28
+Total $ 133 11 94 28
+(1) Appraisal drilling complete; costs being incurred to assess development.
+(2) Additional appraisal wells planned.
+ConocoPhillips 2025 10-K
+86
+Notes to Consolidated Financial Statements Table of Contents
+Exploration Expenses
+The charges discussed below are included in the "Exploration expenses" line on our consolidated income statement.
+2025
+We divested certain Lower 48 offshore interests in partner-operated assets, which included $ 30 million of suspended wells costs.
+We recognized dry hole expenses of $ 80 million in our Asia Pacific segment, which included $ 36 million related to certain previously suspended wells that were capitalized for a period greater than one year.
+2024
+In our Europe, Middle East and North Africa segment, we recorded approximately $ 40 million before-tax as dry hole expenses, which included $ 22 million for two partner-operated exploration wells in the Alvheim area in the Norwegian sector of the North Sea, and $ 18 million for the Busta suspended discovery well on license PL782S in the North Sea.
+2023
+In our Europe, Middle East and North Africa segment, after further evaluation we recognized a before-tax expense of $ 37 million for dry hole costs associated with the suspended Warka discovery well, drilled in 2020, on license PL1009 in the Norwegian Sea.
+In our Alaska segment, we recorded a before-tax expense of approximately $ 31 million for dry hole costs associated with the Bear-1 exploration well.
+87
+ConocoPhillips 2025 10-K
+Notes to Consolidated Financial Statements Table of Contents
+Note 6—Asset Retirement Obligations and Accrued Environmental Costs
+Asset retirement obligations and accrued environmental costs at December 31 were:
+Millions of Dollars
+2025 2024
+Asset retirement obligations $ 8,364 8,215
+Accrued environmental costs 220 206
+Total asset retirement obligations and accrued environmental costs 8,584 8,421
+Asset retirement obligations and accrued environmental costs due within one year* ( 370 ) ( 332 )
+Long-term asset retirement obligations and accrued environmental costs $ 8,214 8,089
+*Classified as a current liability on the balance sheet under "Other accruals."
+Asset Retirement Obligations
+We record the fair value of a liability for an ARO when it is incurred (typically when the asset is installed at the production location). When the liability is initially recorded, we capitalize the associated asset retirement cost by increasing the carrying amount of the related PP&E. Over time, the liability increases for the change in its present value, while the capitalized cost depreciates over the useful life of the related asset. If in subsequent periods, our estimate of this liability changes, we will record an adjustment to both the liability and PP&E. Changes to estimated liabilities for assets that are no longer producing are recorded as impairment.
+We have numerous AROs we are required to perform under law or contract once an asset is permanently taken out of service. Most of these obligations are not expected to be paid until several years, or decades, in the future and will be funded from general company resources at the time of removal. Our largest individual obligations involve plugging and abandonment of wells and removal and disposal of offshore oil and gas platforms around the world, as well as oil and gas production facilities and pipelines in Alaska.
+During 2025 and 2024, our overall ARO changed as follows:
+Millions of Dollars
+2025 2024
+Balance at January 1 $ 8,215 7,227
+Accretion of discount 366 319
+New obligations, including acquisitions 162 926
+Changes in estimates of existing obligations ( 150 ) 140
+Spending on existing obligations ( 259 ) ( 182 )
+Property dispositions ( 186 ) ( 6 )
+Foreign currency translation 216 ( 209 )
+Balance at December 31
+$ 8,364 8,215
+Accrued Environmental Costs
+Total accrued environmental costs at December 31, 2025 and 2024, were $ 220 million and $ 206 million, respectively.
+We had accrued environmental costs of $ 142 million and $ 139 million at December 31, 2025 and 2024, respectively, related to remediation activities in the U.S. and Canada. We had also accrued in Corporate and Other $ 68 million and $ 56 million of environmental costs associated with sites no longer in operation at December 31, 2025 and 2024, respectively. In addition, December 31, 2025 and 2024, included a $ 10 million and $ 11 million accrual, respectively, where the company has been named a potentially responsible party under the CERCLA, or similar state laws. Accrued environmental liabilities are expected to be paid over periods extending up to 30 years.
+Expected expenditures for environmental obligations acquired in various business combinations are discounted using a weighted-average 5 percent discount factor, resulting in an accrued balance for acquired environmental liabilities of $ 119 million at December 31, 2025. The total expected future undiscounted payments related to the portion of the accrued environmental costs that have been discounted are $ 133 million.
+ConocoPhillips 2025 10-K
+88
+Notes to Consolidated Financial Statements Table of Contents
+Note 7—Debt
+Long-term debt at December 31 was:
+Millions of Dollars
+2025 2024
+2.4 % Notes due 2025
+— 366
+8.2 % Debentures due 2025
+— 134
+3.35 % Notes due 2025
+— 199
+6.875 % Debentures due 2026
+67 67
+7.8 % Debentures due 2027
+120 120
+4.4 % Notes due 2027
+422 424
+3.75 % Notes due 2027
+196 196
+4.3 % Notes due 2028
+223 223
+7.375 % Debentures due 2029
+66 66
+7.0 % Debentures due 2029
+95 95
+5.3 % Notes due 2029
+84 86
+6.95 % Notes due 2029
+705 705
+4.7 % Notes due 2030
+1,350 1,350
+8.125 % Notes due 2030
+207 207
+2.4 % Notes due 2031
+227 227
+7.2 % Notes due 2031
+447 447
+7.25 % Notes due 2031
+268 268
+7.4 % Notes due 2031
+232 232
+4.85 % Notes due 2032
+650 650
+6.8 % Notes due 2032
+180 180
+5.9 % Notes due 2032
+505 505
+5.05 % Notes due 2033
+1,000 1,000
+5.7 % Notes due 2034
+103 103
+4.15 % Notes due 2034
+246 246
+5.0 % Notes due 2035
+1,250 1,250
+5.95 % Notes due 2036
+326 326
+5.951 % Notes serially maturing 2022 through 2037
+541 573
+6.6 % Notes due 2037
+335 335
+5.9 % Notes due 2038
+350 350
+6.5 % Notes due 2039
+1,588 1,588
+3.758 % Notes due 2042
+785 785
+4.3 % Notes due 2044
+750 750
+5.2 % Notes due 2045
+186 186
+5.95 % Notes due 2046
+329 329
+7.9 % Debentures due 2047
+60 60
+4.875 % Notes due 2047
+319 319
+4.85 % Notes due 2048
+219 219
+3.8 % Notes due 2052
+1,100 1,100
+5.3 % Notes due 2053
+1,100 1,100
+5.55 % Notes due 2054
+1,000 1,000
+5.5 % Notes due 2055
+1,300 1,300
+4.025 % Notes due 2062
+1,770 1,770
+5.7 % Notes due 2063
+700 700
+5.65 % Notes due 2065
+650 650
+Marine Terminal Revenue Refunding Bonds due 2031 at 1.23 % 5.05 % during 2025 and 1.78 % 4.80 % during 2024
+265 265
+89
+ConocoPhillips 2025 10-K
+Notes to Consolidated Financial Statements Table of Contents
+Industrial Development Bonds due 2035 at 1.23 % 5.05 % during 2025 and 1.78 % 4.22 % during 2024
+18 18
+St. John the Baptist Parish, State of Louisiana—Revenue Refunding Bonds due 2037 1 : $ 200 at 2.20 %, $ 200 at 2.375 %, $ 200 at 4.05 %, $ 400 at 3.30 % 1
+1,000 1,000
+Other 13 16
+Debt at face value 23,347 24,085
+Finance leases 801 940
+Net unamortized premiums, discounts and debt issuance costs ( 704 ) ( 701 )
+Total debt 23,444 24,324
+Short-term debt ( 1,020 ) ( 1,035 )
+Long-term debt $ 22,424 23,289
+1 Future mandatory purchase dates for these bonds: July 1, 2026 for the 2.20 % bonds of $ 200 million, 2.375 % bonds of $ 200 million, 4.05 % bonds of $ 200 million and July 3, 2028 for the 3.30 % bonds of $ 400 million. Subsequent to the mandatory purchase dates, we will also have the right to remarket
+these bonds any time up to the 2037 maturity date.
+The principal amounts of long-term debt, excluding finance lease obligations, maturing in 2026 through 2030 are: $ 713 million, of which $ 600 million are municipal bonds we intend to remarket, $ 786 million, $ 670 million, $ 992 million and $ 1,599 million, respectively.
+2025
+In 2025, the company retired $ 0.7 billion principal amount of debt at maturity, consisting of $ 0.2 billion of our 3.35 % Notes, $ 0.4 billion of our 2.4 % Notes and $ 0.1 billion of our 8.2 % Debentures.
+2024
+In the fourth quarter of 2024, we acquired Marathon Oil and assumed its outstanding debt upon close. Shortly thereafter, we launched and completed concurrent debt transactions consisting of: tender offers to repurchase certain existing Marathon Oil and ConocoPhillips debt for cash (with priority for Marathon Oil debt assumed), an obligor exchange offer to retire certain Marathon Oil debt in exchange for new ConocoPhillips debt, new debt issuances to fund the repurchase tender offers and the remarketing of available municipal bonds. See Note 3.
+Marathon Oil Debt Assumed at Fair Value
+As part of the acquisition, we assumed Marathon Oil's publicly traded debt, with an outstanding principal balance of $ 4.6 billion, which was recorded at fair value of $ 4.7 billion. See Note 3.
+4.4 % Notes due 2027 with principal amount of $ 1,000 million
+5.3 % Notes due 2029 with principal amount of $ 600 million
+6.8 % Notes due 2032 with principal amount of $ 550 million
+5.7 % Notes due 2034 with principal amount of $ 600 million
+6.6 % Notes due 2037 with principal amount of $ 750 million
+5.2 % Notes due 2045 with principal amount of $ 500 million
+St. John the Baptist Parish, State of Louisiana—Revenue Refunding Bonds due 2037 with future mandatory purchase dates of July 1, 2026:
+2.20 % Bonds with principal amount of $ 200 million
+2.375 % Bonds with principal am

@@ -1,0 +1,1014 @@
+ The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the account or disclosure to which it relates.
+Uncertain Tax Positions
+Description of the matter
+As discussed in Note 12 of the consolidated financial statements, the Company recognizes uncertain tax positions and measures unrecognized tax benefits related to various domestic and foreign matters. The Company uses significant judgment in the accounting for uncertain tax positions related to certain intercompany transfer prices and calculations, including the interpretation and application of tax laws and legal rulings in various jurisdictions.
+Auditing management's evaluation of whether an uncertain tax position is more likely than not to be sustained and the measurement of the benefit of various tax positions was complex, involved significant judgment, and was based on interpretations and application of tax laws and legal rulings.
+61
+Table of Contents
+How we addressed the matter in our audit
+We obtained an understanding, evaluated the design, and tested the operating effectiveness of the controls over management's process to assess the technical merits of the Company's tax positions related to certain intercompany transfer prices and calculations, including ongoing monitoring activities, and management's process to measure the benefit of those tax positions.
+To test management's assessment of these uncertain tax positions, we performed audit procedures that included, among others, evaluating management's assumptions and analysis which detailed the basis and technical merits of the uncertain tax positions. We involved our tax subject matter professionals in assessing the technical merits of these positions and used our knowledge of relevant tax laws and experience with related taxing authorities.
+/s/ Ernst & Young LLP
+We have served as the Company's auditor since 2002.
+San Jose, California
+June 18, 2025
+62
+Table of Contents
+Report of Independent Registered Public Accounting Firm
+To the Stockholders and the Board of Directors of Oracle Corporation
+Opinion on Internal Control Over Financial Reporting
+We have audited Oracle Corporation's internal control over financial reporting as of May 31, 2025, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, Oracle Corporation (the Company) maintained, in all material respects, effective internal control over financial reporting as of May 31, 2025, based on the COSO criteria.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of May 31, 2025 and 2024, the related consolidated statements of operations, comprehensive income, stockholders' equity and cash flows for each of the three years in the period ended May 31, 2025, and the related notes and our report dated June 18, 2025 expressed an unqualified opinion thereon.
+Basis for Opinion
+The Company's management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management's Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company's internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+Definition and Limitations of Internal Control Over Financial Reporting
+A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/s/ Ernst & Young LLP
+San Jose, California
+June 18, 2025
+63
+Table of Contents
+ORACLE CORPORATION
+CONSOLIDATED B ALANCE SHEETS
+As of May 31, 2025 and 2024
+May 31,
+(in millions, except per share data)
+2025
+2024
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+10,786
+$
+10,454
+Marketable securities
+417
+207
+Trade receivables, net of allowances for credit losses of $ 557 and $ 485 as of May 31, 2025 and May 31, 2024, respectively
+8,558
+7,874
+Prepaid expenses and other current assets
+4,818
+4,019
+Total current assets
+24,579
+22,554
+Non-current assets:
+Property, plant and equipment, net
+43,522
+21,536
+Intangible assets, net
+4,587
+6,890
+Goodwill
+62,207
+62,230
+Deferred tax assets
+11,877
+12,273
+Other non-current assets
+21,589
+15,493
+Total non-current assets
+143,782
+118,422
+Total assets
+$
+168,361
+$
+140,976
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Notes payable and other borrowings, current
+$
+7,271
+$
+10,605
+Accounts payable
+5,113
+2,357
+Accrued compensation and related benefits
+2,243
+1,916
+Deferred revenues
+9,387
+9,313
+Other current liabilities
+8,629
+7,353
+Total current liabilities
+32,643
+31,544
+Non-current liabilities:
+Notes payable and other borrowings, non-current
+85,297
+76,264
+Income taxes payable
+10,269
+10,817
+Operating lease liabilities
+11,536
+6,255
+Other non-current liabilities
+7,647
+6,857
+Total non-current liabilities
+114,749
+100,193
+Commitments and contingencies
+Oracle Corporation stockholders' equity:
+Preferred stock, $ 0.01 par value—authorized: 1.0 shares; outstanding: none
+—
+—
+Common stock, $ 0.01 par value and additional paid in capital—authorized: 11,000 shares; outstanding: 2,807 shares and 2,755 shares as of May 31, 2025 and 2024, respectively
+37,107
+32,764
+Accumulated deficit
+( 15,481
+)
+( 22,628
+)
+Accumulated other comprehensive loss
+( 1,175
+)
+( 1,432
+)
+Total Oracle Corporation stockholders' equity
+20,451
+8,704
+Noncontrolling interests
+518
+535
+Total stockholders' equity
+20,969
+9,239
+Total liabilities and stockholders' equity
+$
+168,361
+$
+140,976
+See notes to consolidated financial statements.
+64
+Table of Contents
+ORACLE CORPORATION
+CONSOLIDATED STATEM ENTS OF OPERATIONS
+For the Years Ended May 31, 2025, 2024 and 2023
+Year Ended May 31,
+(in millions, except per share data)
+2025
+2024
+2023
+Revenues:
+Cloud services and license support
+$
+44,029
+$
+39,383
+$
+35,307
+Cloud license and on-premise license
+5,201
+5,081
+5,779
+Hardware
+2,936
+3,066
+3,274
+Services
+5,233
+5,431
+5,594
+Total revenues
+57,399
+52,961
+49,954
+Operating expenses:
+Cloud services and license support (1)
+11,569
+9,427
+7,763
+Hardware (1)
+782
+891
+1,040
+Services (1)
+4,576
+4,825
+4,761
+Sales and marketing (1)
+8,651
+8,274
+8,833
+Research and development
+9,860
+8,915
+8,623
+General and administrative
+1,602
+1,548
+1,579
+Amortization of intangible assets
+2,307
+3,010
+3,582
+Acquisition related and other
+75
+314
+190
+Restructuring
+299
+404
+490
+Total operating expenses
+39,721
+37,608
+36,861
+Operating income
+17,678
+15,353
+13,093
+Interest expense
+( 3,578
+)
+( 3,514
+)
+( 3,505
+)
+Non-operating income (expenses), net
+60
+( 98
+)
+( 462
+)
+Income before income taxes
+14,160
+11,741
+9,126
+Provision for income taxes
+1,717
+1,274
+623
+Net income
+$
+12,443
+$
+10,467
+$
+8,503
+Earnings per share:
+Basic
+$
+4.46
+$
+3.82
+$
+3.15
+Diluted
+$
+4.34
+$
+3.71
+$
+3.07
+Weighted average common shares outstanding:
+Basic
+2,789
+2,744
+2,696
+Diluted
+2,866
+2,823
+2,766
+(1) Exclusive of amortization of intangible assets, which is shown separately.
+See notes to consolidated financial statements.
+65
+Table of Contents
+ORACLE CORPORATION
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+For the Years Ended May 31, 2025, 2024 and 2023
+Year Ended May 31,
+(in millions)
+2025
+2024
+2023
+Net income
+$
+12,443
+$
+10,467
+$
+8,503
+Other comprehensive income, net of tax:
+Net foreign currency translation gains (losses)
+369
+( 17
+)
+( 204
+)
+Net unrealized gains on defined benefit plans
+13
+31
+271
+Net unrealized (losses) gains on cash flow hedges
+( 125
+)
+77
+102
+Other, net
+—
+( 1
+)
+1
+Total other comprehensive income, net
+257
+90
+170
+Comprehensive income
+$
+12,700
+$
+10,557
+$
+8,673
+See notes to consolidated financial statements.
+66
+Table of Contents
+ORACLE CORPORATION
+CONSOLIDATED STAT EMENTS OF STOCKHOLDERS' EQUITY
+For the Years Ended May 31, 2025, 2024 and 2023
+Common Stock and
+Additional Paid in
+Capital
+Accumulated
+Other
+Total
+Oracle Corporation
+Total
+(in millions, except per share data)
+Number of
+Shares
+Amount
+Accumulated Deficit
+Comprehensive
+Loss
+Stockholders'
+Equity
+Noncontrolling
+Interests
+Stockholders'
+Equity
+Balances as of May 31, 2022
+2,665
+$
+26,808
+$
+( 31,336
+)
+$
+( 1,692
+)
+$
+( 6,220
+)
+$
+452
+$
+( 5,768
+)
+Common stock issued under stock-based compensation plans
+79
+1,019
+—
+—
+1,019
+—
+1,019
+Common stock issued under stock purchase plans
+2
+173
+—
+—
+173
+—
+173
+Assumption of stock-based compensation plan awards in connection with acquisitions
+—
+55
+—
+—
+55
+—
+55
+Stock-based compensation
+—
+3,547
+—
+—
+3,547
+—
+3,547
+Repurchases of common stock
+( 17
+)
+( 166
+)
+( 1,120
+)
+—
+( 1,286
+)
+—
+( 1,286
+)
+Shares repurchased for tax withholdings upon vesting of restricted stock-based awards
+( 16
+)
+( 1,203
+)
+—
+—
+( 1,203
+)
+—
+( 1,203
+)
+Cash dividends declared ($ 1.36 per share)
+—
+—
+( 3,668
+)
+—
+( 3,668
+)
+—
+( 3,668
+)
+Other, net
+—
+( 18
+)
+1
+—
+( 17
+)
+( 98
+)
+( 115
+)
+Other comprehensive income (loss), net
+—
+—
+—
+170
+170
+( 36
+)
+134
+Net income
+—
+—
+8,503
+—
+8,503
+165
+8,668
+Balances as of May 31, 2023
+2,713
+30,215
+( 27,620
+)
+( 1,522
+)
+1,073
+483
+1,556
+Common stock issued under stock-based compensation plans
+68
+545
+—
+—
+545
+—
+545
+Common stock issued under stock purchase plans
+2
+197
+—
+—
+197
+—
+197
+Stock-based compensation
+—
+3,974
+—
+—
+3,974
+—
+3,974
+Repurchases of common stock
+( 11
+)
+( 117
+)
+( 1,083
+)
+—
+( 1,200
+)
+—
+( 1,200
+)
+Shares repurchased for tax withholdings upon vesting of restricted stock-based awards
+( 17
+)
+( 2,040
+)
+—
+—
+( 2,040
+)
+—
+( 2,040
+)
+Cash dividends declared ($ 1.60 per share)
+—
+—
+( 4,391
+)
+—
+( 4,391
+)
+—
+( 4,391
+)
+Other, net
+—
+( 10
+)
+( 1
+)
+—
+( 11
+)
+( 99
+)
+( 110
+)
+Other comprehensive income (loss), net
+—
+—
+—
+90
+90
+( 35
+)
+55
+Net income
+—
+—
+10,467
+—
+10,467
+186
+10,653
+Balances as of May 31, 2024
+2,755
+32,764
+( 22,628
+)
+( 1,432
+)
+8,704
+535
+9,239
+Common stock issued under stock-based compensation plans
+62
+447
+—
+—
+447
+—
+447
+Common stock issued under stock purchase plans
+1
+206
+—
+—
+206
+—
+206
+Stock-based compensation
+—
+4,674
+—
+—
+4,674
+—
+4,674
+Repurchases of common stock
+( 4
+)
+( 47
+)
+( 553
+)
+—
+( 600
+)
+—
+( 600
+)
+Shares repurchased for tax withholdings upon vesting of restricted stock-based awards
+( 7
+)
+( 900
+)
+—
+—
+( 900
+)
+—
+( 900
+)
+Cash dividends declared ($ 1.70 per share)
+—
+—
+( 4,743
+)
+—
+( 4,743
+)
+—
+( 4,743
+)
+Other, net
+—
+( 37
+)
+—
+—
+( 37
+)
+( 228
+)
+( 265
+)
+Other comprehensive income, net
+—
+—
+—
+257
+257
+27
+284
+Net income
+—
+—
+12,443
+—
+12,443
+184
+12,627
+Balances as of May 31, 2025
+2,807
+$
+37,107
+$
+( 15,481
+)
+$
+( 1,175
+)
+$
+20,451
+$
+518
+$
+20,969
+See notes to consolidated financial statements.
+67
+Table of Contents
+ORACLE CORPORATION
+CONSOLIDATED STATEM ENTS OF CASH FLOWS
+For the Years Ended May 31, 2025, 2024 and 2023
+Year Ended May 31,
+(in millions)
+2025
+2024
+2023
+Cash flows from operating activities:
+Net income
+$
+12,443
+$
+10,467
+$
+8,503
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation
+3,867
+3,129
+2,526
+Amortization of intangible assets
+2,307
+3,010
+3,582
+Deferred income taxes
+( 1,637
+)
+( 2,139
+)
+( 2,167
+)
+Stock-based compensation
+4,674
+3,974
+3,547
+Other, net
+667
+720
+661
+Changes in operating assets and liabilities, net of effects from acquisitions:
+Increase in trade receivables, net
+( 653
+)
+( 965
+)
+( 151
+)
+Decrease in prepaid expenses and other assets
+266
+542
+317
+Decrease in accounts payable and other liabilities
+( 608
+)
+( 594
+)
+( 281
+)
+Decrease in income taxes payable
+( 659
+)
+( 127
+)
+( 153
+)
+Increase in deferred revenues
+154
+656
+781
+Net cash provided by operating activities
+20,821
+18,673
+17,165
+Cash flows from investing activities:
+Purchases of marketable securities and other investments
+( 1,272
+)
+( 1,003
+)
+( 1,181
+)
+Proceeds from sales and maturities of marketable securities and other investments
+776
+572
+1,113
+Acquisitions, net of cash acquired
+—
+( 63
+)
+( 27,721
+)
+Capital expenditures
+( 21,215
+)
+( 6,866
+)
+( 8,695
+)
+Net cash used for investing activities
+( 21,711
+)
+( 7,360
+)
+( 36,484
+)
+Cash flows from financing activities:
+Payments for repurchases of common stock
+( 600
+)
+( 1,202
+)
+( 1,300
+)
+Proceeds from issuances of common stock
+653
+742
+1,192
+Shares repurchased for tax withholdings upon vesting of restricted stock-based awards
+( 900
+)
+( 2,040
+)
+( 1,203
+)
+Payments of dividends to stockholders
+( 4,743
+)
+( 4,391
+)
+( 3,668
+)
+Proceeds from issuances of (repayments of) commercial paper, net
+1,889
+( 167
+)
+500
+Proceeds from issuances of senior notes and term loan credit agreements, net of issuance costs
+19,548
+—
+33,494
+Repayments of senior notes and term loan credit agreements
+( 15,841
+)
+( 3,500
+)
+( 21,050
+)
+Other financing activities, net
+1,092
+4
+( 55
+)
+Net cash provided by (used for) financing activities
+1,098
+( 10,554
+)
+7,910
+Effect of exchange rate changes on cash and cash equivalents
+124
+( 70
+)
+( 209
+)
+Net increase (decrease) in cash and cash equivalents
+332
+689
+( 11,618
+)
+Cash and cash equivalents at beginning of period
+10,454
+9,765
+21,383
+Cash and cash equivalents at end of period
+$
+10,786
+$
+10,454
+$
+9,765
+Non-cash investing activities:
+Unpaid capital expenditures
+$
+2,970
+$
+1,637
+$
+588
+Supplemental schedule of cash flow data:
+Cash paid for income taxes
+$
+4,020
+$
+3,560
+$
+3,009
+Cash paid for interest
+$
+3,374
+$
+3,655
+$
+3,250
+See notes to consolidated financial statements.
+68
+Table of Contents
+ORACLE CORPORATION
+NOTES TO CONSOLID ATED FINANCIAL STATEMENTS
+May 31, 2025
+1. ORGANIZATION AND SIGNI FICANT ACCOUNTING POLICIES
+Oracle Corporation provides products and services that substantially address enterprise information technology (IT) needs, including applications and infrastructure technologies. We deliver our products and services to customers worldwide through a variety of flexible and interoperable IT deployment models. These models include on-premise, cloud-based and hybrid deployments. Oracle Cloud Applications and Oracle Cloud Infrastructure (collectively, Oracle Cloud Services) offerings provide comprehensive and integrated applications and infrastructure services enabling our customers to choose the best option that meets their specific business needs. Customers may also elect to purchase Oracle software licenses and hardware products and related services to manage their own cloud-based or on-premise IT environments. Customers that purchase our software licenses may elect to purchase license support contracts, which provide our customers with rights to unspecified license upgrades and enhancements during the term of the support period as well as technical support assistance. Customers that purchase our hardware products may elect to purchase hardware support contracts, which provide customers with software updates and can include product repairs, maintenance services and technical support services. We also offer customers a broad set of services offerings that are designed to improve customer utilization of their investments in Oracle applications and infrastructure technologies.
+Oracle Corporation conducts business globally and was incorporated in the state of Delaware.
+Basis of Financial Statements
+The consolidated financial statements include our accounts and the accounts of our wholly- and majority-owned subsidiaries. Noncontrolling interest positions of certain of our consolidated entities are reported as a separate component of consolidated equity from the equity attributable to Oracle's stockholders for all periods presented. The noncontrolling interests in our net income were not significant to our consolidated results for the periods presented and therefore have not been presented separately and instead are included as a component of non-operating income (expenses), net in our consolidated statements of operations. Intercompany transactions and balances have been eliminated. Certain prior year balances have been reclassified to conform to the current year presentation. Such reclassifications did not affect revenue, income from operations or net income.
+In fiscal 2025, we adopted Accounting Standards Update (ASU) 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures (ASU 2023-07), which did no t have a material impact on our consolidated financial statements for the year ended May 31, 2025.
+Use of Estimates
+Our consolidated financial statements are prepared in accordance with United States (U.S.) generally accepted accounting principles (GAAP) as set forth in the Financial Accounting Standards Board's (FASB) Accounting Standards Codification (ASC), and we consider various staff accounting bulletins and other applicable guidance issued by the U.S. Securities and Exchange Commission. These accounting principles require us to make certain estimates, judgments and assumptions. We believe that the estimates, judgments and assumptions upon which we rely are reasonable based upon information available to us at the time that these estimates, judgments and assumptions are made. These estimates, judgments and assumptions can affect the reported amounts of assets and liabilities as of the date of the financial statements as well as the reported amounts of revenues and expenses during the periods presented. To the extent that there are differences between these estimates, judgments or assumptions and actual results, our consolidated financial statements will be affected. In many cases, the accounting treatment of a particular transaction is specifically dictated by GAAP and does not require management's judgment in its application. There are also areas in which management's judgment in selecting among available alternatives would not produce a materially different result.
+69
+Table of Contents
+During the first quarter of fiscal 2025, we completed an assessment of the useful lives of our servers and networking equipment and increased the estimate of the useful lives from five years to six years , effective at the beginning of fiscal 2025. Based on the carrying value of our servers and networking equipment as of May 31, 2024, this change in accounting estimate decreased our total operating expenses by $ 733 million and increased our net income by $ 573 million, or $ 0.21 per basic and $ 0.20 per diluted share, during fiscal 2025.
+During the first quarter of fiscal 2023, we completed an assessment of the useful lives of our servers and increased the estimate of the useful lives from four years to five years effective at the beginning of fiscal 2023. Based on the carrying value of our servers as of May 31, 2022, this change in accounting estimate decreased our total operating expenses by $ 434 million during fiscal 2023.
+Revenue Recognition
+Our sources of revenues include:
+cloud and license revenues, which include: cloud services revenues; cloud license and on-premise license revenues, which typically represent perpetual software licenses purchased by customers for use in both cloud and on-premise IT environments; and license support revenues;
+hardware revenues, which include the sale of hardware products, including Oracle Engineered Systems, servers and storage products, and industry-specific hardware; and hardware support revenues; and
+services revenues, which are earned from providing cloud-, license- and hardware-related services including consulting and advanced customer services.
+Cloud services revenues include revenues from Oracle Cloud Services offerings, which deliver applications and infrastructure technologies via cloud-based deployment models that we develop functionality for, provide unspecified updates and enhancements for, deploy, host, manage, upgrade and support and that customers access by entering into a subscription agreement with us for a stated period.
+Cloud license and on-premise license revenues primarily represent amounts earned from granting customers perpetual licenses to use our database, middleware, application and industry-specific software products, which our customers use for cloud-based, on-premise and other IT environments. The vast majority of our cloud license and on-premise license arrangements include license support contracts, which are entered into at the customer's option.
+License support revenues are typically generated through the sale of license support contracts related to cloud license and on-premise licenses purchased by our customers at their option. License support contracts provide customers with rights to unspecified software product upgrades, maintenance releases and patches released during the term of the support period and include internet access to technical content, as well as internet and telephone access to technical support personnel. License support contracts are generally priced as a percentage of the net cloud license and on-premise license fees. Substantially all of our customers elect to purchase and renew their license support contracts annually.
+Revenues from the sale of hardware products represent amounts earned primarily from the sale of our Oracle Engineered Systems, computer servers, storage and industry-specific hardware. Our hardware support offerings generally provide customers with software updates for the software components that are essential to the functionality of the hardware products purchased and can also include product repairs, maintenance services and technical support services. Hardware support contracts are generally priced as a percentage of the net hardware products fees.
+Our services are offered to customers as standalone arrangements or as a part of arrangements to customers buying other products and services. Our consulting services are designed to help our customers to, among others, deploy, architect, integrate, upgrade and secure their investments in Oracle applications and infrastructure technologies. Our advanced customer services are designed to provide supplemental support services, performance services and higher availability for Oracle products and services.
+70
+Table of Contents
+We apply the provisions of ASC 606, Revenue from Contracts with Customers (ASC 606) as a single standard for revenue recognition that applies to all of our cloud, license, hardware and services arrangements and generally require revenues to be recognized upon the transfer of control of promised goods or services provided to our customers, reflecting the amount of consideration we expect to receive for those goods or services. Pursuant to ASC 606, revenues are recognized upon the application of the following steps:
+identification of the contract, or contracts, with a customer;
+identification of the performance obligations in the contract;
+determination of the transaction price;
+allocation of the transaction price to each performance obligation in the contract; and
+recognition of revenues when, or as, the contractual performance obligations are satisfied.
+Our customers that contract with us for the provision of cloud services, software, hardware or other services include businesses of many sizes, government agencies, educational institutions and our channel partners, which include resellers and system integrators.
+The timing of revenue recognition may differ from the timing of invoicing to our customers. We record an unbilled receivable, which is included within accounts receivable on our consolidated balance sheets, when revenue is recognized prior to invoicing. We record deferred revenues on our consolidated balance sheets when revenues are to be recognized subsequent to cash collection for an invoice. Our standard payment terms are generally net 30 days but may vary. Invoices for cloud license and on-premise licenses and hardware products are generally issued when the license is made available for customer use or upon delivery to the customer of the hardware product. Invoices for license support and hardware support contracts are generally invoiced annually in advance. Cloud applications and cloud infrastructure contracts are generally invoiced annually, quarterly or monthly in advance. Services are generally invoiced in advance or as the services are performed. Most contracts that contain a financing component are contracts financed through our Oracle financing division. The transaction price for a contract that is financed through our Oracle financing division is adjusted to reflect the time value of money and interest revenue is recorded as a component of non-operating income (expenses), net within our consolidated statements of operations based on market rates in the country in which the transaction is being financed.
+Our revenue arrangements generally include standard warranty or service level provisions that our arrangements will perform and operate in all material respects as defined in the respective agreements, the financial impacts of which have historically been and are expected to continue to be insignificant. Our arrangements generally do not include a general right of return relative to the delivered products or services. We recognize revenues net of any taxes collected from customers, which are subsequently remitted to governmental authorities.
+Revenue Recognition for Cloud Services
+Revenues from cloud services provided on a subscription basis are generally recognized ratably over the contractual period that the cloud services are delivered, beginning on the date our service is made available to a customer. We recognize revenue ratably because the customer receives and consumes the benefits of the cloud services throughout the contract period. Revenues from cloud services that are provided on a consumption basis, such as metered services, are generally recognized based on the utilization of the services by the customer.
+71
+Table of Contents
+Revenue Recognition for License Support and Hardware Support
+Oracle's primary performance obligations with respect to license support contracts and hardware support contracts are to provide customers with technical support as needed and unspecified software product upgrades, maintenance releases and patches during the term of the support period, if and when they are available, and hardware product repairs, as applicable. Oracle is obligated to make the license and hardware support services available continuously throughout the contract period. Therefore, revenues for license support contracts and hardware support contracts are generally recognized ratably over the contractual periods that the support services are provided.
+Revenue Recognition for Cloud Licenses and On-Premise Licenses
+Revenues from distinct cloud license and on-premise license performance obligations are generally recognized upfront at the point in time when the software is made available to the customer to download and use. Revenues from usage-based royalty arrangements for distinct cloud licenses and on-premise licenses are recognized at the point in time when the software end user usage occurs. For usage-based royalty arrangements with a fixed minimum guarantee amount, the minimum amount is generally recognized upfront when the software is made available to the royalty customer.
+Revenue Recognition for Hardware Products
+The hardware product and related software, such as an operating system or firmware, are highly interdependent and interrelated and are accounted for as a combined performance obligation. The revenues for this combined performance obligation are generally recognized at the point in time that the hardware product is delivered and ownership is transferred to the customer.
+Revenue Recognition for Services
+Services revenues are generally recognized over time as the services are performed. Revenues for fixed price services are generally recognized over time applying input methods to estimate progress to completion. Revenues for consumption-based services are generally recognized as the services are performed.
+Allocation of the Transaction Price for Contracts that have Multiple Performance Obligations
+Many of our contracts include multiple performance obligations. Judgment is required in determining whether each performance obligation is distinct. Oracle products and services generally do not require a significant amount of integration or interdependency; therefore, our products and services are generally not combined. We allocate the transaction price for each contract to each performance obligation based on the relative standalone selling price (SSP) for each performance obligation within each contract.
+We use judgment in determining the SSP for products and services. For substantially all performance obligations except cloud licenses and on-premise licenses, we are able to establish the SSP based on the observable prices of products or services sold separately in comparable circumstances to similar customers. We typically establish an SSP range for our products and services which is reassessed on a periodic basis or when facts and circumstances change. Our cloud licenses and on-premise licenses have not historically been sold on a standalone basis, as the vast majority of all customers elect to purchase license support contracts at the time of a cloud license and on-premise license purchase. License support contracts are generally priced as a percentage of the net fees paid by the customer to access the license. We are unable to establish the SSP for our cloud licenses and on-premise licenses based on observable prices given the same products are sold for a broad range of amounts (that is, the selling price is highly variable) and a representative SSP is not discernible from past transactions or other observable evidence. As a result, the SSP for a cloud license and an on-premise license included in a contract with multiple performance obligations is generally determined by applying a residual approach whereby all other performance obligations within a contract are first allocated a portion of the transaction price based upon their respective SSPs, with any residual amount of transaction price allocated to cloud license and on-premise license revenues.
+72
+Table of Contents
+Remaining Performance Obligations from Contracts with Customers
+Trade receivables, net of allowance for credit losses, and deferred revenues are reported net of related uncollected deferred revenues in our consolidated balance sheets as of May 31, 2025 and 2024. The revenues recognized during the year ended May 31, 2025 and 2024 that were included in the opening deferred revenues balances as of May 31, 2024 and 2023 were approximately $ 9.3 billion and $ 9.0 billion, respectively. Revenues recognized from performance obligations satisfied in prior periods and impairment losses recognized on our receivables were immaterial during each year ended May 31, 2025, 2024 and 2023.
+Remaining performance obligations represent contracted revenues that had not yet been recognized, and include deferred revenues; invoices that have been issued to customers but were uncollected and have not been recognized as revenues; and amounts that will be invoiced and recognized as revenues in future periods. We have elected the optional exemption to not disclose the variable consideration for contracts in which the variable consideration expected to be received over the duration of the contract is allocated entirely to the wholly unsatisfied performance obligations. The volumes and amounts of customer contracts that we book and total revenues that we recognize are impacted by a variety of seasonal factors and the timing of booking of large contracts. In each fiscal year, the amounts and volumes of contracting activity, other than the impact of booking of large contracts, and our total revenues are typically highest in our fourth fiscal quarter and lowest in our first fiscal quarter. These seasonal impacts and the timing of booking of large contracts influence how our remaining performance obligations change over time and, combined with foreign exchange rate fluctuations and other factors, influence the amount of remaining performance obligations that we report at a point in time. As of May 31, 2025, our remaining performance obligations were $ 137.8 billion, of which we expect to recognize approximately 33 % as revenues over the next twelve months , 41 % over the subsequent month 13 to month 36 , 23 % over the subsequent month 37 to month 60 and the remainder thereafter.
+Sales of Financing Receivables
+We offer certain of our customers the option to acquire certain of our cloud and license, hardware and services offerings through separate long-term payment contracts. We generally sell these contracts that we have financed for our customers on a non-recourse basis to financial institutions within 90 days of the contracts' dates of execution. We record the transfers of amounts due from customers to financial institutions as sales of financing receivables because we are considered to have surrendered control of these financing receivables. During fiscal 2025, 2024 and 2023, $ 1.6 billion, $ 1.4 billion and $ 2.0 billion, respectively, of our financing receivables were sold to financial institutions.
+Business Combinations
+We apply the provisions of ASC 805, Business Combinations (ASC 805), in accounting for our acquisitions. ASC 805 requires that we evaluate whether a transaction pertains to an acquisition of assets, or to an acquisition of a business. A business is defined as an integrated set of assets and activities that is capable of being conducted and managed for the purpose of providing a return to investors. Asset acquisitions are accounted for by allocating the cost of the acquisition to the individual assets and liabilities assumed on a relative fair value basis; whereas the acquisition of a business requires us to recognize goodwill separately from the assets acquired and the liabilities assumed at the acquisition date fair values. Goodwill as of the business acquisition date is measured as the excess of consideration transferred over the net of the acquisition date fair values of the assets acquired and the liabilities assumed. While we use our best estimates and assumptions to accurately value assets acquired and liabilities assumed at the business acquisition date as well as any contingent consideration, where applicable, our estimates are inherently uncertain and subject to refinement. As a result, during the measurement period, which may be up to one year from the business acquisition date, we record adjustments to the assets acquired and liabilities assumed with the corresponding offset to goodwill. Upon the conclusion of a business acquisition's measurement period or final determination of the values of assets acquired or liabilities assumed, whichever comes first, any subsequent adjustments are recorded to our consolidated statements of operations. Costs to exit or restructure certain activities of an acquired company or our internal operations are accounted for as termination and exit costs pursuant to ASC 420, Exit or Disposal Cost Obligations, and are accounted for separately from the business combination. A liability
+73
+Table of Contents
+for costs associated with an exit or disposal activity is recognized and measured at its fair value in our consolidated statement of operations in the period in which the liability is incurred.
+For a given business acquisition, we may identify certain pre-acquisition contingencies as of the acquisition date and may extend our review and evaluation of these pre-acquisition contingencies throughout the measurement period in order to obtain sufficient information to assess whether we include these contingencies as a part of the fair value estimates of assets acquired and liabilities assumed and, if so, to determine their estimated amounts. If we cannot reasonably determine the fair value of a non-income tax-related pre-acquisition contingency by the end of the measurement period, which is generally the case given the nature of such matters, we will recognize an asset or a liability for such pre-acquisition contingency if: (1) it is probable that an asset existed or a liability had been incurred at the business acquisition date and (2) the amount of the asset or liability can be reasonably estimated. Subsequent to the measurement period or final determination of the net asset values for the business combination, whichever comes first, changes in our estimates of such contingencies will affect earnings and could have a material effect on our results of operations and financial position.
+In addition, uncertain tax positions and tax-related valuation allowances assumed in a business combination are initially estimated as of the acquisition date. We reevaluate these items quarterly based upon facts and circumstances that existed as of the business acquisition date with any adjustments to our preliminary estimates being recorded to goodwill if identified within the measurement period. Subsequent to the measurement period or our final determination of the tax allowance's or contingency's estimated value, whichever comes first, changes to these uncertain tax positions and tax-related valuation allowances will affect our provision for income taxes in our consolidated statement of operations and could have a material impact on our results of operations and financial position.
+Marketable and Non-Marketable Investments
+In accordance with ASC 320, Investments—Debt Securities , and based on our intentions regarding these instruments, we classify substantially all of our marketable debt securities investments as available-for-sale. We carry these securities at fair value, and report the unrealized gains and losses, net of taxes, as a component of stockholders' equity, except for unrealized losses, if any, determined to be related to credit losses, which we record within non-operating income (expenses), net in the accompanying consolidated statements of operations. We periodically evaluate our investments to determine if impairment charges are required. All of our marketable debt securities investments are classified as current based on the nature of the investments and their availability for use in current operations.
+Investments in equity securities, other than any equity method investments, are generally recorded at their fair values, if the fair values are readily determinable. Non-marketable equity securities for which the fair values are not readily determinable and where we do not have control of, nor significant influence in, the investee are recorded at cost, less any impairment, adjusted for observable price changes from orderly transactions for identical or similar investments of the same issuer with any gains or losses recorded as a component of non-operating income (expenses), net as of and for each reporting period. For investments through which we have significant influence in, but not control of, the investee, we account for such investments pursuant to the equity method of accounting whereby we record our proportionate share of the investee's earnings or losses; amortization of differences between our investment basis and underlying equity in net assets of the investee, excluding the component representing goodwill; and impairment, if any, as a component of non-operating income (expenses), net for each reporting period.
+O ur investments in marketable debt and equity securities totaled $ 417 million and $ 207 million as of May 31, 2025 and 2024, respectively, and are included in current assets in the accompanying consolidated balance sheets.
+Our non-marketable debt investments and equity securities and related instruments totaled $ 2.1 billion and $ 2.0 billion as of May 31, 2025 and 2024, respectively, and are included in other non-current assets in the accompanying consolidated balance sheets and are subject to periodic credit losses and impairment reviews. The majority of the non-marketable debt and equity investments held as of these dates were with Ampere Computing Holdings LLC (Ampere), a related party entity in which we have an ownership interest of approximately 29 % as of May 31, 2025 and 2024. Our debt investments in Ampere are in the form of convertible debt which, under the terms of an
+74
+Table of Contents
+agreement with Ampere and other co-investors, will mature in June 2026 and are convertible into equity securities at the holder's option under certain circumstances. During the fiscal year ended May 31, 2025, we invested an aggregate of $ 341 million in convertible debt instruments issued by Ampere. We follow the equity method of accounting for our investment in Ampere and our share of loss under the equity method of accounting is recorded in the non-operating income (expenses), net line item in our consolidated statements of operations. The total carrying value of our investments in Ampere after accounting for losses under the equity method of accounting was $ 1.6 billion and $ 1.5 billion as of May 31, 2025 and 2024, respectively. In accordance with the terms of an agreement with other co-investors, we are also a counterparty to certain put (exercisable by a co-investor) and call (exercisable by Oracle) options at prices of approximately $ 500 million to $ 1.5 billion, respectively, to acquire additional equity interests in Ampere from our co-investors through January 2027 . On March 19, 2025, SoftBank Group Corp. announced that it had entered into an agreement with Ampere and its equity holders to acquire all of the equity interests of Ampere (the Ampere Acquisition). The transaction is subject to customary closing conditions, including regulatory approvals. When the Ampere Acquisition closes, we will cease to be an investor in Ampere. During the period prior to the closing of the Ampere Acquisition, we will continue to recognize our share of loss in Ampere's net earnings until the closure of the acquisition .
+Fair Values of Financial Instruments
+We apply the provisions of ASC 820, Fair Value Measurement (ASC 820), to our assets and liabilities that we are required to measure at fair value pursuant to other accounting standards, including our investments in marketable debt and equity securities and our derivative financial instruments.
+The additional disclosures regarding our fair value measurements are included in Note 3.
+Allowances for Credit Losses
+We record allowances for credit losses based upon a specific review of all significant outstanding invoices. For those invoices not specifically reviewed, provisions are provided at differing rates, based upon the age of the receivable, collection history and current and expected future economic conditions. We write-off a receivable and charge it against its recorded allowance when we have exhausted our collection efforts without success.
+Concentrations of Credit Risk
+Financial instruments that are potentially subject to concentrations of credit risk consist primarily of cash and cash equivalents, marketable securities, derivatives, trade receivables and non-marketable investments. Our cash and cash equivalents are generally held with large, diverse financial institutions worldwide to reduce the amount of exposure to any single financial institution. Investment policies have been implemented that limit purchases of marketable debt securities to investment-grade securities. Our derivative contracts are transacted with various financial institutions with high credit standings and any exposure to counterparty credit-related losses in these contracts is largely mitigated with collateral security agreements that provide for collateral to be received or posted when the net fair values of these contracts fluctuate from contractually established thresholds. We generally do not require collateral to secure accounts receivable. The risk with respect to trade receivables is mitigated by credit evaluations we perform on our customers, the short duration of our payment terms for the significant majority of our customer contracts and by the diversification of our customer base. No single customer accounted for 10% or more of our total revenues in fiscal 2025, 2024 or 2023. Refer to "Marketable and Non-Marketable Investments" above for additional information on our non-marketable investments.
+We outsource the manufacturing, assembly and delivery of the substantial majority of our hardware products that we sell to our customers as well as use internally to deliver our cloud services to a variety of companies, many of which are located outside the U.S. Further, we have simplified our supply chain processes by reducing the number of third-party manufacturing partners and the number of locations where these third-party manufacturers build our hardware products. Any inability of these third-party manufacturing partners to deliver the contracted services for our hardware products could adversely impact future operating results of our cloud and license and hardware businesses.
+75
+Table of Contents
+Inventories
+Inventories are stated at the lower of cost or net realizable value. We evaluate our ending inventories for estimated excess quantities and obsolescence. This evaluation includes analysis of sales levels by product and projections of future demand within specific time horizons. Inventories in excess of future demand are written down and charged to hardware expenses. In addition, we assess the impact of changing technology to our inventories and we write down inventories that are considered obsolete. At the point of loss recognition, a new, lower-cost basis for that inventory is established, and subsequent changes in facts and circumstances do not result in the restoration or increase in that newly established cost basis. Inventories are included in prepaid expenses and other current assets in our consolidated balance sheets and totaled $ 303 million and $ 334 million as of May 31, 2025 and 2024, respectively.
+Other Receivables
+Other receivables represent value-added tax and sales tax receivables associated with the sale of our products and services to third parties. Other receivables are included in prepaid expenses and other current assets in our consolidated balance sheets and totaled $ 855 million and $ 821 million as of May 31, 2025 and 2024, respectively.
+Deferred Sales Commissions
+We defer sales commissions earned by our sales force that are considered to be incremental and recoverable costs of obtaining a cloud, license support and hardware support contract. Initial sales commissions for the majority of these aforementioned contracts are generally deferred and amortized on a straight-line basis over a period of benefit that we estimate to be four years. We determine the period of benefit by taking into consideration the historical and expected durations of our customer contracts, the expected useful lives of our technologies and other factors. Sales commissions for renewal contracts relating to certain of our cloud-based arrangements are generally deferred and then amortized on a straight-line basis over the related contractual renewal period, which is generally one to three years. Amortization of deferred sales commissions is included as a component of sales and marketing expenses in our consolidated statements of operations and asset balances for deferred sales commissions are included in other current assets and other non-current assets in our consolidated balance sheets.
+Property, Plant and Equipment
+Property, plant and equipment are stated at cost, less accumulated depreciation. Depreciation is computed using the straight-line method based on estimated useful lives of the assets, which range from one to 40 years. Finance lease Right-of-Use (ROU) assets are amortized over the lease term. Leasehold improvements are amortized over the lesser of the estimated useful lives of the improvements or the lease terms, as appropriate. Property, plant and equipment are periodically reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable at an appropriate asset or asset group level. We did not recognize any significant property impairment charges in fiscal 2025, 2024 or 2023.
+Goodwill, Intangible Assets and Impairment Assessments
+Goodwill represents the excess of the purchase price in a business combination over the fair value of net tangible and intangible assets acquired. Intangible assets that are not considered to have an indefinite useful life are itemized in Note 5 belo w and are amortized over their useful lives, which generally range from one to 10 years . At least annually, we assess the useful lives of our finite lived intangible assets and may adjust the period over which these assets are amortized whenever events or changes in circumstances indicate that a shorter amortization period is more reflective of the period in which these assets contribute to our cash flows.
+The carrying amounts of our goodwill and intangible assets are reviewed for impairment annually and whenever events or changes in circumstances indicate that the carrying value of these assets may not be recoverable. When goodwill is assessed for impairment, we have the option to perform an assessment of qualitative factors of impairment (optional assessment) prior to necessitating a quantitative impairment test. Should the optional assessment be used for any given fiscal year, qualitative factors considered for a reporting unit include: cost factors; financial performance; legal, regulatory, contractual, political, business, or other factors; entity specific factors;
+76
+Table of Contents
+industry and market considerations; macroeconomic conditions; and other relevant events and factors affecting the reporting unit. If we determine in the qualitative assessment that it is more likely than not that the fair value of the reporting unit is less than its carrying value, a quantitative test is then performed. Otherwise, no further testing is required. For those reporting units tested using a quantitative approach, we compare the fair value of each reporting unit with the carrying amount of the reporting unit, including goodwill. To determine the fair value of each reporting unit we utilize estimates, judgments and assumptions including estimated future cash flows the reporting unit is expected to generate on a discounted basis; the discount rate used as a part of the discounted cash flow analysis; future economic and market conditions; and market comparables of peer companies, among others. If, as per the quantitative test, the estimated fair value of the reporting unit is less than the carrying amount of the reporting unit, impairment is recognized for the difference, limited to the amount of goodwill recognized for the reporting unit. Our most recent goodwill impairment analysis was performed on March 1, 2025 and did no t result in a goodwill impairment charge. We did not recognize impairment charges in fiscal 2024 or 2023.
+Recoverability of finite lived intangible assets is evaluated by comparison of the carrying amount of the asset to the future undiscounted cash flows that are expected to be generated by the lowest level associated asset grouping. Recoverability of indefinite lived intangible assets is evaluated by comparison of the carrying amount of the asset to its fair value. If the asset is considered to be impaired, the amount of any impairment is measured as the difference between the carrying value and the fair value of the impaired asset. We did not recognize any intangible asset impairment charges in fiscal 2025, 2024 or 2023.
+Derivative Financial Instruments
+During fiscal 2025, 2024 and 2023, we used derivative financial instruments to manage foreign currency and interest rate risks. We do not use derivative financial instruments for trading purposes. We account for these instruments in accordance with ASC 815, Derivatives and Hedging (ASC 815), which requires that every derivative instrument be recorded on the balance sheet as either an asset or liability measured at its fair value as of each reporting date. ASC 815 also requires that changes in our derivatives' fair values be recognized in earnings, unless specific hedge accounting and documentation criteria are met (i.e., the instruments are accounted for as certain types of hedges).
+The accounting for changes in the fair value of a derivative depends on the intended use of the derivative and the resulting designation. For a derivative instrument designated as a fair value hedge, loss or gain attributable to the risk being hedged is recognized in earnings in the period of change with a corresponding earnings offset recorded to the item for which the risk is being hedged. For a derivative instrument designated as a cash flow hedge, during each reporting period, we record the change in fair value of the derivative to accumulated other comprehensive loss (AOCL) in our consolidated balance sheets and the change is reclassified to earnings in the period the hedged item affects earnings.
+Leases
+We apply the provisions of ASC 842, Leases (ASC 842), in accounting for our leases. Accordingly, we determine if an arrangement is a lease at its inception. Lease liabilities are recognized at the lease commencement date based on the present value of lease payments over the lease term. We generally use our incremental borrowing rate based on the information available at the lease commencement date in determining the present value of future payments, because the implicit rate of the lease is generally not known. ROU assets related to our leases are measured at lease inception based on the initial measurement of the lease liability, plus any prepaid lease payments and less any lease incentives. Our lease terms that are used in determining our lease liabilities at lease inception may include options to extend or terminate the leases when it is reasonably certain that we will exercise such options. For operating leases, we generally recognize the lease expense on a straight-line basis over the lease term and classify both the ROU assets amortization and imputed interest as operating expenses. For finance leases, ROU assets are amortized on a straight-line basis over the lease term and are classified as operating expense and imputed interest is classified as interest expense. We have lease agreements with lease and non-lease components, and in such cases, we generally account for the components as a single lease component. We do not recognize lease assets and lease liabilities for any lease with an original lease term of less than one year. Abandoned operating leases are accounted for as ROU asset impairment charges pursuant to ASC 842.
+77
+Table of Contents
+ROU assets related to operating and finance leases are included in other non-current assets and property, plant and equipment, net, respectively; short-term operating and finance lease liabilities are included in other current liabilities; and long-term operating and finance lease liabilities are included in operating lease liabilities and other non-current liabilities, respectively, in our consolidated balance sheets.
+Cash flow movements related to operating lease activities are included in operating cash flows and those related to finance leases are included in operating cash flows for the portion related to interest and in financing cash flows for the portion related to principal in our consolidated statements of cash flows for the years ended May 31, 2025, 2024 and 2023. Note 9 belo w provides additional information regarding our leases.
+Legal and Other Contingencies
+We are currently involved in various claims and legal proceedings. Quarterly, we review the status of each significant matter and assess our potential financial exposure. Descriptions of our accounting policies associated with contingencies assumed as a part of a business combination are provided under "Business Combinations" above. For legal and other contingencies that are not a part of a business combination or related to income taxes, we accrue a liability for an estimated loss if the potential loss from any claim or legal proceeding is considered probable, and the amount can be reasonably estimated. Note 15 b elow provides additional information regarding certain of our legal contingencies.
+Foreign Currency
+We transact business in various foreign currencies. In general, the functional currency of a foreign operation is the local country's currency. Consequently, revenues and expenses of operations outside the U.S. are translated into U.S. Dollars using weighted-average exchange rates while assets and liabilities of operations outside the U.S. are translated into U.S. Dollars using exchange rates at the balance sheet dates. The effects of foreign currency translation adjustments are included in stockholders' equity as a component of AOCL in the accompanying consolidated balance sheets and related periodic movements are summarized as a line item in our consolidated statements of comprehensive income. Net foreign exchange transaction losses included in non-operating income (expenses), net in the accompanying consolidated statements of operations were $ 147 million, $ 228 million and $ 249 million in fiscal 2025, 2024 and 2023, respectively.
+Stock-Based Compensation
+We account for share-based payments to employees, including grants of service-based restricted stock unit (RSU) awards, service-based employee stock options, performance-based stock options (PSOs) and purchases under employee stock purchase plans in accordance with ASC 718, Compensation — Stock Compensation, which requires that share-based payments (to the extent they are compensatory) be recognized in our consolidated statements of operations based on their fa

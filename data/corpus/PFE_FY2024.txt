@@ -1,0 +1,461 @@
+ghts and IPR&D as a critical audit matter. A high degree of subjective auditor judgment was required to evaluate certain key assumptions used to estimate the acquisition-date fair value of the acquired developed technology rights and IPR&D, as well as the fair value for impairment testing purposes. Specifically, the key assumptions for certain IPR&D assets, including revenue growth rates, probability of technical and regulatory success (PTRS) rates, and the discount rate, and the key assumptions for certain developed technology rights, including revenue growth rates and the discount rate, represented subjective determinations of future market and economic conditions. Changes to those assumptions could have had a significant effect on the determination of the fair value measurements.
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls related to the Company's valuation process, including controls related to the development of the key assumptions for certain IPR&D assets and developed technology rights. We performed sensitivity analyses over the key assumptions for certain IPR&D assets and developed technology rights to assess the impact of changes in those key assumptions on the Company's determination of the fair value of the IPR&D and developed technology rights, respectively. We evaluated the reasonableness of the Company's forecasted revenue growth rates by comparing them to historical results, comparable products and peer companies, analyst expectations, industry related third-party data, and the assumptions used in prior periods. Further, we evaluated the PTRS rates for certain IPR&D assets by considering the phase of development of the clinical projects and the Company's history of obtaining regulatory approval and comparing them to PTRS rates derived from analyst reports and other industry related third-party data and the assumptions used in prior periods. We evaluated the data sources used by management in determining the key assumptions for certain IPR&D assets and developed technology rights by comparing to industry standards and evidence obtained in other areas of the audit. In addition, we involved valuation professionals with specialized skills and knowledge, who assisted in:
+(1) evaluating the discount rates used by the Company for certain IPR&D and developed technology rights by comparing them against discount rate ranges that were independently developed using publicly available market data for comparable entities
+(2) testing the source information underlying the determination of the discount rates.
+We have not been able to determine the specific year that we or our predecessor firms began serving as the Company's auditor, however, we are aware that we or our predecessor firms have served as the Company's auditor since at least 1942.
+New York, New York
+February 27, 2025
+Pfizer Inc. 2024 Form 10-K
+50
+Consolidated Statements of Operations
+Pfizer Inc. and Subsidiary Companies
+Year Ended December 31,
+(MILLIONS, EXCEPT PER SHARE DATA) 2024 2023 2022
+Revenues:
+Product revenues
+$ 53,816 $ 50,914 $ 91,793
+Alliance revenues
+8,388 7,582 8,537
+Royalty revenues (a)
+1,423 1,058 845
+Total revenues
+63,627 59,553 101,175
+Costs and expenses:
+Cost of sales (b), (c)
+17,851 24,954 34,344
+Selling, informational and administrative expenses (b)
+14,730 14,771 13,677
+Research and development expenses (b)
+10,822 10,679 11,428
+Acquired in-process research and development expenses
+108 194 953
+Amortization of intangible assets 5,286 4,733 3,609
+Restructuring charges and certain acquisition-related costs
+2,419 2,943 1,375
+Other (income)/deductions net 4,388 222 1,062
+Income from continuing operations before provision/(benefit) for taxes on income 8,023 1,058 34,729
+Provision/(benefit) for taxes on income ( 28 ) ( 1,115 ) 3,328
+Income from continuing operations 8,051 2,172 31,401
+Discontinued operations net of tax 11 ( 15 ) 6
+Net income before allocation to noncontrolling interests 8,062 2,158 31,407
+Less: Net income attributable to noncontrolling interests 31 39 35
+Net income attributable to Pfizer Inc. common shareholders $ 8,031 $ 2,119 $ 31,372
+Earnings per common share basic :
+Income from continuing operations attributable to Pfizer Inc. common shareholders $ 1.42 $ 0.38 $ 5.59
+Discontinued operations net of tax — — —
+Net income attributable to Pfizer Inc. common shareholders $ 1.42 $ 0.38 $ 5.59
+Earnings per common share diluted :
+Income from continuing operations attributable to Pfizer Inc. common shareholders $ 1.41 $ 0.37 $ 5.47
+Discontinued operations net of tax — — —
+Net income attributable to Pfizer Inc. common shareholders $ 1.41 $ 0.37 $ 5.47
+Weighted-average shares basic 5,664 5,643 5,608
+Weighted-average shares diluted 5,700 5,709 5,733
+(a) See Note 1A .
+(b) Exclusive of amortization of intangible assets.
+(c) See Note 17A .
+See Accompanying Notes.
+Pfizer Inc. 2024 Form 10-K
+51
+Consolidated Statements of Comprehensive Income
+Pfizer Inc. and Subsidiary Companies
+Year Ended December 31,
+(MILLIONS) 2024 2023 2022
+Net income before allocation to noncontrolling interests $ 8,062 $ 2,158 $ 31,407
+Foreign currency translation adjustments, net 32 452 ( 2,328 )
+Unrealized holding gains/(losses) on derivative financial instruments, net 499 626 1,444
+Reclassification adjustments for (gains)/losses included in net income (a)
+( 159 ) ( 413 ) ( 2,062 )
+341 213 ( 618 )
+Unrealized holding gains/(losses) on available-for-sale securities, net ( 152 ) ( 121 ) ( 1,306 )
+Reclassification adjustments for (gains)/losses included in net income (b)
+42 ( 141 ) 1,809
+( 111 ) ( 261 ) 502
+Benefit plans: prior service (costs)/credits and other, net 193 ( 25 ) ( 24 )
+Reclassification adjustments related to amortization of prior service costs and other, net ( 109 ) ( 117 ) ( 129 )
+Reclassification adjustments related to curtailments of prior service costs and other, net — ( 15 ) ( 12 )
+84 ( 157 ) ( 166 )
+Other comprehensive income/(loss), before tax 347 246 ( 2,609 )
+Tax provision/(benefit) on other comprehensive income/(loss) 231 ( 85 ) ( 187 )
+Other comprehensive income/(loss) before allocation to noncontrolling interests $ 116 $ 331 $ ( 2,422 )
+Comprehensive income/(loss) before allocation to noncontrolling interests $ 8,178 $ 2,488 $ 28,985
+Less: Comprehensive income/(loss) attributable to noncontrolling interests 28 26 20
+Comprehensive income/(loss) attributable to Pfizer Inc. $ 8,149 $ 2,462 $ 28,965
+(a) Reclassified into Other (income)/deductions—net and Cost of sales . See Note 7E .
+(b) Reclassified into Other (income)/deductions—net .
+See Accompanying Notes.
+Pfizer Inc. 2024 Form 10-K
+52
+Consolidated Balance Sheets
+Pfizer Inc. and Subsidiary Companies
+As of December 31,
+(MILLIONS, EXCEPT PER SHARE DATA) 2024 2023
+Assets
+Cash and cash equivalents $ 1,043 $ 2,853
+Short-term investments 19,434 9,837
+Trade accounts receivable, net of allowance for doubtful accounts: 2024—$ 438 ; 2023—$ 470
+11,463 11,566
+Inventories 10,851 10,189
+Current tax assets 3,314 3,978
+Other current assets 4,253 4,911
+Total current assets 50,358 43,333
+Equity-method investments 217 11,637
+Long-term investments 2,010 3,731
+Property, plant and equipment, net
+18,393 18,940
+Identifiable intangible assets, net
+55,411 64,900
+Goodwill 68,527 67,783
+Noncurrent deferred tax assets and other noncurrent tax assets 8,662 3,706
+Other noncurrent assets 9,817 12,471
+Total assets $ 213,396 $ 226,501
+Liabilities and Equity
+Short-term borrowings, including current portion of long-term debt: 2024—$ 3,747 ; 2023—$ 2,254
+$ 6,946 $ 10,350
+Trade accounts payable 5,633 6,710
+Dividends payable 2,437 2,372
+Income taxes payable 2,910 2,349
+Accrued compensation and related items 3,838 2,776
+Deferred revenues 1,511 2,700
+Other current liabilities 19,720 20,537
+Total current liabilities 42,995 47,794
+Long-term debt 57,405 61,538
+Pension and postretirement benefit obligations 2,115 2,167
+Noncurrent deferred tax liabilities 2,122 640
+Other taxes payable 6,112 8,534
+Other noncurrent liabilities 14,150 16,539
+Total liabilities 124,899 137,213
+Commitments and Contingencies
+Common stock, $ 0.05 par value; 12,000 shares authorized; issued: 2024— 9,593 ; 2023— 9,562
+480 478
+Additional paid-in capital 93,603 92,631
+Treasury stock, shares at cost: 2024— 3,926 ; 2023— 3,916
+( 114,763 ) ( 114,487 )
+Retained earnings 116,725 118,353
+Accumulated other comprehensive loss ( 7,842 ) ( 7,961 )
+Total Pfizer Inc. shareholders' equity 88,203 89,014
+Equity attributable to noncontrolling interests 294 274
+Total equity 88,497 89,288
+Total liabilities and equity $ 213,396 $ 226,501
+See Accompanying Notes.
+Pfizer Inc. 2024 Form 10-K
+53
+Consolidated Statements of Equity
+Pfizer Inc. and Subsidiary Companies
+PFIZER INC. SHAREHOLDERS
+Common Stock Treasury Stock
+(MILLIONS, EXCEPT PER SHARE DATA)
+Shares Par Value Add'l
+Paid-In
+Capital Shares Cost Retained Earnings Accum.
+Other
+Comp. Loss Share -
+holders'
+Equity Non-controlling Interests Total
+Equity
+Balance, January 1, 2022
+9,471 $ 473 $ 90,591 ( 3,851 ) $ ( 111,361 ) $ 103,394 $ ( 5,897 ) $ 77,201 $ 262 $ 77,462
+Net income 31,372 31,372 35 31,407
+Other comprehensive income/(loss), net of tax
+( 2,407 ) ( 2,407 ) ( 15 ) ( 2,422 )
+Cash dividends declared, per share: $ 1.61
+Common stock
+( 9,037 ) ( 9,037 ) ( 9,037 )
+Noncontrolling interests — ( 13 ) ( 13 )
+Share-based payment transactions 48 2 1,192 ( 13 ) ( 608 ) ( 73 ) 513 513
+Purchases of common stock
+( 39 ) ( 2,000 ) ( 2,000 ) ( 2,000 )
+Other — — 19 — — — 19 ( 13 ) 6
+Balance, December 31, 2022
+9,519 476 91,802 ( 3,903 ) ( 113,969 ) 125,656 ( 8,304 ) 95,661 256 95,916
+Net income 2,119 2,119 39 2,158
+Other comprehensive income/(loss), net of tax
+343 343 ( 12 ) 331
+Cash dividends declared, per share: $ 1.65
+Common stock
+( 9,316 ) ( 9,316 ) ( 9,316 )
+Noncontrolling interests
+— ( 8 ) ( 8 )
+Share-based payment transactions
+43 2 829 ( 12 ) ( 518 ) ( 106 ) 208 208
+Other — — — — — — — — —
+Balance, December 31, 2023
+9,562 478 92,631 ( 3,916 ) ( 114,487 ) 118,353 ( 7,961 ) 89,014 274 89,288
+Net income 8,031 8,031 31 8,062
+Other comprehensive income/(loss), net of tax
+118 118 ( 3 ) 116
+Cash dividends declared, per share: $ 1.69
+Common stock
+( 9,577 ) ( 9,577 ) ( 9,577 )
+Noncontrolling interests
+— ( 7 ) ( 7 )
+Share-based payment transactions
+31 2 972 ( 10 ) ( 276 ) ( 107 ) 591 591
+Other — — — 25 25 ( 1 ) 23
+Balance, December 31, 2024
+9,593 $ 480 $ 93,603 ( 3,926 ) $ ( 114,763 ) $ 116,725 $ ( 7,842 ) $ 88,203 $ 294 $ 88,497
+See Accompanying Notes.
+Pfizer Inc. 2024 Form 10-K
+54
+Consolidated Statements of Cash Flows
+Pfizer Inc. and Subsidiary Companies
+Year Ended December 31,
+(MILLIONS) 2024 2023 2022
+Operating Activities
+Net income before allocation to noncontrolling interests $ 8,062 $ 2,158 $ 31,407
+Discontinued operations—net of tax 11 ( 15 ) 6
+Net income from continuing operations before allocation to noncontrolling interests 8,051 2,172 31,401
+Adjustments to reconcile net income from continuing operations before allocation to noncontrolling interests to net cash provided by/(used in) operating activities:
+Depreciation and amortization 7,013 6,290 5,064
+Asset write-offs and impairments 4,242 3,408 550
+Deferred taxes ( 2,102 ) ( 3,442 ) ( 3,764 )
+Share-based compensation expense 877 525 872
+Benefit plan contributions in excess of expense/income ( 12 ) ( 787 ) ( 1,158 )
+Inventory write-offs and related charges associated with COVID-19 products (a)
+— 6,199 1,183
+Other adjustments, net ( 2,260 ) ( 3,492 ) 758
+Other changes in assets and liabilities, net of acquisitions and divestitures:
+Trade accounts receivable ( 109 ) 347 261
+Inventories (a)
+( 854 ) ( 1,169 ) ( 591 )
+Other assets
+3,380 ( 663 ) ( 4,506 )
+Trade accounts payable ( 1,023 ) ( 300 ) 1,191
+Other liabilities (b)
+( 3,115 ) 595 ( 1,449 )
+Other tax accounts, net ( 1,345 ) ( 982 ) ( 545 )
+Net cash provided by/(used in) operating activities
+12,744 8,700 29,267
+Investing Activities
+Purchases of property, plant and equipment ( 2,909 ) ( 3,907 ) ( 3,236 )
+Purchases of short-term investments ( 10,133 ) ( 30,974 ) ( 36,384 )
+Proceeds from redemptions/sales of short-term investments 4,128 39,264 44,821
+Net (purchases of)/proceeds from redemptions/sales of short-term investments with original maturities of three months or less 3,136 5,174 ( 483 )
+Purchases of long-term investments ( 180 ) ( 204 ) ( 1,913 )
+Proceeds from redemptions/sales of long-term investments 1,570 1,979 641
+Proceeds from partial sales of investment in Haleon (c)
+7,040 — —
+Acquisitions of businesses, net of cash acquired — ( 43,430 ) ( 22,997 )
+Dividend received from the Consumer Healthcare JV (c)
+— — 3,960
+Other investing activities, net 2 ( 179 ) ( 192 )
+Net cash provided by/(used in) investing activities
+2,652 ( 32,278 ) ( 15,783 )
+Financing Activities
+Proceeds from short-term borrowings 8,907 4,525 3,891
+Payments on short-term borrowings ( 11,226 ) ( 3 ) ( 3,887 )
+Net (payments on)/proceeds from short-term borrowings with original maturities of three months or less ( 2,590 ) 3,161 ( 222 )
+Proceeds from issuance of long-term debt
+— 30,831 —
+Payments on long-term debt ( 2,250 ) ( 2,569 ) ( 3,298 )
+Purchases of common stock — — ( 2,000 )
+Cash dividends paid ( 9,512 ) ( 9,247 ) ( 8,983 )
+Other financing activities, net
+( 469 ) ( 631 ) ( 335 )
+Net cash provided by/(used in) financing activities ( 17,140 ) 26,066 ( 14,834 )
+Effect of exchange-rate changes on cash and cash equivalents and restricted cash and cash equivalents
+( 66 ) ( 40 ) ( 165 )
+Net increase/(decrease) in cash and cash equivalents and restricted cash and cash equivalents
+( 1,810 ) 2,448 ( 1,515 )
+Cash and cash equivalents and restricted cash and cash equivalents, at beginning of period 2,917 468 1,983
+Cash and cash equivalents and restricted cash and cash equivalents, at end of period $ 1,107 $ 2,917 $ 468
+- Continued -
+Pfizer Inc. 2024 Form 10-K
+55
+Consolidated Statements of Cash Flows
+Pfizer Inc. and Subsidiary Companies
+Year Ended December 31,
+2024 2023 2022
+Supplemental Cash Flow Information
+Cash paid/(received) during the period for:
+Income taxes $ 3,605 $ 3,147 $ 7,867
+Interest paid 3,227 2,215 1,442
+Interest rate hedges 178 134 54
+Non-cash transaction:
+Right-of-use assets obtained in exchange for lease liabilities $ 283 $ 614 $ 752
+(a) See Note 17A .
+(b) See Note 17C .
+(c) See Note 2C .
+See Accompanying Notes.
+Pfizer Inc. 2024 Form 10-K
+56
+Notes to Consolidated Financial Statements
+Pfizer Inc. and Subsidiary Companies
+Note 1. Basis of Presentation and Significant Accounting Policies
+A. Basis of Presentation
+The consolidated financial statements include the accounts of our parent company and all subsidiaries and are prepared in accordance with U.S. GAAP. The decision of whether or not to consolidate an entity for financial reporting purposes requires consideration of majority voting interests, as well as effective economic or other control over the entity. Typically, we do not seek control by means other than voting interests. For subsidiaries operating outside the U.S., the financial information is included as of and for the year ended November 30 for each year presented. Pfizer's fiscal year-end for U.S. subsidiaries is as of and for the year ended December 31 for each year presented. All significant transactions among our subsidiaries have been eliminated.
+We manage our commercial operations through three operating segments, each led by a single manager: Biopharma, PC1 and Pfizer Ignite. Biopharma is the only reportable segment. See Note 17A .
+On December 14, 2023, we completed the acquisition of Seagen. In addition, other acquisitions and business development activities completed in 2024, 2023 and 2022 impacted financial results in the periods presented. See Note 2 .
+We have made certain reclassification adjustments to conform prior-period amounts to the current presentation for:
+in the first quarter of 2024, we reclassified royalty income (substantially all of which is related to Biopharma) from Other (income)/deductions net and began presenting Royalty revenues as a separate line item within Total revenues in our consolidated statements of operations, and reclassified the associated royalty receivables from Other current assets to Trade accounts receivable, less allowance for doubtful accounts in our consolidated balance sheet; and
+segment reporting and geographic information in connection with the commercial reorganization that went into effect on January 1, 2024 (see Notes 9 and 1 7 ).
+Certain amounts in the consolidated financial statements and associated notes may not add due to rounding. All percentages have been calculated using unrounded amounts.
+B . New Accounting Standards Adopted in 2024
+On January 1, 2024, we adopted a new accounting standard which clarifies that contractual sale restrictions are not considered in measuring equity securities at fair value. The new guidance is consistent with our existing policy; therefore, it had no impact on our consolidated financial statements.
+In the fourth quarter of 2024, we adopted a new accounting standard which requires the disclosure of significant segment expenses that are regularly provided to the CODM and included within each reported measure of segment profit or loss, other segment items by reportable segment and a description of its composition. See Note 17A .
+C. Estimates and Assumptions
+In preparing these financial statements, we use certain estimates and assumptions that affect reported amounts and disclosures. These estimates and assumptions can impact all elements of our financial statements. For example, in the consolidated statements of operations, estimates are used when accounting for deductions from revenues, determining the cost of inventory that is sold, allocating cost in the form of depreciation and amortization, and estimating restructuring charges and the impact of contingencies, as well as determining provisions for taxes on income. On the consolidated balance sheets, estimates are used in determining the valuation and recoverability of assets, and in determining the reported amounts of liabilities, all of which also impact the consolidated statements of operations. Certain estimates of fair value and amounts recorded in connection with acquisitions, revenue deductions, impairment reviews, restructuring-associated charges, investments and financial instruments, valuation allowances, pension and postretirement benefit plans, contingencies, share-based compensation, and other calculations can result from a complex series of judgments about future events and uncertainties and can rely heavily on estimates and assumptions.
+Our estimates are often based on complex judgments and assumptions that we believe to be reasonable, but that can be inherently uncertain and unpredictable. If our estimates and assumptions are not representative of actual outcomes, our results could be materially impacted. As future events and their effects cannot be determined with precision, our estimates and assumptions may prove to be incomplete or inaccurate, or unanticipated events and circumstances may occur that might cause us to change those estimates and assumptions. We are subject to risks and uncertainties that may cause actual results to differ from estimated amounts, such as changes in the healthcare environment, competition, litigation, legislation, development of competing assets by us or others, regulatory actions, or product recalls or withdrawals. We regularly evaluate our estimates and assumptions using historical experience and expectations about the future. We adjust our estimates and assumptions when facts and circumstances indicate the need for change.
+D. Acquisitions
+Our consolidated financial statements include the operations of acquired businesses after the completion of the acquisitions. We account for acquired businesses using the acquisition method of accounting, which requires, among other things, that most assets acquired and liabilities assumed be recognized at their estimated fair values as of the acquisition date and that the fair value of acquired IPR&D be recorded on the balance sheet. Transaction costs are expensed as incurred. Any excess of the consideration transferred over the assigned values of the net assets acquired is recorded as goodwill. When we acquire net assets that do not constitute a business, as defined in U.S. GAAP, no goodwill is recognized and acquired IPR&D is expensed in Acquired in-process research and development expenses .
+Contingent consideration in a business combination is included as part of the acquisition cost and is recognized at fair value as of the acquisition date. Fair value is generally estimated by using a probability-weighted discounted cash flow approach. See Note 16D . Any liability
+Pfizer Inc. 2024 Form 10-K
+57
+Notes to Consolidated Financial Statements
+Pfizer Inc. and Subsidiary Companies
+resulting from contingent consideration is remeasured to fair value at each reporting date until the contingency is resolved. These changes in fair value are recognized in earnings in Other (income)/deductions net .
+E. Fair Value
+We measure certain assets and liabilities at fair value, either upon initial recognition or for subsequent accounting or reporting. We estimate fair value using an exit price approach, which requires, among other things, that we determine the price that would be received to sell an asset or paid to transfer a liability in an orderly market. The determination of an exit price is considered from the perspective of market participants, considering the highest and best use of non-financial assets and, for liabilities, assuming that the risk of non-performance will be the same before and after the transfer.
+When estimating fair value, depending on the nature and complexity of the asset or liability, we may use one or all of the following techniques:
+Income approach, which is based on the present value of a future stream of net cash flows.
+Market approach, which is based on market prices and other information from market transactions involving identical or comparable assets or liabilities.
+Cost approach, which is based on the cost to acquire or construct comparable assets, less an allowance for functional and/or economic obsolescence.
+Our fair value methodologies depend on the following types of inputs:
+Quoted prices for identical assets or liabilities in active markets (Level 1 inputs).
+Quoted prices for similar assets or liabilities in active markets, or quoted prices for identical or similar assets or liabilities in markets that are not active, or inputs other than quoted prices that are directly or indirectly observable, or inputs that are derived principally from, or corroborated by, observable market data by correlation or other means (Level 2 inputs).
+Unobservable inputs that reflect estimates and assumptions (Level 3 inputs).
+The following inputs and valuation techniques are used to estimate the fair value of our financial assets and liabilities:
+Available-for-sale debt securities—third-party matrix-pricing model that uses significant inputs derived from or corroborated by observable market data and credit-adjusted yield curves.
+Equity securities with readily determinable fair values—quoted market prices and observable NAV prices.
+Derivative assets and liabilities—third-party matrix-pricing model that uses inputs derived from or corroborated by observable market data. Where applicable, these models use market-based observable inputs, including interest rate yield curves to discount future cash flow amounts, and forward and spot prices for currencies. The credit risk impact to our derivative financial instruments was not significant.
+Money market funds—observable NAV prices.
+We periodically review the methodologies, inputs and outputs of third-party pricing services for reasonableness. Our procedures can include, for example, referencing other third-party pricing models, monitoring key observable inputs (like benchmark interest rates) and selectively performing test-comparisons of values with actual sales of financial instruments.
+F. Foreign Currency Translation
+For most of our international operations, local currencies have been determined to be the functional currencies. We translate functional currency assets and liabilities to their U.S. dollar equivalents at exchange rates in effect as of the balance sheet date and income and expense amounts at average exchange rates for the period. The U.S. dollar effects that arise from changing translation rates are recorded in Other comprehensive income/(loss) . The effects of converting non-functional currency monetary assets and liabilities into the functional currency are recorded in Other (income)/deductions net . For operations in highly inflationary economies, we translate monetary items at rates in effect as of the balance sheet date, with translation adjustments recorded in Other (income)/deductions net , and we translate non-monetary items at historical rates.
+G. Revenues and Trade Accounts Receivable
+Revenue Recognition We record revenues from product sales when there is a transfer of control of the product from us to the customer. We typically determine transfer of control based on when the product is shipped or delivered and title passes to the customer. For certain contracts, the finished product may temporarily be stored at our or our third-party subcontractors' locations under a bill-and-hold arrangement. Revenue is recognized on bill-and-hold arrangements at the point in time when the customer obtains control of the product and all of the following criteria have been met: the arrangement is substantive; the product is identified separately as belonging to the customer; the product is ready for physical transfer to the customer; and we do not have the ability to use the product or direct it to another customer. In bill-and-hold arrangements which are part of the U.S. SNS, we recognize revenue for the product sale when the product is initially placed into the U.S. SNS and we provide a rotation service to maintain an agreed upon level of shelf life for product in the stockpile. In determining when the customer obtains control of the product, we consider certain indicators, including whether we have a present right to payment from the customer, whether title and/or significant risks and rewards of ownership have transferred to the customer and whether customer acceptance has been received.
+Our Sales Contracts Sales on credit are typically under short-term contracts. Collections are based on market payment cycles common in various markets, with shorter cycles in the U.S. Sales are adjusted for sales allowances, chargebacks, rebates and sales returns and cash discounts. Sales returns may occur due to patent-based expirations or loss of regulatory exclusivity, product recalls or a changing competitive environment.
+Deductions from Revenues Our gross product revenues are subject to a variety of deductions, which generally are estimated and recorded in the same period that the revenues are recognized. Such variable consideration represents chargebacks, rebates, sales allowances and
+Pfizer Inc. 2024 Form 10-K
+58
+Notes to Consolidated Financial Statements
+Pfizer Inc. and Subsidiary Companies
+sales returns. These deductions represent estimates of the related obligations and, as such, knowledge and judgment is required when estimating the impact of these product revenue deductions on gross sales for a reporting period.
+Provisions for pharmaceutical sales returns Provisions are based on a calculation for each market that incorporates the following, as appropriate: local returns policies and practices; historical returns as a percentage of sales; an understanding of the reasons for past returns; estimated shelf life by product; an estimate of the amount of time between shipment and return or lag time; and any other factors that could impact the estimate of future returns, such as patent-based expirations or loss of regulatory exclusivity, product recalls or a changing competitive environment. Generally, returned products are destroyed, and customers are refunded the sales price in the form of a credit.
+We record sales incentives as a reduction of revenues at the time the related revenues are recorded or when the incentive is offered, whichever is later. We estimate the cost of our sales incentives based on our historical experience with similar incentives programs to predict customer behavior.
+The following outlines our common sales arrangements:
+Customers Our prescription biopharmaceutical products, with the exception of Paxlovid in 2022 and 2023, are sold principally to wholesalers, but we also sell directly to retailers, hospitals, clinics, government agencies and pharmacies. In 2022 and 2023, we principally sold Paxlovid globally to government agencies. Our vaccines in the U.S. are primarily sold directly to the federal government (including the CDC), wholesalers, individual provider offices, retail pharmacies and integrated delivery systems. Our vaccines outside the U.S. are primarily sold to government and non-government institutions. Certain products in our portfolio are subject to seasonality of demand and Paxlovid revenues trend with infection rates. Prescription pharmaceutical products that ultimately are used by patients are generally covered under governmental programs, managed care programs and insurance programs, including those managed through PBMs in the U.S; and are subject to sales allowances and/or rebates payable directly to those programs. Those sales allowances and rebates are generally negotiated, but government programs may have legislated amounts by type of product (e.g., patented or unpatented).
+Specifically:
+In the U.S., we sell our products principally to distributors and hospitals. We also have contracts with managed care programs or PBMs and legislatively mandated contracts with the federal and state governments under which we provide rebates based on medicines utilized by the lives they cover. We record provisions for Medicare, Medicaid, and performance-based contract pharmaceutical rebates based upon our experience ratio of rebates paid and actual prescriptions written during prior periods. We apply the experience ratio to the respective period's sales to determine the rebate accrual and related expense. This experience ratio is evaluated regularly to ensure that the historical trends are as current as practicable. We estimate discounts on branded prescription drug sales in prior periods to Medicare Part D participants in the Medicare "coverage gap," also known as the "doughnut hole," and as of December 31, 2024 in the initial coverage and catastrophic phases under the Manufacturer Discount Program based on the historical experience of beneficiary prescriptions and consideration of the utilization that is expected to result from the discount in the coverage gap or from the manufacturer's discount, respectively. We evaluate this estimate regularly to ensure that the historical trends and future expectations are as current as practicable. For performance-based contract rebates, we also consider current contract terms, such as changes in formulary status and rebate rates.
+Outside the U.S., the majority of our pharmaceutical sales allowances are contractual or legislatively mandated and our estimates are based on actual invoiced sales within each period, which reduces the risk of variations in the estimation process. In certain European countries, rebates are calculated on the government's total unbudgeted pharmaceutical spending or on specific product sales thresholds and we apply an estimated allocation factor against our actual invoiced sales to project the expected level of reimbursement. We obtain third-party information that helps us to monitor the adequacy of these accruals.
+Provisions for pharmaceutical chargebacks (primarily reimbursements to U.S. wholesalers for honoring contracted prices and legislated discounts to third parties) closely approximate actual amounts incurred, as we settle these deductions generally within two to five weeks of incurring the liability.
+We recorded revenues of more than $ 1 billion for each of 11 products in 2024, for each of nine products in 2023 and for each of ten products in 2022, and these revenues represented 66 %, 64 % and 82 % of our Total revenues in 2024, 2023 and 2022, respectively. See Note 17C . The loss or expiration of intellectual property rights can have a significant adverse effect on our revenues as our contracts with customers will generally be at lower selling prices and lower volumes due to added generic competition. We generally provide for higher sales returns during the period in which individual markets begin to near the loss or expiration of intellectual property rights.
+Our accruals for Medicare, Medicaid and related state program and performance-based contract rebates, chargebacks, sales allowances and sales returns and cash discounts are as follows:
+As of December 31,
+(MILLIONS) 2024 2023
+Reserve against Trade accounts receivable, less allowance for doubtful accounts
+$ 1,627 $ 1,770
+Other current liabilities :
+Accrued rebates 7,195 5,546
+Other accruals 972 902
+Other noncurrent liabilities
+1,029 796
+Total accrued rebates and other sales-related accruals $ 10,822 $ 9,014
+Taxes collected from customers relating to product sales and remitted to governmental authorities are excluded from Product revenues .
+Trade Accounts Receivable —Trade accounts receivable are stated at their net realizable value. The allowance for credit losses reflects our best estimate of expected credit losses of the receivables portfolio determined on the basis of historical experience, current information, and forecasts of future economic conditions. In developing the estimate for expected credit losses, trade accounts receivables are segmented into pools of assets depending on market (U.S. versus international), delinquency status, and customer type (high risk versus low risk and government versus non-government), and fixed reserve percentages are established for each pool of trade accounts receivables.
+Pfizer Inc. 2024 Form 10-K
+59
+Notes to Consolidated Financial Statements
+Pfizer Inc. and Subsidiary Companies
+In determining the reserve percentages for each pool of trade accounts receivables, we considered our historical experience with certain customers and customer types, regulatory and legal environments, country and political risk, and other relevant current and future forecasted macroeconomic factors. These credit risk indicators are monitored on a quarterly basis to determine whether there have been any changes in the economic environment that would indicate the established reserve percentages should be adjusted, and are considered on a regional basis to reflect more geographic-specific metrics. Additionally, write-offs and recoveries of customer receivables are tracked against collections on a quarterly basis to determine whether the reserve percentages remain appropriate. When management becomes aware of certain customer-specific factors that impact credit risk, specific allowances for these known troubled accounts are recorded. Trade accounts receivable are written off after all reasonable means to collect the full amount (including litigation, where appropriate) have been exhausted.
+During 2024 and 2023, additions to the allowance for credit losses, write-offs and recoveries of customer receivables were not material to our consolidated financial statements.
+H. Collaborative Arrangements
+Payments to and from our collaboration partners are presented in our consolidated statements of operations based on the nature of the arrangement (including its contractual terms), the nature of the payments and applicable accounting guidance. Under co-commercialization agreements, we record the amounts received for our share of gross profits from our collaboration partners as Alliance revenues, when our collaboration partners are the principal in the transaction and we receive a share of their net sales or profits. Alliance revenues are recorded as we perform co-promotion activities for the collaboration and the collaboration partners sell the products to their customers. The related expenses for selling and marketing these products including reimbursements to or from our collaboration partners for these costs are included in Selling, informational and administrative expenses. In collaborative arrangements where we manufacture a product for our collaboration partners, we record revenues when we transfer control of the product to our collaboration partners. In collaboration arrangements where we are the principal in the transaction, we record amounts paid to collaboration partners for their share of net sales or profits earned, and all royalty payments to collaboration partners as Cost of sales . Royalty payments received from collaboration partners are included in Royalty revenues.
+Reimbursements to or from our collaboration partners for development costs are typically recorded in Research and development expenses . Upfront payments and pre-approval milestone payments due from us to our collaboration partners in development stage collaborations are recorded as Acquired in-process r esearch and development expenses . Milestone payments due from us to our collaboration partners after regulatory approval has been attained for a medicine are recorded in Identifiable intangible assets —developed technology rights. Upfront and pre-approval milestone payments earned from our collaboration partners by us are recognized in Other (income)/deductions—net over the development period for the products, when our performance obligations include providing R&D services to our collaboration partners. Upfront, pre-approval and post-approval milestone payments earned by us may be recognized in Other (income)/deductions—net immediately when earned or over other periods depending upon the nature of our performance obligations in the applicable collaboration. Where the milestone event is regulatory approval for a medicine, we generally recognize milestone payments due to us in the transaction price when regulatory approval in the applicable jurisdiction has been attained. We may recognize milestone payments due to us in the transaction price earlier than the milestone event in certain circumstances when recognition of the income would not be probable of a significant reversal.
+I. Cost of Sales and Inventories
+Inventories are recorded at the lower of cost or net realizable value. The cost of finished goods, work in process and raw materials is determined using average actual cost. We regularly review our inventories for impairment and reserves are established when necessary. Inventories that are not expected to be sold within 12 months are classified as Other noncurrent assets . See Note 8A .
+J. Selling, Informational and Administrative Expenses
+Selling, informational and administrative costs are expensed as incurred. Among other things, these expenses include the internal and external costs of marketing, advertising, shipping and handling, digital and legal defense. Advertising expenses totaled approximately $ 3.3 billion in 2024, $ 3.7 billion in 2023 and $ 2.8 billion in 2022. Production costs are expensed as incurred and the costs of TV, radio, and other electronic media and publications are expensed when the related advertising occurs.
+K. Research and Development Expenses
+R&D costs are expensed as incurred. These expenses include the costs of our proprietary R&D efforts, as well as R&D activities performed in connection with certain licensing arrangements.
+L. Acquired In-Process Research and Development Expenses
+Before a compound receives regulatory approval, we record upfront and milestone payments we make to third parties under licensing and collaboration arrangements as expense. Upfront payments are recorded when incurred, and milestone payments are recorded when the specific milestone has been achieved. Once a compound receives regulatory approval, we record any milestone payments in Identifiable intangible assets, less accumulated amortization and, unless the asset is determined to have an indefinite life, we typically amortize the payments on a straight-line basis over the remaining agreement term or the expected product life cycle, whichever is shorter. Acquired in-process research and development expenses includes costs incurred in connection with (a) all upfront and milestone payments on collaboration and in-license agreements, including premiums on equity securities and (b) asset acquisitions of acquired IPR&D.
+M. Long-Lived Assets
+Long-lived assets include:
+Property, plant and equipment, net —These assets are recorded at cost, including any significant improvements after purchase, less accumulated depreciation. Property, plant and equipment assets, other than land and construction in progress, are depreciated on a
+Pfizer Inc. 2024 Form 10-K
+60
+Notes to Consolidated Financial Statements
+Pfizer Inc. and Subsidiary Companies
+straight-line basis over the estimated useful life of the individual assets. Depreciation begins when the asset is ready for its intended use. For tax purposes, accelerated depreciation methods are used as allowed by tax laws.
+Identifiable intangible assets, net —These assets are recorded at fair value at acquisition. Intangible assets with finite lives are amortized on a straight-line basis over their estimated useful lives. Intangible assets with indefinite lives are not amortized until a useful life can be determined.
+Goodwill —Goodwill represents the excess of the consideration transferred for an acquired business over the assigned values of its net assets. Goodwill is not amortized.
+Amortization of finite-lived acquired intangible assets is included in Amortization of intangible assets.
+We review our long-lived assets for impairment indicators throughout the year. We perform impairment testing for indefinite-lived intangible assets and goodwill at least annually and for all other long-lived assets whenever impairment indicators are present. When necessary, we record impairments of long-lived assets for the amount by which the fair value is less than the carrying value of these assets.
+Specifically:
+For finite-lived intangible assets, such as developed technology rights, and for other long-lived assets, such as property, plant and equipment, whenever impairment indicators are present, we calculate the undiscounted value of the projected cash flows for the asset, or asset group, and compare this estimated amount to the carrying amount. If the carrying amount is greater, we record an impairment loss for the excess of book value over fair value. In addition, we reevaluate the remaining useful lives of the assets and modify them, as appropriate.
+For indefinite-lived intangible assets, such as brands and IPR&D assets, when necessary, we determine the fair value of the asset and record an impairment loss, if any, for the excess of book value over fair value. In addition, in all cases of an impairment review other than for IPR&D assets, we re-evaluate whether continuing to characterize the asset as indefinite-lived is appropriate.
+For goodwill, when necessary, we determine the fair value of each reporting unit and record an impairment loss, if any, for the excess of the book value of the reporting unit over the implied fair value.
+N. Restructuring Charges and Other Costs Associated with Acquisitions and Cost-Reduction/Productivity Initiatives
+We incur restructuring charges in connection with acquisitions when we implement plans to restructure and integrate the acquired operations or in connection with our cost-reduction and productivity initiatives.
+In connection with acquisition activity, we typically incur costs associated with executing the transactions, integrating the acquired operations (which may include expenditures for consulting and the integration of systems and processes), and restructuring the combined company (which may include charges related to employees, assets and activities that will not continue in the combined company); and
+In connection with our cost-reduction/productivity initiatives, we typically incur costs and charges for site closings and other facility rationalization actions, workforce reductions and the expansion of shared services, including the development of global systems.
+Included in Restructuring charges and certain acquisition-related costs are all restructuring charges, as well as certain other costs associated with acquiring and integrating an acquired company. If the restructuring action results in a change in the estimated useful life of an asset, that incremental impact is classified in Cost of sales, Selling, informational and administrative expenses and/or Research and development expenses , as appropriate. Employee termination costs are generally recorded when the actions are probable and estimable and include accrued severance benefits, pension and postretirement benefits, many of which may be paid out during periods after termination. Transaction costs, such as banking, legal, accounting and other similar costs incurred in connection with a business acquisition are expensed as incurred .
+Our business may be impacted by these actions, including sales and marketing, manufacturing and R&D, as well as our corporate enabling functions.
+O. Cash Equivalents and Statement of Cash Flows
+Cash equivalents include items almost as liquid as cash, such as certificates of deposit and time deposits with maturity periods of three months or less when purchased. If items meeting this definition are part of a larger investment pool, we classify them as Short-term investments .
+Cash flows for financial instruments designated as fair value or cash flow hedges may be included in operating, investing or financing activities, depending on the classification of the items being hedged. Cash flows for financial instruments designated as net investment hedges are classified according to the nature of the hedging instrument. Cash flows for financial instruments that do not qualify for hedge accounting treatment are classified according to their purpose and accounting nature.
+P. Investments and Derivative Financial Instruments
+The classification of an investment depends on the nature of the investment, our intent and ability to hold the investment, and the degree to which we may exercise influence. Our investments are primarily comprised of the following:
+Public equity securities with readily determinable fair values, which are carried at fair value, with changes in fair value reported in Other (income)/deductions—net.
+Available-for-sale debt securities, which are carried at fair value, with changes in fair value reported in Other comprehensive income/(loss) until realized.
+Held-to-maturity debt securities, which are carried at amortized cost.
+Private equity securities without readily determinable fair values and where we have no significant influence are measured at cost minus any impairment and plus or minus adjustments resulting from observable price changes in orderly transactions for the identical or a similar investment of the same issuer.
+Pfizer Inc. 2024 Form 10-K
+61
+Notes to Consolidated Financial Statements
+Pfizer Inc. and Subsidiary Companies
+For equity investments in common stock or in-substance common stock where we have significant influence over the financial and operating policies of the investee, we use the equity-method of accounting. Under the equity-method, we record our share of the investee's income and expenses in Other (income)/deductions—net . The excess of the cost of the investment over our share of the underlying equity in the net assets of the investee as of the acquisition date is allocated to the identifiable assets and liabilities of the investee, with any remaining excess amount allocated to goodwill. Such investments are initially recorded at cost, which is the fair value of consideration paid and typically does not include contingent consideration.
+Realized gains or losses on sales of investments are determined by using the specific identification cost method.
+We regularly evaluate all of our financial assets for impairment. For investments in debt and equity, if and when a decline in fair value is determined, an impairment charge is recorded and a new cost basis in the investment is established. For equity-method investments, an impairment charge is recorded only if and when a decline in fair value is determined to be other-than-temporary.
+Derivative financial instruments are carried at fair value in certain balance sheet categories (see Note 7A ), with changes in fair value reported in net income or, for certain qualifying hedging relationships, in Other comprehensive income/(loss) (see Note 7E ).
+Q. Tax Assets and Liabilities and Income Tax Contingencies
+Tax Assets and Liabilities Current tax assets primarily include (i) tax effects for intercompany transfers of inventory within our combined group, which are recognized in the consolidated statements of operations when the inventory is sold to a third party and (ii) income tax receivables that are expected to be recovered either via refunds from taxing authorities or reductions to future tax obligations.
+Deferred tax assets and liabilities are recognized for the expected future tax consequences of differences between the financial reporting and tax bases of assets and liabilities using enacted tax rates and laws. We provide a valuation allowance when we believe that our deferred tax assets are not recoverable based on an assessment of estimated future taxable income that incorporates ongoing, prudent and feasible tax-planning strategies, that would be implemented, if necessary, to realize the deferred tax assets. Amounts recorded for valuation allowances requires judgments about future income which can depend heavily on estimates and assumptions. All deferred tax assets and liabilities within the same tax jurisdiction are presented as a net amount in the noncurrent section of our consolidated balance sheet.
+The TCJA subjects a U.S. shareholder to current tax on global intangible low-taxed income earned by certain foreign subsidiaries. The FASB Staff Q&A, Topic 740, No. 5, Accounting for Global Intangible Low-Taxed Income , states that we are permitted to make an accounting policy election to either recognize deferred taxes for temporary basis differences expected to reverse as global intangible low-taxed income in future years or provide for the tax expense related to such income in the year the tax is incurred. We elected to recognize deferred taxes for temporary differences expected to reverse as global intangible low-taxed income in future years.
+Other non-current tax assets primarily represent our estimate of the potential tax benefits in one tax jurisdiction that could result from the payment of income taxes in another tax jurisdiction. These potential benefits generally result from cooperative efforts among taxing authorities, as required by tax treaties to minimize double taxation, commonly referred to as the competent authority process. The recoverability of these assets, which we believe to be more likely than not, is dependent upon the actual payment of taxes in one tax jurisdiction and, in some cases, the successful petition for recovery in another tax jurisdiction.
+Other taxes payable as of December 31, 2024 and 2023 include liabilities for uncertain tax positions and the noncurrent portion of the repatriation tax liability for which we elected payment over eight years through 2026. See Note 5D for uncertain tax positions and Note 5A for the repatriation tax liability and other estimates and assumptions in connection with the TCJA.
+Income Tax Contingencies We account for income tax contingencies using a benefit recognition model. If we consider that a tax position is more likely than not to be sustained upon audit, based solely on the technical merits of the position, we recognize all or a portion of the benefit. We measure the benefit by determining the amount that is greater than 50% likely of being realized upon settlement, presuming that the tax position is examined by the taxing authority with full knowledge of all relevant information.
+We regularly monitor our position and subsequently recognize the unrecognized tax benefit: (i) if there are changes in tax law, analogous case law or there is new information that sufficiently raise the likelihood of prevailing on the technical merits of the position to "more likely than not"; (ii) if the statute of limitations expires; or (iii) if there is a completion of an audit resulting in a favorable settlement of that tax year with the appropriate agency. Liabilities for uncertain tax positions are classified as current only when we expect to pay cash within the next 12 months. Interest and penalties, if any, are recorded in Provision/(benefit) for taxes on income and are classified on our consolidated balance sheet with the related tax liability.
+Our assessments are based on estimates and assumptions that have been deemed reasonable by management, but our estimates of unrecognized tax benefits and potential tax benefits may not be representative of actual outcomes, and variation from such estimates could materially affect our financial statements in the period of settlement or when the statutes of limitations expire, as we treat these events as discrete items in the period of resolution.
+R. Pension and Postretirement Benefit Plans
+The majority of our employees worldwide are covered by defined benefit pension plans, defined contribution plans or both. In the U.S., we have both IRC-qualified and supplemental (non-qualified) defined benefit plans and defined contribution plans, as well as other postretirement benefit plans consisting primarily of medical insurance for retirees and their eligible dependents. Net periodic pension and postretirement benefit costs other than the service costs are recognized in Other (income)/deductions—net . We immediately recognize actuarial gains and losses arising from the remeasurement of our pension and postretirement plans (mark-to-market accounting). Each time a pension or postretirement plan is remeasured, the actuarial gain or loss is recognized immediately and classified as Other (income)/deductions net . We recognize the overfunded or underfunded status of each of our defined benefit plans as an asset or liability. The obligations are generally measured at the actuarial present value of all benefits attributable to employee service rendered, as provided by the applicable benefit formula. Our pension and other postretirement obligations may be determined using assumptions such as discount rate, expected annual rate of return on plan assets, expected employee turnover and participant mortality. For our pension plans, the obligation may also include assumptions as to future compensation levels. For our other postretirement benefit plans, the obligation may include assumptions as to the expected cost of
+Pfizer Inc. 2024 Form 10-K
+62
+Notes to Consolidated Financial Statements
+Pfizer Inc. and Subsidiary Companies
+providing medical insurance benefits, as well as the extent to which those costs are shared with the employee or others (such as governmental programs). Plan assets are measured at fair value.
+S. Legal and Environmental Contingencies
+We and certain of our subsidiaries are subject to numerous contingencies arising in the ordinary course of business, such as patent litigation, product liability and other product-related litigation, commercial and other asserted or unasserted matters, environmental claims and proceedings, government investigations and guarantees and indemnifications. In assessing contingencies related to legal and environmental proceedings that are pending against the Company, or unasserted claims that are probable of being asserted, we record accruals for these contingencies to the extent that we conclude that a loss is both probable and reasonably estimable. If some amount within a range of loss appears to be a better estimate than any other amount within the range, we accrue that amount. Alternatively, when no amount within a range of loss appears to be a better estimate than any other amount, we accrue the lowest amount in the range. We record anticipated recoveries under existing insurance contracts when recovery is assured.
+T. Share-Based Payments
+Our compensation programs include share-based payments. Generally, grants under share-based payment programs are accounted for at fair value and these fair values are generally amortized on a straight-line basis or on an accelerated attribution approach over the vesting terms with the related costs recorded in Cost of sales, Selling, informational and administrative expenses and/or Research and development expenses , as appropriate.
+Note 2. Acquisitions, Divestitures, Equity-Method Investments, Collaborative Arrangements and Research and Development Arrangement
+A. Acquisitions
+Seagen On December 14, 2023 (the acquisition date), we acquired Seagen, a global biotechnology company that discovers, develops and commercializes transformative cancer medicines, for $ 229 per share in cash. The total fair value of the consideration transferred was $ 44.2 billion ($ 43.4 billion, net of cash acquired). In addition, in connection with the acquisition, $ 476 million in post-closing compensation expense for Seagen employee incentive awards was recorded in Restructuring charges and certain acquisition-related costs (see Note 3 ).
+Seagen's principal business was the development, manufacture, marketing and distribution of targeted cancer therapeutics, primarily using ADC technology. Seagen's portfolio includes four approved medicines as well as a pipeline of product candidates. Clinical development programs are ongoing for each of these approved medicines for potential new or expanded indications and for several product candidates. We believe our acquisition of Seagen will strengthen our oncology capabilities by allowing us to combine Seagen's ADC technology with the resources and scale of the Pfizer enterprise and to advance more potential breakthroughs to patients with cancer.
+The following table summarizes the amounts recognized for assets acquired and liabilities assumed as of the acquisition date, as well as adjustments made in 2024 to the amounts initially recorded in 2023 (measurement period adjustments) with a corresponding change to goodwill. The measurement period adjustments did not have a material impact on our earnings in any period. The final allocation of the consideration transferred to the assets acquired and the liabilities assumed has been completed.
+(MILLIONS)
+Amounts Recognized
+as of Acquisition Date
+(as previously reported as of December 31, 2023)
+Measurement Period Adjustments (a)
+Amounts Recognized as of Acquisition Date (as adjusted) Final
+Working capital, excluding inventories (b)
+$ 736 $ ( 115 ) $ 621
+Inventories (c)
+4,195 ( 922 ) 3,273
+Property, plant and equipment
+524 ( 243 ) 280
+Identifiable intangible assets, excluding in-process research and development (d)
+7,970 ( 50 ) 7,920
+In-process research and development
+20,800 ( 900 ) 19,900
+Other noncurrent assets
+174 ( 115 ) 59
+Net income tax accounts (e)
+( 6,123 ) 1,343 ( 4,779 )
+Other noncurrent liabilities ( 167 ) ( 20 ) ( 187 )
+Total identifiable net assets 28,108 ( 1,022 ) 27,086
+Goodwill 16,126 1,022 17,148
+Net assets acquired/total consideration transferred $ 44,234 $ — $ 44,234
+(a) The changes in the estimated fair values are to better reflect market participant assumptions about facts and circumstances existing as of the acquisition date. The measurement period adjustments did not result from intervening events subsequent to the acquisition date.
+(b) Includes cas

@@ -1,0 +1,636 @@
+management records as an accrual in the Company's financial statements the most likely estimate of the loss, or the low end of the range if there is no one best estimate. Management either discloses the amount of a possible loss or range of loss in excess of established accruals if estimable, or states that such an estimate cannot be made. As of December 31, 2025, the Company had recorded liabilities of $7.7 billion for other environmental liabilities, the majority of which relate to PFAS-related legal proceedings. These accruals represent management's estimate of probable loss for PFAS-related matters and litigation. Management discloses significant legal proceedings even where liability is not probable or the amount of the liability is not estimable, or both, if management believes there is at least a reasonable possibility that a loss may be incurred.
+The principal considerations for our determination that performing procedures relating to PFAS-related legal proceedings is a critical audit matter are (i) the significant judgment by management when determining the likelihood of a loss being incurred and when developing the estimated loss, or range of loss, for each PFAS-related claim; and (ii) a high degree of auditor judgment, subjectivity, and effort in performing procedures and evaluating management's assessment of the liabilities and disclosures related to PFAS-related legal proceedings.
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to management's assessment of the liabilities related to PFAS-related legal proceedings, including controls over determining the likelihood of a loss and whether the amount of loss can be reasonably estimated, as well as financial statement disclosures. These procedures also included, among others, (i) understanding management's process related to accounting and reporting for PFAS-related legal proceedings; (ii) evaluating existing accruals, including the determination of the net present value of the future settlement payments, by obtaining and inspecting executed settlement agreements; (iii) evaluating the status of significant known and potential litigation and settlement activity based on inquiry of internal legal counsel, as well as external legal counsel, when deemed necessary, (iv) obtaining and evaluating the letters of audit inquiry with internal and external legal counsel; (v) evaluating the reasonableness of management's assessment regarding whether an unfavorable outcome is reasonably possible or probable and reasonably estimable; and (vi) evaluating the sufficiency of the Company's disclosures related to PFAS-related legal proceedings.
+/s/ PricewaterhouseCoopers LLP
+Minneapolis, Minnesota
+February 3, 2026
+We have served as the Company's auditor since 1975.
+39
+Table of Contents
+3M Company and Subsidiaries
+Consolidated Statement of Income (Loss)
+Years ended December 31,
+(Millions, except per share amounts) 2025 2024 2023
+Net sales $ 24,948 $ 24,575 $ 24,610
+Operating expenses
+Cost of sales 14,991 14,447 14,983
+Selling, general and administrative expenses 3,997 4,221 19,198
+Research, development and related expenses 1,169 1,085 1,154
+Loss (gain) on business divestitures
+162 — ( 36 )
+Total operating expenses 20,319 19,753 35,299
+Operating income (loss)
+4,629 4,822 ( 10,689 )
+Other expense (income), net 416 3 582
+Income (loss) from continuing operations before income taxes
+4,213 4,819 ( 11,271 )
+Provision (benefit) for income taxes
+1,003 804 ( 2,867 )
+Income (loss) from continuing operations of consolidated group
+3,210 4,015 ( 8,404 )
+Income from unconsolidated subsidiaries, net of taxes
+52 9 18
+Net income (loss) from continuing operations including noncontrolling interest
+3,262 4,024 ( 8,386 )
+Less: net income attributable to noncontrolling interest
+12 15 16
+Net income (loss) from continuing operations attributable to 3M
+3,250 4,009 ( 8,402 )
+Net income from discontinued operations, net of taxes
+— 164 1,407
+Net income (loss) attributable to 3M
+$ 3,250 $ 4,173 $ ( 6,995 )
+Earnings (loss) per share attributable to 3M common shareholders:
+Weighted average 3M common shares outstanding — basic 537.4 550.8 553.9
+Earnings (loss) per share from continuing operations — basic
+$ 6.05 $ 7.28 $ ( 15.17 )
+Earnings per share from discontinued operations — basic
+— 0.30 2.54
+Earnings (loss) per share — basic
+$ 6.05 $ 7.58 $ ( 12.63 )
+Weighted average 3M common shares outstanding — diluted 541.3 552.4 553.9
+Earnings (loss) per share from continuing operations — diluted
+$ 6.00 $ 7.26 $ ( 15.17 )
+Earnings per share from discontinued operations — diluted
+— 0.29 2.54
+Earnings (loss) per share — diluted
+$ 6.00 $ 7.55 $ ( 12.63 )
+The accompanying Notes to Consolidated Financial Statements are an integral part of this statement.
+40
+Table of Contents
+3M Company and Subsidiaries
+Consolidated Statement of Comprehensive Income (Loss)
+Years ended December 31,
+(Millions) 2025 2024 2023
+Net income (loss) attributable to 3M $ 3,250 $ 4,173 $ ( 6,995 )
+Net income attributable to noncontrolling interest 12 15 16
+Net income (loss) including noncontrolling interest 3,262 4,188 ( 6,979 )
+Other comprehensive income (loss), net of tax:
+Cumulative translation adjustment 430 ( 512 ) 322
+Defined benefit pension and postretirement plans adjustment 301 935 ( 380 )
+Cash flow hedging instruments ( 83 ) 39 ( 47 )
+Total other comprehensive income (loss), net of tax 648 462 ( 105 )
+Comprehensive income (loss) including noncontrolling interest 3,910 4,650 ( 7,084 )
+Comprehensive (income) attributable to noncontrolling interest ( 9 ) ( 14 ) ( 16 )
+Comprehensive income (loss) attributable to 3M $ 3,901 $ 4,636 $ ( 7,100 )
+The accompanying Notes to Consolidated Financial Statements are an integral part of this statement.
+41
+Table of Contents
+3M Company and Subsidiaries
+Consolidated Balance Sheet
+(Dollars in millions, except per share amount) December 31, 2025 December 31, 2024
+Assets
+Current assets
+Cash and cash equivalents $ 5,235 $ 5,600
+Marketable securities
+698 2,128
+Accounts receivable — net of allowances of $ 61 and $ 60
+3,533 3,194
+Inventories
+Finished goods 1,744 1,849
+Work in process 1,126 1,051
+Raw materials and supplies 791 798
+Total inventories 3,661 3,698
+Prepaids 391 493
+Assets held for sale 46 —
+Other current assets 2,823 771
+Total current assets 16,387 15,884
+Property, plant and equipment 23,922 23,406
+Less: accumulated depreciation ( 16,821 ) ( 16,018 )
+Property, plant and equipment — net 7,101 7,388
+Goodwill 6,419 6,281
+Intangible assets — net 1,103 1,210
+Other assets 6,723 9,105
+Total assets $ 37,733 $ 39,868
+Liabilities
+Current liabilities
+Short-term borrowings and current portion of long-term debt $ 1,670 $ 1,919
+Accounts payable 2,702 2,660
+Accrued payroll 718 712
+Liabilities held for sale 55 —
+Other current liabilities
+4,450 5,965
+Total current liabilities 9,595 11,256
+Long-term debt 10,932 11,125
+Pension and postretirement benefits 1,631 1,813
+Other liabilities 10,828 11,780
+Total liabilities 32,986 35,974
+Commitments and contingencies (Note 17)
+Equity
+3M Company shareholders' equity:
+Common stock par value, $ .01 per share; 944,033,056 shares issued
+9 9
+Shares outstanding - December 31, 2025: 530,279,131 December 31, 2024: 539,470,303
+Additional paid-in capital 7,440 7,229
+Retained earnings 38,258 36,797
+Treasury stock, at cost
+( 35,936 ) ( 34,462 )
+Accumulated other comprehensive income (loss) ( 5,069 ) ( 5,731 )
+Total 3M Company shareholders' equity 4,702 3,842
+Noncontrolling interest 45 52
+Total equity 4,747 3,894
+Total liabilities and equity $ 37,733 $ 39,868
+The accompanying Notes to Consolidated Financial Statements are an integral part of this statement.
+42
+Table of Contents
+3M Company and Subsidiaries
+Consolidated Statement of Changes in Equity
+3M Company shareholders
+(Dollars in millions, except per share amounts) Total Common stock and additional paid-in capital
+Retained earnings
+Treasury stock
+Accumulated other comprehensive income (loss)
+Non-controlling interest
+Balance at December 31, 2022 $ 14,770 $ 6,700 $ 47,950 $ ( 33,255 ) $ ( 6,673 ) $ 48
+Net income (loss)
+( 6,979 ) ( 6,995 ) 16
+Other comprehensive income (loss), net of tax ( 105 ) ( 105 ) —
+Dividends declared ($ 6.00 per share, Note 8)
+( 3,311 ) ( 3,311 )
+Stock-based compensation 265 265
+Reacquired stock ( 33 ) ( 33 )
+Dividend to noncontrolling interest ( 3 ) ( 3 )
+Issuances pursuant to stock options and benefit plans 264 ( 165 ) 429
+Balance at December 31, 2023 4,868 6,965 37,479 ( 32,859 ) ( 6,778 ) 61
+Net income
+4,188 4,173 15
+Other comprehensive income (loss), net of tax 462 463 ( 1 )
+Solventum spin-off
+( 2,167 ) ( 2,751 ) 584
+Dividends declared ($ 3.61 per share, Note 8)
+( 1,982 ) ( 1,982 )
+Stock-based compensation 273 273
+Reacquired stock ( 1,817 ) ( 1,817 )
+Dividend to noncontrolling interest ( 23 ) ( 23 )
+Issuances pursuant to stock options and benefit plans 92 ( 122 ) 214
+Balance at December 31, 2024 3,894 7,238 36,797 ( 34,462 ) ( 5,731 ) 52
+Net income 3,262 3,250 12
+Other comprehensive income (loss), net of tax 648 651 ( 3 )
+Solventum spin-off ( 3 ) ( 14 ) 11
+Dividends declared ($ 2.92 per share, Note 8)
+( 1,562 ) ( 1,562 )
+Stock-based compensation 211 211
+Reacquired stock ( 3,249 ) ( 3,249 )
+Dividend to noncontrolling interest ( 16 ) ( 16 )
+Issuances pursuant to stock options and benefit plans 1,562 ( 213 ) 1,775
+Balance at December 31, 2025 $ 4,747 $ 7,449 $ 38,258 $ ( 35,936 ) $ ( 5,069 ) $ 45
+The accompanying Notes to Consolidated Financial Statements are an integral part of this statement.
+43
+Table of Contents
+3M Company and Subsidiaries
+Consolidated Statement of Cash Flows (a)
+Years ended December 31,
+(Millions) 2025 2024 2023
+Cash flows from operating activities
+Net income (loss) including noncontrolling interest
+$ 3,262 $ 4,188 $ ( 6,979 )
+Adjustments to reconcile net income including noncontrolling interest to net cash provided by operating activities
+Depreciation and amortization 1,308 1,363 1,987
+Company pension and postretirement contributions ( 145 ) ( 154 ) ( 152 )
+Company pension and postretirement expense 272 1,035 145
+Stock-based compensation expense 225 289 274
+Loss (gain) on business divestitures
+162 — ( 36 )
+Deferred income taxes 418 321 ( 3,855 )
+Changes in assets and liabilities
+Accounts receivable ( 211 ) 114 ( 170 )
+Inventories 139 41 567
+Accounts payable 21 46 138
+Other — net ( 3,145 ) ( 5,424 ) 14,761
+Net cash provided by (used in) operating activities 2,306 1,819 6,680
+Cash flows from investing activities
+Purchases of property, plant and equipment (PP&E) ( 910 ) ( 1,181 ) ( 1,615 )
+Proceeds from sale of PP&E and other assets 95 61 119
+Purchases of marketable securities and investments ( 1,305 ) ( 4,153 ) ( 1,466 )
+Proceeds from maturities and sale of marketable securities and investments 3,468 2,074 1,660
+Proceeds from sale of businesses, net of cash sold 5 — 60
+Other — net ( 3 ) ( 7 ) 35
+Net cash provided by (used in) investing activities 1,350 ( 3,206 ) ( 1,207 )
+Cash flows from financing activities
+Change in short-term debt — net — ( 205 ) 205
+Repayment of debt (maturities greater than 90 days) ( 1,815 ) ( 2,656 ) ( 3,086 )
+Proceeds from debt (maturities greater than 90 days) 1,099 8,367 2,835
+Purchases of treasury stock ( 3,251 ) ( 1,801 ) ( 33 )
+Proceeds from issuance of treasury stock pursuant to stock option and benefit plans 1,562 92 264
+Dividends paid to shareholders ( 1,562 ) ( 1,982 ) ( 3,311 )
+Cash transferred to Solventum related to separation, net — ( 621 ) —
+Other — net ( 49 ) ( 96 ) ( 21 )
+Net cash provided by (used in) financing activities ( 4,016 ) 1,098 ( 3,147 )
+Effect of exchange rate changes on cash and cash equivalents 41 ( 44 ) ( 48 )
+Net increase (decrease) in cash and cash equivalents, including cash classified within assets held for sale ( 319 ) ( 333 ) 2,278
+Less: net increase (decrease) in cash classified within assets held for sale
+46 — —
+Net increase (decrease) in cash and cash equivalents
+( 365 ) ( 333 ) 2,278
+Cash and cash equivalents at beginning of year 5,600 5,933 3,655
+Cash and cash equivalents at end of period $ 5,235 $ 5,600 $ 5,933
+The accompanying Notes to Consolidated Financial Statements are an integral part of this statement.
+(a) The Consolidated Statements of Cash Flows include the results of continuing and discontinued operations and, therefore, also include cash and cash equivalents associated with Solventum through its April 2024 separation from 3M that were presented in current assets of discontinued operations in the 3M Consolidated Balance Sheet.
+44
+Table of Contents
+3M Company and Subsidiaries
+Notes to Consolidated Financial Statements
+Note 1. Significant Accounting Policies
+Nature of Operations and Basis of Presentation: 3M is a diversified global manufacturer, technology innovator and marketer of a wide variety of products. As used herein, the term "3M" or "Company" refers to 3M Company and subsidiaries unless the context indicates otherwise.
+The consolidated financial statements of the Company have been prepared in accordance with generally accepted accounting principles in the United States ("U.S. GAAP"). Preparation of the consolidated financial statements requires management to make estimates and assumptions that affect amounts reported in the consolidated financial statements and notes. Such estimates and assumptions are subject to inherent uncertainties which may result in actual amounts differing from these estimates. The financial statements consolidate all applicable subsidiaries; intercompany transactions and balances are eliminated.
+With the exception of subsidiaries operating in highly inflationary economies, which are not material to 3M, local currencies generally are considered the functional currencies outside the United States. Assets and liabilities for operations in local-currency environments are translated at month-end exchange rates of the period reported. Income and expense items are translated at average monthly currency exchange rates in effect during the period. Cumulative translation adjustments are recorded as a component of accumulated other comprehensive income (loss) in shareholders' equity.
+Certain amounts in prior periods' consolidated financial statements have been reclassified to conform to current period presentation.
+Cash and Cash Equivalents: Cash and cash equivalents consist of cash and temporary investments with maturities of three months or less when acquired.
+Investments: 3M invests in both marketable and equity securities. These securities are classified as current or non-current based on their availability for use in current operations.
+Marketable securities, which include available-for-sale debt securities, are recorded at fair value with unrealized gains and losses recognized in accumulated other comprehensive income.
+Equity securities primarily relate to 3M's ownership interest in Solventum, which 3M accounts for as an equity investment with a readily determinable fair value. This investment was reclassified as a current equity investment (included in other current assets) in 2025. Equity securities that do not result in consolidation or are not accounted for under the equity method are measured at fair value, with changes in fair value reflected in net income. For equity investments without readily determinable fair values, 3M applies the measurement alternative — recording them at cost, less impairment, and adjusted for observable price changes in orderly transactions.
+3M regularly reviews investment securities for impairment. For debt securities, an impairment relating to credit losses is recorded through an allowance for credit losses. Changes in the allowance are recognized in earnings in the period of the change. Any impairment that has not been recorded through an allowance for credit losses is recorded through accumulated other comprehensive income as a component of shareholders' equity. Amounts are reclassified out of accumulated other comprehensive income and into earnings upon sale or when portions of the impairment related and unrelated to credit losses change.
+Inventories: Inventories are stated at the lower of cost or net realizable value, which is defined as estimated selling prices in the ordinary course of business, less reasonably predictable costs of completion, disposal and transportation. Cost is generally determined on a first-in, first-out basis.
+45
+Table of Contents
+Property, Plant and Equipment (PP&E) and Definite-Lived Intangible Assets: Property, plant and equipment, including capitalized interest and internal direct engineering costs, are recorded at cost. The Company capitalizes direct costs of services used in the development of, and external software acquired for use as, internal-use software. These software amounts are reported within machinery and equipment in PP&E. Depreciation of PP&E is generally computed using the straight-line method. Internal-use software elements of PP&E are depreciated over a period of three to seven years . 3M records capital-related government grants earned as reductions to the cost of PP&E and associated unpaid liabilities.
+Major classes of PP&E, along with their original useful lives (as applicable) are as follows:
+(Millions) Original lives
+December 31, 2025 December 31, 2024
+Land $ 202 $ 200
+Buildings and leasehold improvements 10 to 40 years
+7,729 7,432
+Machinery and equipment 3 to 15 years
+15,328 14,780
+Construction in progress 663 994
+Gross property, plant and equipment 23,922 23,406
+Accumulated depreciation ( 16,821 ) ( 16,018 )
+Property, plant and equipment - net $ 7,101 $ 7,388
+Definite lived intangible asset types include customer-related, patent, other technology-based, tradename and other intangible assets acquired from independent parties. These assets are amortized on a systematic and rational basis (generally straight-line) representative of the asset's use. Refer to Note 5 for amortizable lives and additional details on intangible assets. Costs related to internally developed intangible assets, such as patents, are expensed as incurred, within "Research, development and related expenses". 3M also expenses costs incurred to renew or extend the term of intangible assets.
+Fully depreciated PP&E, other than capitalized internally developed software, is retained in PP&E and accumulated depreciation accounts until disposal. Upon disposal, assets and related accumulated depreciation are removed from the accounts, and the net amount, less proceeds from disposal, is charged or credited to operations. Definite-lived intangible assets are removed from their respective gross asset and accumulated amortization accounts when they are no longer in use.
+PP&E and definite-lived intangible assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset (or asset group) may not be recoverable. The amount of the impairment loss recorded equals the excess of the asset's (or asset group's) carrying value over its fair value, which is generally determined using a discounted cash flow analysis.
+Asset Retirement Obligations: A liability is initially recorded at fair value for an asset retirement obligation associated with the retirement of tangible long-lived assets in the period in which the obligation is incurred, provided a reasonable estimate of fair value can be made. Over time, the liability is accreted for the change in its present value, and the initial capitalized cost is depreciated over the remaining useful life of the related asset. 3M cannot reasonably estimate the fair value of certain conditional asset retirement obligations due to the nature of specific conditions and the uncertain outcome of related commercial activities.
+The asset retirement obligation liability reflected in other current liabilities and other liabilities was as follows:
+(Millions) December 31, 2025 December 31, 2024
+Asset retirement obligation $ 202 $ 195
+Goodwill and Indefinite-Lived Intangible Assets: Goodwill and indefinite-lived intangible assets (namely certain tradenames) are not amortized and are assessed for impairment annually — in the fourth quarter for goodwill and the third quarter for indefinite-lived intangible assets — and whenever events or circumstances indicate that the carrying amount may be impaired. Impairment testing for goodwill is performed at the reporting-unit level, which at 3M primarily corresponds to a division. An impairment loss is recognized when the carrying value of a reporting unit's net assets exceeds its estimated fair value. The estimated fair value of a reporting unit is determined using a market approach based on comparable company information, such as EBITDA (earnings before interest, taxes, depreciation, and amortization) multiples, or, in some cases, using a discounted cash-flow analysis. An impairment loss is recognized for an indefinite-lived intangible asset when its fair value — generally determined using a discounted cash-flow model — is less than its carrying value.
+46
+Table of Contents
+Restructuring Actions: Restructuring actions generally include significant actions involving employee-related severance charges, contract termination costs, and impairment or accelerated depreciation or amortization of assets associated with such actions. Employee-related severance charges are largely based upon distributed employment policies and substantive severance plans. These charges are reflected in the quarter in which the actions are probable and the amounts are estimable, which typically occurs when management approves the associated actions. Severance amounts for which affected employees are required, in certain circumstances, to render service in order to receive benefits at their termination dates are measured as of the date such benefits were communicated to the applicable employees and recognized as expense over the employees' remaining service periods. Contract termination and other charges primarily reflect costs to terminate a contract before the end of its term (measured at fair value when the Company provides notice to the counterparty) or costs that will continue to be incurred under the contract for its remaining term without economic benefit to the Company.
+Revenue (Sales) Recognition: The Company sells products to a diversified base of customers around the world and has no material concentration of credit risk or significant payment terms extended to customers. The vast majority of 3M's customer arrangements contain a single performance obligation to transfer manufactured goods.
+Revenue is recognized when control of goods transfers to customers. For the majority of the Company's customer arrangements, control transfers to customers at a point-in-time when goods or services are delivered, as this generally represents when legal title, physical possession, and the risks and rewards of ownership transfer to the customer.
+Revenue is recognized at the transaction price to which the Company expects to be entitled. When determining the transaction price, 3M estimates variable consideration using the portfolio approach practical expedient. The main sources of variable consideration for 3M are customer incentives such as rebates, trade promotion funds, and cash discounts. These sales incentives are recorded as a reduction to revenue at the time of the initial sale using the most likely-amount estimation method. The most likely-amount method is based on the single most likely outcome from a range of possible consideration outcomes, derived from sales terms, historical experience, trend analysis, and projected market conditions in the markets 3M serves.
+Accrued customer incentives reflected within other current liabilities were as follows:
+(Millions) December 31, 2025 December 31, 2024
+Accrued customer incentives $ 624 $ 607
+The most common incentive relates to amounts paid or credited to customers for achieving defined volume levels or growth objectives. There are no material instances where variable consideration is constrained and not recorded at the initial time of sale. Free goods are accounted for as expenses and recorded in cost of sales. Product returns are recorded as a reduction to revenue based on anticipated sales returns that occur in the normal course of business. 3M primarily has assurance-type warranties that do not result in separate performance obligations. Sales, use, value-added, and other excise taxes are excluded from revenue. The Company has elected to present revenue net of sales taxes and other similar taxes.
+The Company applies the "right-to-invoice" practical expedient, as the amount invoiced to customers reasonably corresponds to the value of 3M's performance completed to date.
+The Company applies the practical expedient related to costs of obtaining a contract by expensing sales commissions when incurred because the amortization period would have been one year or less as the Company does not have material costs related to obtaining a contract with amortization periods greater than one year for any year presented.
+Warranties/Guarantees: 3M's accrued product warranty liabilities, guarantees of loans with third parties, and other guarantee arrangements are not material.
+Accounts Receivable and Allowances: Trade accounts receivable are recorded at the invoiced amount and do not bear interest. The Company maintains allowances for bad debts, cash discounts, and various other items for potential credit losses. The Company determines the allowances based on historical write-off experience, current expectations of future credit losses informed by industry and regional economic data, and historical cash discounts. The allowances are reviewed on a monthly basis. The allowances for bad debts as well as the provision for credit losses, write-off activity and recoveries for the periods presented are not material. The Company does not have any significant off-balance-sheet credit exposure related to its customers.
+Advertising and Merchandising: These costs are charged to operations in the period incurred, and were as follows:
+(Millions) 2025 2024 2023
+Advertising and merchandising costs $ 233 $ 216 $ 201
+Research, Development and Related Expenses: Research and development expenses cover basic scientific research and the application of scientific advances in the development of new and improved products and their uses. Related expenses primarily include technical support; costs associated with internally developed patents; amortization of certain acquired technology; and gains or losses associated with certain corporate approved investments in R&D-related ventures.
+47
+Table of Contents
+Environmental: Reserves for liabilities related to anticipated environmental-remediation costs are recorded when they are probable and reasonably estimable, generally no later than the completion of feasibility studies, the Company's commitment to a plan of action, or approval by regulatory agencies. Environmental costs for capital projects that contribute to current or future operations generally are capitalized and depreciated over their estimated useful lives.
+Income taxes: The provision for income taxes is determined using the asset and liability approach. Under this approach, deferred income taxes represent the expected future tax consequences of temporary differences between the carrying amounts and tax basis of assets and liabilities. The Company records a valuation allowance to reduce its deferred tax assets when uncertainty regarding their realizability exists. The Company recognizes and measures its uncertain tax positions based on the rules under ASC 740, Income Taxes .
+Stock-based compensation: The Company recognizes compensation expense for its stock-based compensation programs, which include stock options, restricted stock, restricted stock units (RSUs), performance shares, and the General Employees' Stock Purchase Plan (GESPP). Under applicable accounting standards, the fair value of share-based compensation is determined at the grant date and the recognition of the related expense is recorded over the period in which the share-based compensation vests.
+Derivatives and Hedging Activities: All derivative instruments within the scope of ASC 815, Derivatives and Hedging , are recorded on the balance sheet at fair value. All hedging instruments that qualify for hedge accounting are designated and effective as hedges, in accordance with U.S. GAAP. Instruments that do not qualify for hedge accounting are adjusted to fair value with changes recognized in current earnings. Cash flows associated with derivative instruments are classified in the statement of cash flows in the same category as the cash flows from the items subject to designated hedge or undesignated (economic) hedge relationships. The Company does not hold or issue derivative financial instruments for trading purposes and is not a party to leveraged derivatives. See Note 15 for more information on the Company's derivative instruments and hedging programs.
+Fair Value Measurements: 3M follows ASC 820, Fair Value Measurements and Disclosures , with respect to assets and liabilities that are measured at fair value on both a recurring and nonrecurring basis.
+Fair value is defined as the exit price, or the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The standard establishes a hierarchy for inputs used in measuring fair value that maximizes the use of observable inputs and minimizes the use of unobservable inputs by requiring that observable inputs be used when available. Observable inputs are inputs market participants would use in valuing the asset or liability, developed from sources independent of the Company. Unobservable inputs are inputs that reflect the Company's assumptions about the factors market participants would use in valuing the asset or liability, based on the best information available under the circumstances.
+The hierarchy is broken down into three levels:
+Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or liabilities.
+Level 2 inputs include quoted prices for similar assets or liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active, and inputs (other than quoted prices) that are observable for the asset or liability, either directly or indirectly.
+Level 3 inputs are unobservable inputs for the asset or liability.
+Categorization within the valuation hierarchy is based upon the lowest level of input that is significant to the fair value measurement.
+Leases: 3M determines if an arrangement is a lease at inception by establishing whether the contract conveys the right to control the use of an identified asset for a period of time in exchange for consideration. 3M has determined that certain service agreements that contain the right to use an underlying asset are not leases, as 3M does not control how and for what purpose the identified asset is used.
+Operating lease right-of-use assets and liabilities are recognized as of the commencement date based on the present value of lease payments over the lease term. The discount rate used is 3M's incremental borrowing rate or, if available, the rate implicit in the lease. 3M determines the incremental borrowing rate for leases using a portfolio approach based primarily on the lease term and the economic environment of the relevant country or region.
+As a lessee, the Company leases distribution centers, office space, land, and equipment. Certain 3M lease agreements include rental payments that are adjusted annually based on changes in an inflation index. 3M's leases do not contain material residual value guarantees or material restrictive covenants. Lease expense is recognized on a straight-line basis over the lease term.
+Certain leases include one or more options to renew, with terms that can extend the lease term by up to five years . 3M includes options to renew the lease as part of the right of use lease asset and liability when it is reasonably certain the Company will exercise the option. In addition, certain leases contain fair value purchase and termination options with an associated penalty. In general, 3M is not reasonably certain to exercise such options.
+48
+Table of Contents
+For the measurement and classification of its lease agreements, 3M groups lease and non-lease components into a single lease component for all underlying asset classes. Variable lease payments primarily include payments for non-lease components such as maintenance costs, payments for leased assets used beyond their noncancellable lease term as adjusted for contractual options to terminate or renew; additional payments related to a subsequent adjustment in an inflation index; and payments for non-components such as sales tax. Certain 3M leases contain immaterial variable lease payments that are based on production volume.
+Related Party Activity: 3M does not have any material related party activity.
+New Accounting Pronouncements:
+In December 2023, the Financial Accounting Standards Board (FASB) issued ASU No. 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures. This ASU primarily requires disaggregated annual information about a company's effective tax rate reconciliation and income taxes paid. 3M adopted this ASU prospectively beginning with 2025 and the additional disclosure is included in Note 9.
+The table below provides summaries of applicable new accounting pronouncements issued, but not yet adopted by 3M.
+Standards issued and not yet adopted
+Standard Relevant description
+Effective date for 3M
+Impact and other matters
+ASU No. 2024-03, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses
+Issued in November 2024. Requires new disclosures providing further detail of a company's income statement expense line items. Year-end December 31, 2027 As this ASU relates to disclosures only, there will be no impact to 3M's consolidated results of operations and financial condition.
+ASU No. 2025-05, Financial Instruments Credit Losses (Topic 326): Measurement of Credit Losses for Accounts Receivable and Contract Assets
+Issued in July 2025. Provides an optional practical expedient for estimating future credit losses based on
+current conditions as of the balance sheet date and assuming those conditions do not change over the remaining life of the accounts receivable. January 1, 2026 3M does not expect this ASU to have a material impact on consolidated results of operations and financial condition.
+ASU No. 2025-06, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software
+Issued in September 2025. Removes references to prescriptive software development stages and includes an updated framework for capitalizing internal software costs in an agile environment. January 1, 2028 3M is currently evaluating this ASU's impact on consolidated results of operations and financial condition.
+ASU No. 2025-09, Derivatives and Hedging (Topic 815): Hedge Accounting Improvements
+Issued in November 2025. Improves alignment of hedge accounting with risk management activities and provides guidance regarding five specific hedge accounting issues. January 1, 2027 3M does not expect this ASU to have a material impact on consolidated results of operations and financial condition.
+ASU No. 2025-10, Government Grants (Topic 832): Accounting for Government Grants Received by
+Business Entities
+Issued in December 2025. Provides recognition, measurement, and presentation guidance, as well as additional disclosure requirements, for government grants. January 1, 2029 3M is currently evaluating this ASU's impact on consolidated results of operations and financial condition.
+ASU No. 2025-11, Interim Reporting (Topic 270): Narrow-Scope Improvements
+Issued in December 2025. Clarifies the applicability of interim reporting guidance, the types of interim reporting, and the required form and content of interim financial statements. January 1, 2028 As this ASU relates to disclosures only, there will be no impact to 3M's consolidated results of operations and financial condition.
+49
+Table of Contents
+Note 2. Discontinued Operations
+On April 1, 2024, 3M completed the separation of its Health Care business (the Separation) through a pro rata distribution of 80.1 % of the outstanding shares of Solventum Corporation (Solventum) to 3M stockholders. The spin-off transaction was intended to be tax-free for U.S. federal income tax purposes. To reflect the completion of the spin, 3M recorded a decrease in shareholders equity for the net book value of applicable assets and liabilities included in the Separation, net of the book value of 3M's retained ownership. As a result, Solventum became an independent public company, 3M no longer consolidated Solventum into 3M's financial results and the historical net income of Solventum and applicable assets and liabilities included in the Separation were reported in 3M's consolidated financial statements as discontinued operations. Following the Separation, as 3M no longer controls or has the ability to exert significant influence over Solventum, 3M measures, at fair value on a recurring basis, its retained ownership interest in Solventum common stock (see additional information in Note 7).
+The Company entered into various agreements to effect the Separation and provide for the relationship between 3M and Solventum, including, among others, a separation and distribution agreement; a tax matters agreement; and transition service, distribution, and contract manufacturing agreements; as well as certain commercial supply agreements. The transition service and distribution agreements have overall terms of two years following the Separation and each may be extended an additional year. The transition contract manufacturing agreement's term is three years with an ability to extend under certain circumstances. Supply agreements, by which each company may provide product to the other, have initial three-year terms, but may extend for particular products up to ten or twelve years following the Separation, under certain circumstances. In addition, the companies had certain amounts due between them as of the Separation date.
+3M continuing involvement with Solventum in the form of net sales under supply agreements and income from transition agreements is reflected in amounts disclosed in "Corporate and Other" in Note 20. Supply agreements are reflected as net sales and associated costs while transition agreement income is recorded as a direct offset to associated costs within selling, general and administrative expenses. Solventum transition agreement income for 2025 was approximately $ 150 million (approximately $ 0.7 billion gross fees, net of assigned costs). Solventum transition agreement income for 2024 was approximately $ 50 million, (approximately $ 0.6 billion gross fees, net of assigned costs). Transition services or purchases from Solventum are not material to 3M. Amounts due from Solventum and amounts due to Solventum under the agreements referenced above were approximately $ 0.4 billion and $ 0.1 billion, respectively, as of December 31, 2025. Amounts due from Solventum and amounts due to Solventum under the agreements referenced above were approximately $ 0.4 billion and $ 0.2 billion, respectively, as of due from December 31, 2024.
+Information regarding net income from discontinued operations, net of taxes includes the following:
+Net income from discontinued operations, net of taxes (millions)
+2024 2023
+Net sales
+$ 1,987 $ 8,071
+Cost of sales 844 3,494
+Other operating expenses
+837 3,016
+Other expense (income), net
+44 ( 22 )
+Income from discontinued operations before income taxes
+262 1,583
+Provision for income taxes 98 176
+Net income from discontinued operations, net of taxes
+$ 164 $ 1,407
+Cash flows related to discontinued operations have not been segregated, and are included in the Consolidated Statement of Cash Flows for all applicable periods presented. Selected financial information related to cash flows from discontinued operations is below.
+Selected cash flow information from discontinued operations (millions)
+2024 2023
+Depreciation and amortization $ 139 $ 554
+Purchases of PP&E
+77 227
+50
+Table of Contents
+Note 3. Revenue
+Disaggregated Revenue Information: The Company views the following disaggregated disclosures as useful to understanding the composition of revenue recognized during the respective reporting periods:
+Net sales (millions)
+2025 2024 2023
+Abrasives $ 1,340 $ 1,295 $ 1,327
+Automotive Aftermarket 1,178 1,235 1,237
+Electrical Markets 1,394 1,274 1,259
+Industrial Adhesives and Tapes 2,266 2,104 2,051
+Industrial Specialties Division
+1,172 1,161 1,206
+Personal Safety 3,544 3,371 3,382
+Roofing Granules 490 521 494
+Total Safety and Industrial Business segment
+11,384 10,961 10,956
+Advanced Materials 858 969 1,167
+Automotive and Aerospace 1,901 1,912 1,925
+Commercial Branding and Transportation
+2,602 2,528 2,546
+Electronics 2,911 2,971 2,863
+Total Transportation and Electronics Business segment
+8,272 8,380 8,501
+Consumer Safety and Well-Being 1,108 1,080 1,096
+Home and Auto Care 1,200 1,191 1,260
+Home Improvement 1,486 1,486 1,448
+Packaging and Expression 1,126 1,174 1,222
+Total Consumer Business segment
+4,920 4,931 5,026
+Corporate and Other
+372 303 127
+Total Company
+$ 24,948 $ 24,575 $ 24,610
+Net sales by geographic area (millions)
+2025 2024 2023
+Americas $ 13,579 $ 13,405 $ 13,268
+Asia Pacific 7,095 6,994 7,068
+Europe, Middle East and Africa 4,274 4,176 4,274
+Worldwide $ 24,948 $ 24,575 $ 24,610
+Net sales by particular country (millions)
+2025 2024 2023
+United States
+$ 10,936 $ 10,788 $ 10,607
+China/Hong Kong
+2,951 2,824 2,625
+51
+Table of Contents
+Note 4. Divestitures
+2025 Divestitures and Previously Announced Divestitures: In June 2025, 3M completed the sale of its fused silica business, formerly part of the Transportation and Electronics business, for immaterial proceeds slightly below the business's book value.
+In September 2025, 3M agreed to sell its precision grinding and finishing business, within the Safety and Industrial business. The transaction is expected to close in the first half of 2026, subject to customary closing conditions. In the third quarter of 2025, this business was classified as held for sale. In 2025, 3M recorded a pre-tax charge of $ 159 million for the initial excess of its carrying value over its selling price less cost to sell and subsequent changes therein. Selling price does not involve proceeds, but a balance of cash, subject to closing and other adjustments, is to be left in the transferring business. This charge was reported within Corporate and Other and reflected in loss on business divestitures on the consolidated statement of income. The business has annual sales of approximately $ 130 million and its operating income, excluding the charge reflected in Corporate and Other, was not material.
+The below summarizes the carrying amounts of the major classes of assets and liabilities classified as held for sale in the consolidated balance sheet:
+(Millions) December 31, 2025
+Assets held for sale
+Cash and cash equivalents $ 46
+Inventories 27
+Property, plant and equipment — net 96
+Other assets 18
+Valuation allowance on assets held for sale ( 141 )
+Total assets held for sale $ 46
+Liabilities held for sale
+Pension and postretirement benefits $ ( 23 )
+Other liabilities ( 14 )
+Valuation allowance on liabilities held for sale ( 18 )
+Total liabilities held for sale $ ( 55 )
+2024 Divestitures: On April 1, 2024, 3M completed the separation of its Health Care business (the Separation) through a pro rata distribution of 80.1 % of the outstanding shares of Solventum Corporation (Solventum) to 3M stockholders. See Note 2 for additional detail, including information regarding reporting the historical net income of Solventum included in the Separation in 3M's consolidated financial statements as discontinued operations.
+2023 Divestitures: In 2023, 3M completed the sale of its dental local anesthetic business, formerly part of Corporate and Other, for approximately $ 60 million in cash. The transaction, net of a loss associated with a contingent indemnification obligation from an earlier divestiture, resulted in a net pre-tax gain of $ 36 million.
+Note 5. Goodwill and Intangible Assets
+Goodwill: The change in the carrying amount of goodwill by business segment was as follows:
+(Millions) Safety and Industrial Transportation and Electronics Consumer Corporate and Other Total Company
+Balance as of December 31, 2023
+$ 4,542 $ 1,512 $ 270 $ 58 $ 6,382
+Translation and other (a)
+( 73 ) ( 16 ) ( 12 ) — ( 101 )
+Balance as of December 31, 2024
+4,469 1,496 258 58 6,281
+Translation and other (a)
+102 29 7 — 138
+Balance as of December 31, 2025
+$ 4,571 $ 1,525 $ 265 $ 58 $ 6,419
+(a) The amounts in the "Translation and other" primarily relate to changes in foreign currency exchange rates.
+As of December 31, 2025, the Company's accumulated goodwill impairment loss is $ 0.3 billion. The Company completed its annual goodwill impairment test for all reporting units in the fourth quarter of 2025 and determined that no impairment existed.
+52
+Table of Contents
+Acquired Intangible Assets: The carrying amount and accumulated amortization of the Company's acquired finite-lived intangible assets, along with their original useful lives, and the balances of non-amortizable intangible assets, are presented below:
+Estimated weighted average useful life
+December 31, 2025 December 31, 2024
+(Millions) Gross carrying amount
+Accumulated amortization
+Net carrying amount
+Gross carrying amount Accumulated amortization Net carrying amount
+Finite-lived intangible assets
+Customer related
+14 years $ 1,239 $ ( 925 ) $ 1,319 $ ( 935 )
+Patents and technology
+9 years 573 ( 544 ) 578 ( 535 )
+Definite-lived tradenames
+16 years 482 ( 318 ) 487 ( 300 )
+Other
+7 years 47 ( 30 ) 47 ( 30 )
+Total
+$ 2,341 $ ( 1,817 ) $ 524 $ 2,431 $ ( 1,800 ) $ 631
+Indefinite lived intangible assets (b)
+579 579
+Total intangible assets
+$ 1,103 $ 1,210
+(b) Indefinite lived intangible assets primarily consists of certain tradenames acquired by 3M that are not amortized because they have existed for over 60 years, maintain leading-market share positions, are continuously renewed, and are associated with products expected to generate cash flows for 3M for an indefinite period.
+Amortization expense follows:
+(Millions) 2025 2024 2023
+Amortization expense $ 104 $ 108 $ 127
+Expected amortization expense for acquired amortizable intangible assets recorded as of December 31, 2025 follows:
+(Millions) 2026 2027 2028 2029 2030 After 2030
+Amortization expense $ 99 $ 84 $ 59 $ 57 $ 57 $ 168
+Note 6. Restructuring Actions
+Transformation Costs: 3M began a transformation program in 2025 intended as a structural redesign of longer-term manufacturing, distribution, and business process services and locations. Management approved and committed to undertake related initial restructuring actions. Associated pre-tax restructuring charges in 2025 were $ 51 million, reflected in Corporate and Other (see Note 20) and primarily impacting selling, general and administrative expenses and cost of sales. Employee-related charges were $ 35 million and asset-related and other charges were $ 16 million. The balance of accrued restructuring liability as of December 31, 2025 was $ 25 million. Additional actions are expected and are subject to management's future approval and commitment.
+2023 to 2025 Structural Reorganization Actions: In 2023, 3M announced it would undertake structural reorganization actions to reduce the size of the corporate center of the Company, simplify the supply chain, streamline 3M's geographic footprint, reduce layers of management, further align business go-to-market models to customers, and reduce manufacturing roles to align with production volumes. Beginning in the first quarter of 2023 and ending largely in the second quarter of 2025, management approved and committed to undertake associated actions that impacted approximately seven thousand positions worldwide (as updated to exclude discontinued operations) resulting in pre-tax charges as indicated in the table below. Remaining activities related to approved and committed actions were largely completed in 2025.
+The related restructuring charges for periods presented were recorded in the income statement as follows:
+(Millions) 2025 2024 2023
+Cost of sales $ 1 $ 30 $ 89
+Selling, general and administrative expenses 20 142 295
+Research, development and related expenses — 15 31
+Total operating income impact $ 21 $ 187 $ 415
+53
+Table of Contents
+The business segment operating income impact of these restructuring charges is summarized as follows:
+2025 2024 2023
+(Millions) Employee related Employee related Asset-related and other Total Employee related Asset-related and other Total
+Safety and Industrial $ 10 $ 72 $ 15 $ 87 $ 89 $ — $ 89
+Transportation and Electronics 7 36 9 45 62 — 62
+Consumer 4 22 13 35 26 — 26
+Corporate and Other — 6 14 20 171 67 238
+Total operating expense $ 21 $ 136 $ 51 $ 187 $ 348 $ 67 $ 415
+Restructuring actions, including cash and non-cash impacts, follow:
+2025 2024
+Accrued restructuring action balance (millions) Employee-related Employee-related Asset-related and other Total
+Balance at beginning of year $ 80 $ 99 $ — $ 99
+Incremental expense incurred 21 136 51 187
+Non-cash changes — — ( 51 ) ( 51 )
+Adjustments ( 14 ) 6 — 6
+Cash payments ( 77 ) ( 161 ) — ( 161 )
+Balance at end of year $ 10 $ 80 $ — $ 80
+2023 to 2025 PFAS Exit Restructuring Actions: 3M announced in 2022 that it would exit all PFAS manufacturing by the end of 2025 and began related workforce actions in 2023. During 2025, 2024 and 2023, 3M management approved and committed to undertake employee-related actions resulting in pre-tax charges of $ 9 million, $ 66 million, and $ 64 million, respectively, and made related payments resulting in accrued restructuring balances of $ 65 million and $ 86 million as of December 31, 2025 and 2024, respectively. These charges were reflected within the Transportation and Electronics business segment and primarily impacted cost of sales and selling, general and administrative expenses. This initiative, beginning in 2023 through committed 2025 actions, impacted approximately 1,200 positions worldwide.
+Note 7. Supplemental Income Statement Information
+Other expense (income), net consists of the following:
+(Millions) 2025 2024 2023
+Interest expense (a)
+$ 946 $ 1,191 $ 941
+Interest income ( 232 ) ( 452 ) ( 250 )
+Pension and postretirement net periodic benefit cost (benefit) (b)
+104 828 ( 109 )
+Solventum ownership - change in value (c)
+( 402 ) ( 1,564 ) —
+Total $ 416 $ 3 $ 582
+(a) Interest expense includes $ 448 million, $ 472 million and $ 565 million in 2025, 2024, 2023, respectively, related to outstanding debt. Interest expense in the table above also includes imputed interest associated with the obligations resulting from the PWS Settlement, New Jersey Settlement, and CAE Settlement (all discussed in Note 17).
+(b) Pension and postretirement net periodic benefit income described in the table above includes all components of defined benefit plan net periodic benefit cost (benefit) except service cost, which is reported in various operating expense lines. Refer to Note 13 for additional details on the components of pension and postretirement net periodic benefit cost (benefit).
+(c) Solventum ownership - change in value relates to the change in value of 3M's retained ownership interest in common stock of Solventum Corporation, an independent public company. Solventum separated from 3M in April 2024 (discussed in Note 2). As of December 31, 2025 and 2024 the balance of unrealized gain on this investment was $ 1.5 billion and $ 1.6 billion, respectively.
+Note 8. Supplemental Equity and Comprehensive Income Information
+Common stock ($ .01 par value per share) of 3 billion shares is authorized. Preferred stock, without par value, of 10 million shares is authorized but unissued. Supplemental share information is provided below.
+Treasury stock summary (shares)
+2025 2024 2023
+Balance at beginning of year
+404,562,753 391,451,920 394,787,951
+Reacquired stock 21,856,544 14,954,620 290,379
+Issuances pursuant to stock options and benefit plans ( 12,665,372 ) ( 1,843,787 ) ( 3,626,410 )
+Balance at end of year
+413,753,925 404,562,753 391,451,920
+54
+Table of Contents
+The table below presents the changes in accumulated other comprehensive income (loss) attributable to 3M (AOCI), including the reclassifications out of AOCI by component:
+(Millions) Cumulative translation adjustment
+Defined benefit pension and postretirement plans adjustment
+Cash flow hedging instruments, unrealized gain (loss) (a)
+Total accumulated other comprehensive income (loss)
+Balance at December 31, 2022, net of tax:
+$ ( 2,828 ) $ ( 3,838 ) $ ( 7 ) $ ( 6,673 )
+Other comprehensive income (loss), before tax:
+Amounts before reclassifications 277 ( 763 ) 81 ( 405 )
+Amounts reclassified out 54 252 ( 143 ) 163
+Total other comprehensive income (loss), before tax 331 ( 511 ) ( 62 ) ( 242 )
+Tax effect (b)
+( 9 ) 131 15 137
+Total other comprehensive income (loss), net of tax 322 ( 380 ) ( 47 ) ( 105 )
+Balance at December 31, 2023, net of tax:
+$ ( 2,506 ) $ ( 4,218 ) $ ( 54 ) $ ( 6,778 )
+Other comprehensive income (loss), before tax:
+Amounts before reclassifications ( 563 ) 123 128 ( 312 )
+Amounts reclassified out 38 1,127 ( 78 ) 1,087
+Total other comprehensive income (loss), before tax ( 525 ) 1,250 50 775
+Tax effect (b)
+14 ( 315 ) ( 11 ) ( 312 )
+Total other comprehensive income (loss), net of tax ( 511 ) 935 39 463
+Solventum spin-off 64 520 — 584
+Balance at December 31, 2024, net of tax:
+$ ( 2,953 ) $ ( 2,763 ) $ ( 15 ) $ ( 5,731 )
+Other comprehensive income (loss), before tax:
+Amounts before reclassifications 347 88 ( 77 ) 358
+Amounts reclassified out — 304 ( 28 ) 276
+Total other comprehensive income (loss), before tax 347 392 ( 105 ) 634
+Tax effect (b)
+86 ( 91 ) 22 17
+Total other comprehensive income (loss), net of tax 433 301 ( 83 ) 651
+Solventum spin-off — 11 — 11
+Balance at December 31, 2025, net of tax:
+$ ( 2,520 ) $ ( 2,451 ) $ ( 98 ) $ ( 5,069 )
+(a) Based on exchange rates as of December 31, 2025, 3M expects to reclassify an immaterial amount of after-tax net unrealized loss over the next 12 months (with the impact offset by earnings/losses from underlying hedged items) of the total after-tax net unrealized balance.
+(b) Includes tax expense (benefit) reclassified out of AOCI related to the following:
+(Millions) 2025 2024 2023
+Cumulative translation adjustment $ — $ — $ —
+Defined benefit pension and postretirement plans adjustment ( 71 ) ( 268 ) ( 60 )
+Cash flow hedging instruments
+6 18 33
+Income taxes are not provided for foreign translation relating to permanent investments in international subsidiaries, but tax effects within cumulative translation do include impacts from items such as net investment hedge transactions. The Company uses the portfolio approach for releasing income tax effects from accumulated other comprehensive income.
+Additional details on the amounts reclassified from accumulated other comprehensive income (loss) into consolidated income include:
+Cumulative translation adjustment: amounts were reclassified into selling, general and administrative expense. These were associated with certain country exits in 2024 and 2023.
+Defined benefit pension and postretirement plan adjustments: amounts were reclassified into other (expense) income, net (see Note 13).
+Cash flow hedging instruments, realized gain (loss): amounts from foreign currency forward/option contacts were reclassified into cost of sales, while amounts from interest rate contracts were reclassified into interest expense (see Note 15).
+The tax effects, if applicable, associated with these reclassifications were reflected in provision for income taxes.
+55
+Table of Contents
+Note 9. Income Taxes
+Income (loss) from continuing operations before income taxes consisted of the following:
+(Millions) 2025 2024 2023
+United States $ 1,870 $ 2,300 $ ( 13,272 )
+International 2,343 2,519 2,001
+Total $ 4,213 $ 4,819 $ ( 11,271 )
+Provision (benefit) for income taxes consisted of the following:
+(Millions) 2025 2024 2023
+Current
+Federal $ ( 11 ) $ ( 75 ) $ 302
+State ( 1 ) ( 6 ) 38
+International 597 583 494
+Deferred
+Federal 307 328 ( 3,084 )
+State 21 1 ( 495 )
+International 90 ( 27 ) ( 122 )
+Total $ 1,003 $ 804 $ ( 2,867 )
+Cash income tax payments, net of refunds, consisted of the following:
+(Millions) 2025 2024 2023
+Federal $ 211
+State 28
+International 561
+China 134
+India
+44
+Korea 44
+Other international 339
+Total $ 800 $ 852 $ 1,384
+The 2017 Tax Cuts and Jobs Act (TCJA) involved a transition tax that is payable over eight years beginning in 2018. As of December 31, 2024, 3M reflected $ 211 million payable within one year associated with the transition tax. The Company made the final payment in 2025.
+A reconciliation of the U.S. federal statutory income tax rate to 3M's worldwide effective income tax rate is provided below:
+2025
+(Millions) Amount Percent
+U.S. federal statutory tax rate $ 885 21.0 %
+State and local income taxes, net of federal income tax effect (a)
+26 0.6
+Foreign tax effects 212 5.0
+Effect of cross-border tax laws
+Global intangible low-taxed income (net of foreign tax credits) 100 2.4
+Other ( 71 ) ( 1.7 )
+Tax credits ( 44 ) ( 1.0 )
+Changes in valuation allowances ( 87 ) ( 2.1 )
+Nontaxable or nondeductible items 32 0.8
+Changes in unrecognized tax benefits ( 50 ) ( 1.2 )
+Effective worldwide tax rate $ 1,003 23.8 %
+(a) State taxes in California, Florida, Iowa, Massachusetts, New York, Virginia and Wisconsin made up the majority (greater than 50 percent) of this category.
+56
+Table of Contents
+2024 2023 (b)
+Statutory U.S. tax rate 21.0 % 21.0 %
+State income taxes - net of federal benefit 0.6 3.2
+International income taxes - net (c)
+2.1 0.6
+Global intangible low taxed income (GILTI) 0.6 ( 0.3 )
+Foreign derived intangible income (FDII) ( 0.3 ) 0.6
+U.S. research and development credit ( 0.7 ) 0.4
+Reserves for tax contingencies 0.6 ( 0.4 )
+Employee share-based payments 0.4 —
+Change in valuation allowance on Solventum ownership ( 7.7 ) —
+All other - net 0.1 0.3
+Effective worldwide tax rate 16.7 % 25.4 %
+(b) A positive rate reconciliation percent for the year ended 2023 is a tax benefit on a pretax loss.
+(c) International income taxes include tax expense associated with international earnings no longer considered permanently reinvested.
+The primary factors that impacted the 2025 effective tax rate when compared to 2024 were the tax impact of 3M's retained ownership interest in Solventum and net costs of significant litigation. The primary factors that impacted the 2024 rate when compared to 2023 were the effective tax rate benefit on the change in value of 3M's retained ownership interest in Solventum offset by the effective tax rate on the PWS Settlement and the CAE Settlement (as discussed in Note 17), including 3M's related decision in the fourth quarter of 2024 to defer certain deductions and accelerate income for tax purposes.
+As described in Note 2, the Company completed the spin-off of its Health Care business through a pro rata distribution of 80.1 % of the outstanding shares of Solventum Corporation to 3M stockholders. The Company determined that the spin-off, and certain related internal separation transactions qualified as tax-free transactions under U.S. federal tax law, supported by an Internal Revenue Service (IRS) private letter ruling, third party tax opinions, and

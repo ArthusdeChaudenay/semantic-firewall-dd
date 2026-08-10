@@ -1,0 +1,648 @@
+Inventories - Provisions for Excess or Obsolete Inventories and Excess Product Purchase Commitments
+As described in Notes 1, 9, and 12 to the consolidated financial statements, the Company charges cost of sales for inventory provisions to write-down inventory for excess or obsolete inventory and for excess product purchase commitments. Most of the Company's inventory provisions relate to excess quantities of products, based on the Company's inventory levels and future product purchase commitments compared to assumptions about future demand including the impact of market conditions such as regulatory export restrictions on their products. As of January 25, 2026, the Company's consolidated inventories balance was $21.4 billion and the Company's consolidated outstanding inventory purchase and long-term supply and capacity obligations balance was $95.2 billion, of which a significant portion relates to inventory purchase obligations.
+The principal considerations for our determination that performing procedures relating to the valuation of inventories, specifically the provisions for excess or obsolete inventories and excess product purchase commitments, is a critical audit matter are the significant judgment by management when developing provisions for excess or obsolete inventories and excess product purchase commitments, including developing assumptions related to future demand and market conditions. This in turn led to significant auditor judgment, subjectivity, and effort in performing procedures and evaluating management's assumptions related to future demand and market conditions.
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to management's provisions for excess or obsolete inventories and excess product purchase commitments, including controls over management's assumptions related to future demand and market conditions. These procedures also included, among others, testing management's process for developing the provisions for excess or obsolete inventories and excess product purchase commitments; evaluating the appropriateness of management's approach; testing the completeness and accuracy of underlying data used in the approach; and evaluating the reasonableness of management's assumptions related to future demand and market conditions. Evaluating management's assumptions related to future demand and market conditions involved evaluating whether the assumptions used by management were reasonable considering (i) current and past results, including historical product life cycle, (ii) the consistency with external market and industry data, and (iii) changes in technology.
+/s/ PricewaterhouseCoopers LLP
+San Jose, California
+February 25, 2026
+We have served as the Company's auditor since 2004.
+50
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Consolidated Statements of Income
+(In millions, except per share data)
+Year Ended
+Jan 25, 2026 Jan 26, 2025 Jan 28, 2024
+Revenue $ 215,938 $ 130,497 $ 60,922
+Cost of revenue 62,475 32,639 16,621
+Gross profit 153,463 97,858 44,301
+Operating expenses
+Research and development 18,497 12,914 8,675
+Sales, general and administrative 4,579 3,491 2,654
+Total operating expenses 23,076 16,405 11,329
+Operating income 130,387 81,453 32,972
+Interest income 2,300 1,786 866
+Interest expense ( 259 ) ( 247 ) ( 257 )
+Other income, net
+9,022 1,034 237
+Total other income, net
+11,063 2,573 846
+Income before income tax 141,450 84,026 33,818
+Income tax expense 21,383 11,146 4,058
+Net income $ 120,067 $ 72,880 $ 29,760
+Net income per share:
+Basic $ 4.93 $ 2.97 $ 1.21
+Diluted $ 4.90 $ 2.94 $ 1.19
+Weighted average shares used in per share computation:
+Basic 24,359 24,555 24,690
+Diluted 24,514 24,804 24,940
+See accompanying Notes to the Consolidated Financial Statements.
+51
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Consolidated Statements of Comprehensive Income
+(In millions)
+Year Ended
+Jan 25, 2026 Jan 26, 2025 Jan 28, 2024
+Net income $ 120,067 $ 72,880 $ 29,760
+Other comprehensive income, net of tax
+Available-for-sale securities:
+Net change in unrealized gain 107 1 80
+Cash flow hedges:
+Net change in unrealized gain (loss) 43 — ( 10 )
+Other comprehensive income, net of tax 150 1 70
+Total comprehensive income $ 120,217 $ 72,881 $ 29,830
+See accompanying Notes to the Consolidated Financial Statements.
+52
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Consolidated Balance Sheets
+(In millions, except par value)
+Jan 25, 2026 Jan 26, 2025
+Assets
+Current assets:
+Cash and cash equivalents $ 10,605 $ 8,589
+Marketable securities 51,951 34,621
+Accounts receivable, net 38,466 23,065
+Inventories 21,403 10,080
+Prepaid expenses and other current assets 3,180 3,771
+Total current assets 125,605 80,126
+Property and equipment, net 10,383 6,283
+Operating lease assets 2,867 1,793
+Goodwill 20,832 5,188
+Intangible assets, net 3,306 807
+Deferred income tax assets 13,258 10,979
+Non-marketable equity securities
+22,251 3,387
+Other assets 8,301 3,038
+Total assets $ 206,803 $ 111,601
+Liabilities and Shareholders' Equity
+Current liabilities:
+Accounts payable $ 9,812 $ 6,310
+Accrued and other current liabilities 21,352 11,737
+Short-term debt 999 —
+Total current liabilities 32,163 18,047
+Long-term debt 7,469 8,463
+Long-term operating lease liabilities 2,572 1,519
+Other long-term liabilities 7,306 4,245
+Total liabilities 49,510 32,274
+Commitments and contingencies - see Note 12
+— —
+Shareholders' equity:
+Preferred stock, $ 0.001 par value; 2 shares authorized; none issued
+— —
+Common stock, $ 0.001 par value; 80,000 shares authorized; 24,304 shares issued and outstanding as of January 25, 2026; 24,477 shares issued and outstanding as of January 26, 2025
+24 24
+Additional paid-in capital 10,118 11,237
+Accumulated other comprehensive income 178 28
+Retained earnings 146,973 68,038
+Total shareholders' equity 157,293 79,327
+Total liabilities and shareholders' equity $ 206,803 $ 111,601
+See accompanying Notes to the Consolidated Financial Statements.
+53
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Consolidated Statements of Shareholders' Equity
+Common Stock
+Outstanding Additional Paid-in Accumulated Other Comprehensive Retained Total Shareholders'
+Shares Amount Capital Income (Loss) Earnings Equity
+(In millions, except per share data)
+Balances as of Jan 29, 2023
+24,661 $ 25 $ 11,948 $ ( 43 ) $ 10,171 $ 22,101
+Net income — — — — 29,760 29,760
+Other comprehensive income — — — 70 — 70
+Issuance of common stock
+265 — 403 — — 403
+Tax withholding related to common stock
+( 72 ) — ( 2,783 ) — — ( 2,783 )
+Shares repurchased ( 211 ) — ( 27 ) — ( 9,719 ) ( 9,746 )
+Cash dividends declared and paid ($ 0.016 per common share)
+— — — — ( 395 ) ( 395 )
+Stock-based compensation — — 3,568 — — 3,568
+Balances as of Jan 28, 2024
+24,643 25 13,109 27 29,817 42,978
+Net income — — — — 72,880 72,880
+Other comprehensive income — — — 1 — 1
+Issuance of common stock
+203 — 490 — — 490
+Tax withholding related to common stock
+( 59 ) — ( 6,930 ) — — ( 6,930 )
+Shares repurchased ( 310 ) ( 1 ) ( 189 ) — ( 33,825 ) ( 34,015 )
+Cash dividends declared and paid ($ 0.034 per common share)
+— — — — ( 834 ) ( 834 )
+Stock-based compensation — — 4,757 — — 4,757
+Balances as of Jan 26, 2025
+24,477 24 11,237 28 68,038 79,327
+Net income — — — — 120,067 120,067
+Other comprehensive income — — — 150 — 150
+Issuance of common stock
+160 — 644 — — 644
+Tax withholding related to common stock
+( 51 ) — ( 7,948 ) — — ( 7,948 )
+Shares repurchased ( 282 ) — ( 230 ) — ( 40,158 ) ( 40,388 )
+Cash dividends declared and paid ($ 0.04 per common share)
+— — — — ( 974 ) ( 974 )
+Fair value of partially vested equity awards assumed in connection with
+acquisitions
+— — 28 — — 28
+Stock-based compensation — — 6,387 — — 6,387
+Balances as of Jan 25, 2026
+24,304 $ 24 $ 10,118 $ 178 $ 146,973 $ 157,293
+See accompanying Notes to the Consolidated Financial Statements.
+54
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Consolidated Statements of Cash Flows
+(In millions)
+Year Ended
+Jan 25, 2026 Jan 26, 2025 Jan 28, 2024
+Cash flows from operating activities:
+Net income $ 120,067 $ 72,880 $ 29,760
+Adjustments to reconcile net income to net cash provided by operating activities:
+Stock-based compensation expense 6,386 4,737 3,549
+Depreciation and amortization 2,843 1,864 1,508
+Gains on non-marketable equity securities and publicly-held equity securities, net ( 8,918 ) ( 1,030 ) ( 238 )
+Deferred income taxes ( 1,424 ) ( 4,477 ) ( 2,489 )
+Other ( 287 ) ( 502 ) ( 278 )
+Changes in operating assets and liabilities, net of acquisitions:
+Accounts receivable ( 15,399 ) ( 13,063 ) ( 6,172 )
+Inventories ( 11,324 ) ( 4,781 ) ( 98 )
+Prepaid expenses and other assets 577 ( 395 ) ( 1,522 )
+Accounts payable 3,096 3,357 1,531
+Accrued and other current liabilities 5,257 4,278 2,025
+Other long-term liabilities 1,844 1,221 514
+Net cash provided by operating activities 102,718 64,089 28,090
+Cash flows from investing activities:
+Proceeds from sales of marketable securities 15,157 495 50
+Proceeds from maturities of marketable securities 11,226 11,195 9,732
+Proceeds from sales of non-marketable equity securities 84 171 1
+Purchases of marketable securities ( 40,616 ) ( 26,575 ) ( 18,211 )
+Purchases of non-marketable equity securities ( 17,502 ) ( 1,486 ) ( 862 )
+Groq, Inc.
+( 13,000 ) — —
+Purchases related to property and equipment and intangible assets ( 6,042 ) ( 3,236 ) ( 1,069 )
+Acquisitions, net of cash acquired
+( 1,535 ) ( 1,007 ) ( 83 )
+Other — 22 ( 124 )
+Net cash used in investing activities ( 52,228 ) ( 20,421 ) ( 10,566 )
+Cash flows from financing activities:
+Proceeds related to employee stock plans 644 490 403
+Payments related to repurchases of common stock
+( 40,086 ) ( 33,706 ) ( 9,533 )
+Payments related to employee stock plan taxes
+( 7,948 ) ( 6,930 ) ( 2,783 )
+Dividends paid ( 974 ) ( 834 ) ( 395 )
+Principal payments on property and equipment and intangible assets ( 101 ) ( 129 ) ( 74 )
+Repayment of debt — ( 1,250 ) ( 1,250 )
+Other ( 9 ) — ( 1 )
+Net cash used in financing activities ( 48,474 ) ( 42,359 ) ( 13,633 )
+Change in cash and cash equivalents 2,016 1,309 3,891
+Cash and cash equivalents at beginning of period 8,589 7,280 3,389
+Cash and cash equivalents at end of period $ 10,605 $ 8,589 $ 7,280
+Supplemental disclosures of cash flow information:
+Cash paid for income taxes, net $ 20,288 $ 15,118 $ 6,549
+See accompanying Notes to the Consolidated Financial Statements.
+55
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+Note 1 - Organization and Summary of Significant Accounting Policies
+Our Company
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998.
+All references to "NVIDIA," "we," "us," "our" or the "Company" mean NVIDIA Corporation and its subsidiaries.
+Certain prior fiscal year balances have been reclassified to conform to the current fiscal year presentation. Non-marketable equity securities, previously presented within other assets, were reclassified to be presented separately on our consolidated balance sheets and had no impact to total assets or consolidated statement of cash flows.
+Fiscal Year
+We operate on a 52- or 53-week year, ending on the last Sunday in January. Fiscal years 2026, 2025 and 2024 were all 52-week years. Fiscal year 2027 will be a 53-week year with the fourth quarter consisting of 14 weeks.
+Principles of Consolidation
+Our consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation.
+Use of Estimates
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. Actual results could differ materially from our estimates. On an on-going basis, we evaluate our estimates, including those related to accounts receivable, cash equivalents and marketable securities, goodwill, income taxes, inventories and product purchase commitments, investigation and settlement costs, litigation, non-marketable equity securities, other contingencies, property, plant, and equipment, revenue recognition, and stock-based compensation. These estimates are based on historical facts and various other assumptions that we believe are reasonable.
+Revenue Recognition
+We derive our revenue primarily from product sales including hardware and systems. We determine revenue recognition through the following steps: (1) identification of the contract with a customer; (2) identification of the performance obligations in the contract; (3) determination of the transaction price; (4) allocation of the transaction price to the performance obligations in the contract (where revenue is allocated on a relative standalone selling price basis by maximizing the use of observable inputs to determine the standalone selling price for each performance obligation); and (5) recognition of revenue when, or as, we satisfy a performance obligation. Payment from customers, per our standard payment terms, is generally due shortly after delivery of our products.
+Product Sales Revenue
+Revenue from product sales is recognized upon transfer of control of products to customers in an amount that reflects the consideration we expect to receive in exchange for those products. Certain products are sold with support or an extended warranty. Support and extended warranty revenue are recognized ratably over the service period, or as services are performed. Revenue is recognized net of allowances for returns, customer programs and any taxes collected from customers.
+For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates. However, if product returns for a fiscal period are anticipated to exceed historical return rates, we may determine that additional sales return allowances are required to accurately reflect our estimated exposure for product returns.
+Our customer programs involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets, and MDFs which represent monies paid to our partners that are earmarked for market segment development and are designed to support our partners' activities while also promoting NVIDIA products. We account for customer programs as a reduction to revenue and accrue for such programs for potential rebates and MDFs based on the amount we expect to be claimed by customers.
+56
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+Contracts with Multiple Performance Obligations
+Our contracts may contain more than one deliverable, each of which is separately accounted for as a distinct performance obligation. We account for multiple agreements with a single customer as a single contract if the contractual terms and/or substance of those agreements indicate that they may be so closely related that they are, in effect, parts of a single contract.
+We allocate the total transaction price to each distinct performance obligation in an arrangement with multiple performance obligations on a relative standalone selling price basis. The standalone selling price reflects the price we would charge for a specific product or service if it were sold separately in similar circumstances and to similar customers. When determining standalone selling price, we maximize the use of observable inputs.
+Product Warranties
+We offer a limited warranty to end-users ranging from one to three years for products to repair or replace products for manufacturing defects or hardware component failures. Cost of revenue includes the estimated cost of product warranties that are calculated at the point of revenue recognition. Under limited circumstances, we may offer an extended limited warranty to customers for certain products. We also accrue for known warranty and indemnification issues if a loss is probable and can be reasonably estimated.
+Stock-based Compensation
+We use the closing trading price of our common stock on the date of grant, minus a dividend yield discount, as the fair value of awards of restricted stock units, or RSUs, and performance stock units, or PSUs, that are based on our corporate financial performance targets. We use a Monte Carlo simulation on the date of grant to estimate the fair value of PSUs that are based on our stock performance compared to market performance, or market-based PSUs. The compensation expense for RSUs and market-based PSUs is recognized using a straight-line attribution method over the requisite employee service period while compensation expense for PSUs is recognized using an accelerated amortization model based on performance targets probable of achievement. We estimate the fair value of shares to be issued under our employee stock purchase plan, or ESPP, using the Black-Scholes model at the commencement of an offering period in March and September of each year. Stock-based compensation for our ESPP is expensed using an accelerated amortization model. Additionally, for RSUs, PSUs, and market-based PSUs, we estimate expected forfeitures based on our historical forfeitures.
+Litigation, Investigation and Settlement Costs
+We currently are, and will likely continue to be subject to claims, litigation, and other actions, including potential regulatory proceedings, involving patent and other intellectual property matters, taxes, labor and employment, competition and antitrust, commercial disputes, goods and services offered by us and by third parties, and other matters. There are many uncertainties associated with any litigation or investigation, and we cannot be certain that these actions or other third-party claims against us will be resolved without litigation, fines and/or substantial settlement payments or judgments. If information becomes available that causes us to determine that a loss in any of our pending litigation, investigations or settlements is probable, and we can reasonably estimate the loss associated with such events, we will record the loss. However, the actual liability in any such litigation or investigation may be materially different from our estimates, which could require us to record additional costs. If we determine that a loss is reasonably possible and the loss or range of loss can be estimated, we disclose the reasonably possible loss.
+Foreign Currency Remeasurement
+We use the U.S. dollar as our functional currency for our subsidiaries. Foreign currency monetary assets and liabilities are remeasured into United States dollars at end-of-period exchange rates. Non-monetary assets and liabilities such as property and equipment and equity are remeasured at historical exchange rates. Revenue and expenses are remeasured at exchange rates in effect during each period, except for those expenses related to non-monetary balance sheet amounts, which are remeasured at historical exchange rates. Gains or losses from foreign currency remeasurement are included in earnings in our Consolidated Statements of Income and to date have not been significant.
+Income Taxes
+We recognize federal, state and foreign current tax liabilities or assets based on our estimate of taxes payable or refundable in the current fiscal year by tax jurisdiction. We recognize federal, state and foreign deferred tax assets or liabilities, as appropriate, for our estimate of future tax effects attributable to temporary differences and carryforwards; and we record a valuation allowance to reduce any deferred tax assets by the amount of any tax benefits that, based on available evidence and judgment, are not expected to be realized.
+Our calculation of deferred tax assets and liabilities is based on certain estimates and judgments and involves dealing with uncertainties in the application of complex tax laws. Our estimates of deferred tax assets and liabilities may change
+57
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+based, in part, on added certainty or finality to an anticipated outcome, changes in accounting standards or tax laws in the U.S., or foreign jurisdictions where we operate, or changes in other facts or circumstances. In addition, we recognize liabilities for potential U.S. and foreign income tax contingencies based on our estimate of whether, and the extent to which, additional taxes may be due. If we determine that payment of these amounts is unnecessary or if the recorded tax liability is less than our current assessment, we may be required to recognize an income tax benefit or additional income tax expense in our financial statements accordingly.
+As of January 25, 2026, we had a valuation allowance of $ 768 million related to capital loss carryforwards, and certain other deferred tax assets that management determined are not likely to be realized due, in part, to jurisdictional projections of future taxable income, including capital gains. To the extent realization of the deferred tax assets becomes more-likely-than-not, we would recognize such deferred tax assets as income tax benefits during the period.
+We recognize the benefit from a tax position only if it is more-likely-than-not that the position would be sustained upon audit based solely on the technical merits of the tax position. Our policy is to include interest and penalties related to unrecognized tax benefits as a component of income tax expense.
+Net Income Per Share
+Basic net income per share is computed using the weighted average number of common shares outstanding during the period. Diluted net income per share is computed using the weighted average number of common and potentially dilutive shares outstanding during the period, using the treasury stock method. Any anti-dilutive effect of equity awards outstanding is not included in the computation of diluted net income per share.
+Cash and Cash Equivalents and Marketable Securities
+We consider all highly liquid investments that are readily convertible into cash and have an original maturity of three months or less at the time of purchase to be cash equivalents. Marketable securities consist of highly liquid debt investments with maturities of greater than three months when purchased and publicly-held equity securities. We classify these investments as current or long term based on the nature of the investments and their availability for use in current operations.
+We record our debt investments as cash equivalents and marketable debt securities and classify them at the date of acquisition as available-for-sale. These available-for-sale debt securities are reported at fair value with the related unrealized gains and losses included in accumulated other comprehensive income or loss, a component of shareholders' equity, net of tax. The fair value of interest-bearing debt securities includes accrued interest. Realized gains and losses on the sale of marketable securities are determined using the specific-identification method and recorded in the Other income (expense), net, section of our Consolidated Statements of Income.
+Available-for-sale debt securities are subject to impairment review. If the estimated fair value of available-for-sale debt securities is less than its amortized cost basis, we determine if the difference, if any, is caused by expected credit losses and write-down the amortized cost basis of the securities if it is more likely than not we will be required or we intend to sell the securities before recovery of its amortized cost basis. Allowances for credit losses and write-downs are recognized in the Other income, net, net section of our Consolidated Statements of Income.
+Publicly-held equity securities and money market funds have readily determinable fair values with changes in fair value recorded in Other income, net.
+Fair Value of Financial Instruments
+The carrying value of cash equivalents, accounts receivable, accounts payable and accrued liabilities approximate their fair values due to their relatively short maturities as of January 25, 2026 and January 26, 2025. Marketable debt and equity securities are reported at fair value. Derivative instruments are recognized as either assets or liabilities and are measured at fair value. The accounting for changes in the fair value of a derivative depends on the intended use of the derivative and the resulting designation. For derivative instruments designated as accounting hedges, the effective portion of the gains or losses on the derivatives is initially reported as a component of other comprehensive income or loss and is subsequently recognized in earnings when the hedged exposure is recognized in earnings. For derivative instruments not designated as accounting hedges, changes in fair value are recognized in earnings.
+Financial instruments measured and disclosed at fair value are classified and disclosed based on the observability of inputs used in the determination of fair value as follows:
+Level 1: Observable inputs such as quoted prices in active markets.
+Level 2: Observable inputs other than Level 1 prices, such as quoted prices in less active markets or model-derived valuations that are observable either directly or indirectly.
+58
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+Level 3: Unobservable inputs in which there is little or no market data that are significant to the fair value of the assets or liabilities.
+Concentration of Credit Risk
+Financial instruments that potentially subject us to concentrations of credit risk consist primarily of cash equivalents, marketable securities, lease guarantees, and accounts receivable. Our investment policy requires the purchase of highly-rated fixed income securities, the diversification of investment type and credit exposures, and includes certain limits on our portfolio maturities. We perform ongoing credit evaluations of our customers' financial condition and maintain an allowance for potential credit losses. This allowance consists of an amount identified for specific customers and an amount based on overall estimated exposure. Our overall estimated exposure excludes amounts covered by credit insurance and letters of credit.
+Inventories
+Inventory cost is computed on an adjusted standard basis, which approximates actual cost on an average or first-in, first-out basis. Inventory costs consist of the cost of semiconductors, including wafer fabrication, assembly, testing and packaging, manufacturing support costs, including labor and overhead associated with such purchases, final test yield fallout, and shipping costs, as well as the cost of purchased memory products and other component parts. We charge cost of sales for inventory provisions to write-down our inventory to the lower of cost or net realizable value or for obsolete or excess inventory, and for excess product purchase commitments. Most of our inventory provisions relate to excess quantities of products, based on our inventory levels and future product purchase commitments compared to assumptions about future demand including the impact of regulatory export restrictions on our products. Once inventory has been written-off or written-down, it creates a new cost basis for the inventory that is not subsequently written-up. We record a liability for noncancelable purchase commitments with suppliers for quantities in excess of our future demand forecasts consistent with our valuation of obsolete or excess inventory.
+Property and Equipment
+Property and equipment are stated at cost less accumulated depreciation. Depreciation of property and equipment is computed using the straight-line method based on the estimated useful lives of the assets of two to seven years . Once an asset is identified for retirement or disposition, the related cost and accumulated depreciation or amortization are removed, and a gain or loss is recorded. The estimated useful lives of our buildings are up to thirty years . Depreciation expense includes the amortization of assets recorded under finance leases. Leasehold improvements and assets recorded under finance leases are amortized over the shorter of the expected lease term or the estimated useful life of the asset.
+Leases
+We determine if an arrangement is or contains a lease at inception. Operating leases with lease terms of more than 12 months are included in operating lease assets, accrued and other current liabilities, and long-term operating lease liabilities on our consolidated balance sheet. Operating lease assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments over the lease term. We combine lease and non-lease components for offices and data centers in determining the operating lease assets and liabilities.
+Operating lease assets and liabilities are recognized based on the present value of the remaining lease payments discounted using our incremental borrowing rate. Operating lease assets also include initial direct costs incurred and prepaid lease payments, minus any lease incentives. Our lease terms include options to extend or terminate the lease when it is reasonably certain that we will exercise that option. Lease costs are recognized on a straight-line basis over the lease term.
+Goodwill
+We allocate goodwill to reporting units based on the expected benefit from the business combination. Goodwill is subject to our annual impairment test during the fourth quarter of our fiscal year, or earlier if indicators of potential impairment exist. In completing our impairment test, we perform either a qualitative or a quantitative analysis on a reporting unit basis.
+Qualitative factors include industry and market considerations, overall financial performance, and other relevant events and factors affecting the reporting units. Goodwill impairments were not identified for the periods presented.
+Intangible Assets and Other Long-Lived Assets
+Intangible assets primarily represent acquired intangible assets including developed technology and customer relationships, as well as rights acquired under technology licenses, patents, and acquired IP. We currently amortize our intangible assets with finite lives over periods ranging from one to twenty years using a method that reflects the pattern
+59
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+in which the economic benefits of the intangible asset are consumed or otherwise used up or, if that pattern cannot be reliably determined, using a straight-line amortization method.
+Long-lived assets, such as property and equipment and intangible assets subject to amortization, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset or asset group may not be recoverable. The recoverability of assets or asset groups to be held and used is measured by a comparison of the carrying amount of an asset or asset group to estimated undiscounted future cash flows expected to be generated by the asset or asset group. If the carrying amount of an asset or asset group exceeds its estimated future cash flows, an impairment charge is recognized for the amount by which the carrying amount of the asset or asset group exceeds the estimated fair value of the asset or asset group. Fair value is determined based on the estimated discounted future cash flows expected to be generated by the asset or asset group. Assets and liabilities to be disposed of would be separately presented in the Consolidated Balance Sheet and the assets would be reported at the lower of the carrying amount or fair value less costs to sell, and would no longer be depreciated.
+Business Combination
+The Company applies a screen test to evaluate if substantially all of the fair value of the gross assets acquired is concentrated in a single identifiable asset or group of similar identifiable assets to determine whether a transaction is accounted for as an asset acquisition or business combination. We allocate the fair value of the purchase price of an acquisition to the tangible assets acquired, liabilities assumed, and intangible assets acquired, based on their estimated fair values. The excess of the fair value of the purchase price over the fair values of these net tangible and intangible assets acquired is recorded as goodwill. Management's estimates of fair value are based upon assumptions believed to be reasonable, but our estimates and assumptions are inherently uncertain and subject to refinement. The estimates and assumptions used in valuing intangible assets include, but are not limited to, the amount and timing of projected future cash flows, discount rate used to determine the present value of these cash flows and asset lives. These estimates are inherently uncertain and, therefore, actual results may differ from the estimates made. As a result, during the measurement period of up to one year from the acquisition date, we may record adjustments to the assets acquired and liabilities assumed with the corresponding offset to goodwill. Upon the measurement period's conclusion or final determination of the fair value of the purchase price of an acquisition, whichever comes first, any subsequent adjustments are recorded to our Consolidated Statements of Income.
+Acquisition-related expenses are recognized separately from the business combination and expensed as incurred.
+Non-Marketable Equity Securities
+Non-marketable equity securities consist of investments in privately-held companies that do not have a readily determinable fair value. These investments are measured at cost minus impairment, if any, and are adjusted for changes resulting from observable price changes in orderly transactions for an identical or similar investment in the same issuer, or the measurement alternative. Fair value is based upon observable inputs in an inactive market and the valuation requires our judgment due to the absence of market prices and inherent lack of liquidity. All gains and losses on these investments, realized and unrealized, are recognized in Other income, net on our Consolidated Statements of Income.
+We assess whether an impairment loss has occurred on our investments in non-marketable equity securities, accounted for under the measurement alternative based on quantitative and qualitative factors. If any impairment is identified for non-marketable equity securities, we write down the investment to its fair value and record the corresponding charge through Other income, net on our Consolidated Statements of Income.
+The Company assesses its investments for significant influence to determine the appropriate method of accounting, including application of the equity method. Equity method investments were not material.
+Recently Issued Accounting Pronouncements
+Recent Accounting Pronouncements Not Yet Adopted
+In November 2024, the Financial Accounting Standards Board, or FASB, issued a new accounting standard requiring disclosures of certain additional expense information on an annual and interim basis, including, among other items, the amounts of purchases of inventory, employee compensation, depreciation and intangible asset amortization included within each income statement expense caption, as applicable. We will adopt this standard in the fiscal year 2028 annual report. We do not expect the adoption of this standard to have a material impact on our Consolidated Financial Statements other than additional disclosures.
+60
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+Note 2 - Groq
+In December 2025, we entered into a non exclusive license agreement with Groq, Inc., or Groq, for its language processing unit technology and hired certain Groq employees. No customer contracts, existing products, or equity interests were purchased. We recorded $ 14.4 billion of goodwill and a $ 2.5 billion developed technology intangible asset, valued using a cost to recreate methodology with a five year useful life. Goodwill, primarily attributable to the workforce and future development of the licensed technology, was recorded in the Compute & Networking reporting unit. Total consideration consists of $ 13.0 billion paid at closing and $ 4 billion, inclusive of imputed interest, payable within one year included in Accrued and Other Current Liabilities on our Consolidated Balance Sheets. The goodwill is tax deductible. Pro forma results of operations have not been presented because the effect was not material.
+Note 3 - Stock-Based Compensation
+We recognize stock-based compensation expense from grants of restricted stock units, or RSUs, performance stock units, or PSUs, and market-based PSUs, and issuances under our employee stock purchase plan, or ESPP.
+Consolidated Statements of Income include stock-based compensation expense as follows:
+Year Ended
+Jan 25, 2026 Jan 26, 2025 Jan 28, 2024
+(In millions)
+Cost of revenue $ 261 $ 178 $ 141
+Research and development 4,676 3,423 2,532
+Sales, general and administrative 1,449 1,136 876
+Total $ 6,386 $ 4,737 $ 3,549
+The following is a summary of equity awards granted under our equity incentive plans:
+Year Ended
+Jan 25, 2026 Jan 26, 2025 Jan 28, 2024
+(In millions, except per share data)
+RSUs, PSUs and Market-based PSUs
+Awards granted 70 89 140
+Estimated total grant-date fair value $ 9,389 $ 7,834 $ 5,316
+Weighted average grant-date fair value per share $ 133.97 $ 87.99 $ 37.41
+ESPP
+Shares purchased 13 30 30
+Weighted average price per share $ 49.13 $ 17.74 $ 15.81
+Weighted average grant-date fair value per share $ 20.75 $ 8.61 $ 6.99
+As of January 25, 2026, aggregate unearned stock-based compensation expense was $ 14.8 billion, which is expected to be recognized over a weighted average period of 2.3 years for RSUs, PSUs, and market-based PSUs, and 0.9 years for ESPP.
+61
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+The fair value of shares issued under our ESPP has been estimated with the following assumptions:
+Year Ended
+Jan 25, 2026 Jan 26, 2025 Jan 28, 2024
+(Using the Black-Scholes model)
+ESPP
+Weighted average expected life (in years) 0.1 - 2.0
+0.1 - 2.0
+0.1 - 2.0
+Risk-free interest rate 3.5 %- 4.3 %
+3.6 %- 5.4 %
+3.9 %- 5.5 %
+Volatility 26 %- 96 %
+31 %- 75 %
+31 %- 67 %
+Dividend yield 0.03 %
+0.03 %
+0.06 %
+For ESPP shares, the expected term represents the average term from the first day of the offering period to the purchase date. The risk-free interest rate assumption used to value ESPP shares is based upon observed interest rates on Treasury bills appropriate for the expected term. Our expected stock price volatility assumption for ESPP is estimated using historical volatility. For awards granted, we use the dividend yield at grant date. Our RSUs, PSUs, and market-based PSUs are not eligible for cash dividends prior to vesting; therefore, the fair values of RSUs, PSUs, and market-based PSUs are discounted for the dividend yield.
+Additionally, for RSUs, PSUs, and market-based PSUs, we estimate expected forfeitures based on our historical forfeitures.
+Equity Incentive Program
+We grant RSUs, PSUs, market-based PSUs, and stock purchase rights under the following equity incentive plans. In addition, in connection with our acquisitions of various companies, we have assumed certain stock-based awards granted under their stock incentive plans and converted them into our RSUs.
+Amended and Restated 2007 Equity Incentive Plan
+The NVIDIA Corporation Amended and Restated 2007 Equity Incentive Plan, or the 2007 Plan, authorizes the issuance of incentive stock options, non-statutory stock options, restricted stock, RSUs, stock appreciation rights, performance stock awards, performance cash awards, and other stock-based awards to employees, directors and consultants. Only our employees may receive incentive stock options. We grant RSUs, PSUs and market-based PSUs under the 2007 Plan. As of January 25, 2026, up to 192 million shares of our common stock could be issued pursuant to stock awards granted under the 2007 Plan, and 1.3 billion shares were available for future grants.
+Subject to certain exceptions, RSUs vest generally over four years subject to continued service. PSUs vest over four years , subject to continued service and performance conditions. Market-based PSUs vest on approximately the third anniversary of the date of grant subject to market conditions. However, the number of shares subject to both PSUs and market-based PSUs that are eligible to vest is determined by the Compensation Committee based on achievement of pre-determined criteria.
+Amended and Restated 2012 Employee Stock Purchase Plan
+Employees who participate in the NVIDIA Corporation Amended and Restated 2012 Employee Stock Purchase Plan, or as most recently amended and restated, the 2012 Plan, may have up to 25 % of their earnings withheld to purchase shares of common stock. The Board may decrease this percentage at its discretion. Each offering period is about 24 months, divided into four purchase periods of six months . The price of common stock purchased under our 2012 Plan will be equal to 85 % of the lower of the fair market value of the common stock on the commencement date of each offering period or the fair market value of the common stock on each purchase date within the offering. As of January 25, 2026, we had 2.2 billion shares reserved for future issuance under the 2012 Plan.
+62
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+Equity Award Activity
+The following is a summary of our equity award transactions under our equity incentive plans:
+RSUs, PSUs and Market-based PSUs Outstanding
+Number of Shares Weighted Average Grant-Date Fair Value Per Share
+(In millions, except per share data)
+Balance as of Jan 26, 2025
+274 $ 44.75
+Granted 70 $ 133.97
+Vested ( 146 ) $ 39.14
+Canceled and forfeited ( 9 ) $ 59.29
+Balance as of Jan 25, 2026
+189 $ 81.51
+Vested and expected to vest after Jan 25, 2026
+188 $ 81.15
+As of January 25, 2026 and January 26, 2025, there were 1.3 billion and 1.4 billion shares, respectively, of common stock available for future grants under our equity incentive plans.
+The total fair value of RSUs and PSUs, as of their respective vesting dates, during the years ended January 25, 2026, January 26, 2025, and January 28, 2024, was $ 22.2 billion, $ 15.1 billion, and $ 8.2 billion, respectively.
+Note 4 - Net Income Per Share
+The following is the basic and diluted net income per share computations for the periods presented:
+Year Ended
+Jan 25, 2026 Jan 26, 2025 Jan 28, 2024
+(In millions, except per share data)
+Numerator:
+Net income $ 120,067 $ 72,880 $ 29,760
+Denominator:
+Basic weighted average shares 24,359 24,555 24,690
+Dilutive impact of outstanding equity awards 155 249 250
+Diluted weighted average shares 24,514 24,804 24,940
+Net income per share:
+Basic (1) $ 4.93 $ 2.97 $ 1.21
+Diluted (2) $ 4.90 $ 2.94 $ 1.19
+Anti-dilutive equity awards excluded from diluted net income per share
+41 51 150
+(1) Net income divided by basic weighted average shares.
+(2) Net income divided by diluted weighted average shares.
+Note 5 - Goodwill
+As of January 25, 2026, the total carrying amount of goodwill was $ 20.8 billion, consisting of goodwill balances allocated to our Compute & Networking and Graphics reporting units of $ 20.5 billion and $ 370 million, respectively. As of January 26, 2025, the total carrying amount of goodwill was $ 5.2 billion, consisting of goodwill balances allocated to our Compute & Networking and Graphics reporting units of $ 4.8 billion and $ 370 million, respectively. Goodwill increased by $ 15.6 billion in fiscal year 2026 and was allocated to our Compute & Networking reporting unit. During the fourth quarters of fiscal years 2026, 2025, and 2024, we completed our annual qualitative impairment tests and concluded that goodwill was no t impaired.
+63
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+Note 6 - Amortizable Intangible Assets
+The components of our amortizable intangible assets are as follows:
+Jan 25, 2026 Jan 26, 2025
+Gross
+Carrying
+Amount Accumulated
+Amortization Net
+Carrying
+Amount Gross
+Carrying
+Amount Accumulated
+Amortization Net
+Carrying
+Amount
+(In millions)
+Acquisition-related intangible assets $ 5,656 $ ( 2,580 ) $ 3,076 $ 2,900 $ ( 2,264 ) $ 636
+Patents and licensed technology 528 ( 298 ) 230 449 ( 278 ) 171
+Total intangible assets $ 6,184 $ ( 2,878 ) $ 3,306 $ 3,349 $ ( 2,542 ) $ 807
+Amortization expense associated with intangible assets for fiscal years 2026, 2025, and 2024 was $ 488 million, $ 593 million, and $ 614 million, respectively.
+The following table outlines the estimated future amortization expense related to the net carrying amount of intangible assets as of January 25, 2026:
+Future Amortization Expense
+(In millions)
+Fiscal Year:
+2027 $ 923
+2028 729
+2029 592
+2030 511
+2031 468
+2032 and thereafter 83
+Total $ 3,306
+64
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+Note 7 - Cash Equivalents and Marketable Securities
+The fair values of our financial assets are determined using quoted market prices of identical assets or market prices of similar assets from active markets. We review fair value classification on a quarterly basis. The following is a summary of cash equivalents and marketable securities:
+Jan 25, 2026
+Pricing Category Cost or Amortized
+Cost
+Unrealized
+Gain Unrealized
+Loss Estimated
+Fair Value Reported as
+Cash Equivalents Marketable Securities Other Assets
+(In millions)
+Debt securities issued by the U.S. Treasury Level 2 $ 21,635 $ 77 $ ( 3 ) $ 21,709 $ — $ 21,709 $ —
+Corporate debt securities Level 2 15,410 92 ( 3 ) 15,499 345 15,154 —
+Debt securities issued by U.S. government agencies Level 2 2,157 4 — 2,161 — 2,161 —
+Certificates of deposit Level 2 110 — — 110 110 — —
+Foreign government bonds Level 2 40 1 — 41 — 41 —
+Money market funds Level 1 7,830 — — 7,830 7,830 — —
+Publicly-held equity securities (1) (2)
+Level 1 17,726 — 12,886 4,840
+Total $ 47,182 $ 174 $ ( 6 ) $ 65,076 $ 8,285 $ 51,951 $ 4,840
+(1) In the first quarter of fiscal year 2026, one investment was reclassified from non-marketable equity securities to marketable securities following public market trading. The balance as of January 25, 2026 includes $ 10.5 billion of investments which are subject to short-term lock-up restrictions on the ability to sell.
+(2) The long-term portion of marketable equity securities, which are subject to lock-up restrictions through December 2027 of $ 4.8 billion as of January 25, 2026, is included in other assets.
+Publicly-held equity securities are subject to market price volatility. Net unrealized gains on investments in publicly-held equity securities held at period end were $ 6.6 billion for fiscal year 2026. Net unrealized gains on investments in publicly-held equity securities held at period end were not significant for fiscal years 2025 and 2024.
+Net realized gains on investments in publicly-held equity securities sold were not significant for fiscal years 2026, 2025, and 2024, reflecting the difference between the sale proceeds and the carrying value of the equity securities at the beginning of the period or the purchase date, if later.
+65
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+Jan 26, 2025
+Pricing Category Cost or Amortized
+Cost Unrealized
+Gain Unrealized
+Loss Estimated
+Fair Value Reported as
+Cash Equivalents Marketable Securities
+(In millions)
+Corporate debt securities Level 2 $ 18,504 $ 51 $ ( 29 ) $ 18,526 $ 2,071 $ 16,455
+Debt securities issued by the U.S. Treasury Level 2 16,749 42 ( 22 ) 16,769 1,801 14,968
+Debt securities issued by U.S. government agencies Level 2 2,775 7 ( 5 ) 2,777 — 2,777
+Foreign government bonds Level 2 177 — — 177 137 40
+Certificates of deposit Level 2 97 — — 97 97 —
+Money market funds Level 1 3,760 — — 3,760 3,760 —
+Publicly-held equity securities
+Level 1 381 — 381
+Total $ 42,062 $ 100 $ ( 56 ) $ 42,487 $ 7,866 $ 34,621
+The following tables provide the breakdown of unrealized losses, aggregated by investment category and length of time that individual debt securities have been in a continuous loss position:
+Jan 25, 2026 Jan 26, 2025
+Less than 12 Months Less than 12 Months
+Estimated Fair Value Gross Unrealized Loss Estimated Fair Value Gross Unrealized Loss
+(In millions)
+Debt securities issued by the U.S. Treasury $ 10,666 $ ( 3 ) $ 6,315 $ ( 22 )
+Corporate debt securities 1,332 ( 3 ) 5,291 ( 29 )
+Debt securities issued by U.S. government agencies 1,134 — 816 ( 5 )
+Total $ 13,132 $ ( 6 ) $ 12,422 $ ( 56 )
+Gross unrealized losses related to debt securities in a continuous loss position of twelve months or greater as of January 25, 2026 and January 26, 2025 were not significant. Gross unrealized losses are related to fixed income securities, driven primarily by changes in interest rates.
+The estimated fair value of debt securities included in cash equivalents and marketable securities are shown below by contractual maturity.
+Jan 25, 2026
+(In millions)
+Less than one year $ 20,427
+Due in 1 - 5 years 19,093
+Total $ 39,520
+Note 8 - Non-marketable Equity Securities
+Our non-marketable equity securities are valued under the measurement alternative applying valuation methods based on observable transactions for similar investments of the same issuer and unobservable inputs such as volatility, expected
+66
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+time to liquidity, risk free rate and security-specific rights and obligations. Gains and losses on these investments, realized and unrealized, are recognized in Other income, net on our Consolidated Statements of Income.
+Adjustments to the carrying value of our non-marketable equity securities during fiscal years 2026 and 2025 were as follows:
+Year Ended
+Jan 25, 2026 Jan 26, 2025
+(In millions)
+Balance at beginning of period $ 3,387 $ 1,321
+Adjustments related to non-marketable equity securities:
+Net additions 17,444 1,309
+Unrealized gains 2,369 816
+Reclassification (1)
+( 848 ) —
+Impairments and unrealized losses ( 101 ) ( 59 )
+Balance at end of period $ 22,251 $ 3,387
+(1) Represents reclassifications from non-marketable equity securities to marketable securities following public market trading.
+Non-marketable equity securities had cumulative gross unrealized gains of $ 2.7 billion and $ 1.1 billion, and cumulative gross unrealized losses and impairments of $ 176 million and $ 105 million on securities held as of January 25, 2026 and January 26, 2025, respectively.
+Note 9 - Balance Sheet Components
+We refer to customers who purchase products directly from NVIDIA as direct customers, such as AIBs, distributors, ODMs, OEMs, CSPs, AI model makers, and system integrators. Certain direct customers may use either internal resources or third-party system integrators to complete their build. Three direct customers accounted for 25 %, 18 %, and 13 % of our accounts receivable balance as of January 25, 2026. Two direct customers accounted for 17 % and 16 % of our accounts receivable balance as of January 26, 2025.
+Certain balance sheet components are as follows:
+Jan 25, 2026 Jan 26, 2025
+Inventories:
+(In millions)
+Raw materials $ 3,807 $ 3,408
+Work in process 8,822 3,399
+Finished goods 8,774 3,273
+Total inventories (1) $ 21,403 $ 10,080
+(1) In fiscal years 2026 and 2025, we recorded inventory provisions of $ 4.0 billion and $ 1.6 billion, respectively, in cost of revenue.
+Jan 25, 2026 Jan 26, 2025 Estimated
+Useful Life
+Property and Equipment:
+(In millions) (In years)
+Land $ 777 $ 511 (A)
+Buildings, leasehold improvements, and furniture 2,891 2,076 (B)
+Equipment, compute hardware, and software
+12,619 7,568 2 - 7
+Construction in process 683 529 (C)
+Total property and equipment, gross 16,970 10,684
+Accumulated depreciation and amortization ( 6,587 ) ( 4,401 )
+Total property and equipment, net $ 10,383 $ 6,283
+(A) Land is a non-depreciable asset.
+67
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+(B) The estimated useful lives of our buildings are up to thirty years . Leasehold improvements and finance leases are amortized based on the lesser of either the asset's estimated useful life or the expected remaining lease term.
+(C) Construction in process represents assets that are not available for their intended use.
+Depreciation expense for fiscal years 2026, 2025, and 2024 was $ 2.4 billion, $ 1.3 billion, and $ 894 million, respectively.
+Accumulated amortization of leasehold improvements and finance leases was $ 519 million and $ 410 million as of January 25, 2026 and January 26, 2025, respectively.
+Property, equipment and intangible assets acquired but not paid for during fiscal years 2026, 2025, and 2024 were $ 820 million, $ 525 million, and $ 170 million, respectively.
+Jan 25, 2026 Jan 26, 2025
+Accrued and Other Current Liabilities:
+(In millions)
+Customer program accruals $ 5,318 $ 4,880
+Accrued purchase consideration
+3,921 9
+Product warranty
+2,807 1,290
+Excess inventory purchase obligations (1) 2,739 2,095
+Taxes payable 2,669 881
+Deferred revenue (2) 1,379 837
+Accrued payroll and related expenses 1,146 848
+Other 1,373 897
+Total accrued and other current liabilities $ 21,352 $ 11,737
+(1) In fiscal years 2026 and 2025, we recorded an expense of approximately $ 3.2 billion and $ 2.0 billion, respectively, in cost of revenue.
+(2) Includes customer advances and unearned revenue related to hardware and software support, cloud services, and license and development arrangements. The balance as of January 25, 2026 and January 26, 2025 included $ 160 million and $ 81 million of customer advances, respectively.
+Jan 25, 2026 Jan 26, 2025
+Other Long-Term Liabilities:
+(In millions)
+Income tax payable (1) $ 3,958 $ 2,188
+Deferred income tax 1,774 886
+Deferred revenue (2) 1,193 976
+Other 381 195
+Total other long-term liabilities $ 7,306 $ 4,245
+(1) Primarily comprised of unrecognized tax benefits and related interest and penalties.
+(2) Includes unearned revenue related to hardware and software support and cloud services.
+Deferred Revenue
+The following table shows the changes in short- and long-term deferred revenue during fiscal years 2026 and 2025:
+Jan 25, 2026 Jan 26, 2025
+(In millions)
+Balance at beginning of period $ 1,813 $ 1,337
+Deferred revenue additions (1) 11,137 5,083
+Revenue recognized (2) ( 10,378 ) ( 4,607 )
+Balance at end of period $ 2,572 $ 1,813
+(1) Includes $ 9.0 billion and $ 3.6 billion of customer advances for fiscal years 2026 and 2025, respectively.
+(2) Includes $ 8.9 billion and $ 3.7 billion related to customer advances for fiscal years 2026 and 2025, respectively.
+68
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+We recognized revenue of $ 974 million and $ 729 million in fiscal years 2026 and 2025, respectively, that were included in the prior year end deferred revenue balance.
+As of January 25, 2026, revenue related to remaining performance obligations from contracts greater than one year in length was $ 2.3 billion, which includes $ 1.9 billion from deferred revenue and $ 390 million which has not yet been billed nor recognized as revenue. Approximately 42 % of revenue from contracts greater than one year in length will be recognized over the next twelve months .
+Note 10 - Derivative Financial Instruments
+Foreign Currency Derivatives
+We utilize foreign currency forward contracts to mitigate the impact of foreign currency exchange rate movements on our operating expenses. The foreign currency forward contracts for operating expenses are designated as accounting hedges. Gains or losses on the contracts are recorded in accumulated other comprehensive income or loss and reclassified to operating expense when the related operating expenses are recognized in earnings. In fiscal years 2026 and 2025, the impact of foreign currency forward contracts designated as accounting hedges on other comprehensive income or loss was not significant and all such instruments were determined to be highly effective.
+We also entered into foreign currency forward contracts mitigating the impact of foreign currency movements on monetary assets and liabilities. For our foreign currency contracts for assets and liabilities, the change in fair value of these non-designated contracts was recorded in other income or expense and offsets the change in fair value of the hedged foreign currency denominated monetary assets and liabilities, which was also recorded in other income or expense.
+The table below presents the notional value of our foreign currency contracts outstanding:
+Jan 25, 2026 Jan 26, 2025
+(In millions)
+Designated as accounting hedges $ 1,765 $ 1,424
+Not designated as accounting hedges $ 2,332 $ 1,297
+The unrealized gains and losses or fair value of our foreign currency contracts were not significant as of January 25, 2026 and January 26, 2025.
+As of January 25, 2026, all foreign currency contracts mature within 18 months. The expected realized gains and losses deferred into accumulated other comprehensive income or loss related to foreign currency forward contracts within the next twelve months were not significant.
+Facility Lease Guarantees
+In fiscal year 2026, we entered into agreements to guarantee partners' facility lease obligations in the event of their default in exchange for warrants. The maximum gross exposure under all agreements is $ 3.5 billion, which is reduced as the partners make payments to the lessors over terms ranging from 5 to 7 years. The partners have placed $ 712 million in escrow to mitigate our potential exposure. The guarantees, classified as credit derivatives with changes in fair value recognized in Other income and expense, were not material.
+69
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+Note 11 - Debt
+Expected
+Remaining Term (years) Effective
+Interest Rate Jan 25, 2026 Jan 26, 2025
+(In millions)
+3.20 % Notes Due 2026
+0.6 3.31 % 1,000 1,000
+1.55 % Notes Due 2028
+2.4 1.64 % 1,250 1,250
+2.85 % Notes Due 2030
+4.2 2.93 % 1,500 1,500
+2.00 % Notes Due 2031
+5.4 2.09 % 1,250 1,250
+3.50 % Notes Due 2040
+14.2 3.54 % 1,000 1,000
+3.50 % Notes Due 2050
+24.2 3.54 % 2,000 2,000
+3.70 % Notes Due 2060
+34.2 3.73 % 500 500
+Unamortized debt discount and issuance costs ( 32 ) ( 37 )
+Net carrying amount 8,468 8,463
+Less short-term portion ( 999 ) —
+Total long-term portion $ 7,469 $ 8,463
+As of January 25, 2026 and January 26, 2025, the estimated fair value of debt was $ 7.5 billion and $ 7.2 billion, respectively. The estimated fair values are based on Level 2 inputs.
+Our notes are unsecured senior obligations. Existing and future liabilities of our subsidiaries will be effectively senior to the notes. Our notes pay interest semi-annually. We may redeem each of our notes prior to maturity, subject to a make-whole premium. The maturity of the notes is calendar year.
+As of January 25, 2026, we complied with the required cov

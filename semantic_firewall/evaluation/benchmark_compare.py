@@ -271,6 +271,7 @@ KEY_FIELDS = [
 # Previously M1 was given brittle "number-glued-to-label" patterns while the system
 # used flexible ones that absorb leader dots — a straw-man ablation. Any residual
 # M1↔system gap is now a property of the surrounding logic, not of unequal patterns.
+from semantic_firewall.extraction.scale import infer_document_scale
 from semantic_firewall.validation.corrector import REGEX_BACKFILL_PATTERNS as _PATTERNS_M1
 
 def method1_regex(text: str) -> dict:
@@ -406,7 +407,7 @@ def method4_hybrid(doc_name: str, text: str) -> dict:
 # ══════════════════════════════════════════════════════════════════════════════
 
 def compute_metrics(fields: dict, ground_truth: dict | None = None,
-                    rel_tol: float = 0.01) -> dict:
+                    rel_tol: float = 0.01, scale: dict | None = None) -> dict:
     """Score an extraction.
 
     D2 fix. Previously the headline "recall" was the proportion of *non-null* fields
@@ -424,8 +425,18 @@ def compute_metrics(fields: dict, ground_truth: dict | None = None,
 
     ``ground_truth`` is the ``fields`` block from benchmark_ground_truth (i.e.
     {field: {"val": ...}}). When absent, accuracy is None (no fake number).
+
+    ``scale`` (D13) is the reporting scale inferred from the document itself by
+    ``extraction.scale.infer_document_scale``. XBRL facts are absolute USD while
+    statement tables print thousands/millions, so omitting it makes every field
+    compare as wrong. It is never derived from ``ground_truth`` (that would leak the
+    label). ``error_kinds`` breaks the failures down into scale / sign / wrong-value
+    / missing, so a unit error is not reported as a reading error.
     """
+    from semantic_firewall.extraction.scale import classify_error, to_absolute
+
     f = DDTaxonomy._f
+    sc = scale or {"multiplier": 1.0, "label": "units", "confident": True}
 
     # Coverage (was misnamed "recall"): share of non-null, non-zero fields.
     nb_extracted = sum(1 for k in KEY_FIELDS if f(fields.get(k)) != 0)
@@ -434,6 +445,7 @@ def compute_metrics(fields: dict, ground_truth: dict | None = None,
     # Correctness vs XBRL ground truth — the real metric.
     field_accuracy_pct = None
     field_results: dict = {}
+    error_kinds: dict = {}
     n_correct = n_scored = 0
     if ground_truth:
         for k in KEY_FIELDS:
@@ -441,11 +453,14 @@ def compute_metrics(fields: dict, ground_truth: dict | None = None,
             if not gt or gt.get("val") is None:
                 continue  # no truth for this field/company (e.g. banks have no EBIT)
             truth = float(gt["val"])
-            got = f(fields.get(k))
+            raw = f(fields.get(k))
+            got = to_absolute(raw, sc)          # D13: normalise before comparing
             tol = max(abs(truth) * rel_tol, 1.0)
             ok = abs(got - truth) <= tol
-            field_results[k] = {"extracted": got, "truth": truth,
-                                "within_tol": ok,
+            kind = classify_error(got, truth, rel_tol)
+            error_kinds[kind] = error_kinds.get(kind, 0) + 1
+            field_results[k] = {"extracted_raw": raw, "extracted_abs": got,
+                                "truth": truth, "within_tol": ok, "error_kind": kind,
                                 "abs_error_pct": round(abs(got - truth) / max(abs(truth), 1) * 100, 2)}
             n_scored += 1
             n_correct += int(ok)
@@ -471,6 +486,9 @@ def compute_metrics(fields: dict, ground_truth: dict | None = None,
         "fields_correct":       n_correct,
         "fields_scored":        n_scored,
         "field_results":        field_results,
+        "error_kinds":          error_kinds,     # scale / sign / wrong_value / missing
+        "scale_label":          sc.get("label"),
+        "scale_confident":      bool(sc.get("confident", False)),
         "ebitda_coherent":      coherence,       # internal signal on raw extraction
         "ebitda_error_pct":     coherence_error_pct,
     }
@@ -505,11 +523,15 @@ def run_benchmark(docs: list, results_path: Path,
     # benchmark still runs but field_accuracy is None (no fabricated number) and a
     # warning is printed telling the user to build it.
     from semantic_firewall.evaluation.benchmark_ground_truth import load as _load_gt
-    GT = _load_gt()
+    GT, gt_report = _load_gt()
     if not GT:
-        print("  ⚠ No XBRL ground truth found (output/benchmark_xbrl_ground_truth.json).")
+        print("  ⚠ No XBRL ground truth found (data/benchmark_xbrl_ground_truth.json).")
         print("    Build it: python -m semantic_firewall.evaluation.benchmark_ground_truth [--full]")
         print("    field_accuracy_pct will be null until then.")
+    elif gt_report.get("excluded_year_mismatch"):
+        print(f"  D14: {gt_report['excluded_year_mismatch']} GT record(s) excluded "
+              f"(fiscal year != document year): {', '.join(gt_report['excluded_ids'][:8])}"
+              f"{'…' if len(gt_report['excluded_ids']) > 8 else ''}")
 
     for idx, doc in enumerate(docs, 1):
         if doc["id"] in completed:
@@ -531,6 +553,13 @@ def run_benchmark(docs: list, results_path: Path,
             print(f"  ERREUR extraction texte : {e}")
             continue
 
+        # D13: the reporting scale comes from the DOCUMENT, never from the GT.
+        doc_scale = infer_document_scale(text)
+        print(f"  Échelle déclarée : {doc_scale['label']} "
+              f"(×{doc_scale['multiplier']:.0e}, evidence: {doc_scale['evidence']!r})"
+              if doc_scale["confident"] else
+              "  Échelle déclarée : ABSENTE — document non éligible au scoring exact")
+
         doc_entry = {
             "id":          doc["id"],
             "nom":         doc["nom"],
@@ -539,6 +568,7 @@ def run_benchmark(docs: list, results_path: Path,
             "particularite": doc["particularite"],
             "defi":        doc["defi"],
             "text_chars":  len(text),
+            "scale":       doc_scale,
             "ground_truth": {"cik": gt_rec.get("cik"), "chosen_fy": gt_rec.get("chosen_fy"),
                              "entity": gt_rec.get("entity")} if gt_rec else None,
             "methods":     {},
@@ -553,7 +583,7 @@ def run_benchmark(docs: list, results_path: Path,
         print("\n  [M1] Regex / Géométrique classique …", flush=True)
         t0 = time.time()
         m1_fields  = method1_regex(text)
-        m1_metrics = compute_metrics(m1_fields, gt_fields)
+        m1_metrics = compute_metrics(m1_fields, gt_fields, scale=doc_scale)
         doc_entry["methods"]["method1"] = {
             "label":   "Regex / Géométrique",
             "fields":  m1_fields,
@@ -568,7 +598,7 @@ def run_benchmark(docs: list, results_path: Path,
         # (no sleep: latency is measured immediately after; rate-limit in client)
         t0 = time.time()
         m2_fields  = method2_zeroshot(text)
-        m2_metrics = compute_metrics(m2_fields, gt_fields)
+        m2_metrics = compute_metrics(m2_fields, gt_fields, scale=doc_scale)
         doc_entry["methods"]["method2"] = {
             "label":   "LLM Zéro-Shot",
             "fields":  m2_fields,
@@ -583,7 +613,7 @@ def run_benchmark(docs: list, results_path: Path,
         # (no sleep: latency is measured immediately after; rate-limit in client)
         t0 = time.time()
         m3_fields  = method3_cot(text)
-        m3_metrics = compute_metrics(m3_fields, gt_fields)
+        m3_metrics = compute_metrics(m3_fields, gt_fields, scale=doc_scale)
         doc_entry["methods"]["method3"] = {
             "label":   "LLM + CoT Auto-correction",
             "fields":  m3_fields,
@@ -598,7 +628,7 @@ def run_benchmark(docs: list, results_path: Path,
         # (no sleep: latency is measured immediately after; rate-limit in client)
         t0 = time.time()
         m4_result  = method4_hybrid(Path(doc["path"]).name, text)
-        m4_metrics = compute_metrics(m4_result["fields"], gt_fields)
+        m4_metrics = compute_metrics(m4_result["fields"], gt_fields, scale=doc_scale)
         doc_entry["methods"]["method4"] = {
             "label":            "Pare-feu Hybride Neuro-Symbolique",
             "fields":           m4_result["fields"],
@@ -647,7 +677,7 @@ if __name__ == "__main__":
         data     = json.loads(RESULTS_FULL_PATH.read_text(encoding="utf-8"))
         all_docs = {d["id"]: d for d in data["documents"]}
         from semantic_firewall.evaluation.benchmark_ground_truth import load as _load_gt
-        GT = _load_gt()
+        GT, _ = _load_gt()
 
         erreur_ids   = {d["id"] for d in data["documents"]
                         if d.get("methods", {}).get("method4", {}).get("statut") == "ERREUR"}
@@ -675,7 +705,9 @@ if __name__ == "__main__":
             t0 = time.time()
             # (no sleep: latency is measured immediately after; rate-limit in client)
             m4_result  = method4_hybrid(Path(doc["path"]).name, text)
-            m4_metrics = compute_metrics(m4_result["fields"], GT.get(doc["id"], {}).get("fields"))
+            m4_metrics = compute_metrics(m4_result["fields"],
+                                         GT.get(doc["id"], {}).get("fields"),
+                                         scale=infer_document_scale(text))
             elapsed    = round(time.time() - t0, 1)
 
             new_m4 = {

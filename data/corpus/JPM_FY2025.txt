@@ -1,0 +1,651 @@
+real GDP growth rate assumptions.
+Fair Value of Certain Level 3 Financial Instruments
+As described in Note 2 to the consolidated financial statements, as of December 31, 2025, the Firm had certain financial instruments which included $2.4 billion of deposits, $5.6 billion of short-term borrowings and $46.7 billion of long-term debt, which are measured at fair value on a recurring basis and are classified as level 3. Financial instruments valued using internally developed valuation models and other valuation techniques that use significant unobservable inputs are classified within level 3 of the fair value hierarchy. The principal valuation techniques and unobservable inputs used by management to measure the fair value of certain level 3 financial instruments include the following internally developed valuation models: (i) option pricing, which uses unobservable inputs related to interest rate volatility, Bermudan switch value, interest rate correlation, interest rate-to-foreign exchange correlation, equity volatility, equity correlation, equity-to-foreign exchange correlation and equity-to-interest rate correlation and (ii) discounted cash flows, which uses unobservable inputs related to credit correlation, credit spread, recovery rate, yield and loss severity.
+The principal considerations for our determination that performing procedures relating to the fair value of certain level 3 financial instruments is a critical audit matter are (i) the significant judgment by management when developing the fair value estimate of certain level
+JPMorgan Chase & Co./2025 Form 10-K
+163
+Report of Independent Registered Public Accounting Firm
+3 financial instruments; (ii) a high degree of auditor judgment, subjectivity, and effort in performing procedures and evaluating audit evidence related to the aforementioned unobservable inputs; and (iii) the audit effort involved the use of professionals with specialized skill and knowledge.
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to the fair value estimate of certain level 3 financial instruments, including controls over the aforementioned unobservable inputs. These procedures also included, among others, (i) testing the completeness and accuracy of certain data provided by management and (ii) the involvement of professionals with specialized skill and knowledge to assist in evaluating the reasonableness of management's estimate by (a) developing an independent estimate of the fair value for a sample of certain level 3 financial instruments using independently developed unobservable inputs and (b) comparing the independent estimate of the fair value to management's estimate.
+New York, New York
+February 13, 2026
+We have served as the Firm's auditor since 1965.
+164
+JPMorgan Chase & Co./2025 Form 10-K
+JPMorgan Chase & Co.
+Consolidated statements of income
+Year ended December 31, (in millions, except per share data) 2025 2024 2023
+Revenue
+Investment banking fees $ 9,615 $ 8,910 $ 6,519
+Principal transactions 27,212 24,787 24,460
+Lending- and deposit-related fees 9,093 7,606 7,413
+Asset management fees 20,327 17,801 15,220
+Commissions and other fees 8,539 7,530 6,836
+Investment securities losses
+( 57 ) ( 1,021 ) ( 3,180 )
+Mortgage fees and related income 1,381 1,401 1,176
+Card income 4,720 5,497 4,784
+Other income 6,174 12,462 5,609
+Noninterest revenue 87,004 84,973 68,837
+Interest income 193,341 193,933 170,588
+Interest expense 97,898 101,350 81,321
+Net interest income 95,443 92,583 89,267
+Total net revenue 182,447 177,556 158,104
+Provision for credit losses 14,212 10,678 9,320
+Noninterest expense
+Compensation expense 54,487 51,357 46,465
+Occupancy expense 5,461 5,026 4,590
+Technology, communications and equipment expense 11,029 9,831 9,246
+Professional and outside services 12,356 11,057 10,235
+Marketing 5,531 4,974 4,591
+Other expense 6,776 9,552 12,045
+Total noninterest expense 95,640 91,797 87,172
+Income before income tax expense 72,595 75,081 61,612
+Income tax expense 15,547 16,610 12,060
+Net income $ 57,048 $ 58,471 $ 49,552
+Net income applicable to common stockholders $ 55,681 $ 56,868 $ 47,760
+Net income per common share data
+Basic earnings per share $ 20.05 $ 19.79 $ 16.25
+Diluted earnings per share 20.02 19.75 16.23
+Weighted-average basic shares 2,776.5 2,873.9 2,938.6
+Weighted-average diluted shares 2,781.5 2,879.0 2,943.1
+The Notes to Consolidated Financial Statements are an integral part of these statements.
+JPMorgan Chase & Co./2025 Form 10-K
+165
+JPMorgan Chase & Co.
+Consolidated statements of comprehensive income
+Year ended December 31, (in millions) 2025 2024 2023
+Net income $ 57,048 $ 58,471 $ 49,552
+Other comprehensive income/(loss), after tax
+Unrealized gains/(losses) on investment securities
+3,569 ( 87 ) 5,381
+Translation adjustments, net of hedges 1,339 ( 858 ) 329
+Fair value hedges 64 ( 87 ) ( 101 )
+Cash flow hedges 3,388 ( 882 ) 1,724
+Defined benefit pension and OPEB plans 579 ( 63 ) 373
+DVA on fair value option elected liabilities ( 773 ) ( 36 ) ( 808 )
+Total other comprehensive income/(loss), after tax
+8,166 ( 2,013 ) 6,898
+Comprehensive income $ 65,214 $ 56,458 $ 56,450
+The Notes to Consolidated Financial Statements are an integral part of these statements.
+166
+JPMorgan Chase & Co./2025 Form 10-K
+JPMorgan Chase & Co.
+Consolidated balance sheets
+December 31, (in millions, except share data) 2025 2024
+Assets
+Cash and due from banks $ 21,742 $ 23,372
+Deposits with banks 321,596 445,945
+Federal funds sold and securities purchased under resale agreements (included $ 327,018 and $ 286,771 at fair value)
+336,426 295,001
+Securities borrowed (included $ 98,111 and $ 83,962 at fair value)
+286,191 219,546
+Trading assets (included assets pledged of $ 165,927 and $ 136,070 )
+802,873 637,784
+Available-for-sale securities (amortized cost of $ 507,226 and $ 411,045 ; included assets pledged of $ 7,735 and $ 10,162 )
+507,198 406,852
+Held-to-maturity securities 270,134 274,468
+Investment securities, net of allowance for credit losses 777,332 681,320
+Loans (included $ 70,684 and $ 41,350 at fair value)
+1,493,429 1,347,988
+Allowance for loan losses ( 25,765 ) ( 24,345 )
+Loans, net of allowance for loan losses 1,467,664 1,323,643
+Accrued interest and accounts receivable 111,599 101,223
+Premises and equipment 36,244 32,223
+Goodwill, MSRs and other intangible assets 64,458 64,560
+Other assets (included $ 15,849 and $ 15,122 at fair value and assets pledged of $ 11,984 and $ 6,288 )
+198,775 178,197
+Total assets (a)
+$ 4,424,900 $ 4,002,814
+Liabilities
+Deposits (included $ 20,930 and $ 33,768 at fair value)
+$ 2,559,320 $ 2,406,032
+Federal funds purchased and securities loaned or sold under repurchase agreements (included $ 360,194 and $ 226,329 at fair value)
+442,396 296,835
+Short-term borrowings (included $ 32,460 and $ 26,521 at fair value)
+64,776 52,893
+Trading liabilities 216,019 192,883
+Accounts payable and other liabilities (included $ 6,660 and $ 5,893 at fair value)
+316,794 280,672
+Beneficial interests issued by consolidated VIEs (included $ 5 and $ 1 at fair value)
+27,951 27,323
+Long-term debt (included $ 134,559 and $ 100,780 at fair value)
+435,206 401,418
+Total liabilities (a)
+4,062,462 3,658,056
+Commitments and contingencies (refer to Notes 28, 29 and 30)
+Stockholders' equity
+Preferred stock ($ 1 par value; authorized 200,000,000 shares: issued 2,005,375 and 2,005,375 shares)
+20,045 20,050
+Common stock ($ 1 par value; authorized 9,000,000,000 shares; issued 4,104,933,895 shares)
+4,105 4,105
+Additional paid-in capital 91,114 90,911
+Retained earnings 416,055 376,166
+Accumulated other comprehensive losses ( 4,290 ) ( 12,456 )
+Treasury stock, at cost ( 1,408,661,319 and 1,307,313,494 shares)
+( 164,591 ) ( 134,018 )
+Total stockholders' equity 362,438 344,758
+Total liabilities and stockholders' equity $ 4,424,900 $ 4,002,814
+(a) The following table presents information on assets and liabilities related to VIEs that are consolidated by the Firm at December 31, 2025 and 2024. The assets of the consolidated VIEs are used to settle the liabilities of those entities. The holders of the beneficial interests generally do not have recourse to the general credit of JPMorganChase. The assets and liabilities in the table below include third-party assets and liabilities of consolidated VIEs and exclude intercompany balances that eliminate in consolidation. Refer to Note 14 for a further discussion.
+December 31, (in millions) 2025 2024
+Assets
+Trading assets $ 4,835 $ 3,885
+Loans 37,777 36,510
+All other assets 683 681
+Total assets $ 43,295 $ 41,076
+Liabilities
+Beneficial interests issued by consolidated VIEs $ 27,951 $ 27,323
+All other liabilities 691 454
+Total liabilities $ 28,642 $ 27,777
+The Notes to Consolidated Financial Statements are an integral part of these statements.
+JPMorgan Chase & Co./2025 Form 10-K
+167
+JPMorgan Chase & Co.
+Consolidated statements of changes in stockholders' equity
+Year ended December 31, (in millions, except per share data) 2025 2024 2023
+Preferred stock
+Balance at January 1 $ 20,050 $ 27,404 $ 27,404
+Issuance 2,995 2,496 —
+Redemption ( 3,000 ) ( 9,850 ) —
+Balance at December 31 20,045 20,050 27,404
+Common stock
+Balance at January 1 and December 31 4,105 4,105 4,105
+Additional paid-in capital
+Balance at January 1 90,911 90,128 89,044
+Shares issued and commitments to issue common stock for employee share-based compensation awards, and related tax effects
+220 768 1,084
+Other ( 17 ) 15 —
+Balance at December 31 91,114 90,911 90,128
+Retained earnings
+Balance at January 1 376,166 332,901 296,456
+Cumulative effect of change in accounting principles — ( 161 ) 449
+Net income 57,048 58,471 49,552
+Preferred stock dividends ( 1,099 ) ( 1,259 ) ( 1,501 )
+Common stock dividends ( $ 5.80 , $ 4.80 and $ 4.10 per share for 2025, 2024 and 2023, respectively)
+( 16,060 ) ( 13,786 ) ( 12,055 )
+Balance at December 31 416,055 376,166 332,901
+Accumulated other comprehensive income/(loss)
+Balance at January 1 ( 12,456 ) ( 10,443 ) ( 17,341 )
+Other comprehensive income/(loss), after-tax
+8,166 ( 2,013 ) 6,898
+Balance at December 31 ( 4,290 ) ( 12,456 ) ( 10,443 )
+Treasury stock, at cost
+Balance at January 1 ( 134,018 ) ( 116,217 ) ( 107,336 )
+Repurchase ( 31,924 ) ( 19,007 ) ( 9,980 )
+Reissuance 1,351 1,206 1,099
+Balance at December 31 ( 164,591 ) ( 134,018 ) ( 116,217 )
+Total stockholders' equity $ 362,438 $ 344,758 $ 327,878
+Effective January 1, 2024, the Firm adopted the Equity Method and Joint Ventures: Accounting for Investments in Tax Credit Structures Using the Proportional Amortization Method accounting guidance. Effective January 1, 2023, the Firm adopted the Financial Instruments Credit Losses: Troubled Debt Restructurings, and Derivatives and Hedging: Fair Value Hedging Portfolio Layer Method accounting guidance. Refer to Note 1 for further information.
+The Notes to Consolidated Financial Statements are an integral part of these statements.
+168
+JPMorgan Chase & Co./2025 Form 10-K
+JPMorgan Chase & Co.
+Consolidated statements of cash flows
+Year ended December 31, (in millions) 2025 2024 2023
+Operating activities
+Net income $ 57,048 $ 58,471 $ 49,552
+Adjustments to reconcile net income to net cash provided by operating activities:
+Provision for credit losses 14,212 10,678 9,320
+Depreciation and amortization 8,821 7,938 7,512
+Deferred tax (benefit)/expense 5,611 2,004 ( 4,534 )
+Estimated bargain purchase gain associated with the First Republic acquisition
+— ( 103 ) ( 2,775 )
+Initial gain on the Visa share exchange
+— ( 7,990 ) —
+Other 1,309 1,985 4,301
+Originations and purchases of loans held-for-sale ( 260,772 ) ( 212,238 ) ( 115,245 )
+Proceeds from sales, securitizations and paydowns of loans held-for-sale 235,232 205,303 116,430
+Net change in:
+Trading assets ( 156,461 ) ( 95,729 ) ( 74,091 )
+Securities borrowed ( 66,648 ) ( 18,762 ) ( 14,902 )
+Accrued interest and accounts receivable ( 11,514 ) 5,735 19,928
+Other assets ( 12,582 ) ( 7,650 ) 32,970
+Trading liabilities 23,134 2,276 5,315
+Accounts payable and other liabilities 5,270 ( 90 ) ( 25,388 )
+Other operating adjustments 9,558 6,160 4,581
+Net cash (used in)/provided by operating activities
+( 147,782 ) ( 42,012 ) 12,974
+Investing activities
+Net change in:
+Federal funds sold and securities purchased under resale agreements ( 41,264 ) ( 18,706 ) 39,740
+Held-to-maturity securities:
+Proceeds from paydowns and maturities 54,791 99,363 53,056
+Purchases ( 5,432 ) ( 4,709 ) ( 4,141 )
+Available-for-sale securities:
+Proceeds from paydowns and maturities 37,414 38,499 53,744
+Proceeds from sales 141,295 104,625 108,434
+Purchases ( 308,772 ) ( 352,712 ) ( 115,499 )
+Proceeds from sales and securitizations of loans held-for-investment 57,565 57,921 47,312
+Other changes in loans, net ( 188,497 ) ( 83,176 ) ( 88,343 )
+Net cash used in First Republic Acquisition
+— ( 2,362 ) ( 9,920 )
+All other investing activities, net ( 12,665 ) ( 2,146 ) ( 16,740 )
+Net cash (used in)/provided by investing activities
+( 265,565 ) ( 163,403 ) 67,643
+Financing activities
+Net change in:
+Deposits 153,168 3,299 ( 32,196 )
+Federal funds purchased and securities loaned or sold under repurchase agreements 145,535 80,288 13,801
+Short-term borrowings 9,422 7,439 ( 1,934 )
+Beneficial interests issued by consolidated VIEs ( 622 ) 1,543 9,029
+Proceeds from long-term borrowings 120,761 109,915 75,417
+Payments of long-term borrowings ( 108,100 ) ( 96,605 ) ( 64,880 )
+Proceeds from issuance of preferred stock 3,000 2,500 —
+Redemption of preferred stock ( 3,000 ) ( 9,850 ) —
+Treasury stock repurchased ( 31,591 ) ( 18,830 ) ( 9,824 )
+Dividends paid ( 16,625 ) ( 14,783 ) ( 13,463 )
+All other financing activities, net ( 2,415 ) ( 1,469 ) ( 1,521 )
+Net cash provided by/(used in) financing activities 269,533 63,447 ( 25,571 )
+Effect of exchange rate changes on cash and due from banks and deposits with banks 17,835 ( 12,866 ) 1,871
+Net increase/(decrease) in cash and due from banks and deposits with banks ( 125,979 ) ( 154,834 ) 56,917
+Cash and due from banks and deposits with banks at the beginning of the period 469,317 624,151 567,234
+Cash and due from banks and deposits with banks at the end of the period $ 343,338 $ 469,317 $ 624,151
+Cash interest paid $ 96,436 $ 99,642 $ 77,114
+Cash income taxes paid, net 5,309 11,715 9,908
+The Notes to Consolidated Financial Statements are an integral part of these statements.
+JPMorgan Chase & Co./2025 Form 10-K
+169
+Notes to consolidated financial statements
+Note 1 Basis of presentation
+JPMorgan Chase & Co. ("JPMorganChase" or the "Firm"), a financial holding company incorporated under Delaware law in 1968, is a leading financial services firm based in the U.S., with operations worldwide. The Firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management. Refer to Note 32 for further discussion of the Firm's reportable business segments.
+The accounting and financial reporting policies of JPMorganChase and its subsidiaries conform to U.S. GAAP. Additionally, where applicable, the policies conform to the accounting and reporting guidelines prescribed by regulatory authorities.
+Consolidation
+The Consolidated Financial Statements include the accounts of JPMorganChase and other entities in which the Firm has a controlling financial interest. All material intercompany balances and transactions have been eliminated.
+Assets held for clients in an agency or fiduciary capacity by the Firm are not assets of JPMorganChase and are not included on the Consolidated balance sheets.
+The Firm determines whether it has a controlling financial interest in an entity by first evaluating whether the entity is a voting interest entity or a variable interest entity.
+Voting interest entities
+Voting interest entities are entities that have sufficient equity and provide the equity investors voting rights that enable them to make significant decisions relating to the entity's operations. For these types of entities, the Firm's determination of whether it has a controlling interest is primarily based on the amount of voting equity interests held. Entities in which the Firm has a controlling financial interest, through ownership of the majority of the entities' voting equity interests, or through other contractual rights that give the Firm control, are consolidated by the Firm.
+Investments in companies in which the Firm has significant influence over operating and financing decisions (but does not own a majority of the voting equity interests) are accounted for (i) in accordance with the equity method of accounting, or (ii) at fair value if the fair value option was elected. These investments are generally included in other assets, with income or loss included in noninterest revenue.
+Certain Firm-sponsored asset management funds are structured as limited partnerships or limited liability companies. For many of these entities, the Firm is the general partner or managing member, but the non-
+affiliated partners or members have the ability to remove the Firm as the general partner or managing member without cause (i.e., kick-out rights), based on a simple majority vote, or the non-affiliated partners or members have rights to participate in important decisions. Accordingly, the Firm does not consolidate these voting interest entities. However, in the limited cases where the non-managing partners or members do not have substantive kick-out or participating rights, the Firm evaluates the funds as VIEs and consolidates the funds if the Firm is the general partner or managing member and has both power and a potentially significant interest.
+The Firm's investment companies and asset management funds have investments in both publicly-held and privately-held entities, including investments in buyouts, growth equity and venture opportunities. These investments are accounted for under investment company guidelines and, accordingly, irrespective of the percentage of equity ownership interests held, are carried on the Consolidated balance sheets at fair value, and are recorded in other assets, with income or loss included in noninterest revenue. If consolidated, the Firm retains the accounting under such specialized investment company guidelines.
+Variable interest entities
+VIEs are entities that, by design, either (1) lack sufficient equity to permit the entity to finance its activities without additional subordinated financial support from other parties, or (2) have equity investors that do not have the ability to make significant decisions relating to the entity's operations through voting rights, or do not have the obligation to absorb the expected losses, or do not have the right to receive the residual returns of the entity.
+The most common type of VIE is an SPE. SPEs are commonly used in securitization transactions in order to isolate certain assets and distribute the cash flows from those assets to investors. The basic SPE structure involves a company selling assets to the SPE; the SPE funds the purchase of those assets by issuing securities to investors. The legal documents that govern the transaction specify how the cash earned on the assets must be allocated to the SPE's investors and other parties that have rights to those cash flows. SPEs are generally structured to insulate investors from claims on the SPE's assets by creditors of other entities, including the creditors of the seller of the assets.
+The primary beneficiary of a VIE (i.e., the party that has a controlling financial interest) is required to consolidate the assets and liabilities of the VIE. The primary beneficiary is the party that has both (1) the power to direct the activities of the VIE that most
+170
+JPMorgan Chase & Co./2025 Form 10-K
+significantly impact the VIE's economic performance; and (2) through its interests in the VIE, the obligation to absorb losses or the right to receive benefits from the VIE that could potentially be significant to the VIE.
+To assess whether the Firm has the power to direct the activities of a VIE that most significantly impact the VIE's economic performance, the Firm considers all the facts and circumstances, including its role in establishing the VIE and its ongoing rights and responsibilities. This assessment includes, first, identifying the activities that most significantly impact the VIE's economic performance; and second, identifying which party, if any, has power over those activities. In general, the parties that make the most significant decisions affecting the VIE (such as asset managers, collateral managers, servicers, or owners of call options or liquidation rights over the VIE's assets) or have the right to unilaterally remove those decision-makers are deemed to have the power to direct the activities of a VIE.
+To assess whether the Firm has the obligation to absorb losses of the VIE or the right to receive benefits from the VIE that could potentially be significant to the VIE, the Firm considers all of its economic interests, including debt and equity investments, servicing fees, and derivatives or other arrangements deemed to be variable interests in the VIE. This assessment requires that the Firm apply judgment in determining whether these interests, in the aggregate, are considered potentially significant to the VIE. Factors considered in assessing significance include: the design of the VIE, including its capitalization structure; subordination of interests; payment priority; relative share of interests held across various classes within the VIE's capital structure; and the reasons why the interests are held by the Firm.
+The Firm performs on-going reassessments of: (1) whether entities previously evaluated under the majority voting-interest framework have become VIEs, based on certain events, and are therefore subject to the VIE consolidation framework; and (2) whether changes in the facts and circumstances regarding the Firm's involvement with a VIE cause the Firm's consolidation conclusion to change.
+Refer to Note 14 for further discussion of Firm-sponsored VIEs.
+Revenue recognition
+Interest income
+The Firm recognizes interest income on loans, debt securities, and other debt instruments, generally on a level-yield basis, based on the underlying contractual rate. Refer to Note 7 for further information.
+Revenue from contracts with customers
+JPMorganChase recognizes noninterest revenue from certain contracts with customers , in investment banking fees, deposit-related fees, asset management
+fees, commissions and other fees, and components of card income, when the Firm's related performance obligations are satisfied. Refer to Note 6 for further discussion of the Firm's revenue from contracts with customers.
+Principal transactions revenue
+JPMorganChase carries a portion of its assets and liabilities at fair value. Changes in fair value are reported primarily in principal transactions revenue. Refer to Notes 2 and 3 for further discussion of fair value measurement. Refer to Note 6 for further discussion of principal transactions revenue.
+Use of estimates in the preparation of consolidated financial statements
+The preparation of the Consolidated Financial Statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, revenue and expense, and disclosures of contingent assets and liabilities. Actual results could be different from these estimates.
+Foreign currency translation
+JPMorganChase revalues assets, liabilities, revenue and expense denominated in non-U.S. currencies into U.S. dollars using applicable exchange rates.
+Gains and losses relating to translating functional currency financial statements for U.S. reporting are included in the Consolidated statements of comprehensive income. Gains and losses relating to nonfunctional currency transactions, including non-U.S. operations where the functional currency is the U.S. dollar, are reported in the Consolidated statements of income.
+Offsetting assets and liabilities
+U.S. GAAP permits entities to present derivative receivables and derivative payables with the same counterparty and the related cash collateral receivables and payables on a net basis on the Consolidated balance sheets when a legally enforceable master netting agreement exists. U.S. GAAP also permits securities sold and purchased under repurchase agreements and securities borrowed or loaned under securities loan agreements to be presented net when specified conditions are met, including the existence of a legally enforceable master netting agreement. The Firm has elected to net such balances where it has determined that the specified conditions are met.
+The Firm uses master netting agreements to mitigate counterparty credit risk in certain transactions, including derivative contracts, resale, repurchase, securities borrowed and securities loaned agreements. A master netting agreement is a single agreement with a counterparty that permits multiple transactions governed by that agreement to be terminated or accelerated and settled through a single
+JPMorgan Chase & Co./2025 Form 10-K
+171
+Notes to consolidated financial statements
+payment in a single currency in the event of a default (e.g., bankruptcy, failure to make a required payment or securities transfer or deliver collateral or margin when due). Upon the exercise of derivatives termination rights by the non-defaulting party (i) all transactions are terminated, (ii) all transactions are valued and the positive values of "in the money" transactions are netted against the negative values of "out of the money" transactions and (iii) the only remaining payment obligation is of one of the parties to pay the netted termination amount. Upon exercise of default rights under repurchase agreements and securities loan agreements in general (i) all transactions are terminated and accelerated, (ii) all values of securities or cash held or to be delivered are calculated, and all such sums are netted against each other and (iii) the only remaining payment obligation is of one of the parties to pay the netted termination amount.
+Typical master netting agreements for these types of transactions also often contain a collateral/margin agreement that provides for a security interest in, or title transfer of, securities or cash collateral/margin to the party that has the right to demand margin (the "demanding party"). The collateral/margin agreement typically requires a party to transfer collateral/margin to the demanding party with a value equal to the amount of the margin deficit on a net basis across all transactions governed by the master netting agreement, less any threshold. The collateral/margin agreement grants to the demanding party, upon default by the counterparty, the right to set-off any amounts payable by the counterparty against any posted collateral or the cash equivalent of any posted collateral/margin. It also grants to the demanding party the right to liquidate collateral/margin and to apply the proceeds to an amount payable by the counterparty.
+Refer to Note 5 for further discussion of the Firm's derivative instruments. Refer to Note 11 for further discussion of the Firm's securities financing agreements.
+Statements of cash flows
+For JPMorganChase's Consolidated statements of cash flows, cash is defined as those amounts included in cash and due from banks and deposits with banks on the Consolidated balance sheets.
+Accounting standard adopted January 1, 2024
+Equity Method and Joint Ventures: Accounting for Investments in Tax Credit Structures Using the Proportional Amortization Method
+The guidance expanded the types of tax-oriented investments, beyond affordable housing tax credit investments, that the Firm can elect on a program by program basis, to be accounted for using the proportional amortization method.
+The adoption of this guidance under the modified retrospective method on January 1, 2024 resulted in a change to the classification and timing of the amortization associated with certain of the Firm's alternative energy tax-oriented investments. As a result of the adoption, the amortization of these investments that was previously recognized in other income became recognized in income tax expense. The change in accounting resulted in a decrease to retained earnings of $ 161 million and increased the Firm's income tax expense and the effective tax rate by approximately $ 450 million and two percentage points, respectively, in the first quarter of 2024, with no material impact to net income.
+Refer to Notes 6, 14 and 25 for additional information.
+Accounting standards adopted January 1, 2023
+Derivatives and Hedging: Fair Value Hedging Portfolio Layer Method
+The adoption of this guidance expanded the ability to hedge a portfolio of fixed-rate assets in a qualifying hedge accounting relationship. As permitted by the guidance, the Firm elected to transfer HTM securities to AFS and designated those securities in a portfolio layer method hedge upon adoption. The adoption impact of the transfer on retained earnings was not material.
+Financial Instruments Credit Losses: Troubled Debt Restructurings ("TDRs")
+The adoption of this guidance eliminated the requirement to measure the allowance for TDRs using a discounted cash flow ("DCF") methodology and allowed the option of a non-DCF portfolio-based approach for modified loans to troubled borrowers. The Firm elected this option for all portfolios of modified loans to troubled borrowers except collateral-dependent loans and nonaccrual risk-rated loans, for which the Firm elected to continue applying a DCF methodology. The adoption of this guidance under the modified retrospective method on January 1, 2023, resulted in a $ 446 million increase to retained earnings.
+172
+JPMorgan Chase & Co./2025 Form 10-K
+Significant accounting policies
+The following table identifies JPMorganChase's other significant accounting policies and the Note and page where a detailed description of each policy can be found.
+Fair value measurement Note 2 page 174
+Fair value option Note 3 page 196
+Derivative instruments Note 5 page 202
+Noninterest revenue and noninterest expense Note 6 page 218
+Interest income and interest expense
+Note 7 page 222
+Pension and other postretirement employee benefit plans Note 8 page 223
+Employee share-based incentives Note 9 page 226
+Investment securities Note 10 page 228
+Securities financing activities Note 11 page 233
+Loans Note 12 page 236
+Allowance for credit losses Note 13 page 258
+Variable interest entities Note 14 page 263
+Goodwill, mortgage servicing rights, and other intangible assets Note 15 page 272
+Premises and equipment Note 16 page 277
+Leases Note 18 page 278
+Accounts payable and other liabilities
+Note 19 page 280
+Long-term debt Note 20 page 281
+Earnings per share Note 23 page 286
+Income taxes Note 25 page 288
+Off balance sheet lending-related financial instruments, guarantees, and other commitments
+Note 28 page 295
+Litigation Note 30 page 302
+JPMorgan Chase & Co./2025 Form 10-K
+173
+Notes to consolidated financial statements
+Note 2 Fair value measurement
+JPMorganChase carries a portion of its assets and liabilities at fair value. These assets and liabilities are predominantly carried at fair value on a recurring basis (i.e., assets and liabilities that are measured and reported at fair value on the Firm's Consolidated balance sheets). Certain assets, liabilities and unfunded lending-related commitments are measured at fair value on a nonrecurring basis; that is, they are not measured at fair value on an ongoing basis but are subject to fair value adjustments only in certain circumstances (for example, when there is evidence of impairment).
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. Fair value is based on quoted market prices or inputs, where available. If prices or quotes are not available, fair value is based on valuation models and other valuation techniques that consider relevant transaction characteristics (such as maturity) and use, as inputs, observable or unobservable market parameters, including yield curves, interest rates, volatilities, prices (such as commodity, equity or debt prices), correlations, foreign exchange rates and credit curves. Fair value may also incorporate valuation adjustments.
+The level of precision in estimating unobservable market inputs or other factors can affect the amount of gain or loss recorded for a particular position. Furthermore, while the Firm believes its valuation methods are appropriate and consistent with those of other market participants, the methods and assumptions used reflect management judgment and may vary across the Firm's businesses and portfolios.
+The Firm uses various methodologies and assumptions in the determination of fair value. The use of different methodologies or assumptions by other market participants compared with those used by the Firm could result in the Firm deriving a different estimate of fair value at the reporting date.
+Valuation process
+Risk-taking functions are responsible for providing fair value estimates for assets and liabilities carried on the Consolidated balance sheets at fair value. The Firm's Valuation Control Group ("VCG"), which is part of the Firm's Finance function and independent of the risk-taking functions, is responsible for verifying these estimates and determining any fair value adjustments that may be required to ensure that the Firm's positions are recorded at fair value. In addition, the Firm's Valuation Governance Forum ("VGF"), which is composed of senior finance and risk executives, is responsible for overseeing the management of risks arising from valuation activities conducted across the Firm. The Firmwide VGF is chaired by the Firmwide
+head of the VCG (under the direction of the Firm's Controller), and includes sub-forums covering the CIB, CCB, AWM and certain corporate functions including Treasury and CIO.
+Price verification process
+The VCG verifies fair value estimates provided by the risk-taking functions by leveraging independently derived prices, valuation inputs and other market data, where available. Where independent prices or inputs are not available, the VCG performs additional review to ensure the reasonableness of the estimates. The additional review may include evaluating the limited market activity including client unwinds, benchmarking valuation inputs to those used for similar instruments, decomposing the valuation of structured instruments into individual components, comparing expected to actual cash flows, reviewing profit and loss trends, and reviewing trends in collateral valuation. There are also additional levels of management review for more significant or complex positions.
+The VCG determines any valuation adjustments that may be required to the estimates provided by the risk-taking functions. No adjustments to quoted prices are applied for instruments classified within level 1 of the fair value hierarchy (refer to the discussion of the fair value hierarchy on page 175 for further information). For other positions, judgment is required to assess the need for valuation adjustments to appropriately reflect liquidity considerations, unobservable parameters, and, for certain portfolios that meet specified criteria, the size of the net open risk position. The determination of such adjustments follows a consistent framework across the Firm:
+Liquidity valuation adjustments are considered where an observable external price or valuation parameter exists but is of lower reliability, potentially due to lower market activity. Liquidity valuation adjustments are made based on current market conditions. Factors that may be considered in determining the liquidity adjustment include analysis of: (1) the estimated bid-offer spread for the instrument being traded; (2) alternative pricing points for similar instruments in active markets; and (3) the range of reasonable values that the price or parameter could take.
+The Firm manages certain portfolios of financial instruments on the basis of net open risk exposure and, as permitted by U.S. GAAP, has elected to estimate the fair value of such portfolios on the basis of a transfer of the entire net open risk position in an orderly transaction. Where this is the case, valuation adjustments may be necessary to reflect the cost of exiting a larger-than-normal market-size net open risk position. Where applied, such adjustments are based on factors that a relevant market participant
+174
+JPMorgan Chase & Co./2025 Form 10-K
+would consider in the transfer of the net open risk position, including the size of the adverse market move that is likely to occur during the period required to sufficiently reduce the net open risk position.
+Uncertainty adjustments related to unobservable parameters may be made when positions are valued using prices or input parameters to valuation models that are unobservable due to a lack of market activity or because they cannot be implied from observable market data. Such prices or parameters must be estimated and are, therefore, subject to management judgment. Adjustments are made to reflect the uncertainty inherent in the resulting valuation estimate.
+Where appropriate, the Firm also applies adjustments to its estimates of fair value in order to appropriately reflect counterparty credit quality (CVA), the Firm's own creditworthiness (DVA) and the impact of funding (FVA), using a consistent framework across the Firm. Refer to Credit and funding adjustments on page 191 of this Note for more information on such adjustments.
+Valuation model review and approval
+If prices or quotes are not available for an instrument or a similar instrument, fair value is generally determined using valuation models that consider relevant transaction terms such as maturity and use as inputs market-based or independently sourced parameters. Where this is the case the price verification process described above is applied to the inputs in those models.
+Under the Firm's Estimations and Model Risk Management Policy, MRGR reviews and approves new models, as well as material changes to existing models, prior to implementation in the operating environment. In certain circumstances exceptions may be granted to the Firm's policy to allow a model to be used prior to review or approval. MRGR may also require the user to take appropriate actions to mitigate the model risk if it is to be used in the interim. These actions will depend on the model and may include, for example, limitation of trading activity.
+Fair value hierarchy
+A three-level fair value hierarchy has been established under U.S. GAAP for disclosure of fair value measurements. The fair value hierarchy is based on the observability of inputs to the valuation of an asset or liability as of the measurement date. The three levels are defined as follows.
+Level 1 inputs to the valuation methodology are quoted prices (unadjusted) for identical assets or liabilities in active markets.
+Level 2 inputs to the valuation methodology include quoted prices for similar assets and liabilities in active markets, and inputs that are observable for the asset or liability, either directly or indirectly, for substantially the full term of the financial instrument.
+Level 3 one or more inputs to the valuation methodology are unobservable and significant to the fair value measurement.
+A financial instrument's categorization within the fair value hierarchy is based on the lowest level of input that is significant to the fair value measurement.
+JPMorgan Chase & Co./2025 Form 10-K
+175
+Notes to consolidated financial statements
+The following table describes the valuation methodologies generally used by the Firm to measure its significant products/instruments at fair value, including the general classification of such instruments pursuant to the fair value hierarchy.
+Product/instrument Valuation methodology Classifications in the fair value hierarchy
+Securities financing agreements Valuations are based on discounted cash flows, which consider: Predominantly level 2
+Derivative features: refer to the discussion of derivatives below for further information
+Market rates for the respective maturity
+Collateral characteristics
+Loans and lending-related commitments — wholesale
+Loans carried at fair value
+(trading loans and non-trading loans) and associated
+lending-related commitments
+Where observable market data is available, valuations are based on:
+Level 2 or 3
+Observed market prices (circumstances are infrequent)
+Relevant broker quotes
+Observed market prices for similar instruments
+Where observable market data is unavailable or limited, valuations are based on discounted cash flows, which consider the following:
+Credit spreads derived from the cost of CDS; or benchmark credit curves developed by the Firm, by industry and credit rating
+Prepayment speed
+Collateral characteristics
+Loans — consumer Fair value is based on observable market prices for mortgage-backed securities with similar collateral and incorporates adjustments to these prices to account for differences between the securities and the value of the underlying loans, which include credit characteristics, portfolio composition, and liquidity. Predominantly level 2
+Loans carried at fair value — residential mortgage loans expected to be sold
+Investment and trading securities Quoted market prices Level 1
+In the absence of quoted market prices, securities are valued based on: Level 2 or 3
+Observable market prices for similar securities
+Relevant broker quotes
+Discounted cash flows
+In addition, the following inputs to discounted cash flows are used for the following products:
+Mortgage- and asset-backed securities specific inputs:
+Collateral characteristics
+Deal-specific payment and loss allocations
+Current market assumptions related to yield, prepayment speed, conditional default rates and loss severity
+Collateralized loan obligations ("CLOs") specific inputs:
+Collateral characteristics
+Deal-specific payment and loss allocations
+Expected prepayment speed, conditional default rates, loss severity
+Credit spreads
+Credit rating data
+Physical commodities Valued using observable market prices or data. Predominantly Level 1 or 2
+176
+JPMorgan Chase & Co./2025 Form 10-K
+Product/instrument Valuation methodology Classifications in the fair value hierarchy
+Derivatives Actively traded derivatives, e.g., exchange-traded derivatives, that are valued using quoted prices. Level 1
+Derivatives that are valued using models such as the Black-Scholes option pricing model, simulation models, or a combination of models that may use observable or unobservable valuation inputs as well as considering the contractual terms.
+The key valuation inputs used will depend on the type of derivative and the nature of the underlying instruments and may include equity prices, commodity prices, foreign exchange rates, volatilities, correlations, CDS spreads, recovery rates and prepayment speed.
+Level 2 or 3
+In addition, specific inputs used for derivatives that are valued based on models with significant unobservable inputs are as follows:
+Interest rate (IR) and FX exotic derivatives specific inputs include:
+Interest rate curve
+Interest rate volatility
+Interest rate spread volatility
+Bermudan switch value
+Interest rate correlation
+Interest rate-FX correlation
+Foreign exchange correlation
+Credit derivatives specific inputs include:
+Credit correlation between the underlying debt instruments
+Equity derivatives specific inputs include:
+Forward equity price
+Equity volatility
+Equity correlation
+Equity-FX correlation
+Equity-IR correlation
+Commodity derivatives specific inputs include:
+Forward commodity price
+Commodity volatility
+Commodity correlation
+Additionally, adjustments are made to reflect counterparty credit quality (CVA) and the impact of funding (FVA). Refer to page 191 of this Note.
+Mortgage servicing rights Refer to Mortgage servicing rights in Note 15.
+Level 3
+Private equity direct investments Fair value is estimated using all available information; the range of potential inputs include: Level 2 or 3
+Transaction prices
+Trading multiples of comparable public companies
+Operating performance of the underlying portfolio company
+Adjustments as required, since comparable public companies are not identical to the company being valued, and for company-specific issues including lack of liquidity
+Additional available inputs relevant to the investment
+JPMorgan Chase & Co./2025 Form 10-K
+177
+Notes to consolidated financial statements
+Product/instrument Valuation methodology Classification in the fair value hierarchy
+Fund investments (e.g., mutual/collective investment funds, private equity funds, hedge funds, and real estate funds) Net asset value
+NAV is supported by the ability to redeem and purchase at the NAV level Level 1
+Adjustments to the NAV as required, for restrictions on redemption (e.g., lock-up periods or withdrawal limitations) or where observable activity is limited Level 2 or 3 (a)
+Beneficial interests issued by consolidated VIEs Valued using observable market information, where available. Level 2 or 3
+In the absence of observable market information, valuations are based on the fair value of the underlying assets held by the VIE.
+Structured notes (included in deposits, short-term borrowings and long-term debt) Valuations are based on discounted cash flow analyses that consider the embedded derivative and the terms and payment structure of the note.
+The embedded derivative features are considered using models such as the Black-Scholes option pricing model, simulation models, or a combination of models that may use observable or unobservable valuation inputs, depending on the embedded derivative. The specific inputs used vary according to the nature of the embedded derivative features, as described in the discussion above regarding derivatives valuation. Adjustments are then made to this base valuation to reflect the Firm's own credit risk (DVA). Refer to page 191 of this Note.
+Level 2 or 3
+(a) Excludes certain investments that are measured at fair value using the net asset value per share (or its equivalent) as a practical expedient.
+178
+JPMorgan Chase & Co./2025 Form 10-K
+The following table presents the assets and liabilities reported at fair value as of December 31, 2025 and 2024, by major product category and fair value hierarchy.
+Assets and liabilities measured at fair value on a recurring basis
+Fair value hierarchy
+December 31, 2025 (in millions) Level 1 Level 2 Level 3 Derivative netting adjustments (f)
+Total fair value
+Federal funds sold and securities purchased under resale agreements $ — $ 327,018 $ — $ — $ 327,018
+Securities borrowed — 98,111 — — 98,111
+Trading assets:
+Debt instruments:
+Mortgage-backed securities:
+U.S. GSEs and government agencies (a)
+— 157,834 307 — 158,141
+Residential nonagency — 2,002 5 — 2,007
+Commercial nonagency — 1,937 — — 1,937
+Total mortgage-backed securities — 161,773 312 — 162,085
+U.S. Treasury, GSEs and government agencies (a)
+225,255 18,629 — — 243,884
+Obligations of U.S. states and municipalities — 6,129 1 — 6,130
+Certificates of deposit, bankers' acceptances and commercial paper
+— 1,345 — — 1,345
+Non-U.S. government debt securities (b)
+77,385 47,054 245 — 124,684
+Corporate debt securities — 45,053 454 — 45,507
+Loans — 11,782 1,143 — 12,925
+Asset-backed securities — 3,986 27 — 4,013
+Total debt instruments 302,640 295,751 2,182 — 600,573
+Equity securities 107,585 2,153 138 — 109,876
+Physical commodities (c)
+20,880 947 30 — 21,857
+Other — 12,346 444 — 12,790
+Total debt and equity instruments (d)
+431,105 311,197 2,794 — 745,096
+Derivative receivables:
+Interest rate 1,579 276,565 3,740 ( 256,483 ) 25,401
+Credit — 12,018 1,006 ( 12,545 ) 479
+Foreign exchange 111 181,318 1,807 ( 163,881 ) 19,355
+Equity (b)
+806 95,098 1,819 ( 91,856 ) 5,867
+Commodity — 29,961 554 ( 23,840 ) 6,675
+Total derivative receivables 2,496 594,960 8,926 ( 548,605 ) 57,777
+Total trading assets (e)
+433,601 906,157 11,720 ( 548,605 ) 802,873
+Available-for-sale securities:
+Mortgage-backed securities:
+U.S. GSEs and government agencies (a)
+1 90,971 — — 90,972
+Residential nonagency — 5,991 — — 5,991
+Commercial nonagency — 4,481 3 — 4,484
+Total mortgage-backed securities 1 101,443 3 — 101,447
+U.S. Treasury and government agencies 315,361 461 — — 315,822
+Obligations of U.S. states and municipalities — 20,240 — — 20,240
+Non-U.S. government debt securities (b)
+34,308 11,347 — — 45,655
+Corporate debt securities — 20 108 — 128
+Asset-backed securities:
+Collateralized loan obligations — 21,947 — — 21,947
+Other (a)
+— 1,959 — — 1,959
+Total available-for-sale securities 349,670 157,417 111 — 507,198
+Loans — 67,622 3,062 — 70,684
+Mortgage servicing rights — — 9,167 — 9,167
+Other assets (e)
+6,864 6,890 1,047 — 14,801
+Total assets measured at fair value on a recurring basis $ 790,135 $ 1,563,215 $ 25,107 $ ( 548,605 ) $ 1,829,852
+Deposits $ — $ 18,574 $ 2,356 $ — $ 20,930
+Federal funds purchased and securities loaned or sold under repurchase agreements — 360,194 — — 360,194
+Short-term borrowings — 26,902 5,558 — 32,460
+Trading liabilities:
+Debt and equity instruments (d)
+135,366 33,998 326 — 169,690
+Derivative payables:
+Interest rate 2,071 253,078 2,434 ( 250,122 ) 7,461
+Credit — 15,487 2,141 ( 15,612 ) 2,016
+Foreign exchange 118 176,521 1,502 ( 163,308 ) 14,833
+Equity (b)
+1,210 110,451 5,356 ( 102,211 ) 14,806
+Commodity — 25,799 570 ( 19,156 ) 7,213
+Total derivative payables 3,399 581,336 12,003 ( 550,409 ) 46,329
+Total trading liabilities 138,765 615,334 12,329 ( 550,409 ) 216,019
+Accounts payable and other liabilities 3,967 2,655 38 — 6,660
+Beneficial interests issued by consolidated VIEs — 5 — — 5
+Long-term debt — 87,886 46,673 — 134,559
+Total liabilities measured at fair value on a recurring basis $ 142,732 $ 1,111,550 $ 66,954 $ ( 550,409 ) $ 770,827
+JPMorgan Chase & Co./2025 Form 10-K
+179
+Notes to consolidated financial statements
+Fair value hierarchy
+December 31, 2024 (in millions) Level 1 Level 2 Level 3 Derivative netting adjustments (f)
+Total fair value
+Federal funds sold and securities purchased under resale agreements $ — $ 286,771 $ — $ — $ 286,771
+Securities borrowed — 83,962 — — 83,962
+Trading assets:
+Debt instruments:
+Mortgage-backed securities:
+U.S. GSEs and government agencies (a)
+— 104,312 488 — 104,800
+Residential nonagency — 2,282 5 — 2,287
+Commercial nonagency — 1,283 10 — 1,293
+Total mortgage-backed securities — 107,877 503 — 108,380
+U.S. Treasury, GSEs and government agencies (a)
+150,580 11,702 — — 162,282
+Obligations of U.S. states and municipalities — 6,100 1 — 6,101
+Certificates of deposit, bankers' acceptances and commercial paper
+— 3,950 — — 3,950
+Non-U.S. government debt securities 34,108 54,335 152 — 88,595
+Corporate debt securities — 33,591 390 — 33,981
+Loans — 10,228 1,088 — 11,316
+Asset-backed securities — 2,813 10 — 2,823
+Total debt instruments 184,688 230,596 2,144 — 417,428
+Equity securities 130,307 1,359 62 — 131,728
+Physical commodities (c)
+5,957 1,533 26 — 7,516
+Other — 19,935 210 — 20,145
+Total debt and equity instruments (d)
+320,952 253,423 2,442 — 576,817
+Derivative receivables:
+Interest rate 4,934 282,019 3,781 ( 265,789 ) 24,945
+Credit — 10,379 708 ( 10,273 ) 814
+Foreign exchange 196 261,520 1,204 ( 237,608 ) 25,312
+Equity — 82,855 2,365 ( 79,935 ) 5,285
+Commodity — 15,232 394 ( 11,015 ) 4,611
+Total derivative receivables 5,130 652,005 8,452 ( 604,620 ) 60,967
+Total trading assets (e)
+326,082 905,428 10,894 ( 604,620 ) 637,784
+Available-for-sale securities:
+Mortgage-backed securities:
+U.S. GSEs and government agencies (a)
+— 91,893 — — 91,893
+Residential nonagency — 4,811 — — 4,811
+Commercial nonagency — 4,057 8 — 4,065
+Total mortgage-backed securities — 100,761 8 — 100,769
+U.S. Treasury and government agencies 234,491 288 — — 234,779
+Obligations of U.S. states and municipalities — 17,913 — — 17,913
+Non-U.S. government debt securities 23,973 12,272 — — 36,245
+Corporate debt securities — 70 — — 70
+Asset-backed securities:
+Collateralized loan obligations — 14,943 — — 14,943
+Other (a)
+— 2,133 — — 2,133
+Total available-for-sale securities 258,464 148,380 8 — 406,852
+Loans — 38,934 2,416 — 41,350
+Mortgage servicing rights — — 9,121 — 9,121
+Other assets (e)
+5,732 6,997 1,344 — 14,073
+Total assets measured at fair value on a recurring basis $ 590,278 $ 1,470,472 $ 23,783 $ ( 604,620 ) $ 1,479,913
+Deposits $ — $ 31,583 $ 2,185 $ — $ 33,768
+Federal funds purchased and securities loaned or sold under repurchase agreements
+— 226,329 — — 226,329
+Short-term borrowings — 23,045 3,476 — 26,521
+Trading liabilities:
+Debt and equity instruments (d)
+120,719 32,457 46 — 153,222
+Derivative payables:
+Interest rate 3,981 266,767 3,480 ( 264,989 ) 9,239
+Credit — 12,725 1,071 ( 11,898 ) 1,898
+Foreign exchange 187 253,196 1,184 ( 238,970 ) 15,597
+Equity — 90,908 5,231 ( 87,491 ) 8,648
+Commodity — 14,021 467 ( 10,209 ) 4,279
+Total derivative payables 4,168 637,617 11,433 ( 613,557 ) 39,661
+Total trading liabilities 124,887 670,074 11,479 ( 613,557 ) 192,883
+Accounts payable and other liabilities 3,100 2,717 76 — 5,893
+Beneficial interests issued by consolidated VIEs — 1 — — 1
+Long-term debt — 66,216 34,564 — 100,780
+Total liabilities measured at fair value on a recurring basis $ 127,987 $ 1,019,965 $ 51,780 $ ( 613,557 ) $ 586,175
+(a) At December 31, 2025 and 2024, included total U.S. GSE obligations of $ 158.4 billion and $ 120.1 billion, respectively, which were mortgage-related.
+(b) In the fourth quarter of 2025, the Firm refined the active market assessment of certain products and updated the leveling classification accordingly.
+(c) Physical commodities inventories are generally accounted for at the lower of cost or net realizable value. "Net realizable value" is a term defined in U.S. GAAP as not exceeding fair value less costs to sell ("transaction costs"). Transaction costs for the Firm's physical commodities inventories are either not applicable or immaterial to the value of the inventory. Therefore, net realizable value approximates fair value for the Firm's physical commodities inventories. When fair value hedging has been applied (or when net realizable value is below cost), the carrying value of physical commodities approximates fair value, because under fair value hedge accounting, the cost basis is adjusted for changes in fair
+180
+JPMorgan Chase & Co./2025 Form 10-K
+value. Refer to Note 5 for a further discussion of the Firm's hedge accounting relationships. To provide consistent fair value disclosure information, all physical commodities inventories have been included in each period presented.
+(d) Balances reflect the reduction of securities owned (long positions) by the amount of identical securities sold but not yet purchased (short positions).
+(e) Certain investments that are measured at fair value using the net asset value per share (or its equivalent) as a practical expedient are not required to be classified in the fair value hierarchy. At both December 31, 2025 and 2024, the fair values of these investments, which include certain hedge funds, private equity funds, real estate and other funds, were $ 1.0 billion, primarily reported in other assets.
+(f) As permitted under U.S. GAAP, the Firm has elected to net derivative receivables and derivative payables and the related cash collateral received and paid when a legally enforceable master netting agreement exists. The level 3 balances would be reduced if netting were applied, including the netting benefit associated with cash collateral.
+181
+JPMorgan Chase & Co./2025 Form 10-K
+Notes to consolidated financial statements
+Level 3 valuations
+The Firm has established well-structured processes for determining fair value, including for instruments where fair value is estimated using significant unobservable inputs (level 3). Refer to pages 174 178 of this Note for further information on the Firm's valuation process and a detailed discussion of the determination of fair value for individual financial instruments.
+Estimating fair value requires the application of judgment. The type and level of judgment required is largely dependent on the amount of observable market information available to the Firm. For instruments valued using internally developed valuation models and other valuation techniques that use significant unobservable inputs and are therefore classified within level 3 of the fair value hierarchy, judgments used to estimate fair value are more significant than those required when estimating the fair value of instruments classified within levels 1 and 2.
+In arriving at an estimate of fair value for an instrument within level 3, management must first determine the appropriate valuation model or other valuation technique to use. Second, due to the lack of observability of significant inputs, management must assess relevant empirical data in deriving valuation inputs including transaction details, yield curves, interest rates, prepayment speeds, default rates, volatilities, correlations, prices (such as commodity, equity or debt prices), valuations of comparable instruments, foreign exchange rates and credit curves.
+The following table presents the Firm's primary level 3 financial instruments, the valuation techniques used to measure the fair value of those financial instruments, the significant unobservable inputs, the range of values for those inputs and the weighted or arithmetic averages of such inputs. While the determination to classify an instrument within level 3 is based on the significance of the unobservable inputs to the overall fair value measurement, level 3 financial instruments typically include observable components (that is, components that are actively quoted and can be validated to external sources) in addition to the unobservable components. The level 1 and/or level 2 inputs are not included in the table. In addition, the Firm manages the risk of the observable components of level 3 financial instruments using securities and derivative positions that are classified within levels 1 or 2 of the fair value hierarchy.
+The range of values presented in the table is representative of the highest and lowest level input used to value the significant groups of instruments within a product/instrument classification. Where provided, the weighted averages of the input values presented in the table are calculated based on the fair value of the instruments that the input is being used to value.
+In the Firm's view, the input range, weighted and arithmetic average values do not reflect the degree of input uncertainty or an assessment of the reasonableness of the Firm's estimates and assumptions. Rather, they reflect the characteristics of the various instruments held by the Firm and the relative distribution of instruments within the range of characteristics. For example, two option contracts may have similar levels of market risk exposure and valuation uncertainty, but may have significantly different implied volatility levels because the option contracts have different underlyings, tenors, or strike prices. The input range and weighted and arithmetic average values will therefore vary from period-to-period and parameter-to-parameter based on the characteristics of the instruments held by the Firm at each balance sheet date.
+182
+JPMorgan Chase & Co./2025 Form 10-K
+Level 3 inputs (a)
+December 31, 2025
+Product/Instrument Fair value (in millions)
+Principal valuation technique Unobservable inputs (g)
+Range of input values Average (i)
+Residential mortgage-backed securities and loans (b)
+$ 889 Discounted cash flows Yield 0 % 70 % 7 %
+Prepayment speed 7 % 14 % 9 %
+Conditional default rate 0 % 2 % 0 %

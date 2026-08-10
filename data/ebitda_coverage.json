@@ -1,0 +1,947 @@
+{
+  "rows": [
+    {
+      "stem": "AAPL_FY2025",
+      "full": 220369,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "AAPL_FY2024",
+      "full": 218387,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "MSFT_FY2026",
+      "full": 357259,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "MSFT_FY2025",
+      "full": 346972,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "GOOGL_FY2025",
+      "full": 383682,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "GOOGL_FY2024",
+      "full": 381197,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "AMZN_FY2025",
+      "full": 312115,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "AMZN_FY2024",
+      "full": 308194,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "META_FY2025",
+      "full": 535323,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "META_FY2024",
+      "full": 522095,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "NVDA_FY2026",
+      "full": 360127,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "NVDA_FY2025",
+      "full": 367890,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "CSCO_FY2025",
+      "full": 445028,
+      "hits": 2,
+      "adj": 0,
+      "section": "Item 7 (MD&A)",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "CSCO_FY2024",
+      "full": 458073,
+      "hits": 2,
+      "adj": 0,
+      "section": "Item 7 (MD&A)",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "ORCL_FY2026",
+      "full": 461401,
+      "hits": 1,
+      "adj": 0,
+      "section": "Item 7 (MD&A)",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "ORCL_FY2025",
+      "full": 454696,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "ADBE_FY2025",
+      "full": 370923,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "ADBE_FY2024",
+      "full": 403387,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "QCOM_FY2025",
+      "full": 403368,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "QCOM_FY2024",
+      "full": 419903,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "NFLX_FY2025",
+      "full": 309002,
+      "hits": 3,
+      "adj": 0,
+      "section": "Item 8 (statements)",
+      "recon": false,
+      "in_slice": true
+    },
+    {
+      "stem": "NFLX_FY2024",
+      "full": 279753,
+      "hits": 1,
+      "adj": 0,
+      "section": "Item 8 (statements)",
+      "recon": false,
+      "in_slice": true
+    },
+    {
+      "stem": "INTC_FY2025",
+      "full": 570890,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "INTC_FY2024",
+      "full": 524376,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "AMD_FY2025",
+      "full": 424901,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "AMD_FY2024",
+      "full": 408200,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "CRM_FY2026",
+      "full": 437926,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "CRM_FY2025",
+      "full": 423937,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "JPM_FY2025",
+      "full": 1408264,
+      "hits": 1,
+      "adj": 0,
+      "section": "Item 8 (statements)",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "BAC_FY2025",
+      "full": 1169842,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "C_FY2025",
+      "full": 1506615,
+      "hits": 1,
+      "adj": 0,
+      "section": "before Item 7",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "MS_FY2025",
+      "full": 978887,
+      "hits": 7,
+      "adj": 0,
+      "section": "before Item 7",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "WFC_FY2025",
+      "full": 88991,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "GS_FY2025",
+      "full": 1281471,
+      "hits": 1,
+      "adj": 0,
+      "section": "Item 8 (statements)",
+      "recon": false,
+      "in_slice": true
+    },
+    {
+      "stem": "V_FY2025",
+      "full": 459335,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "V_FY2024",
+      "full": 434227,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "MA_FY2025",
+      "full": 478896,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "MA_FY2024",
+      "full": 484091,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "JNJ_FY2025",
+      "full": 519406,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "JNJ_FY2024",
+      "full": 518235,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "ABBV_FY2025",
+      "full": 501102,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "ABBV_FY2024",
+      "full": 507826,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "MRK_FY2025",
+      "full": 788494,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "MRK_FY2024",
+      "full": 766074,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "LLY_FY2025",
+      "full": 419075,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "LLY_FY2024",
+      "full": 508327,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "AMGN_FY2025",
+      "full": 696702,
+      "hits": 1,
+      "adj": 0,
+      "section": "Item 8 (statements)",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "AMGN_FY2024",
+      "full": 687087,
+      "hits": 1,
+      "adj": 0,
+      "section": "Item 8 (statements)",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "GILD_FY2025",
+      "full": 472763,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "GILD_FY2024",
+      "full": 478430,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "UNH_FY2025",
+      "full": 372103,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "UNH_FY2024",
+      "full": 356304,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "ABT_FY2025",
+      "full": 371543,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "ABT_FY2024",
+      "full": 380520,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "MDT_FY2026",
+      "full": 567809,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "MDT_FY2025",
+      "full": 535198,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "BMY_FY2025",
+      "full": 583798,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "BMY_FY2024",
+      "full": 585041,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "KO_FY2025",
+      "full": 661098,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "KO_FY2024",
+      "full": 664315,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "PEP_FY2025",
+      "full": 477909,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "PEP_FY2024",
+      "full": 488289,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "PG_FY2025",
+      "full": 338453,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "PG_FY2024",
+      "full": 333205,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "MDLZ_FY2025",
+      "full": 481094,
+      "hits": 2,
+      "adj": 0,
+      "section": "Item 7 (MD&A)",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "MDLZ_FY2024",
+      "full": 525625,
+      "hits": 2,
+      "adj": 0,
+      "section": "Item 8 (statements)",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "CL_FY2025",
+      "full": 378461,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "CL_FY2024",
+      "full": 378928,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "WMT_FY2026",
+      "full": 383126,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "WMT_FY2025",
+      "full": 395863,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "TGT_FY2026",
+      "full": 255246,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "TGT_FY2025",
+      "full": 244919,
+      "hits": 6,
+      "adj": 0,
+      "section": "Item 7 (MD&A)",
+      "recon": true,
+      "in_slice": false
+    },
+    {
+      "stem": "HD_FY2026",
+      "full": 363074,
+      "hits": 2,
+      "adj": 0,
+      "section": "Item 8 (statements)",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "HD_FY2025",
+      "full": 350650,
+      "hits": 2,
+      "adj": 0,
+      "section": "Item 8 (statements)",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "LOW_FY2026",
+      "full": 316030,
+      "hits": 3,
+      "adj": 0,
+      "section": "Item 8 (statements)",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "LOW_FY2025",
+      "full": 301195,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "COST_FY2025",
+      "full": 218039,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "COST_FY2024",
+      "full": 222553,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "BA_FY2025",
+      "full": 494093,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "BA_FY2024",
+      "full": 486016,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "MMM_FY2025",
+      "full": 556952,
+      "hits": 7,
+      "adj": 0,
+      "section": "Item 7 (MD&A)",
+      "recon": false,
+      "in_slice": true
+    },
+    {
+      "stem": "MMM_FY2024",
+      "full": 619549,
+      "hits": 8,
+      "adj": 0,
+      "section": "Item 7 (MD&A)",
+      "recon": false,
+      "in_slice": true
+    },
+    {
+      "stem": "HON_FY2025",
+      "full": 552245,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "HON_FY2024",
+      "full": 523142,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "GE_FY2025",
+      "full": 459060,
+      "hits": 1,
+      "adj": 0,
+      "section": "before Item 7",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "GE_FY2024",
+      "full": 480746,
+      "hits": 1,
+      "adj": 0,
+      "section": "before Item 7",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "UPS_FY2025",
+      "full": 536094,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "UPS_FY2024",
+      "full": 577714,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "FDX_FY2026",
+      "full": 595253,
+      "hits": 3,
+      "adj": 3,
+      "section": "Item 8 (statements)",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "FDX_FY2025",
+      "full": 577215,
+      "hits": 3,
+      "adj": 3,
+      "section": "Item 8 (statements)",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "CVX_FY2025",
+      "full": 569062,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "CVX_FY2024",
+      "full": 555572,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "COP_FY2025",
+      "full": 572947,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "COP_FY2024",
+      "full": 612909,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "T_FY2025",
+      "full": 455348,
+      "hits": 31,
+      "adj": 0,
+      "section": "Item 7 (MD&A)",
+      "recon": true,
+      "in_slice": false
+    },
+    {
+      "stem": "T_FY2024",
+      "full": 466874,
+      "hits": 31,
+      "adj": 0,
+      "section": "Item 7 (MD&A)",
+      "recon": true,
+      "in_slice": false
+    },
+    {
+      "stem": "VZ_FY2025",
+      "full": 535295,
+      "hits": 29,
+      "adj": 8,
+      "section": "Item 7 (MD&A)",
+      "recon": true,
+      "in_slice": true
+    },
+    {
+      "stem": "VZ_FY2024",
+      "full": 544135,
+      "hits": 31,
+      "adj": 8,
+      "section": "Item 7 (MD&A)",
+      "recon": true,
+      "in_slice": true
+    },
+    {
+      "stem": "TSLA_FY2025",
+      "full": 429612,
+      "hits": 11,
+      "adj": 11,
+      "section": "Item 8 (statements)",
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "TSLA_FY2024",
+      "full": 415384,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "F_FY2025",
+      "full": 750494,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "F_FY2024",
+      "full": 760278,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "GM_FY2025",
+      "full": 514115,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    },
+    {
+      "stem": "GM_FY2024",
+      "full": 510079,
+      "hits": 0,
+      "adj": 0,
+      "section": null,
+      "recon": false,
+      "in_slice": false
+    }
+  ],
+  "summary": {
+    "n_fulltext": 104,
+    "n_any": 28,
+    "n_adjusted": 5,
+    "n_reconciled": 5,
+    "n_in_slice": 7
+  }
+}

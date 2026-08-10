@@ -19,9 +19,13 @@ tessdata/
 *.pdf
 *.html
 
-# Cache XBRL et vérité de terrain générée (garder les manifestes CSV versionnés)
+# Cache XBRL brut : volumineux, refetchable, non nécessaire à la reproduction.
 data/xbrl_cache/
-data/*.jsonl
+
+# En revanche corpus.jsonl, ground_truth.jsonl et data/extractions/ SONT versionnés :
+# ce sont les artefacts de reproductibilité annoncés dans paper/main.tex, et ils
+# permettent de recalculer toutes les tables sans accès réseau ni clé d'API.
+# (Une règle data/*.jsonl les excluait, ce qui contredisait cette annonce.)
 
 # Modèles et corpus volumineux
 *.bin
@@ -39,3 +43,4 @@ Thumbs.db
 
 # Installeurs
 *.exe
+paper/example.tex

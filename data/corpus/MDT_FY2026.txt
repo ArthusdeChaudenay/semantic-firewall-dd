@@ -1,0 +1,414 @@
+ challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+Income Tax Reserve for the Uncertain Tax Position Related to Puerto Rico Manufacturing
+As described in Notes 13 and 18 to the consolidated financial statements, management records reserves for uncertain tax positions related to unresolved matters with the Internal Revenue Service (IRS) and other taxing authorities. A remaining unresolved issue with the IRS relates to the allocation of income between Medtronic, Inc. and its wholly-owned subsidiary operating in Puerto Rico, which is one of the Company's manufacturing sites. These reserves are subject to a high degree of estimation and management judgment. Total reserves relating to uncertain tax positions as of April 24, 2026 were $2.951 billion, of which the Puerto Rico manufacturing reserve makes up a significant portion.
+The principal considerations for our determination that performing procedures relating to the income tax reserve for the uncertain tax position related to Puerto Rico manufacturing is a critical audit matter are (i) the significant judgment by management when determining the reserve, including a high degree of estimation uncertainty relative to the unresolved issue with the IRS involving one of the Company's manufacturing sites; and (ii) a high degree of auditor judgment, subjectivity, and effort in performing procedures and evaluating audit evidence related to management's measurement of the income tax reserve for the uncertain tax position related to Puerto Rico manufacturing, as the nature of the evidence is often highly subjective.
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to the recognition of the income tax reserves for uncertain tax positions, as well as controls over measurement of the reserve for the uncertain tax position related to Puerto Rico manufacturing. These procedures also included, among others, (i) testing management's process for determining the reserve, (ii) evaluating the status and results of the related U.S. Tax Court case, and (iii) evaluating the consistency of the reserve calculation with the relevant documents related to the U.S. Tax Court case. Evaluating the reasonableness of the measurement of the reserve included evaluating whether the methodology and assumptions used by the Company were consistent with the U.S. Tax Court's ruling.
+/s/ PricewaterhouseCoopers LLP
+Minneapolis, Minnesota
+June 18, 2026
+We have served as the Company's auditor since 1963.
+54
+Table of Conten ts
+Medtronic plc
+Consolidated Statements of Income
+Fiscal Year
+(in millions, except per share data) 2026 2025 2024
+Net sales $ 36,364 $ 33,537 $ 32,364
+Costs and expenses:
+Cost of products sold, excluding amortization of intangible assets 12,721 11,632 11,216
+Research and development expense 2,873 2,732 2,735
+Selling, general, and administrative expense 11,784 10,849 10,736
+Amortization of intangible assets 1,772 1,807 1,693
+Restructuring charges, net 249 267 226
+Certain litigation charges, net 113 317 149
+Other operating expense (income), net 386 ( 23 ) 464
+Operating profit 6,467 5,955 5,144
+Other non-operating expense (income), net ( 384 ) ( 402 ) ( 412 )
+Interest expense, net 715 729 719
+Income before income taxes 6,136 5,628 4,837
+Income tax provision 1,299 936 1,133
+Net income 4,837 4,691 3,705
+Net income attributable to noncontrolling interests ( 37 ) ( 29 ) ( 28 )
+Net income attributable to Medtronic $ 4,801 $ 4,662 $ 3,676
+Basic earnings per share $ 3.75 $ 3.63 $ 2.77
+Diluted earnings per share $ 3.73 $ 3.61 $ 2.76
+Basic weighted average shares outstanding 1,281.8 1,285.6 1,327.7
+Diluted weighted average shares outstanding 1,288.1 1,289.9 1,330.2
+The accompanying notes are an integral part of these consolidated financial statements.
+55
+Table of Conten ts
+Medtronic plc
+Consolidated Statements of Comprehensive Income
+Fiscal Year
+(in millions) 2026 2025 2024
+Net income $ 4,837 $ 4,691 $ 3,705
+Other comprehensive income (loss), net of tax:
+Unrealized gain (loss) on investment securities 48 149 46
+Translation adjustment 387 853 ( 848 )
+Net investment hedges ( 427 ) ( 1,474 ) 633
+Net change in retirement obligations 143 ( 110 ) 212
+Unrealized gain (loss) on cash flow hedges 31 ( 381 ) 136
+Other comprehensive income (loss) 181 ( 964 ) 178
+Comprehensive income including noncontrolling interests 5,018 3,727 3,883
+Comprehensive income attributable to noncontrolling interests ( 35 ) ( 31 ) ( 27 )
+Comprehensive income attributable to Medtronic $ 4,984 $ 3,696 $ 3,856
+The accompanying notes are an integral part of these consolidated financial statements.
+56
+Table of Conten ts
+Medtronic plc
+Consolidated Balance Sheets
+(in millions, except share amounts) April 24, 2026 April 25, 2025
+ASSETS
+Current assets:
+Cash and cash equivalents $ 1,949 $ 2,218
+Investments 7,271 6,747
+Accounts receivable, less allowance for credit losses of $ 190 and $ 199 , respectively
+6,643 6,515
+Inventories 5,951 5,476
+Other current assets 2,972 2,858
+Total current assets 24,787 23,814
+Property, plant, and equipment, net 7,417 6,837
+Goodwill 42,587 41,737
+Other intangible assets, net 10,146 11,667
+Tax assets 3,943 4,040
+Other assets 4,147 3,584
+Total assets $ 93,028 $ 91,680
+LIABILITIES AND EQUITY
+Current liabilities:
+Current debt obligations $ 1,788 $ 2,874
+Accounts payable 2,644 2,449
+Accrued compensation 2,678 2,514
+Accrued income taxes 914 1,358
+Other accrued expenses 3,634 3,683
+Total current liabilities 11,658 12,879
+Long-term debt 26,173 25,642
+Accrued compensation and retirement benefits 1,193 1,158
+Accrued income taxes 1,515 1,574
+Deferred tax liabilities 362 403
+Other liabilities 2,055 1,769
+Total liabilities 42,956 43,424
+Commitments and contingencies (Notes 3, 16, and 18)
+Shareholders' equity:
+Ordinary shares— par value $ 0.0001 , 2.6 billion shares authorized, 1,280,177,293 and 1,281,934,628 shares issued and outstanding, respectively
+— —
+Additional paid-in capital 20,926 20,833
+Retained earnings 32,638 31,476
+Accumulated other comprehensive loss ( 4,101 ) ( 4,284 )
+Total shareholders' equity 49,463 48,024
+Noncontrolling interests 609 232
+Total equity 50,072 48,256
+Total liabilities and equity $ 93,028 $ 91,680
+The accompanying notes are an integral part of these consolidated financial statements.
+57
+Table of Conten ts
+Medtronic plc
+Consolidated Statements of Equity
+Ordinary Shares Additional Paid-in Capital Retained
+Earnings Accumulated
+Other
+Comprehensive
+(Loss) Income Total
+Shareholders'
+Equity Noncontrolling Interests Total Equity
+(in millions, except per share data) Number Par Value
+April 28, 2023 1,331 $ — $ 24,590 $ 30,392 $ ( 3,499 ) $ 51,483 $ 182 $ 51,665
+Net income — — — 3,676 — 3,676 28 3,705
+Other comprehensive income (loss) — — — — 180 180 ( 2 ) 178
+Dividends to shareholders ($ 2.76 per ordinary share)
+— — — ( 3,666 ) — ( 3,666 ) — ( 3,666 )
+Issuance of shares under stock purchase and award plans 6 — 231 — — 231 — 231
+Repurchase of ordinary shares ( 25 ) — ( 2,084 ) — — ( 2,084 ) — ( 2,084 )
+Stock-based compensation — — 393 — — 393 — 393
+Changes to noncontrolling ownership interests — — — — — — ( 2 ) ( 2 )
+April 26, 2024 1,311 $ — $ 23,129 $ 30,403 $ ( 3,318 ) $ 50,214 $ 206 $ 50,420
+Net income — — — 4,662 — 4,662 29 4,691
+Other comprehensive income (loss) — — — — ( 966 ) ( 966 ) 2 ( 964 )
+Dividends to shareholders ($ 2.80 per ordinary share)
+— — — ( 3,589 ) — ( 3,589 ) — ( 3,589 )
+Issuance of shares under stock purchase and award plans 9 — 440 — — 440 — 440
+Repurchase of ordinary shares ( 38 ) — ( 3,166 ) — — ( 3,166 ) — ( 3,166 )
+Stock-based compensation — — 429 — — 429 — 429
+Changes to noncontrolling ownership interests — — — — — — ( 6 ) ( 6 )
+April 25, 2025 1,282 $ — $ 20,833 $ 31,476 $ ( 4,284 ) $ 48,024 $ 232 $ 48,256
+Net income — — — 4,801 — 4,801 37 4,837
+Other comprehensive income (loss) — — — — 183 183 ( 2 ) 181
+Dividends to shareholders ($ 2.84 per ordinary share)
+— — — ( 3,639 ) — ( 3,639 ) — ( 3,639 )
+Issuance of shares under stock purchase and award plans 8 — 426 — — 426 — 426
+Repurchase of ordinary shares ( 10 ) — ( 944 ) — — ( 944 ) — ( 944 )
+Stock-based compensation — — 457 — — 457 — 457
+MiniMed IPO — — 157 — — 157 381 538
+Changes to noncontrolling ownership interests — — — — — — ( 39 ) ( 39 )
+April 24, 2026 1,280 $ — $ 20,926 $ 32,638 $ ( 4,101 ) $ 49,463 $ 609 $ 50,072
+The accompanying notes are an integral part of these consolidated financial statements.
+58
+Table of Conten ts
+Medtronic plc
+Consolidated Statements of Cash Flows
+Fiscal Year
+(in millions) 2026 2025 2024
+Operating Activities:
+Net income $ 4,837 $ 4,691 $ 3,705
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization 2,958 2,861 2,647
+Provision for credit losses 136 123 90
+Deferred income taxes 51 ( 316 ) ( 508 )
+Stock-based compensation 457 429 393
+Asset impairments and related inventory write-downs — — 371
+Other, net 314 310 573
+Change in operating assets and liabilities, net of acquisitions and divestitures:
+Accounts receivable, net ( 200 ) ( 433 ) ( 391 )
+Inventories ( 404 ) ( 292 ) ( 139 )
+Accounts payable and accrued liabilities 46 209 391
+Other operating assets and liabilities ( 865 ) ( 538 ) ( 345 )
+Net cash provided by operating activities 7,330 7,044 6,787
+Investing Activities:
+Acquisitions, net of cash acquired ( 406 ) ( 98 ) ( 211 )
+Additions to property, plant, and equipment ( 1,904 ) ( 1,859 ) ( 1,587 )
+Purchases of investments ( 8,725 ) ( 8,226 ) ( 7,748 )
+Sales and maturities of investments 8,105 8,495 7,441
+Other investing activities, net ( 4 ) ( 249 ) ( 261 )
+Net cash used in investing activities ( 2,934 ) ( 1,937 ) ( 2,366 )
+Financing Activities:
+Change in current debt obligations, net 9 ( 1,070 ) 1,073
+Issuance of long-term debt 1,747 3,209 —
+Payments on long-term debt ( 2,930 ) — —
+Dividends to shareholders ( 3,639 ) ( 3,589 ) ( 3,666 )
+Issuance of ordinary shares 516 508 284
+Repurchase of ordinary shares ( 1,035 ) ( 3,235 ) ( 2,138 )
+Proceeds from MiniMed initial public offering 538 — —
+Other financing activities, net 44 ( 184 ) ( 3 )
+Net cash used in financing activities ( 4,751 ) ( 4,361 ) ( 4,450 )
+Effect of exchange rate changes on cash and cash equivalents 85 188 ( 230 )
+Net change in cash and cash equivalents ( 269 ) 934 ( 259 )
+Cash and cash equivalents at beginning of period 2,218 1,284 1,543
+Cash and cash equivalents at end of period $ 1,949 $ 2,218 $ 1,284
+Supplemental Cash Flow Information
+Cash paid for:
+Income taxes $ 1,942 $ 1,819 $ 1,622
+Interest 774 762 826
+The accompanying notes are an integral part of these consolidated financial statements.
+59
+Table of Contents
+Medtronic plc
+Notes to Consolidated Financial Statements
+1. Summary of Significant Accounting Policies
+Nature of Operations Medtronic plc (Medtronic or the Company) is the leading global healthcare technology company alleviating pain, restoring health, and extending life for millions of people around the world. The Company provides innovative products and therapies to serve healthcare systems, physicians, clinicians, and patients. Medtronic was founded in 1949 and is headquartered in Galway, Ireland. In May 2025, the Company announced its intent to separate the Diabetes Business, with the intention to create a new independent, publicly traded company, MiniMed Group, Inc. (MiniMed). On March 9, 2026, MiniMed completed an initial public offering (the IPO). Due to the Company retaining a controlling financial interest, the consolidated financial statements include the financial results of MiniMed. Refer to Note 20 for additional information on the MiniMed separation.
+Principles of Consolidation The consolidated financial statements include the accounts of Medtronic plc, its wholly-owned subsidiaries, entities for which the Company has a controlling financial interest, and variable interest entities for which the Company is the primary beneficiary. Intercompany transactions and balances have been fully eliminated in consolidation. Certain reclassifications have been made to prior year financial statements to conform to classifications used in the current year. Amounts reported in millions within this annual report are computed based on the actual amounts, and therefore, the sum of the components may not equal the total amount reported in millions due to rounding. Additionally, certain columns and rows within tables may not sum due to rounding.
+Use of Estimates The preparation of the consolidated financial statements in conformity with accounting principles generally accepted in the United States (U.S.) (U.S. GAAP) requires management to make estimates and assumptions that affect the amounts reported in the consolidated financial statements and accompanying notes. Estimates are used when accounting for items such as income taxes, contingencies, goodwill, intangible assets, equity investments, and liability valuations. Actual results may or may not differ from those estimates.
+Fiscal Year-End The Company utilizes a 52/53-week fiscal year, ending the last Friday in April, for the presentation of its consolidated financial statements and related notes thereto at April 24, 2026 and April 25, 2025 and for each of the three fiscal years ended April 24, 2026 (fiscal year 2026), April 25, 2025 (fiscal year 2025), and April 26, 2024 (fiscal year 2024).
+Cash Equivalents The Company considers highly liquid investments with maturities of three months or less from the date of purchase to be cash equivalents. These investments are carried at cost, which approximates fair value.
+Investments The Company invests in marketable debt and equity securities, investments for which the Company has elected the fair value option, investments that do not have readily determinable fair values, and investments accounted for under the equity method.
+Marketable debt securities are classified and accounted for as available-for-sale. These investments are recorded at fair value in the consolidated balance sheets. The change in fair value for available-for-sale securities is recorded, net of taxes, as a component of accumulated other comprehensive loss on the consolidated balance sheets. The Company determines the appropriate classification of its investments in marketable debt securities at the time of purchase and reevaluates such determinations at each balance sheet date. The classification of marketable debt securities as current or long-term is based on the nature of the securities and the availability for use in current operations consistent with the Company's management of its capital structure and liquidity.
+Certain of the Company's investments in marketable equity securities and other securities are long-term, strategic investments in companies that are in various stages of development and are primarily included in other assets on the consolidated balance sheets. Marketable equity securities are recorded at fair value in the consolidated balance sheets. The change in fair value of marketable equity securities is recognized within other non-operating expense (income), net in the consolidated statements of income. At each reporting period, the Company makes a qualitative assessment considering impairment indicators to evaluate whether the investment is impaired. Equity method investments for which the Company has elected the fair value option are valued using a discounted cash flow methodology, taking into consideration various assumptions including discount rate and all pertinent financial information available related to the investees, including the timing of anticipated product launches, historical financial results, and projections of future cash flows. Equity investments that do not have readily determinable fair values are measured using the measurement alternative at cost minus impairment, if any, plus or minus changes resulting from observable price changes in orderly transactions for an identical or similar investment of the same issuer. Equity securities accounted for under the equity method are initially recorded at the amount of the Company's investment and are adjusted each period for the Company's share of the investee's income or loss and dividends paid. Securities accounted for under the equity method are reviewed quarterly for changes in circumstance or the occurrence of events that suggest other than temporary impairment has occurred.
+Accounts Receivable and Allowance for Credit Losses The Company grants credit to customers in the normal course of business and maintains an allowance for credit losses. When evaluating allowances for credit losses, the Company considers various factors, including historical experience and customer-specific information. Uncollectible accounts are written-off against the allowance when it is deemed that a customer account is uncollectible.
+60
+Table of Contents
+Medtronic plc
+Notes to Consolidated Financial Statements (Continued)
+Inventories Inventories are stated at the lower of cost or net realizable value, with cost determined on a first-in, first-out basis. The Company reduces the carrying value of inventories for items that are potentially excess, obsolete, or slow-moving based on changes in customer demand, technology developments, or other economic factors.
+Property, Plant, and Equipment Property, plant, and equipment is stated at cost and depreciated over the useful lives of the assets using the straight-line method. Additions and improvements that extend the lives of the assets are capitalized, while expenditures for repairs and maintenance are expensed as incurred. The Company assesses property, plant, and equipment for impairment whenever events or changes in circumstances indicate that the carrying amount of asset groupings may not be recoverable. The cost of interest that is incurred in connection with significant ongoing construction projects is capitalized using a weighted average interest rate. These costs are included in property, plant, and equipment and amortized over the useful life of the related asset. Upon retirement or disposal of property, plant, and equipment, the costs and related amounts of accumulated depreciation or amortization are eliminated from the asset and accumulated depreciation accounts. The difference, if any, between the net asset value and the proceeds, is recognized in earnings.
+Goodwill and Intangible Assets Goodwill is the excess of the purchase price over the estimated fair value of identified net assets of acquired businesses. The Company assesses goodwill for impairment annually in the third quarter of the fiscal year and whenever an event occurs or circumstances change that would indicate the carrying amount may be impaired. Impairment testing for goodwill is performed at a reporting unit level. The Company calculates the excess of each reporting unit's fair value over its carrying amount, including goodwill, utilizing a discounted cash flow analysis and revenue and earnings multiples using comparable public company information. The test for impairment of goodwill requires the Company to make several estimates related to projected future cash flows and appropriate multiples to determine the fair value of the goodwill reporting units. Significant assumptions used in the reporting unit fair value measurements include forecasted cash flows, including revenue and expense growth rates, discount rates, and revenue and earnings multiples. An impairment loss is recognized when the carrying amount of the reporting unit's net assets exceeds the estimated fair value of the reporting unit.
+Intangible assets include patents, trademarks, tradenames, customer relationships, purchased technology, and in-process research and development (IPR&D). Intangible assets with a definite life are amortized on a straight-line basis with estimated useful lives typically ranging from three to 20 years. Amortization is recognized within amortization of intangible assets in the consolidated statements of income. Intangible assets with a definite life are tested for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset group, which includes intangible assets, may not be recoverable.
+When events or changes in circumstances indicate that the carrying amount of an asset group may not be recoverable, the Company compares the asset group's carrying value to its undiscounted future cash flows. If the carrying value is not recoverable, an impairment loss is recognized based on the amount by which the carrying value exceeds the fair value. The fair value of an asset group is estimated by utilizing a discounted cash flow analysis.
+Acquired IPR&D represents the fair value assigned to those research and development projects that were primarily acquired in a business combination for which the related products have not received regulatory approval and have no alternative future use. IPR&D is capitalized at its fair value as an indefinite-lived intangible asset, and any development costs incurred after the acquisition are expensed as incurred. The fair value of IPR&D is determined by estimating the future cash flows of each project and discounting the net cash flows back to their present values. Upon achieving regulatory approval or commercial viability for the related product, the indefinite-lived intangible asset is accounted for as a definite-lived asset and is amortized on a straight-line basis over the estimated useful life. If the project is not completed or is terminated or abandoned, the Company may have an impairment related to the IPR&D, which is charged to expense. Indefinite-lived intangible assets are tested for impairment annually in the third quarter of the fiscal year, prior to moving to definite-lived, and whenever events or changes in circumstances indicate that the carrying amount may be impaired. Impairment is calculated as the excess of the asset's carrying value over its fair value. Fair value is generally determined using a discounted future cash flow analysis. IPR&D with no alternative future use acquired outside of a business combination is expensed immediately.
+Business Combinations The Company accounts for business combinations using the acquisition method. The identifiable assets acquired and liabilities assumed are recognized at their respective fair value as of the acquisition date. The excess of the purchase price over the estimated fair value of identified net assets of the acquired business is recorded as goodwill. Acquisition-related costs associated with business combinations are expensed as incurred and recognized within selling, general, and administrative expense and other operating expense (income), net in the consolidated statements of income.
+In cases where the Company acquires a business in which it previously held a noncontrolling equity interest, the previously held equity interest is remeasured to fair value as of the acquisition date and included as part of the aggregate purchase price. Any resulting gain or loss from remeasurement of the previously held equity interest is recognized in other non-operating expense (income), net in the consolidated statements of income.
+The Company records contingent consideration at fair value as of the date of acquisition or divestiture. The fair value of contingent consideration is measured using projected payment dates, discount rates, probabilities of payment, and projected revenues (for revenue-
+61
+Table of Contents
+Medtronic plc
+Notes to Consolidated Financial Statements (Continued)
+based considerations). Projected revenues are based on the Company's most recent internal operational budgets and long-range strategic plans. The discount rate used is determined at the time of measurement in accordance with accepted valuation methodologies. Changes in projected revenues, probabilities of payment, discount rates, and projected payment dates may result in adjustments to the fair value measurements. Contingent consideration is remeasured each reporting period using Level 3 inputs, and the change in fair value, including accretion for the passage of time, is recognized as income or expense within other operating expense (income), net in the consolidated statements of income. Contingent consideration payments made or received soon after the acquisition date are classified as investing activities in the consolidated statements of cash flows. Contingent consideration payments not made or received soon after the acquisition date that are related to the acquisition date fair value are reported as financing activities in the consolidated statements of cash flows, and amounts paid or received in excess of the original acquisition date fair value are reported as operating activities in the consolidated statements of cash flows.
+Retirement Benefit Plan Assumptions The Company sponsors various retirement benefit plans, including defined benefit pension plans, post-retirement medical plans, defined contribution savings plans, and termination indemnity plans, covering substantially all U.S. employees and many employees outside the U.S. Refer to Note 15 for assumptions used in determining pension and post-retirement benefit costs and liabilities.
+Derivatives The Company recognizes all derivative financial instruments in its consolidated financial statements at fair value in accordance with authoritative guidance on derivatives and hedging, and presents assets and liabilities associated with derivative financial instruments on a gross basis in the consolidated financial statements. For derivative instruments that are designated and qualify as hedging instruments, the hedging instrument must be designated as a fair value hedge, cash flow hedge, or hedges of net investments, based upon the exposure being hedged. Refer to Note 7 for additional information on the Company's derivative instruments and hedging programs.
+Fair Value Measurements The Company follows the authoritative guidance on fair value measurements and disclosures with respect to assets and liabilities that are measured at fair value on both a recurring and nonrecurring basis. Fair value is defined as the exit price, or the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants as of the measurement date. The authoritative guidance also establishes a hierarchy for inputs used in measuring fair value that maximizes the use of observable inputs and minimizes the use of unobservable inputs by requiring that the most observable inputs be used when available. Observable inputs are inputs market participants would use in valuing the asset or liability, based on market data obtained from sources independent of the Company. Unobservable inputs are inputs that reflect the Company's assumptions about the factors market participants would use in valuing the asset or liability developed based upon the best information available in the circumstances. The categorization of financial assets and financial liabilities within the valuation hierarchy is based upon the lowest level of input that is significant to the fair value measurement. The hierarchy is broken down into three levels defined as follows:
+Level 1 - Inputs are quoted prices in active markets for identical assets or liabilities.
+Level 2 - Inputs include quoted prices for similar assets or liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active, and inputs (other than quoted prices) that are observable for the asset or liability, either directly or indirectly.
+Level 3 - Inputs are unobservable for the asset or liability.
+Financial assets that are classified as Level 1 securities include highly liquid government bonds within U.S. government and agency securities, mutual funds, short-term investments, and equity securities for which quoted market prices are available. In addition, the Company classifies currency exchange rate contracts as Level 1 since they are valued using quoted market prices in active markets which have identical assets or liabilities.
+The valuation for most fixed maturity securities are classified as Level 2. Financial assets that are classified as Level 2 include corporate debt securities, government and agency securities, other asset-backed securities, and mortgage-backed securities whose value is determined using inputs that are observable in the market or may be derived principally from, or corroborated by, observable market data such as pricing for similar securities, recently executed transactions, cash flow models with yield curves, and benchmark securities. In addition, total return swaps are included in Level 2 as the Company uses inputs other than quoted prices that are observable for the asset. The Level 2 derivative instruments are primarily valued using standard calculations and models that use readily observable market data as their basis.
+Financial assets are considered Level 3 when their fair values are determined using pricing models, discounted cash flow methodologies, or similar techniques, and at least one significant model assumption or input is unobservable. Financial assets that are classified as Level 3 include certain investment securities for which there is limited market activity such that the determination of fair value requires significant judgment or estimation, equity method investments for which the Company has elected the fair value option, and auction rate securities. The investment securities with limited market activity are valued using third-party pricing sources that incorporate transaction details such as contractual terms, maturity, timing, and amount of expected future cash flows, as well as assumptions about liquidity and credit valuation
+62
+Table of Contents
+Medtronic plc
+Notes to Consolidated Financial Statements (Continued)
+adjustments by market participants. The fair value of auction rate securities is estimated by the Company using a discounted cash flow model, which incorporates significant unobservable inputs. The significant unobservable inputs used in the fair value measurement of the Company's auction rate securities are years to principal recovery and the illiquidity premium that is incorporated into the discount rate. Valuation techniques for investments valued using the fair value option are included in the "Investments" section above. For goodwill, other intangible assets, and IPR&D, inputs used in the fair value analysis fall within Level 3 of the fair value hierarchy due to the use of significant unobservable inputs to determine fair value.
+Certain investments for which the fair value is measured using the net asset value per share (or its equivalent) practical expedient are excluded from the fair value hierarchy. Financial assets for which the fair value is measured using the net asset value per share practical expedient include equity and fixed income commingled trusts, partnership units, and registered investment companies.
+Revenue Recognition The Company primarily sells its products through direct sales representatives and independent distributors. Additionally, a portion of the Company's revenue is generated from consignment inventory maintained at hospitals and royalty and intellectual property arrangements. The Company recognizes revenue when control is transferred to the customer. For products sold through direct sales representatives and independent distributors, control is typically transferred upon shipment or upon delivery, based on the contract terms and legal requirements. For certain of our capital equipment, control is transferred upon installation. For consignment inventory, control is transferred when the product is used or implanted. Payment terms vary depending on the country of sale, type of customer, and type of product.
+If a contract contains more than one performance obligation, the transaction price is allocated to each performance obligation based on relative standalone selling price. Shipping and handling is treated as a fulfillment activity rather than a promised service, and therefore, is not considered a performance obligation. Taxes assessed by a governmental authority that are both imposed on, and concurrent with, a specific revenue producing transaction and collected by the Company from customers (for example, sales, use, value added, and some excise taxes) are not included in revenue. For contracts that have an original duration of one year or less, the Company uses the practical expedient applicable to such contracts and does not adjust the transaction price for the time value of money.
+The amount of revenue recognized reflects sales rebates, returns, chargebacks, and other adjustments, which are accounted for as variable consideration. Estimates for rebates are based on sales terms, historical experience, and trend analysis. The Company considers the lag time between the point of sale and the payment of the rebate claim, the stated rebate rates, and other relevant information to estimate rebates. Revenue adjustments related to distributor chargebacks are the difference between distributor sales price and the end-customer negotiated price. The Company records adjustments to sales rebates, returns, and other adjustments reserves as increases or decreases of revenue. A provision for outstanding chargebacks is recorded when we recognize revenue from our sale to the distributor and requires estimates for the distributor chargeback rate, expected sell-through levels by the distributors to contracted customers, as well as estimated distributor inventory levels.
+The Company records a deferred revenue liability if a customer pays consideration, or the Company has the right to invoice, before the Company transfers a good or service to the customer. Deferred revenue primarily represents remote monitoring services and equipment maintenance, for which consideration is received at the same time as consideration for the device or equipment. Revenue related to remote monitoring services and equipment maintenance is recognized over the service period as time elapses.
+Shipping and Handling Shipping and handling costs incurred to physically move product from the Company's premises to the customer's premises are recognized in selling, general, and administrative expense in the consolidated statements of income and were $ 336 million, $ 322 million, and $ 341 million in fiscal years 2026, 2025, and 2024, respectively. Other shipping and handling costs incurred to store, move, and prepare products for shipment are recognized in cost of products sold in the consolidated statements of income.
+Research and Development Research and development costs are expensed when incurred. Research and development costs include costs of research, engineering, and technical activities to develop a new product or service or make significant improvement to an existing product or manufacturing process. Research and development costs also include pre-approval regulatory and clinical trial expenses and license payments for technology not yet approved by regulators.
+Contingencies The Company records a liability in the consolidated financial statements on an undiscounted basis for loss contingencies related to legal actions when a loss is known or considered probable and the amount may be reasonably estimated. If the reasonable estimate of a known or probable loss is a range, and no amount within the range is a better estimate than any other, the minimum amount of the range is accrued. If a loss is reasonably possible but not known or probable, and may be reasonably estimated, the estimated loss or range of loss is disclosed.
+The Company self-insures the majority of its insurable risks, including medical and dental costs, disability coverage, physical loss to property, business interruptions, workers' compensation, comprehensive general, and product liability. Insurance coverage is obtained for
+63
+Table of Contents
+Medtronic plc
+Notes to Consolidated Financial Statements (Continued)
+risks required to be insured by law or contract. The Company uses claims data and historical experience, as applicable, to estimate liabilities associated with the exposures that the Company has self-insured.
+Income Taxes The Company has deferred taxes that arise as a result of the different treatment of transactions for U.S. GAAP and income tax accounting, known as temporary differences. The Company records the tax effect of these temporary differences as deferred tax assets and deferred tax liabilities. Deferred tax assets generally represent items that may be used as a tax deduction or credit in a tax return in future years for which the Company has already recognized the tax benefit in the consolidated statements of income. The Company establishes valuation allowances for deferred tax assets when the amount of expected future taxable income is not likely to support the use of the deduction or credit. Deferred tax liabilities generally represent tax expense for which payment has been deferred or expense has already been taken as a deduction on the Company's tax return but has not yet been recognized as an expense in the consolidated statements of income. Refer to Note 13 for additional information on the Company's uncertain tax positions and tax policies.
+Currency Translation and Transaction Assets and liabilities of non-U.S. dollar functional currency entities are translated to U.S. dollars at period-end exchange rates, and the currency impacts arising from the translation of the assets and liabilities are recorded as a cumulative translation adjustment, a component of accumulated other comprehensive loss, on the consolidated balance sheets. Elements of the consolidated statements of income are translated at the average monthly currency exchange rates in effect during the period. Currency transaction gains and losses are included in other operating expense (income), net in the consolidated statements of income. Currency transaction losses for fiscal years 2026, 2025, and 2024 were $ 57 million, $ 309 million, and $ 123 million, respectively.
+Stock-Based Compensation The Company measures stock-based compensation expense at the grant date based on the fair value of the award and recognizes the compensation expense over the requisite service period, which is generally the vesting period. The amount of stock-based compensation expense recognized during a period is based on the portion of the awards that are expected to vest. The Company estimates pre-vesting forfeitures at the time of grant and revises the estimates in subsequent periods.
+Restructuring The Company records liabilities for costs associated with exit or disposal activities in the period in which the liability is incurred. Employee termination costs are recognized and measured at fair value when actions are probable and estimable. Additionally, restructuring charges may include fixed asset write-offs and contract termination costs. Refer to Note 4 for additional information on the Company's restructuring activities.
+Recently Adopted Accounting Standards
+Income Taxes
+In December 2023, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2023-09, Improvements to Income Tax Disclosures (Topic 740), which requires incremental annual disclosures on income taxes, including rate reconciliations, income taxes paid, and other disclosures. The Company adopted this guidance prospectively beginning in the fourth quarter of fiscal year 2026. The adoption of this standard did not have a material impact on the Company's consolidated financial statements but did require additional disclosures. Refer to Note 13 for additional information.
+Not Yet Adopted Accounting Standards
+Disaggregation of Income Statement Expenses
+In November 2024, the FASB issued ASU 2024-03, Disaggregation of Income Statement Expenses (Subtopic 220-40), which requires tabular disclosures disaggregating certain costs and expenses within relevant income statement captions. The Company will adopt this guidance beginning in the fourth quarter of fiscal year 2028 for our annual report and for interim periods starting in fiscal year 2029. We are currently evaluating the potential effect that the updated standard will have on our financial statement disclosures.
+Internal-Use Software
+In September 2025, the FASB issued ASU 2025-06, Targeted Improvements to the Accounting for Internal-Use Software (Subtopic 350-40), to increase the operability of the recognition guidance by removing all references to "project stages" and clarifying when an entity is required to start capitalizing software costs. This accounting guidance is effective for the Company beginning in the first quarter of fiscal year 2029, with early adoption permitted. We are currently evaluating the potential effect that the updated standard will have on our financial statements.
+Derivatives and Hedging and Revenue from Contracts with Customers
+In September 2025, the FASB issued ASU 2025-07, Derivative Scope Refinements and Scope Clarification for Share-Based Noncash Consideration from a Customer in a Revenue Contract (Topics 815 and 606). The guidance refines the scope of Topic 815 to clarify which contracts are subject to derivative accounting. This ASU also provides clarification under Topic 606 for share-based payments from a
+64
+Table of Contents
+Medtronic plc
+Notes to Consolidated Financial Statements (Continued)
+customer in a revenue contract. This accounting guidance is effective for the Company beginning in the first quarter of fiscal year 2028, with early adoption permitted. We are currently evaluating the potential effect that the updated standard will have on our financial statements.
+Government Grants
+In December 2025, the FASB issued ASU 2025-10, Accounting for Government Grants Received by Business Entities (Topic 832), to establish guidance on the recognition, measurement, and presentation of government grants received by business entities. This accounting guidance is effective for the Company beginning in the first quarter of fiscal year 2030, with early adoption permitted. We are currently evaluating the potential effect that the updated standard will have on our financial statements.
+2. Revenue
+The Company's revenues are principally derived from device-based medical therapies and services related to cardiac rhythm disorders, cardiovascular disease, hypertension, neurological surgery technologies, neurological disorders and diseases, spinal conditions and musculoskeletal trauma, chronic pain, ear, nose, and throat conditions, urological and digestive disorders, advanced and general surgical care products, respiratory and monitoring solutions, and diabetes conditions. The Company's primary customers include healthcare systems, clinics, third-party healthcare providers, distributors, and other institutions, including governmental healthcare programs and group purchasing organizations. Starting in the fourth quarter of fiscal year 2026, the Diabetes Business is no longer considered a reportable segment. Prior period net sales have been recast to conform to the new presentation.
+65
+Table of Contents
+Medtronic plc
+Notes to Consolidated Financial Statements (Continued)
+The table below illustrates net sales by segment and division and by market geography for fiscal years 2026, 2025, and 2024. The U.S. revenue includes United States and U.S. territories, and the international revenue includes all other non-U.S. countries.
+Worldwide
+Fiscal Year
+(in millions) 2026 2025 2024
+Cardiac Rhythm & Heart Failure $ 7,504 $ 6,392 $ 5,995
+Structural Heart & Aortic 3,817 3,554 3,358
+Coronary & Peripheral Vascular 2,656 2,535 2,478
+Cardiovascular 13,976 12,481 11,831
+Cranial & Spinal Technologies 5,222 4,973 4,756
+Specialty Therapies 2,997 2,940 2,905
+Neuromodulation 2,068 1,932 1,746
+Neuroscience 10,287 9,846 9,406
+Surgical & Endoscopy 6,764 6,498 6,508
+Acute Care & Monitoring 2,051 1,909 1,908
+Medical Surgical 8,815 8,407 8,417
+Reportable segment net sales 33,079 30,734 29,654
+Diabetes 3,112 2,755 2,488
+Other operating segment (1)
+135 137 221
+Other adjustments (2)
+39 ( 90 ) —
+Total net sales $ 36,364 $ 33,537 $ 32,364
+U.S. International
+Fiscal Year
+(in millions) 2026
+2025
+2024
+2026
+2025
+2024
+Cardiovascular $ 6,435 $ 5,804 $ 5,597 $ 7,541 $ 6,677 $ 6,234
+Neuroscience 6,875 6,713 6,305 3,412 3,133 3,101
+Medical Surgical 3,778 3,664 3,717 5,037 4,744 4,700
+Reportable segment net sales 17,088 16,181 15,619 15,991 14,553 14,035
+Diabetes 934 923 852 2,178 1,832 1,636
+Other operating segment (1)
+81 68 91 54 70 131
+Other adjustments (2)
+— — — 39 ( 90 ) —
+Total net sales $ 18,103 $ 17,171 $ 16,562 $ 18,261 $ 16,365 $ 15,802
+(1) Includes operations and ongoing transition agreements from businesses the Company has exited or divested.
+(2) Incremental Italian payback accruals resulting from the two July 22, 2024 rulings by the Constitutional Court of Italy relating to certain prior years since 2015.
+The amount of revenue recognized is reduced by sales rebates, distributor chargebacks, returns, and other adjustments. Adjustments to rebates, distributor chargebacks, returns reserves, and other adjustments are recorded as increases or decreases to revenue. At April 24, 2026, $ 1.0 billion and $ 264 million rebates and other adjustments were classified as other accrued expenses and other liabilities , respectively, and $ 653 million of distributor chargebacks were classified as a reduction of accounts receivable in the consolidated balance sheets. At April 25, 2025, $ 1.1 billion and $ 207 million of rebates and other adjustments were classified as other accrued expenses and other liabilities , respectively, and $ 680 million of distributor chargebacks were classified as a reduction of accounts receivable in the consolidated balance sheets.
+During fiscal year 2025, the Company recognized $ 90 million of incremental Italian payback accruals resulting from the July 22, 2024 rulings by the Constitutional Court of Italy relating to certain prior years since 2015. During fiscal year 2026, the Company decreased its accrual for the Italian payback by $ 39 million resulting from the June 30, 2025 legislative decree published by the Italian government and formalized into law in August 2025 confirming a reduction of the amounts due for years 2015 to 2018. The changes in estimates related to
+66
+Table of Contents
+Medtronic plc
+Notes to Consolidated Financial Statements (Continued)
+the Italian payback accruals were recognized as adjustments to net sales in the consolidated statements of income. Refer to Note 18 for additional information. During fiscal year 2026 and 2025, other adjustments to variable consideration were not material.
+Deferred Revenue and Remaining Performance Obligations
+Deferred revenue at April 24, 2026 and April 25, 2025 was $ 500 million and $ 446 million, respectively. At April 24, 2026 and April 25, 2025, $ 405 million and $ 354 million was included in other accrued expenses , respectively, and $ 94 million and $ 92 million was included in other liabilities , respectively. During fiscal year 2026, the Company recognized $ 399 million of revenue that was included in deferred revenue as of April 25, 2025. During fiscal year 2025, the Company recognized $ 320 million of revenue that was included in deferred revenue at April 26, 2024.
+Remaining performance obligations include goods and services that have not yet been delivered or provided under existing, noncancellable contracts with minimum purchase commitments. At April 24, 2026, the estimated revenue expected to be recognized in future periods related to unsatisfied performance obligations for executed contracts with an original duration of one year or more was approximately $ 0.4 billion. The Company expects to recognize revenue on the majority of these remaining performance obligations over the next three years .
+3. Acquisitions, Dispositions, and Funded Research and Development Arrangements
+Acquisition Activity
+The Company had acquisitions during fiscal years 2026, 2025, and 2024 that were accounted for as business combinations. The assets and liabilities of the businesses acquired were recorded and consolidated on the acquisition date at their respective fair values. Goodwill resulting from business combinations is largely attributable to future, yet to be defined technologies, new customer relationships, existing workforce of the acquired businesses, and synergies expected to arise after the Company's acquisition of these businesses. The results of operations of acquired businesses have been included in the Company's consolidated statements of income since the date each business was acquired. The results of operations of acquired businesses and the pro forma impact of the acquisitions during fiscal years 2026, 2025, and 2024 were not material, either individually or in the aggregate. Purchase price allocation adjustments for fiscal years 2026, 2025, and 2024 business combinations were not material.
+Fiscal Year 2026
+CathWorks Ltd.
+On April 20, 2026, the Company acquired all the remaining outstanding shares of CathWorks Ltd. (CathWorks), a privately held medical device company. The acquisition expands the Coronary & Peripheral Vascular division within the Cardiovascular portfolio by aiming to transform how coronary artery disease is diagnosed and treated.
+Prior to the acquisition, the Company held an existing 15 % equity interest in CathWorks, a debt investment in CathWorks, and an option to acquire the remaining 85 % equity interest. On February 3, 2026, the Company exercised its option to acquire the remaining equity interest in CathWorks. This acquisition was accounted for as a step acquisition at the time of closing. Accordingly, the Company allocated the purchase price of the acquired company to the net tangible assets and intangible assets acquired based upon their preliminary estimated fair values. The Company remeasured the previously held equity interest in CathWorks to its fair value based upon a valuation of the acquired business which was developed using an income approach valuation model. This approach determines fair value based on cash flow projections which are discounted to present value using a risk-adjusted rate of return. The Company remeasured its previously held equity interest to fair value, resulting in a gain of $ 45 million, representing the difference between the carrying amount of the investment and its fair value at the acquisition date, within other non-operating expense (income), net in the consolidated statements of income during fiscal year 2026. Contingent consideration liabilities recognized in connection with the acquisition are based on future revenue achievements of the acquired business.
+Revenue and net income (loss) attributable to CathWorks since the date of acquisition included in the consolidated statements of income were not material for fiscal year 2026.
+67
+Table of Contents
+Medtronic plc
+Notes to Consolidated Financial Statements (Continued)
+The following tables summarize the preliminary fair value of consideration transferred and the preliminary fair values of the assets acquired and liabilities assumed:
+(in millions)
+Cash consideration paid at closing $ 410
+Fair value of contingent consideration 115
+Total consideration transferred 525
+Fair value of previously held equity interest in CathWorks 93
+Settlement of debt and accrued interest due from CathWorks 88
+Settlement of pre-existing relationships 12
+Total purchase price $ 718
+(in millions)
+Current assets $ 17
+Property, plant, and equipment, net 11
+Goodwill 555
+Other intangible assets 200
+Other assets 1
+Total assets acquired $ 784
+Current liabilities $ 7
+Accrued income taxes 38
+Total current liabilities 45
+Deferred tax liabilities 21
+Other noncurrent liabilities 1
+Total liabilities assumed $ 66
+Net assets acquired $ 718
+Goodwill was assigned to the Company's Cardiovascular portfolio and is not deductible for tax purposes. The other intangible assets acquired consists of purchased technology and has an estimated useful life of 10 years.
+Scientia Vascular Acquisition
+On June 12, 2026, the Company closed on the acquisition of all outstanding shares of Scientia Vascular (Scientia) (a privately held company). As the Company closed on this acquisition subsequent to April 24, 2026, this acquisition is considered a subsequent event.
+The acquisition will expand the Neuroscience portfolio through Scientia's differentiated access products used to treat complex neurovascular conditions. The transaction will be accounted for as a business combination using the acquisition method of accounting. This requires, among other things, that assets acquired and liabilities assumed be recognized at their fair values as of the acquisition date.
+Due to the limited time since the acquisition date and availability of information, the preliminary acquisition valuation for the business combination is incomplete. As a result, the Company is unable to provide the amounts recognized as of the acquisition date for the major classes of assets acquired and liabilities assumed, including the information required for valuation of intangible assets and goodwill, and the total contingent consideration. We will include such disclosures in our Form 10-Q for the quarter ending July 31, 2026.
+The Company anticipates total consideration to be comprised of approximately $ 550 million up-front, subject to customary closing adjustments, and certain revenue and regulatory-based contingent consideration payments up to $ 375 million.
+68
+Table of Contents
+Medtronic plc
+Notes to Consolidated Financial Statements (Continued)
+Fiscal Year 2025
+The acquisition date fair value of net assets acquired during fiscal year 2025 was $ 128 million, consisting of $ 159 million of assets acquired and $ 31 million of liabilities assumed. Assets acquired were primarily comprised of $ 108 million of goodwill and $ 50 million of IPR&D. The goodwill is not deductible for tax purposes. The Company recognized $ 20 million of non-cash contingent consideration liabilities in connection with these business combinations during fiscal year 2025, which comprised of other milestone-based payments.
+Fiscal Year 2024
+The acquisition date fair value of net assets acquired during fiscal year 2024 was $ 335 million, consisting of $ 338 million of assets acquired and $ 3 million of liabilities assumed. Assets acquired were primarily comprised of $ 131 million of goodwill, $ 150 million of IPR&D, and $ 29 million of technology-based intangible assets with estimated useful lives of 10 years. For tax purposes, $ 51 million of goodwill is deductible while $ 80 million is not deductible. The IPR&D was placed into service as a definite-lived intangible asset during the second quarter of fiscal year 2025. The Company recognized $ 30 million of non-cash contingent consideration liabilities in connection with these business combinations during fiscal year 2024, which are comprised of revenue and product development milestone-based payments.
+Disposal Activity
+Ventilator Product Line Exit
+In February 2024, the Company announced the decision to exit its ventilator product line and retain and combine the remaining Patient Monitoring and Respiratory Interventions (PMRI) businesses into one business unit called Acute Care and Monitoring (ACM). In connection with this decision, the Company recorded pre-tax charges of $ 439 million, including $ 369 million recognized within other operating expense (income), net and $ 70 million recognized in cost of products sold in the consolidated statements of income in fiscal year 2024. The charges included $ 371 million of non-cash impairments and write-downs primarily related to $ 295 million of long-lived asset impairments to write-down the value of related intangible assets to zero and $ 70 million of inventory-write downs. The other charges primarily related to contract cancellation costs and severance. The Company will continue to honor existing ventilator contracts to serve the needs of its customers and their patients.
+Contingent Consideration
+Certain of the Company's business combinations involve potential payment of future consideration that is contingent upon the achievement of certain product development milestones and/or contingent on the acquired business reaching certain performance milestones. A liability is recorded for the estimated fair value of the contingent consideration on the acquisition date. The fair value of the contingent consideration is remeasured at each reporting period, and the change in fair value is recognized within other operating expense (income), net in the consolidated statements of income.
+The fair value of contingent consideration liabilities at April 24, 2026 and April 25, 2025 was $ 163 million and $ 81 million, respectively. At April 24, 2026, $ 32 million was recorded in other accrued expenses , and $ 131 million was recorded in other liabilities on the consolidated balance sheets. At April 25, 2025, $ 31 million was reflected in other accrued expenses , and $ 50 million was reflected in other liabilities on the consolidated balance sheets.
+The following table provides a reconciliation of the beginning and ending balances of contingent consideration liabilities:
+Fiscal Year
+(in millions) 2026 2025
+Beginning balance $ 81 $ 149
+Purchase price contingent consideration 115 20
+Payments ( 28 ) ( 86 )
+Change in fair value ( 5 ) ( 2 )
+Ending balance $ 163 $ 81
+69
+Table of Contents
+Medtronic plc
+Notes to Consolidated Financial Statements (Continued)
+The recurring Level 3 fair value measurements of contingent consideration for which a liability is recorded include the following significant unobservable inputs:
+(in millions) Fair Value at April 24, 2026 Unobservable Input Range Weighted Average (1)
+Revenue and other performance-based payments $ 141 Discount rate 15.0 % - 28.2 %
+16.6 %
+Projected fiscal year of payment 2027 - 2029 2027
+Product development and other milestone-based payments $ 22 Discount rate 5.5 %
+5.5 %
+Projected fiscal year of payment 2027 - 2028 2027
+(1) Unobservable inputs were weighted by the relative fair value of the contingent consideration liability. For projected fiscal year of payment, the amount represents the median of the inputs and is not a weighted average.
+In fiscal year 2023, the Company sold half of its Renal Care Solutions (RCS) business. This sale was part of an agreement between Medtronic and DaVita to form a new, independent kidney care-focused medical device company ("Mozarc Medical" or "Mozarc") with equal equity ownership. In connection with the sale, the Company was entitled to receive additional consideration based on the achievement of certain revenue, regulatory, and profitability milestones. The fair value of the contingent consideration receivable at April 24, 2026 and April 25, 2025 was zero and $ 13 million, respectively, and was recorded in other assets in the consolidated balance sheet.
+The following table provides a reconciliation of the beginning and ending balances of the Level 3 measurement of contingent consideration receivable:
+Fiscal Year
+(in millions) 2026 2025
+Beginning balance $ 13 $ 58
+Change in fair value ( 13 ) ( 45 )
+Ending balance $ — $ 13
+Funded Research and Development Arrangements
+The Company has entered into various arrangements with affiliates of Blackstone Life Sciences Advisors L.L.C. (collectively, "Blackstone") to receive funding related to the development of certain products 

@@ -1,0 +1,607 @@
+ are designated as cash flow hedges of the variability of the cash flows due to changes in foreign currency exchange rates and are marked-to-market with the resulting gains or losses reflected in Accumulated other comprehensive income (loss). Gains or losses will be included in Cost of products sold at the time the products are sold, generally within the next twelve to eighteen months. At December 31, 2024 and 2023, Abbott held $7.0 billion and $7.3 billion of notional values, respectively, of such contracts. Contracts held at December 31, 2024 will mature in 2025 or 2026 depending on the contract. Contracts held at December 31, 2023 matured in 2024 or will mature in 2025 depending upon the contract.
+Abbott enters into foreign currency forward exchange contracts to manage its exposure to foreign currency denominated intercompany loans and trade payables and third-party trade payables and receivables. The contracts are marked-to-market, and resulting gains or losses are reflected in income and are generally offset by losses or gains on the foreign currency exposure being managed. At December 31, 2024 and 2023, Abbott held $16.2 billion and $13.8 billion of notional values, respectively, of such contracts, which mature within 13 months.
+Abbott has designated a yen-denominated, 5-year term loan of approximately $583 million and $419 million as of December 31, 2024 and December 31, 2023, respectively, as a hedge of the net investment in certain foreign subsidiaries. The change in the value of the debt is due to net incremental borrowing of $201 million, discussed in Note 10 — Debt and Lines of Credit, as well as changes in foreign exchange rates, recorded in Accumulated other comprehensive income (loss), net of tax.
+.
+38
+Table of Contents
+The following table reflects the total foreign currency forward exchange contracts outstanding at December 31, 2024 and 2023:
+2024
+2023
+(dollars in millions) Contract
+Amount Weighted
+Average
+Exchange
+Rate Fair and
+Carrying Value
+Receivable/
+(Payable) Contract
+Amount Weighted
+Average
+Exchange
+Rate Fair and
+Carrying Value
+Receivable/
+(Payable)
+Primarily U.S. dollars to be exchanged for the following currencies:
+Euro $ 10,954 1.0848 $ 136 $ 9,221 1.0865 $ (35)
+Chinese Yuan 1,926 7.1132 22 2,115 7.0785 3
+Japanese Yen 1,479 149.1298 51 1,635 138.2288 24
+All other currencies 8,832 n/a 50 8,189 n/a (54)
+Total $ 23,191 $ 259 $ 21,160 $ (62)
+39
+Table of Contents
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Page
+Consolidated Statement of Earnings
+41
+Consolidated Statement of Comprehensive Income
+42
+Consolidated Statement of Cash Flows
+43
+Consolidated Balance Sheet
+44
+Consolidated Statement of Shareholders' Investment
+46
+Notes to Consolidated Financial Statements
+47
+Management Report on Internal Control Over Financial Reporting
+76
+Report of Independent Registered Public Accounting Firm (PCAOB ID: 42 )
+77
+Report of Independent Registered Public Accounting Firm
+92
+40
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Consolidated Statement of Earnings
+(in millions except per share data)
+Year Ended December 31
+2024 2023 2022
+Net Sales $ 41,950 $ 40,109 $ 43,653
+Cost of products sold, excluding amortization of intangible assets 18,706 17,975 19,142
+Amortization of intangible assets 1,878 1,966 2,013
+Research and development 2,844 2,741 2,888
+Selling, general and administrative 11,697 10,949 11,248
+Total Operating Cost and Expenses 35,125 33,631 35,291
+Operating Earnings 6,825 6,478 8,362
+Interest expense 559 637 558
+Interest income ( 344 ) ( 385 ) ( 183 )
+Net foreign exchange (gain) loss ( 27 ) 41 2
+Other (income) expense, net ( 376 ) ( 479 ) ( 321 )
+Earnings before Taxes 7,013 6,664 8,306
+Taxes on Earnings ( 6,389 ) 941 1,373
+Net Earnings $ 13,402 $ 5,723 $ 6,933
+Basic Earnings Per Common Share $ 7.67 $ 3.28 $ 3.94
+Diluted Earnings Per Common Share $ 7.64 $ 3.26 $ 3.91
+Average Number of Common Shares Outstanding Used for Basic Earnings Per Common Share 1,740 1,740 1,753
+Dilutive Common Stock Options 8 9 11
+Average Number of Common Shares Outstanding Plus Dilutive Common Stock Options 1,748 1,749 1,764
+Outstanding Common Stock Options Having No Dilutive Effect 7 5 3
+The accompanying notes to consolidated financial statements are an integral part of this statement.
+41
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Consolidated Statement of Comprehensive Income
+(in millions)
+Year Ended December 31
+2024 2023 2022
+Net Earnings $ 13,402 $ 5,723 $ 6,933
+Foreign currency translation gain (loss) adjustments ( 1,001 ) 229 ( 894 )
+Net actuarial gains (losses) and prior service cost and credits and amortization of net actuarial losses and prior service cost and credits, net of taxes of $ 228 in 2024, $ 31 in 2023 and $ 330 in 2022
+765 117 1,177
+Net gains (losses) on derivative instruments designated as cash flow hedges, net of taxes of $ 48 in 2024, $( 66 ) in 2023 and $ 11 in 2022
+169 ( 134 ) 40
+Other Comprehensive Income (Loss) ( 67 ) 212 323
+Comprehensive Income $ 13,335 $ 5,935 $ 7,256
+Supplemental Accumulated Other Comprehensive Income (Loss) Information, net of tax as of December 31:
+Cumulative foreign currency translation (loss) adjustments $ ( 7,505 ) $ ( 6,504 ) $ ( 6,733 )
+Net actuarial (losses) and prior service (cost) and credits ( 611 ) ( 1,376 ) ( 1,493 )
+Cumulative gains (losses) on derivative instruments designated as cash flow hedges 210 41 175
+Accumulated other comprehensive income (loss) $ ( 7,906 ) $ ( 7,839 ) $ ( 8,051 )
+The accompanying notes to consolidated financial statements are an integral part of this statement.
+42
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Consolidated Statement of Cash Flows
+(in millions)
+Year Ended December 31
+2024 2023 2022
+Cash Flow From (Used in) Operating Activities:
+Net earnings $ 13,402 $ 5,723 $ 6,933
+Adjustments to reconcile earnings to net cash from operating activities —
+Depreciation 1,340 1,277 1,254
+Amortization of intangible assets 1,878 1,966 2,013
+Share-based compensation 673 644 685
+Investing and financing losses, net 482 126 215
+Trade receivables ( 691 ) ( 356 ) ( 68 )
+Inventories ( 58 ) ( 232 ) ( 1,413 )
+Prepaid expenses and other assets ( 796 ) ( 542 ) ( 75 )
+Trade accounts payable and other liabilities 356 ( 760 ) 420
+Income taxes ( 8,028 ) ( 585 ) ( 383 )
+Net Cash From Operating Activities 8,558 7,261 9,581
+Cash Flow From (Used in) Investing Activities:
+Acquisitions of property and equipment ( 2,207 ) ( 2,202 ) ( 1,777 )
+Acquisitions of businesses and technologies, net of cash acquired — ( 877 ) —
+Proceeds from business dispositions 1 40 48
+Purchases of investment securities ( 169 ) ( 159 ) ( 185 )
+Proceeds from sales of investment securities 28 43 152
+Other 9 22 22
+Net Cash From (Used in) Investing Activities ( 2,338 ) ( 3,133 ) ( 1,740 )
+Cash Flow From (Used in) Financing Activities:
+Proceeds from issuance of (repayments of) short-term debt, net and other ( 100 ) 21 47
+Proceeds from issuance of long-term debt and debt with maturities over 3 months 223 2 7
+Repayments of long-term debt and debt with maturities over 3 months ( 660 ) ( 2,498 ) ( 753 )
+Purchases of common shares ( 1,295 ) ( 1,227 ) ( 3,795 )
+Proceeds from stock options exercised 264 167 167
+Dividends paid ( 3,836 ) ( 3,556 ) ( 3,309 )
+Net Cash From (Used in) Financing Activities ( 5,404 ) ( 7,091 ) ( 7,636 )
+Effect of exchange rate changes on cash and cash equivalents ( 96 ) ( 23 ) ( 122 )
+Net Increase (Decrease) in Cash and Cash Equivalents 720 ( 2,986 ) 83
+Cash and Cash Equivalents, Beginning of Year 6,896 9,882 9,799
+Cash and Cash Equivalents, End of Year $ 7,616 $ 6,896 $ 9,882
+Supplemental Cash Flow Information:
+Income taxes paid $ 1,723 $ 1,475 $ 1,864
+Interest paid 604 662 563
+The accompanying notes to consolidated financial statements are an integral part of this statement.
+43
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Consolidated Balance Sheet
+(dollars in millions)
+December 31
+2024 2023
+Assets
+Current assets:
+Cash and cash equivalents $ 7,616 $ 6,896
+Investments, primarily bank time deposits and U.S. treasury bills 351 383
+Trade receivables, less allowances of — 2024: $ 439 ; 2023: $ 444
+6,925 6,565
+Inventories:
+Finished products 3,700 3,946
+Work in process 840 807
+Materials 1,654 1,817
+Total inventories 6,194 6,570
+Other prepaid expenses and receivables 2,570 2,256
+Total current assets 23,656 22,670
+Investments 886 799
+Property and equipment, at cost:
+Land 528 529
+Buildings 4,207 4,161
+Equipment 15,517 15,179
+Construction in progress 2,488 2,064
+22,740 21,933
+Less: accumulated depreciation and amortization 12,082 11,779
+Net property and equipment 10,658 10,154
+Intangible assets, net of amortization 6,647 8,815
+Goodwill 23,108 23,679
+Deferred income taxes and other assets 16,459 7,097
+$ 81,414 $ 73,214
+44
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Consolidated Balance Sheet
+(dollars in millions)
+December 31
+2024 2023
+Liabilities and Shareholders' Investment
+Current liabilities:
+Trade accounts payable $ 4,195 $ 4,295
+Salaries, wages and commissions 1,701 1,597
+Other accrued liabilities 5,143 5,422
+Dividends payable 1,024 955
+Income taxes payable 594 492
+Current portion of long-term debt 1,500 1,080
+Total current liabilities 14,157 13,841
+Long-term debt 12,625 13,599
+Post-employment obligations and other long-term liabilities 6,731 6,947
+Commitments and contingencies
+Shareholders' investment:
+Preferred shares, one dollar par value Authorized — 1,000,000 shares, none issued
+— —
+Common shares, without par value Authorized — 2,400,000,000 shares
+Issued at stated capital amount — Shares: 2024: 1,991,472,630 ; 2023: 1,987,883,852
+25,153 24,869
+Common shares held in treasury, at cost — Shares: 2024: 259,774,639 ; 2023: 253,807,494
+( 16,844 ) ( 15,981 )
+Earnings employed in the business 47,261 37,554
+Accumulated other comprehensive income (loss) ( 7,906 ) ( 7,839 )
+Total Abbott Shareholders' Investment 47,664 38,603
+Noncontrolling interests in subsidiaries 237 224
+Total Shareholders' Investment 47,901 38,827
+$ 81,414 $ 73,214
+The accompanying notes to consolidated financial statements are an integral part of this statement.
+45
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Consolidated Statement of Shareholders' Investment
+(in millions except shares and per share data)
+Year Ended December 31
+2024 2023 2022
+Common Shares:
+Beginning of Year
+Shares: 2024: 1,987,883,852 ; 2023: 1,986,519,278 ; 2022: 1,985,273,421
+$ 24,869 $ 24,709 $ 24,470
+Issued under incentive stock programs
+Shares: 2024: 3,588,778 ; 2023: 1,364,574 ; 2022: 1,245,857
+173 66 72
+Share-based compensation 673 646 687
+Issuance of restricted stock awards ( 562 ) ( 552 ) ( 520 )
+End of Year
+Shares: 2024: 1,991,472,630 ; 2023: 1,987,883,852 ; 2022: 1,986,519,278
+$ 25,153 $ 24,869 $ 24,709
+Common Shares Held in Treasury:
+Beginning of Year
+Shares: 2024: 253,807,494 ; 2023: 248,724,257 ; 2022: 221,191,228
+$ ( 15,981 ) $ ( 15,229 ) $ ( 11,822 )
+Issued under incentive stock programs
+Shares: 2024: 4,423,897 ; 2023: 4,881,031 ; 2022: 4,980,202
+280 297 269
+Purchased
+Shares: 2024: 10,391,042 ; 2023: 9,964,268 ; 2022: 32,513,231
+( 1,143 ) ( 1,049 ) ( 3,676 )
+End of Year
+Shares: 2024: 259,774,639 ; 2023: 253,807,494 ; 2022: 248,724,257
+$ ( 16,844 ) $ ( 15,981 ) $ ( 15,229 )
+Earnings Employed in the Business:
+Beginning of Year $ 37,554 $ 35,257 $ 31,528
+Net earnings 13,402 5,723 6,933
+Cash dividends declared on common shares (per share — 2024: $ 2.24 ; 2023: $ 2.08 ; 2022: $ 1.92 )
+( 3,904 ) ( 3,625 ) ( 3,365 )
+Effect of common and treasury share transactions 209 199 161
+End of Year $ 47,261 $ 37,554 $ 35,257
+Accumulated Other Comprehensive Income (Loss):
+Beginning of Year $ ( 7,839 ) $ ( 8,051 ) $ ( 8,374 )
+Other comprehensive income (loss) ( 67 ) 212 323
+End of Year $ ( 7,906 ) $ ( 7,839 ) $ ( 8,051 )
+Noncontrolling Interests in Subsidiaries:
+Beginning of Year $ 224 $ 219 $ 222
+Noncontrolling Interests' share of income, net of distributions and share repurchases 13 5 ( 3 )
+End of Year $ 237 $ 224 $ 219
+The accompanying notes to consolidated financial statements are an integral part of this statement.
+46
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to Consolidated Financial Statements
+Note 1 — Summary of Significant Accounting Policies
+NATURE OF BUSINESS — Abbott's principal business is the discovery, development, manufacture and sale of a broad line of health care products.
+BASIS OF CONSOLIDATION — The consolidated financial statements include the accounts of the parent company and subsidiaries, after elimination of intercompany transactions.
+USE OF ESTIMATES — The consolidated financial statements have been prepared in accordance with generally accepted accounting principles in the United States and necessarily include amounts based on estimates and assumptions by management. Actual results could differ from those amounts. Significant estimates include amounts for sales rebates, income taxes, pension and other post-employment benefits, valuation of intangible assets, litigation, derivative financial instruments, and inventory and accounts receivable exposures.
+FOREIGN CURRENCY TRANSLATION — The statements of earnings of foreign subsidiaries whose functional currencies are other than the U.S. dollar are translated into U.S. dollars using average exchange rates for the period. The net assets of foreign subsidiaries whose functional currencies are other than the U.S. dollar are translated into U.S. dollars using exchange rates as of the balance sheet date. The U.S. dollar effects that arise from translating the net assets of these subsidiaries at changing rates are recorded in the foreign currency translation adjustment account, which is included in equity as a component of Accumulated other comprehensive income (loss). Transaction gains and losses are recorded on the Net foreign exchange (gain) loss line of the Consolidated Statement of Earnings.
+REVENUE RECOGNITION — Revenue from product sales is recognized upon the transfer of control, which is generally upon shipment or delivery, depending on the delivery terms set forth in the customer contract. Provisions for discounts, rebates and sales incentives to customers, and returns and other adjustments are provided for in the period the related sales are recorded. Sales incentives to customers are not material. Historical data is readily available and reliable, and is used for estimating the amount of the reduction in gross sales. Revenue from the launch of a new product, from an improved version of an existing product, or for shipments in excess of a customer's normal requirements are recorded when the conditions noted above are met. In those situations, management records a returns reserve for such revenue, if necessary. In certain Abbott businesses, primarily within diagnostics, Abbott participates in selling arrangements that include multiple performance obligations (e.g., instruments, reagents, procedures, and service agreements). The total transaction price of the contract is allocated to each performance obligation in an amount based on the estimated relative standalone selling prices of the promised goods or services underlying each performance obligation.
+INCOME TAXES — Deferred income taxes are provided for the tax effect of differences between the tax bases of assets and liabilities and their reported amounts in the financial statements at the enacted statutory rate to be in effect when the taxes are paid. No additional income taxes have been provided for any remaining undistributed foreign earnings not subject to the transition tax related to the U.S. Tax Cuts and Jobs Act (TCJA), or any additional outside basis differences that exist, as these amounts continue to be indefinitely reinvested in foreign operations. The TCJA subjects taxpayers to tax on global intangible low-taxed income (GILTI) earned by certain foreign subsidiaries. Abbott treats the GILTI tax as a period expense and provides for the tax in the year that the tax is incurred. Interest and penalties on income tax obligations are included in taxes on earnings.
+EARNINGS PER SHARE — Unvested restricted stock units and awards that contain non-forfeitable rights to dividends are treated as participating securities and are included in the computation of earnings per share under the two-class method. Under the two-class method, net earnings are allocated between common shares and participating securities. Net earnings allocated to common shares in 2024, 2023 and 2022 were $ 13.351 billion, $ 5.701 billion and $ 6.905 billion, respectively.
+PENSION AND POST-EMPLOYMENT BENEFITS — Abbott accrues for the actuarially determined cost of pension and post-employment benefits over the service attribution periods of the employees. Abbott must develop long-term assumptions, the most significant of which are the health care cost trend rates, discount rates and the expected return on plan assets. Differences between the expected long-term return on plan assets and the actual return are amortized over a five-year period. Actuarial losses and gains are amortized over the remaining service attribution periods of the employees under the corridor method.
+47
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to Consolidated Financial Statements (Continued)
+Note 1 — Summary of Significant Accounting Policies (Continued)
+FAIR VALUE MEASUREMENTS — For assets and liabilities that are measured using quoted prices in active markets, total fair value is the published market price per unit multiplied by the number of units held without consideration of transaction costs. Assets and liabilities that are measured using significant other observable inputs are valued by reference to similar assets or liabilities, adjusted for contract restrictions and other terms specific to that asset or liability. For these items, a significant portion of fair value is derived by reference to quoted prices of similar assets or liabilities in active markets. For all remaining assets and liabilities, fair value is derived using a fair value model, such as a discounted cash flow model or Black-Scholes model. Purchased intangible assets are recorded at fair value. The fair value of significant purchased intangible assets is based on independent appraisals. Abbott uses a discounted cash flow model to value intangible assets. The discounted cash flow model requires assumptions about the timing and amount of future net cash flows, risk, the cost of capital, terminal values and market participants. Intangible assets are reviewed for impairment on a quarterly basis. Goodwill and indefinite-lived intangible assets are tested for impairment at least annually.
+SHARE-BASED COMPENSATION — The fair value of stock options and restricted stock awards and units are amortized over their requisite service period, which could be shorter than the vesting period if an employee is retirement eligible, with a charge to compensation expense.
+LITIGATION — Abbott accounts for litigation losses in accordance with Financial Accounting Standards Board (FASB) Accounting Standards Codification (ASC) No. 450, "Contingencies." Under ASC No. 450, loss contingency provisions are recorded for probable losses at management's best estimate of a loss, or when a best estimate cannot be made, a minimum loss contingency amount is recorded. Legal fees are recorded as incurred.
+CASH, CASH EQUIVALENTS AND INVESTMENTS — Cash equivalents consist of bank time deposits, U.S. government securities, money market funds and U.S. treasury bills with original maturities of three months or less. Abbott holds certain investments with a carrying value of $ 139 million that are accounted for under the equity method of accounting. Investments held in a rabbi trust and investments in publicly traded equity securities are recorded at fair value and changes in fair value are recorded in earnings. Investments in equity securities that are not traded on public stock exchanges are recorded at cost minus impairment, if any, plus or minus changes resulting from observable price changes in orderly transactions for identical or similar investments of the same issuer.
+TRADE RECEIVABLE VALUATIONS — Accounts receivable are stated at the net amount expected to be collected. The allowance for doubtful accounts reflects the current estimate of credit losses expected to be incurred over the life of the accounts receivable. Abbott considers various factors in establishing, monitoring, and adjusting its allowance for doubtful accounts, including the aging of the accounts and aging trends, the historical level of charge-offs, and specific exposures related to particular customers. Abbott also monitors other risk factors and forward-looking information, such as country risk, when determining credit limits for customers and establishing adequate allowances. Accounts receivable are charged off after all reasonable means to collect the full amount (including litigation, where appropriate) have been exhausted.
+INVENTORIES — Inventories are stated at the lower of cost (first-in, first-out basis) or net realizable value. Cost includes material and conversion costs.
+PROPERTY AND EQUIPMENT — Depreciation and amortization are provided on a straight-line basis over the estimated useful lives of the assets. The following table shows estimated useful lives of property and equipment:
+Classification Estimated Useful Lives
+Buildings 10 to 50 years
+Equipment 2 to 20 years
+PRODUCT LIABILITY — Abbott accrues for product liability claims when it is probable that a liability has been incurred and the amount of the liability can be reasonably estimated based on existing information. The liabilities are adjusted quarterly as additional information becomes available. Product liability losses are self-insured.
+RESEARCH AND DEVELOPMENT COSTS — Internal research and development costs are expensed as incurred. Clinical trial costs incurred by third parties are expensed as the contracted work is performed. Where contingent milestone payments are due to third parties under research and development arrangements, the milestone payment obligations are expensed when the milestone results are achieved.
+48
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to Consolidated Financial Statements (Continued)
+Note 1 — Summary of Significant Accounting Policies (Continued)
+ACQUIRED IN-PROCESS AND COLLABORATIONS RESEARCH AND DEVELOPMENT (IPR&D) — The initial costs of rights to IPR&D projects obtained in an asset acquisition are expensed as IPR&D unless the project has an alternative future use. These costs include initial payments incurred prior to regulatory approval in connection with research and development collaboration agreements that provide rights to develop, manufacture, market and/or sell pharmaceutical or medical device products. The fair value of IPR&D projects acquired in a business combination are capitalized and accounted for as indefinite-lived intangible assets until completed and are then amortized over the remaining useful life. Collaborations are not significant.
+CONCENTRATION OF RISK AND GUARANTEES — Due to the nature of its operations, Abbott is not subject to significant concentration risks relating to customers, products or geographic locations. Product warranties are not significant.
+Abbott has no material exposures to off-balance sheet arrangements; no special purpose entities; nor activities that include non-exchange-traded contracts accounted for at fair value. Abbott periodically acquires a business or product rights in which Abbott agrees to pay contingent consideration based on attaining certain thresholds or based on the occurrence of certain events.
+Note 2 — New Accounting Standards
+Recently Adopted Accounting Standards
+In November 2023, the FASB issued ASU 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures , which expands the breadth and frequency of required segment disclosures. The guidance is required to be applied retrospectively to all periods presented in the financial statements. Abbott adopted the standard on January 1, 2024. The new standard did not have an impact on Abbott's consolidated financial statements, but required additional disclosures, retrospectively applied to all periods presented in Note 16 — Segment and geographic area information.
+In September 2022, the FASB issued Accounting Standards Update (ASU) 2022-04, Disclosure of Supplier Finance Program Obligations , which requires an entity to report information about its supplier finance program. Abbott adopted the standard on January 1, 2023. The new standard did not have an impact on Abbott's consolidated financial statements.
+Recent Accounting Standards Not Yet Adopted
+In November 2024, the FASB issued ASU 2024-03, Income Statement (Subtopic 220-40): Reporting Comprehensive Income - Expense Disaggregation Disclosures , which requires an entity to disclose on an annual and interim basis, disaggregated information about specific income statement expense categories. The guidance should be applied prospectively with the option to apply the standard retrospectively. The standard becomes effective for Abbott for full year 2027 reporting. Abbott is currently evaluating the impact of this new standard on its consolidated financial statements.
+In December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures , which requires an entity to disclose annually additional information related to the company's income tax rate reconciliation and income taxes paid during the period. The guidance should be applied prospectively with the option to apply the standard retrospectively. The standard becomes effective for Abbott for full year 2025 reporting. Abbott is currently evaluating the impact of this new standard on its consolidated financial statements.
+Note 3 — Revenue
+Abbott's revenues are derived primarily from the sale of a broad line of health care products under short-term receivable arrangements. Patent protection and licenses, technological and performance features, and inclusion of Abbott's products under a contract most impact which products are sold; price controls, competition and rebates most impact the net selling prices of products; and foreign currency translation impacts the measurement of net sales and costs. Abbott's products are generally sold directly to retailers, wholesalers, distributors, hospitals, health care facilities, laboratories, physicians' offices and government agencies throughout the world. Abbott has four reportable segments: Established Pharmaceutical Products, Diagnostic Products, Nutritional Products, and Medical Devices.
+49
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to Consolidated Financial Statements (Continued)
+Note 3 — Revenue (Continued)
+The following tables provide detail by sales category:
+2024 2023 2022
+(in millions) U.S. Int'l Total U.S. Int'l Total U.S. Int'l Total
+Established Pharmaceutical Products —
+Key Emerging Markets $ — $ 3,858 $ 3,858 $ — $ 3,807 $ 3,807 $ — $ 3,766 $ 3,766
+Other — 1,336 1,336 — 1,259 1,259 — 1,146 1,146
+Total — 5,194 5,194 — 5,066 5,066 — 4,912 4,912
+Nutritional Products —
+Pediatric Nutritionals 2,208 1,815 4,023 1,977 1,957 3,934 1,562 1,919 3,481
+Adult Nutritionals 1,481 2,909 4,390 1,436 2,784 4,220 1,357 2,621 3,978
+Total 3,689 4,724 8,413 3,413 4,741 8,154 2,919 4,540 7,459
+Diagnostic Products —
+Core Laboratory 1,332 3,903 5,235 1,243 3,916 5,159 1,137 3,751 4,888
+Molecular 150 371 521 172 402 574 370 625 995
+Point of Care 408 180 588 396 169 565 372 153 525
+Rapid Diagnostics 1,940 1,057 2,997 2,518 1,172 3,690 6,652 3,409 10,061
+Total 3,830 5,511 9,341 4,329 5,659 9,988 8,531 7,938 16,469
+Medical Devices —
+Rhythm Management 1,154 1,236 2,390 1,085 1,170 2,255 1,029 1,090 2,119
+Electrophysiology 1,141 1,326 2,467 1,008 1,187 2,195 909 1,018 1,927
+Heart Failure 986 293 1,279 888 273 1,161 809 226 1,035
+Vascular 1,056 1,781 2,837 978 1,703 2,681 864 1,619 2,483
+Structural Heart 1,051 1,195 2,246 883 1,061 1,944 818 894 1,712
+Neuromodulation 767 195 962 725 165 890 619 151 770
+Diabetes Care 2,633 4,172 6,805 2,129 3,632 5,761 1,633 3,123 4,756
+Total 8,788 10,198 18,986 7,696 9,191 16,887 6,681 8,121 14,802
+Other 16 — 16 14 — 14 11 — 11
+Total $ 16,323 $ 25,627 $ 41,950 $ 15,452 $ 24,657 $ 40,109 $ 18,142 $ 25,511 $ 43,653
+Note: The Acelis Connected Health business was internally transferred from Rapid Diagnostics to Heart Failure on January 1, 2023. As a result, $ 115 million of sales in 2022 were moved from Rapid Diagnostics to Heart Failure.
+Products sold by the Diagnostics segment include various types of diagnostic tests to detect COVID-19. Abbott's COVID-19 testing-related sales totaled approximately $ 747 million in 2024, $ 1.6 billion in 2023 and $ 8.4 billion in 2022.
+50
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to Consolidated Financial Statements (Continued)
+Note 3 — Revenue (Continued)
+Abbott recognizes revenue from product sales upon the transfer of control, which is generally upon shipment or delivery, depending on the delivery terms set forth in the customer contract. For maintenance agreements that provide service beyond Abbott's standard warranty and other service agreements, revenue is recognized ratably over the contract term. A time-based measure of progress appropriately reflects the transfer of services to the customer. Payment terms between Abbott and its customers vary by the type of customer, country of sale, and the products or services offered. The term between invoicing and the payment due date is not significant.
+Management exercises judgment in estimating variable consideration. Provisions for discounts, rebates and sales incentives to customers, and returns and other adjustments are provided for in the period the related sales are recorded. Sales incentives to customers are not material. Historical data is readily available and reliable, and is used for estimating the amount of the reduction in gross sales. Abbott provides rebates to government agencies, wholesalers, group purchasing organizations and other private entities.
+Rebate amounts are usually based upon the volume of purchases using contractual or statutory prices for a product. Factors used in the rebate calculations include the identification of which products have been sold subject to a rebate, which customer or government agency price terms apply, and the estimated lag time between sale and payment of a rebate. Using historical trends, adjusted for current changes, Abbott estimates the amount of the rebate that will be paid, and records the liability as a reduction of gross sales when Abbott records its sale of the product. Settlement of the rebate generally occurs from one to six months after sale. Abbott regularly analyzes the historical rebate trends and makes adjustments to reserves for changes in trends and terms of rebate programs. Historically, adjustments to prior years' rebate accruals have not been material to net income.
+Other allowances charged against gross sales include cash discounts and returns, which are not significant. Cash discounts are known within 15 to 30 days of sale, and therefore can be reliably estimated. Returns can be reliably estimated because Abbott's historical returns are low, and because sales return terms and other sales terms have remained relatively unchanged for several periods. Product warranties are also not significant.
+Abbott also applies judgment in determining the timing of revenue recognition related to contracts that include multiple performance obligations. The total transaction price of the contract is allocated to each performance obligation in an amount based on the estimated relative standalone selling prices of the promised goods or services underlying each performance obligation. For goods or services for which observable standalone selling prices are not available, Abbott uses an expected cost plus a margin approach to estimate the standalone selling price of each performance obligation.
+Remaining Performance Obligations
+As of December 31, 2024, the estimated revenue expected to be recognized in the future related to performance obligations that are unsatisfied (or partially unsatisfied) was approximately $ 5.5 billion in the Diagnostic Products segment and approximately $ 440 million in the Medical Devices segment. Abbott expects to recognize revenue on approximately 56 percent of these remaining performance obligations over the next 24 months, approximately 17 percent over the subsequent 12 months and the remainder thereafter.
+These performance obligations primarily reflect the future sale of reagents/consumables in contracts with minimum purchase obligations, extended warranty or service obligations related to previously sold equipment, and remote monitoring services related to previously implanted devices. Abbott has applied the practical expedient described in ASC 606-10-50-14 and has not included remaining performance obligations related to contracts with original expected durations of one year or less in the amounts above.
+Assets Recognized for Costs to Obtain a Contract with a Customer
+Abbott has applied the practical expedient in ASC 340-40-25-4 and records as an expense the incremental costs of obtaining contracts with customers in the period of occurrence when the amortization period of the asset that Abbott otherwise would have recognized is one year or less. Upfront commission fees paid to sales personnel as a result of obtaining or renewing contracts with customers are incremental to obtaining the contract. Abbott capitalizes these amounts as contract costs. Capitalized commission fees are amortized based on the contract duration to which the assets relate which ranges from two to ten years . The amounts as of December 31, 2024 and 2023 were not significant.
+51
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to Consolidated Financial Statements (Continued)
+Note 3 — Revenue (Continued)
+Additionally, the cost of transmitters provided to customers that use Abbott's remote monitoring service with respect to certain medical devices are capitalized as contract costs. Capitalized transmitter costs are amortized based on the timing of the transfer of services to which the assets relate, which typically ranges from eight to ten years . The amounts as of December 31, 2024 and 2023 were not significant.
+Other Contract Assets and Liabilities
+Abbott discloses Trade receivables separately in the Consolidated Balance Sheet at the net amount expected to be collected. Contract assets primarily relate to Abbott's conditional right to consideration for work completed but not billed at the reporting date. Contract assets at the beginning and end of the period, as well as the changes in the balance, were not significant.
+Contract liabilities primarily relate to payments received from customers in advance of performance under the contract. Abbott's contract liabilities arise primarily in the Medical Devices reportable segment when payment is received upfront for various multi-period extended service arrangements. Changes in the contract liabilities during the period are as follows:
+(in millions)
+Contract Liabilities:
+Balance at December 31, 2022 $ 500
+Unearned revenue from cash received during the period 469
+Revenue recognized related to contract liability balance ( 424 )
+Balance at December 31, 2023 545
+Unearned revenue from cash received during the period 483
+Revenue recognized related to contract liability balance ( 460 )
+Balance at December 31, 2024 $ 568
+Note 4 — Supplemental Financial Information
+Other (income) expense, net , for 2024, 2023 and 2022 include s approximately $ 542 million, $ 498 million and $ 406 million of income, respectively, related to the non-service cost components of the net periodic benefit costs ass ociated with the pension and post-retirement medical plans.
+In the second quarter of 2024, Abbott sold a non-core business related to its Established Pharmaceutical Products segment. Abbott recorded a loss of approximately $ 143 million on the sale in Other (income) expense, net in its Consolidated Statement of Earnings. Net assets which primarily related to inventory and net property and equipment and had a carrying value of $ 28 million were included in the sale. The loss on the sale also included $ 116 million of cumulative foreign currency translation adjustment previously recorded in Accumulated other comprehensive income (loss).
+The following summarizes the activity related to the allowance for doubtful accounts:
+(in millions)
+Allowance for Doubtful Accounts:
+Balance at December 31, 2022 $ 262
+Provisions/charges to income 26
+Amounts charged off and other deductions ( 47 )
+Balance at December 31, 2023 241
+Provisions/charges to income 61
+Amounts charged off and other deductions ( 55 )
+Balance at December 31, 2024 $ 247
+52
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to Consolidated Financial Statements (Continued)
+Note 4 — Supplemental Financial Information (Continued)
+The allowance for doubtful accounts reflects the current estimate of credit losses expected to be incurred over the life of the accounts receivable. Abbott considers various factors in establishing, monitoring, and adjusting its allowance for doubtful accounts, including the aging of the accounts and aging trends, the historical level of charge-offs, and specific exposures related to particular customers. Abbott also monitors other risk factors and forward-looking information, such as country risk, when determining credit limits for customers and establishing adequate allowances.
+The detail of various balance sheet components is as follows:
+(in millions) December 31,
+2024 December 31,
+2023
+Long-term Investments:
+Equity securities $ 553 $ 555
+Other 333 244
+Total $ 886 $ 799
+The increase in Abbott's long-term investments as of December 31, 2024 versus the balance as of December 31, 2023 primarily relates to investment in long term deposits and equity method investments, partially offset by the impairment of certain securities.
+Abbott's equity securities as of December 31, 2024 and December 31, 2023, include $ 313 million and $ 314 million, respectively, of investments in mutual funds that are held in a rabbi trust. These investments, which are specifically designated as available for the purpose of paying benefits under a deferred compensation plan, are not available for general corporate purposes and are subject to creditor claims in the event of insolvency.
+Abbott also holds certain investments as of December 31, 2024 with a carrying value of $ 139 million that are accounted for under the equity method of accounting and other equity investments with a carrying value of $ 91 million that do not have a readily determinable fair va lue.
+(in millions) December 31,
+2024 December 31,
+2023
+Other Accrued Liabilities:
+Accrued rebates payable to government agencies $ 621 $ 650
+Accrued other rebates (a) 1,098 1,091
+All other 3,424 3,681
+Total $ 5,143 $ 5,422
+________________________________________________________
+(a) Accrued wholesaler chargeback rebates of $ 262 million and $ 232 million at December 31, 2024 and 2023, respectively, are netted in trade receivables because Abbott's customers are invoiced at a higher catalog price but only remit to Abbott their contract price for the products.
+(in millions) December 31,
+2024 December 31,
+2023
+Post-employment Obligations and Other Long-term Liabilities:
+Defined benefit pension plans and post-employment medical and dental plans for significant plans $ 1,880 $ 1,964
+Deferred income taxes 512 568
+Operating lease liabilities 896 949
+All other (b) 3,443 3,466
+Total $ 6,731 $ 6,947
+________________________________________________________
+(b) Includes approximately $ 860 million and $ 650 million of net unrecognized tax benefits and $ 210 million and $ 430 million of transition tax obligation related to the TCJA in 2024 and 2023, respectively.
+53
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to Consolidated Financial Statements (Continued)
+Note 5 — Accumulated Other Comprehensive Income (Loss)
+The components of the changes in accumulated other comprehensive income (loss), net of income taxes, are as follows:
+(in millions) Cumulative
+Foreign
+Currency
+Translation
+Adjustments Net Actuarial Gains (Losses) and Prior Service
+(Costs) and
+Credits Cumulative
+Gains (Losses)
+on Derivative
+Instruments
+Designated as
+Cash Flow
+Hedges Total
+Balance at December 31, 2022 $ ( 6,733 ) $ ( 1,493 ) $ 175 $ ( 8,051 )
+Other comprehensive income (loss) before reclassifications 212 127 5 344
+(Income) loss amounts reclassified from accumulated other comprehensive income (a) 17 ( 10 ) ( 139 ) ( 132 )
+Net current period other comprehensive income (loss) 229 117 ( 134 ) 212
+Balance at December 31, 2023 ( 6,504 ) ( 1,376 ) 41 ( 7,839 )
+Other comprehensive income (loss) before reclassifications ( 1,117 ) 757 245 ( 115 )
+(Income) loss amounts reclassified from accumulated other comprehensive income (a) 116 8 ( 76 ) 48
+Net current period other comprehensive income (loss) ( 1,001 ) 765 169 ( 67 )
+Balance at December 31, 2024 $ ( 7,505 ) $ ( 611 ) $ 210 $ ( 7,906 )
+________________________________________________________
+(a) The reclassification of $ 116 million out of Accumulated other comprehensive income (loss) in 2024 is included in the loss related to the sale of a non-core business included in Other (income) expense. (Income) loss amounts reclassified from accumulated other comprehensive income related to cash flow hedges are recorded as Cost of products sold. Net actuarial losses and prior service cost is included as a component of net periodic benefit cost see Note 14 — Post-Employment Benefits for additional information.
+Note 6 — Business Acquisitions
+On September 22, 2023, Abbott completed the acquisition of Bigfoot Biomedical, Inc. (Bigfoot), which furthers Abbott's efforts to develop connected solutions for making diabetes management more personal and precise. The purchase price, the final allocation of acquired assets and liabilities, and the revenue and net income contributed by Bigfoot since the date of acquisition are not material to Abbott's consolidated financial statements.
+On April 27, 2023, Abbott completed the acquisition of Cardiovascular Systems, Inc. (CSI) for $ 20 per common share, which equated to a purchase price of $ 851 million . The transaction was funded with cash on hand and accounted for as a business combination. CSI's atherectomy system, which is used in treating peripheral and coronary artery disease, adds complementary technologies to Abbott's portfolio of vascular device offerings.
+The final allocation of the purchase price of the CSI acquisition resulted in the recording of two non-deductible developed technology intangible assets totaling $ 305 million; a non-deductible in-process research and development asset of $ 15 million, which will be accounted for as an indefinite-lived intangible asset until regulatory approval or discontinuation; non-deductible goodwill of $ 369 million; net deferred tax assets of $ 46 million and other net assets of $ 116 million. The goodwill is identifiable to the Medical Devices reportable segment and is attributable to expected synergies from combining operations, as well as intangible assets that do not qualify for separate recognition. Revenues and earnings of CSI included in Abbott's consolidated financial statements since the acquisition date are not material to Abbott's consolidated revenue and earnings.
+54
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to Consolidated Financial Statements (Continued)
+Note 7 — Goodwill and Intangible Assets
+The total amount of reported goodwill was $ 23.1 billion at December 31, 2024 and $ 23.7 billion at December 31, 2023. Foreign currency translation adjustments decreased goodwill by $ 533 million in 2024 and increased goodwill b y $ 304 million in 2023. In 2023, business acquisitions increased goodwill by approximately $ 576 million. The amount of goodwill related to reportable segments at December 31, 2024 was $ 2.6 billion for the Estab lished Pharmaceutical Products segment, $ 285 million for the Nutritional Products segment, $ 3.5 billion for the Diagnostic Products segment, and $ 16.8 billion for the Medical Devices segment. There were no reductions of goodwill relating to impairments in 2024 and 2023.
+The gross amount of amortizable intangible assets, primarily product rights and technology, was $ 27.1 billion and $ 27.7 billion as of December 31, 2024 and 2023, respectivel y. In 2023, the gross amount of amortizable intangible assets increased by $ 305 million due to a business acquisition. Accumulated amortization was $ 21.3 billion and $ 19.7 billion as of December 31, 2024 and 2023 , respectively. Foreign currency translation adjustments decreased intangible assets by $ 78 million in 2024 and increased intangible assets by $ 44 million in 2023. In 2024, intangible assets decreased $ 207 million due to impairment charges recorded on the Cost of products sold line of the Consolidated Statement of Earnings, primarily related to the Medical Devices reportable segment . The estimated annual amortization expense for intangible assets recorded at December 31, 2024 is approximately $ 1.7 billion in 2025, $ 1.5 billion in 2026, $ 1.2 billion in 2027, $ 668 million in 2028 and $ 605 million in 2029. Amortizable intangible assets are amortized over 2 to 20 years.
+Indefinite-lived intangible assets, which relate to IPR&D acquired in a business combination, were approximately $ 784 million and $ 787 million at December 31, 2024 and 2023, respectively. In 2024, IPR&D decreased by $ 39 million of charges recorded on the Research and development line of the Consolidated Statement of Earnings for the impairment of an indefinite-lived intangible asset related to the Medical Devices reportable segment and was partially offset by an increase of $ 35 million due to the finalization of purchase accounting related to a business acquisition. In 2023, $ 100 million of impairment charges related to certain indefinite-lived intangible assets in the M edical Devices reportable segment were recorded on the Research and development line of the Consolidated Statement of Earnings. In 2023, business acquisitions increased IPR&D assets by $ 80 million.
+55
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to Consolidated Financial Statements (Continued)
+Note 8 — Restructuring Plans
+In 2024, Abbott management approved plans to streamline certain operations in order to reduce costs and improve efficiencies in its Diagnostic, Medical Devices, Established Pharmaceutical and Nutritional businesses, including the discontinuation of its ZonePerfect product line. Abbott recorded employee related severance and other charges of $ 129 million , of which $ 62 million was recorded in Cost of products sold, $ 21 million was recorded in Research and development, and $ 46 million was recorded in Selling, general and administrative expenses. Payments related to these actions totaled $ 32 million in 2024 and the remaining liability totaled $ 97 million at December 31, 2024. In addition, Abbott recognized inventory related charges of $ 34 million and fixed asset impairment charges of $ 12 million related to these restructuring plans.
+In 2023, Abbott management approved plans to restructure various operations in order to reduce costs in its Medical Devices, Diagnostic, and Established Pharmaceutical businesses. Abbott recorded employee related severance and other charges of $ 144 million of which $ 56 million was recorded in Cost of products sold, $ 22 million was recorded in Research and development and $ 66 million was recorded in Selling, general and administrative expenses. In addition, Abbott recognized fixed asset impairment and inventory related charges of $ 31 million related to these restructuring plans.
+The following summarizes the activity related to the 2023 restructuring actions and the status of the related accruals as of December 31, 2024:
+(in millions)
+Restructuring charges in 2023 $ 144
+Payments and other adjustments ( 65 )
+Accrued balance at December 31, 2023 79
+Payments and other adjustments ( 58 )
+Accrued balance at December 31, 2024 $ 21
+In 2022, Abbott management approved plans to streamline operations in order to reduce costs and improve efficiencies in its Medical Devices, Nutritional, Diagnostic, and Established Pharmaceutical businesses. Abbott recorded employee related severance and other charges of $ 234 million of which $ 59 million was recorded in Cost of products sold, $ 36 million was recorded in Research and development and $ 139 million was recorded in Selling, general and administrative expenses. In addition, Abbott recognized inventory related charges of $ 23 million and fixed asset impairment charges of $ 4 million related to these restructuring plans.
+The following summarizes the activity related to the 2022 restructuring actions and the status of the related accruals as of December 31, 2024:
+(in millions)
+Restructuring charges in 2022 $ 234
+Payments and other adjustments ( 6 )
+Accrued balance at December 31, 2022 228
+Payments and other adjustments ( 170 )
+Accrued balance at December 31, 2023 $ 58
+Payments and other adjustments ( 49 )
+Accrued balance at December 31, 2024 $ 9
+56
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to Consolidated Financial Statements (Continued)
+Note 9 — Incentive Stock Program
+The 2017 Incentive Stock Program authorizes the granting of nonqualified stock options, restricted stock awards, restricted stock units, performance awards, foreign benefits and other share-based awards. Stock options and restricted stock awards and units comprise the majority of benefits that have been granted and are currently outstanding under this program and a prior program. In 2024, Abbott granted 1,683,097 stock options, 404,597 restricted stock awards and 5,341,050 restricted stock units under this program.
+Under Abbott's stock incentive programs, the purchase price of shares under option must be at least equal to the fair market value of the common stock on the date of grant, and the maximum term of an option is 10 years. Options generally vest equally over three years . Restricted stock awards generally vest over three years , with no more than one-third of the award vesting in any one year upon Abbott reaching a minimum return on equity target. Restricted stock units vest over three years and upon vesting, the recipient receives one share of Abbott stock for each vested restricted stock unit. The aggregate fair market value of options and restricted stock awards and units is recognized as expense over the requisite service period, which may be shorter than the vesting period if an employee is retirement eligible. Forfeitures are estimated at the time of grant. Restricted stock awards and settlement of vested restricted stock units are issued out of treasury shares. Abbott generally issues new shares for exercises of stock options. As a policy, Abbott does not purchase its shares relating to its share-based programs.
+In April 2017, Abbott's shareholders authorized the 2017 Incentive Stock Program under which a maximum of 170 million shares were available for issuance. At December 31, 2024, approximately 61 million shares remained available for future issuance.
+The following table summarizes stock option activity for the year ended December 31, 2024 and the outstanding stock options as of December 31, 2024.
+(intrinsic values in millions) Options Weighted
+Average
+Exercise Price Weighted
+Average
+Remaining
+Life (Years) Aggregate
+Intrinsic Value
+Outstanding at December 31, 2023 28,569,075 $ 74.52 4.8 $ 1,073
+Granted 1,683,097 116.88
+Exercised ( 3,593,503 ) 47.26
+Lapsed ( 111,920 ) 119.40
+Outstanding at December 31, 2024 26,546,749 $ 80.70 4.6 $ 906
+Exercisable at December 31, 2024 22,712,676 $ 75.20 3.9 $ 897
+The following table summarizes restricted stock awards and units activity for the year ended December 31, 2024.
+Share Units Weighted
+Average
+Grant-Date
+Fair Value
+Outstanding at December 31, 2023 10,278,286 $ 112.51
+Granted 5,745,647 116.78
+Vested ( 4,978,325 ) 115.35
+Forfeited ( 536,036 ) 112.82
+Outstanding at December 31, 2024 10,509,572 $ 113.48
+The fair market value of restricted stock awards and units vested in 2024, 2023 and 2022 was $ 570 million, $ 536 million and $ 639 million, respectively.
+The total intrinsic value of options exercised in 2024, 2023 and 2022 was $ 238 million, $ 102 million and $ 85 million, respectively. The total unrecognized compensation cost related to all share-based compensation plans at December 31, 2024 amounted to approximately $ 462 million, which is expected to be recognized over the next three years .
+57
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to Consolidated Financial Statements (Continued)
+Note 9 — Incentive Stock Program (Continued)
+Total non-cash stock compensation expense charged against income in 2024, 2023 and 2022 for share-based plans totaled approximately $ 673 million, $ 644 million and $ 685 million, respectively, and the tax benefit recognized was approximately $ 181 million, $ 144 million and $ 170 million, respectively. Stock compensation cost capitalized as part of inventory is not significant.
+The table below summarizes the fair value of an option granted in 2024, 2023 and 2022 and the assumptions included in the Black-Scholes option-pricing model used to estimate the fair value:
+2024 2023 2022
+Fair value $ 31.10 $ 26.87 $ 25.26
+Risk-free interest rate 4.3 % 4.0 % 1.9 %
+Average life of options (years) 6.0 6.0 6.0
+Volatility 25.2 % 24.4 % 23.8 %
+Dividend yield 1.9 % 1.9 % 1.6 %
+The risk-free interest rate is based on the rates available at the time of the grant for zero-coupon U.S. government issues with a remaining term equal to the option's expected life. The average life of an option is based on both historical and projected exercise and lapsing data. Expected volatility is based on implied volatilities from traded options on Abbott's stock and historical volatility of Abbott's stock over the expected life of the option. Dividend yield is based on the option's exercise price and annual dividend rate at the time of grant.
+Note 10 — Debt and Lines of Credit
+The following is a summary of long-term debt at December 31:
+(in millions) 2024 2023
+0.10 % Notes, due 2024
+— 655
+2.95 % Notes, due 2025
+1,000 1,000
+3.875 % Notes, due 2025
+500 500
+1.50 % Notes, due 2026
+1,188 1,266
+3.75 % Notes, due 2026
+1,700 1,700
+0.375 % Notes, due 2027
+615 655
+1.15 % Notes, due 2028
+650 650
+5 -year term loan due 2029
+583 419
+1.40 % Notes, due 2030
+650 650
+4.75 % Notes, due 2036
+1,650 1,650
+6.15 % Notes, due 2037
+547 547
+6.00 % Notes, due 2039
+515 515
+5.30 % Notes, due 2040
+694 694
+4.75 % Notes, due 2043
+700 700
+4.90 % Notes, due 2046
+3,250 3,250
+Unamortized debt issuance costs ( 53 ) ( 56 )
+Other, including fair value adjustments relating to interest rate hedge contracts designated as fair value hedges ( 64 ) ( 116 )
+Total carrying amount of long-term debt 14,125 14,679
+Less: Current portion 1,500 1,080
+Total long-term portion $ 12,625 $ 13,599
+58
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to Consolidated Financial Statements (Continued)
+Note 10 — Debt and Lines of Credit (Continued)
+On November 19, 2024, Abbott repaid the 590 million outstanding principal amount of its 0.10 % Notes upon maturity. The repayment equated to approximately $ 640 million. On November 30, 2023, Abbott repaid the $ 1.05 billion outstanding principal amount of its 3.40 % Notes upon maturity. On September 27, 2023, Abbott repaid the 1.14 billion outstanding principal amount of its 0.875 % Notes upon maturity. The repayment equated to approximately $ 1.2 billion. In September 2023, Abbott repaid approximately $ 197 million of debt assumed as part of a recent business acquisition.
+On June 26, 2024, Abbott modified its existing, yen-denominated 5 -year term loan scheduled to mature in November 2024. The amended terms include a net increase in principal debt from 59.8 billion to 92.0 billion, with a new maturity date in June 2029. The modified, 5 -year term loan bears interest at the Tokyo Interbank Offered Rate (TIBOR) plus a fixed spread, and the interest rate is reset quarterly. The net proceeds equated to approximately $ 201 million.
+Abbott has readily available financial resources, including unused lines of credit that support commercial paper borrowing arrangements and provide Abbott with the ability to borrow up to $ 5 billion on an unsecured basis. On January 29, 2024, Abbott terminated its 2020 Five Year Credit Agreement (2020 Agreement) and entered into a new Five Year Credit Agreement (Revolving Credit Agreement). There were no outstanding borrowings under the 2020 Agreement at the time of its termination. Any borrowings under the Revolving Credit Agreement will mature and be payable on January 29, 2029 and will bear interest, at Abbott's option, based on either a base rate or Secured Overnight Financing Rate (SOFR), plus an applicable margin based on Abbott's credit ratings.
+Principal payments required on long-term debt outstanding at December 31, 2024 are $ 1.5 billion in 2025, $ 2.9 billion in 2026, $ 617 million in 2027, $ 650 million in 2028, $ 583 million in 2029 and $ 8.0 billion in 2030 and thereafter.
+At December 31, 2024, Abbott's long-term debt rating was AA- by S&P Global Ratings and Aa3 by Moody's Investors Service. Abbott expects to maintain an investment grade rating.
+Note 11 — Leases
+Leases where Abbott is the Lessee
+Abbott has entered into operating leases as the lessee for office space, manufacturing facilities, R&D laboratories, warehouses, vehicles and equipment. Finance leases are not significant. Abbott's operating leases generally have remaining lease terms of 1 to 10 years. Some leases include options to extend beyond the original lease term, generally up to 10 years and some include options to terminate early. These options have been included in the determination of the lease liability when it is reasonably certain that the option will be exercised.
+For all of its asset classes, Abbott elected the practical expedient allowed under FASB ASC No. 842, "Leases" to account for each lease component (e.g., the right to use office space) and the associated non-lease components (e.g., maintenance services) as a single lease component. Abbott also elected the short-term lease accounting policy for all asset classes; therefore, Abbott is not recognizing a lease liability or right of use (ROU) asset for any lease that, at the commencement date, has a lease term of 12 months or less and does not include an option to purchase the underlying asset that Abbott is reasonably certain to exercise.
+As Abbott's leases typically do not provide an implicit rate, the interest rate used to determine the present value of the payments under each lease typically reflects Abbott's incremental borrowing rate based on information available at the lease commencement date.
+59
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to Consolidated Financial Statements (Continued)
+Note 11 — Leases (Continued)
+The following table provides information related to Abbott's operating leases:
+(in millions, except weighted averages) 2024 2023 2022
+Operating lease cost (a) $ 366 $ 356 $ 355
+Cash paid for amounts included in the measurement of operating lease liabilities 300 276 274
+ROU assets arising from entering into new operating lease obligations 253 253 263
+Weighted average remaining lease term at December 31 (in years) 7 7 8
+Weighted average discount rate at December 31 3.6 % 3.4 % 2.9 %
+________________________________________________________
+(a) Includes short-term lease expense and variable lease costs, which were immaterial in the years ended Decem

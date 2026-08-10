@@ -1,0 +1,357 @@
+ablishing the actuarially determined accrual and in reviewing the Company's reinsurance contracts by policy year to assess the Company's self-insured retentions, deductibles, and coverage limits. We compared the Company's accrued amounts to a range developed by our actuarial specialists. Furthermore, we compared the Company's historical estimates of expected incurred losses to actual losses experienced during the current year.
+/s/ Ernst & Young LLP
+We have served as the Company's auditor since 2002.
+Memphis, Tennessee
+July 21, 2025
+-72-
+FEDEX CORPORATION
+CONSOLIDATED BALANCE SHEETS
+(IN MILLIONS)
+May 31,
+2025 2024
+ASSETS
+CURRENT ASSETS
+Cash and cash equivalents $ 5,502 $ 6,501
+Receivables, less allowances of $ 773 and $ 775
+11,368 10,087
+Spare parts, supplies, and fuel, less allowances of $ 308 and $ 288
+602 614
+Prepaid expenses and other 914 1,005
+Total current assets 18,386 18,207
+PROPERTY AND EQUIPMENT, AT COST
+Aircraft and related equipment 31,584 30,525
+Package handling and ground support equipment 18,878 17,880
+Information technology 9,706 9,203
+Vehicles and trailers 10,949 10,568
+Facilities and other 16,505 16,215
+Total property and equipment, at cost 87,622 84,391
+Less accumulated depreciation and amortization 45,980 42,900
+Net property and equipment 41,642 41,491
+OTHER LONG-TERM ASSETS
+Operating lease right-of-use assets, net 16,453 17,115
+Goodwill 6,603 6,423
+Other assets 4,543 3,771
+Total other long-term assets 27,599 27,309
+TOTAL ASSETS $ 87,627 $ 87,007
+The accompanying notes are an integral part of these consolidated financial statements.
+-73-
+FEDEX CORPORATION
+CONSOLIDATED BALANCE SHEETS
+(IN MILLIONS, EXCEPT SHARE DATA)
+May 31,
+2025 2024
+LIABILITIES AND COMMON STOCKHOLDERS' INVESTMENT
+CURRENT LIABILITIES
+Current portion of long-term debt $ 1,428 $ 68
+Accrued salaries and employee benefits 2,731 2,673
+Accounts payable 3,692 3,189
+Operating lease liabilities 2,565 2,463
+Accrued expenses 4,995 4,962
+Total current liabilities 15,411 13,355
+LONG-TERM DEBT, LESS CURRENT PORTION 19,151 20,135
+OTHER LONG-TERM LIABILITIES
+Deferred income taxes 4,205 4,482
+Pension, postretirement healthcare, and other benefit obligations 1,698 2,010
+Self-insurance accruals 4,033 3,701
+Operating lease liabilities 14,272 15,053
+Other liabilities 783 689
+Total other long-term liabilities 24,991 25,935
+COMMITMENTS AND CONTINGENCIES
+COMMON STOCKHOLDERS' INVESTMENT
+Common stock, $ 0.10 par value; 800 million shares authorized; 318 million shares issued as of May 31, 2025 and 2024
+32 32
+Additional paid-in capital 4,290 3,988
+Retained earnings 41,402 38,649
+Accumulated other comprehensive loss ( 1,362 ) ( 1,359 )
+Treasury stock, at cost; 80 million shares as of May 31, 2025 and 72 million shares as of May 31, 2024
+( 16,288 ) ( 13,728 )
+Total common stockholders' investment 28,074 27,582
+TOTAL LIABILITIES AND COMMON STOCKHOLDERS' INVESTMENT $ 87,627 $ 87,007
+The accompanying notes are an integral part of these consolidated financial statements.
+-74-
+FEDEX CORPORATION
+CONSOLIDATED STATEMENTS OF INCOME
+(IN MILLIONS, EXCEPT PER SHARE AMOUNTS)
+Years ended May 31,
+2025 2024 2023
+REVENUE $ 87,926 $ 87,693 $ 90,155
+OPERATING EXPENSES:
+Salaries and employee benefits 31,232 30,961 31,019
+Purchased transportation 21,768 20,921 21,790
+Rentals and landing fees 4,647 4,571 4,738
+Depreciation and amortization 4,264 4,287 4,176
+Fuel 3,775 4,710 5,909
+Maintenance and repairs 3,245 3,291 3,357
+Goodwill and other asset impairment charges 21 157 117
+Business optimization and realignment costs 756 582 309
+Other 13,001 12,654 13,828
+TOTAL OPERATING EXPENSES 82,709 82,134 85,243
+OPERATING INCOME 5,217 5,559 4,912
+OTHER INCOME (EXPENSE):
+Interest expense ( 789 ) ( 745 ) ( 694 )
+Interest income 363 370 198
+Other retirement plans income 713 722 1,054
+Other, net ( 63 ) ( 70 ) ( 107 )
+TOTAL OTHER INCOME (EXPENSE) 224 277 451
+INCOME BEFORE INCOME TAXES 5,441 5,836 5,363
+PROVISION FOR INCOME TAXES 1,349 1,505 1,391
+NET INCOME $ 4,092 $ 4,331 $ 3,972
+BASIC EARNINGS PER COMMON SHARE $ 16.96 $ 17.41 $ 15.60
+DILUTED EARNINGS PER COMMON SHARE $ 16.81 $ 17.21 $ 15.48
+The accompanying notes are an integral part of these consolidated financial statements.
+-75-
+FEDEX CORPORATION
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(IN MILLIONS)
+Years ended May 31,
+2025 2024 2023
+NET INCOME $ 4,092 $ 4,331 $ 3,972
+OTHER COMPREHENSIVE LOSS:
+Foreign currency translation adjustments, net of tax benefits of $ 13 in 2025, $ 5 in 2024, and $ 25 in 2023
+2 ( 60 ) ( 214 )
+Prior service credit arising during period, net of tax (expense) of $ 0 in 2025, ($ 11 ) in 2024, and $ 0 in 2023
+— 36 —
+Amortization of prior service credits and other, net of tax benefit of $ 6 in 2025, $ 2 in 2024, and $ 2 in 2023
+( 5 ) ( 8 ) ( 10 )
+TOTAL OTHER COMPREHENSIVE LOSS ( 3 ) ( 32 ) ( 224 )
+COMPREHENSIVE INCOME $ 4,089 $ 4,299 $ 3,748
+The accompanying notes are an integral part of these consolidated financial statements.
+-76-
+FEDEX CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(IN MILLIONS)
+Years ended May 31,
+2025 2024 2023
+OPERATING ACTIVITIES
+Net income $ 4,092 $ 4,331 $ 3,972
+Adjustments to reconcile net income to cash provided by operating activities:
+Depreciation and amortization 4,264 4,287 4,176
+Provision for uncollectible accounts 521 421 696
+Other noncash items including leases and deferred income taxes 3,156 2,919 3,472
+Stock-based compensation 154 163 182
+Retirement plans mark-to-market adjustments ( 515 ) ( 561 ) ( 650 )
+Goodwill and other asset impairment charges 21 157 117
+Business optimization and realignment costs, net of payments 43 26 23
+Changes in assets and liabilities:
+Receivables ( 1,780 ) ( 270 ) 782
+Other current assets 90 ( 43 ) 48
+Pension and postretirement healthcare assets and liabilities, net ( 553 ) ( 522 ) ( 623 )
+Accounts payable and other liabilities ( 2,445 ) ( 2,553 ) ( 3,331 )
+Other, net ( 12 ) ( 43 ) ( 16 )
+Cash provided by operating activities 7,036 8,312 8,848
+INVESTING ACTIVITIES
+Capital expenditures ( 4,055 ) ( 5,176 ) ( 6,174 )
+Purchase of investments ( 262 ) ( 176 ) ( 84 )
+Proceeds from sale of investments 110 38 —
+Proceeds from asset dispositions, and other investing activities, net 115 114 84
+Cash used in investing activities ( 4,092 ) ( 5,200 ) ( 6,174 )
+FINANCING ACTIVITIES
+Principal payments on debt ( 157 ) ( 147 ) ( 152 )
+Proceeds from stock issuances 524 491 231
+Dividends paid ( 1,339 ) ( 1,259 ) ( 1,177 )
+Purchase of common stock ( 3,017 ) ( 2,500 ) ( 1,500 )
+Other, net ( 30 ) ( 11 ) 1
+Cash used in financing activities ( 4,019 ) ( 3,426 ) ( 2,597 )
+Effect of exchange rate changes on cash 76 ( 41 ) ( 118 )
+Net decrease in cash and cash equivalents ( 999 ) ( 355 ) ( 41 )
+Cash and cash equivalents at beginning of period 6,501 6,856 6,897
+Cash and cash equivalents at end of period $ 5,502 $ 6,501 $ 6,856
+The accompanying notes are an integral part of these consolidated financial statements.
+-77-
+FEDEX CORPORATION
+CONSOLIDATED STATEMENTS OF CHANGES IN COMMON STOCKHOLDERS' INVESTMENT
+(IN MILLIONS, EXCEPT SHARE DATA)
+Common
+Stock Additional
+Paid-in
+Capital Retained
+Earnings Accumulated
+Other
+Comprehensive
+Loss Treasury
+Stock Total
+Balance at May 31, 2022 $ 32 $ 3,712 $ 32,782 $ ( 1,103 ) $ ( 10,484 ) $ 24,939
+Net income — — 3,972 — — 3,972
+Other comprehensive loss, net of tax of $ 27
+— — — ( 224 ) — ( 224 )
+Purchases of common stock ( 9.2 million shares)
+— ( 82 ) — — ( 1,418 ) ( 1,500 )
+Cash dividends declared ($ 5.86 per share)
+— — ( 1,495 ) — — ( 1,495 )
+Employee incentive plans and other ( 1.9 million shares issued)
+— 139 — — 257 396
+Balance at May 31, 2023 32 3,769 35,259 ( 1,327 ) ( 11,645 ) 26,088
+Net income — — 4,331 — — 4,331
+Other comprehensive loss, net of tax of $ 4
+— — — ( 32 ) — ( 32 )
+Purchases of common stock ( 9.8 million shares)
+— ( 22 ) — — ( 2,495 ) ( 2,517 )
+Cash dividends declared ($ 3.78 per share)
+— — ( 941 ) — — ( 941 )
+Employee incentive plans and other ( 3.1 million shares issued)
+— 241 — — 412 653
+Balance at May 31, 2024 32 3,988 38,649 ( 1,359 ) ( 13,728 ) 27,582
+Net income — — 4,092 — — 4,092
+Other comprehensive loss, net of tax of $ 19
+— — — ( 3 ) — ( 3 )
+Purchases of common stock ( 10.9 million shares)
+— ( 21 ) — — ( 2,999 ) ( 3,020 )
+Issuance of treasury stock for acquisition — 42 — — 48 90
+Cash dividends declared ($ 5.52 per share)
+— — ( 1,339 ) — — ( 1,339 )
+Employee incentive plans and other ( 2.9 million shares issued)
+— 281 — — 391 672
+Balance at May 31, 2025 $ 32 $ 4,290 $ 41,402 $ ( 1,362 ) $ ( 16,288 ) $ 28,074
+The accompanying notes are an integral part of these consolidated financial statements.
+-78-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1: DESCRIPTION OF BUSINESS SEGMENTS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+DESCRIPTION OF BUSINESS SEGMENTS. FedEx Corporation ("FedEx") provides a broad portfolio of transportation, e-commerce, and business services, offering integrated business solutions utilizing our flexible, efficient, and intelligent global network. During the fiscal years ended May 31, 2025 and 2024, our primary operating companies were Federal Express Corporation ("Federal Express"), the world's largest express transportation company and a leading North American provider of small-package ground delivery services, and FedEx Freight, Inc. ("FedEx Freight"), a leading North American provider of less-than-truckload ("LTL") freight transportation services.
+In connection with our one FedEx consolidation pl an, on June 1, 2024, FedEx Ground Package System, Inc. ("FedEx Ground") and FedEx Corporate Services, Inc. ("FedEx Services") were merged into Federal Express, becoming a single company operating a unified, fully integrated air-ground express network under the respected FedEx brand. FedEx Freight continues to provide LTL freight transportation services as a separate subsidiary. Beginning in the first quarter of 2025, Federal Express and FedEx Freight represent our major service lines and constitute our reportable segments. Additionally, the results of FedEx Custom Critical, Inc. ("FedEx Custom Critical") are included in the FedEx Freight segment instead of the Federal Express segment in 2025. Prior-year amounts were revised to reflect this presentation.
+We evaluated our reporting units with significant recorded goodwill during the fourth quarter of 2024, and the estimated fair value of each reporting unit exceeded its carrying value as of the end of 2024 immediately before our one FedEx consolidation. We reevaluated the conclusion of our 2024 goodwill impairment tests as of June 1, 2024 immediately after our one FedEx consolidation and concluded that the estimated fair values of our reporting units with significant goodwill continued to exceed their respective carrying values.
+In December 2024, we announced that FedEx's Board of Directors decided to pursue a full separation of FedEx Freight throu gh the capital markets, creating a new publicly traded company. The transaction, which would be implemented through the spin-off of shares of the new company to FedEx stockholders, is expected to be tax-free for U.S. federal income tax purposes for FedEx stockholders and be completed by June 2026.
+FISCAL YEARS . Except as otherwise specified, references to years indicate our fiscal year ended May 31, 2025 or ended May 31 of the year referenced, and comparisons are to the corresponding period of the prior year.
+In January 2025, the Board of Directors approved a change in FedEx's fiscal year end from May 31 to December 31. The fiscal year change will be effective for the period beginning June 1, 2026.
+PRINCIPLES OF CONSOLIDATION . The consolidated financial statements include the accounts of FedEx and its subsidiaries, substantially all of which are wholly owned. All significant intercompany accounts and transactions have been eliminated in consolidation.
+REVENUE RECOGNITION .
+Satisfaction of Performance Obligation
+A performance obligation is a promise in a contract to transfer a distinct good or service to the customer, and is the basis of revenue recognition in accordance with U.S. generally accepted accounting principles ("GAAP"). To determine the proper revenue recognition method for contracts, we evaluate whether two or more contracts should be combined and accounted for as one single contract and whether the combined or single contract should be accounted for as more than one performance obligation. For most of our contracts, the customer contracts with us to provide distinct services within a single contract, primarily transportation services. Substantially all of our contracts with customers for transportation services include only one performance obligation, the transportation services themselves. However, if a contract is separated into more than one performance obligation, we allocate the total transaction price to each performance obligation in an amount based on the estimated relative standalone selling prices of the promised goods or services underlying each performance obligation. We frequently sell standard transportation services with observable standalone sales prices. In these instances, the observable standalone sales are used to determine the standalone selling price.
+For transportation services, revenue is recognized over time as we perform the services in the contract because of the continuous transfer of control to the customer. Our customers receive the benefit of our services as the goods are transported from one location to another. If we were unable to complete delivery to the final location, another entity would not need to reperform the transportation service already performed. As control transfers over time, revenue is recognized based on the extent of progress towards completion of the performance obligation. The selection of the method to measure progress towards completion requires judgment and is based on the nature of the products or services to be provided. We use the cost-to-cost measure of progress for our package delivery contracts because it best depicts the transfer of control to the customer which occurs as we incur costs on our contracts. Under the cost-to-cost measure of progress, the extent of progress towards completion is measured based on the ratio of costs incurred to date to the total
+-79-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+estimated costs at completion of the performance obligation. Revenue, including ancillary or accessorial fees and reductions for estimated customer incentives, is recorded proportionally as costs are incurred. Costs to fulfill include labor and other direct costs and an allocation of indirect costs. For our FedEx Freight and freight forwarding contracts, an output method of progress based on time-in-transit is utilized as the timing of costs incurred does not best depict the transfer of control to the customer.
+We also provide customized customer-specific solutions, such as supply chain management solutions and inventory and service parts logistics, through which we provide the service of integrating a complex set of tasks and components into a single capability. For these arrangements, the majority of which are conducted by our FedEx Logistics, Inc. ("FedEx Logistics") operating segment, the entire contract is accounted for as one performance obligation. For these performance obligations, we typically have a right to consideration from customers in an amount that corresponds directly with the value to the customers of our performance completed to date, and as such we recognize revenue in the amount to which we have a right to invoice the customer.
+Contract Modification
+Contracts are often modified to account for changes in the rates we charge our customers or to add additional distinct services. We consider contract modifications to exist when the modification either creates new enforceable rights and obligations or alters the existing arrangement. Contract modifications that add distinct goods or services are treated as separate contracts. Contract modifications that do not add distinct goods or services typically change the price of existing services. These contract modifications are accounted for prospectively as the remaining performance obligations are distinct.
+Variable Consideration
+Certain contracts contain customer incentives, guaranteed service refunds, and other provisions that can either increase or decrease the transaction price. These incentives are generally awarded based upon achieving certain performance metrics. We estimate variable consideration as the most likely amount to which we expect to be entitled. We include estimated amounts of revenue, which may be reduced by incentives or other contract provisions, in the transaction price to the extent it is probable that a significant reversal of cumulative revenue recognized will not occur when the uncertainty associated with the variable consideration is resolved. Our estimates of variable consideration and determination of whether to include estimated amounts in the transaction price are based on an assessment of anticipated customer spending and all information (historical, current, and forecasted) that is reasonably available to us.
+Principal vs. Agent Considerations
+Transportation services are provided with the use of employees and independent businesses that contract with FedEx. GAAP requires us to evaluate whether our businesses themselves promise to transfer services to the customer (as the principal) or to arrange for services to be provided by another party (as the agent) using a control model. Based on our evaluation of the control model, we determined that FedEx is the principal to the transaction for most of these services and revenue is recognized on a gross basis based on the transfer of control to the customer. Costs associated with independent businesses providing transportation services are recognized as incurred and included within "Purchased transportation" in the accompanying consolidated statements of income.
+Our contract logistics, global trade services, and certain transportation businesses engage in certain transactions wherein they act as agents. Revenue from these transactions is recorded on a net basis. Net revenue includes billings to customers less third-party charges, including transportation or handling costs, fees, commissions, and taxes and duties.
+Contract Assets and Liabilities
+Contract assets include billed and unbilled amounts resulting from in-transit shipments, as we have an unconditional right to payment only once all performance obligations have been completed (e.g., packages have been delivered). Contract assets are generally classified as current, and the full balance is converted each quarter based on the short-term nature of the transactions. Our contract liabilities consist of advance payments and billings in excess of revenue. The full balance of deferred revenue is converted each quarter based on the short-term nature of the transactions.
+Gross contract assets related to in-transit shipments totaled $ 673 million and $ 672 million at May 31, 2025 and May 31, 2024, respectively. Contract assets net of deferred unearned revenue were $ 526 million and $ 463 million at May 31, 2025 and May 31, 2024, respectively. Contract assets are included within "Receivables" in the accompanying consolidated balance sheets. Contract liabilities related to advance payments from customers were $ 23 million and $ 23 million at May 31, 2025 and May 31, 2024, respectively. Contract liabilities are included within "Accrued expenses" in the accompanying consolidated balance sheets.
+Payment Terms
+Certain of our revenue-producing transactions are subject to taxes and duties, such as sales tax, assessed by governmental authorities. We present these revenues net of tax. Under the typical payment terms of our customer contracts, the customer pays at periodic
+-80-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+intervals (e.g., every 15 days, 30 days, 45 days, etc.) for shipments included on invoices received. It is not customary business practice to extend payment terms past 90 days, and as such, we do not have a practice of including a significant financing component within our revenue contracts with customers.
+Disaggregation of Revenue
+See Note 1 5 for disclosure of disaggregated revenue for the periods ended May 31. This presentation is consistent with how we organize our segments internally for making operating decisions and measuring performance.
+CREDIT RISK. We routinely grant credit to many of our customers for transportation and business services without collateral. The risk of credit loss in our trade receivables is substantially mitigated by our credit evaluation process, short collection terms, and sales to a large number of customers, as well as the low revenue per transaction for most of our services. Allowances for potential credit losses are determined based on historical experience and the impact of current economic conditions. Historically, credit losses have been within management's expectations.
+ADVERTISING. Advertising and promotion costs are expensed as incurred and are classified in other operating expenses. Advertising and promotion expenses were $ 425 million in 2025, $ 421 million in 2024, and $ 435 million in 2023.
+CASH EQUIVALENTS. Cash in excess of current operating requirements is invested in short-term, interest-bearing instruments with maturities of three months or less at the date of purchase and is stated at cost, which approximates market value.
+SPARE PARTS, SUPPLIES, AND FUEL. Spare parts (principally aircraft-related) are reported at weighted-average cost. Allowances for obsolescence are provided for spare parts currently identified as excess or obsolete as well as expected to be on hand at the date the aircraft are retired from service. These allowances are provided over the estimated useful life of the related aircraft and engines. The majority of our supplies and fuel are reported at weighted-average cost.
+PROPERTY AND EQUIPMENT . Expenditures for major additions, improvements, and flight equipment modifications are capitalized when such costs are determined to extend the useful life of the asset or are part of the cost of acquiring the asset. Expenditures for equipment overhaul costs of engines or airframes prior to their operational use are capitalized as part of the cost of such assets as they are costs required to ready the asset for its intended use. Maintenance and repairs costs are charged to expense as incurred, except for certain aircraft engine maintenance costs incurred under third-party service agreements. These agreements result in costs being expensed based on cycles or hours flown and are subject to annual escalation. These service contracts transfer risk to third-party service providers and generally fix the amount we pay for maintenance to the service provider as a rate per cycle or flight hour, in exchange for maintenance and repairs under a predefined maintenance program. We capitalize certain direct internal and external costs associated with the development of internal-use software, including implementation of cloud computing service arrangements. Gains and losses on sales of property used in operations are classified within operating expenses and historically have been nominal.
+For financial reporting purposes, we record depreciation and amortization of property and equipment on a straight-line basis over the asset's service life or related lease term, if shorter. For income tax purposes, depreciation is computed using accelerated methods when applicable.
+The depreciable lives and net book value of our property and equipment are as follows (dollars in millions):
+Net Book Value at May 31,
+Range 2025 2024
+Wide-body aircraft and related equipment 18 to 30 years
+$ 18,202 $ 17,936
+Narrow-body and feeder aircraft and related equipment 5 to 30 years
+1,750 1,849
+Package handling and ground support equipment 3 to 15 years
+7,573 7,607
+Information technology 3 to 7 years
+1,568 1,722
+Vehicles and trailers 3 to 15 years
+4,075 4,053
+Facilities and other 1 to 33 years
+8,474 8,324
+Substantially all property and equipment have no material residual values. The majority of aircraft costs are depreciated on a straight-line basis over 18 to 30 years . We periodically evaluate the estimated service lives and residual values used to depreciate our property and equipment.
+Depreciation and amortization expense, excluding gains and losses on sales of property and equipment used in operations, was $ 4.3 billion in 2025, $ 4.3 billion in 2024, and $ 4.2 billion in 2023. Depreciation and amortization expense includes amortization of assets under finance leases.
+-81-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+CAPITALIZED INTEREST . Interest on funds used to finance the acquisition and modification of aircraft, including purchase deposits, construction of certain facilities, and development of certain software up to the date the asset is ready for its intended use, is capitalized and included in the cost of the asset if the asset is actively under construction. Capitalized interest was $ 55 million in 2025, $ 81 million in 2024, and $ 77 million in 2023.
+IMPAIRMENT OF LONG-LIVED ASSETS. Long-lived assets are reviewed for impairment when circumstances indicate the carrying value of an asset may not be recoverable. For assets that are to be held and used, an impairment is recognized when the estimated undiscounted cash flows associated with the asset or group of assets is less than their carrying value. If impairment exists, an adjustment is made to write the asset down to its fair value, and a loss is recorded as the difference between the carrying value and fair value. Fair values are determined based on quoted market values, discounted cash flows, or internal and external appraisals, as applicable. Assets to be disposed of are carried at the lower of carrying value or estimated net realizable value.
+We operate integrated transportation networks so cash flows for most of our operating assets to be held and used are assessed at a network level, not at an individual asset level, for our analysis of impairment.
+In 2025 we made the decision to permanently retire from service 12 aircraft and eight related engines, resulting in a noncash impairment charge of $ 21 million ($ 16 million, net of tax, or $ 0.06 per diluted share). These retirements included two Boeing 757-200 aircraft, seven Airbus A300-600 aircraft, three Boeing MD-11 aircraft, and align with Federal Express's fleet reduction and modernization strategy as we continue to improve our global network efficiency and better align air network capacity with anticipated demand. All of these permanently retired aircraft were temporarily idled and not in revenue service.
+In 2024, we made the decision to permanently retire from service 22 Boeing 757-200 aircraft and seven related engines to align with Federal Express's fleet reduction and modernization strategy. As a consequence of this decision, a noncash impairment charge of $ 157 million ($ 120 million, net of tax, or $ 0.48 per diluted share) was recorded in 2024.
+In 2023, we made the decision to permanently retire from service 12 Boeing MD-11F aircraft and 25 related engines, four Boeing 757-200 aircraft and one related engine, and two Airbus A300-600 aircraft and eight related engines for the same reasons stated above. As a consequence of this decision, a noncash impairment charge of $ 70 million ($ 54 million, net of tax, or $ 0.21 per diluted share) was recorded in 2023.
+In 2023 we accelerated the retirement of the entire Boeing MD-11 fleet by the end of 2028. In 2025 we made the decision to extend the retirement plan to have the fleet retired by the end of 2032 to better align air network capacity of Federal Express to match current and anticipated shipment volumes. As a result of this decision, we had a net decrease in depreciation expense in 2025 of $ 19 million.
+In the normal management of our aircraft fleet, we routinely idle aircraft and engines temporarily due to maintenance cycles and adjustments of our network capacity to match seasonality and overall customer demand levels. Temporarily idled assets are classified as available-for-use, and we continue to record depreciation expense associated with these assets. These temporarily idled assets are assessed for impairment and remaining life on a quarterly basis. The criteria for determining whether an asset has been permanently removed from service (and, as a result, is potentially impaired) include, but are not limited to, our global economic outlook and the impact of our outlook on our current and projected volume levels, including capacity needs during our peak shipping seasons; the introduction of new fleet types or decisions to permanently retire an aircraft fleet from operations; and changes to planned service expansion activities. At May 31, 2025, we had 22 aircraft temporarily idled. These aircraft have been idled for an average of ten months and are expected to return to revenue service i n order to meet expected demand.
+GOODWILL. Goodwill is recognized for the excess of the purchase price over the fair value of tangible and identifiable intangible net assets of businesses acquired. Several factors give rise to goodwill in our acquisitions, such as the expected benefits from synergies of the combination and the existing workforce of the acquired business. Goodwill is reviewed at least annually for impairment. In our evaluation of goodwill impairment, we perform a qualitative assessment to determine if it is more likely than not that the fair value of a reporting unit is less than its carrying amount. If the qualitative assessment is not conclusive, we proceed to test goodwill for impairment, including comparing the fair value of the reporting unit to its carrying value (including attributable goodwill). Fair value for our reporting units is determined using an income or market approach incorporating market participant considerations and management's assumptions on revenue growth rates, operating margins, discount rates, and expected capital expenditures. Fair value determinations may include both internal and third-party valuations. Unless circumstances otherwise dictate, we perform our annual impairment testing in the fourth quarter. See Note 5 for additional information.
+INTANGIBLE ASSETS . Intangible assets primarily include customer relationships, technology assets, and trademarks acquired in business combinations. Intangible assets are amortized over periods ranging from 1 to 15 years , either on a straight-line basis or on a basis consistent with the pattern in which the economic benefits are realized. See Note 5 for additional information.
+PENSION AND POSTRETIREMENT HEALTHCARE PLANS. Our defined benefit pension and other postretirement benefit plans are measured using actuarial techniques that reflect management's assumptions for discount rate, investment returns on plan assets, salary
+-82-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+increases, expected retirement, mortality, and employee turnover. We determine the discount rate (which is required to be the rate at which the projected benefit obligation ("PBO") could be effectively settled as of the measurement date) with the assistance of actuaries, who calculate the yield on a theoretical portfolio of high-grade corporate bonds (rated Aa or better) with cash flows that are designed to match our expected benefit payments in future years. We use the fair value of plan assets to calculate the expected return on assets ("EROA") for interim and segment reporting purposes. Our EROA is a judgmental estimate which is reviewed on an annual basis and revised as appropriate.
+The accounting guidance related to employers' accounting for defined benefit pension and other postretirement plans requires recognition in the balance sheet of the funded status of these plans. We use "mark-to-market" (or "MTM") accounting and immediately recognize changes in the fair value of plan assets and actuarial gains or losses in our results annually in the fourth quarter each year. The annual MTM adjustment is recognized at the corporate level and does not impact segment results. The remaining components of pension and postretirement healthcare expense, primarily service and interest costs and the EROA, are recorded on a quarterly basis. Only service cost is recognized in segment level operating results.
+INCOME TAXES. Deferred income taxes are provided for the tax effect of temporary differences between the tax basis of assets and liabilities and their reported amounts in the financial statements. The liability method is used to account for income taxes, which requires deferred taxes to be recorded at the statutory rate expected to be in effect when the taxes are paid.
+Deferred income tax assets represent amounts available to reduce income taxes payable on taxable income in future years. Such assets arise because of temporary differences between the financial reporting and tax bases of assets and liabilities, as well as from net operating loss, capital loss, and tax credit carryforwards. We evaluate the recoverability of these future tax deductions and credits by assessing the adequacy of future expected taxable income from all sources, including reversal of taxable temporary differences, forecasted operating earnings, and available tax planning strategies. These sources of income rely heavily on estimates to make this determination and, as a result, there is a risk that these estimates will have to be revised as new information is received. To the extent we do not consider it more likely than not that a deferred tax asset will be recovered, a valuation allowance is established. We believe we will generate sufficient future taxable income to realize the tax benefits related to the remaining net deferred tax assets in the consolidated balance sheets that are not subject to valuation allowances. We record the taxes for global intangible low-taxed income as a period cost.
+We recognize liabilities for uncertain income tax positions based on a two-step process. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position will be sustained on audit, including resolution of related appeals or litigation processes, if any. The second step requires us to estimate and measure the tax benefit as the largest amount that is more than 50% likely to be realized upon ultimate settlement. It is inherently difficult and subjective to estimate such amounts, as we must determine the probability of various possible outcomes. We reevaluate these uncertain tax positions on a quarterly basis or when new information becomes available to management. These reevaluations are based on factors including, but not limited to, changes in facts or circumstances, changes in tax law, successfully settled issues under audit, and new audit activity. Such a change in recognition or measurement could result in the recognition of a tax benefit or an increase to the related provision.
+We classify interest related to income tax liabilities as interest expense, and if applicable, penalties are recognized as a component of income tax expense. The income tax liabilities and accrued interest and penalties that are due within one year of the balance sheet date are presented as current liabilities. The noncurrent portion of our income tax liabilities and accrued interest and penalties are included within "Other liabilities" in the accompanying consolidated balance sheets.
+SELF-INSURANCE ACCRUALS. We are self-insured for costs associated with workers' compensation claims, vehicle accidents, property and cargo loss, general business liabilities, and benefits paid under employee disability programs. Accruals are primarily based on the actuarially estimated cost of claims, which includes incurred-but-not-reported claims. Current workers' compensation claims, vehicle and general liability, and long-term disability are included within "Accrued expenses" in the accompanying consolidated balance sheets. We self-insure up to certain limits that vary by operating company and type of risk. Claims costs are recognized on a gross basis and a receivable is recorded for amounts covered by third-party insurance. Periodically, we evaluate the level of insurance coverage and adjust insurance levels based on risk tolerance and premium expense.
+We are also self-insured for certain short-term employee healthcare claims, which are included within "Accrued expenses" in the accompanying consolidated balance sheets.
+LEASES. We lease certain facilities, aircraft, equipment, and vehicles under operating and finance leases. A determination of whether a contract contains a lease is made at the inception of the arrangement. Our leased facilities include national, regional, and metropolitan sorting facilities; retail facilities; and administrative buildings.
+-83-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Our leases generally contain options to extend or terminate the lease. We reevaluate our leases on a regular basis to consider the economic and strategic incentives of exercising the renewal options, and how they align with our operating strategy. Therefore, substantially all the renewal option periods are not included within the lease term and the associated payments are not included in the measurement of the right-of-use asset and lease liability as the options to extend are not reasonably certain at lease commencement. Short-term leases with an initial term of 12 months or less are not recognized in the right-of-use asset and lease liability within the consolidated balance sheets.
+The lease liabilities are measured at the lease commencement date and determined using the present value of the minimum lease payments not yet paid and our incremental borrowing rate, which approximates the rate at which we would borrow, on a collateralized basis, over the term of a lease in the applicable currency environment. The interest rate implicit in the lease is generally not determinable in transactions where we are the lessee.
+For real estate leases, we account for lease components and non-lease components (such as common area maintenance) as a single lease component. Certain real estate leases require additional payments based on sales volume and index-based rate increases, as well as reimbursement for real estate taxes, common area maintenance, and insurance, which are expensed as incurred as variable lease costs. Certain leases contain fixed lease payments for items such as real estate taxes, common area maintenance, and insurance. These fixed payments are considered part of the lease payment and included in the right-of-use asset and lease liability. See Note 8 for additional information.
+DERIVATIVE FINANCIAL INSTRUMENTS. We record all derivatives on the balance sheet at fair value. The accounting for changes in the fair value of derivatives depends on the intended use of the derivative, whether we have elected to designate a derivative in a hedging relationship and apply hedge accounting, and whether the hedging relationship has satisfied the criteria necessary to apply hedge accounting. Derivatives designated and qualifying as a hedge of the exposure to changes in the fair value of an asset, liability, or firm commitment attributable to a particular risk, such as interest rate risk, are considered fair value hedges. Derivatives designated and qualifying as a hedge of the exposure to variability in expected future cash flows, or other types of forecasted transactions, are considered cash flow hedges. Derivatives may also be designated as hedges of the foreign currency exposure of a net investment in a foreign operation. Hedge accounting generally provides for the matching of the timing of gain or loss recognition on the hedging instrument with the recognition of the changes in the fair value of the hedged asset or liability that are attributable to the hedged risk in a fair value hedge or the earnings effect of the hedged forecasted transactions in a cash flow hedge. We may enter into derivative contracts that are intended to economically hedge certain of our risk, even though hedge accounting does not apply or we elect not to apply hedge accounting. We are not subject to any master netting agreements.
+SUPPLIER FINANCE PROGRAM. We offer voluntary Supply Chain Finance ("SCF") programs through financial institutions to certain of our suppliers. We agree to commercial terms with our suppliers, including prices, quantities, and payment terms, and they issue invoices to us based on the agreed-upon contractual terms. If our suppliers choose to participate in the SCF programs, they determine which invoices, if any, to sell to the financial institutions to receive an early discounted payment, while we settle the invoice amount with the financial institutions on the payment due dates. We guarantee these payments with the financial institutions.
+Amounts due to our suppliers that participate in the SCF programs are included within "Accounts payable" in the accompanying consolidated balance sheets. We have been informed by the participating financial institutions that as of May 31, 2025 and May 31, 2024, suppliers have been approved to sell to them $ 71 million and $ 94 million, respectively, of our outstanding payment obligations. A rollforward of obligations confirmed and paid during the years ended May 31 is presented below (in millions):
+2025 2024
+Confirmed obligations outstanding at the beginning of the year $ 94 $ 83
+Invoices confirmed during the year 625 686
+Confirmed invoices paid during the year ( 651 ) ( 678 )
+Currency translation adjustments 3 3
+Confirmed obligations outstanding at the end of the year $ 71 $ 94
+FOREIGN CURRENCY TRANSLATION. Translation gains and losses of foreign operations that use local currencies as the functional currency are accumulated and reported, net of applicable deferred income taxes, as a component of accumulated other comprehensive loss ("AOCL") within "Common stockholders' investment" in the accompanying consolidated balance sheets. Transaction gains and losses that arise from exchange rate fluctuations on transactions denominated in a currency other than the local currency are included within "Other, net" in the accompanying consolidated statements of income and were immaterial for each period presented.
+EMPLOYEES UNDER COLLECTIVE BARGAINING ARRANGEMENTS. Our pilots, who are a small number of our total employees, are represented by the Air Line Pilots Association, International ("ALPA") and are employed under a collective bargaining agreement that took effect on November 2, 2015. The agreement became amendable in November 2021. Bargaining for a successor agreement
+-84-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+began in May 2021, and in November 2022 the National Mediation Board ("NMB") began actively mediating the negotiations. In July 2023, the pilots failed to ratify the tentative successor agreement that was approved by ALPA's FedEx Master Executive Council the prior month. Bargaining for a successor agreement continues. In April 2024, the NMB rejected ALPA's request for a proffer of arbitration. The conduct of mediated negotiations has no effect on our operations. Once a new agreement is ratified, we may amend our pension plan offered to the pilots, which would result in a remeasurement of our pension benefit obligation.
+INVESTMENTS IN EQUITY AND DEBT SECURITIES. Investments in equity securities with a readily determinable fair value are carried at fair value. For equity securities without readily determinable fair values that qualify for the net asset value ("NAV") practical expedient, we have elected to apply the NAV practical expedient to estimate fair value. Changes in fair value are included in "Other income (expense)" in the accompanying consolidated statements of income.
+We apply the measurement alternative to all other investments in equity securities without a readily determinable fair value. Under the measurement alternative these equity securities are accounted for at cost, with adjustments for observable changes in prices and impairments included within "Other income (expense)" in the accompanying consolidated statements of income. We perform a qualitative assessment each reporting period to evaluate whether these equity securities are impaired. Our assessment includes a review of recent operating results and trends and other publicly available data. If an investment is impaired, we write it down to its estimated fair value.
+Investments in debt securities, which are considered short-term investments, are classified as "available-for-sale" and are carried at fair value. Realized gains and losses on available-for-sale debt securities are included within "Other income (expense)" in the accompanying consolidated statements of income while unrealized gains and losses, net of tax, are included within AOCL in the accompanying consolidated balance sheet.
+Investments in equity securities and debt securities are included within "Other assets" and "Prepaid expenses and other," respectively, in the accompanying consolidated balance sheets.
+STOCK-BASED COMPENSATION. The accounting guidance related to share-based payments requires recognition of compensation expense for stock-based awards using a fair value method. We use the Black-Scholes option pricing model to calculate the fair value of stock options. The value of restricted stock awards and restricted stock units ("RSUs") are based on the stock price of the award on the grant date. We record stock-based compensation expense within "Salaries and employee benefits" in the accompanying consolidated statements of income. We issue new shares or treasury shares from stock repurchases to cover employee stock option exercises and restricted stock grants. Shares not issued for restricted stock grants are available to be issued for stock option grants.
+TREASURY SHARES. In December 2021 , our Board of Directors authorized a stock repurchase program of up to $ 5.0 billion of FedEx common stock. In March 2024 , our Board of Directors authorized a new stock repurchase program for additional repurchases of up to $ 5.0 billion of FedEx common stock. As of June 1, 2024, $ 5.1 billion remained available to be used for repurchases under the 2021 and 2024 programs.
+During 2025, we repurchased 10.9 million shares of FedEx common stock under accelerated share repurchase ("ASR") transactions with two banks and open market transactions at an average price of $ 274.34 per share for a total of $ 3.0 billion. Share repurchases had a benefit of $ 0.44 per diluted share in 2025. In fiscal 2026 we have completed $ 500 million of share repurchases through open market transactions and as of July 21, 2025, $ 1.6 billion remained available to be used for repurchases under the 2024 program, which is the only program that currently exists. During 2024, we repurchased 9.8 million shares of FedEx common stock at an average price of $ 255.34 per share for a total of $ 2.5 billion. During 2023, we repurchased 9.2 million shares of FedEx common stock at an average price of $ 163.39 per share for a total of $ 1.5 billion.
+The final number of shares delivered upon settlement of the ASR agreements was determined based on a discount to the volume-weighted average price of our stock during the term of the transaction. The repurchased shares were accounted for as a reduction within "Common stockholders' investment" in the accompanying consolidated balance sheets and resulted in a reduction of the outstanding shares used to calculate the weighted-average common shares outstanding for basic and diluted earnings per share.
+Shares under the 2024 repurchase program may be repurchased from time to time in the open market or in privately negotiated transactions. The timing and volume of repurchases are at the discretion of management, based on the capital needs of the business, the market price of FedEx common stock, and general market conditions. No time limits were set for the completion of the programs, however the programs may be suspended or discontinued at any time.
+DIVIDENDS DECLARED PER COMMON SHARE. On June 9, 2025, our Board of Directors declared a quarterly cash dividend of $ 1.45 per share of common stock. The dividend was paid on July 8, 2025 to stockholders of record as of the close of business on June 23, 2025. Each quarterly dividend payment is subject to review and approval by our Board of Directors, and we evaluate our dividend payment amount on an annual basis. There are no material restrictions on our ability to declare dividends, nor are there any material restrictions on the ability of our subsidiaries to transfer funds to us in the form of cash dividends, loans, or advances.
+-85-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+B USINESS OPTIMIZATION AND REALIGNMENT COSTS . In the second quarter of 2023, we announced DRIVE, a comprehensive program to improve long-term profitability. This program includes a business optimization plan to drive efficiency within and among our transportation segments, lower our overhead and support costs, and transform our digital capabilities. We have commenced our plan to consolidate our sortation facilities and equipment, reduce pickup-and-delivery routes, and optimize our enterprise linehaul network by moving beyond discrete collaboration to an end-to-end optimized network through Network 2.0, the multi-year effort to improve the efficiency with which FedEx picks up, transports, and delivers packages in the U.S. and Canada.
+We have implemented Network 2.0 optimization in approximately 290 locations in the U.S and Canada as of May 31, 2025. Service providers will handle the pickup and delivery of Federal Express packages in some locations while employee couriers will handle others. We completed Canada's implementation of Network 2.0 in the fourth quarter of 2025.
+In June 2024, Federal Express announced a workforce reduction plan in Europe as part of its ongoing measures to reduce structural costs. The plan will impact approximately 1,400 employees in Europe across back-office and commercial functions. The execution of the plan is subject to a consultation process that is expected to occur over an 18-month period in accordance with local country processes and regulations. We expect savings from the plan to be approximately $ 150 million on an annualized basis beginning in calendar 2026.
+We expect the pre-tax cost of the severance benefits and legal and professional fees to be provided under and related to our workforce reduction plan in Europe to range from $ 250 million to $ 275 million in cash expenditures through fiscal 2026. The timing and amount of our business optimization expenses and the related cost savings from the workforce reduction plan may change as we revise and implement our plans. The identification of costs as business optimization-related expenditures is subject to our disclosure controls and procedures.
+We incurred business optimization costs of $ 756 million ($ 577 million, net of tax, or $ 2.37 per diluted share) in 2025, including $ 235 million of costs related to the workforce reduction plan in Europe. These costs were primarily related to professional services and severance, and are included in Federal Express and Corporate, other, and eliminations. We incurred costs associated with our business optimization activities of $ 582 million ($ 444 million, net of tax, or $ 1.77 per diluted share) in 2024. These costs were primarily related to professional services and severance and are included in Corporate, other, and eliminations and Federal Express. We incurred costs associated with our business optimization activities of $ 273 million ($ 209 million, net of tax, or $ 0.81 per diluted share) in 2023. These costs were primarily related to consulting services, severance, professional fees, and idling our operations in Russia. These business optimization costs are included in Corporate, other, and eliminations and Federal Express. The aggregate pre-tax cost of our business optimization activities was $ 1.6 billion through 2025.
+In 2021, Federal Express announced a workforce reduction plan in Europe related to the network integration of TNT Express. The plan affected approximately 5,000 employees in Europe across operational teams and back-office functions and was completed during 2023. We incurred costs of $ 36 million ($ 27 million, net of tax, or $ 0.11 per diluted share) in 2023 associated with our business realignment activities. These costs were related to certain employee severance arrangements. Payments under this program totaled approximately $ 118 million in 2023. The cumulative pre-tax cost of our business realignment activities was approximately $ 430 million. We did no t incur any costs related to business realignment activities in 2024 or 2025.
+FEDEX FREIGHT SPIN-OFF COSTS. We incurred costs related to the planned spin-off of FedEx Freight of $ 56 million ($ 44 million, net of tax, or $ 0.18 per diluted share) in 2025. These costs are included in Corporate, other, and eliminations and consist of $ 38 million of professional and legal fees included within "Other" operating expenses and $ 18 million related to the debt exchange offer and consent solicitation transactions discussed in Note 7 included within "Other, net" in the accompanying consolidated statements of income. We did not incur any FedEx Freight spin-off costs in 2024.
+USE OF ESTIMATES . The preparation of our consolidated financial statements requires the use of estimates and assumptions that affect the reported amounts of assets and liabilities, the reported amounts of revenue and expenses, and the disclosure of contingent liabilities. Management makes its best estimate of the ultimate outcome for these items based on historical trends and other information available when the financial statements are prepared. Changes in estimates are recognized in accordance with the accounting rules for the estimate, which is typically in the period when new information becomes available to management. Areas where the nature of the estimate makes it reasonably possible that actual results could materially differ from amounts estimated include self-insurance accruals, retirement plan obligations, long-term incentive accruals, tax liabilities, loss contingencies, litigation claims, impairment assessments on long-lived assets (including goodwill) that rely on projections of future cash flows, and purchase price allocations.
+NOTE 2: RECENT ACCOUNTING GUIDANCE
+New accounting rules and disclosure requirements can significantly affect our reported results and the comparability of our financial statements. We believe the following new accounting guidance is relevant to the readers of our financial statements.
+-86-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Recently Adopted Accounting Standards
+In November 2023, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures, which expands disclosures about a public entity's reportable segments and requires more enhanced information about a reportable segment's expenses, interim segment profit or loss, and how a public entity's chief operating decision maker uses reported segment profit or loss information in assessing segment performance and allocating resources. We adopted this standard effective June 1, 2024 (fiscal 2025). The adoption of this standard did not have a material effect on our consolidated financial statements or internal controls. See Note 15 for further discussion about segment reporting.
+New Accounting Standards and Accounting Standards Not Yet Adopted
+In December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures, which expands disclosures in an entity's income tax rate reconciliation table and regarding cash taxes paid both in the U.S. and foreign jurisdictions. The update will be effective for annual periods beginning after December 15, 2024 (fiscal 2026). We are assessing the effect of this update on our consolidated financial statements and related disclosures.
+In March 2024, the Securities and Exchange Commission ("SEC") adopted final rules requiring public entities to provide certain climate-related information in their registration statements and annual reports. As part of the disclosures, entities would have been required to quantify certain effects of severe weather events and other natural conditions in a note to their audited financial statements. The rules were originally scheduled to be effective for annual periods beginning in calendar 2025. In April 2024, the SEC voluntarily stayed implementation of the final rules pending certain legal challenges and in February 2025 requested that the court not schedule the matter for argument in order to allow time for the SEC to determine appropriate next steps. In March 2025, the SEC withdrew its defense of the rules. We are currently evaluating the status of these rules and the related litigation.
+In November 2024, the FASB issued ASU 2024-03, Income Statement Reporting Comprehensive Income Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses, which expands disclosures about specific expense categories at interim and annual reporting periods. The update will be effective for annual periods beginning after December 15, 2026 and interim periods beginning after December 15, 2027. We are assessing the effect of this update on our consolidated financial statements and related disclosures.
+Other accounting pronouncements issued, but not effective until after May 31, 2025, are not expected to have a material impact on our consolidated financial statements, related disclosures, or internal controls.
+NOTE 3: CREDIT LOSSES
+We are exposed to credit losses primarily through our trade receivables. We assess ability to pay for certain customers by conducting a credit review, which considers the customer's established credit rating and our assessment of creditworthiness. We determine the allowance for credit losses on accounts receivable using a combination of specific reserves for accounts that are deemed to exhibit credit loss indicators and general reserves that are determined using loss rates based on historical write-offs by geography and recent forecast information, including underlying economic expectations. We update our estimate of credit loss reserves quarterly.
+Credit losses were $ 521 million in 2025, $ 421 million in 2024, and $ 696 million in 2023. Our allowance for credit losses was $ 438 million at May 31, 2025 and $ 436 million at May 31, 2024.
+NOTE 4: BUSINESS COMBINATIONS
+On February 4, 2025, we acquired RouteSmart Technologies, Inc. ("RouteSmart"), a global leader in route planning and optimization solutions, for $ 113 million in FedEx common shares from treasury stock and cash from operations. The majority of the purchase price was allocated to intangible assets and goodwill. The financial results of RouteSmart are included in the FedEx Dataworks, Inc. ("FedEx Dataworks") operating segment under "Corporate, other and eliminations" from the date of acquisition and were not material to our results of operations or financial condition; therefore, pro forma financial information has not been provided.
+-87-
+FEDEX CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 5: GOODWILL AND OTHER INTANGIBLE ASSETS
+GOODWILL. The carrying amount of goodwill attributable to each reportable operating segment and changes therein are as follows (in millions):
+Federal Express

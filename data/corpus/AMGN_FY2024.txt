@@ -1,0 +1,439 @@
+ntract terms.
+F-2
+Unrecognized tax benefits
+Description of the Matter As discussed in Notes 1 and 7 to the consolidated financial statements, the Company operates in various jurisdictions in which differing interpretations of complex tax laws and regulations create uncertainty and necessitate the use of significant judgment in the determination of the Company's unrecognized tax benefits, particularly in the U.S. federal tax jurisdiction where the Company has significant assets and operations. In this regard, the Company uses significant judgment in (1) determining whether a tax position's technical merits are more-likely-than-not to be sustained and (2) measuring the amount of tax benefit that qualifies for recognition. As of December 31, 2024, the Company accrued $4.2 billion of gross unrecognized tax benefits. Auditing the assessment of the technical merits and measurement of the Company's unrecognized tax benefits is challenging due to the high degree of estimation and management judgement, given the ultimate resolution is dependent on uncontrollable factors such as the resolution of audit disputes with the IRS and results of the U.S. Tax Court case.
+How We Addressed the Matter in Our Audit We obtained an understanding, evaluated the design and tested the operating effectiveness of internal controls over the Company's process to assess the technical merits of its tax positions, as well as management's process to measure the unrecognized tax benefits of those tax positions, particularly in regard to matters in dispute with the IRS. This included testing controls over management's review of the inputs, calculations, assumptions and methods selected to measure the amount of tax benefits that qualify for recognition.
+We involved tax controversy and transfer pricing specialists to assist in assessing the technical merits and measurement of certain of the Company's unrecognized tax benefits. Depending on the nature of the specific tax position and, as applicable, developments with the relevant tax authorities, our procedures included obtaining and reviewing the Company's correspondence with such tax authorities and evaluating certain third-party advice to support the Company's evaluations and recorded positions. We evaluated the status of the ongoing U.S. Tax Court case and developments in the applicable regulatory environments to assess potential effects on the Company's recorded positions. We assessed management's consideration of current tax controversy, litigation and tax litigation trends. We analyzed the assumptions and data used by the Company when it determined the amount of tax benefits to recognize, including applicable interest and penalties, and we tested the accuracy of those underlying calculations. We have also evaluated the Company's income tax disclosures included in Note 7 in relation to these matters.
+/s/ Ernst & Young LLP
+We have served as the Company's auditor since 1980.
+Los Angeles, California
+February 14, 2025
+F-3
+AMGEN INC.
+CONSOLIDATED STATEMENTS OF INCOME
+Years ended December 31, 2024, 2023 and 2022
+(In millions, except per-share data)
+2024 2023 2022
+Revenues:
+Product sales $ 32,026 $ 26,910 $ 24,801
+Other revenues 1,398 1,280 1,522
+Total revenues 33,424 28,190 26,323
+Operating expenses:
+Cost of sales 12,858 8,451 6,406
+Research and development 5,964 4,784 4,434
+Selling, general and administrative 7,096 6,179 5,414
+Other 248 879 503
+Total operating expenses 26,166 20,293 16,757
+Operating income 7,258 7,897 9,566
+Other income (expense):
+Interest expense, net ( 3,155 ) ( 2,875 ) ( 1,406 )
+Other income (expense), net 506 2,833 ( 814 )
+Income before income taxes 4,609 7,855 7,346
+Provision for income taxes 519 1,138 794
+Net income $ 4,090 $ 6,717 $ 6,552
+Earnings per share:
+Basic $ 7.62 $ 12.56 $ 12.18
+Diluted $ 7.56 $ 12.49 $ 12.11
+Weighted-average shares used in the calculation of earnings per share:
+Basic 537 535 538
+Diluted 541 538 541
+See accompanying notes.
+F-4
+AMGEN INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+Years ended December 31, 2024, 2023 and 2022
+(In millions)
+2024 2023 2022
+Net income $ 4,090 $ 6,717 $ 6,552
+Other comprehensive income (loss), net of reclassification adjustments and taxes:
+(Losses) gains on foreign currency translation adjustments ( 76 ) 50 496
+Gains (losses) on cash flow hedges 309 ( 150 ) 67
+Other ( 10 ) 42 2
+Other comprehensive income (loss), net of reclassification adjustments and taxes 223 ( 58 ) 565
+Comprehensive income $ 4,313 $ 6,659 $ 7,117
+See accompanying notes.
+F-5
+AMGEN INC.
+CONSOLIDATED BALANCE SHEETS
+December 31, 2024 and 2023
+(In millions, except per-share data)
+2024 2023
+ASSETS
+Current assets:
+Cash and cash equivalents $ 11,973 $ 10,944
+Trade receivables, net 6,782 7,268
+Inventories 6,998 9,518
+Other current assets 3,277 2,602
+Total current assets 29,030 30,332
+Property, plant and equipment, net 6,543 5,941
+Intangible assets, net 27,699 32,641
+Goodwill 18,637 18,629
+Other noncurrent assets 9,930 9,611
+Total assets $ 91,839 $ 97,154
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable $ 1,908 $ 1,590
+Accrued liabilities 17,641 15,359
+Current portion of long-term debt 3,550 1,443
+Total current liabilities 23,099 18,392
+Long-term debt 56,549 63,170
+Long-term deferred tax liabilities 1,616 2,354
+Long-term tax liabilities 2,349 4,680
+Other noncurrent liabilities 2,349 2,326
+Contingencies and commitments (see Note 20)
+Stockholders' equity:
+Common stock and additional paid-in capital; $ 0.0001 par value per share; 2,750.0 shares authorized; outstanding— 536.9 shares in 2024 and 535.4 shares in 2023
+33,533 33,070
+Accumulated deficit ( 27,590 ) ( 26,549 )
+Accumulated other comprehensive loss ( 66 ) ( 289 )
+Total stockholders' equity 5,877 6,232
+Total liabilities and stockholders' equity $ 91,839 $ 97,154
+See accompanying notes.
+F-6
+AMGEN INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+Years ended December 31, 2024, 2023 and 2022
+(In millions, except per-share data)
+Number
+of shares
+of common
+stock Common
+stock and
+additional
+paid-in capital Accumulated
+deficit Accumulated
+other
+comprehensive
+loss
+Total
+Balance as of December 31, 2021 558.3 $ 32,096 $ ( 24,600 ) $ ( 796 ) $ 6,700
+Net income — — 6,552 — 6,552
+Other comprehensive income, net of taxes — — — 565 565
+Dividends declared on common stock ($ 7.95 per share)
+— — ( 4,264 ) — ( 4,264 )
+Issuance of common stock in connection with equity award programs
+1.8 138 — — 138
+Stock-based compensation expense — 419 — — 419
+Tax impact related to employee stock-based compensation expense
+— ( 139 ) — — ( 139 )
+Repurchases of common stock ( 26.1 ) — ( 6,310 ) — ( 6,310 )
+Balance as of December 31, 2022 534.0 32,514 ( 28,622 ) ( 231 ) 3,661
+Net income — — 6,717 — 6,717
+Other comprehensive loss, net of taxes — — — ( 58 ) ( 58 )
+Dividends declared on common stock ($ 8.64 per share)
+— — ( 4,644 ) — ( 4,644 )
+Issuance of common stock in connection with equity award programs
+1.4 95 — — 95
+Stock-based compensation expense — 454 — — 454
+Equity awards issued for Horizon acquisition, net — 141 — — 141
+Tax impact related to employee stock-based compensation expense
+— ( 134 ) — — ( 134 )
+Balance as of December 31, 2023 535.4 33,070 ( 26,549 ) ( 289 ) 6,232
+Net income — — 4,090 — 4,090
+Other comprehensive income, net of taxes — — — 223 223
+Dividends declared on common stock ($ 9.13 per share)
+— — ( 4,931 ) — ( 4,931 )
+Issuance of common stock in connection with equity award programs
+2.2 189 — — 189
+Stock-based compensation expense — 530 — — 530
+Tax impact related to employee stock-based compensation expense
+— ( 256 ) — — ( 256 )
+Repurchases of common stock ( 0.7 ) — ( 200 ) — ( 200 )
+Balance as of December 31, 2024 536.9 $ 33,533 $ ( 27,590 ) $ ( 66 ) $ 5,877
+See accompanying notes.
+F-7
+AMGEN INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Years ended December 31, 2024, 2023 and 2022
+(In millions)
+2024 2023 2022
+Cash flows from operating activities:
+Net income $ 4,090 $ 6,717 $ 6,552
+Noncash adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation, amortization and other 5,592 4,071 3,417
+Stock-based compensation expense 530 431 401
+Deferred income taxes ( 1,228 ) ( 1,273 ) ( 1,198 )
+Adjustments for equity method investments ( 10 ) 11 891
+Loss on divestiture — — 567
+Losses (gains) on equity securities
+159 ( 1,565 ) 127
+Other items, net ( 8 ) 563 ( 303 )
+Changes in operating assets and liabilities, net of acquisitions:
+Trade receivables, net 441 ( 1,015 ) ( 746 )
+Inventories 2,532 491 ( 742 )
+Other assets ( 652 ) ( 564 ) 258
+Accounts payable 312 ( 402 ) 154
+Accrued income taxes, net ( 1,011 ) ( 1,031 ) ( 647 )
+Long-term tax liabilities ( 492 ) 371 229
+Accrued liabilities
+92 953 97
+Accrued sales incentives and allowance 1,194 935 846
+Other liabilities ( 51 ) ( 222 ) ( 182 )
+Net cash provided by operating activities 11,490 8,471 9,721
+Cash flows from investing activities:
+Cash paid for acquisitions, net of cash acquired — ( 26,989 ) ( 3,839 )
+Purchases of marketable securities — ( 1 ) ( 2,587 )
+Proceeds from sales of marketable securities — 1,123 98
+Proceeds from maturities of marketable securities — 550 1,120
+Purchases of property, plant and equipment ( 1,096 ) ( 1,112 ) ( 936 )
+Other 50 225 100
+Net cash used in investing activities ( 1,046 ) ( 26,204 ) ( 6,044 )
+Cash flows from financing activities:
+Net proceeds from issuance of debt — 27,777 6,919
+Extinguishment of debt ( 659 ) ( 647 ) ( 297 )
+Repayment of debt ( 3,600 ) ( 1,454 ) —
+Repurchases of common stock ( 200 ) — ( 6,360 )
+Dividends paid ( 4,832 ) ( 4,556 ) ( 4,196 )
+Other ( 124 ) ( 72 ) ( 103 )
+Net cash (used in) provided by financing activities ( 9,415 ) 21,048 ( 4,037 )
+Increase (decrease) in cash and cash equivalents 1,029 3,315 ( 360 )
+Cash and cash equivalents at beginning of year 10,944 7,629 7,989
+Cash and cash equivalents at end of year $ 11,973 $ 10,944 $ 7,629
+See accompanying notes.
+F-8
+AMGEN INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024
+1. Summary of significant accounting policies
+Business
+Amgen Inc. (including its consolidated subsidiaries, referred to as "Amgen," "the Company," "we," "our" or "us") is a global biotechnology pioneer that discovers, develops, manufactures and delivers innovative human therapeutics. We operate our business in one operating segment: human therapeutics. See Note 2, Segment and other information.
+Principles of consolidation
+The consolidated financial statements include the accounts of Amgen as well as its majority-owned subsidiaries. In determining whether we are the primary beneficiary of a variable interest entity, we consider whether we have both the power to direct activities of the entity that most significantly impact the entity's economic performance and the obligation to absorb losses of, or the right to receive benefits from, the entity that could potentially be significant to that entity. We do not have any significant interests in any variable interest entities of which we are the primary beneficiary. All material intercompany transactions and balances have been eliminated in consolidation. Certain reclassifications have been made to prior periods in the consolidated financial statements and accompanying notes to conform with the current presentation.
+Use of estimates
+The preparation of consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the amounts reported in the consolidated financial statements and accompanying notes. Actual results may differ from those estimates.
+Revenues
+Product sales and sales deductions
+Revenue from product sales is recognized upon transfer of control of a product to a customer, generally upon delivery, based on an amount that reflects the consideration to which we expect to be entitled, net of accruals for estimated rebates, wholesaler chargebacks, discounts and other deductions (collectively, sales deductions) and returns established at the time of sale.
+We analyze the adequacy of our accruals for sales deductions quarterly. Amounts accrued for sales deductions are adjusted when trends or significant events indicate that an adjustment is appropriate. Accruals are also adjusted to reflect actual results. Accruals for sales deductions are based primarily on estimates of the amounts earned or to be claimed on the related sales. These estimates take into consideration current contractual and statutory requirements, specific known market events and trends, internal and external historical data and forecasted customer buying patterns. Sales deductions are substantially product specific and therefore, for any given period, can be affected by the mix of products sold. Included in sales deductions are immaterial net adjustments related to prior-period sales due to changes in estimates.
+Returns are estimated through comparison of historical return data with their related sales on a production lot basis. Historical rates of return are determined for each product and are adjusted for known or expected changes in the marketplace specific to each product, when appropriate. Historically, sales return provisions have amounted to less than 1 % of gross product sales. Changes in estimates for prior-period sales return provisions have historically been immaterial.
+Our payment terms vary by types and locations of customers and by products or services offered. Payment terms differ by jurisdiction and customer, but payment is generally required in a term ranging from 30 to 120 days from date of shipment or satisfaction of the performance obligation. For certain products or services and certain customer types, we may require payment before products are delivered or services are rendered to customers.
+Indirect taxes collected from customers and remitted to government authorities that are related to sales of the Company's products, primarily in Europe, are excluded from revenues.
+As a practical expedient, sales commissions are expensed when incurred because the amortization period would have been one year or less. These costs are recorded in SG&A expense in the Consolidated Statements of Income.
+F-9
+Other revenues
+Other revenues consist primarily of royalty income and corporate partner revenues. Royalties from licensees are based on third-party sales of licensed products and are recorded when the related third-party product sale occurs. Royalty income is estimated based on historical and forecasted sales trends. Corporate partner revenues are composed mainly of license fees and milestones earned and our share of commercial profits generated from collaborations. See Arrangements with multiple-performance obligations, discussed below.
+Arrangements with multiple-performance obligations
+From time to time, we enter into arrangements for the R&D, manufacture and/or commercialization of products and product candidates. Such arrangements may require us to deliver various rights, services and/or goods, including intellectual property rights/licenses, R&D services, manufacturing services and/or commercialization services. The underlying terms of these arrangements generally provide for consideration to Amgen in the form of nonrefundable, upfront license fees; development and commercial-performance milestone payments; royalty payments; and/or profit sharing.
+In arrangements involving more than one performance obligation, each required performance obligation is evaluated to determine whether it qualifies as a distinct performance obligation based on whether (i) the customer can benefit from the good or service either on its own or together with other resources that are readily available and (ii) the good or service is separately identifiable from other promises in the contract. The consideration under the arrangement is then allocated to each separate distinct performance obligation based on its respective relative stand-alone selling price. The estimated selling price of each deliverable reflects our best estimate of what the selling price would be if the deliverable was regularly sold by us on a stand-alone basis or by using an adjusted market assessment approach if selling price on a stand-alone basis is not available.
+The consideration allocated to each distinct performance obligation is recognized as revenue when control of the related goods or services is transferred. Consideration associated with at-risk substantive performance milestones is recognized as revenue when it is probable that a significant reversal of the cumulative revenue recognized will not occur. We utilize the sales- and usage-based royalty exception in arrangements that resulted from the license of intellectual property, recognizing revenues generated from royalties or profit sharing as the underlying sales occur.
+Research and development costs
+R&D costs are expensed as incurred and primarily include salaries, benefits and other staff-related costs; facilities and overhead costs; clinical trial and related clinical manufacturing costs; contract services and other outside costs; information systems' costs; and amortization of acquired technology used in R&D with alternative future uses. R&D expenses also include costs and cost recoveries associated with third-party R&D arrangements, including upfront fees and milestones paid to third parties in connection with technologies that had not reached technological feasibility and did not have an alternative future use. Net payment or reimbursement of R&D costs is recognized when the obligations are incurred or as we become entitled to the cost recovery. See Note 9, Collaborations.
+Selling, general and administrative costs
+SG&A costs are primarily composed of salaries, benefits and other staff-related costs associated with sales and marketing, finance, legal and other administrative personnel; facilities and overhead costs; outside marketing, advertising and legal expenses; the U.S. healthcare reform federal excise fee on Branded Prescription Pharmaceutical Manufacturers and Importers; and other general and administrative costs. Advertising costs are expensed as incurred and were $ 987 million, $ 647 million and $ 841 million during the years ended December 31, 2024, 2023 and 2022, respectively. SG&A expenses also include costs and cost recoveries associated with marketing and promotion efforts under certain collaborative arrangements. Net payment or reimbursement of SG&A costs is recognized when the obligations are incurred or we become entitled to the cost recovery. See Note 9, Collaborations.
+Leases
+At inception of a contract, we determine whether an arrangement is or contains a lease. For all leases, we determine the classification as either operating or financing. Operating leases are included in Other noncurrent assets, Accrued liabilities and Other noncurrent liabilities in our Consolidated Balance Sheets.
+ROU assets represent our right to use an underlying asset for the lease term, and lease liabilities represent our obligation to make lease payments under the lease. Lease recognition occurs at the commencement date, and lease liability amounts are based on the present value of lease payments made during the lease term. Our lease terms may include options to extend or terminate a lease when it is reasonably certain that we will exercise that option. Because most of our leases do not provide information to determine an implicit interest rate, we use our incremental borrowing rate in determining the present value of
+F-10
+lease payments. ROU assets also include any lease payments made prior to the commencement date less lease incentives received. Operating lease expense is recognized on a straight-line basis over the lease term.
+We have lease agreements with both lease and nonlease components, which are generally accounted for together as a single lease component. In addition, for certain vehicle and equipment leases, we apply a portfolio approach to determine the lease term and discount rate.
+Stock-based compensation
+We have stock-based compensation plans under which various types of equity-based awards are granted, including RSUs, performance units and stock options. The fair values of RSUs and stock option awards, which are subject only to service conditions with graded vesting, are recognized as compensation expense, generally on a straight-line basis over the service period, net of estimated forfeitures. The fair values of performance unit awards are recognized as compensation expense, generally on a straight-line basis from the grant date to the end of the performance period. See Note 5, Stock-based compensation.
+Income taxes
+We provide for income taxes based on pretax income and applicable tax rates in the various jurisdictions in which we operate. Significant judgment is required in determining our provision for income taxes and income tax assets and liabilities, including evaluating uncertainties in the application of accounting principles and complex tax laws. Deferred income taxes are recorded for the expected tax consequences of temporary differences between the bases of assets and liabilities, as well as for loss and tax credit carryforwards for financial reporting purposes and amounts recognized for income tax purposes. We record a valuation allowance to reduce our deferred tax assets to the amount of future tax benefit that is more likely than not to be realized.
+We recognize the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained upon examination by tax authorities based on the technical merits of the position. The tax benefit recognized in the consolidated financial statements for a particular tax position is based on the largest benefit that is more likely than not to be realized. The amount of UTBs is adjusted as appropriate for changes in facts and circumstances, such as significant amendments to existing tax law, new regulations or interpretations by tax authorities, new information obtained during a tax examination or resolution of an examination. We recognize both accrued interest and penalties, when appropriate, related to UTBs in income tax expense. See Note 7, Income taxes.
+Amgen is subject to current U.S. minimum tax on foreign subsidiaries. Based on our election beginning in 2022, we have established deferred taxes with respect to the U.S. minimum tax on the earnings of our foreign subsidiaries. This requires us to recognize deferred taxes for temporary basis differences expected to reverse as global intangible low-taxed income in future years. These are ongoing adjustments that are likely to occur in the future.
+Acquisitions
+We first determine whether a set of assets acquired constitutes a business and should be accounted for as a business combination. If the assets acquired do not constitute a business, we account for the transaction as an asset acquisition. Business combinations are accounted for by means of the acquisition method of accounting. Under the acquisition method, assets acquired, including IPR&D projects, and liabilities assumed are recorded in our consolidated financial statements at their respective fair values as of the acquisition date. The excess of the fair value of consideration transferred over the fair value of the net assets acquired is recorded as goodwill. Contingent consideration obligations incurred in connection with a business combination, including the assumption of an acquiree's liability arising from an acquisition it consummated prior to our acquisition, are recorded at their fair values on the acquisition date and remeasured at their fair values each subsequent reporting period until the related contingencies have been resolved. The resulting changes in fair values are recorded in earnings. In contrast, asset acquisitions are accounted for by using a cost accumulation and allocation model. Under this model, the cost of the acquisition is allocated to the assets acquired and liabilities assumed. IPR&D projects with no alternative future use are recorded in R&D expense upon acquisition, and contingent consideration obligations incurred in connection with an asset acquisition are recorded when it is probable that they will occur and they can be reasonably estimated. See Note 4, Acquisitions and divestitures, and Note 18, Fair value measurement.
+Cash equivalents
+We consider cash equivalents to be only those investments that are highly liquid, that are readily convertible to cash and that mature within three months from the date of purchase.
+F-11
+Interest-bearing securities
+We consider our interest-bearing securities investment portfolio as available-for-sale, and accordingly, these investments are recorded at fair value, with unrealized gains and losses recorded in AOCI. Investments with maturities beyond one year may be classified as short-term marketable securities in the Consolidated Balance Sheets due to their highly liquid nature and because they represent the Company's investments that are available for current operations. See Note 10, Investments, and Note 18, Fair value measurement.
+Inventories
+Inventories are stated at the lower of cost or net realizable value. Cost, which includes amounts related to materials, labor and overhead, is determined in a manner that approximates the first-in, first-out method. Net realizable value is the estimated selling price in the ordinary course of business less reasonably predictable costs of completion, disposal and transportation. See Note 11, Inventories.
+Derivatives
+We recognize all of our derivative instruments as either assets or liabilities at fair value in the Consolidated Balance Sheets. The accounting for changes in the fair value of a derivative instrument depends on whether the derivative has been formally designated and qualifies as part of a hedging relationship under the applicable accounting standards and, further, on the type of hedging relationship. For derivatives formally designated as hedges, we assess both at inception and quarterly thereafter whether the hedging derivatives are highly effective in offsetting changes in either the fair value or cash flows of the hedged item. Our derivatives that are not designated and do not qualify as hedges are adjusted to fair value through current earnings. See Note 18, Fair value measurement, and Note 19, Derivative instruments.
+Property, plant and equipment, net
+Property, plant and equipment is recorded at historical cost, net of accumulated depreciation, amortization and, if applicable, impairment charges. We review our property, plant and equipment assets for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. Depreciation is recorded over the assets' useful lives on a straight-line basis. Leasehold improvements are amortized on a straight-line basis over the shorter of their estimated useful lives or lease terms. See Note 12, Property, plant and equipment.
+Goodwill and other intangible assets
+Finite-lived intangible assets are recorded at cost, net of accumulated amortization and, if applicable, impairment charges. Amortization of finite-lived intangible assets is recorded over the assets' estimated useful lives on a straight-line basis or based on the pattern in which economic benefits are consumed, if reliably determinable. We review our finite-lived intangible assets for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. See Note 13, Goodwill and other intangible assets.
+The fair values of IPR&D projects acquired in a business combination that are not complete are capitalized and accounted for as indefinite-lived intangible assets until completion or abandonment of the related R&D efforts. Upon successful completion of the project, the capitalized amount is amortized over its estimated useful life. If a project is abandoned, all remaining capitalized amounts are written off immediately. Major risks and uncertainties are often associated with IPR&D projects because we are required to obtain regulatory approvals before marketing the resulting products. Such approvals require completing clinical trials that demonstrate a product candidate is safe and effective. Consequently, the eventual realized value of the acquired IPR&D project may vary from its fair value at the date of acquisition, and IPR&D impairment charges may occur in future periods.
+Capitalized IPR&D projects are reviewed for impairment annually and whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. We consider various factors for potential impairment, including the current legal and regulatory environment and the competitive landscape. Adverse clinical trial results, significant delays in obtaining marketing approval, the inability to bring a product to market and the introduction or advancement of competitors' products could result in partial or full impairment of the related intangible assets.
+We perform an impairment test of goodwill annually and whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. To date, an impairment of goodwill has not been recorded. See Note 13, Goodwill and other intangible assets.
+F-12
+Contingencies
+In the ordinary course of business, we are involved in various legal proceedings, government investigations and other matters that are complex in nature and have outcomes that are difficult to predict. Certain of these proceedings are discussed in Note 20, Contingencies and commitments. We record accruals for loss contingencies to the extent that we conclude it is probable that a liability has been incurred and the amount of the related loss can be reasonably estimated. We evaluate, on a quarterly basis, developments in legal proceedings and other matters that could cause an increase or decrease in the amount of the liability that has been accrued previously.
+Foreign currency translation
+The net assets of international subsidiaries whose functional currencies are not in U.S. dollars are translated into U.S. dollars using current exchange rates. The U.S. dollar effects that arise from translation of the net assets of these subsidiaries at changing rates are recognized in AOCI. The subsidiaries' earnings are translated into U.S. dollars by using average exchange rates.
+Equity investments
+Marketable and nonmarketable equity securities
+Investments in publicly traded equity securities with readily determinable fair values are recorded at quoted market prices for identical securities, with changes in fair value recorded in Other income (expense), net, in the Consolidated Statements of Income. Investments in equity securities without readily determinable fair values are recorded at cost less impairment, if any, adjusted for changes resulting from observable price changes in orderly transactions for identical or similar securities. Such adjustments are recorded in Other income (expense), net, in the Consolidated Statements of Income.
+Equity method investments
+Equity investments that give us the ability to exert significant influence, but not control, over an investee for which we have not elected the fair value option are accounted for under the equity method of accounting. In concluding whether we have the ability to exercise significant influence over an investee, we consider factors such as our ownership percentage, voting and other shareholder rights, board of directors representation and the existence of other collaborative or business relationships. The equity method of accounting requires us to allocate the difference between the fair value of securities acquired and our proportionate share of the carrying value of the underlying assets (the basis difference) to various items and amortize such differences over their useful lives. Our share of investees' earnings or losses and amortization of basis differences, if any, are recorded one quarter in arrears in Other income (expense), net, in the Consolidated Statements of Income. We record impairment losses on our equity method investments if we deem the impairment to be other-than-temporary. We deem an impairment to be other-than-temporary based on various factors, including, but not limited to, the length of time the fair value is below the carrying value, volatility of the security price and our intent and ability to retain the investment to allow for a recovery in fair value.
+For equity method investments for which we have elected the fair value option, changes in fair value are recorded in Other income (expense), net, in the Consolidated Statements of Income.
+Additionally, we hold investments in limited partnerships, which primarily invest in early-stage biotechnology companies. As a practical expedient, such limited partnership investments are measured by using our proportionate share of the net asset values of the underlying investments held by the limited partnerships, with such changes included in Other income (expense), net, in the Consolidated Statements of Income.
+Recently adopted accounting pronouncements
+In November 2023, the FASB issued ASU No. 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures, to improve reportable segment disclosure requirements through enhanced disclosures about significant segment expenses and additional interim segment reporting disclosures, including for companies with a single reportable segment. The standard is effective for public business entities such as Amgen for annual periods beginning after December 15, 2023, and interim periods beginning after December 15, 2024, with retrospective application required for all prior periods presented. We adopted this standard in fiscal year 2024, which resulted in incremental segment disclosures. See Note 2, Segment and other information.
+Recent accounting pronouncements not yet adopted
+In December 2023, the FASB issued ASU No. 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures, to improve income tax disclosure requirements by requiring more detailed information on several income tax
+F-13
+disclosures, such as enhancing disclosure of income taxes paid and requiring disaggregation of the effective income tax rate reconciliation. The standard is effective for public business entities such as Amgen for annual periods beginning after December 15, 2024. Early adoption is permitted, and entities may apply the standard prospectively or retrospectively. We are currently evaluating the impact of adopting this standard on our consolidated financial statements and related disclosures.
+In November 2024, the FASB issued ASU No. 2024-03, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses, to improve disclosures about a public business entity's expenses by requiring disaggregated disclosures of certain types of expenses, including purchases of inventory, employee compensation, depreciation, intangible amortization and depletion, as applicable, for each income statement caption that includes those expenses. In addition, the standard will require entities to define and disclose total selling expenses. The standard is effective for public business entities such as Amgen for annual periods beginning after December 15, 2026, and interim periods beginning after December 15, 2027. Early adoption is permitted, and entities may apply the standard prospectively or retrospectively. We are currently evaluating the impact of adopting this standard on our consolidated financial statements and related disclosures.
+2. Segment and other information
+We operate our business in one operating segment, which also represents one reportable segment: human therapeutics. Therefore, results of our operations are reported on a consolidated basis for purposes of segment reporting, consistent with internal management reporting.
+The human therapeutics segment is engaged in the discovery, development, manufacturing and delivery of innovative medicines to fight some of the world's toughest diseases. The Company's Chief Executive Officer has been identified as the chief operating decision maker (CODM). The CODM manages and allocates resources on a consolidated basis. The determination of a single segment is consistent with the financial information regularly reviewed by the CODM for purposes of evaluating performance and allocating resources, which is reviewed on a consolidated basis.
+As the Company's CODM evaluates the financial performance of the Company's human therapeutics segment on a consolidated basis, the measure of segment performance is net income, as reflected in the Consolidated Statements of Income. The CODM uses net income to allocate resources on a consolidated basis, which enables the CODM to assess both the overall level of resources available and optimize distribution of resources across functions, therapeutic areas, regions and research and development programs in line with our long-term corporate-wide strategic goals. In addition, the CODM may also evaluate financial performance based on net income adjusted for certain items that are unusual and non-recurring. As the Company manages its assets on a consolidated basis, the measure of segment assets is total assets, as reflected in the Consolidated Balance Sheets. See Note 10, Investments, for further information regarding equity method investments, and Net cash used in investing activities in the Consolidated Statements of Cash Flows for further information regarding capital expenditures.
+F-14
+The following table provides segment revenues, significant segment expenses, other segment items, reported segment net income and a reconciliation of segment net income to the Company's total consolidated net income for the years ended December 31, 2024, 2023 and 2022 (in millions):
+Years ended December 31,
+2024 2023 2022
+Revenues:
+Product sales $ 32,026 $ 26,910 $ 24,801
+Other revenues 1,398 1,280 1,522
+Total revenues 33,424 28,190 26,323
+Less:
+Manufacturing cost of sales (1)(2)
+11,118 7,347 5,776
+Profit share and royalties in cost of sales (1)
+1,740 1,104 630
+Research and development (1)
+5,964 4,784 4,434
+Sales and marketing (1)
+4,713 3,784 3,736
+General and administrative (1)
+2,383 2,395 1,678
+Other segment items (3)
+262 ( 743 ) 777
+Equity in (income) loss of equity method investments
+( 10 ) 14 667
+Interest income
+( 510 ) ( 1,225 ) ( 127 )
+Interest expense, net 3,155 2,875 1,406
+Provision for income taxes
+519 1,138 794
+Segment net income 4,090 6,717 6,552
+Reconciliation of profit or loss:
+Adjustments and reconciling items — — —
+Consolidated net income $ 4,090 $ 6,717 $ 6,552
+____________
+(1) During the years ended December 31, 2024, 2023 and 2022, we recognized amortization expense on our intangible assets of $ 4.8 billion, $ 3.2 billion and $ 2.6 billion, respectively. Amortization of intangible assets is included primarily in Cost of sales in the Consolidated Statements of Income. In addition, during the years ended December 31, 2024, 2023 and 2022, we recognized depreciation and ROU asset amortization expense of $ 805 million, $ 824 million and $ 818 million, respectively.
+(2) During the years ended December 31, 2024, 2023 and 2022, manufacturing cost of sales included amortization of step-up to fair value of inventory acquired in business combinations of $ 2.4 billion, $ 656 million and $ 30 million, respectively.
+(3) Other segment items included in Segment net income primarily consists of: (i) fair value adjustments on equity securities (see Note 10, Investments) and (ii) net impairment charges on intangible assets (see Note 13, Goodwill and other intangible assets). For the year ended December 31, 2023, other segment items also included expenses related to our restructuring plan that was both initiated and substantially completed in 2023. For the year ended December 31, 2022, other segment items also included a loss on the divestiture of Gensenta (see Note 4, Acquisitions and divestitures).
+F-15
+3. Revenues
+We operate our business in one operating segment: human therapeutics. Therefore, results of our operations are reported on a consolidated basis for purposes of segment reporting, consistent with internal management reporting. Revenues by product and by geographic area, based on customers' locations, are presented below. The majority of ROW product sales relates to products sold in Europe.
+Revenues were as follows (in millions):
+Year ended December 31, 2024 Year ended December 31, 2023 Year ended December 31, 2022
+U.S. ROW Total U.S. ROW Total U.S. ROW Total
+Prolia $ 2,885 $ 1,489 $ 4,374 $ 2,733 $ 1,315 $ 4,048 $ 2,465 $ 1,163 $ 3,628
+ENBREL 3,288 28 3,316 3,650 47 3,697 4,044 73 4,117
+XGEVA 1,507 718 2,225 1,527 585 2,112 1,480 534 2,014
+Repatha
+1,139 1,083 2,222 793 842 1,635 608 688 1,296
+Otezla 1,699 427 2,126 1,777 411 2,188 1,886 402 2,288
+TEPEZZA (1)
+1,835 16 1,851 441 7 448 — — —
+EVENITY 1,131 432 1,563 809 351 1,160 533 254 787
+KYPROLIS 948 555 1,503 921 482 1,403 850 397 1,247
+Nplate 970 486 1,456 996 481 1,477 848 459 1,307
+Aranesp 386 956 1,342 452 910 1,362 521 900 1,421
+BLINCYTO 800 416 1,216 566 295 861 336 247 583
+KRYSTEXXA (1)
+1,185 — 1,185 272 — 272 — — —
+Vectibix 519 526 1,045 461 523 984 396 497 893
+TEZSPIRE 972 — 972 567 — 567 170 — 170
+Other products (2)
+4,037 1,593 5,630 3,307 1,389 4,696 3,606 1,444 5,050
+Total product sales (3)
+23,301 8,725 32,026 19,272 7,638 26,910 17,743 7,058 24,801
+Other revenues 562 836 1,398 534 746 1,280 852 670 1,522
+Total revenues $ 23,863 $ 9,561 $ 33,424 $ 19,806 $ 8,384 $ 28,190 $ 18,595 $ 7,728 $ 26,323
+____________
+(1) TEPEZZA and KRYSTEXXA were acquired from the acquisition of Horizon on October 6, 2023, and include product sales in the periods after the acquisition date.
+(2) Consists of product sales of our non-principal products.
+(3) Hedging gains and losses, which are included in product sales, were not material for the years ended December 31, 2024, 2023 and 2022.
+In the United States, we sell primarily to pharmaceutical wholesale distributors that we use as the principal means of distributing our products to healthcare providers. Outside the United States, we sell principally to healthcare providers and/or pharmaceutical wholesale distributors depending on the distribution practice in each country. We monitor the financial condition of our larger customers and limit our credit exposure by setting credit limits and, in certain circumstances, by requiring letters of credit or obtaining credit insurance.
+F-16
+For each of the years ended December 31, 2024, 2023 and 2022, we had product sales to three customers that individually accounted for more than 10% of total revenues. For the year ended December 31, 2024, on a combined basis, these customers accounted for 77 % of total gross revenues as shown in the following table. Certain information with respect to these customers was as follows (dollar amounts in millions):
+Years ended December 31,
+2024 2023 2022
+McKesson Corporation:
+Gross product sales $ 22,173 $ 19,035 $ 17,305
+% of total gross revenues 33 % 33 % 35 %
+Cencora, Inc.:
+Gross product sales $ 18,387 $ 16,625 $ 15,443
+% of total gross revenues 27 % 29 % 31 %
+Cardinal Health, Inc.:
+Gross product sales $ 11,278 $ 9,775 $ 8,319
+% of total gross revenues 17 % 17 % 16 %
+As of December 31, 2024 and 2023, amounts due from these three customers each exceeded 10% of gross trade receivables and accounted for 70 % and 75 %, respectively, of net trade receivables on a combined basis. As of December 31, 2024 and 2023, 26 % and 22 %, respectively, of net trade receivables were due from customers located outside the United States, the majority of which were from Europe. Our total allowance for doubtful accounts as of December 31, 2024 and 2023, was not material.
+F-17
+4. Acquisitions and divestitures
+Acquisition of Horizon Therapeutics plc
+On October 6, 2023, Amgen completed its acquisition of Horizon by acquiring all of the outstanding shares of Horizon for $ 116.50 per share in cash, representing a total consideration of approximately $ 27.8 billion. Horizon is a global biotechnology company focused on the discovery, development and commercialization of medicines that address critical needs of patients impacted by rare, autoimmune and severe inflammatory diseases. The acquisition, which was accounted for as a business combination, aligns with Amgen's core strategy of delivering innovative medicines that make a significant difference for patients suffering from serious diseases and strengthens Amgen's leading rare disease portfolio by adding first-in-class, early-in-lifecycle medicines, including TEPEZZA for thyroid eye disease, KRYSTEXXA for chronic refractory gout and UPLIZNA for neuromyelitis optica spectrum disorder. Upon its acquisition, Horizon became a wholly owned subsidiary of Amgen, and its operations have been included in our consolidated financial statements commencing on the acquisition date.
+During the year ended December 31, 2024, the purchase price allocation of the acquisition was completed and measurement period adjustments were finalized, which included changes to the purchase price allocation that resulted in a net increase of approximately $ 25 million to goodwill. The measurement period adjustments resulted primarily from adjustments to acquired assets and liabilities, including deferred tax attributes, based on facts and circumstances that existed as of the acquisition date and did not result from events subsequent to the acquisition date. The adjustments did not have a significant impact on Amgen's results of operations during the year ended December 31, 2024, and would not have had a significant impact on prior-period results if the adjustments had been made as of the acquisition date.
+The following table summarizes the final total consideration and allocated acquisition date fair values of assets acquired and liabilities assumed, inclusive of measurement-period adjustments (in millions):
+Cash and cash equivalents $ 681
+Inventories 5,014
+Property, plant and equipment, net 318
+Finite-lived intangible assets—developed-product-technology rights
+19,590
+IPR&D 1,060
+Goodwill 3,136
+Deferred tax asset 795
+Deferred tax liability ( 2,488 )
+Other assets and liabilities, net ( 273 )
+Total assets acquired, net of liabilities assumed
+$ 27,833
+The $ 27.8 billion total consideration for this transaction consisted of (i) cash consideration transferred to common shareholders of $ 26.7 billion; (ii) cash consideration transferred to vested and outstanding options, outstanding RSU awards and outstanding performance share unit awards of $ 523 million; (iii) fair value of Amgen replacement awards (based on conversion of outstanding employee RSU awards) of $ 180 million representing noncash consideration; and (iv) a portion of Horizon's debt, settled by Amgen on the acquisition closing date, of $ 382 million. Amgen issued 1.7 million replacement equity awards with the original vesting conditions, the fair value of which was determined based on the acquisition date fair value based on the conversion calculation. See Note 5, Stock-based compensation.
+The estimated fair values of $ 20.7 billion for the developed-product-technology rights and IPR&D intangible assets were determined using a multi-period excess earnings income approach that discounts expected future cash flows to present value by applying a discount rate that represents the estimated rate that market participants would use to value the intangible assets. The projected cash flows were based on certain assumptions attributable to the respective intangible asset, including estimates of future revenues and expenses, the time and resources needed to complete development and the probabilities of obtaining marketing approval from the FDA and other regulatory agencies. The developed-product-technology rights are being amortized on a straight-line basis over a weighted-average period of approximately 10 years from the acquisition date using the straight-line methodology.
+F-18
+The estimated fair value of the acquired inventory of $ 5.0 billion was determined using the comparative sales method, which uses actual or expected selling prices of inventory as the base amount to which adjustments for selling effort and a profit on the buyer's effort are applied. The inventory fair value adjustment is being amortized using a weighted-average inventory turnover, which we estimate to approximate 27 months from the acquisition date.
+A deferred tax liability of $ 2.5 billion was recognized on the temporary differences related to the book bases and tax bases of the acquired identifiable assets and assumed liabilities, primarily driven by the intangible assets acquired, as well as associated deferred tax asset for anticipatory foreign tax credits of $ 795 million.
+The excess of the acquisition date consideration over the fair values assigned to the assets acquired and the liabilities assumed of $ 3.1 billion was recorded as goodwill, which is not deductible for tax purposes. The goodwill value represents expected synergies from the marketed products acquired and other benefits.
+During the three months ended December 31, 2023, the Company incurred approximately $ 487 million of acquisition costs related to the closing of our Horizon acquisition, consisting of $ 167 million for share-based payments to settle non-vested equity awards attributable to post-combination services, severance and other employee-related expenses and $ 320 million for transaction costs. These costs were included primarily in SG&A expense in the Consolidated Statements of Income.
+Supplemental Pro Forma Financial Information
+The following table presents the unaudited supplemental pro forma results of a hypothetical combined Amgen and Horizon entity for the years ended December 31, 2023 and 2022, as if the acquisition of Horizon had occurred on January 1, 2022 (in millions):
+Years ended December 31,
+2023 2022
+Total revenues
+$ 30,969 $ 29,964
+Net income $ 5,383 $ 2,381
+The unaudited supplemental pro forma combined financial information was prepared using the acquisition method of accounting and was based on the historical financial information of Amgen and Horizon. In order to reflect the occurrence of the acquisition on January 1, 2022, the unaudited supplemental pro forma financial information includes adjustments to reflect: (i) incremental amortization expense based on the fair values of the identifiable intangible assets and inventory step-up; (ii) the additional interest expense associated with the issuance of debt to finance the acquisition; (iii) the reclassification of transaction and other acquisition-related costs incurred during the three months ended December 31, 2023, to the year ended December 31, 2022; and (iv) the income tax impact using an estimated effective tax rate applied to the combined entity. The unaudited supplemental pro forma financial information is not necessarily indicative of what the consolidated results of operations would have been had the acquisition been completed on January 1, 2022. In addition, the unaudited pro forma financial information is not a projection of future results of operations of the combined company, nor does it reflect the expected realization of any synergies or cost savings associated with the acquisition.
+Acquisition of ChemoCentryx, Inc.
+On October 20, 2022, we acquired all of the outstanding stock of ChemoCentryx, a publicly traded biotechnology company focused on orally administered therapeutics to treat autoimmune diseases, inflammatory disorders and cancer, for $ 52.00 per share in cash, representing a total consideration of $ 3.9 billion. The acquisition, which was accounted for as a business combination, includes TAVNEOS, an orally administered selective complement 5a receptor inhibitor that was approved by the FDA in October 2021 as an adjunctive therapy for adults with severe active antineutrophil cytoplasmic autoantibody-associated vasculitis (ANCA-associated vasculitis). TAVNEOS is commercialized by us in the United States; for markets outside the United States, TAVNEOS is commercialized by a collaboration partner, and Amgen is entitled to royalties and milestones based on future sales of the product. Upon its acquisition, ChemoCentryx became a wholly owned subsidiary of Amgen, and its operations became included in our consolidated financial statements commencing on the acquisition date.
+Measurement-period adjustments during the year ended December 31, 2023, included changes in the purchase price allocation and total consideration, resulting in a net decrease of approximately $ 18 million to goodwill. The adjustments did not have a significant impact on Amgen's results of operations during the year ended December 31, 2023, and would not have had a significant impact on prior-period results if the adjustments had been made as of the acquisition date.
+F-19
+The following table summarizes the final total consideration and allocated acquisition date fair values of assets acquired and liabilities assumed, inclusive of measurement-period adjustments (in millions):
+Cash and cash equivalents $ 86
+Marketable securities 235
+Inventories 41
+Finite-lived intangible assets—developed-product-technology rights
+3,499
+Goodwill 649
+Other liabilities, net ( 83 )
+Deferred tax liability, net ( 502 )
+Total assets acquired, net of liabilities assumed
+$ 3,925
+The $ 3.9 billion total consideration consisted of (i) a $ 3.7 billion cash payment to outstanding common stockholders of ChemoCentryx and (ii) a $ 181 million cash payment to equity award holders of ChemoCentryx for services rendered prior to the acquisition date of October 20, 2022, under the ChemoCentryx equity award plans.
+The developed-product-technology rights acquired relates to TAVNEOS, which is approved in the United States and the EU for ANCA-associated vasculitis. The estimated fair value of $ 3.5 billion was determined by using a multi-period excess earnings income approach that discounts expected future cash flows to present value by applying a discount rate that represents the estimated rate that market participants would use to value the intangible assets. The developed-product-technology rights are being amortized on a straight-line basis over a weighted-average period of approximately 11 years from the acquisition date using the straight-line methodology.
+The estimated fair value of the acquired inventory of $ 41 million was determined using the comparative sales method, which uses actual or expected selling prices of inventory as the base amount to which adjustments for selling effort and a profit on the buyer's effort are applied. The inventory fair value adjustment was amortized as inventory turned over, which we estimated to be approximately 13 months from the acquisition date.
+A net deferred tax liability of $ 502 million was recognized on the temporary differences related to the book bases and tax bases of the acquired identifiable assets and assumed liabilities, primarily driven by the intangible assets acquired.
+The excess of the acquisition date consideration over the fair values assigned to the assets acquired and the liabilities assumed of $ 649 million was recorded as goodwill, which is not deductible for tax purposes. The goodwill value is primarily attributable to the expected synergies from the TAVNEOS asset.
+Divestiture of Gensenta la Sanayi ve Ticaret A. .
+On November 2, 2022, we sold our shares in Gensenta, a subsidiary in Turkey, to Eczac ba for net cash proceeds of approximately $ 130 million. The transaction was accounted for as a sale of a business and did not meet the criteria to be classified as discontinued operations. Upon closing of this transaction, net assets related to Gensenta of $ 86 million were divested, and during the year ended December 31, 2022, we recognized a loss on divestiture of $ 567 million recorded in Other operating expenses in the Consolidated Statements of Income, primarily due to the reclassification of $ 615 million of cumulative foreign currency translation losses from AOCI into earnings. See Note 17, Stockholders' equity.
+F-20
+5. Stock-based compensation
+Our Amended 2009 Plan authorizes for issuance to employees of Amgen and nonemployee members of our Board of Directors shares of our common stock pursuant to grants of equity-based awards, including RSUs, stock options and performance units. The pool of shares available under the Amended 2009 Plan is reduced by one share for each stock option granted and by 1.9 shares for other types of awards granted, including full-value awards. In general, if any shares subject to an award granted under the Amended 2009 Plan expire or become forfeited, terminated or canceled without the issuance of shares, the shares subject to such awards are added back into the authorized pool on the same basis that they were removed. In addition, under the Amended 2009 Plan, shares withheld to pay for minimum statutory tax obligations with respect to full-value awards are added back into the authorized pool on the basis of 1.9 shares. As of December 31, 2024, the Amended 2009 Plan provides for future grants and/or issuances of up to approximately 59 million shares of our common stock. Stock-based awards under our employee compensation plans are made with newly issued shares reserved for this purpose.
+The following table reflects the components of stock-based compensation expense recognized in our Consolidated Statements of Income (in millions):
+Years ended December 31,
+2024 2023 2022
+RSUs $ 351 $ 309 $ 227
+Performance units 133 121 132
+Stock options 46 43 42
+Total stock-based compensation expense, pretax 530 473 401
+Tax benefit from stock-based compensation expense ( 114 ) ( 102 ) ( 86 )
+Total stock-based compensation expense, net of tax $ 416 $ 371 $ 315
+Restricted stock units and stock options
+Eligible employees generally receive an annual grant of RSUs and, for certain executive-level employees, stock options, with the size and type of award generally determined by the employee's salary grade and performance level. Certain management and professional-level employees typically receive RSU grants upon commencement of employment. Nonemployee members of our Board of Directors also receive an annual grant of RSUs.
+Our RSU and stock option grants provide for accelerated or continued vesting in certain circumstances as defined in the plans and related grant agreements, including upon death, disability, termination in connection with a change in control and the retirement of employees who meet certain service and/or age requirements. RSUs and stock options generally vest in equal amounts on the second, third and fourth anniversaries of the grant date. RSUs accrue dividend equivalents, which are typically payable in shares only when and to the extent the underlying RSUs vest and are issued to the recipient.
+Restricted stock units
+The grant date fair value of an RSU equals the closing price of our common stock on the grant date, as RSUs accrue dividend equivalents during their vesting period, except with respect to certain holders of Horizon unvested RSUs who were granted replacement Amgen RSUs in 2023 under the original terms of the awards in connection with the Horizon acquisition based on the terms of the transaction. See Note 4, Acquisitions and divestitures. Subsequent to the Horizon acquisition, $ 42 million of the RSUs were accelerated and cash settled in 2023. The weighted-average grant date fair values per unit of RSUs granted (excluding replacement awards granted to Horizon RSU holders) during the years ended December 31, 2024, 2023 and 2022, were $ 301.36 , $ 237.70 and $ 234.47 , respectively.
+F-21
+The following table summarizes information regarding our RSUs:
+Year ended December 31, 2024
+Units
+(in millions) Weighted-average
+grant date
+fair value
+Balance nonves

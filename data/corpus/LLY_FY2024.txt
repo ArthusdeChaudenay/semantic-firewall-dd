@@ -1,0 +1,513 @@
+xable income is unlikely to support their utilization.
+Financial Statement Impact
+As of December 31, 2024, a 5 percent change in the amount of uncertain tax positions and the valuation allowance would result in a change in net income of $131.3 million and $48.2 million, respectively.
+56
+Retirement Benefits Assumptions
+Background and Uncertainties
+Defined benefit pension plan and retiree health benefit plan costs include assumptions for the discount rate, expected return on plan assets, and retirement age. These assumptions have a significant effect on the amounts reported. In addition to the analysis below, see Note 15 to the consolidated financial statements for additional information regarding our retirement benefits.
+Annually, we evaluate the discount rate and the expected return on plan assets in our defined benefit pension and retiree health benefit plans. We use an actuarially determined, plan-specific yield curve of high quality, fixed income debt instruments to determine the discount rates. In evaluating the expected return on plan assets, we consider many factors, with a primary analysis of current and projected market conditions, asset returns and asset allocations (approximately 75 percent of which are growth investments), and the views of leading financial advisers and economists. We may also review our historical assumptions compared with actual results, as well as the discount rates and expected return on plan assets of other companies, where applicable. In evaluating our expected retirement age assumption, we consider the retirement ages of our past employees eligible for pension and medical benefits together with our expectations of future retirement ages.
+Financial Statement Impact
+If the 2024 discount rate for the U.S. defined benefit pension and retiree health benefit plans (U.S. plans) were to change by a quarter percentage point, income before income taxes would change by $15.0 million. If the 2024 expected return on plan assets for U.S. plans were to change by a quarter percentage point, income before income taxes would change by $33.2 million. If our assumption regarding the 2024 expected age of future retirees for U.S. plans were adjusted by one year, our income before income taxes would be affected by $35.9 million. The U.S. plans, including Puerto Rico, represent approximately 80 percent for total projected benefit obligation and 85 percent for total plan assets at December 31, 2024.
+LEGAL AND REGULATORY MATTERS
+Information relating to certain legal proceedings can be found in Note 16 to the consolidated financial statements and is incorporated here by reference.
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+You can find quantitative and qualitative disclosures about market risk (e.g. , interest rate risk) at Item 7, "Management's Discussion and Analysis - Financial Condition and Liquidity." That information is incorporated by reference herein.
+57
+Item 8. Financial Statements and Supplementary Data
+Consolidated Statements of Operations
+ELI LILLY AND COMPANY AND SUBSIDIARIES
+(Dollars in millions, except per-share data, and shares in thousands)
+Year Ended December 31,
+2024 2023 2022
+Revenue (Note 2) $ 45,042.7 $ 34,124.1 $ 28,541.4
+Costs, expenses, and other:
+Cost of sales 8,418.3 7,082.2 6,629.8
+Research and development 10,990.6 9,313.4 7,190.8
+Marketing, selling, and administrative 8,593.8 7,403.1 6,440.4
+Acquired in-process research and development (Note 3) 3,280.4 3,799.8 908.5
+Asset impairment, restructuring, and other special charges
+(Note 5) 860.6 67.7 244.6
+Other—net, (income) expense (Note 18) 218.6 ( 96.7 ) 320.9
+32,362.3 27,569.5 21,735.0
+Income before income taxes 12,680.4 6,554.6 6,806.4
+Income taxes (Note 14) 2,090.4 1,314.2 561.6
+Net income $ 10,590.0 $ 5,240.4 $ 6,244.8
+Earnings per share:
+Basic $ 11.76 $ 5.82 $ 6.93
+Diluted $ 11.71 $ 5.80 $ 6.90
+Shares used in calculation of earnings per share:
+Basic 900,605 900,181 901,736
+Diluted 904,059 903,284 904,619
+See notes to consolidated financial statements.
+58
+Consolidated Statements of Comprehensive Income
+ELI LILLY AND COMPANY AND SUBSIDIARIES
+(Dollars in millions)
+Year Ended December 31,
+2024 2023 2022
+Net income $ 10,590.0 $ 5,240.4 $ 6,244.8
+Other comprehensive income (loss):
+Change in foreign currency translation gains (losses) ( 424.2 ) ( 25.8 ) ( 248.1 )
+Change in net unrealized gains (losses) on available-for-sale securities ( 7.1 ) 14.1 ( 53.2 )
+Change in retirement benefit plans (Note 15)
+651.8 ( 776.5 ) 616.9
+Change in net unrealized gains (losses) on cash flow hedges 79.3 109.5 432.9
+Other comprehensive income (loss) before income taxes 299.8 ( 678.7 ) 748.5
+Benefit (expense) for income taxes related to other comprehensive income (loss) ( 294.7 ) 196.3 ( 250.0 )
+Other comprehensive income (loss), net of tax (Note 17)
+5.1 ( 482.4 ) 498.5
+Comprehensive income $ 10,595.1 $ 4,758.0 $ 6,743.3
+See notes to consolidated financial statements.
+59
+Consolidated Balance Sheets
+ELI LILLY AND COMPANY AND SUBSIDIARIES
+(Dollars in millions, shares in thousands)
+December 31,
+2024 2023
+Assets
+Current Assets
+Cash and cash equivalents (Note 7) $ 3,268.4 $ 2,818.6
+Short-term investments (Note 7) 154.8 109.1
+Accounts receivable, net of allowances of $ 14.9 (2024) and $ 14.8 (2023)
+11,005.7 9,090.5
+Other receivables 2,269.7 2,245.7
+Inventories (Note 6) 7,589.2 5,772.8
+Prepaid expenses 8,340.5 5,540.8
+Other current assets 111.4 149.5
+Total current assets 32,739.7 25,727.0
+Investments (Note 7) 3,215.9 3,052.2
+Goodwill (Note 8) 5,770.3 4,939.7
+Other intangibles, net (Note 8) 6,166.3 6,906.6
+Deferred tax assets (Note 14) 8,000.6 5,477.3
+Property and equipment, net (Note 9) 17,102.4 12,913.6
+Other noncurrent assets 5,719.7 4,989.9
+Total assets $ 78,714.9 $ 64,006.3
+Liabilities and Equity
+Current Liabilities
+Short-term borrowings and current maturities of long-term debt (Note 11) $ 5,117.1 $ 6,904.5
+Accounts payable 3,228.6 2,598.8
+Employee compensation 2,093.9 1,650.4
+Sales rebates and discounts 11,539.3 11,689.0
+Dividends payable 1,346.3 1,169.2
+Other current liabilities 5,051.4 3,281.3
+Total current liabilities 28,376.6 27,293.2
+Noncurrent Liabilities
+Long-term debt (Note 11) 28,527.1 18,320.8
+Accrued retirement benefits (Note 15) 1,300.5 1,438.8
+Long-term income taxes payable (Note 14) 4,060.9 3,849.2
+Other noncurrent liabilities 2,178.2 2,240.6
+Total noncurrent liabilities 36,066.7 25,849.4
+Commitments and Contingencies (Note 16)
+Eli Lilly and Company Shareholders' Equity (Notes 12 and 13)
+Common stock—no par value
+Authorized shares: 3,200,000
+Issued shares: 947,903 (2024) and 949,781 (2023)
+592.4 593.6
+Additional paid-in capital 7,439.3 7,250.4
+Retained earnings 13,545.0 10,312.3
+Employee benefit trust ( 3,013.2 ) ( 3,013.2 )
+Accumulated other comprehensive loss (Note 17) ( 4,321.9 ) ( 4,327.0 )
+Cost of common stock in treasury
+( 49.5 ) ( 44.2 )
+Total Eli Lilly and Company shareholders' equity 14,192.1 10,771.9
+Noncontrolling interests 79.5 91.8
+Total equity 14,271.6 10,863.7
+Total liabilities and equity $ 78,714.9 $ 64,006.3
+See notes to consolidated financial statements.
+60
+Consolidated Statements of Shareholders' Equity
+ELI LILLY AND COMPANY AND SUBSIDIARIES
+Equity of Eli Lilly and Company Shareholders
+(Dollars in millions, except per-share data, and shares in thousands) Common Stock Additional
+Paid-in
+Capital Retained
+Earnings Employee Benefit Trust Accumulated Other Comprehensive Loss Common Stock in Treasury
+Noncontrolling Interest
+Shares Amount Shares Amount
+Balance at January 1, 2022
+954,116 $ 596.3 $ 6,833.4 $ 8,958.5 $ ( 3,013.2 ) $ ( 4,343.1 ) 463 $ ( 52.7 ) $ 175.6
+Net income (loss) 6,244.8 ( 20.9 )
+Other comprehensive income, net of tax 498.5
+Cash dividends declared per share: $ 4.07
+( 3,667.5 )
+Retirement of treasury shares ( 5,607 ) ( 3.5 ) ( 1,496.5 ) ( 5,607 ) 1,500.0
+Purchase of treasury shares 5,607 ( 1,500.0 )
+Issuance of stock under employee stock plans, net 2,123 1.3 ( 283.1 ) ( 13 ) 2.2
+Stock-based compensation 371.1
+Other 3.3 ( 29.1 )
+Balance at December 31, 2022
+950,632 594.1 6,921.4 10,042.6 ( 3,013.2 ) ( 3,844.6 ) 450 ( 50.5 ) 125.6
+Net income 5,240.4 11.0
+Other comprehensive loss, net of tax ( 482.4 )
+Cash dividends declared per share: $ 4.69
+( 4,221.3 )
+Retirement of treasury shares ( 2,299 ) ( 1.4 ) ( 748.6 ) ( 2,299 ) 750.0
+Purchase of treasury shares 2,299 ( 750.0 )
+Issuance of stock under employee stock plans, net 1,448 0.9 ( 299.5 ) ( 48 ) 8.8
+Stock-based compensation 628.5
+Other ( 0.8 ) ( 2.5 ) ( 44.8 )
+Balance at December 31, 2023
+949,781 593.6 7,250.4 10,312.3 ( 3,013.2 ) ( 4,327.0 ) 402 ( 44.2 ) 91.8
+Net income (loss) 10,590.0 ( 6.0 )
+Other comprehensive income, net of tax 5.1
+Cash dividends declared per share: $ 5.40
+( 4,857.5 )
+Retirement of treasury shares ( 2,964 ) ( 1.8 ) ( 2,498.2 ) ( 2,964 ) 2,500.0
+Purchase of treasury shares 2,964 ( 2,500.0 )
+Issuance of stock under employee stock plans, net 1,086 0.6 ( 456.7 ) ( 37 ) 11.5
+Stock-based compensation 645.6
+Other ( 1.6 ) ( 16.8 ) ( 6.3 )
+Balance at December 31, 2024
+947,903 $ 592.4 $ 7,439.3 $ 13,545.0 $ ( 3,013.2 ) $ ( 4,321.9 ) 365 $ ( 49.5 ) $ 79.5
+See notes to consolidated financial statements.
+61
+Consolidated Statements of Cash Flows
+ELI LILLY AND COMPANY AND SUBSIDIARIES
+(Dollars in millions)
+Year Ended December 31,
+2024 2023 2022
+Cash Flows from Operating Activities
+Net income $ 10,590.0 $ 5,240.4 $ 6,244.8
+Adjustments to Reconcile Net Income to Cash Flows from Operating Activities:
+Depreciation and amortization 1,766.6 1,527.3 1,522.5
+Change in deferred income taxes ( 2,683.1 ) ( 2,341.0 ) ( 2,185.2 )
+Stock-based compensation expense 645.6 628.5 371.1
+Investment (gains) losses, net
+49.8 23.5 420.0
+Gains on sale of product rights ( 223.8 ) ( 1,878.9 ) ( 156.5 )
+Acquired in-process research and development 3,280.4 3,799.8 908.5
+Other operating activities, net 777.4 295.5 461.3
+Other changes in operating assets and liabilities, net of acquisitions and divestitures:
+Receivables—(increase) decrease ( 2,155.2 ) ( 2,451.0 ) ( 299.6 )
+Inventories—(increase) decrease ( 2,507.4 ) ( 1,425.0 ) ( 599.7 )
+Prepaid expenses and other assets—(increase) decrease
+( 3,331.2 ) ( 3,453.4 ) ( 793.5 )
+Accounts payable and other liabilities—increase (decrease) 2,608.8 4,274.4 1,692.0
+Net Cash Provided by Operating Activities 8,817.9 4,240.1 7,585.7
+Cash Flows from Investing Activities
+Purchases of property and equipment ( 5,057.8 ) ( 3,447.6 ) ( 1,854.3 )
+Proceeds from sales and maturities of short-term investments 148.9 192.2 121.4
+Purchases of short-term investments ( 98.5 ) ( 98.2 ) ( 107.4 )
+Proceeds from sales of and distributions from noncurrent investments 373.6 508.1 342.2
+Purchases of noncurrent investments ( 677.3 ) ( 730.8 ) ( 600.2 )
+Proceeds from sale of product rights 601.3 1,604.3 95.8
+Purchases of in-process research and development ( 3,345.8 ) ( 3,944.5 ) ( 1,131.0 )
+Cash paid for acquisitions, net of cash acquired ( 947.7 ) ( 1,044.3 ) ( 327.2 )
+Other investing activities, net ( 298.2 ) ( 191.9 ) ( 302.2 )
+Net Cash Used for Investing Activities ( 9,301.5 ) ( 7,152.7 ) ( 3,762.9 )
+Cash Flows from Financing Activities
+Dividends paid ( 4,680.4 ) ( 4,069.3 ) ( 3,535.8 )
+Net change in short-term borrowings ( 1,851.8 ) 4,691.4 1,498.0
+Proceeds from issuance of long-term debt 11,417.1 3,958.5 —
+Repayments of long-term debt ( 664.2 ) — ( 1,560.0 )
+Purchases of common stock ( 2,500.0 ) ( 750.0 ) ( 1,500.0 )
+Other financing activities, net ( 490.6 ) ( 335.0 ) ( 308.9 )
+Net Cash Provided by (Used for) Financing Activities
+1,230.1 3,495.6 ( 5,406.7 )
+Effect of exchange rate changes on cash and cash equivalents ( 296.7 ) 168.6 ( 167.6 )
+Net increase (decrease) in cash and cash equivalents 449.8 751.6 ( 1,751.5 )
+Cash and cash equivalents at beginning of year 2,818.6 2,067.0 3,818.5
+Cash and Cash Equivalents at End of Year $ 3,268.4 $ 2,818.6 $ 2,067.0
+See notes to consolidated financial statements.
+62
+Notes to Consolidated Financial Statements
+ELI LILLY AND COMPANY AND SUBSIDIARIES
+(Tables present dollars in millions)
+Note 1: Summary of Significant Accounting Policies and Implementation of New Financial Accounting Standards
+Basis of Presentation
+The accompanying consolidated financial statements include Eli Lilly and Company and all subsidiaries and have been prepared in accordance with accounting principles generally accepted in the United States (GAAP). We consider majority voting interests, as well as effective economic or other control over an entity when deciding whether or not to consolidate an entity. We generally do not have control by means other than voting interests. Where our ownership of consolidated subsidiaries is less than 100 percent, the noncontrolling shareholders' interests are reflected as a separate component of equity. All intercompany balances and transactions have been eliminated.
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, expenses, and related disclosures at the date of the financial statements and during the reporting period. Actual results could differ from those estimates. We issued our financial statements by filing with the Securities and Exchange Commission (SEC) and have evaluated subsequent events up to the time of the filing of this Annual Report on Form 10-K.
+We operate as a single operating segment engaged in the discovery, development, manufacturing, marketing, and sales of pharmaceutical products worldwide. A global research and development organization and a supply chain organization are responsible for the discovery, development, manufacturing, and supply of our products. Our commercial organizations market, distribute, and sell the products. The business is also supported by global corporate staff functions. See Note 19 for additional information.
+Research and Development Expenses and Acquired In-Process Research and Development (IPR&D)
+Research and development costs are expensed as incurred. Research and development costs consist of expenses incurred in performing research and development activities, including but not limited to, compensation and benefits, facilities and overhead expense, clinical trial expense and fees paid to contract research organizations.
+Acquired IPR&D includes the initial costs and development milestones incurred related to externally developed IPR&D projects, acquired directly in a transaction other than a business combination, that do not have an alternative future use. Development milestones are milestone payment obligations that are incurred prior to regulatory approval of the compound and are expensed when the event triggering an obligation to pay the milestone occurs.
+Earnings Per Share (EPS)
+All per-share amounts, unless otherwise stated in the notes to the consolidated financial statements, are presented on a diluted basis. We calculate basic EPS based on the weighted-average number of common shares outstanding plus the effect of incremental shares from potential participating securities. We calculate diluted EPS based on the weighted-average number of common shares outstanding plus the effect of incremental shares from our stock-based compensation programs.
+Foreign Currency Translation
+Operations in our subsidiaries outside the United States (U.S.) are recorded in the functional currency of each subsidiary which is determined by a review of the environment where each subsidiary primarily generates and expends cash. The results of operations for our subsidiaries outside the U.S. are translated from functional currencies into U.S. dollars using the weighted-average currency rate for the period. Assets and liabilities are translated using the period end exchange rates. The U.S. dollar effects that arise from translating the net assets of these subsidiaries are recorded in other comprehensive income (loss).
+63
+Advertising Expenses
+Costs associated with advertising are expensed as incurred and are included in marketing, selling, and administrative expenses. Global advertising expenses, comprised primarily of online marketing and television advertising, totaled $ 1.44 billion, $ 1.12 billion, and $ 966.8 million in 2024, 2023, and 2022, respectively, which were less than 5 percent of revenue each year.
+Other Significant Accounting Policies
+Our other significant accounting policies are described in the remaining appropriate notes to the consolidated financial statements.
+Reclassifications
+Certain reclassifications have been made to prior periods in the consolidated financial statements and accompanying notes to conform with the current presentation.
+Implementation of New Financial Accounting Standards
+Effective January 1, 2024, we adopted Accounting Standards Update (ASU) 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures, which requires disclosures about significant segment expenses and additional interim disclosure requirements. This standard also requires a single reportable segment company to provide all disclosures required by Topic 280. See Note 19 for the segment disclosures as required by Topic 280, as amended by ASU 2023-07.
+ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures , establishes incremental disaggregation of income tax disclosures pertaining to the effective tax rate reconciliation and income taxes paid. This standard is effective for fiscal years beginning after December 15, 2024, and requires prospective application with the option to apply it retrospectively. We intend to adopt this standard in our Annual Report on Form 10-K for the year ending December 31, 2025. We are currently evaluating the potential impact of adopting this standard on our disclosures.
+ASU 2024-03, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses, requires disaggregation of specific expense categories in the notes to the financial statements and a qualitative description of the remaining expense amounts not separately disaggregated. This standard is effective for annual reporting periods beginning after December 15, 2026, and requires prospective application with the option to apply it retrospectively. We intend to adopt this standard in our Annual Report on Form 10-K for the year ending December 31, 2027. We are currently evaluating the potential impact of adopting this standard on our disclosures.
+Note 2: Revenue
+The following table summarizes our revenue recognized in our consolidated statements of operations:
+2024 2023 2022
+Net product revenue $ 40,747.9 $ 28,813.9 $ 25,462.8
+Collaboration and other revenue 4,294.8 5,310.2 3,078.6
+Revenue $ 45,042.7 $ 34,124.1 $ 28,541.4
+We recognize revenue primarily from two different types of contracts, product sales to customers (net product revenue) and collaborations and other arrangements. Revenue recognized from collaborations and other arrangements includes our share of profits from the collaborations, as well as royalties, upfront and milestone payments we receive under these types of contracts. See Note 4 for additional information related to our collaborations and other arrangements. Collaboration and other revenue disclosed above includes the revenue resulting from our collaboration with Boehringer Ingelheim, as well as from the 2023 sales of rights for the olanzapine portfolio, including Zyprexa, and for Baqsimi, all of which are discussed in Note 4. Substantially all of the remainder of collaboration and other revenue is related to contracts accounted for as contracts with customers. Collaboration and other revenue associated with intellectual property licensed in prior periods was not material for the years ended December 31, 2024, 2023, and 2022.
+64
+Net Product Revenue
+Revenue from sales of products is recognized at the point where the customer obtains control of the goods and we satisfy our performance obligation, which generally is at the time we ship the product to the customer. Payment terms differ by jurisdiction and customer, but payment terms in most of our major jurisdictions typically range from 30 to 70 days from date of shipment. Revenue for our product sales has not been adjusted for the effects of a financing component as we expect, at contract inception, that the period between when we transfer control of the product and when we receive payment will be one year or less. Any exceptions are either not material or we collect interest for payments made after the due date. Provisions for rebates, discounts, and returns are established in the same period the related product sales are recognized. We generally ship product shortly after orders are received; therefore, we generally only have a few days of orders received but not yet shipped at the end of any reporting period. Shipping and handling activities are considered to be fulfillment activities and are not considered to be a separate performance obligation. We exclude from the measurement of the transaction price all taxes assessed by a governmental authority that are imposed on our sales of product and collected from a customer.
+Most of our products are sold to wholesalers that serve pharmacies, physicians and other healthcare professionals, and hospitals. For the years ended December 31, 2024, 2023, and 2022, our three largest wholesalers each accounted for between 16 percent and 24 percent of consolidated revenue. Further, they each accounted for between 21 percent and 29 percent of accounts receivable as of December 31, 2024 and 2023.
+Significant judgments must be made in determining the transaction price for our sales of products related to anticipated rebates, discounts, and returns. The following describe the most significant of these judgments:
+Sales Rebates and Discounts - Background and Uncertainties
+We initially invoice our customers at contractual list prices. Contracts with direct and indirect customers may provide for various rebates and discounts that may differ in each contract. As a consequence, to determine the appropriate transaction price for our product sales at the time we recognize a sale to a direct customer, we estimate any rebates or discounts that ultimately will be due to the direct customer and other customers in the distribution chain under the terms of our contracts. Significant judgments are required in making these estimates.
+The rebate and discount amounts are recorded as a deduction to arrive at our net product revenue. Sales rebates and discounts that require the use of judgment in the establishment of the accrual include managed care, Medicare, Medicaid, chargebacks, long-term care, hospital, patient assistance programs, and various other programs. We estimate these accruals using an expected value approach.
+The largest of our sales rebate and discount amounts include rebates associated with sales covered by managed care, Medicare, Medicaid, and chargeback programs, as well as reductions in revenue related to our patient assistance programs, in the U.S. In determining the appropriate accrual amount, we consider our historical rebate payments for these programs, as well as patient assistance program costs, by product as a percentage of our historical sales as well as any significant changes in sales trends (e.g., patent expiries and product launches), an evaluation of the current contracts for these programs, the percentage of our products that are sold via these programs, and our product pricing. Although we accrue a liability for revenue reductions related to these programs at the time we record the sale, the reduction related to that sale is typically paid up to six months later. Because of this time lag, in any particular period our net product revenue may incorporate revisions of accruals for several periods.
+Most of our rebates outside the U.S. are contractual or legislatively mandated and are estimated and recognized in the same period as the related sales. In some large European countries, government rebates are based on the anticipated budget for pharmaceutical payments in the country. An estimate of these rebates, updated as governmental authorities revise budgeted deficits, is recognized in the same period as the related sale.
+65
+Sales Returns - Background and Uncertainties
+When product sales occur, to determine the appropriate transaction price for our sales, we estimate a reserve for future product returns related to those sales using an expected value approach. This estimate is based on several factors, including: historical return rates, expiration date by product (on average, approximately 24 months after the initial sale of a product to our customer), and estimated levels of inventory in the wholesale and retail channels, as well as any other specifically identified anticipated returns due to known factors such as the loss of patent exclusivity, product recalls and discontinuations, or a changing competitive environment. We maintain a returns policy that allows most U.S. customers to return most of our products for dating issues within a specified period prior to and subsequent to the product's expiration date. Following the loss of exclusivity for a patent-dependent product, we expect to experience an elevated level of product returns as product inventory remaining in the wholesale and retail channels expires. Adjustments to the returns reserve have been and may in the future be required based on revised estimates to our assumptions. We record the return amounts as a deduction to arrive at our net product revenue. Once the product is returned, it is destroyed; we do not record a right of return asset. Our returns policies outside the U.S. are generally more restrictive than in the U.S. as returns are not allowed for reasons other than failure to meet product specifications in many countries. Our reserve for future product returns for product sales outside the U.S. is not material.
+As a part of our process to estimate a reserve for product returns, we regularly review the supply levels of our significant products at the major wholesalers in the U.S. and in major markets outside the U.S., primarily by reviewing periodic inventory reports supplied by our major wholesalers and available prescription volume information for our products, or alternative approaches. We attempt to maintain U.S. wholesaler inventory levels at an average of approximately one month or less. Causes of unusual wholesaler buying patterns include actual or anticipated product-supply issues, weather patterns, anticipated changes in the transportation network, redundant holiday stocking, and changes in wholesaler business operations. In the U.S., the current structure of our arrangements provides us with data on inventory levels at our wholesalers; however, our data on inventory levels in the retail channel is more limited. Wholesaler stocking and destocking activity historically has not caused any material changes in the rate of actual product returns.
+Actual U.S. product returns have been less than 1 percent of our U.S. revenue during each of the past three years and have not fluctuated significantly as a percentage of revenue, although fluctuations are more likely in periods following loss of patent exclusivity for major products in the U.S. market.
+Adjustments to Revenue
+Adjustments to revenue recognized as a result of changes in estimates for our most significant U.S. sales returns, rebates, and discounts liability balances for products shipped in previous periods were less than 3 percent of U.S. revenue during the year ended December 31, 2024, and less than 1 percent of U.S. revenue during each of the years ended December 31, 2023 and 2022.
+Collaboration and Other Arrangements
+We recognize several types of revenue from our collaborations and other arrangements, which we discuss in general terms immediately below and more specifically in Note 4 for each of our significant collaborations and other arrangements. Our collaborations and other arrangements are evaluated to determine if the arrangements in their entirety, or contain aspects that, are contracts with customers.
+Revenue related to products we sell pursuant to these arrangements is included in net product revenue at the earlier of when control of the asset transfers to the other party or when the product has no alternative use to us and we have right to payment.
+Profit-sharing due from our collaboration partners, which is based upon gross margins reported to us by our partners, is recognized as collaboration and other revenue as earned.
+Royalty revenue from licensees and certain of our collaboration partners, which is based on sales to third parties of licensed products and technology, is recorded when the third-party sale occurs and the performance obligation to which some or all of the royalty has been allocated has been satisfied (or partially satisfied). This royalty revenue is included in collaboration and other revenue.
+66
+The net gain or loss related to the sale of rights of a product is included in collaboration and other revenue when control of the asset transfers to the other party.
+For arrangements that involve variable consideration where we have sold intellectual property, we recognize revenue based on estimates of the amount of consideration we believe we will be entitled to receive from the other party, but only to the extent a significant reversal in the amount of revenue recognized is not probable of occurring when the uncertainties associated with the variable consideration are subsequently resolved. These estimates are adjusted to reflect the actual amounts to be collected when those facts and circumstances become known. Significant judgments must be made in determining the transaction price for our sales of intellectual property. Because of the risk that products in development will not receive regulatory approval, we generally do not recognize any contingent payments that would be due to us upon or after regulatory approval.
+For arrangements involving multiple goods or services (e.g., research and development, marketing and selling, manufacturing, and distribution), each required good or service is evaluated to determine whether it is distinct. If a good or service does not qualify as distinct, it is combined with the other non-distinct goods or services within the arrangement and these combined goods or services are treated as a single performance obligation for accounting purposes. The arrangement's transaction price is then allocated to each performance obligation based on the relative standalone selling price of each performance obligation.
+Contract Liabilities
+Our contract liabilities result from arrangements where we have received payment in advance of performance under the contract and do not include sales returns, rebates, and discounts. Changes in contract liabilities are generally due to either receipt of additional advance payments or our performance under the contract.
+The following table summarizes contract liability balances at December 31:
+2024 2023
+Contract liabilities $ 166.3 $ 193.6
+The contract liabilities balances disclosed above as of December 31, 2024 and 2023 were primarily related to the remaining license period of symbolic intellectual property and obligations to supply product for a defined period of time.
+During the years ended December 31, 2024, 2023, and 2022, revenue recognized from contract liabilities as of the beginning of the respective year was not material. Revenue expected to be recognized in the future from contract liabilities as the related performance obligations are satisfied is not expected to be material in any one year.
+67
+Disaggregation of Revenue
+The following table summarizes revenue, including net product revenue and collaboration and other revenue, by product:
+U.S. Outside U.S.
+2024 2023 2022 2024 2023 2022
+Cardiometabolic Health:
+Mounjaro $ 8,949.9 $ 4,834.2 $ 366.6 $ 2,590.2 $ 328.9 $ 115.9
+Trulicity 3,693.8 5,433.3 5,688.8 1,559.7 1,699.2 1,750.9
+Zepbound 4,925.7 175.8 — — — —
+Jardiance (1)
+1,597.5 1,600.4 1,194.5 1,743.4 1,144.2 871.5
+Humalog (2)
+1,502.6 863.2 1,191.9 822.2 800.2 868.7
+Humulin 643.4 610.1 730.2 273.7 242.0 289.2
+Basaglar (3)
+375.4 443.1 470.7 301.5 285.2 289.7
+Baqsimi
+2.5 645.7 110.4 26.7 31.9 28.9
+Other cardiometabolic health 159.6 175.0 158.0 353.1 355.2 338.9
+Total cardiometabolic health 21,850.4 14,780.8 9,911.1 7,670.5 4,886.8 4,553.7
+Oncology:
+Verzenio 3,420.6 2,509.0 1,653.2 1,886.0 1,354.3 830.3
+Cyramza 442.2 402.3 351.4 531.0 572.4 620.0
+Erbitux 562.1 528.9 500.1 65.3 67.6 66.4
+Tyvyt — — — 526.0 393.4 293.3
+Other oncology 610.9 356.8 713.4 708.3 473.6 638.1
+Total oncology 5,035.8 3,797.0 3,218.1 3,716.6 2,861.3 2,448.1
+Immunology:
+Taltz 2,152.3 1,831.6 1,724.6 1,108.1 928.0 757.4
+Olumiant (4)
+228.7 225.5 148.2 728.7 697.2 682.3
+Other immunology 76.6 0.8 20.0 98.5 114.4 12.1
+Total immunology 2,457.6 2,057.9 1,892.8 1,935.3 1,739.6 1,451.8
+Neuroscience:
+Emgality 559.7 482.2 462.8 310.7 196.0 188.1
+Zyprexa (5)
+2.0 79.4 30.4 114.3 1,615.4 306.5
+Other neuroscience 218.2 134.4 119.2 268.5 371.1 439.2
+Total neuroscience 779.9 696.0 612.4 693.5 2,182.5 933.8
+Other:
+COVID-19 antibodies (6)
+— — 2,008.9 — — 14.7
+Other 251.4 459.3 546.8 651.6 662.9 949.3
+Total other 251.4 459.3 2,555.7 651.6 662.9 964.0
+Revenue $ 30,375.2 $ 21,791.0 $ 18,190.0 $ 14,667.5 $ 12,333.1 $ 10,351.3
+Numbers may not add due to rounding.
+(1) Jardiance revenue includes Glyxambi, Synjardy, and Trijardy XR.
+(2) Humalog revenue includes insulin lispro.
+(3) Basaglar revenue includes Rezvoglar.
+(4) Olumiant revenue includes sales for baricitinib that were made pursuant to Emergency Use Authorization (EUA) or similar regulatory authorizations.
+(5) Zyprexa revenue includes sale of rights for the olanzapine portfolio in July 2023.
+(6) COVID-19 antibodies include sales for bamlanivimab administered alone, for bamlanivimab and etesevimab administered together, and for bebtelovimab and were made pursuant to EUAs or similar regulatory authorizations.
+68
+The following table summarizes revenue by geographical area:
+2024 2023 2022
+Revenue (1) :
+U.S. $ 30,375.2 $ 21,791.0 $ 18,190.0
+Europe 6,920.7 6,174.7 4,299.2
+Japan 1,814.9 1,672.6 1,747.3
+China 1,660.4 1,539.7 1,452.8
+Rest of world 4,271.4 2,946.2 2,852.0
+Revenue $ 45,042.7 $ 34,124.1 $ 28,541.4
+Numbers may not add due to rounding.
+(1) Revenue is attributed to the countries based on the location of the customer or other party .
+Note 3: Acquisitions
+We engage in various forms of business development activities to enhance or refine our product pipeline, including acquisitions, collaborations, investments, and licensing arrangements. In connection with these arrangements, our partners may be entitled to future royalties and/or commercial milestones based on sales should products be approved for commercialization and/or milestones based on the successful progress of compounds through the development process. We account for each arrangement as either a business combination or an asset acquisition in accordance with GAAP.
+Business Combinations
+When an acquisition met the definition of a business under GAAP, the assets acquired and liabilities assumed were recorded at their respective fair values as of the acquisition date in our consolidated financial statements. The determination of estimated fair value required management to make significant estimates and assumptions. The excess of the purchase price over the fair value of the acquired net assets was recorded as goodwill. The results of operations of the acquisition are included in our consolidated financial statements from the date of acquisition.
+Manufacturing Facility Acquisition
+Overview of Transaction
+In May 2024, we acquired all outstanding membership interests of NexPharm Parent HoldCo, LLC and Isopro Holdings, LLC, which together own the assets of a manufacturing site in Wisconsin, for a purchase price of $ 924.7 million, net of cash acquired. The facility is intended to further expand our global parenteral (injectable) product manufacturing network.
+69
+Assets Acquired and Liabilities Assumed
+The following table summarizes the amounts recognized for assets acquired and liabilities assumed as of the acquisition date:
+Estimated Fair Value at May 23, 2024
+Cash $ 2.3
+Goodwill (1)
+816.5
+Property and equipment 108.5
+Other assets and liabilities, net ( 0.3 )
+Acquisition date fair value of consideration transferred 927.0
+Less:
+Cash acquired ( 2.3 )
+Cash paid, net of cash acquired $ 924.7
+(1) The goodwill recognized from this acquisition is primarily attributable to the synergies between the manufacturing capabilities of the site and our products as well as the assembled workforce of the site, which is deductible for tax purposes.
+The results of operations attributable to this acquisition for the year ended December 31, 2024 were not material.
+Pro forma information has not been included as this acquisition did not have a material impact on our consolidated statements of operations for the year ended December 31, 2024.
+POINT Acquisition
+Overview of Transaction
+In December 2023, we acquired all shares of POINT Biopharma Global Inc. (POINT) for a purchase price of $ 12.50 per share in cash (or an aggregate of $ 1.04 billion, net of cash acquired). POINT has capabilities in radiopharmaceutical discovery, development, and manufacturing efforts, as well as clinical and pre-clinical radioligand therapies in development for the treatment of cancer.
+Assets Acquired and Liabilities Assumed
+The following table summarizes the amounts recognized for assets acquired and liabilities assumed as of the acquisition date:
+Estimated Fair Value at December 27, 2023
+Cash $ 302.7
+Acquired IPR&D 196.0
+Goodwill (1)
+853.9
+Other assets and liabilities, net ( 14.3 )
+Acquisition date fair value of consideration transferred 1,338.5
+Less:
+Cash acquired ( 302.7 )
+Cash paid, net of cash acquired $ 1,035.8
+(1) The goodwill recognized from this acquisition is primarily attributable to the radiopharmaceutical discovery, development, and manufacturing capabilities and the assembled workforce for POINT, which is not deductible for tax purposes.
+The results of operations attributable to POINT for the years ended December 31, 2024 and 2023 were not material.
+Pro forma information has not been included as this acquisition did not have a material impact on our consolidated statements of operations for the year ended December 31, 2023.
+70
+Akouos Acquisition
+Overview of Transaction
+In December 2022, we acquired all shares of Akouos, Inc. (Akouos) for a purchase price that included $ 12.50 per share in cash (or an aggregate of $ 327.2 million, net of cash acquired) plus one non-tradable contingent value right (CVR) per share. The CVR entitles the Akouos shareholders up to an additional $ 3.00 per share in cash (or an aggregate of approximately $ 122 million) payable, subject to certain terms and conditions, upon the achievement of certain specified milestones prior to December 2028.
+Under the terms of the agreement, we acquired potential gene therapy treatments for hearing loss and other inner ear conditions. The lead gene therapies in clinical development that we acquired included GJB2 (which encodes connexin 26) for a common form of monogenic deafness and hearing loss; AK-OTOF for hearing loss due to mutations in the otoferlin gene; AK-CLRN1 for Usher Type 3A, an autosomal recessive disorder characterized by progressive loss of both hearing and vision; and AK-antiVEGF for vestibular schwannoma.
+Assets Acquired and Liabilities Assumed
+The following table summarizes the amounts recognized for assets acquired and liabilities assumed as of the acquisition date:
+Estimated Fair Value at December 1, 2022
+Cash $ 153.2
+Acquired IPR&D (1)
+184.0
+Goodwill (2)
+185.6
+Other assets and liabilities, net 24.5
+Acquisition date fair value of consideration transferred 547.3
+Less:
+Cash acquired ( 153.2 )
+Fair value of CVR liability (3)
+( 66.9 )
+Cash paid, net of cash acquired $ 327.2
+(1) Acquired IPR&D intangibles primarily relate to GJB2.
+(2) The goodwill recognized from this acquisition is primarily attributable to future unidentified projects and products and the assembled workforce for Akouos and is not deductible for tax purposes.
+(3) See Note 7 for a discussion on the estimation of the CVR liability.
+The results of operations attributable to Akouos for the years ended December 31, 2024, 2023 and 2022 were not material.
+Pro forma information has not been included as this acquisition did not have a material impact on our consolidated statements of operations for the year ended December 31, 2022.
+71
+Asset Acquisitions
+Upon each asset acquisition, the cost allocated to acquired IPR&D was immediately expensed as acquired IPR&D if the compound has no alternative future use. Milestone payment obligations incurred prior to regulatory approval of the compound were expensed when the event triggering an obligation to pay the milestone occurred. We recognized acquired IPR&D charges of $ 3.28 billion, $ 3.80 billion, and $ 908.5 million for the years ended December 31, 2024, 2023, and 2022, respectively. The following table summarizes our significant asset acquisitions during 2024, 2023, and 2022.
+Counterparty Compound, Therapy, or Asset
+Acquisition Month Phase of Development (1)
+Acquired IPR&D Charge
+Morphic Holding, Inc. (Morphic)
+MORF-057, inhibitor of 4 7 integrin for the treatment of inflammatory bowel disease August 2024 Phase 2 $ 2,548.5
+Mablink Biosciences SAS MBK-103, a folate receptor alpha antibody drug conjugate for the treatment of ovarian cancer December 2023 Pre-clinical 256.6
+Beam Therapeutics Inc. Opt-in right for programs targeting PCSK9, ANGPTL3 and an undisclosed liver-mediated, cardiovascular target October 2023 Phase 1 216.3
+DICE Therapeutics, Inc. (DICE) DC-806, an oral IL-17 inhibitor for the treatment of chronic diseases in immunology (2)
+August 2023 Phase 2 1,915.5
+Versanis Bio, Inc. (Versanis) Bimagrumab, a monoclonal antibody for the treatment of people living with obesity and obesity-related complications August 2023 Phase 2 604.1
+Emergence Therapeutics AG (Emergence)
+ETx-22, a Nectin-4 antibody-drug conjugate for the treatment of urothelial cancer August 2023 Pre-clinical 406.5
+BioMarin Pharmaceutical Inc. Priority Review Voucher February 2022 Not applicable 110.0
+(1) The phase of development presented is as of the date of the arrangement and represents the phase of development of the most advanced asset acquired, where applicable.
+(2) In 2024, we discontinued development of this molecule in favor of another molecule in development.
+In connection with our acquisition of Petra Pharma Corporation (Petra) in 2020, we were required to make milestone payments to Petra shareholders contingent upon the occurrence of certain future events linked to the success of the mutant-selective PI3K inhibitor. In 2022, we entered into agreements with substantially all Petra shareholders to acquire their rights to receive any future milestone payments in exchange for a one-time payment. As a result of these agreements, we recognized a charge of $ 333.8 million as acquired IPR&D in 2022. Any remaining contingent milestones payments linked to the success of the mutant-selective PI3K inhibitor are not expected to be material.
+We recognized no other significant acquired IPR&D charges during the years ended December 31, 2024, 2023, and 2022.
+72
+Note 4: Collaborations and Other Arrangements
+We often enter into collaborative and other arrangements to develop and commercialize drug candidates or to sell the rights of a product. See Note 2 for a discussion of our recognition of revenue from our collaborations and other arrangements.
+Collaborative activities may include research and development, marketing and selling, manufacturing, and distribution for which we may receive from or pay to the collaboration partner expense reimbursements. Operating expenses for costs incurred pursuant to these arrangements are reported in their respective expense line item, net of any payments due to or reimbursements due from our collaboration partners, with such reimbursements being recognized at the time the party becomes obligated to pay. Each arrangement is unique in nature, and our more significant arrangements are discussed below.
+Boehringer Ingelheim Collaboration
+We and Boehringer Ingelheim have a global agreement to jointly develop and commercialize a portfolio of compounds. Significant product families included in the collaboration are Boehringer Ingelheim's Jardiance product family and our Basaglar product family. Glyxambi, Synjardy, and Trijardy XR are included in the Jardiance product family. Rezvoglar is included in the Basaglar product family.
+For the Jardiance product family, we and Boehringer Ingelheim generally share equally the ongoing development and commercialization costs in the most significant markets, and we record our portion of the development and commercialization costs as research and development expense and marketing, selling, and administrative expense, respectively. We receive a royalty on net sales of the Jardiance product family in the most significant markets and recognize the royalty as collaboration and other revenue. Boehringer Ingelheim is entitled to potential performance payments depending on the net sales of the Jardiance product family; therefore, our reported revenue for Jardiance may be reduced by any potential performance payments we make related to this product family. The royalty received by us related to the Jardiance product family may also be increased or decreased depending on whether net sales for this product family exceed or fall below certain thresholds. We pay to Boehringer Ingelheim a royalty on net sales for the Basaglar product family in the U.S. We record our sales of the Basaglar product family to third parties as net product revenue with the royalty payments made to Boehringer Ingelheim recorded as cost of sales. The following table summarizes our revenue recognized:
+2024 2023 2022
+Jardiance $ 3,340.9 $ 2,744.7 $ 2,066.0
+Basaglar 676.9 728.3 760.4
+2024 revenue from Jardiance included a one-time payment received of $ 300.0 million associated with an amendment to our collaboration with Boehringer Ingelheim. Pursuant to the amendment, we and Boehringer Ingelheim adjusted commercialization responsibilities for Jardiance within certain smaller markets.
+Olumiant
+We have a worldwide license and collaboration agreement with Incyte Corporation (Incyte), which provides us the development and commercialization rights to baricitinib, which is branded and trademarked as Olumiant, and certain follow-on compounds, for the treatment of inflammatory and autoimmune diseases and COVID-19. Incyte has the right to receive tiered, double digit royalty payments on worldwide net sales with rates ranging up to 20 percent. Incyte has the right to receive an additional royalty ranging up to the low teens on worldwide net sales for the treatment of COVID-19 that exceed a specified aggregate worldwide net sales threshold.
+We record our sales of Olumiant, including sales of baricitinib that were made pursuant to EUA or similar regulatory authorizations, to third parties as net product revenue with the royalty payments made to Incyte recorded as cost of sales. The following table summarizes our net product revenue recognized:
+2024 2023 2022
+Olumiant $ 957.4 $ 922.6 $ 830.5
+73
+Tyvyt
+We have a collaboration agreement with Innovent Biologics, Inc. (Innovent) to jointly develop and commercialize sintilimab injection in China, where it is branded and trademarked as Tyvyt. We record our sales of Tyvyt to third parties as net product revenue, with payments made to Innovent for its portion of the gross margin reported as cost of sales. We report as collaboration and other revenue our portion of the gross margin for Tyvyt sales made by Innovent to third parties. The following table summarizes our revenue recognized:
+2024 2023 2022
+Tyvyt $ 526.0 $ 393.4 $ 293.3
+Ebglyss
+We have a license agreement with F. Hoffmann-La Roche Ltd and Genentech, Inc. (collectively, Roche), which provides us the worldwide development and commercialization rights to lebrikizumab, which is branded and trademarked as Ebglyss. Roche receives tiered royalty payments on worldwide net sales ranging in percentages from high single digits to high teens, which we recognize as cost of sales. As of December 31, 2024, Roche is eligible to receive additional payments from us, including up to $ 1.03 billion in potential sales-based milestones. During the years ended December 31, 2024, 2023, and 2022, milestone payments to Roche were not material.
+We have a license agreement with Almirall, S.A. (Almirall), under which Almirall licensed the rights to develop and commercialize Ebglyss for the treatment or prevention of dermatology indications, including, but not limited to, atopic dermatitis in Europe. We receive tiered royalty payments on net sales in Europe ranging in percentages from low double digits to low twenties, which we recognize as collaboration and other revenue. During the years ended December 31, 2024, 2023, and 2022, collaboration and other revenue recognized under this license agreement was not material. As of December 31, 2024, we are eligible to receive additional payments up to $ 1.25 billion in a series of sales-based milestones.
+Orforglipron
+We have a license agreement with Chugai Pharmaceutical Co., Ltd (Chugai), which provides us with the worldwide development and commercialization rights to orforglipron. Chugai has the right to receive tiered royalty payments on future worldwide net sales from mid single digits to low teens if the product is successfully commercialized. As of December 31, 2024, Chugai is eligible to receive up to $ 140.0 million contingent upon the achievement of success-based regulatory milestones and up to $ 250.0 million in a series of sales-based milestones, contingent upon the commercial success of orforglipron. During the years ended December 31, 2024, 2023, and 2022, milestone payments to Chugai were not material.
+COVID-19 Antibodies
+We have a worldwide license and collaboration agreement with AbCellera Biologics Inc. (AbCellera) to co-develop therapeutic antibodies for the potential prevention and treatment of COVID-19, including bamlanivimab and bebtelovimab, for which we hold development and commercialization rights. AbCellera received royalty payments, recorded as cost of sales, in the mid-teens to mid-twenties on worldwide net sales of bamlanivimab and bebtelovimab.
+Pursuant to EUAs or similar regulatory authorizations, we recognized net product revenue associated with our sales of our COVID-19 antibodies of $ 2.02 billion during 2022. We had no sales of our COVID-19 antibodies during the years ended December 31, 2024 and 2023.
+Divestitures
+Olanzapine Portfolio (including Zyprexa)
+In July 2023, we sold the rights for the olanzapine portfolio, including Zyprexa, to Cheplapharm Arzneimittel GmbH (Cheplapharm), a European company. Under the terms of the agreement, we received $ 1.05 billion in cash in 2023 and an additional $ 305.0 million in cash in 2024. We included both in the transaction price in 2023.
+We entered into a supply agreement with Cheplapharm that obligates Cheplapharm to purchase Zyprexa product we are manufacturing at an amount which represents a standalone selling price. As the product we are manufacturing under this supply agreement has no alternative use to us and we have right to payment, we recognize net product revenue over time as we manufacture the product.
+74
+During the year ended December 31, 2023, we recognized $ 1.45 billion in revenue primarily related to the net gain on the sale of rights for the olanzapine portfolio.
+Baqsimi
+In June 2023, we sold the rights for Baqsimi to Amphastar Pharmaceuticals, Inc. (Amphastar). Under the terms of the agreement, we received $ 500.0 million in cash in 2023 and an additional $ 125.0 million in cash in 2024. We included both in the transaction price in 2023. We are eligible to receive payments of up to $ 450.0 million in a series of sales-based milestones, that have not been included in the transaction price as of December 31, 2024.
+We entered into a supply agreement with Amphastar that obligates Amphastar to purchase Baqsimi product we are manufacturing at an amount which represents a standalone selling price. As the product we are manufacturing under this supply agreement has no alternative use to us and we have right to payment, we recognize net product revenue over time as we manufacture the product.
+During the year ended December 31, 2023, we recognized $ 579.0 million in revenue primarily related to the net gain on the sale of rights for Baqsimi.
+Note 5: Asset Impairment, Restructuring, and Other Special Charges
+Asset impairment, restructuring, and other special charges were $ 860.6 million, $ 67.7 million, and $ 244.6 million for the years ended December 31, 2024, 2023, and 2022, respectively.
+Asset impairment, restructuring, and other special charges recognized during the year ended December 31, 2024 were primarily related to a $ 435.0 million litigation charge and an intangible asset impairment for Vitrakvi, driven by expected commercial projections. See Note 16 for additional information related to the litigation charge.
+Asset impairment, restructuring, and other special charges recognized during the year ended December 31, 2022 were primarily related to an intangible asset impairment driven by delays in estimated launch timing.
+Note 6: Inventories
+We use the last-in, first-out (LIFO) method for the majority of our inventories located in the continental U.S. Other inventories are valued by the first-in, first-out (FIFO) method. FIFO cost approximates current replacement cost. Inventories measured using LIFO must be valued at the lower of cost or market. Inventories measured using FIFO must be valued at the lower of cost or net realizable value.
+Inventories at December 31 consisted of the following:
+2024 2023
+Finished products $ 1,220.8 $ 791.7
+Work in process 3,979.5 3,248.6
+Raw materials and supplies 2,326.0 1,630.1
+Total (approximates replacement cost) 7,526.3 5,670.4
+Increase to LIFO cost 62.9 102.4
+Inventories $ 7,589.2 $ 5,772.8
+Inventories valued under the LIFO method comprised $ 2.70 billion and $ 1.77 billion of total inventories at December 31, 2024 and 2023, respectively.
+When we believe that future commercialization is probable and the future economic benefit is expected to be realized, we capitalize pre-launch inventory prior to regulatory approval. A number of factors are considered, including the current status in the regulatory approval process, potential impediments to the approval process such as safety or efficacy, viability of commercialization, and marketplace trends. Pre-launch inventory capitalized as of December 31, 2024 was $ 548.1 million, primarily related to orforglipron.
+75
+Note 7: Financial Instruments
+Investments in Equity and Debt Securities
+Our equity investments are accounted for using three different methods depending on the type of equity investment:
+Investments in companies over which we have significant influence but not a controlling interest are accounted for using the equity method, with our share of earnings or losses reported in other-net, (income) expense.
+For equity investments that do not have readily determinable fair values, we measure these investments at cost, less any impairment, plus or minus changes resulting from observable price changes in orderly transactions for the identical or similar investment of the same issuer. Any change in recorded value is recorded in other-net, (income) expense.
+Our public equity investments are measured and carried at fair value. Any change in fair value is recognized in other-net, (income) expense.
+We adjust our equity investments without readily determinable fair values based upon changes in the equity instruments' values resulting from observable price changes in orderly transactions for an identical or similar investment of the same issuer. Downward adjustments resulting from an impairment are recorded based upon impairment considerations, including the financial condition and near-term prospects of the issuer, general market conditions, and industry specific factors. Adjustments recorded for the years ended December 31, 2024, 2023, and 2022 were not material.
+The net losses recognized in our consolidated statements of operations for equity securities were $ 49.5 million, $ 20.2 million, and $ 410.7 million for the years ended December 31, 2024, 2023, and 2022, respectively. The net gains (losses) recognized for the years ended December 31, 2024, 2023, and 2022 on equity securities sold during the respective periods were not material.
+As of December 31, 2024, we had approximately $ 899 million of unfunded commitments to invest in venture capital funds, which we anticipate will be paid over a period of up to 10 years.
+We record our available-for-sale debt securities at fair value, with changes in fair value reported as a component of accumulated other comprehensive income (loss). We periodically assess our investment in available-for-sale securities for impairment losses and credit losses. The amount of credit losses is determined by comparing the difference between the present value of future cash flows expected to be collected on these securities and the amortized cost. Factors considered in assessing credit losses include the position in the capital structure, vintage and amount of collateral, delinquency rates, current credit support, and geographic concentration. Impairment and credit losses related to available-for-sale securities were not material for the years ended December 31, 2024, 2023, and 2022.
+The table below summarizes the contractual maturities of our investments in debt securities measured at fair value as of December 31, 2024:
+Maturities by Period
+Total Less Than
+1 Year 1-5
+Years 6-10
+Years More Than 10 Years
+Fair value of debt securities $ 668.8 $ 95.2 $ 225.5 $ 93.3 $ 254.8
+A summary of the amount of unrealized gains and losses in accumulated other comprehensive loss and the fair value of available-for-sale securities in an unrealized gain or loss position follows:
+2024 2023
+Unrealized gross gains $ 1.6 $ 3.4
+Unrealized gross losses 43.2 37.9
+Fair value of securities in an unrealized gain position 142.6 159.2
+Fair value of securities in an unrealized loss position 491.2 452.0
+76
+As of December 31, 2024, the available-for-sale securities in an unrealized loss position include primarily fixed-rate debt securities of varying maturities, which are sensitive to changes in the yield curve and other market conditions. Substantially all of the fixed-rate debt securities in a loss position are investment-grade debt securities. As of December 31, 2024, we do not intend to sell, and it is not more likely than not that we will be required to sell, the securities in a loss position before the market values recover or the underlying cash flows have been received, and there is no indication of a material default on interest or principal payments for our debt securities.
+Realized gains and losses on sales of available-for-sale investments are computed based upon specific identification of the initial cost adjusted for any other-than-temporary declines in fair value that were recorded in earnings and were not material for the years ended December 31, 2024, 2023, and 2022. Proceeds from sales of available-for-sale investments were $ 98.0 million, $ 145.6 million, and $ 132.9 million for the years ended December 31, 2024, 2023, and 2022, respectively.
+77
+Fair Value of Investments
+The following table summarizes certain fair value information at December 31, 2024 and 2023 for investment assets measured at fair value on a recurring basis, as well as th

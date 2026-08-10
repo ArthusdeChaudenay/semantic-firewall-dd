@@ -75,14 +75,27 @@ def document_anomaly_score(flat: dict, doc_type: str) -> float:
     return max(res.values()) if res else 0.0
 
 
-def build_detection_dataset(records: list[dict], gt_index: dict, rel_tol: float = 0.01):
+def build_detection_dataset(records: list[dict], gt_index: dict, rel_tol: float = 0.01,
+                            exclude_scale_errors: bool = True):
     """Assemble (scores, labels) for E1 from raw extractions + XBRL ground truth.
 
-    records:  [{"cik", "fy", "doc_type", "raw_fields"}...]
+    records:  [{"cik", "fy", "doc_type", "raw_fields", "scale"}...]
     gt_index: {(cik, fy): {field: {"val": ...}}} from xbrl_ground_truth.
 
     label = 1 if ANY field of that document is wrong beyond tolerance vs XBRL.
     score = document_anomaly_score on the raw extraction.
+
+    ``scale`` per record (D13) is the reporting scale inferred from the document by
+    ``extraction.scale.infer_document_scale``; without it every field compares as
+    wrong, every label becomes 1, and ROC-AUC is undefined for want of negatives.
+    Documents whose scale could not be established are skipped rather than scored
+    under a guessed multiplier, and counted in ``n_skipped``.
+
+    ``exclude_scale_errors`` keeps pure unit errors out of the label. They are real
+    errors, but they are invisible to accounting identities by construction (all
+    terms scale together), so leaving them in would charge the detector with
+    failures it cannot physically see. They are reported separately instead.
+
     Returns (scores, labels, n_skipped). No silent drops — n_skipped is reported.
     """
     from semantic_firewall.evaluation.xbrl_ground_truth import score_extraction
@@ -93,11 +106,19 @@ def build_detection_dataset(records: list[dict], gt_index: dict, rel_tol: float 
         if not gt:
             skipped += 1
             continue
-        per_field = score_extraction(rec["raw_fields"], gt, rel_tol=rel_tol)
+        scale = rec.get("scale")
+        if scale is not None and not scale.get("confident", False):
+            skipped += 1
+            continue
+        per_field = score_extraction(rec["raw_fields"], gt, rel_tol=rel_tol, scale=scale)
         if not per_field:
             skipped += 1
             continue
-        wrong = any(not v["within_tol"] for v in per_field.values())
+        if exclude_scale_errors:
+            wrong = any(v["error_kind"] not in ("correct", "scale")
+                        for v in per_field.values())
+        else:
+            wrong = any(not v["within_tol"] for v in per_field.values())
         scores.append(document_anomaly_score(rec["raw_fields"], rec["doc_type"]))
         labels.append(1 if wrong else 0)
     return scores, labels, skipped

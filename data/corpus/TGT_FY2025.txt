@@ -1,0 +1,848 @@
+rnal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Report of Management on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Corporation's internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Corporation in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+Definition and Limitations of Internal Control Over Financial Reporting
+A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/s/ Ernst & Young LLP
+Minneapolis, Minnesota
+March 12, 2025
+TARGET CORPORATION
+2024 Form 10-K 41
+FINANCIAL STATEMENTS Table of Contents
+Index to Financial Statements
+Consolidated Statements of Operations
+(millions, except per share data) 2024 2023 2022
+Net sales
+$ 106,566 $ 107,412 $ 109,120
+Cost of sales 76,502 77,828 82,306
+Selling, general, and administrative expenses
+21,969 21,462 20,581
+Depreciation and amortization (exclusive of depreciation included in cost of sales)
+2,529 2,415 2,385
+Operating income
+5,566 5,707 3,848
+Net interest expense 411 502 478
+Net other income
+( 106 ) ( 92 ) ( 48 )
+Earnings before income taxes 5,261 5,297 3,418
+Provision for income taxes 1,170 1,159 638
+Net earnings $ 4,091 $ 4,138 $ 2,780
+Basic earnings per share $ 8.89 $ 8.96 $ 6.02
+Diluted earnings per share $ 8.86 $ 8.94 $ 5.98
+Weighted average common shares outstanding
+Basic 460.4 461.5 462.1
+Diluted 461.8 462.8 464.7
+Antidilutive shares 0.5 2.1 1.1
+Note: 2023 consisted of 53 weeks compared with 52 weeks in 2024 and 2022.
+See accompanying Notes to Consolidated Financial Statements .
+TARGET CORPORATION
+2024 Form 10-K 42
+FINANCIAL STATEMENTS Table of Contents
+Index to Financial Statements
+Consolidated Statements of Comprehensive Income
+(millions) 2024 2023 2022
+Net earnings $ 4,091 $ 4,138 $ 2,780
+Other comprehensive income / (loss), net of tax
+Pension benefit liabilities
+22 ( 23 ) ( 113 )
+Currency translation adjustment and cash flow hedges
+( 20 ) ( 18 ) 247
+Other comprehensive income / (loss)
+2 ( 41 ) 134
+Comprehensive income
+$ 4,093 $ 4,097 $ 2,914
+Note: 2023 consisted of 53 weeks compared with 52 weeks in 2024 and 2022.
+See accompanying Notes to Consolidated Financial Statements .
+TARGET CORPORATION
+2024 Form 10-K 43
+FINANCIAL STATEMENTS Table of Contents
+Index to Financial Statements
+Consolidated Statements of Financial Position
+(millions, except footnotes) February 1, 2025 February 3, 2024
+Assets
+Cash and cash equivalents $ 4,762 $ 3,805
+Inventory 12,740 11,886
+Other current assets 1,952 1,807
+Total current assets 19,454 17,498
+Property and equipment
+Land 6,735 6,547
+Buildings and improvements 38,752 37,066
+Fixtures and equipment 8,917 8,765
+Computer hardware and software 3,710 3,428
+Construction-in-progress 1,185 1,703
+Accumulated depreciation ( 26,277 ) ( 24,413 )
+Property and equipment, net 33,022 33,096
+Operating lease assets 3,763 3,362
+Other noncurrent assets 1,530 1,400
+Total assets $ 57,769 $ 55,356
+Liabilities and shareholders' investment
+Accounts payable $ 13,053 $ 12,098
+Accrued and other current liabilities 6,110 6,090
+Current portion of long-term debt and other borrowings 1,636 1,116
+Total current liabilities
+20,799 19,304
+Long-term debt and other borrowings 14,304 14,922
+Noncurrent operating lease liabilities 3,582 3,279
+Deferred income taxes 2,303 2,480
+Other noncurrent liabilities 2,115 1,939
+Total noncurrent liabilities 22,304 22,620
+Shareholders' investment
+Common stock 38 38
+Additional paid-in capital 6,996 6,761
+Retained earnings 8,090 7,093
+Accumulated other comprehensive loss ( 458 ) ( 460 )
+Total shareholders' investment 14,666 13,432
+Total liabilities and shareholders' investment $ 57,769 $ 55,356
+Common Stock Authorized 6,000,000,000 shares, $ 0.0833 par value; 455,566,995 shares issued and outstanding as of February 1, 2025; 461,675,441 shares issued and outstanding as of February 3, 2024.
+Preferred Stock Authorized 5,000,000 shares, $ 0.01 par value; no shares were issued or outstanding during any period presented.
+See accompanying Notes to Consolidated Financial Statements .
+TARGET CORPORATION
+2024 Form 10-K 44
+FINANCIAL STATEMENTS Table of Contents
+Index to Financial Statements
+Consolidated Statements of Cash Flows
+(millions) 2024 2023 2022
+Operating activities
+Net earnings
+$ 4,091 $ 4,138 $ 2,780
+Adjustments to reconcile net earnings to cash provided by operations:
+Depreciation and amortization 2,981 2,801 2,700
+Share-based compensation expense 304 251 220
+Deferred income taxes ( 180 ) 298 582
+Noncash losses / (gains) and other, net
+26 94 172
+Changes in operating accounts:
+Inventory ( 854 ) 1,613 403
+Other assets ( 308 ) ( 85 ) 22
+Accounts payable 1,008 ( 1,216 ) ( 2,237 )
+Accrued and other liabilities 299 727 ( 624 )
+Cash provided by operating activities 7,367 8,621 4,018
+Investing activities
+Expenditures for property and equipment ( 2,891 ) ( 4,806 ) ( 5,528 )
+Proceeds from disposal of property and equipment 3 24 8
+Other investments 28 22 16
+Cash required for investing activities ( 2,860 ) ( 4,760 ) ( 5,504 )
+Financing activities
+Additions to long-term debt 741 — 2,625
+Reductions of long-term debt ( 1,139 ) ( 147 ) ( 163 )
+Dividends paid ( 2,046 ) ( 2,011 ) ( 1,836 )
+Repurchase of stock ( 1,007 ) — ( 2,646 )
+Shares withheld for taxes on share-based compensation
+( 99 ) ( 127 ) ( 180 )
+Stock option exercises — — 4
+Cash required for financing activities ( 3,550 ) ( 2,285 ) ( 2,196 )
+Net increase / (decrease) in cash and cash equivalents
+957 1,576 ( 3,682 )
+Cash and cash equivalents at beginning of period 3,805 2,229 5,911
+Cash and cash equivalents at end of period $ 4,762 $ 3,805 $ 2,229
+Supplemental information
+Interest paid, net of capitalized interest $ 615 $ 605 $ 449
+Income taxes paid 1,055 374 213
+Leased assets obtained in exchange for new finance lease liabilities 319 104 224
+Leased assets obtained in exchange for new operating lease liabilities 758 1,027 329
+Note: 2023 consisted of 53 weeks compared with 52 weeks in 2024 and 2022.
+See accompanying Notes to Consolidated Financial Statements .
+TARGET CORPORATION
+2024 Form 10-K 45
+FINANCIAL STATEMENTS Table of Contents
+Index to Financial Statements
+Consolidated Statements of Shareholders' Investment
+(millions) Common
+Stock
+Shares Stock
+Par
+Value Additional
+Paid-in
+Capital Retained
+Earnings
+Accumulated Other
+Comprehensive
+Loss
+Total
+January 29, 2022 471.3 $ 39 $ 6,421 $ 6,920 $ ( 553 ) $ 12,827
+Net earnings — — — 2,780 — 2,780
+Other comprehensive income — — — — 134 134
+Dividends declared — — — ( 1,931 ) — ( 1,931 )
+Repurchase of stock ( 12.5 ) ( 1 ) 119 ( 2,764 ) — ( 2,646 )
+Share-based compensation
+1.5 — 68 — — 68
+January 28, 2023 460.3 $ 38 $ 6,608 $ 5,005 $ ( 419 ) $ 11,232
+Net earnings — — — 4,138 — 4,138
+Other comprehensive loss
+— — — — ( 41 ) ( 41 )
+Dividends declared — — — ( 2,050 ) — ( 2,050 )
+Share-based compensation
+1.4 — 153 — — 153
+February 3, 2024 461.7 $ 38 $ 6,761 $ 7,093 $ ( 460 ) $ 13,432
+Net earnings — — — 4,091 — 4,091
+Other comprehensive income
+— — — — 2 2
+Dividends declared — — — ( 2,080 ) — ( 2,080 )
+Repurchase of stock ( 7.2 ) ( 1 ) — ( 1,014 ) — ( 1,015 )
+Share-based compensation
+1.1 1 235 — — 236
+February 1, 2025 455.6 $ 38 $ 6,996 $ 8,090 $ ( 458 ) $ 14,666
+We declared $ 4.46 , $ 4.38 , and $ 4.14 dividends per share for the twelve months ended February 1, 2025, February 3, 2024, and January 28, 2023, respectively.
+See accompanying Notes to Consolidated Financial Statements .
+TARGET CORPORATION
+2024 Form 10-K 46
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+Notes to Consolidated Financial Statements
+1. Summary of Accounting Policies
+Organization - We are a general merchandise retailer selling products to our guests through our stores and digital channels.
+We operate as a single segment that includes all of our operations, which are designed to enable guests to purchase products seamlessly in stores or through our digital channels. Nearly all of our revenues are generated in the United States (U.S.). The vast majority of our long-lived assets are located within the U.S.
+Consolidation - The consolidated financial statements include the balances of Target Corporation and its subsidiaries after elimination of intercompany balances and transactions. All subsidiaries are wholly owned.
+Use of estimates - The preparation of our consolidated financial statements in conformity with U.S. generally accepted accounting principles (GAAP) requires management to make estimates and assumptions affecting reported amounts in the consolidated financial statements and accompanying notes. Actual results may differ significantly from those estimates.
+Fiscal year - Our fiscal year ends on the Saturday nearest January 31. Unless otherwise stated, references to years in this report relate to fiscal years, rather than to calendar years. Fiscal 2024 ended February 1, 2025, and consisted of 52 weeks. Fiscal 2023 ended February 3, 2024, and consisted of 53 weeks. Fiscal 2022 ended January 28, 2023, and consisted of 52 weeks. Fiscal 2025 will end January 31, 2026, and will consist of 52 weeks.
+Accounting policies - Our accounting policies are disclosed in the applicable Notes to the Consolidated Financial Statements.
+TARGET CORPORATION
+2024 Form 10-K 47
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+2. Net Sales
+Merchandise sales represent the vast majority of our revenues. We also earn revenues from a variety of other sources, most notably advertising revenue and credit card profit-sharing income.
+Net Sales
+(millions)
+2024 2023 2022
+Apparel and accessories (a)
+$ 16,505 $ 16,485 $ 17,646
+Beauty (b)
+13,173 12,538 11,092
+Food and beverage (c)
+23,828 23,899 22,918
+Hardlines (d)
+15,784 16,162 17,739
+Home furnishings and d cor (e)
+16,699 17,760 19,463
+Household essentials (f)
+18,614 18,746 18,483
+Other merchandise sales 217 213 247
+Merchandise sales 104,820 105,803 107,588
+Advertising revenue
+649 522 404
+Credit card profit sharing 576 667 734
+Other 521 420 394
+Net sales
+$ 106,566 $ 107,412 $ 109,120
+(a) Includes apparel for women, men, young adults, kids, toddlers, and babies, as well as jewelry, accessories, and shoes.
+(b) Includes skin and bath care, cosmetics, hair care, oral care, deodorant, and shaving products.
+(c) Includes dry and perishable grocery, including snacks, candy, beverages, deli, bakery, meat, produce, and food service (primarily Starbucks) in our stores.
+(d) Includes electronics, including video games and consoles, toys, sporting goods, entertainment, and luggage.
+(e) Includes bed and bath, home d cor, school/office supplies, storage, small appliances, kitchenware, greeting cards, party supplies, furniture, lighting, home improvement, and seasonal merchandise.
+(f) Includes household cleaning, paper products, over-the-counter healthcare, vitamins and supplements, baby gear, and pet supplies.
+Merchandise sales We record almost all retail store revenues at the point of sale. Digitally originated sales may include shipping revenue and are recorded upon delivery to the guest or upon guest pickup at the store. Merchandise sales do not include sales tax because we are a pass-through conduit for collecting and remitting sales taxes. Generally, guests may return national brand merchandise within 90 days of purchase and owned and exclusive brand merchandise within one year of purchase. Sales are recognized net of expected returns, which we estimate using historical return patterns and our expectation of future returns. As of February 1, 2025, and February 3, 2024, the liability for estimated returns was $ 172 million and $ 170 million, respectively.
+We routinely enter into arrangements with vendors whereby we do not purchase or pay for merchandise until the merchandise is ultimately sold to a guest. Under the vast majority of these arrangements, which represent less than 5 percent of consolidated sales, we record revenue and related costs gross. We concluded that we are the principal in these transactions for a number of reasons, most notably because we 1) control the overall economics of the transactions, including setting the sales price and realizing the majority of cash flows from the sale, 2) control the relationship with the customer, and 3) are responsible for fulfilling the promise to provide goods to the customer. Merchandise received under these arrangements is not included in Inventory because the purchase and sale of this inventory are virtually simultaneous.
+Revenue from Target gift card sales is recognized upon gift card redemption, which is typically within one year of issuance. Our gift cards do not expire. Based on historical redemption rates, a small and relatively stable percentage of gift cards will never be redeemed, referred to as "breakage." Estimated breakage revenue is recognized over time in proportion to actual gift card redemptions.
+TARGET CORPORATION
+2024 Form 10-K 48
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+Gift Card Liability Activity
+(millions)
+February 3, 2024 Gift Cards
+Issued During
+Current Period
+But Not
+Redeemed (b)
+Revenue
+Recognized
+From
+Beginning
+Liability February 1, 2025
+Gift card liability (a)
+$ 1,162 $ 878 $ ( 831 ) $ 1,209
+(a) Included in Accrued and Other Current Liabilities.
+(b) Net of estimated breakage.
+Guests receive a 5 percent discount on nearly all purchases and receive free shipping at Target.com when they use their Target Debit Card, Target Credit Card, Target MasterCard or Target Circle Card Reloadable Account (collectively, Target Circle Cards).
+Target Circle program members earn Target Circle Rewards on various transactions. As of February 1, 2025, and February 3, 2024, deferred revenue of $ 19 million and $ 117 million, respectively, related to our Target Circle program was included in Accrued and Other Current Liabilities.
+Advertising revenue Primarily represents revenue related to advertising services provided via our Roundel digital advertising business offering. Roundel services are classified as either Net Sales or as a reduction of Cost of Sales or Selling, General, and Administrative (SG&A) Expenses, depending on the nature of the advertising arrangement. Notes 3 and 5 provide additional information about items included in Cost of Sales and SG&A Expenses.
+Credit card profit sharing We receive payments under a credit card program agreement with TD Bank Group (TD). Under the agreement, we receive a percentage of the profits generated by the Target Circle credit card receivables in exchange for performing account servicing and primary marketing functions. TD underwrites, funds, and owns Target Circle credit card receivables, controls risk management policies, and oversees regulatory compliance.
+Other Includes commissions earned on third-party sales through our Target Plus third-party digital marketplace, Shipt membership and service revenues, rental income, Target Circle 360 membership revenue, and other miscellaneous revenues.
+3. Cost of Sales and Selling, General, and Administrative Expenses
+The following table illustrates the primary items classified in each major expense category:
+Cost of Sales Selling, General, and Administrative Expenses
+Merchandising cost of sales, including
+Merchandise costs
+Payment term cash discounts
+Import costs
+Freight expenses associated with moving
+merchandise from our vendors to and between our
+distribution centers and our retail stores
+Vendor income that is not reimbursement of
+specific, incremental, and identifiable costs
+Markdowns
+Inventory shrink
+Supply chain and digital fulfillment costs, including
+Compensation and benefits costs associated with
+operating our supply chain facilities
+Outbound shipping expenses associated with sales to
+our guests
+Compensation and benefit costs associated with
+shipment of merchandise from stores
+Depreciation associated with supply chain facilities
+Compensation and benefit costs for stores and
+headquarters, except ship from store costs classified
+as cost of sales
+Occupancy and operating costs of retail and
+headquarters facilities
+Advertising, offset by vendor income that is a
+reimbursement of specific, incremental, and
+identifiable costs
+Pre-opening and exit costs of stores and other facilities
+Credit cards servicing expenses
+Costs associated with accepting third-party bank issued
+payment cards
+Litigation and defense costs and related insurance
+recoveries
+Other administrative costs
+Note: The classification of these expenses varies across the retail industry.
+TARGET CORPORATION
+2024 Form 10-K 49
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+In 2024, we reclassified certain expenses related to our advertising and third-party digital marketplace business offerings to conform to the current year presentation. The reclassifications increased Cost of Sales by $ 92 million and $ 77 million for 2023 and 2022, respectively, with equal and offsetting decreases to SG&A Expenses. These reclassifications had no impact on Net Sales, Operating Income, Net Earnings, or Earnings Per Share.
+4. Consideration Received from Vendors
+We receive consideration for a variety of vendor-sponsored programs—such as volume rebates, promotions, certain advertising activities, markdown allowances, and for our compliance programs—referred to as "vendor income." Additionally, under our compliance programs, vendors are charged for merchandise shipments that do not meet our requirements (violations), such as late or incomplete shipments. Vendor income is recorded as a reduction of Cost of Sales except in arrangements where the payment is a reimbursement of specific, incremental, and identifiable costs and recorded as an offset to those costs within SG&A Expenses.
+We establish a receivable for vendor income that is earned but not yet received. Based on historical trending and data, this receivable is computed by forecasting vendor income collections and estimating the amount earned. The majority of year-end vendor income receivables are collected within the following fiscal quarter, and we do not believe there is a reasonable likelihood that the assumptions used in our estimate will change significantly. Note 9 provides additional information.
+5 . Advertising Costs
+Advertising costs consist primarily of digital advertisements and media broadcast. Digital advertising costs are generally expensed as incurred when the consumer engages with the advertisement through clicks or views, while media broadcast costs are generally expensed at first showing or distribution of the advertisement. Advertising costs, net of vendor reimbursements, are recorded in SG&A Expenses and were $ 1.5 billion in 2024, $ 1.4 billion in 2023, and $ 1.5 billion in 2022.
+6. Fair Value Measurements
+Fair value measurements are reported in one of three levels based on the lowest level of significant input used: Level 1 (unadjusted quoted prices in active markets); Level 2 (observable market inputs, other than quoted prices included in Level 1); and Level 3 (unobservable inputs that cannot be corroborated by observable market data).
+Financial Instruments Measured on a Recurring Basis
+Fair Value as of
+(millions) Classification Measurement Level February 1, 2025 February 3, 2024
+Assets
+Short-term investments (a)
+Cash and Cash Equivalents Level 1 $ 3,893 $ 2,897
+Prepaid forward contracts (b)
+Other Current Assets Level 1 23 25
+Liabilities
+Interest rate swaps (c)
+Other Current Liabilities Level 2 — 3
+Interest rate swaps (c)
+Other Noncurrent Liabilities Level 2 125 123
+(a) Carrying value approximates fair value because maturities are less than three months.
+(b) Initially valued at transaction price. Subsequently valued by reference to the market price of Target common stock.
+(c) Valuations are based on observable inputs to the valuation model (e.g., interest rates and credit spreads). See Note 16 for additional information on interest rate swaps.
+TARGET CORPORATION
+2024 Form 10-K 50
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+Significant Financial Instruments Not Measured at Fair Value (a)
+As of February 1, 2025 As of February 3, 2024
+(millions) Carrying
+Amount Fair
+Value Carrying
+Amount Fair
+Value
+Long-term debt, including current portion (b)
+$ 13,904 $ 12,953 $ 14,151 $ 13,467
+(a) The carrying amounts of certain other current assets, commercial paper, accounts payable, and certain accrued and other current liabilities approximate fair value due to their short-term nature.
+(b) The fair value of debt is generally measured using a discounted cash flow analysis based on current market interest rates for the same or similar types of financial instruments and would be classified as Level 2. These amounts exclude commercial paper, unamortized swap valuation adjustments, and lease liabilities.
+7. Cash and Cash Equivalents
+Cash equivalents include highly liquid investments with an original maturity of three months or less from the time of purchase. Cash equivalents also include amounts due from third-party financial institutions for credit and debit card transactions. These receivables typically settle in five days or less.
+Cash and Cash Equivalents
+(millions)
+February 1, 2025 February 3, 2024
+Cash $ 276 $ 288
+Receivables from third-party financial institutions for credit and debit card transactions
+593 620
+Short-term investments 3,893 2,897
+Cash and Cash Equivalents (a)
+$ 4,762 $ 3,805
+(a) We have access to these funds without any significant restrictions, taxes, or penalties.
+As of February 1, 2025, and February 3, 2024, we included book overdrafts of $ 157 million and $ 173 million, respectively, in Accounts Payable and $ 8 million and $ 10 million, respectively, in Accrued and Other Current Liabilities.
+8. Inventory
+The vast majority of our inventory is accounted for under the retail inventory accounting method (RIM) using the last-in, first-out (LIFO) method. Inventory is stated at the lower of LIFO cost or market. Inventory cost includes the amount we pay to our suppliers to acquire inventory, freight costs incurred to deliver product to our distribution centers and stores, and import costs, reduced by vendor income and cash discounts. Supply chain operating costs, including compensation and benefits, are expensed in the period incurred. Inventory is also reduced for estimated losses related to shrink and markdowns. The LIFO provision is calculated based on inventory levels, markup rates, and internally measured retail price indices, and was $ 183 million and $ 153 million as of February 1, 2025, and February 3, 2024, respectively.
+Under RIM, inventory cost and the resulting gross margins are calculated by applying a cost-to-retail ratio to the inventory retail value. RIM is an averaging method that has been widely used in the retail industry due to its practicality. The use of RIM will result in inventory being valued at the lower of cost or market because permanent markdowns are taken as a reduction of the retail value of inventory.
+TARGET CORPORATION
+2024 Form 10-K 51
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+9. Other Current Assets
+Other Current Assets
+(millions)
+February 1, 2025 February 3, 2024
+Accounts and other receivables $ 998 $ 891
+Vendor income receivable 543 513
+Prepaid expenses 226 201
+Other 185 202
+Other Current Assets $ 1,952 $ 1,807
+10. Property and Equipment
+Property and equipment, including assets acquired under finance leases, is depreciated using the straight-line method over estimated useful lives or lease terms if shorter. We amortize leasehold improvements purchased after the beginning of the initial lease term over the shorter of the assets' useful lives or a term that includes the remaining initial lease term, plus any renewals that are reasonably certain at the date the leasehold improvements are acquired. Total depreciation expense, including depreciation expense included in Cost of Sales, was $ 3.0 billion, $ 2.8 billion, and $ 2.7 billion for 2024, 2023, and 2022, respectively. For income tax purposes, accelerated depreciation methods are generally used. Repair and maintenance costs are expensed as incurred. Facility pre-opening costs, including supplies and payroll, are expensed as incurred.
+Estimated Useful Lives Life (Years)
+Buildings and improvements 8 - 39
+Fixtures and equipment 2 - 15
+Computer hardware and software 2 - 7
+We review long-lived assets for impairment when performance expectations, events, or changes in circumstances—such as a decision to relocate or close a store, office, or distribution center, discontinue a project, or make significant software changes—indicate that the asset's carrying value may not be recoverable. We recognized impairment losses of $ 68 million, $ 102 million, and $ 66 million during 2024, 2023, and 2022, respectively. For asset groups classified as held for sale, measurement of an impairment loss is based on the excess of the carrying amount of the asset group over its fair value. We estimate fair value by obtaining market appraisals, obtaining valuations from third-party brokers, or using other valuation techniques. Impairments are recorded in SG&A Expenses.
+11. Other Noncurrent Assets
+Other Noncurrent Assets
+(millions)
+February 1, 2025 February 3, 2024
+Goodwill (a)
+$ 631 $ 631
+Company-owned life insurance investments, net of loans (b)
+540 483
+Pension asset
+121 57
+Other 238 229
+Other Noncurrent Assets $ 1,530 $ 1,400
+(a) No impairments were recorded in 2024, 2023, or 2022 as a result of the annual goodwill impairment tests performed.
+(b) Note 22 provides more information on company-owned life insurance investments.
+TARGET CORPORATION
+2024 Form 10-K 52
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+12. Supplier Finance Programs
+We have arrangements with several financial institutions to act as our paying agents to certain vendors. The arrangements also permit the financial institutions to provide vendors with an option, at our vendors' sole discretion, to sell their receivables from Target to the financial institutions. A vendor's election to receive early payment at a discounted amount from the financial institutions does not change the amount that we must remit to the financial institutions or our payment date, which is up to 120 days from the invoice date.
+We do not pay any fees or pledge any security to these financial institutions under these arrangements. The arrangements can be terminated by either party with notice ranging up to 120 days.
+Our outstanding vendor obligations eligible for early payment, which are included within Accounts Payable on our Consolidated Statements of Financial Position, do not represent actual receivables sold by our vendors to the financial institutions, which have historically been lower.
+Confirmed Obligations Outstanding
+(millions)
+February 3, 2024 Invoices Confirmed During the Year
+Confirmed Invoices Paid During the Year
+February 1, 2025
+Vendor obligations eligible for early payment
+$ 3,398 $ 13,806 $ ( 13,538 ) $ 3,666
+13. Accrued and Other Current Liabilities
+Accrued and Other Current Liabilities
+(millions)
+February 1, 2025 February 3, 2024
+Wages and benefits $ 1,597 $ 1,535
+Gift card liability, net of estimated breakage
+1,209 1,162
+Real estate, sales, and other taxes payable
+708 827
+Dividends payable 510 508
+Current portion of operating lease liabilities 353 329
+Income tax payable 334 113
+Workers' compensation and general liability (a)
+211 192
+Interest payable 126 122
+Other 1,062 1,302
+Accrued and Other Current Liabilities $ 6,110 $ 6,090
+(a) We retain a substantial portion of the risk related to general liability and workers' compensation claims. We estimate our ultimate cost based on analysis of historical data and actuarial estimates. General liability and workers' compensation liabilities are recorded at our estimate of their net present value. Note 19 provides the noncurrent balance of these liabilities.
+TARGET CORPORATION
+2024 Form 10-K 53
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+14. Commitments and Contingencies
+Contingencies
+We are exposed to claims and litigation arising in the ordinary course of business and use various methods to resolve these matters in a manner that we believe serves the best interest of our shareholders and other constituents. When a loss is probable, we record an accrual based on the reasonably estimable loss or range of loss. When no point of loss is more likely than another, we record the lowest amount in the estimated range of loss and, if material, disclose the estimated range of loss. We do not record liabilities for reasonably possible loss contingencies, but do disclose a range of reasonably possible losses if they are material and we are able to estimate such a range. If we cannot provide a range of reasonably possible losses, we explain the factors that prevent us from determining such a range. Historically, adjustments to our estimates have not been material. We believe the recorded reserves in our consolidated financial statements are adequate in light of the probable and estimable liabilities. We do not believe that any of these identified claims or litigation will be material to our results of operations, cash flows, or financial condition.
+Commitments
+Purchase obligations, which include all legally binding contracts such as merchandise royalties, equipment purchases, marketing-related contracts, software acquisition/license commitments, firm minimum commitments for inventory purchases, and service contracts, were $ 1.2 billion as of February 1, 2025. These purchase obligations are primarily due within three years and recorded as liabilities when goods are received or services are rendered. Real estate obligations, which include legally binding minimum lease payments for leases signed but not yet commenced, and commitments for the purchase, construction, or remodeling of real estate and facilities, were $ 1.5 billion as of February 1, 2025. These real estate obligations are primarily due within one year , a portion of which are recorded as liabilities.
+We issue inventory purchase orders in the ordinary course of business, which represent authorizations to purchase that are cancellable by their terms. We do not consider purchase orders to be firm inventory commitments. If we choose to cancel a purchase order, we may be obligated to reimburse the vendor for unrecoverable outlays incurred prior to cancellation.
+We also issue letters of credit and surety bonds in the ordinary course of business. Trade letters of credit totaled $ 1.5 billion as of February 1, 2025, a portion of which are reflected in Accounts Payable. Standby letters of credit and surety bonds, primarily related to insurance and regulatory requirements, totaled $ 509 million as of February 1, 2025.
+TARGET CORPORATION
+2024 Form 10-K 54
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+15. Commercial Paper and Long-Term Debt
+Debt Maturities
+(dollars in millions) Weighted-Average Interest Rate at February 1, 2025
+February 1, 2025 February 3, 2024
+Due 2024 — % $ — $ 1,000
+Due 2025-2029 2.7 4,671 4,666
+Due 2030-2034 4.1 3,965 3,221
+Due 2035-2039 6.8 938 937
+Due 2040-2044 4.0 1,089 1,088
+Due 2045-2049 3.8 1,120 1,119
+Due 2050-2054 3.9 2,121 2,120
+Total notes and debentures 13,904 14,151
+Swap valuation adjustments ( 125 ) ( 126 )
+Finance lease liabilities 2,161 2,013
+Less: Amounts due within one year ( 1,636 ) ( 1,116 )
+Long-term debt and other borrowings $ 14,304 $ 14,922
+Required Principal Payments
+(millions)
+2025 2026 2027 2028 2029 Thereafter
+Total required principal payments $ 1,500 $ 2,000 $ 97 $ 81 $ 1,000 $ 9,324
+In September 2024, we issued $ 750 million of unsecured debt with a fixed rate of 4.5 percent that matures in September 2034.
+We obtain short-term financing from time to time under our commercial paper program. There was no commercial paper outstanding at any time during the year ended February 1, 2025, or as of February 3, 2024. During the year ended February 3, 2024, the maximum amount outstanding was $ 90 million, and the average daily amount outstanding was $ 1 million, at a weighted average annual interest rate of 4.8 percent.
+In October 2024, we obtained a new committed $ 1.0 billion 364 -day unsecured revolving credit facility that will expire in October 2025 and terminated our prior 364 -day facility. We also have a committed $ 3.0 billion unsecured revolving credit facility that will expire in October 2028. No balances were outstanding under our credit facilities at any time during 2024 or 2023.
+Substantially all of our outstanding borrowings are senior, unsecured obligations. Most of our long-term debt obligations contain covenants related to secured debt levels. In addition to a secured debt level covenant, our credit facilities also contain a debt leverage covenant. We are, and expect to remain, in compliance with these covenants, which have no practical effect on our ability to pay dividends.
+16. Derivative Financial Instruments
+Our derivative instruments consist of interest rate swaps used to mitigate interest rate risk. As a result, we have counterparty credit exposure to large global financial institutions, which we monitor on an ongoing basis. Note 6 provides the fair value and classification of these instruments.
+Under our swap agreements, we pay a floating rate equal to the daily Secured Overnight Financing Rate (SOFR) compounded over six months and receive a weighted average fixed rate of 2.8 percent. The agreements have a weighted average remaining maturity of 4.5 years. As of February 1, 2025, and February 3, 2024, interest rate swaps with notional amounts totaling $ 2.20 billion and $ 2.45 billion were designated as fair value hedges, and all were considered to be perfectly effective under the shortcut method during 2024 and 2023.
+TARGET CORPORATION
+2024 Form 10-K 55
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+Effect of Hedges on Debt
+(millions)
+February 1, 2025 February 3, 2024
+Long-term debt and other borrowings
+Carrying amount of hedged debt $ 2,069 $ 2,316
+Cumulative hedging adjustments, included in carrying amount ( 125 ) ( 126 )
+Effect of Hedges on Net Interest Expense
+(millions)
+2024 2023 2022
+Gain (loss) on fair value hedges recognized in Net Interest Expense
+Interest rate swaps designated as fair value hedges
+$ 1 $ ( 52 ) $ ( 151 )
+Hedged debt ( 1 ) 52 151
+Gain on cash flow hedges recognized in Net Interest Expense 23 24 4
+Total $ 23 $ 24 $ 4
+17. Leases
+We lease certain retail stores, supply chain facilities, office space, land, and equipment. Leases with an initial term of 12 months or less are not recorded on the Consolidated Statements of Financial Position; we recognize lease expense for these leases on a straight-line basis over the lease term. We combine lease and nonlease components for new and reassessed leases.
+Most leases include one or more options to renew, with renewal terms that can extend the lease term from one to 50 years or more. The exercise of lease renewal options is at our sole discretion. Certain leases also include options to purchase the leased property. The depreciable life of leased assets and leasehold improvements are limited by the expected lease term, unless there is a transfer of title or purchase option reasonably certain of exercise. We use our incremental borrowing rate based on the information available at the commencement date in determining the present value of lease payments.
+Certain of our lease agreements require reimbursement of real estate taxes, common area maintenance, and insurance, as well as rental payments based on a percentage of retail sales over contractual levels, and others include rental payments adjusted periodically for inflation. Our lease agreements do not contain any material residual value guarantees or material restrictive covenants.
+We rent or sublease certain real estate to third parties. Our lease and sublease portfolio consists mainly of operating leases with CVS Pharmacy Inc. (CVS) for space within our stores.
+TARGET CORPORATION
+2024 Form 10-K 56
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+Leases
+(millions)
+Classification February 1, 2025 February 3, 2024
+Assets
+Operating Operating Lease Assets $ 3,763 $ 3,362
+Finance Property and Equipment, Net (a)
+1,557 1,470
+Total leased assets $ 5,320 $ 4,832
+Liabilities
+Current
+Operating
+Accrued and Other Current Liabilities $ 353 $ 329
+Finance
+Current Portion of Long-term Debt and Other Borrowings
+136 119
+Noncurrent
+Operating
+Noncurrent Operating Lease Liabilities 3,582 3,279
+Finance
+Long-term Debt and Other Borrowings 2,025 1,894
+Total lease liabilities $ 6,096 $ 5,621
+(a) Finance lease assets are recorded net of accumulated amortization of $ 857 million and $ 743 million as of February 1, 2025, and February 3, 2024, respectively.
+Lease Cost
+(millions)
+Classification 2024 2023 2022
+Operating lease cost (a)
+SG&A Expenses (b)
+$ 641 $ 550 $ 467
+Finance lease cost
+Amortization of leased assets
+Depreciation and Amortization (b)
+146 136 133
+Interest on lease liabilities
+Net Interest Expense 77 71 68
+Sublease income (c)
+Net Sales
+( 15 ) ( 20 ) ( 19 )
+Net lease cost $ 849 $ 737 $ 649
+(a) 2024, 2023, and 2022 include $ 132 million, $ 115 million, and $ 101 million, respectively, of short-term and variable lease costs.
+(b) Supply chain-related amounts are included in Cost of Sales.
+(c) Sublease income excludes rental income from owned properties of $ 48 million in 2024, and $ 49 million for each of 2023 and 2022, which is also included in Net Sales.
+TARGET CORPORATION
+2024 Form 10-K 57
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+Maturity of Lease Liabilities
+Operating
+Finance
+(millions)
+Leases (a)
+Leases (b)
+Total
+2025 $ 510 $ 205 $ 715
+2026 507 203 710
+2027 497 204 701
+2028 469 206 675
+2029 430 204 634
+Thereafter 2,800 1,824 4,624
+Total lease payments $ 5,213 $ 2,846 $ 8,059
+Less: Interest 1,278 685
+Present value of lease liabilities
+$ 3,935 $ 2,161
+(a) Operating lease payments include $ 777 million related to options to extend lease terms that are reasonably certain of being exercised and exclude $ 186 million of legally binding minimum lease payments for leases signed but not yet commenced.
+(b) Finance lease payments include $ 245 million related to options to extend lease terms that are reasonably certain of being exercised and exclude $ 128 million of legally binding minimum lease payments for leases signed but not yet commenced.
+Lease Term and Discount Rate February 1, 2025 February 3, 2024
+Weighted average remaining lease term (years)
+Operating leases
+11.8 12.0
+Finance leases
+13.9 14.6
+Weighted average discount rate
+Operating leases
+4.51 % 4.22 %
+Finance leases
+3.88 % 3.69 %
+Other Information
+(millions)
+2024 2023 2022
+Cash paid for amounts included in the measurement of lease liabilities
+Operating cash flows from operating leases
+$ 490 $ 479 $ 364
+Operating cash flows from finance leases
+76 70 63
+Financing cash flows from finance leases
+139 147 100
+TARGET CORPORATION
+2024 Form 10-K 58
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+18. Income Taxes
+Earnings before income taxes were $ 5.3 billion, $ 5.3 billion, and $ 3.4 billion during 2024, 2023, and 2022, respectively, including $ 1.1 billion, $ 1.2 billion, and $ 1.3 billion earned by our foreign entities subject to tax outside of the U.S.
+Tax Rate Reconciliation 2024 2023 2022
+Federal statutory rate 21.0 % 21.0 % 21.0 %
+State income taxes, net of the federal tax benefit 3.7 3.8 3.0
+International ( 1.1 ) ( 1.3 ) ( 2.1 )
+Excess tax benefit related to share-based payments ( 0.1 ) ( 0.3 ) ( 1.6 )
+Federal tax credits ( 0.8 ) ( 0.8 ) ( 1.5 )
+Other ( 0.5 ) ( 0.5 ) ( 0.1 )
+Effective tax rate 22.2 % 21.9 % 18.7 %
+Provision for Income Taxes
+(millions)
+2024 2023 2022
+Current:
+Federal $ 1,013 $ 556 $ ( 84 )
+State 236 208 33
+International 101 97 107
+Total current 1,350 861 56
+Deferred:
+Federal ( 184 ) 256 501
+State 2 43 82
+International 2 ( 1 ) ( 1 )
+Total deferred ( 180 ) 298 582
+Total provision $ 1,170 $ 1,159 $ 638
+TARGET CORPORATION
+2024 Form 10-K 59
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+Net Deferred Tax Asset / (Liability)
+(millions)
+February 1, 2025 February 3, 2024
+Gross deferred tax assets:
+Accrued and deferred compensation $ 423 $ 392
+Accruals and reserves not currently deductible 260 256
+Self-insured benefits 207 180
+Deferred occupancy income 109 118
+Lease liabilities 1,600 1,468
+Other 50 92
+Total gross deferred tax assets 2,649 2,506
+Gross deferred tax liabilities:
+Property and equipment ( 2,830 ) ( 3,015 )
+Leased assets ( 1,425 ) ( 1,276 )
+Inventory ( 484 ) ( 500 )
+Other ( 203 ) ( 187 )
+Total gross deferred tax liabilities ( 4,942 ) ( 4,978 )
+Total net deferred tax liability (a)
+$ ( 2,293 ) $ ( 2,472 )
+(a) $ 10 million and $ 8 million of the balances as of February 1, 2025, and February 3, 2024, respectively, is included in Other Noncurrent Assets.
+We file a U.S. federal income tax return and income tax returns in various states and foreign jurisdictions. The U.S. Internal Revenue Service (IRS) is currently auditing certain aspects of the U.S. federal income tax returns for years 2021 through 2023 and has completed exams for years 2020 and prior. With few exceptions, we are no longer subject to state and local or non-U.S. income tax examinations by tax authorities for years before 2019.
+Reconciliation of Gross Unrecognized Tax Benefits
+(millions)
+2024 2023 2022
+Balance at beginning of period $ 352 $ 233 $ 125
+Additions based on tax positions related to the current year 118 128 115
+Additions for tax positions of prior years 22 8 21
+Reductions for tax positions of prior years ( 36 ) ( 13 ) ( 23 )
+Settlements ( 23 ) ( 4 ) ( 5 )
+Balance at end of period $ 433 $ 352 $ 233
+If we were to prevail on all unrecognized tax benefits recorded, the amount that would benefit the effective tax rate was $ 206 million, $ 161 million, and $ 107 million as of February 1, 2025, February 3, 2024, and January 28, 2023, respectively. In addition, the reversal of accrued interest and penalties would also benefit the effective tax rate. Interest and penalties associated with unrecognized tax benefits are recorded within income tax expense. During 2024, 2023, and 2022, we recorded an expense / (benefit) from accrued interest and penalties of $ 13 million, $ 6 million, and $( 4 ) million, respectively. As of February 1, 2025, February 3, 2024, and January 28, 2023, total accrued interest and penalties were $ 21 million, $ 14 million, and $ 7 million, respectively.
+It is reasonably possible that the amount of the unrecognized tax benefits with respect to our other unrecognized tax positions will increase or decrease during the next twelve months; however, an estimate of the amount or range of the change cannot be made at this time.
+TARGET CORPORATION
+2024 Form 10-K 60
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+19. Other Noncurrent Liabilities
+Other Noncurrent Liabilities
+(millions)
+February 1, 2025 February 3, 2024
+Deferred compensation $ 628 $ 576
+Workers' compensation and general liability 561 458
+Deferred occupancy income (a)
+388 419
+Income and other taxes payable 338 272
+Pension benefits 31 33
+Other 169 181
+Other Noncurrent Liabilities $ 2,115 $ 1,939
+(a) To be amortized evenly through 2038.
+20. Share Repurchase
+We periodically repurchase shares of our common stock under a board-authorized repurchase program through a combination of open market transactions, accelerated share repurchase arrangements, and other privately negotiated transactions with financial institutions.
+Share Repurchase Activity
+(millions, except per share data)
+2024 2023 2022
+Total number of shares purchased 7.2 — 12.5
+Average price paid per share (a)
+$ 141.72 $ — $ 211.57
+Total investment (a)
+$ 1,015 $ — $ 2,646
+(a) Amounts include applicable excise tax and commissions.
+21. Share-Based Compensation
+We maintain a long-term incentive plan for key team members and non-employee members of our Board of Directors. This plan allows us to grant equity-based compensation awards, including stock options, stock appreciation rights, performance share units, restricted stock units, restricted stock awards, or a combination of awards (collectively, share-based awards). The number of unissued common shares reserved for future grants under this plan was 24.1 million as of February 1, 2025.
+Compensation expense associated with share-based awards is recognized on a straight-line basis over the required service period and reflects estimated forfeitures. Share-based compensation expense recognized in SG&A Expenses was $ 307 million, $ 255 million, and $ 224 million, and the related income tax benefit was $ 66 million, $ 56 million, and $ 52 million, in 2024, 2023, and 2022, respectively.
+TARGET CORPORATION
+2024 Form 10-K 61
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+Restricted Stock Units
+We issue restricted stock units and performance-based restricted stock units generally with 3 -year cliff or 4 -year graduated vesting from the grant date (collectively restricted stock units) to certain team members. The final number of shares issued under performance-based restricted stock units is based on our total shareholder return relative to a retail peer group over a 3-year performance period. We also regularly issue restricted stock units to our Board of Directors, which vest quarterly in the year they are granted and are settled in shares of Target common stock upon departure from the Board. The fair value for restricted stock units is calculated based on our stock price on the date of grant, incorporating an analysis of the total shareholder return performance measure where applicable. The weighted average grant date fair value of restricted stock units was $ 165.21 , $ 160.91 , and $ 208.80 in 2024, 2023, and 2022, respectively.
+Restricted Stock Unit Activity Total Nonvested Units
+Restricted
+Stock (a)
+Grant Date
+Fair Value (b)
+February 3, 2024 3,796 $ 171.61
+Granted 2,477 165.21
+Forfeited ( 377 ) 171.47
+Vested ( 1,347 ) 167.39
+February 1, 2025 4,549 $ 169.59
+(a) Represents the number of shares of restricted stock units, in thousands. For performance-based restricted stock units, assumes attainment of maximum payout rates as set forth in the performance criteria. Applying actual or expected payout rates, the number of outstanding restricted stock units and performance-based restricted stock units as of February 1, 2025, was 4.47 million.
+(b) Weighted average per unit .
+The expense recognized each period is partially dependent upon our estimate of the number of shares that will ultimately be issued. As of February 1, 2025, there was $ 429 million of total unrecognized compensation expense related to restricted stock units, which is expected to be recognized over a weighted average period of 2.5 years. The fair value of restricted stock units vested and converted to shares of Target common stock was $ 225 million, $ 213 million, and $ 321 million in 2024, 2023, and 2022, respectively.
+Performance Share Units
+We issue performance share units to certain team members that represent shares potentially issuable in the future. Issuance is based upon our performance, generally relative to a retail peer group, over a 3-year or 4-year performance period on certain measures primarily including sales growth, after-tax return on invested capital, and earnings per share growth. The fair value of performance share units is calculated based on our stock price on the date of grant. The weighted average grant date fair value of performance share units was $ 164.92 , $ 162.54 , and $ 216.63 in 2024, 2023, and 2022, respectively.
+Performance Share Unit Activity Total Nonvested Units
+Performance
+Share Units (a)
+Grant Date
+Fair Value (b)
+February 3, 2024 1,494 $ 182.98
+Granted 753 164.92
+Forfeited ( 146 ) 175.94
+Vested ( 271 ) 179.31
+February 1, 2025 1,830 $ 177.15
+(a) Represents the number of performance share units, in thousands. Assumes attainment of maximum payout rates as set forth in the performance criteria. Applying actual or expected payout rates, the number of outstanding performance share units as of February 1, 2025, was 0.87 million.
+(b) Weighted average per unit.
+TARGET CORPORATION
+2024 Form 10-K 62
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+The expense recognized each period is partially dependent upon our estimate of the number of shares that will ultimately be issued. Future compensation expense for unvested awards could reach a maximum of $ 190 million assuming payout of all unvested awards. The unrecognized expense is expected to be recognized over a weighted average period of 1.3 years. The fair value of performance share units vested and converted to shares of Target common stock was $ 46 million, $ 127 million, and $ 178 million in 2024, 2023, and 2022, respectively.
+22. Defined Contribution Plans
+Team members who meet eligibility requirements can participate in a defined contribution 401(k) plan by investing up to 80 percent of their eligible earnings, as limited by statute or regulation. We match 100 percent of each team member's contribution up to 5 percent of eligible earnings. Company match contributions are made to funds designated by the participant, none of which are based on Target common stock.
+In addition, we maintain an unfunded, nonqualified deferred compensation plan for a broad management group whose participation in our 401(k) plan is limited by statute or regulation. These team members choose from a menu of crediting rate alternatives that are generally the same as the investment choices in our 401(k) plan, but also includes a fund based on Target common stock. We credit an additional 2 percent per year to the accounts of all active participants, excluding executive officers, in part to recognize the risks inherent to their participation in this plan. We also maintain a frozen, unfunded, nonqualified deferred compensation plan covering less than 50 participants. Our total liability under these plans was $ 684 million and $ 627 million as of February 1, 2025, and February 3, 2024, respectively.
+We mitigate our risk of offering the nonqualified plans through investing in company-owned life insurance and prepaid forward contracts that substantially offset our economic exposure to the returns of these plans. These investments are general corporate assets and are marked to market with the related gains and losses recognized in the Consolidated Statements of Operations in the period they occur.
+Plan Expenses
+(millions) 2024 2023 2022
+401(k) plan matching contributions expense $ 380 $ 373 $ 335
+Nonqualified deferred compensation plans
+Benefits expense / (income)
+$ 90 $ 59 $ ( 15 )
+Related investment (income) / expense
+( 62 ) ( 43 ) 40
+Nonqualified plans net expense $ 28 $ 16 $ 25
+23. Pension Plans
+We have a U.S. qualified defined benefit pension plan covering team members who meet eligibility requirements. This plan is closed to new participants. Active participants accrue benefits under a final average pay feature or a cash balance feature. We also have unfunded, nonqualified pension plans for team members with qualified plan compensation restrictions, as well as international plans. Eligibility and the level of benefits under all plans vary depending on each team member's full-time or part-time status, date of hire, age, length of service, and/or compensation.
+Funded Status Qualified Plan Nonqualified and International Plans
+(millions) 2024 2023 2024 2023
+Projected benefit obligations $ 3,225 $ 3,436 $ 64 $ 60
+Fair value of plan assets 3,346 3,493 25 21
+Funded / (underfunded) status
+$ 121 $ 57 $ ( 39 ) $ ( 39 )
+TARGET CORPORATION
+2024 Form 10-K 63
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+Contributions and Estimated Future Benefit Payments
+Our pension obligations can be met over time through a combination of company contributions to these plans and earnings on plan assets. In 2024 and 2023, we made no contributions to our qualified defined benefit pension plan. We are not required to make any contributions to our qualified defined benefit pension plan in 2025. However, depending on investment performance and plan funded status, we may elect to make a contribution.
+Estimated Future Benefit Payments
+(millions)
+Pension Benefits
+2025 $ 266
+2026 197
+2027 237
+2028 244
+2029 251
+2030 - 2034 1,321
+Cost of Plans
+Net Pension Benefits (Income) / Expense
+(millions) Classification 2024 2023 2022
+Service cost benefits earned SG&A Expenses $ 80 $ 79 $ 94
+Interest cost on projected benefit obligation Net Other Income
+166 166 117
+Expected return on assets Net Other Income
+( 279 ) ( 269 ) ( 234 )
+Amortization of losses Net Other Income
+— 1 61
+Prior service cost
+Net Other Income
+8 11 10
+Total $ ( 25 ) $ ( 12 ) $ 48
+Assumptions
+Benefit Obligation Weighted Average Assumptions 2024 2023
+Discount rate 5.68 % 5.20 %
+Average assumed rate of compensation increase 3.00 3.00
+Cash balance plan interest crediting rate 4.64 4.64
+Net Periodic Benefit Expense Weighted Average Assumptions 2024 2023 2022
+Discount rate 5.20 % 4.83 % 3.30 %
+Expected long-term rate of return on plan assets 7.00 6.50 5.60
+Average assumed rate of compensation increase 3.00 3.00 3.00
+Cash balance plan interest crediting rate 4.64 4.64 4.64
+The weighted average assumptions used to measure net periodic benefit expense each year are the rates as of the beginning of the year (i.e., the prior measurement date). Our most recent compound annual rate of return on qualified plan assets was 1.2 percent, 3.9 percent, 6.3 percent, and 5.7 percent for the 5-year , 10-year , 15-year , and 20-year time periods, respectively.
+The market-related value of plan assets is used in calculating the expected return on assets. Historical differences between expected and actual returns are deferred and recognized in the market-related value over a 5-year period from the year in which they occur.
+TARGET CORPORATION
+2024 Form 10-K 64
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+We review the expected long-term rate of return annually and revise it as appropriate. Additionally, we monitor the mix of investments in our portfolio to ensure alignment with our long-term strategy to manage pension cost and reduce volatility in our assets. Our 2024 expected annualized long-term rate of return assumptions were 7.0 percent for domestic equity securities, 7.0 percent for international equity securities, 6.0 percent for long-duration debt securities, 9.0 percent for balanced funds, and 8.0 percent for other investments. These estimates are a judgmental matter in which we consider the composition of our asset portfolio, our historical long-term investment performance, and current market conditions.
+Benefit Obligation
+Change in Projected Benefit Obligation Qualified Plan Nonqualified and International Plans
+(millions) 2024 2023 2024 2023
+Benefit obligation at beginning of period $ 3,436 $ 3,616 $ 60 $ 64
+Service cost 72 76 8 3
+Interest cost 164 164 2 2
+Plan amendments
+8 11 — —
+Actuarial gain (a)
+( 131 ) ( 114 ) ( 2 ) ( 4 )
+Participant contributions 10 4 — —
+Benefits paid ( 334 ) ( 321 ) ( 4 ) ( 5 )
+Benefit obligation at end of period (b)
+$ 3,225 $ 3,436 $ 64 $ 60
+(a) The actuarial gain was primarily driven by changes in the weighted average discount rate.
+(b) Accumulated benefit obligation—the present value of benefits earned to date assuming no future salary growth—is materially consistent with the projected benefit obligation in each period presented.
+TARGET CORPORATION
+2024 Form 10-K 65
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+Plan Assets
+Change in Plan Assets Qualified Plan Nonqualified and International Plans
+(millions) 2024 2023 2024 2023
+Fair value of plan assets at beginning of period
+$ 3,493 $ 3,691 $ 21 $ 17
+Actual return on plan assets 177 119 1 1
+Employer contributions — — 7 8
+Participant contributions 10 4 — —
+Benefits paid ( 334 ) ( 321 ) ( 4 ) ( 5 )
+Fair value of plan assets at end of period
+$ 3,346 $ 3,493 $ 25 $ 21
+Our asset allocation policy is designed to reduce the long-term cost of funding our pension obligations. The plan invests with both passive and active investment managers depending on the investment. The plan also seeks to reduce the risk associated with adverse movements in interest rates by employing an interest rate hedging program, which includes the use of derivative instruments.
+Asset Category Current Targeted Allocation Actual Allocation
+2024 2023
+Domestic equity securities (a)
+14 % 14 % 12 %
+International equity securities 8 8 8
+Debt securities 50 50 52
+Balanced funds
+23 24 24
+Other (b)
+5 4 4
+Total 100 % 100 % 100 %
+(a) Equity securities include our common stock in amounts substantially less than 1 percent of total plan assets in both periods presented.
+(b) Other assets include private equity, high-yield debt, natural resources and timberland funds, derivative instruments, and real estate.
+TARGET CORPORATION
+2024 Form 10-K 66
+FINANCIAL STATEMENTS Table of Contents
+NOTES Index to Financial Statements
+Fair Value Measurements Fair Value as of
+(millions) Measurement Level January 31, 2025 January 31, 2024
+Cash and cash equivalents Level 1 $ 6 $ 5
+Derivatives
+Level 2 — 10
+Government securities (a)
+Level 2 488 551
+Fixed income (b)
+Level 2 1,163 1,195
+1,657 1,761
+Investments valued using NAV per share (c)
+Fixed income 6 6
+Private equity funds 55 64
+Cash and cash equivalents 218 141
+Common collective trusts 539 623
+Balanced funds
+803 825
+Other 

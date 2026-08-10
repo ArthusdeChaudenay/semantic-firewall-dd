@@ -1,0 +1,292 @@
+\begin{thebibliography}{33}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Bowman and Dahl(2021)}]{bowman2021will}
+Samuel~R Bowman and George~E Dahl. 2021.
+\newblock \href {https://doi.org/10.18653/v1/2021.naacl-main.385} {What will it
+  take to fix benchmarking in natural language understanding?}
+\newblock In \emph{Proceedings of the 2021 Conference of the North American
+  Chapter of the Association for Computational Linguistics (NAACL)}, pages
+  4843--4855.
+
+\bibitem[{Chen et~al.(2023)Chen, Zhang, Nguyen, Zan, Lin, Lou, and
+  Chen}]{chen2023codet}
+Bei Chen, Fengji Zhang, Anh Nguyen, Daoguang Zan, Zeqi Lin, Jian-Guang Lou, and
+  Weizhu Chen. 2023.
+\newblock \href {https://doi.org/10.48550/arXiv.2207.10397} {Codet: Code
+  generation with generated tests}.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}.
+
+\bibitem[{Chen et~al.(2021)Chen, Chen, Smiley, Shah, Borova, Langdon, Moussa,
+  Beane, Huang, Routledge, and Wang}]{chen2021finqa}
+Zhiyu Chen, Wenhu Chen, Charese Smiley, Sameena Shah, Iana Borova, Dylan
+  Langdon, Reema Moussa, Matt Beane, Ting-Hao Huang, Bryan Routledge, and
+  William~Yang Wang. 2021.
+\newblock \href {https://doi.org/10.18653/v1/2021.emnlp-main.300} {Finqa: A
+  dataset of numerical reasoning over financial data}.
+\newblock In \emph{Proceedings of the 2021 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, pages 3697--3711.
+
+\bibitem[{Chen et~al.(2022)Chen, Li, Smiley, Ma, Shah, and
+  Wang}]{chen2022convfinqa}
+Zhiyu Chen, Shiyang Li, Charese Smiley, Zhiqiang Ma, Sameena Shah, and
+  William~Yang Wang. 2022.
+\newblock \href {https://doi.org/10.18653/v1/2022.emnlp-main.421} {Convfinqa:
+  Exploring the chain of numerical reasoning in conversational finance question
+  answering}.
+\newblock In \emph{Proceedings of the 2022 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}.
+
+\bibitem[{Dhuliawala et~al.(2024)Dhuliawala, Komeili, Xu, Raileanu, Li,
+  Celikyilmaz, and Weston}]{dhuliawala2023chain}
+Shehzaad Dhuliawala, Mojtaba Komeili, Jing Xu, Roberta Raileanu, Xian Li, Asli
+  Celikyilmaz, and Jason Weston. 2024.
+\newblock \href {https://doi.org/10.18653/v1/2024.findings-acl.212}
+  {Chain-of-verification reduces hallucination in large language models}.
+\newblock In \emph{Findings of the Association for Computational Linguistics
+  (ACL)}.
+
+\bibitem[{Dodge et~al.(2019)Dodge, Gururangan, Card, Schwartz, and
+  Smith}]{dodge2019show}
+Jesse Dodge, Suchin Gururangan, Dallas Card, Roy Schwartz, and Noah~A Smith.
+  2019.
+\newblock \href {https://doi.org/10.18653/v1/d19-1224} {Show your work:
+  Improved reporting of experimental results}.
+\newblock In \emph{Proceedings of the 2019 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, pages 2185--2194.
+
+\bibitem[{Gururangan et~al.(2018)Gururangan, Swayamdipta, Levy, Schwartz,
+  Bowman, and Smith}]{gururangan2018annotation}
+Suchin Gururangan, Swabha Swayamdipta, Omer Levy, Roy Schwartz, Samuel Bowman,
+  and Noah~A Smith. 2018.
+\newblock \href {https://doi.org/10.18653/v1/n18-2017} {Annotation artifacts in
+  natural language inference data}.
+\newblock In \emph{Proceedings of the 2018 Conference of the North American
+  Chapter of the Association for Computational Linguistics (NAACL)}, pages
+  107--112.
+
+\bibitem[{Herzig et~al.(2020)Herzig, Nowak, M{\"u}ller, Piccinno, and
+  Eisenschlos}]{herzig2020tapas}
+Jonathan Herzig, Pawel~Krzysztof Nowak, Thomas M{\"u}ller, Francesco Piccinno,
+  and Julian Eisenschlos. 2020.
+\newblock \href {https://doi.org/10.18653/v1/2020.acl-main.398} {Tapas: Weakly
+  supervised table parsing via pre-training}.
+\newblock In \emph{Proceedings of the 58th Annual Meeting of the Association
+  for Computational Linguistics (ACL)}, pages 4320--4333.
+
+\bibitem[{Huang et~al.(2024)Huang, Chen, Mishra, Zheng, Yu, Song, and
+  Zhou}]{huang2024selfcorrect}
+Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu~Steven Zheng, Adams~Wei Yu,
+  Xinying Song, and Denny Zhou. 2024.
+\newblock \href {https://doi.org/10.48550/arXiv.2310.01798} {Large language
+  models cannot self-correct reasoning yet}.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}.
+
+\bibitem[{Islam et~al.(2023)Islam, Kannappan, Kiela, Qian, Scherrer, and
+  Vidgen}]{islam2023financebench}
+Pranab Islam, Anand Kannappan, Douwe Kiela, Rebecca Qian, Nino Scherrer, and
+  Bertie Vidgen. 2023.
+\newblock \href {https://doi.org/10.48550/arXiv.2311.11944} {Financebench: A
+  new benchmark for financial question answering}.
+\newblock In \emph{NeurIPS Workshop on Generative AI for Finance}.
+
+\bibitem[{Ji et~al.(2023)Ji, Lee, Frieske, Yu, Su, Xu, Ishii, Bang, Madotto,
+  and Fung}]{ji2023survey}
+Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii,
+  Ye~Jin Bang, Andrea Madotto, and Pascale Fung. 2023.
+\newblock \href {https://doi.org/10.1145/3571730} {Survey of hallucination in
+  natural language generation}.
+\newblock \emph{ACM Computing Surveys}, 55(12):1--38.
+
+\bibitem[{Kadavath et~al.(2022)Kadavath, Conerly, Askell, Henighan, Drain,
+  Perez, Schiefer, Hatfield-Dodds, DasSarma, Tran-Johnson
+  et~al.}]{kadavath2022know}
+Saurav Kadavath, Tom Conerly, Amanda Askell, Tom Henighan, Dawn Drain, Ethan
+  Perez, Nicholas Schiefer, Zac Hatfield-Dodds, Nova DasSarma, Eli
+  Tran-Johnson, et~al. 2022.
+\newblock \href {https://doi.org/10.48550/arXiv.2207.05221} {Language models
+  (mostly) know what they know}.
+\newblock \emph{arXiv preprint arXiv:2207.05221}.
+
+\bibitem[{Kamoi et~al.(2024)Kamoi, Zhang, Zhang, Han, and
+  Zhang}]{kamoi2024when}
+Ryo Kamoi, Yusen Zhang, Nan Zhang, Jiawei Han, and Rui Zhang. 2024.
+\newblock \href {https://doi.org/10.1162/tacl_a_00713} {When can llms actually
+  correct their own mistakes? a critical survey of self-correction of llms}.
+\newblock \emph{Transactions of the Association for Computational Linguistics},
+  12:1417--1440.
+
+\bibitem[{Kaushik and Lipton(2018)}]{kaushik2018much}
+Divyansh Kaushik and Zachary~C Lipton. 2018.
+\newblock \href {https://doi.org/10.18653/v1/d18-1546} {How much reading does
+  reading comprehension require? a critical investigation of popular
+  benchmarks}.
+\newblock In \emph{Proceedings of the 2018 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, pages 5010--5015.
+
+\bibitem[{Lipton and Steinhardt(2019)}]{lipton2019troubling}
+Zachary~C Lipton and Jacob Steinhardt. 2019.
+\newblock \href {https://doi.org/10.1145/3317287.3328534} {Troubling trends in
+  machine learning scholarship}.
+\newblock \emph{Queue}, 17(1):45--77.
+
+\bibitem[{Loukas et~al.(2022)Loukas, Fergadiotis, Chalkidis, Spyropoulou,
+  Malakasiotis, Androutsopoulos, and Paliouras}]{loukas2022finer}
+Lefteris Loukas, Manos Fergadiotis, Ilias Chalkidis, Eirini Spyropoulou,
+  Prodromos Malakasiotis, Ion Androutsopoulos, and George Paliouras. 2022.
+\newblock \href {https://doi.org/10.18653/v1/2022.acl-long.303} {Finer:
+  Financial numeric entity recognition for xbrl tagging}.
+\newblock In \emph{Proceedings of the 60th Annual Meeting of the Association
+  for Computational Linguistics (ACL)}, pages 4419--4431.
+
+\bibitem[{Manakul et~al.(2023)Manakul, Liusie, and
+  Gales}]{manakul2023selfcheckgpt}
+Potsawee Manakul, Adian Liusie, and Mark Gales. 2023.
+\newblock \href {https://doi.org/10.18653/v1/2023.emnlp-main.557}
+  {Selfcheckgpt: Zero-resource black-box hallucination detection for generative
+  large language models}.
+\newblock In \emph{Proceedings of the 2023 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}.
+
+\bibitem[{Nie et~al.(2025)Nie, Xu, Kong, and Wang}]{10.1145/3768292.3770387}
+Yuqi Nie, Zhen Xu, Weiwei Kong, and Zitao Wang. 2025.
+\newblock \href {https://doi.org/10.1145/3768292.3770387} {Large language model
+  agents for investment management: Foundations, benchmarks, and research
+  frontiers}.
+\newblock In \emph{Proceedings of the ACM International Conference on AI in
+  Finance (ICAIF)}.
+
+\bibitem[{Poesia et~al.(2022)Poesia, Polozov, Le, Tiwari, Soares, Meek, and
+  Gulwani}]{poesia2022synchromesh}
+Gabriel Poesia, Oleksandr Polozov, Vu~Le, Ashish Tiwari, Gustavo Soares,
+  Christopher Meek, and Sumit Gulwani. 2022.
+\newblock \href {https://doi.org/10.48550/arXiv.2201.11227} {Synchromesh:
+  Reliable code generation from pre-trained language models}.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}.
+
+\bibitem[{Poliak et~al.(2018)Poliak, Naradowsky, Haldar, Rudinger, and
+  Van~Durme}]{poliak2018hypothesis}
+Adam Poliak, Jason Naradowsky, Aparajita Haldar, Rachel Rudinger, and Benjamin
+  Van~Durme. 2018.
+\newblock \href {https://doi.org/10.18653/v1/s18-2023} {Hypothesis only
+  baselines in natural language inference}.
+\newblock In \emph{Proceedings of the Seventh Joint Conference on Lexical and
+  Computational Semantics (*SEM)}, pages 180--191.
+
+\bibitem[{Ratner et~al.(2017)Ratner, Bach, Ehrenberg, Fries, Wu, and
+  R{\'e}}]{ratner2017snorkel}
+Alexander Ratner, Stephen~H Bach, Henry Ehrenberg, Jason Fries, Sen Wu, and
+  Christopher R{\'e}. 2017.
+\newblock \href {https://doi.org/10.14778/3157794.3157797} {Snorkel: Rapid
+  training data creation with weak supervision}.
+\newblock \emph{Proceedings of the VLDB Endowment}, 11:269--282.
+
+\bibitem[{Recht et~al.(2019)Recht, Roelofs, Schmidt, and
+  Shankar}]{recht2019imagenet}
+Benjamin Recht, Rebecca Roelofs, Ludwig Schmidt, and Vaishaal Shankar. 2019.
+\newblock \href {https://doi.org/10.48550/arXiv.1902.10811} {Do imagenet
+  classifiers generalize to imagenet?}
+\newblock In \emph{International Conference on Machine Learning (ICML)}.
+
+\bibitem[{Ribeiro et~al.(2020)Ribeiro, Wu, Guestrin, and
+  Singh}]{ribeiro2020beyond}
+Marco~Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, and Sameer Singh. 2020.
+\newblock \href {https://doi.org/10.18653/v1/2020.acl-main.442} {Beyond
+  accuracy: Behavioral testing of nlp models with checklist}.
+\newblock In \emph{Proceedings of the 58th Annual Meeting of the Association
+  for Computational Linguistics (ACL)}, pages 4902--4912.
+
+\bibitem[{Sainz et~al.(2023)Sainz, Campos, Garc{\'i}a-Ferrero, Etxaniz,
+  de~Lacalle, and Agirre}]{sainz2023nlp}
+Oscar Sainz, Jon~Ander Campos, Iker Garc{\'i}a-Ferrero, Julen Etxaniz,
+  Oier~Lopez de~Lacalle, and Eneko Agirre. 2023.
+\newblock \href {https://doi.org/10.18653/v1/2023.findings-emnlp.722} {Nlp
+  evaluation in trouble: On the need to measure llm data contamination for each
+  benchmark}.
+\newblock \emph{Findings of the Association for Computational Linguistics:
+  EMNLP}.
+
+\bibitem[{Sculley et~al.(2015)Sculley, Holt, Golovin, Davydov, Phillips, Ebner,
+  Chaudhary, Young, Crespo, and Dennison}]{sculley2015hidden}
+David Sculley, Gary Holt, Daniel Golovin, Eugene Davydov, Todd Phillips,
+  Dietmar Ebner, Vinay Chaudhary, Michael Young, Jean-Fran{\c{c}}ois Crespo,
+  and Dan Dennison. 2015.
+\newblock Hidden technical debt in machine learning systems.
+\newblock \emph{Advances in Neural Information Processing Systems (NeurIPS)},
+  28.
+\newblock No DOI is registered for this item; publisher record at
+  \url{https://papers.nips.cc/paper_files/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html}.
+
+\bibitem[{Stechly et~al.(2025)Stechly, Valmeekam, and
+  Kambhampati}]{stechly2024selfverification}
+Kaya Stechly, Karthik Valmeekam, and Subbarao Kambhampati. 2025.
+\newblock \href {https://doi.org/10.48550/arXiv.2402.08115} {On the
+  self-verification limitations of large language models on reasoning and
+  planning tasks}.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}.
+
+\bibitem[{Wang et~al.(2023)Wang, Wei, Schuurmans, Le, Chi, Narang, Chowdhery,
+  and Zhou}]{wang2023selfconsistency}
+Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc~V Le, Ed~H Chi, Sharan Narang,
+  Aakanksha Chowdhery, and Denny Zhou. 2023.
+\newblock \href {https://doi.org/10.48550/arXiv.2203.11171} {Self-consistency
+  improves chain of thought reasoning in language models}.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}.
+
+\bibitem[{Willard and Louf(2023)}]{willard2023efficient}
+Brandon~T Willard and R{\'e}mi Louf. 2023.
+\newblock \href {https://doi.org/10.48550/arXiv.2307.09702} {Efficient guided
+  generation for large language models}.
+\newblock \emph{arXiv preprint arXiv:2307.09702}.
+
+\bibitem[{Wu et~al.(2023)Wu, Irsoy, Lu, Dabravolski, Dredze, Gehrmann,
+  Kambadur, Rosenberg, and Mann}]{wu2023bloomberggpt}
+Shijie Wu, Ozan Irsoy, Steven Lu, Vadim Dabravolski, Mark Dredze, Sebastian
+  Gehrmann, Prabhanjan Kambadur, David Rosenberg, and Gideon Mann. 2023.
+\newblock \href {https://doi.org/10.48550/arXiv.2303.17564} {Bloomberggpt: A
+  large language model for finance}.
+\newblock \emph{arXiv preprint arXiv:2303.17564}.
+
+\bibitem[{Xie et~al.(2024)Xie, Han, Chen, Xiang, Zhang, He, Xiao, Li, Dai,
+  Feng, Xu, Kim, Peng, Ananiadou, and Huang}]{xie2024finben}
+Qianqian Xie, Weiguang Han, Zhengyu Chen, Ruoyu Xiang, Xiao Zhang, Yueru He,
+  Mengxi Xiao, Dong Li, Yongfu Dai, Duanyu Feng, Yijing Xu, Haoqiang Kim, Min
+  Peng, Sophia Ananiadou, and Jimin Huang. 2024.
+\newblock \href {https://doi.org/10.52202/079017-3033} {Finben: A holistic
+  financial benchmark for large language models}.
+\newblock In \emph{Advances in Neural Information Processing Systems (NeurIPS),
+  Datasets and Benchmarks Track}.
+
+\bibitem[{Xu et~al.(2020)Xu, Li, Cui, Huang, Wei, and Zhou}]{xu2020layoutlm}
+Yiheng Xu, Minghao Li, Lei Cui, Shaohan Huang, Furu Wei, and Ming Zhou. 2020.
+\newblock \href {https://doi.org/10.1145/3394486.3403172} {Layoutlm:
+  Pre-training of text and layout for document image understanding}.
+\newblock In \emph{Proceedings of the 26th ACM SIGKDD International Conference
+  on Knowledge Discovery and Data Mining (KDD)}, pages 1192--1200.
+
+\bibitem[{Zhao et~al.(2024)Zhao, Long, Liu, Kamoi, Nan, Chen, Liu, Tang, Zhang,
+  and Cohan}]{zhou2023docmath}
+Yilun Zhao, Yitao Long, Hongjun Liu, Ryo Kamoi, Linyong Nan, Lyuhao Chen, Yixin
+  Liu, Xiangru Tang, Rui Zhang, and Arman Cohan. 2024.
+\newblock \href {https://doi.org/10.18653/v1/2024.acl-long.852} {Docmath-eval:
+  Evaluating math reasoning capabilities of llms in understanding financial
+  documents}.
+\newblock In \emph{Proceedings of the 62nd Annual Meeting of the Association
+  for Computational Linguistics (ACL)}.
+
+\bibitem[{Zhu et~al.(2021)Zhu, Lei, Huang, Wang, Zhang, Lv, Feng, and
+  Chua}]{zhu2021tatqa}
+Fengbin Zhu, Wenqiang Lei, Youcheng Huang, Chao Wang, Shuo Zhang, Jiancheng Lv,
+  Fuli Feng, and Tat-Seng Chua. 2021.
+\newblock \href {https://doi.org/10.18653/v1/2021.acl-long.254} {Tat-qa: A
+  question answering benchmark on a hybrid of tabular and textual content in
+  finance}.
+\newblock In \emph{Proceedings of the 59th Annual Meeting of the Association
+  for Computational Linguistics (ACL)}, pages 3277--3287.
+
+\end{thebibliography}

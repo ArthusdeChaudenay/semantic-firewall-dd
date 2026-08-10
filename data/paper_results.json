@@ -1,0 +1,803 @@
+{
+  "config": {
+    "models": [
+      "meta/llama-3.1-8b-instruct",
+      "nvidia/llama-3.3-nemotron-super-49b-v1"
+    ],
+    "rel_tol": 0.01,
+    "sc_k": 5,
+    "max_chars": 60000,
+    "n_filings": 69
+  },
+  "pairing": {
+    "paired": true,
+    "n_paired": 69,
+    "n_full": 104,
+    "sectors": {
+      "Automotive": 3,
+      "Banking": 5,
+      "Consumer": 7,
+      "Energy": 1,
+      "Healthcare": 13,
+      "Industrial": 4,
+      "Payments": 4,
+      "Retail": 8,
+      "Technology": 17,
+      "Telecom": 4,
+      "Transport": 3
+    }
+  },
+  "ladder": {
+    "meta/llama-3.1-8b-instruct": {
+      "B1": {
+        "correct": 198,
+        "scored": 296,
+        "kinds": {
+          "correct": 198,
+          "wrong_value": 73,
+          "missing": 23,
+          "sign": 2
+        },
+        "docs": 69,
+        "accuracy_pct": 66.9
+      },
+      "B2": {
+        "correct": 217,
+        "scored": 296,
+        "kinds": {
+          "correct": 217,
+          "missing": 46,
+          "wrong_value": 29,
+          "scale": 4
+        },
+        "docs": 69,
+        "accuracy_pct": 73.3
+      },
+      "B3": {
+        "correct": 217,
+        "scored": 296,
+        "kinds": {
+          "correct": 217,
+          "missing": 47,
+          "wrong_value": 29,
+          "scale": 3
+        },
+        "docs": 69,
+        "accuracy_pct": 73.3
+      },
+      "B4": {
+        "correct": 236,
+        "scored": 296,
+        "kinds": {
+          "correct": 236,
+          "missing": 10,
+          "wrong_value": 45,
+          "scale": 5
+        },
+        "docs": 69,
+        "accuracy_pct": 79.7
+      },
+      "B5": {
+        "correct": 217,
+        "scored": 296,
+        "kinds": {
+          "correct": 217,
+          "missing": 46,
+          "wrong_value": 29,
+          "scale": 4
+        },
+        "docs": 69,
+        "accuracy_pct": 73.3
+      },
+      "B6": {
+        "correct": 250,
+        "scored": 296,
+        "kinds": {
+          "correct": 250,
+          "wrong_value": 41,
+          "scale": 5
+        },
+        "docs": 69,
+        "accuracy_pct": 84.5
+      }
+    },
+    "nvidia/llama-3.3-nemotron-super-49b-v1": {
+      "B1": {
+        "correct": 198,
+        "scored": 296,
+        "kinds": {
+          "correct": 198,
+          "wrong_value": 73,
+          "missing": 23,
+          "sign": 2
+        },
+        "docs": 69,
+        "accuracy_pct": 66.9
+      },
+      "B2": {
+        "correct": 229,
+        "scored": 296,
+        "kinds": {
+          "correct": 229,
+          "missing": 51,
+          "wrong_value": 16
+        },
+        "docs": 69,
+        "accuracy_pct": 77.4
+      },
+      "B3": {
+        "correct": 0,
+        "scored": 0,
+        "kinds": {},
+        "docs": 0,
+        "accuracy_pct": null
+      },
+      "B4": {
+        "correct": 266,
+        "scored": 296,
+        "kinds": {
+          "correct": 266,
+          "wrong_value": 20,
+          "missing": 10
+        },
+        "docs": 69,
+        "accuracy_pct": 89.9
+      },
+      "B5": {
+        "correct": 229,
+        "scored": 296,
+        "kinds": {
+          "correct": 229,
+          "missing": 51,
+          "wrong_value": 16
+        },
+        "docs": 69,
+        "accuracy_pct": 77.4
+      },
+      "B6": {
+        "correct": 270,
+        "scored": 296,
+        "kinds": {
+          "correct": 270,
+          "wrong_value": 22,
+          "missing": 4
+        },
+        "docs": 69,
+        "accuracy_pct": 91.2
+      }
+    }
+  },
+  "detector": {
+    "meta/llama-3.1-8b-instruct": {
+      "document_level": {
+        "n": 69,
+        "n_positive": 52,
+        "roc_auc": 0.5,
+        "pr_auc": 0.6915460856134039,
+        "precision_at_6": 0.5
+      },
+      "n": 69,
+      "positives": 52,
+      "negatives": 17,
+      "ebitda_triplet": null,
+      "n_ebitda_triplet": 0,
+      "positives_ebitda_triplet": 0,
+      "n_computable_any": 0,
+      "n_computable_ebitda": 0,
+      "n_computable_balance": 68,
+      "balance_sheet": {
+        "n": 68,
+        "n_positive": 29,
+        "roc_auc": 0.7528735632183908,
+        "pr_auc": 0.7914306646835105,
+        "precision_at_6": 1.0
+      },
+      "n_balance": 68,
+      "positives_balance": 29
+    },
+    "nvidia/llama-3.3-nemotron-super-49b-v1": {
+      "document_level": {
+        "n": 69,
+        "n_positive": 51,
+        "roc_auc": 0.4722222222222222,
+        "pr_auc": 0.6556616828725458,
+        "precision_at_6": 0.3333333333333333
+      },
+      "n": 69,
+      "positives": 51,
+      "negatives": 18,
+      "ebitda_triplet": {
+        "n": 1,
+        "n_positive": 0,
+        "roc_auc": NaN,
+        "pr_auc": NaN,
+        "precision_at_1": 0.0
+      },
+      "n_ebitda_triplet": 1,
+      "positives_ebitda_triplet": 0,
+      "n_computable_any": 1,
+      "n_computable_ebitda": 1,
+      "n_computable_balance": 68,
+      "balance_sheet": {
+        "n": 68,
+        "n_positive": 67,
+        "roc_auc": 0.9552238805970149,
+        "pr_auc": 0.9993316004382271,
+        "precision_at_6": 1.0
+      },
+      "n_balance": 68,
+      "positives_balance": 67
+    }
+  },
+  "cot": {
+    "meta/llama-3.1-8b-instruct": {
+      "better": 19,
+      "worse": 0,
+      "neutral": 17,
+      "unchanged": 260
+    },
+    "nvidia/llama-3.3-nemotron-super-49b-v1": {
+      "better": 37,
+      "worse": 0,
+      "neutral": 4,
+      "unchanged": 255
+    }
+  },
+  "anchoring": {
+    "meta/llama-3.1-8b-instruct": {
+      "0": {
+        "tp": 20,
+        "fp": 9,
+        "fn": 32,
+        "tn": 8,
+        "precision": 69.0,
+        "recall": 38.5,
+        "f1": 49.4
+      },
+      "2": {
+        "tp": 16,
+        "fp": 8,
+        "fn": 36,
+        "tn": 9,
+        "precision": 66.7,
+        "recall": 30.8,
+        "f1": 42.1
+      },
+      "5": {
+        "tp": 16,
+        "fp": 8,
+        "fn": 36,
+        "tn": 9,
+        "precision": 66.7,
+        "recall": 30.8,
+        "f1": 42.1
+      },
+      "10": {
+        "tp": 16,
+        "fp": 7,
+        "fn": 36,
+        "tn": 10,
+        "precision": 69.6,
+        "recall": 30.8,
+        "f1": 42.7
+      }
+    },
+    "nvidia/llama-3.3-nemotron-super-49b-v1": {
+      "0": {
+        "tp": 7,
+        "fp": 10,
+        "fn": 44,
+        "tn": 8,
+        "precision": 41.2,
+        "recall": 13.7,
+        "f1": 20.6
+      },
+      "2": {
+        "tp": 3,
+        "fp": 7,
+        "fn": 48,
+        "tn": 11,
+        "precision": 30.0,
+        "recall": 5.9,
+        "f1": 9.8
+      },
+      "5": {
+        "tp": 3,
+        "fp": 7,
+        "fn": 48,
+        "tn": 11,
+        "precision": 30.0,
+        "recall": 5.9,
+        "f1": 9.8
+      },
+      "10": {
+        "tp": 3,
+        "fp": 6,
+        "fn": 48,
+        "tn": 12,
+        "precision": 33.3,
+        "recall": 5.9,
+        "f1": 10.0
+      }
+    }
+  },
+  "ablation": {
+    "meta/llama-3.1-8b-instruct": {
+      "ebitda_from_parts": {
+        "correct": 250,
+        "scored": 296,
+        "accuracy_pct": 84.5,
+        "delta_when_disabled": 0.0
+      },
+      "ebitda_equals_ebit": {
+        "correct": 250,
+        "scored": 296,
+        "accuracy_pct": 84.5,
+        "delta_when_disabled": 0.0
+      },
+      "ebitda_exceeds_ca": {
+        "correct": 250,
+        "scored": 296,
+        "accuracy_pct": 84.5,
+        "delta_when_disabled": 0.0
+      },
+      "ebit_below_da_big_gap": {
+        "correct": 250,
+        "scored": 296,
+        "accuracy_pct": 84.5,
+        "delta_when_disabled": 0.0
+      },
+      "ebitda_below_ebit": {
+        "correct": 250,
+        "scored": 296,
+        "accuracy_pct": 84.5,
+        "delta_when_disabled": 0.0
+      },
+      "da_exceeds_ebitda": {
+        "correct": 250,
+        "scored": 296,
+        "accuracy_pct": 84.5,
+        "delta_when_disabled": 0.0
+      },
+      "general_ebitda_identity": {
+        "correct": 250,
+        "scored": 296,
+        "accuracy_pct": 84.5,
+        "delta_when_disabled": 0.0
+      },
+      "derive_ebit": {
+        "correct": 250,
+        "scored": 296,
+        "accuracy_pct": 84.5,
+        "delta_when_disabled": 0.0
+      },
+      "__none_disabled__": {
+        "correct": 250,
+        "scored": 296,
+        "accuracy_pct": 84.5
+      },
+      "__no_backfill__": {
+        "correct": 250,
+        "scored": 296,
+        "accuracy_pct": 84.5,
+        "delta_when_disabled": 0.0
+      },
+      "__no_arithmetic__": {
+        "correct": 217,
+        "scored": 296,
+        "accuracy_pct": 73.3,
+        "delta_when_disabled": -11.2
+      },
+      "__neither__": {
+        "correct": 217,
+        "scored": 296,
+        "accuracy_pct": 73.3,
+        "delta_when_disabled": -11.2
+      }
+    },
+    "nvidia/llama-3.3-nemotron-super-49b-v1": {
+      "ebitda_from_parts": {
+        "correct": 270,
+        "scored": 296,
+        "accuracy_pct": 91.2,
+        "delta_when_disabled": 0.0
+      },
+      "ebitda_equals_ebit": {
+        "correct": 270,
+        "scored": 296,
+        "accuracy_pct": 91.2,
+        "delta_when_disabled": 0.0
+      },
+      "ebitda_exceeds_ca": {
+        "correct": 270,
+        "scored": 296,
+        "accuracy_pct": 91.2,
+        "delta_when_disabled": 0.0
+      },
+      "ebit_below_da_big_gap": {
+        "correct": 270,
+        "scored": 296,
+        "accuracy_pct": 91.2,
+        "delta_when_disabled": 0.0
+      },
+      "ebitda_below_ebit": {
+        "correct": 270,
+        "scored": 296,
+        "accuracy_pct": 91.2,
+        "delta_when_disabled": 0.0
+      },
+      "da_exceeds_ebitda": {
+        "correct": 270,
+        "scored": 296,
+        "accuracy_pct": 91.2,
+        "delta_when_disabled": 0.0
+      },
+      "general_ebitda_identity": {
+        "correct": 270,
+        "scored": 296,
+        "accuracy_pct": 91.2,
+        "delta_when_disabled": 0.0
+      },
+      "derive_ebit": {
+        "correct": 270,
+        "scored": 296,
+        "accuracy_pct": 91.2,
+        "delta_when_disabled": 0.0
+      },
+      "__none_disabled__": {
+        "correct": 270,
+        "scored": 296,
+        "accuracy_pct": 91.2
+      },
+      "__no_backfill__": {
+        "correct": 270,
+        "scored": 296,
+        "accuracy_pct": 91.2,
+        "delta_when_disabled": 0.0
+      },
+      "__no_arithmetic__": {
+        "correct": 229,
+        "scored": 296,
+        "accuracy_pct": 77.4,
+        "delta_when_disabled": -13.8
+      },
+      "__neither__": {
+        "correct": 229,
+        "scored": 296,
+        "accuracy_pct": 77.4,
+        "delta_when_disabled": -13.8
+      }
+    }
+  },
+  "sector": {
+    "meta/llama-3.1-8b-instruct": {
+      "Technology": {
+        "docs": 17,
+        "B2": [
+          59,
+          73
+        ],
+        "B6": [
+          68,
+          73
+        ],
+        "B2_accuracy_pct": 80.8,
+        "B6_accuracy_pct": 93.2
+      },
+      "Banking": {
+        "docs": 5,
+        "B2": [
+          7,
+          12
+        ],
+        "B6": [
+          7,
+          12
+        ],
+        "B2_accuracy_pct": 58.3,
+        "B6_accuracy_pct": 58.3
+      },
+      "Payments": {
+        "docs": 4,
+        "B2": [
+          16,
+          20
+        ],
+        "B6": [
+          20,
+          20
+        ],
+        "B2_accuracy_pct": 80.0,
+        "B6_accuracy_pct": 100.0
+      },
+      "Healthcare": {
+        "docs": 13,
+        "B2": [
+          33,
+          45
+        ],
+        "B6": [
+          34,
+          45
+        ],
+        "B2_accuracy_pct": 73.3,
+        "B6_accuracy_pct": 75.6
+      },
+      "Consumer": {
+        "docs": 7,
+        "B2": [
+          27,
+          35
+        ],
+        "B6": [
+          33,
+          35
+        ],
+        "B2_accuracy_pct": 77.1,
+        "B6_accuracy_pct": 94.3
+      },
+      "Retail": {
+        "docs": 8,
+        "B2": [
+          27,
+          40
+        ],
+        "B6": [
+          32,
+          40
+        ],
+        "B2_accuracy_pct": 67.5,
+        "B6_accuracy_pct": 80.0
+      },
+      "Industrial": {
+        "docs": 4,
+        "B2": [
+          15,
+          20
+        ],
+        "B6": [
+          18,
+          20
+        ],
+        "B2_accuracy_pct": 75.0,
+        "B6_accuracy_pct": 90.0
+      },
+      "Transport": {
+        "docs": 3,
+        "B2": [
+          10,
+          15
+        ],
+        "B6": [
+          11,
+          15
+        ],
+        "B2_accuracy_pct": 66.7,
+        "B6_accuracy_pct": 73.3
+      },
+      "Energy": {
+        "docs": 1,
+        "B2": [
+          1,
+          3
+        ],
+        "B6": [
+          1,
+          3
+        ],
+        "B2_accuracy_pct": 33.3,
+        "B6_accuracy_pct": 33.3
+      },
+      "Telecom": {
+        "docs": 4,
+        "B2": [
+          14,
+          20
+        ],
+        "B6": [
+          18,
+          20
+        ],
+        "B2_accuracy_pct": 70.0,
+        "B6_accuracy_pct": 90.0
+      },
+      "Automotive": {
+        "docs": 3,
+        "B2": [
+          8,
+          13
+        ],
+        "B6": [
+          8,
+          13
+        ],
+        "B2_accuracy_pct": 61.5,
+        "B6_accuracy_pct": 61.5
+      }
+    },
+    "nvidia/llama-3.3-nemotron-super-49b-v1": {
+      "Technology": {
+        "docs": 17,
+        "B2": [
+          59,
+          73
+        ],
+        "B6": [
+          69,
+          73
+        ],
+        "B2_accuracy_pct": 80.8,
+        "B6_accuracy_pct": 94.5
+      },
+      "Banking": {
+        "docs": 5,
+        "B2": [
+          7,
+          12
+        ],
+        "B6": [
+          7,
+          12
+        ],
+        "B2_accuracy_pct": 58.3,
+        "B6_accuracy_pct": 58.3
+      },
+      "Payments": {
+        "docs": 4,
+        "B2": [
+          16,
+          20
+        ],
+        "B6": [
+          20,
+          20
+        ],
+        "B2_accuracy_pct": 80.0,
+        "B6_accuracy_pct": 100.0
+      },
+      "Healthcare": {
+        "docs": 13,
+        "B2": [
+          41,
+          45
+        ],
+        "B6": [
+          44,
+          45
+        ],
+        "B2_accuracy_pct": 91.1,
+        "B6_accuracy_pct": 97.8
+      },
+      "Consumer": {
+        "docs": 7,
+        "B2": [
+          28,
+          35
+        ],
+        "B6": [
+          35,
+          35
+        ],
+        "B2_accuracy_pct": 80.0,
+        "B6_accuracy_pct": 100.0
+      },
+      "Retail": {
+        "docs": 8,
+        "B2": [
+          29,
+          40
+        ],
+        "B6": [
+          36,
+          40
+        ],
+        "B2_accuracy_pct": 72.5,
+        "B6_accuracy_pct": 90.0
+      },
+      "Industrial": {
+        "docs": 4,
+        "B2": [
+          16,
+          20
+        ],
+        "B6": [
+          20,
+          20
+        ],
+        "B2_accuracy_pct": 80.0,
+        "B6_accuracy_pct": 100.0
+      },
+      "Transport": {
+        "docs": 3,
+        "B2": [
+          10,
+          15
+        ],
+        "B6": [
+          11,
+          15
+        ],
+        "B2_accuracy_pct": 66.7,
+        "B6_accuracy_pct": 73.3
+      },
+      "Energy": {
+        "docs": 1,
+        "B2": [
+          1,
+          3
+        ],
+        "B6": [
+          1,
+          3
+        ],
+        "B2_accuracy_pct": 33.3,
+        "B6_accuracy_pct": 33.3
+      },
+      "Telecom": {
+        "docs": 4,
+        "B2": [
+          12,
+          20
+        ],
+        "B6": [
+          16,
+          20
+        ],
+        "B2_accuracy_pct": 60.0,
+        "B6_accuracy_pct": 80.0
+      },
+      "Automotive": {
+        "docs": 3,
+        "B2": [
+          10,
+          13
+        ],
+        "B6": [
+          11,
+          13
+        ],
+        "B2_accuracy_pct": 76.9,
+        "B6_accuracy_pct": 84.6
+      }
+    }
+  },
+  "cost": {
+    "meta/llama-3.1-8b-instruct": {
+      "calls": 551,
+      "seconds": 1128.5,
+      "tokens": 20670,
+      "per_doc_calls": 7.99
+    },
+    "nvidia/llama-3.3-nemotron-super-49b-v1": {
+      "calls": 207,
+      "seconds": 5193.9,
+      "tokens": 45366,
+      "per_doc_calls": 3.0
+    }
+  },
+  "coverage": {
+    "n_filings": 69,
+    "per_field": {
+      "chiffre_affaires": {
+        "n": 66,
+        "derived": 0
+      },
+      "ebit": {
+        "n": 58,
+        "derived": 0
+      },
+      "dotations_amortissements": {
+        "n": 57,
+        "derived": 0
+      },
+      "resultat_net": {
+        "n": 69,
+        "derived": 0
+      },
+      "ebitda": {
+        "n": 46,
+        "derived": 46
+      }
+    }
+  }
+}

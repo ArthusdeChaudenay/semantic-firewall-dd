@@ -1,0 +1,476 @@
+taken together, these forward currency contracts and the offsetting underlying commitments do not create material market risk.
+Commodity Price Risk
+We are subject to commodity price risk relating to commodity purchase contracts for items used in production that are subject to changes in the market price. We use commodity swaps and commodity purchase contracts to hedge against these potentially unfavorable price changes. Our commodity purchase contracts and derivatives are both sensitive to changes in the market price. At December 31, 2025, a 10% increase or decrease in the market price in our commodity derivatives would have increased or decreased our unrealized gains by $38 million. Consistent with the use of these contracts to neutralize the effect of market price fluctuations, such unrealized losses or gains would be offset by corresponding gains or losses, respectively, in the remeasurement of the underlying transactions being hedged. When taken together, these commodity purchase contracts and the offsetting swaps do not create material market risk.
+Market Risk
+Participants in deferred compensation plans can diversify the deferred amounts among investment funds which are subject to potential changes in fair value. As of December 31, 2025, the deferred compensation liability, which is being marked to market, was $1.7 billion. A 10% change in the fair value of these investment funds would increase or decrease the liability by $169 million. Changes in the liability are recorded in operating earnings.
+52
+Table of Contents
+Item 8. Financial Statements and Supplementary Data
+Index to the Consolidated Financial Statements
+Page
+Consolidated Statements of Operations
+54
+Consolidated Statements of Comprehensive Income
+55
+Consolidated Statements of Financial Position
+56
+Consolidated Statements of Cash Flows
+57
+Consolidated Statements of Equity
+58
+Summary of Business Segment Data
+59
+Note 1 - Summary of Significant Accounting Policies
+60
+Note 2 - Spirit Acquisition
+70
+Note 3 - D igital Aviation Solutions Divestiture
+72
+Note 4 - Goodwill and Acquired Intangibles
+73
+Note 5 - Earnings Per Share
+74
+Note 6 - Income Taxes
+76
+Note 7 - Accounts Receivable
+81
+Note 8 - Allowance for Losses on Financial Assets
+81
+Note 9 - Inventories
+82
+Note 10 - Contracts with Customers
+83
+Note 11 - Financing Receivables and Operating Lease Equipment
+83
+Note 12 - Property, Plant and Equipment
+85
+Note 13 - Investments
+85
+Note 14 - Leases
+86
+Note 15 - Liabilities, Commitments and Contingencies
+87
+Note 16 - Arrangements with Off-Balance Sheet Risk
+93
+Note 17 - Debt
+94
+Note 18 - Postretirement Plans
+95
+Note 19 - Share-Based Compensation and Other Compensation Arrangements
+104
+Note 20 - Shareholders' Equity
+108
+Note 21 - Derivative Financial Instruments
+110
+Note 22 - Fair Value Measurements
+112
+Note 23 - Legal Proceedings
+114
+Note 24 - Segment and Revenue Information
+115
+Reports of Independent Registered Public Accounting Firm
+121
+53
+Table of Contents
+The Boeing Company and Subsidiaries
+Consolidated Statements of Operations
+(Dollars in millions, except per share data)
+Years ended December 31, 2025 2024 2023
+Sales of products $ 75,356 $ 53,227 $ 65,581
+Sales of services 14,107 13,290 12,213
+Total revenues 89,463 66,517 77,794
+Cost of products ( 73,761 ) ( 57,394 ) ( 59,864 )
+Cost of services ( 11,413 ) ( 11,114 ) ( 10,206 )
+Total costs and expenses ( 85,174 ) ( 68,508 ) ( 70,070 )
+4,289 ( 1,991 ) 7,724
+Income from operating investments, net 25 71 46
+General and administrative expense ( 6,090 ) ( 5,021 ) ( 5,168 )
+Research and development expense, net ( 3,615 ) ( 3,812 ) ( 3,377 )
+Gain on dispositions, net 9,672 46 2
+Earnings/(loss) from operations 4,281 ( 10,707 ) ( 773 )
+Other income, net 1,125 1,222 1,227
+Interest and debt expense ( 2,771 ) ( 2,725 ) ( 2,459 )
+Earnings/(loss) before income taxes 2,635 ( 12,210 ) ( 2,005 )
+Income tax (expense)/benefit ( 397 ) 381 ( 237 )
+Net earnings/(loss) 2,238 ( 11,829 ) ( 2,242 )
+Less: Net earnings/(loss) attributable to noncontrolling interest 3 ( 12 ) ( 20 )
+Net earnings/(loss) attributable to Boeing shareholders 2,235 ( 11,817 ) ( 2,222 )
+Less: Mandatory convertible preferred stock dividends accumulated during the period 345 58
+Net earnings/(loss) attributable to Boeing common shareholders $ 1,890 ($ 11,875 ) ($ 2,222 )
+Basic earnings/(loss) per share $ 2.49 ($ 18.36 ) ($ 3.67 )
+Diluted earnings/(loss) per share $ 2.48 ($ 18.36 ) ($ 3.67 )
+See Notes to the Consolidated Financial Statements on pages 59 - 120.
+54
+Table of Contents
+The Boeing Company and Subsidiaries
+Consolidated Statements of Comprehensive Income
+(Dollars in millions)
+Years ended December 31, 2025 2024 2023
+Net earnings/(loss) $ 2,238 ($ 11,829 ) ($ 2,242 )
+Other comprehensive income/(loss), net of tax:
+Currency translation adjustments 225 ( 44 ) 33
+Reclassification of realized loss on foreign currency translation to Gain on dispositions, net
+17
+Unrealized gain on certain investments, net of tax of $ 0 , $ 0 and $ 0
+2
+Derivative instruments:
+Unrealized gain/(loss) arising during period, net of tax of ($ 10 ), $ 0 and ($ 11 )
+262 ( 258 ) 41
+Reclassification adjustment for loss/(gain) included in net loss, net of tax of ($ 1 ), $ 0 and $ 1
+37 35 ( 5 )
+Total unrealized gain/(loss) on derivative instruments, net of tax
+299 ( 223 ) 36
+Defined benefit pension plans & other postretirement benefits:
+Net actuarial gain/(loss) arising during the period, net of tax of ($ 1 ), ($ 1 ) and $ 13
+25 ( 225 ) ( 722 )
+Amortization of actuarial loss/(gain) included in net periodic benefit cost, net of tax of ($ 9 ), $ 0 and $ 0
+149 105 ( 2 )
+Amortization of prior service credits included in net periodic benefit cost, net of tax of $ 4 , $ 0 and $ 1
+( 71 ) ( 92 ) ( 102 )
+Prior service credits arising during the period, net of tax of $ 0 , $ 0 and $ 0
+( 6 ) ( 140 )
+Pension and postretirement benefit related to our equity method investments, net of tax of $ 0 , $ 0 and $ 0
+9
+Total defined benefit pension plans & other postretirement benefits, net of tax 97 ( 343 ) ( 826 )
+Other comprehensive income/(loss), net of tax
+638 ( 610 ) ( 755 )
+Comprehensive income/(loss)
+2,876 ( 12,439 ) ( 2,997 )
+Less: Comprehensive income/(loss) attributable to noncontrolling interest
+3 ( 12 ) ( 20 )
+Comprehensive income/(loss) attributable to Boeing Shareholders
+$ 2,873 ($ 12,427 ) ($ 2,977 )
+See Notes to the Consolidated Financial Statements on pages 59 - 120.
+55
+Table of Contents
+The Boeing Company and Subsidiaries
+Consolidated Statements of Financial Position
+(Dollars in millions, except per share data)
+December 31, 2025 2024
+Assets
+Cash and cash equivalents $ 10,921 $ 13,801
+Short-term and other investments 18,479 12,481
+Accounts receivable, net 2,921 2,631
+Unbilled receivables, net 9,158 8,363
+Current portion of financing receivables, net 207
+Inventories 84,679 87,550
+Other current assets, net 2,301 2,965
+Total current assets 128,459 127,998
+Financing receivables and operating lease equipment, net 241 314
+Property, plant and equipment, net 15,361 11,412
+Goodwill 17,275 8,084
+Acquired intangible assets, net 1,567 1,957
+Deferred income taxes 107 185
+Investments 1,048 999
+Other assets, net of accumulated amortization of $ 1,014 and $ 1,085
+4,177 5,414
+Total assets $ 168,235 $ 156,363
+Liabilities and equity
+Accounts payable $ 13,109 $ 11,364
+Accrued liabilities 27,141 24,103
+Advances and progress billings 59,404 60,333
+Short-term debt and current portion of long-term debt 8,461 1,278
+Total current liabilities 108,115 97,078
+Deferred income taxes 216 122
+Accrued retiree health care 2,091 2,176
+Accrued pension plan liability, net 4,287 5,997
+Other long-term liabilities 2,432 2,318
+Long-term debt 45,637 52,586
+Total liabilities 162,778 160,277
+Shareholders' equity:
+Mandatory convertible preferred stock, 6.00 % Series A, par value $ 1.00 20,000,000 shares authorized; 5,750,000 shares issued; aggregate liquidation preference $ 5,750
+6 6
+Common stock, par value $ 5.00 1,200,000,000 shares authorized; 1,012,261,159 shares issued
+5,061 5,061
+Additional paid-in capital 21,441 18,964
+Treasury stock, at cost ( 28,029 ) ( 32,386 )
+Retained earnings 17,252 15,362
+Accumulated other comprehensive loss ( 10,277 ) ( 10,915 )
+Total shareholders' equity/(deficit) 5,454 ( 3,908 )
+Noncontrolling interests 3 ( 6 )
+Total equity 5,457 ( 3,914 )
+Total liabilities and equity $ 168,235 $ 156,363
+See Notes to the Consolidated Financial Statements on pages 59 - 120.
+56
+Table of Contents
+The Boeing Company and Subsidiaries
+Consolidated Statements of Cash Flows
+(Dollars in millions)
+Years ended December 31, 2025 2024 2023
+Cash flows operating activities:
+Net earnings/(loss) $ 2,238 ($ 11,829 ) ($ 2,242 )
+Adjustments to reconcile net earnings/(loss) to net cash provided/(used) by operating activities:
+Non-cash items
+Share-based plans expense 426 407 690
+Treasury shares issued for 401(k) contribution 1,530 1,601 1,515
+Depreciation and amortization 1,953 1,836 1,861
+Investment/asset impairment charges, net 45 112 46
+Gain on dispositions, net ( 9,672 ) ( 46 ) ( 2 )
+777X and 767 reach-forward losses 5,283 4,079
+Other charges and credits, net 264 528 3
+Changes in assets and liabilities
+Accounts receivable ( 95 ) ( 37 ) ( 128 )
+Unbilled receivables ( 677 ) ( 60 ) 321
+Advances and progress billings ( 723 ) 4,069 3,365
+Inventories ( 1,501 ) ( 12,353 ) ( 1,681 )
+Other current assets 155 ( 16 ) 389
+Accounts payable 724 ( 793 ) 1,672
+Accrued liabilities 1,341 1,563 779
+Income taxes receivable, payable and deferred 115 ( 567 ) 44
+Other long-term liabilities ( 346 ) ( 329 ) ( 313 )
+Pension and other postretirement plans ( 593 ) ( 959 ) ( 1,049 )
+Financing receivables and operating lease equipment, net
+274 512 571
+Other 324 202 119
+Net cash provided/(used) by operating activities 1,065 ( 12,080 ) 5,960
+Cash flows investing activities:
+Payments to acquire property, plant and equipment ( 2,942 ) ( 2,230 ) ( 1,527 )
+Proceeds from disposals of property, plant and equipment 82 49 27
+Acquisitions, net of cash acquired ( 1,248 ) ( 50 ) ( 70 )
+Proceeds from dispositions 10,585 124
+Contributions to investments ( 51,938 ) ( 13,856 ) ( 16,448 )
+Proceeds from investments 46,628 4,743 15,739
+Supplier notes receivable
+( 662 ) ( 694 ) ( 162 )
+Repayments on supplier notes receivable
+2 40
+Purchase of distribution rights ( 9 ) ( 88 )
+Other 1 ( 11 ) 4
+Net cash provided/(used) by investing activities 499 ( 11,973 ) ( 2,437 )
+Cash flows financing activities:
+New borrowings 165 10,161 75
+Debt repayments ( 3,621 ) ( 8,673 ) ( 5,216 )
+Common stock issuance, net of issuance costs 18,200
+Mandatory convertible preferred stock issuance, net of issuance costs 5,657
+Stock options exercised 45
+Employee taxes on certain share-based payment arrangements ( 34 ) ( 83 ) ( 408 )
+Dividends paid on Mandatory convertible preferred stock
+( 331 )
+Other 58 ( 53 ) 17
+Net cash (used)/provided by financing activities ( 3,763 ) 25,209 ( 5,487 )
+Effect of exchange rate changes on cash and cash equivalents 40 ( 47 ) 30
+Net (decrease)/increase in cash & cash equivalents, including restricted ( 2,159 ) 1,109 ( 1,934 )
+Cash & cash equivalents, including restricted, at beginning of year 13,822 12,713 14,647
+Cash & cash equivalents, including restricted, at end of year 11,663 13,822 12,713
+Less restricted cash & cash equivalents, included in Investments 742 21 22
+Cash and cash equivalents at end of year $ 10,921 $ 13,801 $ 12,691
+See Notes to the Consolidated Financial Statements on pages 59 - 120.
+57
+Table of Contents
+The Boeing Company and Subsidiaries
+Consolidated Statements of Equity
+Boeing shareholders
+(Dollars in millions)
+Mandatory convertible preferred stock Common
+stock Additional
+paid-in
+capital Treasury
+stock Retained
+earnings Accumulated
+other
+comprehensive
+loss Non-
+controlling
+interests Total
+Balance at January 1, 2023 $ 5,061 $ 9,947 ($ 50,814 ) $ 29,473 ($ 9,550 ) $ 35 ($ 15,848 )
+Net loss ( 2,222 ) ( 20 ) ( 2,242 )
+Other comprehensive loss, net of tax of $ 4
+( 755 ) ( 755 )
+Share-based compensation 690 690
+Treasury shares issued for stock options exercised, net
+( 28 ) 73 45
+Treasury shares issued for other share-based plans, net
+( 660 ) 304 ( 356 )
+Treasury shares issued for 401(k) contributions 627 888 1,515
+Subsidiary shares purchased from non-controlling interests ( 267 ) ( 267 )
+Other changes in noncontrolling interests ( 10 ) ( 10 )
+Balance at December 31, 2023 $ 5,061 $ 10,309 ($ 49,549 ) $ 27,251 ($ 10,305 ) $ 5 ($ 17,228 )
+Net loss ( 11,817 ) ( 12 ) ( 11,829 )
+Other comprehensive loss, net of tax of ($ 1 )
+( 610 ) ( 610 )
+Share-based compensation 407 407
+Mandatory convertible preferred stock issued, net of issuance costs 6 5,645 5,651
+Common stock issued, net of issuance costs 2,253 15,928 18,181
+Treasury shares issued for other share-based plans, net
+( 145 ) 129 ( 16 )
+Treasury shares issued for 401(k) contributions 495 1,106 1,601
+Cash dividends declared on Mandatory convertible preferred stock ( 72 ) ( 72 )
+Other changes in noncontrolling interests 1 1
+Balance at December 31, 2024 $ 6 $ 5,061 $ 18,964 ($ 32,386 ) $ 15,362 ($ 10,915 ) ($ 6 ) ($ 3,914 )
+Net earnings
+2,235 3 2,238
+Other comprehensive income, net of tax of ($ 17 )
+638 638
+Share-based compensation 426 426
+Treasury shares issued for other share-based plans, net
+( 489 ) 556 67
+Treasury shares issued for 401(k) contributions 559 971 1,530
+Treasury shares issued in exchange for shares of Spirit 1,874 2,830 4,704
+Premium on Exchangeable Notes assumed from acquisition of Spirit 109 109
+Cash dividends declared on Mandatory convertible preferred stock ( 345 ) ( 345 )
+Other changes in noncontrolling interests ( 2 ) 6 4
+Balance at December 31, 2025 $ 6 $ 5,061 $ 21,441 ($ 28,029 ) $ 17,252 ($ 10,277 ) $ 3 $ 5,457
+See Notes to the Consolidated Financial Statements on pages 59 - 120.
+58
+Table of Co ntents
+The Boeing Company and Subsidiaries
+Notes to the Consolidated Financial Statements
+Summary of Business Segment Data
+(Dollars in millions)
+Years ended December 31,
+2025 2024 2023
+Revenues:
+Commercial Airplanes $ 41,494 $ 22,861 $ 33,901
+Defense, Space & Security 27,234 23,918 24,933
+Global Services 20,923 19,954 19,127
+Unallocated items, eliminations and other ( 188 ) ( 216 ) ( 167 )
+Total revenues $ 89,463 $ 66,517 $ 77,794
+Earnings/(loss) from operations:
+Commercial Airplanes ($ 7,079 ) ($ 7,969 ) ($ 1,635 )
+Defense, Space & Security ( 128 ) ( 5,413 ) ( 1,764 )
+Global Services 13,474 3,618 3,329
+Segment operating earnings/(loss) 6,267 ( 9,764 ) ( 70 )
+Unallocated items, eliminations and other ( 3,031 ) ( 2,047 ) ( 1,759 )
+FAS/CAS service cost adjustment 1,045 1,104 1,056
+Earnings/(loss) from operations 4,281 ( 10,707 ) ( 773 )
+Other income, net 1,125 1,222 1,227
+Interest and debt expense ( 2,771 ) ( 2,725 ) ( 2,459 )
+Earnings/(loss) before income taxes 2,635 ( 12,210 ) ( 2,005 )
+Income tax (expense)/benefit ( 397 ) 381 ( 237 )
+Net earnings/(loss) 2,238 ( 11,829 ) ( 2,242 )
+Less: Net earnings/(loss) attributable to noncontrolling interest 3 ( 12 ) ( 20 )
+Net earnings/(loss) attributable to Boeing shareholders 2,235 ( 11,817 ) ( 2,222 )
+Less: Mandatory convertible preferred stock dividends accumulated during the period 345 58
+Net earnings/(loss) attributable to Boeing common shareholders $ 1,890 ($ 11,875 ) ($ 2,222 )
+This information is an integral part of the Notes to the Consolidated Financial Statements. See Note 24 for further segment results.
+59
+Table of Co ntents
+The Boeing Company and Subsidiaries
+Notes to the Consolidated Financial Statements
+Years ended December 31, 2025, 2024 and 2023
+(Dollars in millions, except otherwise stated)
+Note 1 Summary of Significant Accounting Policies
+Principles of Consolidation and Basis of Presentation
+The Consolidated Financial Statements included in this report have been prepared by management of The Boeing Company (herein referred to as "Boeing," the "Company," "we," "us" or "our"). These statements include the accounts of all majority-owned subsidiaries and variable interest entities that are required to be consolidated. All significant intercompany accounts and transactions have been eliminated. As described in Note 24, we operate in three reportable segments: Commercial Airplanes (BCA), Defense, Space & Security (BDS), and Global Services (BGS).
+Use of Estimates
+The preparation of financial statements in conformity with U.S. generally accepted accounting principles (GAAP) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+Operating Cycle
+For classification of certain current assets and liabilities, we use the duration of the related contract or program as our operating cycle, which is generally longer than one year.
+Revenue and Related Cost Recognition
+Commercial aircraft contracts The majority of our BCA segment revenue is derived from commercial aircraft contracts. For each contract, we determine the transaction price based on the consideration expected to be received. We allocate the transaction price to each commercial aircraft performance obligation based on relative standalone selling prices adjusted by an escalation formula as specified in the customer agreement. Revenue is recognized for each commercial aircraft performance obligation at the point in time when the aircraft is completed and accepted by the customer. We use program accounting to determine the amount reported as cost of sales.
+Payments for commercial aircraft sales are received in accordance with the customer agreement, which generally includes a deposit upon order and additional payments in accordance with a payment schedule, with the balance being due immediately prior to or at aircraft delivery. Advances and progress billings (contract liabilities) are normal and customary for commercial aircraft contracts and not considered a significant financing component as they are intended to protect us from the other party failing to adequately complete some or all of its obligations under the contract.
+Long-term contracts Substantially all contracts at BDS and certain contracts at BGS are long-term contracts with the U.S. government and other customers that generally extend over several years. Products sales under long-term contracts primarily include fighter jets, rotorcraft, cybersecurity products, surveillance suites, advanced weapons, missile defense, military derivative aircraft, satellite systems and modification of commercial passenger aircraft to cargo freighters. Sales of services under long-term contracts primarily include support and maintenance agreements associated with our commercial and defense products and space travel on Commercial Crew.
+60
+Table of Co ntents
+For each long-term contract, we determine the transaction price based on the consideration expected to be received. We allocate the transaction price to each distinct performance obligation to deliver a good or service, or a collection of goods and/or services, based on the relative standalone selling prices. A long-term contract will typically represent a single distinct performance obligation due to the highly interdependent and interrelated nature of the underlying goods and/or services and the significant service of integration that we provide. While the scope and price on certain long-term contracts may be modified over their life, the transaction price is based on current rights and obligations under the contract and does not include potential modifications until they are agreed upon with the customer. When applicable, a cumulative adjustment or separate recognition for the additional scope and price may result. Long-term contracts can be negotiated with a fixed price or a price in which we are reimbursed for costs incurred plus an agreed upon profit. The Federal Acquisition Regulations provide guidance on the types of cost that will be reimbursed in establishing the price for contracts with the U.S. government. Certain long-term contracts include in the transaction price variable consideration, such as incentive and award fees, if specified targets are achieved. The amount included in the transaction price represents the expected value, based on a weighted probability, or the most likely amount.
+Long-term contract revenue is recognized over the contract term (over time) as the work progresses, either as products are produced or as services are rendered. We generally recognize revenue over time as we perform on long-term contracts because of continuous transfer of control to the customer. For U.S. government contracts, this continuous transfer of control to the customer is supported by clauses in the contract that allow the customer to unilaterally terminate the contract for convenience, pay us for costs incurred plus a reasonable profit and take control of any work in process. Similarly, for non-U.S. government contracts, the customer typically controls the work in process as evidenced either by contractual termination clauses or by our rights to payment of the transaction price associated with work performed to date on products or services that do not have an alternative use to the Company.
+The accounting for long-term contracts involves a judgmental process of estimating total revenues, costs and profit for each performance obligation. Cost of sales is recognized as incurred. The amount reported as revenues is determined by adding a proportionate amount of the estimated profit to the amount reported as cost of sales. Recognizing revenue as costs are incurred provides an objective measure of progress on the long-term contract and thereby best depicts the extent of transfer of control to the customer.
+For long-term contracts for which revenue is recognized over time, changes in estimated revenues, cost of sales and the related effect on operating income are recognized using a cumulative catch-up adjustment which recognizes in the current period the cumulative effect of the changes on current and prior periods based on a long-term contract's percentage-of-completion. When the current estimates of total revenues and costs at completion for a long-term contract indicate a loss, a provision for the entire reach-forward loss on the long-term contract is recognized.
+The table below reflects the impact of net cumulative catch-up adjustments for changes in estimated revenues and costs at completion across all long-term contracts including the impact to Earnings/(loss) from operations from changes in estimated losses on unexercised options for the years ended December 31:
+2025 2024 2023
+Decrease to Revenue ($ 916 ) ($ 2,794 ) ($ 1,706 )
+Decrease/increase to Earnings/(loss) from operations
+($ 1,377 ) ($ 6,562 ) ($ 2,943 )
+Decrease/increase to Diluted earnings/(loss) per share
+($ 1.53 ) ($ 9.83 ) ($ 5.43 )
+Significant adjustments during the three years ended December 31, 2025, 2024 and 2023, included losses on KC-46A Tanker, VC-25B, T-7A Red Hawk, MQ-25, and Commercial Crew programs.
+61
+Table of Co ntents
+Due to the significance of judgment in the estimation process, changes in underlying operational assumptions, inability to implement planned risk mitigation plans, failure to achieve productivity targets, supplier shortages, quality issues and/or pricing issues, inflationary trends, or other circumstances may adversely or positively affect financial performance in future periods.
+Payments under long-term contracts may be received before or after revenue is recognized. The U.S. government customer typically withholds payment of a small portion of the contract price until contract completion. Therefore, long-term contracts typically generate Unbilled receivables (contract assets) but may generate Advances and progress billings (contract liabilities). Long-term contract Unbilled receivables and Advances and progress billings are not considered a significant financing component because they are intended to protect either the customer or the Company in the event that some or all of the obligations under the contract are not completed.
+Commercial spare parts contracts Certain contracts at our BGS segment include sales of commercial spare parts. For each contract, we determine the transaction price based on the consideration expected to be received. The spare parts have discrete unit prices that represent fair value. We generally consider each spare part to be a separate performance obligation. Revenue is recognized for each commercial spare part performance obligation at the point in time of delivery to the customer. We may provide our customers with a right to return a commercial spare part where a customer may receive a full or partial refund, a credit applied to amounts owed, a different product in exchange, or any combination of these items. We consider the potential for customer returns in the estimated transaction price. The amount reported as cost of sales is recorded at average cost. Payments for commercial spare parts sales are typically received shortly after delivery.
+Other service revenue contracts Certain contracts at our BGS segment are for sales of services to commercial customers including maintenance, training, and digital solutions and analytics. We recognize revenue for these service performance obligations over time as the services are rendered. The method of measuring progress (such as straight-line or billable amount) varies depending upon which method best depicts the transfer of control to the customer based on the type of service performed. Cost of sales is recorded as incurred.
+Concession sharing arrangements We account for sales concessions to our customers in consideration of their purchase of products and services as a reduction of the transaction price and the revenue that is recognized for the related performance obligations. The sales concessions incurred may be partially reimbursed by certain suppliers in accordance with concession sharing arrangements. We record these reimbursements, which are presumed to represent reductions in the price of the vendor's products or services, as a reduction in Cost of products.
+Unbilled receivables and advances and progress billings Unbilled receivables (contract assets) arise when the Company recognizes revenue for amounts which cannot yet be billed under terms of the contract with the customer. Advances and progress billings (contract liabilities) arise when the Company receives payments from customers in advance of recognizing revenue. The amount of Unbilled receivables or Advances and progress billings is determined for each contract.
+Financial services revenue We record financial services revenue associated with sales-type leases, operating leases and loans in Sales of services on the Consolidated Statements of Operations. For sales-type leases, we recognize selling profit or loss at lease inception if collection of the lease payments is probable. For sales-type leases, we record financing receivables at lease inception. A financing receivable is recorded at the aggregate of future lease payments, estimated residual value of the leased equipment, and any deferred incremental direct costs less unearned income. Income is recognized over the life of the lease to approximate a level rate of return on the net investment. For notes receivable, we record financing receivables net of any unamortized discounts and deferred
+62
+Table of Co ntents
+incremental direct costs. Interest income and amortization of any discounts are recorded ratably over the related term of the note.
+Income recognition is generally suspended for financing receivables that are uncollectible. We determine that a financing receivable is uncollectible when, based on current information and events, it is probable that we will be unable to collect amounts due according to the original contractual terms. We determine a financing receivable is past due when cash has not been received upon the due date specified in the contract.
+We evaluate the collectability of financing receivables at commencement and on a recurring basis. If a financing receivable is determined to be uncollectible, the customer is categorized as non-accrual status. When a customer is in non-accrual status at commencement, sales-type lease revenue is deferred until substantially all cash has been received or the customer is removed from non-accrual status. If we have a note receivable with a customer that is in non-accrual status, or a sales-type lease with a customer that changes to non-accrual status after commencement, we recognize contractual interest income as payments are received to the extent there is sufficient collateral and payments exceed past due principal payments.
+Residual values, which are reviewed periodically, represent the estimated amount we expect to receive at lease termination from the disposition of the leased equipment. Actual residual values realized could differ from these estimates. Declines in estimated residual value that are deemed other-than-temporary are recognized in the period in which the declines occur.
+For operating leases, revenue on leased aircraft and equipment is recorded on a straight-line basis over the term of the lease. Operating lease assets, included in Financing receivables and operating lease equipment, net, are recorded at cost and depreciated to an estimated residual value using the straight-line method over the period that we project we will hold the asset. We periodically review our estimates of residual value and recognize forecasted changes by prospectively adjusting depreciation expense. We record assets held for sale at the lower of carrying value or fair value less costs to sell. We evaluate for impairment assets under operating leases when events or changes in circumstances indicate that the expected undiscounted cash flow from the asset may be less than the carrying value. When we determine that impairment is indicated for an asset, the amount of impairment expense recorded is the excess of the carrying value over the fair value of the asset.
+Reinsurance Our wholly-owned insurance subsidiary, Astro Ltd., participates in a reinsurance pool for workers' compensation. The member agreements and practices of the reinsurance pool minimize any participating members' individual risk. Reinsurance revenues were $ 99 , $ 110 and $ 163 during 2025, 2024 and 2023, respectively. Reinsurance costs related to premiums and claims paid to the reinsurance pool were $ 123 , $ 123 and $ 181 during 2025, 2024 and 2023, respectively. Revenues and costs are presented net in Cost of products and Cost of services in the Consolidated Statements of Operations.
+Research and Development
+Research and development includes costs incurred for experimentation, design and testing, as well as bid and proposal efforts related to government products and services, which are expensed as incurred unless the costs are related to certain contractual arrangements with customers. Costs that are incurred pursuant to such contractual arrangements are recorded over the period that revenue is recognized, consistent with our long-term contract accounting policy. We have certain research and development arrangements with customers that meet the conditions for best efforts research and development accounting. Accordingly, the amounts funded by the customer are recognized as an offset to our research and development expense rather than as contract revenues. Research and development expense, net included bid and proposal costs of $ 161 , $ 179 and $ 188 in 2025, 2024 and 2023, respectively.
+63
+Table of Co ntents
+Share-Based Compensation
+We provide various forms of share-based compensation to our employees. For awards settled in shares, we measure compensation expense based on the grant-date fair value net of estimated forfeitures. For awards settled in cash, or that may be settled in cash, we measure compensation expense based on the fair value at each reporting date net of estimated forfeitures. The expense is recognized over the requisite service period, which is generally the vesting period of the award.
+Income Taxes
+Provisions for U.S. federal, state and local, and non-U.S. income taxes are calculated on reported Earnings/(loss) before income taxes based on current tax law and also include, in the current period, the cumulative effect of any changes in tax rates from those used previously in determining deferred tax assets and liabilities. Such provisions differ from the amounts currently receivable or payable because certain items of income and expense are recognized in different time periods for financial reporting purposes than for income tax purposes. Significant judgment is required in determining income tax provisions and evaluating tax positions.
+The accounting for uncertainty in income taxes requires a more-likely-than-not threshold for financial statement recognition and measurement of tax positions taken or expected to be taken in a tax return. We record a liability for the difference between the benefit recognized and measured for financial statement purposes and the tax position taken or expected to be taken on our tax return. To the extent that our assessment of such tax positions changes, the change in estimate is recorded in the period in which the determination is made. Tax-related interest and penalties are classified as a component of Income tax (expense)/benefit.
+We also assess the likelihood that we will be able to recover our deferred tax assets against future sources of taxable income and reduce the carrying amounts of deferred tax assets by recording a valuation allowance if, based on the available evidence, it is more likely than not that all or a portion of such assets will not be realized. Changes in our estimates and judgments regarding realization of deferred tax assets may result in an increase or decrease to our tax expense and/or other comprehensive income, which would be recorded in the period in which the change occurs.
+Postretirement Plans
+Many of our employees have earned benefits under defined benefit pension plans. The majority of employees that had participated in defined benefit pension plans have transitioned to a company-funded defined contribution retirement savings plan. We also provide postretirement benefit plans other than pensions, consisting principally of health care coverage to eligible retirees and qualifying dependents. Benefits under the pension and other postretirement benefit plans are generally based on age at retirement and years of service and, for some pension plans, benefits are also based on the employee's annual earnings. The net periodic cost of our pension and other postretirement plans is determined using the projected unit credit method and several actuarial assumptions, the most significant of which are the discount rate, the long-term rate of asset return and medical trend (rate of growth for medical costs). Actuarial gains and losses, which occur when actual experience differs from actuarial assumptions, are reflected in Shareholders' equity (net of taxes). If actuarial gains and losses exceed 10 percent of the greater of plan assets or plan liabilities, we amortize them over the average expected future lifetime of participants. The funded status of our pension and postretirement plans is reflected on the Consolidated Statements of Financial Position.
+Postemployment Plans
+We record a liability for postemployment benefits, such as severance or job training, when payment is probable and the amount is reasonably estimable.
+64
+Table of Co ntents
+Environmental Remediation
+We are subject to federal and state requirements for protection of the environment, including those for discharge of hazardous materials and remediation of contaminated sites. We routinely assess, based on in-depth studies, expert analyses and legal reviews, our contingencies, obligations and commitments for remediation of contaminated sites, including assessments of ranges and probabilities of recoveries from other responsible parties and/or insurance carriers. Our policy is to accrue and charge to current expense identified exposures related to environmental remediation sites when it is probable that a liability has been incurred and the amount can be reasonably estimated. The amount of the liability is based on our best estimate or the low end of a range of reasonably possible exposure for investigation, cleanup and monitoring costs to be incurred. Estimated remediation costs are not discounted to present value as the timing of payments cannot be reasonably estimated. We may be able to recover a portion of the remediation costs from insurers or other third parties. Such recoveries are recorded when realization of the claim for recovery is deemed probable.
+Cash and Cash Equivalents
+Cash and cash equivalents consist of highly liquid instruments, such as commercial paper, time deposits and other money market instruments, which have original maturities of three months or less. We aggregate our cash balances by bank where conditions for right of set-off are met, and reclassify any negative balances, consisting mainly of uncleared checks, to Accounts payable. Negative balances reclassified to Accounts payable were $ 127 and $ 110 at December 31, 2025 and 2024.
+Inventories
+Inventoried costs on commercial aircraft programs and long-term contracts include direct engineering, production and tooling and other non-recurring costs, and applicable overhead, which includes fringe benefits, production related indirect and plant management salaries and plant services, not in excess of estimated net realizable value. To the extent a material amount of such costs are related to an abnormal event or are fixed costs not appropriately attributable to our programs or contracts, they are expensed in the current period rather than inventoried. Inventoried costs include amounts relating to programs and contracts with long-term production cycles, a portion of which is not expected to be realized within one year. Included in inventory for federal government contracts is an allocation of allowable costs related to manufacturing process reengineering.
+Commercial aircraft programs inventory includes deferred production costs and supplier advances. Deferred production costs represent actual costs incurred for production of early units that exceed the estimated average cost of all units in the program accounting quantity. Higher production costs are experienced at the beginning of a new or derivative aircraft program. Units produced early in a program require substantially more effort (labor and other resources) than units produced later in a program because of volume efficiencies and the effects of learning. We expect that these deferred costs will be fully recovered when all units included in the accounting quantity are delivered as the expected unit cost for later deliveries is below the estimated average cost of all units in the program. Supplier advances represent payments for parts we have contracted to receive from suppliers in the future. As parts are received, supplier advances are amortized to work in process.
+The determination of net realizable value of long-term contract costs is based upon quarterly reviews that estimate costs to be incurred to complete all contract requirements. When actual contract costs and the estimate to complete exceed total estimated contract revenues, a loss provision is recorded. The determination of net realizable value of commercial aircraft program costs is based upon quarterly program reviews that estimate revenue and cost to be incurred to complete the program accounting quantity. When estimated costs to complete exceed estimated program revenues to go, a program loss provision is recorded in the current period for the estimated loss on all undelivered units in the accounting quantity.
+65
+Table of Co ntents
+Used aircraft purchased by our BCA segment and general stock materials are stated at cost not in excess of net realizable value. Spare parts inventory is stated at lower of average unit cost or net realizable value. We review our commercial spare parts and general stock materials quarterly to identify impaired inventory, including excess or obsolete inventory, based on historical sales trends, expected production usage, and the size and age of the aircraft fleet using the part. Impaired inventories are charged to Cost of products in the period the impairment occurs.
+Included in inventory for commercial aircraft programs are amounts paid or credited in cash, or other consideration to certain airline customers, that are referred to as early issue sales consideration. Early issue sales consideration is recognized as a reduction to revenue when the delivery of the aircraft under contract occurs. If an airline customer does not perform and take delivery of the contracted aircraft, we believe that we would have the ability to recover amounts paid. However, to the extent early issue sales consideration exceeds advances and is not considered to be otherwise recoverable, it would be written off against revenue of the current period.
+Precontract Costs
+We may, from time to time, incur costs in excess of the amounts required for existing contracts. If we determine the costs are probable of recovery from future orders, then we capitalize the precontract costs we incur, excluding start-up costs which are expensed as incurred. Capitalized precontract costs are included in Inventories in the accompanying Consolidated Statements of Financial Position. Should future orders not materialize or we determine the costs are no longer probable of recovery, the capitalized costs would be written off.
+Property, Plant and Equipment
+Property, plant and equipment are recorded at cost, including applicable construction-period interest, less accumulated depreciation and are depreciated principally over the following estimated useful lives: new buildings and land improvements, from 10 to 40 years; and new machinery and equipment, from four to 20 years. The principal method of depreciation for buildings and land improvements is 150% declining balance and for machinery and equipment is sum-of-the-years' digits. Capitalized internal use software is included in Other assets, net and amortized using the straight line method over five years . Capitalized costs of software purchased as a service are included in Other assets, net and amortized using the straight line method over the term of the hosting arrangement, which is typically no greater than 10 years. We periodically evaluate the appropriateness of remaining depreciable lives assigned to long-lived assets, including assets that may be subject to a management plan for disposition.
+Long-lived assets held for sale are stated at the lower of cost or fair value less cost to sell. Long-lived assets held for use are subject to an impairment assessment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. If the carrying value is no longer recoverable based upon the undiscounted future cash flows of the asset, the amount of the impairment is the difference between the carrying amount and the fair value of the asset.
+Leases
+We determine if an arrangement is, or contains, a lease under which we are the lessee at the inception date. Operating lease assets are included in Other assets, net, with the related liabilities included in Accrued liabilities and Other long-term liabilities. Assets under finance leases, which primarily represent computer equipment, are included in Property, plant and equipment, net, with the related liabilities included in Short-term debt and current portion of long-term debt and Long-term debt on the Consolidated Statements of Financial Position.
+Operating lease assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments arising from the lease. Operating lease
+66
+Table of Co ntents
+assets and liabilities are recognized at the lease commencement date based on the estimated present value of lease payments over the lease term. We use our estimated incremental borrowing rate in determining the present value of lease payments. Variable components of the lease payments such as fair market value adjustments, utilities and maintenance costs are expensed as incurred and not included in determining the present value. Our lease terms include options to extend or terminate the lease when it is reasonably certain that we will exercise that option. Lease expense for operating leases is recognized on a straight-line basis over the lease term.
+We have real property lease agreements with lease and non-lease components which are accounted for as a single lease component.
+Asset Retirement Obligations
+We record all known asset retirement obligations for which the liability's fair value can be reasonably estimated, including certain asbestos removal, asset decommissioning and contractual lease restoration obligations. Recorded amounts are not material.
+We also have known conditional asset retirement obligations, such as certain asbestos remediation and asset decommissioning activities to be performed in the future, that are not reasonably estimable due to insufficient information about the timing and method of settlement of the obligation. Accordingly, these obligations have not been recorded in the Consolidated Financial Statements. A liability for these obligations will be recorded in the period when sufficient information regarding timing and method of settlement becomes available to make a reasonable estimate of the liability's fair value. In addition, there may be conditional asset retirement obligations that we have not yet discovered (e.g. asbestos may exist in certain buildings but we have not become aware of it through the normal course of business), and therefore, these obligations also have not been included in the Consolidated Financial Statements.
+Goodwill and Other Acquired Intangibles
+Goodwill and other acquired intangible assets with indefinite lives are not amortized, but are tested for impairment annually and when an event occurs or circumstances change such that it is more likely than not that an impairment may exist. Our annual testing date is April 1.
+We test goodwill for impairment by performing a qualitative assessment or using a quantitative test. If we choose to perform a qualitative assessment and determine it is more likely than not that the carrying value of the net assets is more than the fair value of the related operations, the quantitative test is then performed; otherwise, no further testing is required. For operations where the quantitative test is used, we compare the carrying value of net assets to the estimated fair value of the related operations. If the fair value is determined to be less than carrying value, the shortfall up to the carrying value of the goodwill represents the amount of goodwill impairment.
+We performed our annual goodwill impairment test as of April 1, 2025, using a qualitative assessment. We determined the fair value of each of our reporting units substantially exceeded their respective carrying values. Our Military Aircraft reporting unit within our BDS segment had goodwill of $ 1,295 and a negative carrying value at December 31, 2025.
+Indefinite-lived intangibles consist of in-process research and development (IPR&D) acquired in a business combination. IPR&D is initially capitalized at fair value as an intangible asset with an indefinite life and assessed for impairment thereafter. IPR&D is reclassified to finite-lived acquired intangible assets when a project is completed and then amortized on a straight-line basis over the asset's estimated useful life. We test IPR&D for impairment by comparing the carrying value to current projections of related discounted cash flows. Any excess carrying value over the amount of discounted cash flows represents the amount of the impairment.
+67
+Table of Co ntents
+Our finite-lived acquired intangible assets are amortized on a straight-line basis over their estimated useful lives as follows: developed technology, from three to 10 years; product know-how, from nine to 13 years; customer base, from seven to 17 years; distribution rights, from eight to 24 years; and other, from three to 32 years. We evaluate the potential impairment of finite-lived acquired intangible assets whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. If the carrying value is no longer recoverable based upon the undiscounted future cash flows of the asset, the amount of the impairment is the difference between the carrying amount and the fair value of the asset.
+Investments
+Time deposits are held-to-maturity investments that are carried at cost.
+Available-for-sale debt investments include commercial paper, corporate notes and U.S. government agency securities. Available-for-sale debt investments are recorded at fair value, and unrealized gains and losses are recorded, net of tax, as a component of accumulated other comprehensive income. Realized gains and losses on available-for-sale debt investments are recognized based on the specific identification method. Available-for-sale debt investments are assessed for impairment quarterly.
+The equity method of accounting is used to account for investments for which we have the ability to exercise significant influence, but not control, over an investee. Significant influence is generally deemed to exist if we have an ownership interest in the voting stock of an investee of between 20% and 50%. The cumulative earnings approach is used for cash flow classification of distributions received from equity method investments.
+Other Equity investments are recorded at fair value, with gains and losses recorded through net earnings. Equity investments without readily determinable fair value are measured at cost, less impairments, plus or minus observable price changes. Equity investments without readily determinable fair value are assessed for impairment quarterly.
+We classify investment income and loss on our Consolidated Statements of Operations based on whether the investment is operating or non-operating in nature. Operating investments align strategically and are integrated with our operations. Earnings from operating investments, including our share of income or loss from equity method investments, dividend income from other equity investments, and any impairments or gain/loss on the disposition of these investments, are recorded in Income from operating investments, net. Non-operating investments are those we hold for non-strategic purposes. Earnings from non-operating investments, including interest and dividends on marketable securities, and any impairments or gain/loss on the disposition of these investments are recorded in Other income, net.
+Derivatives
+All derivative instruments are recognized in the financial statements and measured at fair value regardless of the purpose or intent of holding them. We principally use derivative instruments to manage a variety of market risks. For our cash flow hedges, the derivative's gain or loss is initially reported in comprehensive income and is subsequently reclassified into earnings in the same period(s) during which the hedged forecasted transaction affects earnings.
+We hold certain other derivative instruments for economic purposes. These derivative instruments are derivatives for accounting purposes but are not designated as hedges for accounting purposes. For derivative instruments not designated for hedge accounting treatment, the changes in their fair value are recorded in earnings immediately.
+68
+Table of Co ntents
+Allowances for Losses on Certain Financial Assets
+We establish allowances for credit losses on accounts receivable, unbilled receivables, financing receivables and certain other financial assets. The adequacy of these allowances is assessed quarterly through consideration of factors such as customer credit ratings, bankruptcy filings, published or estimated credit default rates, age of the receivable, expected loss rates and collateral exposures. Collateral exposure is the excess of the carrying value of a financial asset over the fair value of the related collateral. We determine the creditworthiness of our customers by assigning internal credit ratings based upon publicly available information and information obtained directly from the customers. Our rating categories are comparable to those used by major credit rating agencies.
+Financing receivables are collateralized by security in the related asset. We use a median calculated from published collateral values from multiple third-party aircraft value publications based on the type and age of the aircraft to determine the fair value of aircraft collateral. Under certain circumstances, we apply judgment based on the attributes of the specific aircraft or equipment, usually when the features or use of the aircraft vary significantly from the more generic aircraft attributes covered by outside publications.
+We have entered into agreements with certain customers and suppliers to whom we have provided financing that would entitle us to look beyond the specific collateral underlying the receivable for purposes of determining the collateral exposure. Should the proceeds from the sale of the underlying collateral asset resulting from a default condition be insufficient to cover the carrying value of our receivable (creating a shortfall condition), these agreements would, for example, permit us to take the actions necessary to sell or retain certain other assets in which the customer or supplier has an equity interest and use the proceeds to cover the shortfall.
+Commercial Aircraft Trade-in Commitments
+In conjunction with signing a definitive agreement for the sale of new commercial aircraft (Sale Aircraft), we have entered into trade-in commitments with certain customers that give them the right to trade in used aircraft at a specified price.
+Exposure related to trade-in commitments may take the form of:
+(1) adjustments to revenue for the difference between the contractual trade-in price in the definitive agreement and our best estimate of the fair value of the trade-in aircraft as of the date of such agreement, which would be recognized upon delivery of the Sale Aircraft, and/or
+(2) charges to cost of products for adverse changes in the fair value of trade-in aircraft that occur subsequent to signing of a definitive agreement for Sale Aircraft but prior to the purchase of the used trade-in aircraft. Estimates based on current aircraft values would be included in Accrued liabilities.
+The fair value of trade-in aircraft is determined using aircraft-specific data such as model, age and condition, market conditions for specific aircraft and similar models, and multiple valuation sources. This process uses our assessment of the market for each trade-in aircraft, which in most instances begins years before the return of the aircraft. There are several possible markets in which we continually pursue opportunities to place used aircraft. These markets include, but are not limited to, the resale market, which could potentially include the cost of long-term storage; the leasing market, with the potential for refurbishment costs to meet the leasing customer's requirements; or the scrap market. Trade-in aircraft valuation varies significantly depending on which market we determine is most likely for each aircraft. On a quarterly basis, we update our valuation analysis based on the actual activities associated with placing each aircraft into a market or using current published third-party aircraft valuations based on the type and age of the aircraft, adjusted for individual attributes and known conditions.
+69
+Table of Co ntents
+Warranties
+In conjunction with certain product sales, we provide warranties that cover factors such as non-conformance to specifications and defects in material and design. The majority of our warranties are issued by our BCA segment. Generally, aircraft sales are accompanied by a three to four -year standard warranty for systems, accessories, equipment, parts, and software manufactured by us or manufactured to certain standards under our authorization. These warranties are included in the estimates to complete the related programs. On occasion we have made commitments beyond the standard warranty obligation to correct fleet-wide major issues of a particular model, resulting in additional accrued warranty expense. Warranties issued by our BDS segment principally relate to sales of military aircraft and weapons systems. These sales are generally accompanied by a six month to two-year warranty period and cover systems, accessories, equipment, parts and software manufactured by us to certain contractual specifications. Estimated costs related to standard warranties are recorded in the period in which the related product delivery occurs. The warranty liability recorded at each balance sheet date reflects the estimated number of months of warranty coverage outstanding for products delivered times the average of historical monthly warranty payments, as well as additional amounts for certain major warranty issues that exceed a normal claims level. Estimated costs of these additional warranty issues are considered changes to the initial liability estimate.
+We provide guarantees to certain commercial aircraft customers which include compensation provisions for failure to meet specified aircraft performance targets. We account for these performance guarantees as warranties. The estimated liability for these warranties is based on known and anticipated operational characteristics and forecasted customer operation of the aircraft relative to contractually specified performance targets, and anticipated settlements when contractual remedies are not specified. Estimated payments are recorded as a reduction of revenue at delivery of the related aircraft. We have agreements that require certain suppliers to compensate us for amounts paid to customers for failure of supplied equipment to meet specified performance targets. Claims against suppliers under these agreements are included in Inventories and recorded as a reduction in Cost of products at delivery of the related aircraft. These performance warranties and claims against suppliers are included in estimates to complete the related programs.
+Supplier Penalties
+We may incur penalties to suppliers under certain circumstances such as a contract termination. We record an accrual for supplier penalties when an event occurs that makes it probable we will incur a supplier penalty and the amount is reasonably estimable.
+Guarantees
+At the inception of a guarantee, we record a liability in Accrued liabilities for the fair value of the guarantee. For credit guarantees, the liability is equal to the present value of the expected loss. We determine the expected loss by multiplying the creditor's default rate by the guarantee amount reduced by the expected recovery, if applicable. We also recognize a liability for the expected contingent loss at inception and adjust it each quarter.
+Note 2 Spirit Acquisition
+On December 8, 2025, we completed our acquisition of Spirit AeroSystems Holdings, Inc. (Spirit) pursuant to the Agreement and Plan of Merger dated June 30, 2024 (Merger Agreement). In connection with the closing of the transactions contemplated by the Merger Agreement (Spirit Acquisition), Boeing became the ultimate parent company of Spirit and its respective subsidiaries, including Spirit AeroSystems, Inc. (Spirit Sub). The Spirit Acquisition enables Boeing and Spirit to align our commercial production systems, including our Safety and Quality Management Systems, and our workforces

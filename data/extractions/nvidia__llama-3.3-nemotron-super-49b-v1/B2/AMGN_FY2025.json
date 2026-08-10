@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "chiffre_affaires": "36,751",
+    "total_revenue": "36,751",
+    "net_sales": "36,751",
+    "total_net_revenues": "36,751",
+    "ebit": "9,080",
+    "operating_income": "9,080",
+    "income_from_operations": "9,080",
+    "ebitda": null,
+    "dotations_amortissements": "5,167",
+    "depreciation_and_amortization": "5,167",
+    "resultat_net": "7,711",
+    "net_income": "7,711"
+  },
+  "seconds": 21.53,
+  "tokens": 170,
+  "parsed": true
+}

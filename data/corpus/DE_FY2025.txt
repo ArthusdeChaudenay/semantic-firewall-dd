@@ -1,0 +1,2909 @@
+ting losses from the consolidation of certain subsidiaries and $ 53 from an adjustment to an uncertain tax position of a foreign subsidiary.
+2024 Special Items
+Legal Settlements
+In 2024, we reached legal settlements concerning patent infringement claims. As a result of these settlements, we recognized a total of $ 57 pretax gain ( $ 45 after-tax) in "Other income," providing a benefit of $ 17 to PPA and $ 40 to CF. These settlements resolve the disputes without any admission of liability by the parties involved. We believe that these settlements enhance our ability to protect our intellectual property and reinforce our commitment to innovation and technological advancement.
+Impairment
+In the fourth quarter of 2024, we recorded a non-cash impairment charge of $ 28 pretax and after-tax in "Equity in income (loss) of unconsolidated affiliates" for an other than temporary decline in value of an investment recorded in SAT. See Note 25 for fair value measurement information.
+Employee-Separation Programs
+In the third quarter of 2024, we implemented employee-separation programs for our salaried workforce in several geographic areas, including the United States, Europe, Asia, and Latin America. The programs' main purpose was to help meet our strategic priorities while reducing overlap and redundancy in roles and responsibilities. The programs were largely involuntary in nature with the expense recorded when management committed to a plan, the plan was communicated to the employees, and the employees were not required to provide service beyond the legal notification period. For the limited voluntary employee-separation programs, the expense was recorded in the period in which the employee irrevocably accepted a separation offer.
+In 2024, we recorded $ 157 pretax expenses ( $ 124 after-tax) related to the programs . The programs' pretax expenses were as follows:
+PPA
+SAT
+CF
+FS
+Total
+Employee-Separation Programs:
+Cost of sales
+$
+21
+$
+11
+$
+8
+$
+40
+Research and development expenses
+22
+9
+2
+33
+Selling, administrative and general expenses
+34
+23
+12
+$
+10
+79
+Total operating profit decrease
+$
+77
+$
+43
+$
+22
+$
+10
+152
+Non-operating profit expenses*
+5
+Total
+$
+157
+* Relates primarily to corporate expenses.
+Banco John Deere S.A.
+In the third quarter of 2024, we reclassified the BJD business as held for sale, including a reversal of $ 38 in allowance for credit losses. At October 27, 2024, a $ 97 valuation allowance was recorded on the assets held for sale, which was presented in "Impairments and other adjustments" in the statements of consolidated cash flows. The net impact of these entries was a pretax and after-tax loss of $ 59 recorded in " Selling, administrative and general expenses ." See Note 25 for fair value measurement information.
+Redeemable Noncontrolling Interest
+In the third quarter of 2024, we exercised our right to purchase the remaining 20 % interest in SurePoint. The arrangement was accounted for as an equity transaction with no gain or loss recorded in the statements of consolidated income.
+2023 Special Items
+Sale of Russian Roadbuilding Business
+In October 2023, we sold our Russian roadbuilding business, recognizing a loss of $ 18 ( pretax and after-tax). The loss was recorded in " Other operating expenses " in the CF segment.
+Brazil Tax Ruling
+In the third quarter of 2023, the Brazil Superior Court of Justice published a favorable tax ruling regarding taxability of local incentives, which allowed us to record a $ 243 reduction in the provision for income taxes and $ 47 of interest income.
+Financial Services Financing Incentives Correction
+In the second quarter of 2023, we corrected the accounting treatment for financing incentives offered to John Deere dealers, which impacted the timing of expense recognition and the presentation of incentive costs in the consolidated financial statements. The cumulative effect of this correction, $ 173 pretax ( $ 135 after-tax), was recorded in "Selling, administrative and general expenses" in the second quarter of 2023 . Prior period results for Deere & Company were not restated, as the adjustment was considered immaterial to our financial statements.
+58
+Table of Contents
+5. REVENUE RECOGNITION
+Our net sales and revenues by primary geographic market, major product line, and timing of revenue recognition follow:
+PPA
+SAT
+CF
+FS
+Total
+2025
+Primary geographic markets:
+United States
+$
+7,753
+$
+5,282
+$
+6,489
+$
+4,450
+$
+23,974
+Canada
+1,735
+496
+743
+761
+3,735
+Western Europe
+2,070
+2,340
+1,955
+185
+6,550
+Central Europe and CIS
+832
+359
+373
+11
+1,575
+Latin America
+4,021
+453
+936
+197
+5,607
+Asia, Africa, Oceania, and Middle East
+1,338
+1,534
+1,154
+217
+4,243
+Total
+$
+17,749
+$
+10,464
+$
+11,650
+$
+5,821
+$
+45,684
+Major product lines:
+Production agriculture
+$
+16,960
+$
+16,960
+Small agriculture
+$
+7,215
+7,215
+Turf
+2,731
+2,731
+Construction
+$
+4,570
+4,570
+Compact construction
+1,922
+1,922
+Roadbuilding
+3,552
+3,552
+Forestry
+1,124
+1,124
+Financial products
+257
+134
+84
+$
+5,821
+6,296
+Other
+532
+384
+398
+1,314
+Total
+$
+17,749
+$
+10,464
+$
+11,650
+$
+5,821
+$
+45,684
+Revenue recognized:
+At a point in time
+$
+17,311
+$
+10,249
+$
+11,494
+$
+139
+$
+39,193
+Over time
+438
+215
+156
+5,682
+6,491
+Total
+$
+17,749
+$
+10,464
+$
+11,650
+$
+5,821
+$
+45,684
+PPA
+SAT
+CF
+FS
+Total
+2024
+Primary geographic markets:
+United States
+$
+11,741
+$
+6,249
+$
+8,086
+$
+4,166
+$
+30,242
+Canada
+1,818
+605
+760
+717
+3,900
+Western Europe
+2,068
+2,203
+1,729
+189
+6,189
+Central Europe and CIS
+787
+284
+381
+36
+1,488
+Latin America
+3,482
+433
+1,170
+453
+5,538
+Asia, Africa, Oceania, and Middle East
+1,530
+1,480
+1,128
+221
+4,359
+Total
+$
+21,426
+$
+11,254
+$
+13,254
+$
+5,782
+$
+51,716
+Major product lines:
+Production agriculture
+$
+20,574
+$
+20,574
+Small agriculture
+$
+7,693
+7,693
+Turf
+3,023
+3,023
+Construction
+$
+5,523
+5,523
+Compact construction
+2,459
+2,459
+Roadbuilding
+3,641
+3,641
+Forestry
+1,108
+1,108
+Financial products
+240
+131
+67
+$
+5,782
+6,220
+Other
+612
+407
+456
+1,475
+Total
+$
+21,426
+$
+11,254
+$
+13,254
+$
+5,782
+$
+51,716
+Revenue recognized:
+At a point in time
+$
+21,059
+$
+11,084
+$
+13,137
+$
+133
+$
+45,413
+Over time
+367
+170
+117
+5,649
+6,303
+Total
+$
+21,426
+$
+11,254
+$
+13,254
+$
+5,782
+$
+51,716
+PPA
+SAT
+CF
+FS
+Total
+2023
+Primary geographic markets:
+United States
+$
+13,917
+$
+7,796
+$
+9,109
+$
+3,283
+$
+34,105
+Canada
+1,738
+687
+1,221
+641
+4,287
+Western Europe
+2,640
+2,824
+1,725
+132
+7,321
+Central Europe and CIS
+1,218
+530
+353
+36
+2,137
+Latin America
+5,608
+707
+1,429
+453
+8,197
+Asia, Africa, Oceania, and Middle East
+2,166
+1,679
+1,183
+176
+5,204
+Total
+$
+27,287
+$
+14,223
+$
+15,020
+$
+4,721
+$
+61,251
+Major product lines:
+Production agriculture
+$
+26,450
+$
+26,450
+Small agriculture
+$
+10,122
+10,122
+Turf
+3,505
+3,505
+Construction
+$
+6,842
+6,842
+Compact construction
+2,451
+2,451
+Roadbuilding
+3,794
+3,794
+Forestry
+1,429
+1,429
+Financial products
+219
+96
+58
+$
+4,721
+5,094
+Other
+618
+500
+446
+1,564
+Total
+$
+27,287
+$
+14,223
+$
+15,020
+$
+4,721
+$
+61,251
+Revenue recognized:
+At a point in time
+$
+26,969
+$
+14,092
+$
+14,915
+$
+111
+$
+56,087
+Over time
+318
+131
+105
+4,610
+5,164
+Total
+$
+27,287
+$
+14,223
+$
+15,020
+$
+4,721
+$
+61,251
+The "Financial products" category above includes finance and interest income from retail notes related to sales of John Deere equipment to retail customers, wholesale financing to dealers of John Deere equipment, and revolving charge accounts; lease income from retail leases of John Deere equipment; and revenue from extended warranties.
+The "Other" category includes sales of components to other equipment manufacturers that are included in "Net sales;" revenue earned over time from precision guidance, telematics, and other information enabled solutions; revenue from service performed at company owned dealerships and service centers; gains on disposition of property and businesses; trademark licensing revenue; and other miscellaneous revenue items that are included in "Other income."
+Revenues are assigned to the geographic market based on customer location.
+We invoice in advance of recognizing the revenue of certain products and services. These relate to extended warranty premiums, advance payments for future equipment sales, and subscription and service revenue related to precision guidance, telematic services, and other information enabled solutions. These advanced customer payments are presented as deferred revenue, a contract liability, in "Accounts payable and accrued expenses." The deferred revenue received but not recognized in revenue was $ 2,039 and $ 1,923 at November 2, 2025, and October 27, 2024, respectively. The contract liability is reduced as the revenue is recognized. Revenue recognized from deferred revenue that was
+59
+Table of Contents
+recorded as a contract liability at the beginning of the fiscal year was $ 654 in 2025, $ 553 in 2024, and $ 547 in 2023.
+The amount of unsatisfied performance obligations for contracts with an original duration greater than one year and the estimated revenue to be recognized by fiscal year at November 2, 2025, follows:
+Year
+Net Sales and Revenues
+2026
+$
+502
+2027
+463
+2028
+353
+2029
+227
+2030
+167
+Later years
+98
+Total
+$
+1,810
+As permitted, we elected only to disclose remaining performance obligations with an original contract duration greater than one year. The contracts with an expected duration of one year or less are for sales to dealers and retail customers for equipment, service parts, repair services, and certain telematics services.
+6. SUPPLEMENTAL CASH FLOW INFORMATION
+All cash flows from receivables related to sales are included in operating activities. This includes all changes in trade accounts and notes receivables, as well as some financing receivables (see Note 11). Financing receivables that are related to loans on equipment sold by independent dealers are included in investing activities.
+During 2025, we issued $ 2.6 billion and retired $ 4.4 billion of retail note securitization borrowings, which are presented in "Net proceeds (payments) in short-term borrowings (original maturities three months or less)."
+Our noncash transactions as a result of the BJD deconsolidation in February 2025 (see Note 3) include the derecognition of total assets (excluding cash and cash equivalents) of $ 2,897 and total liabilities of $ 1,861 , and the recognition of the investments in unconsolidated affiliates of $ 362 and receivables from unconsolidated affiliates (BJD intercompany payables) of $ 781 . The decrease in cash and cash equivalents resulting from the deconsolidation of BJD was recorded in other investing activities in the statements of consolidated cash flows. We also had noncash consideration of a loan forgiven related to a 2025 acquisition of the remaining ownership interest of an equity method investment (see Note 3).
+Supplemental cash flow information follows:
+2025
+2024
+2023
+Cash paid for interest
+$
+3,080
+$
+3,298
+$
+2,227
+Cash paid for income taxes
+1,647
+2,518
+3,578
+Inventory transferred to equipment on operating leases
+137
+223
+195
+Accounts payable related to purchases of property and equipment
+167
+208
+211
+7. PENSION AND OTHER POSTRETIREMENT BENEFITS
+We have several funded and unfunded defined benefit pension plans and other postretirement benefit (OPEB) plans. These plans cover U.S. employees and certain foreign employees. The measurement date of our plans is October 31. The U.S. salaried qualified pension plan and U.S. salaried and hourly OPEB health care plans are closed to new participants.
+The components of net periodic pension and OPEB (benefit) cost excluding the service cost component are included in the line item "Other operating expenses."
+The components of net periodic pension benefit and the related assumptions consisted of the following:
+2025
+2024
+2023
+Pensions:
+Service cost
+$
+252
+$
+230
+$
+246
+Interest cost
+517
+545
+533
+Expected return on plan assets
+( 1,005 )
+( 967 )
+( 878 )
+Amortization of actuarial (gain) loss
+5
+3
+( 13 )
+Amortization of prior service cost
+39
+40
+38
+Settlements/curtailments
+25
+38
+37
+Net benefit
+$
+( 167 )
+$
+( 111 )
+$
+( 37 )
+Weighted-average assumptions:
+Discount rates service cost
+4.9 %
+5.8 %
+5.2 %
+Discount rates interest cost
+4.9 %
+5.7 %
+5.1 %
+Rate of compensation increase
+4.3 %
+3.8 %
+3.8 %
+Expected long-term rates of return
+7.2 %
+7.0 %
+6.3 %
+Interest crediting rate U.S. cash balance plans
+4.2 %
+4.8 %
+4.3 %
+During 2025 and 2024, curtailment expense of $ 18 and $ 35 , respectively, was recognized related to U.S. hourly employee layoffs. During 2023 , a settlement expense of $ 36 was recognized for the acceleration of actuarial losses related to the transfer of the Canadian pension plan's defined benefit obligations and related plan assets to an insurance company.
+The 2026 net periodic pension benefit is expected to increase by $ 60 due to changes in discount rates, decreases in amortization of actuarial losses, and the U.S. hourly pension curtailment recognized in 2025, described above.
+The components of net periodic OPEB cost and the assumptions related to the cost consisted of the following:
+2025
+2024
+2023
+OPEB:
+Service cost
+$
+17
+$
+17
+$
+27
+Interest cost
+158
+174
+176
+Expected return on plan assets
+( 113 )
+( 108 )
+( 117 )
+Amortization of actuarial gain
+( 44 )
+( 54 )
+( 59 )
+Amortization of prior service credit
+( 4 )
+( 4 )
+( 3 )
+Net cost
+$
+14
+$
+25
+$
+24
+Weighted-average assumptions:
+Discount rates service cost
+5.7 %
+6.7 %
+6.1 %
+Discount rates interest cost
+5.0 %
+5.9 %
+5.4 %
+Expected long-term rates of return
+5.3 %
+5.6 %
+5.7 %
+60
+Table of Contents
+The OPEB net periodic cost is expected to decrease by $ 50 due to an increase in the expected return related to the 2025 U.S. voluntary contribution.
+The benefit plan obligations, funded status, and the assumptions related to the obligations at November 2, 2025, and October 27, 2024, follow:
+Pensions
+OPEB
+2025
+2024
+2025
+2024
+Change in benefit obligations:
+Beginning of year balance
+$
+( 11,077 )
+$
+( 9,928 )
+$
+( 3,362 )
+$
+( 3,029 )
+Service cost
+( 252 )
+( 230 )
+( 17 )
+( 17 )
+Interest cost
+( 517 )
+( 545 )
+( 158 )
+( 174 )
+Actuarial gain (loss)
+197
+( 1,097 )
+( 25 )
+( 385 )
+Benefits paid
+752
+746
+280
+263
+Health care subsidies
+( 24 )
+( 22 )
+Foreign exchange and other
+( 99 )
+( 23 )
+( 2 )
+2
+End of year balance
+( 10,996 )
+( 11,077 )
+( 3,308 )
+( 3,362 )
+Change in plan assets (fair value):
+Beginning of year balance
+13,080
+12,004
+2,171
+2,028
+Plan assets actual gain (loss)
+849
+1,703
+203
+259
+Employer contribution
+107
+96
+671
+145
+Benefits paid
+( 752 )
+( 746 )
+( 280 )
+( 263 )
+Foreign exchange and other
+74
+23
+2
+2
+End of year balance
+13,358
+13,080
+2,767
+2,171
+Funded status
+$
+2,362
+$
+2,003
+$
+( 541 )
+$
+( 1,191 )
+Weighted-average assumptions:
+Discount rates
+5.2 %
+5.1 %
+5.1 %
+5.2 %
+Rate of compensation increase
+3.9 %
+4.3 %
+Interest crediting rate U.S. cash balance plans
+4.2 %
+4.1 %
+The actuarial gain for pension for 2025 was due to increases in discount rates. The actuarial losses for pension and OPEB for 2024 were due to decreases in discount rates. The actuarial loss for OPEB for 2024 was also impacted by changes to health care assumptions.
+The discount rate assumptions used to determine the pension and OPEB obligations for all periods presented were based on hypothetical AA yield curves represented by a series of annualized individual discount rates. These discount rates represent the rates at which our benefit obligations could effectively be settled at the October 31 measurement dates.
+The mortality assumptions for the 2025 and 2024 U.S. benefit plan obligations used the tables based on the plan's mortality experience and the most recent scales issued by the Society of Actuaries. The 2025 and 2024 mortality assumptions included an adjustment to the scale related to COVID for some plans.
+The weighted-average annual rates of increase in the per capita cost of covered health care benefits (the health care cost trend rates) for medical and prescription drug claims for pre- and post-65 age groups used to determine the November 2, 2025, and
+October 27, 2024, accumulated postretirement benefit obligations were as follows:
+2025
+2024
+Initial year
+18.1 % (2025 to 2026)
+16.9 % (2024 to 2025)
+Second year
+9.9 % (2026 to 2027)
+11.5 % (2025 to 2026)
+Ultimate
+4.7 % ( 2034 to 2035 )
+4.7 % ( 2033 to 2034 )
+An increase in Medicare Advantage premiums impacted the weighted-average annual rates of increase for the initial year in 2025 and 2024.
+Information related to pension plans benefit obligations at November 2, 2025, and October 27, 2024, follows:
+2025
+2024
+Total accumulated benefit obligations for all plans
+$
+10,424
+$
+10,441
+Plans with accumulated benefit obligation exceeding fair value of plan assets:
+Accumulated benefit obligations
+1,405
+1,405
+Fair value of plan assets
+983
+920
+Plans with projected benefit obligation exceeding fair value of plan assets:
+Projected benefit obligations
+1,542
+1,541
+Fair value of plan assets
+1,021
+951
+The pension and OPEB amounts recognized in the balance sheet at November 2, 2025, and October 27, 2024, consisted of the following:
+Pensions
+OPEB
+2025
+2024
+2025
+2024
+Noncurrent asset
+$
+2,883
+$
+2,593
+$
+390
+$
+328
+Less: Current liability
+56
+66
+41
+39
+Less: Noncurrent liability
+465
+524
+890
+1,480
+Total
+$
+2,362
+$
+2,003
+$
+( 541 )
+$
+( 1,191 )
+The retirement benefits and other liabilities recognized in the balance sheet at November 2, 2025, and October 27, 2024, consisted of the following:
+2025
+2024
+Deferred compensation current
+$
+23
+$
+28
+Deferred compensation and other noncurrent
+235
+217
+Pensions and OPEB current
+97
+105
+Pensions and OPEB noncurrent
+1,355
+2,004
+Total
+$
+1,710
+$
+2,354
+The amounts recognized in accumulated other comprehensive income pretax at November 2, 2025, and October 27, 2024, consisted of the following:
+Pensions
+OPEB
+2025
+2024
+2025
+2024
+Net actuarial (gain) loss
+$
+1,953
+$
+2,011
+$
+( 653 )
+$
+( 632 )
+Prior service cost
+272
+329
+8
+2
+Total
+$
+2,225
+$
+2,340
+$
+( 645 )
+$
+( 630 )
+61
+Table of Contents
+Actuarial gains and losses are recorded in accumulated other comprehensive income (loss). To the extent unamortized gains and losses exceed 10% of the higher of the market-related value of assets or the benefit obligation, the excess is amortized as a component of net periodic (benefit) cost over the remaining service period of the active participants. For plans in which all or almost all of the plan's participants are inactive, the amortization period is the remaining life expectancy of the inactive participants.
+Contributions
+We make any required contributions to the plan assets under applicable regulations and voluntary contributions after evaluating our liquidity position and ability to make tax-deductible contributions. Total contributions to the plans were $ 778 in 2025 and $ 241 in 2024, which included both required and voluntary contributions and direct benefit payments. The 2025 contributions include a $ 520 voluntary contribution to a U.S. OPEB plan. This contribution increased plan assets.
+We expect to contribute approximately $ 100 to our pension plans and approximately $ 150 to our OPEB plans in 2026. The contributions include voluntary contributions and direct benefit payments from company funds. We have no required contributions to U.S. pension plan assets in 2026 under applicable funding regulations.
+Expected Future Benefit Payments
+The expected future benefit payments at November 2, 2025, were as follows:
+Pensions
+OPEB*
+2026
+$
+750
+$
+256
+2027
+727
+262
+2028
+725
+267
+2029
+724
+269
+2030
+718
+275
+2031 to 2035
+3,585
+1,321
+* Net of prescription drug group benefit subsidy under Medicare Part D.
+Plan Asset Information
+The fair values of the pension plan assets at November 2, 2025, follow:
+Total
+Level 1
+Level 2
+Cash and short-term investments
+$
+275
+$
+272
+$
+3
+Equity:
+U.S. equity securities
+479
+468
+11
+International equity securities and funds
+249
+241
+8
+Fixed Income:
+Government and agency securities
+1,279
+860
+419
+Corporate debt securities
+5,543
+5,543
+Mortgage-backed securities
+254
+254
+Other investments
+55
+31
+24
+Derivative contracts assets
+95
+57
+38
+Derivative interest rate contracts liabilities
+( 75 )
+( 3 )
+( 72 )
+Receivables and payables
+( 264 )
+( 264 )
+Securities lending collateral
+507
+507
+Securities lending liability
+( 507 )
+( 507 )
+Securities sold short
+( 107 )
+( 105 )
+( 2 )
+Total of Level 1 and Level 2 assets
+7,783
+$
+1,557
+$
+6,226
+Investments at net asset value:
+Short-term investments
+503
+U.S. equity funds
+211
+International equity funds
+259
+Fixed income funds
+1,593
+Real estate funds
+316
+Hedge funds
+481
+Private equity
+1,037
+Venture capital
+1,121
+Other investments
+54
+Total net assets
+$
+13,358
+The fair values of the OPEB health care assets at November 2, 2025, follow:
+Total
+Level 1
+Level 2
+Cash and short-term investments
+$
+104
+$
+104
+Equity securities
+73
+67
+$
+6
+Fixed Income:
+Government and agency securities
+673
+621
+52
+Corporate debt securities
+658
+658
+Mortgage-backed securities
+110
+110
+Other
+( 28 )
+( 30 )
+2
+Securities lending collateral
+105
+105
+Securities lending liability
+( 105 )
+( 105 )
+Total of Level 1 and Level 2 assets
+1,590
+$
+762
+$
+828
+Investments at net asset value:
+U.S. equity funds
+115
+International equity funds
+75
+Fixed income funds
+436
+Real estate funds
+106
+Hedge funds
+104
+Private equity
+153
+Venture capital
+165
+Other investments
+23
+Total net assets
+$
+2,767
+62
+Table of Contents
+The fair values of the pension plan assets at October 27, 2024, follow:
+Total
+Level 1
+Level 2
+Cash and short-term investments
+$
+411
+$
+399
+$
+12
+Equity:
+U.S. equity securities
+451
+440
+11
+International equity securities and funds
+238
+232
+6
+Fixed Income:
+Government and agency securities
+1,250
+932
+318
+Corporate debt securities
+4,956
+4,956
+Mortgage-backed securities
+177
+177
+Other investments
+57
+36
+21
+Derivative contracts assets
+130
+7
+123
+Derivative interest rate contracts liabilities
+( 161 )
+( 119 )
+( 42 )
+Receivables, prepaids, and payables
+( 171 )
+( 171 )
+Securities lending collateral
+662
+662
+Securities lending liability
+( 662 )
+( 662 )
+Securities sold short
+( 94 )
+( 92 )
+( 2 )
+Total of Level 1 and Level 2 assets
+7,244
+$
+1,664
+$
+5,580
+Investments at net asset value:
+Short-term investments
+492
+U.S. equity funds
+174
+International equity funds
+194
+Fixed income funds
+1,649
+Real estate funds
+385
+Hedge funds
+457
+Private equity
+1,219
+Venture capital
+1,219
+Other investments
+47
+Total net assets
+$
+13,080
+The fair values of the OPEB health care assets at October 27, 2024, follow:
+Total
+Level 1
+Level 2
+Cash and short-term investments
+$
+77
+$
+77
+Fixed Income:
+Government and agency securities
+606
+561
+$
+45
+Corporate debt securities
+551
+551
+Mortgage-backed securities
+92
+92
+Other
+11
+7
+4
+Securities lending collateral
+167
+167
+Securities lending liability
+( 167 )
+( 167 )
+Total of Level 1 and Level 2 assets
+1,337
+$
+645
+$
+692
+Investments at net asset value:
+U.S. equity funds
+163
+International equity funds
+84
+Fixed income funds
+348
+Real estate funds
+77
+Hedge funds
+71
+Private equity
+41
+Venture capital
+41
+Other investments
+9
+Total net assets
+$
+2,171
+Investments at net asset value in the preceding tables are measured at fair value using the net asset value per share practical expedient and are not classified in the fair value hierarchy. Fair value measurement levels in the preceding tables are defined in Note 25.
+Fair values are determined as follows:
+Cash and Short-Term Investments The investments include (1) cash accounts that are valued based on the account value, which approximates fair value; (2) investments that are valued at quoted prices in the active markets in which the investment trades or using a market approach (matrix pricing model) in which all significant inputs are observable or can be derived from or corroborated by observable market data; and (3) investment funds that are valued based on a constant fund net asset value, which is based on quoted prices in the active market in which the investment fund trades, or the fund's net asset value using the net asset value per share practical expedient (NAV), which is based on the fair value of the underlying securities.
+Equity Securities and Funds The Level 1 investments are determined using quoted prices in the active market in which the equity investment trades. Equity funds are valued using the fund's NAV, which is based on the fair value of the underlying securities.
+Fixed Income Securities and Funds and Other Funds The securities are valued using either a market approach (matrix pricing model) in which all significant inputs are observable or can be derived from or corroborated by observable market data such as interest rates, yield curves, volatilities, credit risk, and prepayment speeds, or they are valued using the quoted prices in the active market in which the fixed income investment trades. Fixed income and other funds are valued using the fund's NAV, which is based on the fair value of the underlying securities.
+Real Estate, Venture Capital, Private Equity, and Hedge Funds The investments that are structured as limited partnerships are valued at estimated fair value based on their proportionate share of the limited partnership's fair value that is determined by the respective general partner. These investments are valued using the fund's NAV, which is based on the fair value of the underlying investments. Valuations may be lagged up to six months. The NAV is adjusted for cash flows (additional investments or contributions, and distributions) and any known substantive valuation changes through year end.
+Derivative Instruments The derivatives are valued using either an income approach (discounted cash flow) using market observable inputs, including swap curves and both forward and spot exchange rates, or a market approach (quoted prices in the active market in which the derivative instrument trades).
+The investment objective for the pension and health care plan assets is to fulfill the projected obligations to the beneficiaries over a long period of time, while meeting our fiduciary responsibilities. The asset allocation policy is the most important decision in managing the assets, and it is reviewed regularly. The asset allocation policy considers our long-term asset class risk/return expectations for each plan since the obligations are long-term in
+63
+Table of Contents
+nature. The target asset allocations as of November 2, 2025, are as follows:
+Pension
+Health Care
+Assets
+Assets
+Equity
+8 %
+10 %
+Debt
+66 %
+70 %
+Real estate
+3 %
+3 %
+Other investments
+23 %
+17 %
+The assets are diversified and are managed by professional investment firms as well as by investment professionals who are company employees. As a result of our diversified investment policy, there were no significant concentrations of risk.
+A market related value of plan assets is used to calculate the expected return on assets. The market related value recognizes changes in the fair value of pension plan assets systematically over a five-year period. The market related value of the health care plan assets equals fair value.
+The expected long-term rate of return on plan assets reflects management's expectations of long-term average rates of return on funds invested to provide for benefits included in the projected benefit obligations. The expected return is based on the outlook for inflation and for returns in multiple asset classes, while also considering historical returns, asset allocation, and investment strategy. Our approach has emphasized the long-term nature of the return estimate such that the return assumption is not changed significantly unless there are fundamental changes in capital markets that affect our expectations for returns over an extended period of time (i.e., 10 to 20 years ). The average annual return of our U.S. pension fund was approximately 7.4 % during the past 10 years and approximately 7.7 % during the past 20 years.
+We have Voluntary Employees' Beneficiary Association trusts (VEBAs) for the funding of hourly and salary postretirement health care benefits. The future expected asset returns for the VEBAs are lower than the expected return on the other pension and health care plan assets due to investment in a higher proportion of liquid securities. These assets are in addition to the other postretirement health care plan assets that have been funded under Section 401(h) of the U.S. Internal Revenue Code and maintained in a separate account in the John Deere Pension Trust.
+Defined Contribution Plans
+We maintain separate defined contribution plans, primarily in the U.S. Under the plans, we contribute a percentage of each eligible employee's compensation. Our contributions and costs under these plans were $ 333 in 2025, $ 326 in 2024, and $ 288 in 2023.
+8. INCOME TAXES
+We are subject to income taxes in a number of jurisdictions. We determine our income tax provision using the asset and liability method. The provision for income taxes by taxing jurisdiction and by significant component consisted of the following:
+2025
+2024
+2023
+Current:
+U.S.:
+Federal
+$
+400
+$
+1,253
+$
+1,803
+State
+103
+257
+386
+Foreign
+1,044
+878
+1,472
+Total current
+1,547
+2,388
+3,661
+Deferred:
+U.S.:
+Federal
+( 107 )
+( 326 )
+( 485 )
+State
+( 10 )
+( 29 )
+( 65 )
+Foreign
+( 171 )
+61
+( 240 )
+Total deferred
+( 288 )
+( 294 )
+( 790 )
+Provision for income taxes
+$
+1,259
+$
+2,094
+$
+2,871
+Based upon the location of our operations, the consolidated income before income taxes in the U.S. in 2025, 2024, and 2023 was $ 2.7 billion, $ 5.9 billion, and $ 7.8 billion, respectively, and in foreign countries was $ 3.6 billion, $ 3.3 billion, and $ 5.2 billion, respectively. Certain foreign operations are branches or partnerships of Deere & Company and are subject to U.S. as well as foreign income tax regulations. The pretax income by location and the preceding analysis of the income tax provision by taxing jurisdiction are not directly related.
+A comparison of the statutory and effective income tax provision and reasons for related differences follow:
+2025
+2024
+2023
+U.S. federal income tax provision at the U.S. statutory rate ( 21 %)
+$
+1,314
+$
+1,933
+$
+2,734
+State and local taxes, net of federal effect
+76
+179
+266
+Other impacts of Tax Cuts and Jobs Act of 2017
+41
+( 60 )
+( 58 )
+Rate differential on foreign subsidiaries
+238
+89
+142
+Research and business tax credits
+( 131 )
+( 99 )
+( 107 )
+Excess tax benefits on equity compensation
+( 37 )
+( 35 )
+( 49 )
+Valuation allowances
+12
+( 46 )
+9
+Unrecognized tax benefits
+( 34 )
+70
+4
+Differences in taxability of foreign earnings
+( 93 )
+( 43 )
+( 85 )
+Other net
+( 127 )
+106
+15
+Provision for income taxes
+$
+1,259
+$
+2,094
+$
+2,871
+At November 2, 2025, undistributed profits of subsidiaries outside the U.S. of approximately $ 8.2 billion are considered indefinitely reinvested. Determination of the amount of a foreign withholding tax liability on these unremitted earnings is not practicable .
+Deferred income taxes arise because there are certain items that are treated differently for financial accounting than for income tax
+64
+Table of Contents
+reporting purposes. An analysis of the deferred income tax assets and liabilities at November 2, 2025, and October 27, 2024, follows:
+2025
+2024
+Deferred
+Deferred
+Deferred
+Deferred
+Tax
+Tax
+Tax
+Tax
+Assets
+Liabilities
+Assets
+Liabilities
+Accrual for employee benefits
+$
+300
+$
+362
+Accrual for sales allowances
+773
+847
+Allowance for credit losses
+108
+93
+Amortization of R&D expenditures
+1,287
+925
+Deferred compensation
+56
+52
+Goodwill and other intangible assets
+$
+132
+$
+107
+Lessee lease transactions
+82
+75
+73
+69
+Lessor lease transactions
+545
+449
+OPEB net
+190
+256
+Pension net
+493
+394
+Share-based compensation
+52
+50
+Tax loss and tax credit carryforwards
+1,700
+1,564
+Tax over book depreciation
+171
+195
+Unearned revenue
+151
+174
+Other items
+496
+291
+337
+313
+Less: valuation allowances
+( 1,638 )
+( 1,598 )
+Total
+$
+3,557
+$
+1,707
+$
+3,135
+$
+1,527
+Deere & Company files a consolidated federal income tax return in the U.S., which includes the wholly-owned financial services subsidiaries. These subsidiaries account for income taxes as if they filed separate income tax returns, with a modification for realizability of certain tax benefits.
+At November 2, 2025, tax loss and tax credit carryforwards of $ 1,700 were available with $ 1,164 expiring from 2026 through 2045 and $ 536 with an indefinite carryforward period.
+A reconciliation of unrecognized tax benefits at November 2, 2025, October 27, 2024, and October 29, 2023, follows:
+2025
+2024
+2023
+Beginning of year balance
+$
+928
+$
+907
+$
+891
+Increases to tax positions taken during the current year
+57
+59
+68
+Increases to tax positions taken during prior years
+62
+68
+164
+Decreases to tax positions taken during the current year
+( 5 )
+( 2 )
+( 3 )
+Decreases to tax positions taken during prior years
+( 202 )
+( 99 )
+( 209 )
+Decreases due to lapse of statute of limitations
+( 3 )
+( 7 )
+( 10 )
+Other
+( 17 )
+( 1 )
+( 4 )
+Foreign exchange
+3
+3
+10
+End of year balance
+$
+823
+$
+928
+$
+907
+The amount of unrecognized tax benefits at November 2, 2025, and October 27, 2024, that would impact the effective tax rate if the tax benefits were recognized was $ 322 and $ 410 , respectively. The remaining liability was related to tax positions for which there are offsetting tax receivables, or the uncertainty was only related
+to timing. We expect that any reasonably possible change in the amounts of unrecognized tax benefits in the next twelve months would not be significant.
+We file our tax returns according to the tax laws of the jurisdictions in which we operate, which includes the U.S. federal jurisdiction and various state and foreign jurisdictions. The U.S. Internal Revenue Service (IRS) has completed the examination of our federal income tax returns for periods prior to 2015. The federal income tax returns for years 2015 to 2020 are currently under examination. Various state and foreign income tax returns also remain subject to examination by taxing authorities.
+It is our policy to recognize interest related to income taxes in "Interest expense" and "Finance and interest income" and recognize penalties related to income taxes in "Selling, administrative and general expenses." Income tax related interest and penalties were not significant in 2025, 2024, or 2023. At November 2, 2025, and October 27, 2024, liabilities for income tax related interest and penalties were not significant .
+9. OTHER INCOME AND OTHER OPERATING EXPENSES
+The major components of other income and other operating expenses consisted of the following:
+2025
+2024
+2023
+Other income:
+Revenues from services
+$
+238
+$
+367
+$
+312
+Extended warranty premiums earned
+433
+310
+312
+Trademark licensing income
+92
+88
+95
+Operating lease disposition gains
+9
+19
+33
+Investment income
+56
+127
+29
+Other
+191
+287
+222
+Total
+$
+1,019
+$
+1,198
+$
+1,003
+Other operating expenses:
+Depreciation of equipment on operating leases
+$
+925
+$
+874
+$
+853
+Extended warranty claims
+320
+340
+309
+Cost of services
+211
+248
+227
+Pension and OPEB benefit, excluding the service cost component
+( 422 )
+( 333 )
+( 286 )
+Foreign exchange loss
+8
+71
+122
+Other
+82
+57
+67
+Total
+$
+1,124
+$
+1,257
+$
+1,292
+10. MARKETABLE SECURITIES
+We have investments in debt securities classified as held-to-maturity or available-for-sale and equity securities, recorded in "Marketable securities" on the consolidated balance sheets. The purchases, maturities, and sale proceeds for all debt and equity marketable securities during 2025, 2024, and 2023 follow:
+2025
+2024
+2023
+Purchases
+$
+703
+$
+1,055
+$
+491
+Maturities and sale proceeds
+486
+832
+186
+65
+Table of Contents
+Debt Securities
+The amortized cost and fair value of available-for-sale debt securities at the end of 2025 and 2024 follow:
+Gross
+Gross
+Amortized
+Unrealized
+Unrealized
+Fair
+Cost
+Gains
+Losses
+Value
+2025
+Corporate debt securities
+$
+521
+$
+6
+$
+17
+$
+510
+International debt securities
+176
+1
+3
+174
+Mortgage-backed securities*
+257
+1
+24
+234
+Municipal debt securities
+115
+1
+3
+113
+U.S. government debt securities
+330
+3
+20
+313
+Total
+$
+1,399
+$
+12
+$
+67
+$
+1,344
+2024
+Corporate debt securities
+$
+445
+$
+1
+$
+23
+$
+423
+International debt securities
+169
+26
+143
+Mortgage-backed securities*
+193
+28
+165
+Municipal debt securities
+78
+1
+5
+74
+U.S. government debt securities
+377
+28
+349
+Total
+$
+1,262
+$
+2
+$
+110
+$
+1,154
+* Primarily issued by U.S. government-sponsored enterprises.
+The contractual maturities of available-for-sale debt securities at November 2, 2025, follow:
+Amortized
+Fair
+Cost
+Value
+Due in one year or less
+$
+71
+$
+72
+Due after one through five years
+381
+376
+Due after five through 10 years
+472
+465
+Due after 10 years
+218
+197
+Mortgage-backed securities
+257
+234
+Debt securities
+$
+1,399
+$
+1,344
+Actual maturities may differ from contractual maturities because some securities may be called or prepaid. Mortgage-backed securities contain prepayment provisions and are not categorized by contractual maturity.
+Proceeds of available-for-sale debt securities sold or matured during 2025, 2024, and 2023 were $ 486 , $ 619 , and $ 37 , respectively. Realized gains, realized losses, and unrealized losses that have been continuous for over twelve months on debt securities were not material in 2025, 2024, and 2023.
+Unrealized losses were not recognized in income due to the ability and intent to hold to maturity and recover the unrealized losses. We evaluate investments quarterly for impairment and determine credit losses on available-for-sale debt securities using the specific identification method. There were no allowances for credit losses no r impairment write-downs in the periods presented. The unrealized losses on securities are due to changes in interest rates and market liquidity.
+At November 2, 2025, we also had $ 60 marketable securities classified as held-to-maturity international corporate debt securities that mature in less than one year. We record held-to-
+maturity marketable securities at amortized cost, which approximates fair value .
+Equity Securities
+At November 2, 2025, we also had a $ 7 investment in an international fixed income fund equity security.
+Unrealized gain on equity securities during 2025 and 2024 follows:
+2025
+2024
+Net gain recognized on equity securities
+$
+88
+Less: Net gain on equity securities sold
+88
+Unrealized gain on equity securities
+$
+11. RECEIVABLES
+Trade Accounts and Notes Receivable
+Trade accounts and notes receivable arise from sales of goods and services to dealers. See Note 2 for our revenue recognition policy. We evaluate and assess customers' creditworthiness on an ongoing basis. Receivables are secured with collateral or other credit enhancements. Trade accounts and notes receivable at the end of 2025 and 2024 follow:
+2025
+2024
+Trade accounts and notes receivable:
+Production & Precision Agriculture
+$
+1,673
+$
+1,532
+Small Agriculture & Turf
+1,967
+1,657
+Construction & Forestry
+1,677
+2,137
+Trade accounts and notes receivable net
+$
+5,317
+$
+5,326
+These receivables have significant concentrations of credit risk in the agriculture and turf and construction and forestry markets. Historically, credit losses have been low. There is not a disproportionate concentration of credit risk with any single customer. On a geographic basis, 48 % of our trade accounts and notes receivable are located in the U.S. and Canada at November 2, 2025.
+At November 2, 2025, and October 27, 2024, trade accounts and notes receivable balances outstanding greater than 12 months were $ 172 and $ 298 , respectively.
+The allowance for credit losses on trade accounts and notes receivable at November 2, 2025, October 27, 2024, and October 29, 2023, as well as the related activity, follow:
+2025
+2024
+2023
+Beginning of year balance
+$
+66
+$
+35
+$
+36
+Provision
+10
+34
+7
+Write-offs
+( 8 )
+( 5 )
+( 8 )
+Translation adjustments
+1
+2
+End of year balance*
+$
+69
+$
+66
+$
+35
+* Individual allowances were not significant.
+The equipment operations sell a significant portion of their trade receivables to financial services. Compensation is provided to financial services at market interest rates.
+66
+Table of Contents
+Financing Receivables Overall
+Financing receivables originate under the following circumstances:
+Retail customers purchase (or lease) equipment from a dealer and finance the equipment through John Deere Financial.
+We sell the equipment to a dealer under trade terms. Trade terms end and the dealer finances the equipment on a wholesale receivable. Shown as wholesale notes in "Financing Receivables Related to the Sale of Equipment."
+A dealer finances the purchase of used equipment through John Deere Financial.
+We sell (or lease) the equipment directly to a retail customer with terms typically greater than 12 months. Shown as retail notes or sales-type leases in the "Financing Receivables Related to the Sale of Equipment."
+The retail customer utilizes a revolving credit product to finance parts, service, or input costs.
+Financing receivables at the end of 2025 and 2024 follow:
+2025
+2024
+Unrestricted/Securitized
+Unrestricted/Securitized
+Retail notes:
+Agriculture and turf
+$
+25,356
+$
+5,805
+$
+25,102
+$
+7,203
+Construction and forestry
+5,454
+1,216
+4,550
+1,754
+Total
+30,810
+7,021
+29,652
+8,957
+Wholesale notes
+8,274
+8,951
+Revolving charge accounts
+4,872
+4,730
+Financing leases (direct
+and sales-type)
+2,923
+3,032
+Total financing receivables
+46,879
+7,021
+46,365
+8,957
+Less:
+Unearned finance income:
+Retail notes
+1,667
+149
+1,467
+187
+Wholesale notes
+19
+24
+Revolving charge accounts
+71
+76
+Financing leases
+330
+307
+Total
+2,087
+149
+1,874
+187
+Allowance for credit losses
+217
+41
+182
+47
+Financing receivables net
+$
+44,575
+$
+6,831
+$
+44,309
+$
+8,723
+Credit risk continues to be evaluated by market, rather than by operating segment. Financing receivables have significant concentrations of credit risk in the agriculture and turf and construction and forestry markets. On a geographic basis, 89 % of our financing receivables were located in the U.S. and Canada at November 2, 2025. There is no disproportionate concentration of credit risk with any single customer or dealer. We retain as collateral security in the equipment associated with most financing receivables. Theft and physical damage insurance are required for this equipment.
+Financing Receivables Related to the Sale of Equipment
+Financing receivables related to the sale of equipment are presented in the operating section of the cash flow statement. The balances at the end of 2025 and 2024 were as follows:
+2025
+2024
+Retail notes*:
+Agriculture and turf
+$
+174
+$
+376
+Construction and forestry
+238
+271
+Total
+412
+647
+Wholesale notes
+8,274
+8,951
+Direct financing and sales-type leases*
+228
+295
+Total financing receivables
+8,914
+9,893
+Less:
+Unearned finance income:
+Retail notes
+27
+37
+Wholesale notes
+19
+24
+Direct financing and sales-type leases
+60
+47
+Total
+106
+108
+Financing receivables related to our sales of equipment
+$
+8,808
+$
+9,785
+* These balances arise from sales and direct financing leases of equipment by company-owned dealers or through direct sales.
+Financing Receivables Contractual Installment Payments
+Financing receivable installments, including unearned finance income, at November 2, 2025, and October 27, 2024, were scheduled as follows:
+2025
+2024
+Unrestricted/Securitized
+Unrestricted/Securitized
+Due in months:
+0 12
+$
+21,667
+$
+3,107
+$
+23,872
+$
+3,555
+13 24
+9,667
+2,043
+8,187
+2,507
+25 36
+7,313
+1,262
+6,356
+1,702
+37 48
+4,950
+529
+4,509
+918
+49 60
+2,591
+75
+2,660
+266
+Thereafter
+691
+5
+781
+9
+Total
+$
+46,879
+$
+7,021
+$
+46,365
+$
+8,957
+Financing Receivables Credit Quality Analysis
+We monitor the credit quality of financing receivables based on delinquency status, defined as follows:
+Past due balances represent any payments 30 days or more past the due date.
+Non-performing financing receivables represent receivables for which we have stopped accruing finance income. This generally occurs when receivables are 90 days delinquent.
+Write-offs generally occur when receivables are 120 days delinquent. In these situations, the estimated uncollectible amount is written off to the allowance for credit losses.
+Finance income for non-performing receivables is recognized on a cash basis. Accrual of finance income is resumed when the receivable becomes contractually current and collections are reasonably assured.
+67
+Table of Contents
+The credit quality and aging analysis of retail notes, financing leases, and revolving charge accounts (collectively, retail customer receivables) by year of origination was as follows:
+November 2, 2025
+2025
+2024
+2023
+2022
+Retail customer receivables:
+Agriculture and turf:
+Current
+$
+12,380
+$
+8,389
+$
+5,228
+$
+3,003
+30-59 days past due
+36
+73
+59
+38
+60-89 days past due
+14
+37
+28
+13
+90+ days past due
+1
+2
+1
+Non-performing
+41
+109
+98
+57
+Construction and forestry:
+Current
+3,175
+2,038
+1,034
+463
+30-59 days past due
+42
+47
+31
+12
+60-89 days past due
+21
+17
+12
+8
+90+ days past due
+1
+6
+3
+2
+Non-performing
+31
+94
+78
+38
+Total
+$
+15,742
+$
+10,812
+$
+6,571
+$
+3,635
+Write-offs for the period ended November 2, 2025 :
+Agriculture and turf
+$
+6
+$
+32
+$
+34
+$
+21
+Construction and forestry
+9
+38
+29
+12
+Total
+$
+15
+$
+70
+$
+63
+$
+33
+November 2, 2025
+2021
+Prior Years
+Revolving Charge Accounts
+Total
+Retail customer receivables:
+Agriculture and turf:
+Current
+$
+1,310
+$
+281
+$
+4,608
+$
+35,199
+30-59 days past due
+15
+7
+37
+265
+60-89 days past due
+8
+2
+10
+112
+90+ days past due
+2
+6
+Non-performing
+30
+17
+14
+366
+Construction and forestry:
+Current
+130
+12
+124
+6,976
+30-59 days past due
+4
+1
+5
+142
+60-89 days past due
+1
+1
+2
+62
+90+ days past due
+1
+13
+Non-performing
+19
+7
+1
+268
+Total
+$
+1,519
+$
+329
+$
+4,801
+$
+43,409
+Write-offs for the period ended November 2, 2025:
+Agriculture and turf
+$
+9
+$
+7
+$
+102
+$
+211
+Construction and forestry
+3
+3
+7
+101
+Total
+$
+12
+$
+10
+$
+109
+$
+312
+October 27, 2024
+2024
+2023
+2022
+2021
+Retail customer receivables:
+Agriculture and turf:
+Current
+$
+14,394
+$
+8,305
+$
+5,191
+$
+2,833
+30-59 days past due
+44
+101
+55
+27
+60-89 days past due
+22
+50
+21
+10
+90+ days past due
+1
+1
+1
+2
+Non-performing
+23
+91
+76
+50
+Construction and forestry:
+Current
+3,100
+1,841
+1,064
+458
+30-59 days past due
+54
+47
+25
+10
+60-89 days past due
+25
+28
+10
+7
+90+ days past due
+1
+4
+3
+1
+Non-performing
+40
+94
+67
+32
+Total
+$
+17,704
+$
+10,562
+$
+6,513
+$
+3,430
+Write-offs for the period ended October 27, 2024:
+Agriculture and turf
+$
+5
+$
+33
+$
+25
+$
+11
+Construction and forestry
+9
+38
+30
+11
+Total
+$
+14
+$
+71
+$
+55
+$
+22
+October 27, 2024
+2020
+Prior Years
+Revolving Charge Accounts
+Total
+Retail customer receivables:
+Agriculture and turf:
+Current
+$
+992
+$
+253
+$
+4,465
+$
+36,433
+30-59 days past due
+11
+4
+40
+282
+60-89 days past due
+8
+2
+13
+126
+90+ days past due
+5
+Non-performing
+20
+13
+15
+288
+Construction and forestry:
+Current
+102
+45
+114
+6,724
+30-59 days past due
+3
+2
+4
+145
+60-89 days past due
+2
+2
+74
+90+ days past due
+9
+Non-performing
+9
+5
+1
+248
+Total
+$
+1,147
+$
+324
+$
+4,654
+$
+44,334
+Write-offs for the period ended October 27, 2024:
+Agriculture and turf
+$
+11
+$
+5
+$
+87
+$
+177
+Construction and forestry
+5
+3
+8
+104
+Total
+$
+16
+$
+8
+$
+95
+$
+281
+68
+Table of Contents
+The credit quality and aging analysis of wholesale receivables was as follows:
+2025
+2024
+Wholesale receivables:
+Agriculture and turf:
+Current
+$
+6,731
+$
+7,568
+30+ days past due
+Non-performing
+1
+Construction and forestry:
+Current
+1,524
+1,358
+30+ days past due
+Non-performing
+Total
+$
+8,255
+$
+8,927
+Financing Receivables Allowance for Credit Losses
+An analysis of the allowance for credit losses and investment in financing receivables follows:
+Retail Notes
+Revolving
+& Financing
+Charge
+Wholesale
+Leases
+Accounts
+Receivables
+Total
+2025
+Allowance:
+Beginning of year balance
+$
+219
+$
+8
+$
+2
+$
+229
+Provision
+217
+67
+284
+Write-offs
+( 202 )
+( 110 )
+( 312 )
+Recoveries
+15
+42
+57
+End of year balance*
+$
+249
+$
+7
+$
+2
+$
+258
+Financing receivables:
+End of year balance
+$
+38,608
+$
+4,801
+$
+8,255
+$
+51,664
+2024
+Allowance:
+Beginning of year balance
+$
+172
+$
+21
+$
+4
+$
+197
+Provision
+262
+52
+314
+Provision reversal for assets held for sale
+( 38 )
+( 38 )
+Provision subtotal
+224
+52
+276
+Write-offs
+( 186 )
+( 95 )
+( 281 )
+Recoveries
+13
+30
+43
+Translation adjustments
+( 4 )
+( 2 )
+( 6 )
+End of year balance*
+$
+219
+$
+8
+$
+2
+$
+229
+Financing receivables:
+End of year balance
+$
+39,680
+$
+4,654
+$
+8,927
+$
+53,261
+2023
+Allowance:
+Beginning of year balance
+$
+299
+$
+22
+$
+4
+$
+325
+Provision
+97
+22
+119
+Provision reversal for assets held for sale
+( 142 )
+( 142 )
+Provision (credit) subtotal
+( 45 )
+22
+( 23 )
+Write-offs
+( 84 )
+( 45 )
+( 129 )
+Recoveries
+21
+22
+43
+Translation adjustments
+( 19 )
+( 19 )
+End of year balance*
+$
+172
+$
+21
+$
+4
+$
+197
+Financing receivables:
+End of year balance
+$
+39,585
+$
+4,698
+$
+6,922
+$
+51,205
+* Individual allowances were not significant.
+We monitor the economy as part of the allowance setting process, including potential impacts of the agricultural market business cycle, global trade policies, and interest rates. Adjustments to the allowance are incorporated, as necessary.
+The allowance for credit losses on retail notes and financing lease receivables increased in 2025, primarily due to higher expected losses on agriculture and turf customer accounts as a result of elevated delinquencies and a decline in market conditions.
+During 2024, the financial services business in Brazil met the held for sale criteria, therefore the receivables were reclassified to "Assets held for sale" and the associated allowance for credit losses was reversed. These operations were deconsolidated in the second quarter of 2025 (see Note 3). Excluding the impact of BJD, the allowance for credit losses on retail notes and financing lease receivables increased in 2024, primarily due to higher expected losses on agriculture customer accounts as a result of elevated delinquencies and a decline in market conditions, partially offset by a decrease in the allowance on revolving charge accounts due to write-offs of seasonal financing program accounts and future recoveries expected.
+During 2023, the financial services business in Russia met the held for sale criteria. The financing receivables in Russia were reclassified to "Other assets" and the associated allowance for credit losses was reversed. These operations were sold in the second quarter of 2023 (see Note 3). Excluding the portfolio in Russia, the allowance increased in 2023, primarily driven by growth in the retail notes and financing lease portfolios and higher expected losses on turf and construction customer accounts.
+Financing receivables analysis metrics follow:
+2025
+2024
+Percent of financing receivables portfolio:
+Past-due amounts
+1.16 %
+1.20 %
+Non-performing
+1.23 %
+1.01 %
+Allowance for credit losses
+0.50 %
+0.43 %
+Deposits held as credit enhancements
+$
+134
+$
+142
+Financing Receivables Modifications
+We occasionally grant contractual modifications to customers experiencing financial difficulties. Before offering a modification, we evaluate the ability of the customer to meet the modified payment terms. Finance charges continue to accrue during the deferral or extension period except for modifications related to bankruptcy proceedings. Our allowance for credit losses incorporates historical loss information, including the effects of loan modifications with customers. Therefore, additional adjustments to the allowance are generally not recorded upon modification of a loan.
+We continue to monitor the performance of financing receivables that are modified with borrowers experiencing financial difficulty.
+69
+Table of Contents
+The ending amortized cost and performance of financing receivables modified in 2025 and 2024 were as follows:
+2025
+2024
+Current
+$
+160
+$
+78
+30-59 days past due
+7
+1
+60-89 days past due
+3
+2
+Non-performing
+16
+13
+Total
+$
+186
+$
+94
+Percent of financing receivables portfolio
+0.36 %
+0.18 %
+Modifications offered include payment deferrals, term extensions, or a combination thereof. The weighted-average effects for contract modifications were as follows in months:
+2025
+2024
+Payment deferral
+7
+8
+Term extension
+10
+10
+Combination modifications
+Payment deferral
+5
+4
+Term extension
+8
+7
+Defaults and subsequent write-offs of loans modified in the prior twelve months were not significant during 2025 and 2024. At November 2, 2025, commitments to provide additional financing to these customers were $ 23 .
+Financing Receivables Troubled Debt Restructurings
+Prior to adopting ASU 2022-02, modifications of loans to borrowers experiencing financial difficulty were considered troubled debt restructurings when the significant modification of the receivable resulted in a concession we would not otherwise consider.
+The following table quantifies troubled debt restructurings:
+2023
+Number of receivable contracts
+209
+Pre-modification balance
+$
+10
+Post modification balance
+9
+Troubled debt restructurings related to retail notes. In 2023, there were no significant troubled debt restructurings that subsequently defaulted and were written off.
+Other Receivables
+Other receivables at the end of 2025 and 2024 consisted of:
+2025
+2024
+Taxes receivable
+$
+1,554
+$
+1,874
+Collateral on derivatives
+72
+254
+Receivables from unconsolidated affiliates
+396
+3
+Other
+381
+414
+Other receivables
+$
+2,403
+$
+2,545
+12. SECURITIZATION OF FINANCING RECEIVABLES
+Our funding strategy includes receivable securitizations, which allows us to receive cash for financing receivables immediately. While these securitization programs are administered in various forms, they are accomplished in the following basic steps:
+1. We transfer financing receivables into a bankruptcy-remote special purpose entity (SPE).
+2. The SPE issues debt to investors. The debt is secured by the financing receivables.
+3. Investors are paid back based on cash receipts from the financing receivables.
+As part of Step 1, these receivables are legally isolated from the claims of our general creditors. This ensures cash receipts from the financing receivables are accessible to pay back securitization program investors. The structure of these transactions does not meet the accounting criteria for a sale of receivables. As a result, they are accounted for as secured borrowings. The receivables and borrowings remain on our balance sheet and are separately reported as "Financing receivables securitized net" and "Short-term securitization borrowings," respectively. SPEs are consolidated as VIEs when we have the power to direct the activities that most significantly impact the SPEs' economic performance and the obligation to absorb losses or the right to receive benefits that could potentially be significant to the SPEs.
+We offer securitization programs to institutional investors and other financial institutions through public issuances or privately through a revolving credit agreement. At November 2, 2025, the revolving agreement had a financing limit of up to $ 2,500 . At November 2, 2025, $ 1,563 of securitization borrowings were outstanding under the revolving agreement. In November 2025, the agreement was renewed for one year with a capacity of $ 2,500 .
+Restricted cash held by the SPE serves as a credit enhancement. It would be used to satisfy receivable payment deficiencies, if any. The cash restriction is removed either after all secured borrowing payments are made or proportionally as the secured receivables are collected and the borrowing obligations are reduced.
+The components of securitization programs were as follows at the end of 2025 and 2024:
+2025
+2024
+Financing receivables securitized (retail notes)
+$
+6,872
+$
+8,770
+Allowance for credit losses
+( 41 )
+( 47 )
+Other assets (primarily restricted cash)
+171
+187
+Total restricted securitized assets
+$
+7,002
+$
+8,910
+Short-term securitization borrowings
+$
+6,596
+$
+8,431
+Accrued interest on borrowings
+15
+14
+Total liabilities related to restricted securitized assets
+$
+6,611
+$
+8,445
+The weighted-average interest rates on short-term securitization borrowings at November 2, 2025, and October 27, 2024, were 4.8 % and 5.0 % , respectively.
+70
+Table of Contents
+Although these securitization borrowings are classified as short-term since payment is required if the financing receivables are liquidated early, the payment schedule for these borrowings at November 2, 2025, based on the expected liquidation of the retail notes is as follows: 2026 $ 3,428 , 2027 $ 1,942 , 2028 $ 1,005 , 2029 $ 198 , 2030 $ 29 , and later years $ 3 .
+13. INVENTORIES
+A majority of inventories owned by us are valued at cost on the "last-in, first-out" (LIFO) basis. If all inventories valued on a LIFO basis had been valued on a "first-in, first-out" (FIFO) basis, the estimated inventories by major classification would have been as follows at the end of 2025 and 2024:
+2025
+2024
+Raw materials and supplies
+$
+3,402
+$
+3,486
+Work-in-process
+956
+930
+Finished goods and parts
+5,769
+5,364
+Total FIFO value
+10,127
+9,780
+Excess of FIFO over LIFO
+2,721
+2,687
+Inventories
+$
+7,406
+$
+7,093
+Percent valued on LIFO basis
+53 %
+54 %
+14. PROPERTY AND DEPRECIATION
+A summary of property and equipment at November 2, 2025, and October 27, 2024, follows:
+Useful Lives*
+(Years)
+2025
+2024
+Land
+$
+464
+$
+390
+Buildings and building equipment
+22
+5,679
+5,168
+Machinery and equipment
+11
+7,684
+7,125
+Dies, patterns, tools, etc.
+8
+1,995
+1,797
+All other
+5
+1,411
+1,382
+Construction in progress
+1,187
+1,313
+Total at cost
+18,420
+17,175
+Less: accumulated depreciation
+( 10,341 )
+( 9,595 )
+Property and equipment net
+$
+8,079
+$
+7,580
+* Weighted-averages
+Property and equipment depreciation during 2025, 2024, and 2023 was $ 934 , $ 898 , and $ 838 , respectively.
+Property and equipment by geographic location follows:
+2025
+2024
+U.S.
+$
+4,198
+$
+4,132
+Germany
+1,435
+1,271
+Other countries
+2,446
+2,177
+Total
+$
+8,079
+$
+7,580
+15. GOODWILL AND OTHER INTANGIBLE ASSETS NET
+The changes in amounts of goodwill by operating segments were as follows.
+PPA
+SAT
+CF
+Total
+October 29, 2023
+$
+702
+$
+363
+$
+2,835
+$
+3,900
+Translation adjustments and other
+( 1 )
+2
+58
+59
+October 27, 2024
+701
+365
+2,893
+3,959
+Acquisitions (Note 3)
+30
+24
+11
+65
+Translation adjustments and other
+13
+4
+147
+164
+November 2, 2025
+$
+744
+$
+393
+$
+3,051
+$
+4,188
+The components of other intangible assets were as follows:
+2025
+2024
+Customer lists and relationships
+$
+482
+$
+508
+Technology, patents, trademarks, and other
+1,518
+1,423
+Total at cost
+2,000
+1,931
+Less accumulated amortization:
+Customer lists and relationships
+( 260 )
+( 231 )
+Technology, patents, trademarks, and other
+( 848 )
+( 701 )
+Total accumulated amortization
+( 1,108 )
+( 932 )
+Other intangible assets net
+$
+892
+$
+999
+Actual amortization expense for the past three years and the estimated amortization expense for the next five years follows:
+Year
+Amortization
+2023
+$
+169
+2024
+166
+2025
+143
+Estimated
+2026
+140
+2027
+133
+2028
+97
+2029
+80
+2030
+72
+16. OTHER ASSETS
+Other assets at November 2, 2025, and October 27, 2024, consisted of the following:
+2025
+2024
+Operating lease asset (Note 24)
+$
+317
+$
+274
+Capitalized software, net
+470
+504
+Investments in unconsolidated affiliates
+510
+122
+Deferred charges (including prepaids)
+417
+412
+Derivative assets (Note 26)
+393
+357
+Prepaid taxes
+259
+238
+Parts return asset
+156
+141
+Restricted cash
+257
+193
+Matured lease & repossessed inventory
+102
+106
+Other
+580
+559
+Other Assets
+$
+3,461
+$
+2,906
+Capitalized software has an estimated useful life of three years . Amortization of these software costs in 2025, 2024, and 2023 was $ 227 , $ 180 , and $ 144 , respectively.
+71
+Table of Contents
+17. SHORT-TERM BORROWINGS
+Short-term borrowings at the end of 2025 and 2024 consisted of:
+2025
+2024
+Commercial paper
+$
+4,218
+$
+4,008
+Notes payable to banks
+651
+377
+Finance lease obligations due within one year
+39
+33
+Long-term borrowings due within one year
+8,888
+9,115
+Short-term borrowings
+$
+13,796
+$
+13,533
+The weighted-average interest rates at the end of 2025 and 2024 were:
+2025
+2024
+Short-term borrowings:
+Commercial paper
+4.1 %
+4.8 %
+Notes payable to banks
+6.9 %
+11.0 %
+The decrease in the weighted-average interest rates of notes payable to banks is primarily the result of lower borrowing rates on funding in Argentina.
+Worldwide lines of credit totaled $ 12.2 billion at November 2, 2025, consisting primarily of:
+a 364-day credit facility agreement of $ 5.0 billion, expiring in the second quarter of 2026
+a credit facility agreement of $ 3.25 billion, expiring in the second quarter of 2028
+a credit facility agreement of $ 3.25 billion, expiring in the second quarter of 2030
+At November 2, 2025, $ 7.3 billion of these worldwide lines of credit were unused. For the purpose of computing the unused credit lines, commercial paper and short-term bank borrowings were considered to constitute utilization. These credit agreements require Capital Corporation and other parts o

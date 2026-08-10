@@ -1,0 +1,504 @@
+ fair value of the IPR&D intangible asset related to Trodelvy for patients with NSCLC. For example, we tested controls over management's review of the valuation methodology, the significant revenue assumptions, as discussed above, used to develop the fair value estimate, and the data inputs utilized in the fair value estimate.
+To test the estimated fair value of this indefinite-lived intangible asset, our audit procedures included, among others, assessing the methodology and testing the significant assumptions discussed above and the underlying data used by the Company. With assistance from a valuation specialist, we evaluated the valuation methodology used by the Company to measure the fair value of this indefinite-lived intangible asset. We also performed sensitivity analyses of significant assumptions to evaluate the changes in the fair value of this indefinite-lived intangible asset that would result from changes in the assumptions and tested the completeness and accuracy of the underlying data used by the Company. For the most significant revenue assumptions, we compared the assumptions used by the Company to relevant external market and industry data and considered whether the assumptions were consistent with evidence obtained in other areas of the audit.
+/s/ Ernst & Young LLP
+We have served as the Company's auditor since 1988.
+San Mateo, California
+February 28, 2025
+52
+GILEAD SCIENCES, INC.
+CONSOLIDATED BALANCE SHEETS
+December 31,
+(in millions, except per share amounts) 2024 2023
+Assets
+Current assets:
+Cash and cash equivalents $ 9,991 $ 6,085
+Short-term marketable debt securities — 1,179
+Accounts receivable, net 4,420 4,660
+Inventories 1,710 1,787
+Prepaid and other current assets 3,052 2,374
+Total current assets 19,173 16,085
+Property, plant and equipment, net 5,414 5,317
+Long-term marketable debt securities — 1,163
+Intangible assets, net 19,948 26,454
+Goodwill 8,314 8,314
+Other long-term assets 6,146 4,792
+Total assets $ 58,995 $ 62,125
+Liabilities and Stockholders' Equity
+Current liabilities:
+Accounts payable $ 833 $ 550
+Accrued rebates 3,892 3,802
+Current portion of long-term debt and other obligations, net 1,815 1,798
+Other current liabilities 5,464 5,130
+Total current liabilities 12,004 11,280
+Long-term debt, net 24,896 23,189
+Long-term income taxes payable 830 2,039
+Deferred tax liability 724 1,588
+Other long-term obligations 1,295 1,280
+Commitments and contingencies (Note 13)
+Stockholders' equity:
+Preferred stock, par value $ 0.001 per share; 5 shares authorized; no ne outstanding
+— —
+Common stock, par value $ 0.001 per share; 5,600 authorized; 1,246 shares issued and outstanding
+1 1
+Additional paid-in capital 7,700 6,500
+Accumulated other comprehensive income 132 28
+Retained earnings
+11,497 16,304
+Total Gilead stockholders' equity 19,330 22,833
+Noncontrolling interest ( 84 ) ( 84 )
+Total stockholders' equity 19,246 22,749
+Total liabilities and stockholders' equity $ 58,995 $ 62,125
+See accompanying notes.
+53
+GILEAD SCIENCES, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+Year Ended December 31,
+(in millions, except per share amounts) 2024 2023 2022
+Revenues:
+Product sales $ 28,610 $ 26,934 $ 26,982
+Royalty, contract and other revenues 144 182 299
+Total revenues 28,754 27,116 27,281
+Costs and expenses:
+Cost of goods sold 6,251 6,498 5,657
+Research and development expenses 5,907 5,718 4,977
+Acquired in-process research and development expenses 4,663 1,155 944
+In-process research and development impairments 4,180 50 2,700
+Selling, general and administrative expenses 6,091 6,090 5,673
+Total costs and expenses 27,092 19,511 19,951
+Operating income 1,662 7,605 7,330
+Interest expense 977 944 935
+Other (income) expense, net ( 6 ) ( 198 ) 581
+Income before income taxes 690 6,859 5,814
+Income tax expense 211 1,247 1,248
+Net income 480 5,613 4,566
+Net loss attributable to noncontrolling interest — ( 52 ) ( 26 )
+Net income attributable to Gilead $ 480 $ 5,665 $ 4,592
+Basic earnings per share attributable to Gilead $ 0.38 $ 4.54 $ 3.66
+Shares used in basic earnings per share attributable to Gilead calculation 1,247 1,248 1,255
+Diluted earnings per share attributable to Gilead $ 0.38 $ 4.50 $ 3.64
+Shares used in diluted earnings per share attributable to Gilead calculation 1,255 1,258 1,262
+See accompanying notes.
+54
+GILEAD SCIENCES, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+Year Ended December 31,
+(in millions) 2024 2023 2022
+Net income: $ 480 $ 5,613 $ 4,566
+Other comprehensive income (loss), net of reclassifications and taxes:
+Net (loss) gain on foreign currency translation ( 26 ) 60 ( 11 )
+Net gain (loss) on available-for-sale debt securities 5 28 ( 29 )
+Net gain (loss) on cash flow hedges 125 ( 62 ) ( 41 )
+Other comprehensive income (loss), net 104 26 ( 81 )
+Comprehensive income, net 584 5,639 4,485
+Comprehensive loss attributable to noncontrolling interest, net — ( 52 ) ( 26 )
+Comprehensive income attributable to Gilead, net $ 584 $ 5,691 $ 4,511
+See accompanying notes.
+55
+GILEAD SCIENCES, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+(in millions, except per share amounts) Gilead Stockholders' Equity Noncontrolling
+Interest Total
+Stockholders'
+Equity
+Common Stock
+Additional
+Paid-In
+Capital Accumulated Other Comprehensive Income Retained
+Earnings
+Shares Amount
+Balance as of December 31, 2021 1,254 $ 1 $ 4,661 $ 83 $ 16,324 $ ( 5 ) $ 21,064
+Net income (loss) — — — — 4,592 ( 26 ) 4,566
+Other comprehensive loss, net — — — ( 81 ) — — ( 81 )
+Issuances under employee stock purchase plan 2 — 103 — — — 103
+Issuances under equity incentive plans 13 — 211 — — — 211
+Stock-based compensation — — 640 — — — 640
+Repurchases of common stock under repurchase programs ($ 73.77 average price per share)
+( 19 ) — ( 65 ) — ( 1,331 ) — ( 1,396 )
+Repurchases of common stock for employee tax withholding under equity incentive plans and other ( 3 ) — — ( 173 ) ( 173 )
+Dividends declared ($ 2.92 per share)
+— — — — ( 3,725 ) — ( 3,725 )
+Balance as of December 31, 2022 1,247 1 5,550 2 15,687 ( 31 ) 21,209
+Net income (loss) — — — — 5,665 ( 52 ) 5,613
+Other comprehensive income, net — — — 26 — — 26
+Issuances under employee stock purchase plan 2 — 129 — — — 129
+Issuances under equity incentive plans 13 — 99 — — — 99
+Stock-based compensation — — 767 — — — 767
+Repurchases of common stock under repurchase programs ($ 79.52 average price per share)
+( 13 ) — ( 45 ) — ( 955 ) — ( 1,000 )
+Repurchases of common stock for employee tax withholding under equity incentive plans and other ( 4 ) — — ( 279 ) ( 279 )
+Dividends declared ($ 3.00 per share)
+— — — — ( 3,814 ) — ( 3,814 )
+Balance as of December 31, 2023 1,246 1 6,500 28 16,304 ( 84 ) 22,749
+Net income — — — — 480 — 480
+Other comprehensive income, net — — — 104 — — 104
+Issuances under employee stock purchase plan 2 — 139 — — — 139
+Issuances under equity incentive plans 16 — 282 — — — 282
+Stock-based compensation — — 834 — — — 834
+Repurchases of common stock under repurchase programs ($ 79.54 average price per share)
+( 14 ) — ( 55 ) — ( 1,095 ) — ( 1,150 )
+Repurchases of common stock for employee tax withholding under equity incentive plans and other ( 4 ) — — — ( 280 ) — ( 280 )
+Dividends declared ($ 3.08 per share)
+— — — — ( 3,911 ) — ( 3,911 )
+Balance as of December 31, 2024 1,246 $ 1 $ 7,700 $ 132 $ 11,497 $ ( 84 ) $ 19,246
+See accompanying notes.
+56
+GILEAD SCIENCES, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Year Ended December 31,
+(in millions) 2024 2023 2022
+Operating Activities:
+Net income $ 480 $ 5,613 $ 4,566
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation expense 381 354 323
+Amortization expense 2,386 2,339 1,780
+Stock-based compensation expense 835 766 637
+Deferred income taxes ( 1,844 ) ( 962 ) ( 1,552 )
+Net loss from equity securities 274 167 657
+Acquired in-process research and development expenses 4,663 1,155 944
+In-process research and development impairments 4,180 50 2,700
+Other 353 826 780
+Changes in operating assets and liabilities:
+Accounts receivable, net 139 157 ( 406 )
+Inventories ( 426 ) ( 842 ) ( 310 )
+Prepaid expenses and other ( 259 ) 39 ( 134 )
+Accounts payable 290 ( 347 ) 226
+Income tax assets and liabilities, net ( 732 ) ( 1,768 ) ( 364 )
+Accrued and other liabilities 108 458 ( 775 )
+Net cash provided by operating activities 10,828 8,006 9,072
+Investing Activities:
+Purchases of marketable debt securities ( 244 ) ( 1,930 ) ( 1,770 )
+Proceeds from sales of marketable debt securities 2,265 510 412
+Proceeds from maturities of marketable debt securities 327 1,334 1,590
+Acquisitions, including in-process research and development, net of cash acquired ( 4,840 ) ( 1,152 ) ( 1,797 )
+Purchases of equity securities ( 492 ) ( 442 ) ( 172 )
+Capital expenditures ( 523 ) ( 585 ) ( 728 )
+Other 58 ( 1 ) ( 1 )
+Net cash used in investing activities ( 3,449 ) ( 2,265 ) ( 2,466 )
+Financing Activities:
+Proceeds from debt financing, net of issuance costs 3,464 1,980 —
+Proceeds from issuances of common stock 422 232 309
+Repurchases of common stock under repurchase programs ( 1,150 ) ( 1,000 ) ( 1,396 )
+Repayments of debt and other obligations ( 1,970 ) ( 2,250 ) ( 1,500 )
+Payments of dividends ( 3,918 ) ( 3,809 ) ( 3,709 )
+Other ( 281 ) ( 279 ) ( 173 )
+Net cash used in financing activities ( 3,433 ) ( 5,125 ) ( 6,469 )
+Effect of exchange rate changes on cash and cash equivalents ( 40 ) 57 ( 63 )
+Net change in cash and cash equivalents 3,906 673 74
+Cash and cash equivalents at beginning of period 6,085 5,412 5,338
+Cash and cash equivalents at end of period $ 9,991 $ 6,085 $ 5,412
+Supplemental disclosure of cash flow information:
+Interest paid, net of amounts capitalized $ 951 $ 891 $ 907
+Income taxes paid $ 2,779 $ 3,990 $ 3,136
+See accompanying notes.
+57
+GILEAD SCIENCES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. SUMMARY OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+Business
+Gilead Sciences, Inc. (including its consolidated subsidiaries, referred to as "Gilead," the "company," "we," "our" or "us") is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. We are committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis, coronavirus disease 2019 ("COVID-19"), cancer and inflammation. We operate in more than 35 countries worldwide, with headquarters in Foster City, California.
+Our portfolio of marketed products includes AmBisome , Atripla , Biktarvy , Cayston , Complera , Descovy , Descovy for PrEP , Emtriva , Epclusa , Eviplera , Genvoya , Harvoni , Hepcludex , Hepsera , Jyseleca , Letairis , Livdelzi , Odefsey , Sovaldi , Stribild , Sunlenca , Tecartus , Trodelvy , Truvada , Truvada for PrEP , Tybost , Veklury , Vemlidy , Viread , Vosevi , Yescarta and Zydelig . The approval status of Hepcludex and Jyseleca vary worldwide, and Hepcludex and Jyseleca are not approved in the U.S. We also sell and distribute authorized generic versions of Epclusa and Harvoni in the U.S. through our separate subsidiary, Asegua Therapeutics, LLC. In addition, we sell and distribute certain products through our corporate partners under collaborative agreements. See Note 2. Revenues for a summary of disaggregated revenues by product and geographic region.
+We have one operating segment which primarily focuses on the discovery, development and commercialization of innovative medicines in areas of unmet medical need. See Note 17. Segment Information for further details.
+Significant Accounting Policies
+Basis of Presentation
+The accompanying Consolidated Financial Statements have been prepared in accordance with U.S. generally accepted accounting principles and include the accounts of Gilead, our wholly-owned subsidiaries and any variable interest entities ("VIEs") for which we are the primary beneficiary. All intercompany transactions have been eliminated. For any consolidated entities where we own or are exposed to less than 100% of the economics, we record net income or loss attributable to noncontrolling interests in our Consolidated Statements of Operations equal to the attributable economic or ownership interest retained in such entities by the respective noncontrolling parties.
+When we obtain a variable interest in another entity, we assess at the inception of the relationship and upon occurrence of certain significant events whether the entity is a VIE and, if so, whether we are the primary beneficiary of the VIE based on our power to direct the activities of the VIE that most significantly impact the VIE's economic performance and our obligation to absorb losses or the right to receive benefits from the VIE that could potentially be significant to the VIE.
+The preparation of these Consolidated Financial Statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses and related disclosures. On an ongoing basis, we evaluate our significant accounting policies and estimates. We base our estimates on historical experience and on various market-specific and other relevant assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Estimates are assessed each period and updated to reflect current information. Actual results may differ significantly from these estimates.
+Certain amounts and percentages herein may not sum or recalculate due to rounding.
+58
+Revenue Recognition
+Product Sales
+We recognize revenue from product sales when control of the product transfers to the customer, which is generally upon shipment or delivery, or in certain cases, upon the corresponding sales by our customer to a third party. Revenues are recognized net of estimated rebates and chargebacks, patient co-pay assistance, prompt pay discounts, distributor fees, sales return provisions and other related deductions. These deductions to product sales are referred to as gross-to-net deductions and are estimated and recorded in the period in which the related product sales occur. Our payment terms to customers generally range from 30 to 90 days; however, payment terms differ by jurisdiction, by customer and, in some instances, by type of product. Revenues from product sales, net of gross-to-net deductions, are recorded only to the extent a significant reversal in the amount of cumulative revenue recognized is not probable of occurring when the uncertainty associated with gross-to-net deductions is subsequently resolved. Taxes assessed by governmental authorities and collected from customers are excluded from product sales. If we expect, at contract inception, that the period between the transfer of control and corresponding payment from the customer will be one year or less, we do not adjust the amount of consideration for the effects of a financing component. Shipping and handling activities are considered to be fulfillment activities and not a separate performance obligation.
+Gross-to-Net Deductions
+Rebates and Chargebacks
+Rebates and chargebacks are based on contractual arrangements or statutory requirements and include amounts due to payers and healthcare providers under various programs. These amounts may vary by product, payer and individual plans. Providers qualified under certain programs can purchase our products through wholesalers or other distributors at a discount. The wholesalers or distributors then charge the discount back to us.
+Rebates and chargebacks are estimated primarily based on product sales, including product mix and pricing, historical and estimated payer mix and discount rates, among other inputs, which require significant estimates and judgment. We assess and update our estimates each reporting period to reflect actual claims and other current information.
+Chargebacks that are payable to our direct customers are generally classified as reductions of Accounts receivable on our Consolidated Balance Sheets. Rebates that are payable to third party payers and healthcare providers are recorded in Accrued rebates on our Consolidated Balance Sheets.
+Patient Co-Pay Assistance
+Co-pay assistance represents financial assistance to qualified patients, assisting them with prescription drug co-payments required by insurance. Our accrual for co-pay is based on an estimate of claims and the cost per claim that we expect to receive associated with inventory that exists in the distribution channel at period end.
+Cash Discounts
+We estimate cash discounts based on contractual terms, historical customer payment patterns and our expectations regarding future customer payment patterns.
+Distributor Fees
+Under our inventory management agreements with our significant U.S. wholesalers, we pay the wholesalers a fee primarily for compliance with certain contractually-determined covenants such as the maintenance of agreed-upon inventory levels. These distributor fees are based on a contractually-determined fixed percentage of sales.
+Allowance for Sales Returns
+Allowances are made for estimated sales returns by our customers and are recorded in the period the related revenue is recognized. We typically permit returns if the product is damaged, defective, or otherwise cannot be used by the customer. In the U.S., we typically permit returns six months prior to and up to one year after the product expiration date. Outside the U.S., returns are only allowed in certain countries on a limited basis.
+Our estimates of sales returns are based primarily on analysis of our historical product return patterns, industry information reporting the return rates for similar products and contractual agreement terms. We also take into consideration known or expected changes in the marketplace specific to each product.
+Royalty, Contract and Other Revenues
+Royalty revenue is recognized in the period in which the obligation is satisfied and the corresponding sales by our corporate partners occur. Contract and other revenues are recognized when the performance obligation is satisfied.
+59
+Research and Development Expenses
+Research and development expenses are recorded when incurred and consist primarily of personnel costs including salaries, benefits and stock-based compensation expense, infrastructure, materials and supplies and other support costs, research and clinical studies performed by contract research organizations ("CROs") and our collaboration partners and other outside services. From time to time, we enter into development and collaboration agreements in which we share expenses with a collaboration partner. We record payments received from our collaborative partners for their share of the development costs as a reduction of Research and development expenses.
+Clinical study costs are a significant component of Research and development expenses. Most of our clinical studies are performed by third-party CROs. We monitor levels of performance under each significant contract including the extent of patient enrollment and other activities through communications with our CROs. We accrue costs for clinical studies performed by CROs over the service periods specified in the contracts and adjust our estimates, if required, based upon our ongoing review of the level of effort and costs actually incurred by the CROs. All of our material CRO contracts are terminable by us upon written notice and we are generally only liable for actual services completed by the CRO and certain non-cancelable expenses incurred at any point of termination. Payments we make for research and development ("R&D") services prior to the services being rendered are recorded as prepaid assets within Prepaid and other current assets on our Consolidated Balance Sheets and are expensed as the services are provided.
+Acquired In-Process Research and Development Expenses
+Acquired in-process research and development expenses are recorded when incurred and reflect costs of externally-developed in-process research and development ("IPR&D") projects, acquired directly in a transaction other than a business combination, that do not have an alternative future use, including upfront and pre-commercialization milestone payments related to various collaborations and the costs of rights to IPR&D projects.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses are recorded when incurred and consist primarily of personnel costs, facilities and overhead costs, and selling, marketing and advertising expenses, as well as other general and administrative costs related to finance, human resources, legal and other administrative activities.
+Advertising expenses within Selling, general and administrative expenses, including promotional expenses, are recorded when incurred and were $ 869 million, $ 826 million and $ 778 million for the years ended December 31, 2024, 2023 and 2022, respectively.
+Stock-Based Compensation
+We provide stock-based compensation in the form of various types of equity-based awards, including restricted stock units ("RSUs"), performance share units ("PSUs") and stock options, and through our Employee Stock Purchase Plan and the International Employee Stock Purchase Plan (together, as amended, the "ESPP"). Stock-based compensation expense is based on the estimated fair value of the award on the grant date, or the first date of the ESPP purchase period, and recognized over the requisite service periods on our Consolidated Statements of Operations using the straight-line expense attribution approach, reduced for estimated forfeitures. We estimate forfeitures based on our historical experience. The requisite service period could be shorter than the vesting period if an employee is retirement eligible or if an employee terminates due to death or disability.
+The estimated fair value of RSUs is based on the closing price of our common stock on the grant date. For PSUs, depending on the terms of the award, estimated fair value is based on either the Monte Carlo valuation methodology or the closing stock price on the grant date. For stock option and ESPP awards, estimated fair value is based on the Black-Scholes option valuation model. Estimated inputs to that model include (i) expected volatility, based on a blend of historical volatility of our common stock price along with implied volatility for traded options on our common stock, (ii) expected term in years, based on the weighted-average period awards are expected to remain outstanding using historical cancellation and exercise data, contractual terms and vesting terms of the award, (iii) risk-free interest rate, based on observed interest rates appropriate for the term of the stock-based awards, and (iv) expected dividend yield, based on our history and expectation of dividend payments.
+Earnings Per Share
+Basic earnings per share attributable to Gilead is calculated based on Net income attributable to Gilead on our Consolidated Statements of Operations divided by the weighted-average number of shares of our common stock outstanding during the period. Diluted earnings per share attributable to Gilead is calculated based on Net income attributable to Gilead on our Consolidated Statements of Operations divided by the weighted-average number of shares of our common stock and other dilutive securities outstanding during the period. The potentially dilutive shares of our common stock resulting from the assumed exercise of outstanding stock options and equivalents are determined under the treasury stock method.
+60
+Cash and Cash Equivalents
+We consider highly liquid investments with insignificant interest rate risk and an original maturity of three months or less on the purchase date to be cash equivalents.
+Marketable Debt Securities
+All of our marketable debt securities are classified as available-for-sale and recorded at estimated fair values. We determine the appropriate classification of our marketable debt securities at the time of purchase and reevaluate such designation at each balance sheet date. We regularly review our investments for declines in fair value below their amortized cost basis to determine whether the impairment is due to credit-related factors or noncredit-related factors. Our review includes the creditworthiness of the security issuers, the severity of the unrealized losses, whether we have the intent to sell the securities and whether it is more likely than not that we will be required to sell the securities before the recovery of their amortized cost bases. When we determine that a portion of the unrealized loss is due to an expected credit loss, we recognize the loss amount in Other (income) expense, net, with a corresponding allowance against the carrying value of the security we hold. The portion of any unrealized loss related to factors other than credit losses, as well as any unrealized gains, are recognized in Accumulated other comprehensive income on our Consolidated Balance Sheets until realized, at which point they are reclassified into Other (income) expense, net on our Consolidated Statements of Operations. Interest and amortization of purchase premiums and discounts are also recorded in Other (income) expense, net on our Consolidated Statements of Operations. The cost of securities sold is based on the specific identification method.
+Accounts Receivable
+Trade accounts receivable are recorded net of allowances for wholesaler chargebacks related to government and other programs, cash discounts for prompt payment and estimated credit losses. Estimates of our allowance for credit losses consider a number of factors, including existing contractual payment terms, individual customer circumstances, historical payment patterns of our customers, a review of the local economic environment and its potential impact on expected future customer payment patterns and government funding and reimbursement practices.
+Inventories
+Inventories are recorded at the lower of cost or net realizable value, with cost determined on a first-in, first-out basis. We periodically review our inventories to identify obsolete, slow-moving, excess or otherwise unsaleable items. If obsolete, slow-moving, excess or unsaleable items are observed and there are no alternate uses for the inventory, we record a write-down to net realizable value through a charge to Cost of goods sold on our Consolidated Statements of Operations. The determination of net realizable value requires judgment, including consideration of many factors, such as estimates of future product demand, product net selling prices, current and future market conditions and potential product obsolescence, among others. Inventories that are not expected to be sold within 12 months are classified in Other long-term assets on our Consolidated Balance Sheets.
+When future commercialization of a product is considered probable and the future economic benefit is expected to be realized, based on management's judgment, we capitalize pre-launch inventory costs prior to regulatory approval. A number of factors are considered, including the current status in the regulatory approval process, potential impediments to the approval process such as safety or efficacy, anticipated R&D initiatives that could impact the indication in which the compound will be used, viability of commercialization and marketplace trends.
+Equity Securities
+Equity securities with readily determinable fair values, including those for which we have elected the fair value option, are recorded at fair market value, and unrealized gains and losses are included in Other (income) expense, net on our Consolidated Statements of Operations.
+Equity securities without readily determinable fair values are recorded using the measurement alternative of cost less impairment, if any, adjusted for observable price changes in orderly transactions for identical or similar investments of the same issuer. Any impairments or adjustments are recorded in Other (income) expense, net on our Consolidated Statements of Operations.
+For investments in entities over which we have significant influence but do not meet the requirements for consolidation and have not elected the fair value option, we use the equity method of accounting, with our share of the underlying income or loss of such entities reported in Other (income) expense, net on our Consolidated Statements of Operations.
+Our investments in equity securities are classified in Prepaid and other current assets or Other long-term assets on our Consolidated Balance Sheets, generally depending on marketability and whether the securities are subject to lock-up provisions. We regularly review our securities for indicators of impairment.
+61
+Property, Plant and Equipment
+Property, plant and equipment is stated at cost less accumulated depreciation and amortization. Depreciation and amortization are recognized using the straight-line method. Repairs and maintenance costs are expensed as incurred. Estimated useful lives in years are generally as follows:
+Description Estimated Useful Life
+Buildings and improvements Shorter of 35 years or useful life
+Laboratory and manufacturing equipment 4 - 10
+Office, computer equipment and other 3 - 15
+Leasehold improvements Shorter of useful life or lease term
+See "Impairment of Long-Lived Assets" for additional information.
+Leases
+We determine if an arrangement contains a lease at inception and classify each lease as operating or financing. Right-of-use assets and lease liabilities are recognized at the commencement date based on the present value of the lease payments over the lease term, which is the non-cancelable period stated in the contract adjusted for any options to extend or terminate when it is reasonably certain that we will exercise that option. Right-of-use assets are adjusted for prepaid lease payments, lease incentives and initial direct costs incurred. Operating lease expense for the minimum lease payments is recognized on a straight-line basis over the lease term.
+We account for lease and nonlease components in our lease agreements as a single lease component in determining lease assets and liabilities. In addition, we do not recognize the right-of-use assets and liabilities for leases with lease terms of one year or less.
+As most of our operating leases do not provide an implicit interest rate, we generally utilize a collateralized incremental borrowing rate, applied in a portfolio approach when relevant, based on the information available at the commencement date to determine the lease liability.
+Acquisitions, including Goodwill, Intangible Assets and Contingent Consideration
+We account for business combinations using the acquisition method of accounting, which generally requires that assets acquired, including IPR&D projects, and liabilities assumed be recorded at their fair values as of the acquisition date on our Consolidated Balance Sheets. Any excess of consideration over the fair value of net assets acquired is recorded as goodwill. The determination of estimated fair value requires us to make significant estimates and assumptions. As a result, we may record adjustments to the fair values of assets acquired and liabilities assumed within the measurement period, which may be up to one year from the acquisition date, with the corresponding offset to goodwill. Transaction costs associated with business combinations are expensed as they are incurred.
+Intangible assets related to IPR&D projects are considered to be indefinite-lived until the abandonment or completion of the associated R&D efforts, which generally occurs when regulatory approval is obtained. Goodwill and indefinite-lived intangible assets are not amortized and, instead, are tested for impairment annually or more frequently if events or changes in circumstances indicate that it is more likely than not that the assets are impaired.
+Intangible assets with finite useful lives are amortized over their estimated useful lives, primarily on a straight-line basis, and are also periodically reviewed for changes in facts or circumstances resulting in a reduction to the estimated useful life of the asset, requiring the acceleration of amortization. See "Impairment of Long-Lived Assets" for additional information.
+In determining the initial fair value of an intangible asset, or when quantitative analysis is required to determine any impairment, we use a probability-weighted income approach that discounts expected future cash flows to present value using a discount rate that is based on the estimated weighted-average cost of capital for companies with profiles similar to ours and represents the rate that market participants would use to value the intangible assets. These cash flow models require the use of Level 3 fair value measurements and inputs, including estimated revenues, which, for example, include significant inputs such as addressable patient population, treatment duration, projected market share, assessment of the asset's life cycle, and competitive trends impacting the asset; costs and probability of technical and regulatory success, among other factors.
+In connection with certain acquisitions, we may be required to pay future consideration that is contingent upon the achievement of specified development, regulatory approval or sales-based milestone events. We record contingent consideration resulting from a business combination at its fair value on the acquisition date. Each reporting period thereafter, we revalue these obligations and record increases or decreases in their fair value on our Consolidated Statements of Operations until such time that the payment is made. Increases or decreases in fair value of the contingent consideration liabilities can result from updates to assumptions such as the expected timing or probability of achieving the specified milestones, changes in projected revenues or changes in discount rates.
+62
+When we determine net assets acquired do not meet the definition of a business combination under the acquisition method of accounting, the transaction is accounted for as an asset acquisition and, therefore, no goodwill is recorded and contingent consideration generally is not recognized at the acquisition date. In an asset acquisition, upfront payments allocated to IPR&D projects at the acquisition date and subsequent pre-commercialization milestone payments are expensed as incurred on our Consolidated Statements of Operations unless there is an alternative future use.
+Impairment of Long-Lived Assets
+Long-lived assets, including property, plant and equipment and finite-lived intangible assets, are reviewed for impairment whenever facts or circumstances either internally or externally may indicate that the carrying value of an asset may not be recoverable. Should there be an indication of impairment, we test for recoverability by comparing the estimated undiscounted future cash flows expected to result from the use of the asset over its useful life to the carrying amount of the asset or asset group. If the asset or asset group is determined to be impaired, any excess of the carrying value of the asset or asset group over its estimated fair value is recognized as an impairment loss.
+Derivatives
+We recognize all derivative instruments as either assets or liabilities at fair value on our Consolidated Balance Sheets. Unrealized changes in the fair value of derivatives designated as part of a hedge transaction are recorded in Accumulated other comprehensive income. For our hedges related to forecasted product sales, the unrealized gains or losses in Accumulated other comprehensive income are reclassified into Product sales on our Consolidated Statements of Operations when the respective hedged transactions affect earnings. Changes in the fair value of derivatives that are not part of a hedge transaction are recorded each period in Other (income) expense, net on our Consolidated Statements of Operations.
+Using regression analysis, we assess, both at inception and on an ongoing basis, whether the derivatives that are used in hedging transactions are effective in offsetting the changes in cash flows or fair values of the hedged items. If we determine that a forecasted transaction is probable of not occurring, we discontinue hedge accounting for the affected portion of the hedge instrument, and any related unrealized gain or loss on the contract is recognized in Other (income) expense, net on our Consolidated Statements of Operations.
+Contingencies
+We recognize accruals for loss contingencies to the extent that we conclude that a loss is both probable and reasonably estimable. We accrue the best estimate of loss within a range; however, if no estimate in the range is better than any other, then we accrue the minimum amount in the range. If we determine that a material loss is reasonably possible, we disclose the possible loss or range of loss, or that the amount of loss cannot be estimated at this time.
+Income Taxes
+Our income tax provision is computed under the liability method. Significant estimates are required in determining our provision for income taxes. Some of these estimates are based on interpretations of applicable tax laws or regulations.
+Deferred tax assets and liabilities are determined based on the difference between the financial statement and tax basis of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. We record a valuation allowance to reduce our deferred tax assets to the amounts that are more likely than not to be realized. We consider future taxable income, ongoing tax planning strategies and our historical financial performance in assessing the need for a valuation allowance. If we expect to realize deferred tax assets for which we have previously recorded a valuation allowance, we will reduce the valuation allowance in the period in which such determination is first made.
+We recognize the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained upon examination by tax authorities based on the technical merits of the position. The tax benefit recognized in the Consolidated Financial Statements for a particular tax position is based on the largest benefit that is more likely than not to be realized. The amount of unrecognized tax benefits ("UTB") is adjusted as appropriate for changes in facts and circumstances, such as significant amendments to existing tax law, new regulations or interpretations by tax authorities, new information obtained during a tax examination or resolution of an examination. We recognize both accrued interest and penalties, where appropriate, related to UTB in Income tax expense on our Consolidated Statements of Operations.
+We have elected to account for the tax on Global Intangible Low-Taxed Income, enacted as part of the Tax Cuts and Jobs Act, as a component of tax expense in the period in which the tax is incurred.
+63
+Stock Repurchases
+We use the par value method of accounting for our stock repurchases made under repurchase programs. Under the par value method, we record the par value of the shares repurchased to Common stock and the historical issuance cost over par value of the shares repurchased to Additional paid-in capital. The excess of the cost of the shares repurchased over these two amounts is then recorded to Retained earnings .
+Foreign Currency Translation and Transactions
+Our Consolidated Financial Statements are presented in U.S. dollars. The functional currency for most of our foreign subsidiaries is their local currency. Revenues, expenses, gains and losses for non-U.S. dollar functional currency entities are translated into U.S. dollars using average currency exchange rates for the period. Assets and liabilities for such entities are translated using exchange rates that approximate the rate at the balance sheet date. Foreign currency translation adjustments are recorded as a component of Accumulated other comprehensive income on our Consolidated Balance Sheets. Foreign currency transaction gains and losses on transactions not denominated in functional currency are recorded in Other (income) expense, net, on our Consolidated Statements of Operations.
+Fair Value Measurements
+We apply fair value accounting for all financial and non-financial assets and liabilities that are recognized or disclosed at fair value in the financial statements on a recurring basis. We define fair value as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and liabilities which are required to be recorded at fair value, we consider the principal or most advantageous market in which we would transact and the market-based risk measurements or assumptions that market participants would use in pricing the asset or liability, such as risks inherent in valuation techniques, transfer restrictions and credit risks.
+We determine the fair value using the fair value hierarchy, which establishes three levels of inputs that may be used to measure fair value, as follows:
+Level 1 inputs include quoted prices in active markets for identical assets or liabilities;
+Level 2 inputs include observable inputs other than Level 1 inputs, such as quoted prices for similar assets or liabilities in active markets; quoted prices for identical or similar assets or liabilities in markets that are not active; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the asset or liability; and
+Level 3 inputs include unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the underlying asset or liability. Our Level 3 assets and liabilities include those whose fair value measurements are determined using pricing models, discounted cash flow methodologies or similar valuation techniques and significant management judgment or estimation.
+Recently Adopted Accounting Pronouncements
+In November 2023, Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") No. 2023-07 "Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures." ASU 2023-07 requires incremental annual and quarterly disclosures about segment measures of profit or loss as well as significant segment expenditures. It also requires public entities with a single reportable segment to provide all segment disclosures required by the amendments in the update and all existing segment disclosures in Topic 280. Beginning with this Annual Report on Form 10-K, we adopted this standard using a retrospective approach, resulting in increased disclosures in our Notes to Consolidated Financial Statements. See Note 17. Segment Information for additional information.
+Recently Issued Accounting Pronouncements Not Yet Adopted
+In November 2024, FASB issued ASU No. 2024-03 "Income Statement — Reporting Comprehensive Income — Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses." ASU 2024-03 requires disclosure, in the notes to financial statements, of specified information about certain costs and expenses, and can be applied prospectively or retrospectively. We plan to adopt this guidance beginning with our 2027 annual report to be filed in early 2028 and all quarterly and annual reports thereafter. We expect the adoption of this standard to result in increased disclosures in our Notes to Consolidated Financial Statements.
+In December 2023, FASB issued ASU No. 2023-09 "Income Taxes (Topic 740): Improvements to Income Tax Disclosures." ASU 2023-09 requires incremental annual disclosures around income tax rate reconciliations, income taxes paid and other related disclosures. This guidance requires prospective application and permits retrospective application to prior periods presented. We plan to adopt it beginning with our 2025 annual report to be filed in early 2026. We expect the adoption of this standard to result in increased disclosures in our Notes to Consolidated Financial Statements.
+64
+2. REVENUES
+Disaggregation of Revenues
+The following table summarizes our Total revenues:
+Year Ended December 31, 2024 Year Ended December 31, 2023 Year Ended December 31, 2022
+(in millions) U.S. Europe (6)
+Rest of World (6)
+Total U.S. Europe (6)
+Rest of World (6)
+Total U.S. Europe (6)
+Rest of World (6)
+Total
+Product sales:
+HIV
+Biktarvy $ 10,855 $ 1,509 $ 1,060 $ 13,423 $ 9,692 $ 1,253 $ 905 $ 11,850 $ 8,510 $ 1,103 $ 777 $ 10,390
+Descovy 1,902 100 110 2,113 1,771 100 114 1,985 1,631 118 123 1,872
+Genvoya 1,498 180 84 1,762 1,752 205 103 2,060 1,983 284 136 2,404
+Odefsey 957 290 41 1,288 1,012 294 44 1,350 1,058 364 47 1,469
+Symtuza - Revenue share (1)
+450 130 12 592 382 133 13 529 348 168 14 530
+Other HIV (2)
+257 129 48 434 238 116 47 401 290 182 59 530
+Total HIV 15,918 2,339 1,355 19,612 14,848 2,102 1,226 18,175 13,820 2,219 1,155 17,194
+Liver Disease
+Sofosbuvir/Velpatasvir (3)
+922 299 374 1,596 859 323 355 1,537 844 355 331 1,530
+Vemlidy 486 44 428 959 410 38 414 862 429 35 379 842
+Other Liver Disease (4)
+192 202 73 467 152 150 83 385 167 135 124 426
+Total Liver Disease 1,601 545 876 3,021 1,421 511 852 2,784 1,440 525 833 2,798
+Veklury 892 284 623 1,799 972 408 805 2,184 1,575 702 1,628 3,905
+Oncology
+Cell Therapy
+Tecartus 234 138 31 403 245 110 15 370 221 75 3 299
+Yescarta 662 666 242 1,570 811 547 140 1,498 747 355 57 1,160
+Total Cell Therapy 896 804 274 1,973 1,055 658 156 1,869 968 430 60 1,459
+Trodelvy 902 294 119 1,315 777 217 68 1,063 525 143 12 680
+Total Oncology 1,798 1,098 393 3,289 1,833 875 224 2,932 1,494 573 73 2,139
+Other
+AmBisome 44 276 212 533 43 260 189 492 57 258 182 497
+Other (5)
+255 34 68 356 261 40 66 367 331 65 53 449
+Total Other 299 310 280 889 304 301 255 859 388 323 235 946
+Total product sales 20,508 4,576 3,526 28,610 19,377 4,197 3,361 26,934 18,716 4,342 3,924 26,982
+Royalty, contract and other revenues 82 58 4 144 62 114 7 182 168 127 4 299
+Total revenues $ 20,591 $ 4,634 $ 3,529 $ 28,754 $ 19,438 $ 4,310 $ 3,368 $ 27,116 $ 18,884 $ 4,469 $ 3,928 $ 27,281
+_______________________________
+(1) Represents our revenue from cobicistat ("C"), emtricitabine ("FTC") and tenofovir alafenamide ("TAF") in Symtuza (darunavir/C/FTC/TAF), a fixed dose combination product commercialized by Janssen Sciences Ireland Unlimited Company ("Janssen"). See Note 7. Collaborations and Other Arrangements for additional information.
+(2) Includes Atripla, Complera/Eviplera, Emtriva, Stribild, Sunlenca, Truvada and Tybost.
+(3) Includes Epclusa and the authorized generic version of Epclusa sold by Gilead's separate subsidiary, Asegua Therapeutics LLC ("Asegua").
+(4) Includes ledipasvir/sofosbuvir (Harvoni and the authorized generic version of Harvoni sold by Asegua), Hepcludex, Hepsera, Livdelzi, Sovaldi, Viread and Vosevi.
+(5) Includes Cayston, Jyseleca, Letairis, Ranexa and Zydelig.
+(6) All individual international locations accounted for less than 10% of Total revenues .
+Revenues from Major Customers
+The following table summarizes revenues from each of our customers who individually accounted for 10% or more of our Total revenues:
+Year Ended December 31,
+(as a percentage of total revenues) 2024 2023 2022
+Cardinal Health, Inc. 26 % 26 % 25 %
+Cencora, Inc. 18 % 19 % 18 %
+McKesson Corporation 20 % 21 % 20 %
+65
+Revenues Recognized from Performance Obligations Satisfied in Prior Years
+The following table summarizes revenues recognized from performance obligations satisfied in prior years:
+Year Ended December 31,
+(in millions) 2024 2023 2022
+Revenue share with Janssen (1) and royalties for licenses of intellectual property
+$ 727 $ 680 $ 783
+Changes in estimates $ 452 $ 340 $ 582
+_______________________________
+(1) See Note 7. Collaborations and Other Arrangements for additional information.
+Contract Balances
+The following table summarizes our contract balances:
+December 31,
+(in millions) 2024 2023
+Contract assets $ 277 $ 117
+Contract liabilities (1)
+$ 58 $ 109
+_______________________________
+(1) Future revenues recognized from contract liabilities are not expected to be material in any one year.
+3. FAIR VALUE MEASUREMENTS
+Recurring Fair Value Measurements
+The following table summarizes the types of assets and liabilities measured at fair value on a recurring basis by level within the fair value hierarchy:
+December 31, 2024 December 31, 2023
+(in millions) Level 1 Level 2 Level 3 Total Level 1 Level 2 Level 3 Total
+Assets:
+Available-for-sale debt securities (1) :
+U.S. treasury securities $ — $ — $ — $ — $ 426 $ — $ — $ 426
+U.S. government agencies securities — — — — — 127 — 127
+Non-U.S. government securities — — — — — 10 — 10
+Certificates of deposit — — — — — 45 — 45
+Corporate debt securities — — — — — 1,451 — 1,451
+Residential mortgage and asset-backed securities — — — — — 367 — 367
+Equity securities:
+Money market funds 8,502 — — 8,502 4,465 — — 4,465
+Publicly traded equity securities (2)
+1,561 — — 1,561 1,458 — — 1,458
+Deferred compensation plan 343 — — 343 284 — — 284
+Foreign currency derivative contracts — 128 — 128 — 7 — 7
+Total $ 10,405 $ 128 $ — $ 10,533 $ 6,633 $ 2,007 $ — $ 8,639
+Liabilities:
+Contingent consideration liability $ — $ — $ 206 $ 206 $ — $ — $ 228 $ 228
+Deferred compensation plan 343 — — 343 283 — — 283
+Foreign currency derivative contracts — 3 — 3 — 59 — 59
+Total $ 343 $ 3 $ 206 $ 552 $ 283 $ 59 $ 228 $ 570
+_______________________________
+(1) During the three months ended March 31, 2024, we sold all of our available-for-sale debt securities and used the proceeds to partially fund our acquisition of CymaBay Therapeutics, Inc. ("CymaBay") discussed in Note 6. Acquisitions.
+(2) Publicly traded equity securities include our investment in Arcellx, Inc. ("Arcellx") of $ 515 million as of December 31, 2024, which is subject to contractual sale restrictions until June 2025. See Note 7. Collaborations and Other Arrangements for additional information.
+66
+Level 2 Inputs
+Available-for-Sale Debt Securities
+For our available-for-sale debt securities, we estimate the fair values by reviewing trading activity and pricing as of the measurement date and by taking into consideration valuations obtained from third-party pricing services. The pricing services utilize industry standard valuation models, including both income-based and market-based approaches, for which all significant inputs are observable, either directly or indirectly, to estimate the fair value. These inputs include reported trades of and broker/dealer quotes on the same or similar securities, issuer credit spreads, benchmark securities, prepayment/default projections based on historical data and other observable inputs.
+Foreign Currency Derivative Contracts
+Our foreign currency derivative contracts have maturities of 18 months or less and all are with counterparties that have a minimum credit rating of A- or equivalent by S&P Global Ratings, Moody's Investors Service, Inc. or Fitch Ratings, Inc. We estimate the fair values of these contracts by utilizing an income-based industry standard valuation model for which all significant inputs are observable, either directly or indirectly. These inputs include foreign currency exchange rates, Secured Overnight Financing Rate ("SOFR") and swap rates. These inputs, where applicable, are observable at commonly quoted intervals.
+Level 3 Inputs
+Contingent Consideration Liability
+In connection with our first quarter 2021 acquisition of MYR GmbH ("MYR"), we are subject to a potential contingent consideration payment of up to 300 million, subject to customary adjustments, which is revalued each reporting period using probability-weighted scenarios for U.S. Food and Drug Administration ("FDA") approval of Hepcludex until the related contingency is resolved.
+The following table summarizes the change in fair value of our contingent consideration liability:
+Year Ended December 31,
+(in millions) 2024 2023
+Beginning balance $ 228 $ 275
+Changes in valuation assumptions (1)
+( 7 ) ( 60 )
+Effect of foreign exchange remeasurement (2)
+( 14 ) 12
+Ending balance (3)
+$ 206 $ 228
+_______________________________
+(1) Included in Research and development expenses on our Consolidated Statements of Operations. The change in 2023 primarily related to changes in assumptions around probability and timing of regulatory approval.
+(2) Included in Other (income) expense, net on our Consolidated Statements of Operations.
+(3) Included in Other long-term obligations on our Consolidated Balance Sheets.
+Fair Value Level Transfers
+There were no transfers between Level 1, Level 2 and Level 3 in the periods presented.
+Nonrecurring Fair Value Measurements
+In 2024, 2023 and 2022, we recorded partial impairment charges of $ 4.2 billion, $ 50 million and $ 2.7 billion, respectively, related to certain IPR&D assets. See Note 9. Goodwill and Intangible Assets for additional information.
+In 2023, we recorded a $ 51 million write-off of our finite-lived intangible asset related to filgotinib as discussed in Note 9. Goodwill and Intangible Assets, as well as a $ 381 million write-off of manufacturing assets related to changes in our manufacturing strategy as discussed in Note 10. Other Financial Information. Both charges were recorded within Cost of goods sold on our Consolidated Statements of Operations.
+67
+Other Fair Value Disclosures
+Senior Unsecured Notes
+The following table summarizes the total estimated fair value and carrying value of our senior unsecured notes, determined using Level 2 inputs based on their quoted market values:
+December 31,
+(in millions) 2024 2023
+Fair value $ 23,335 $ 22,567
+Carrying value $ 25,562 $ 23,834
+Liability Related to Future Royalties
+We recorded a liability related to future royalties as part of our 2020 acquisition of Immunomedics, Inc. ("Immunomedics"), which is subsequently amortized using the effective interest method over the remaining estimated life. The fair value of the liability related to future royalties, determined using Level 3 inputs, was approximately $ 0.9 billion and $ 1.2 billion as of December 31, 2024 and 2023, respectively, and the carrying value was $ 1.1 billion and $ 1.2 billion as of December 31, 2024 and 2023, respectively. See Note 11. Debt and Credit Facilities for additional information.
+4. AVAILABLE-FOR-SALE DEBT SECURITIES AND EQUITY SECURITIES
+Available-for-Sale Debt Securities
+During the three months ended March 31, 2024, we sold all of our available-for-sale debt securities and used the proceeds to partially fund our acquisition of CymaBay discussed in Note 6. Acquisitions. As such, there are no balances as of December 31, 2024 in the following tables.
+The following table summarizes our available-for-sale debt securities as of December 31, 2023:
+December 31, 2023
+(in millions) Amortized Cost Gross Unrealized Gains Gross Unrealized Losses Estimated Fair Value
+U.S. treasury securities $ 427 $ — $ ( 1 ) $ 426
+U.S. government agencies securities 127 — — 127
+Non-U.S. government securities 10 — — 10
+Certificates of deposit 45 — — 45
+Corporate debt securities 1,455 4 ( 8 ) 1,451
+Residential mortgage and asset-backed securities 366 1 — 367
+Total $ 2,430 $ 5 $ ( 10 ) $ 2,426
+The following table summarizes information related to available-for-sale debt securities that have been in a continuous unrealized loss position, classified by length of time, as of December 31, 2023:
+December 31, 2023
+Less Than 12 Months 12 Months or Longer Total
+(in millions) Gross Unrealized Losses Estimated Fair Value Gross Unrealized Losses Estimated Fair Value Gross Unrealized Losses Estimated Fair Value
+U.S. treasury securities $ — $ 161 $ ( 1 ) $ 48 $ ( 1 ) $ 209
+U.S. government agencies securities — 106 — 2 — 108
+Non-U.S. government securities — 5 — 5 — 10
+Corporate debt securities ( 1 ) 333 ( 7 ) 546 ( 8 ) 878
+Residential mortgage and asset-backed securities — 123 — 24 — 147
+Total $ ( 2 ) $ 727 $ ( 8 ) $ 624 $ ( 10 ) $ 1,351
+68
+The following table summarizes the classification of our available-for-sale debt securities in our Consolidated Balance Sheets as of December 31, 2023:
+(in millions) December 31, 2023
+Cash and cash equivalents $ 83
+Short-term marketable debt securities 1,179
+Long-term marketable debt securities 1,163
+Total $ 2,426
+Equity Securities
+The following table summarizes the classification of our equity securities on our Consolidated Balance Sheets:
+December 31,
+(in millions) 2024 2023
+Equity securities measured at fair value:
+Cash and cash equivalents $ 8,502 $ 4,465
+Prepaid and other current assets 1,577 1,086
+Other long-term assets 327 656
+Equity method investments and other equity investments without readily determinable fair values:
+Other long-term assets (1)
+386 340
+Total $ 10,791 $ 6,547
+_______________________________
+(1) Mostly comprised of equity interests in certain collaboration partners and investment funds that are considered to be VIEs for which we are not the primary beneficiary. Our maximum exposure to loss as a result of our involvement in these VIEs is limited to the value of our investment.
+For our equity method investments in Galapagos NV ("Galapagos") and Arcus Biosciences, Inc. ("Arcus"), we elected and applied the fair value option as we believe it best reflects the underlying economics of these investments. Our investment in Galapagos was classified in Prepaid and other current assets as of December 31, 2024 and 2023 at $ 462 million and $ 686 million, respectively. Our investment in Arcus was classified in Prepaid and other current assets as of December 31, 2024 and 2023 at $ 448 million and $ 283 million, respectively.
+Unrealized Gains and Losses
+The following table summarizes net unrealized gains and losses on equity securities still held as of the respective balance sheet dates, included in Other (income) expense, net on our Consolidated Statements of Operations:
+Year Ended December 31,
+(in millions) 2024 2023 2022
+Unrealized loss, net $ 284 $ 60 $ 684
+Related Party Transaction
+During the year ended December 31, 2022, Gilead donated certain equity securities at fair value to the Gilead Foundation, a California nonprofit public benefit corporation (the "Foundation"). The Foundation is a related party as certain of our officers also serve as directors of the Foundation. The donation expense of $ 85 million was recorded within Selling, general and administrative expenses on our Consolidated Statements of Operations during the year ended December 31, 2022.
+69
+5. DERIVATIVE FINANCIAL INSTRUMENTS
+Our operations in foreign countries expose us to market risk associated with foreign currency exchange rate fluctuations between the U.S. dollar and various foreign currencies, primarily the Euro. To manage this risk, we hedge a portion of our foreign currency exposures related to outstanding monetary assets and liabilities as well as forecasted product sales using foreign currency exchange forward contracts. In general, the market risk related to these contracts is offset by corresponding gains and losses on the hedged transactions. The credit risk associated with these contracts is driven by changes in interest and currency exchange rates and, as a result, varies over time. By working only with major banks and closely monitoring current market conditions, we seek to limit the risk that counterparties to these contracts may be unable to perform. We also seek to limit our risk of loss by entering into contracts that permit net settlement at maturity. Therefore, our overall risk of loss in the event of a counterparty default is limited to the amount of any unrealized gains on outstanding contracts (i.e., those contracts that have a positive fair value) at the date of default. We do not enter into derivati

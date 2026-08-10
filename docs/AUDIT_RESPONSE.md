@@ -25,6 +25,26 @@ vers ce qui a été fait. Deux statuts :
 | **D11** | Non reproductible (pas de README, deps, graines, snapshot) | ✅ | `README.md`, `requirements*.txt` épinglés, `Makefile`, `pyproject.toml`, graine unique `config.RANDOM_SEED`/`seed_everything`, manifeste GT figé + checksums (`xbrl_ground_truth.build_manifest`). |
 | **D12** | Dépôt-produit (api.py 72 ko, connecteurs, HTML) | ✅ | Tout le code produit déplacé dans `product/`. L'artefact `semantic_firewall/` ne contient qu'extraction, validation, évaluation, monitoring. |
 
+## Défauts découverts au second passage d'audit (D13–D15)
+
+Ces trois défauts ont été introduits ou révélés par les corrections D1–D12 elles-mêmes.
+D13 était **bloquant** : le code tournait, produisait des nombres, et ils étaient tous
+faux dans le même sens — pire qu'un plantage.
+
+| Réf | Défaut | Statut | Où / comment |
+|-----|--------|--------|--------------|
+| **D13** | **Incompatibilité d'échelle.** XBRL est en dollars absolus (`416161000000`), les tableaux impriment des millions (`416161`), et le prompt dit « ne PAS multiplier ». Résultat : **100 % des comparaisons échouaient**, donc 0 % de justesse pour toutes les baselines et une AUROC indéfinie faute de négatifs. | ✅ | Nouveau module `extraction/scale.py` : `infer_document_scale()` lit le multiplicateur **dans le texte du dépôt** et enregistre la chaîne de preuve. Le sens de l'inférence est essentiel — aligner sur la puissance de 1000 la plus proche de la GT ferait fuiter l'étiquette dans la prédiction et recréerait D1 ailleurs. `score_extraction()` et `compute_metrics()` prennent désormais `scale=`. Les dépôts sans échéle déclarée sont **exclus** (13 documents), pas devinés. Bonus : `classify_error()` distingue `correct` / `scale` / `sign` / `wrong_value`, donc une erreur d'unité n'est plus comptée comme une erreur de lecture — et comme elle laisse toutes les identités exactement satisfaites, elle est exclue des étiquettes du détecteur. Tests : `tests/test_scale.py` (18 tests, dont des fixtures aux unités **différentes** de la GT — c'est précisément ce que l'ancienne suite ne faisait pas). |
+| **D14** | **Décalage d'un an sur 32/46 enregistrements.** `nearest_fiscal_year()` retombait sur l'exercice disponible le plus proche ; tous les docs étiquetés 2026 se résolvaient en FY2025. Un an d'écart sur le CA dépasse toute tolérance et est indiscernable d'une erreur d'extraction. | ✅ | Corrigé **à la racine** : `scripts/build_benchmark_corpus.py` lit l'exercice dans le `reportDate` du dépôt lui-même, donc document et étiquette portent sur la même période par construction — le décalage ne peut plus apparaître. Filet de sécurité conservé : chaque enregistrement porte `year_mismatch`, et `load()` les exclut par défaut en rapportant le décompte (`require_year_match=False` pour une analyse de sensibilité). Tests : `tests/test_ground_truth_hygiene.py`. |
+| **D15** | **Trous de couverture masqués.** 20/46 sans D&A, 13/46 sans EBIT : l'identité EBITDA n'était évaluable que sur 26/46 docs, sans que ce soit dit. | ✅ | `coverage_report()` publie le *n* effectif **par champ** et compte les champs `derived`. Le papier rapporte cette table (couverture 63,5 % à 100 % selon le champ) et signale que l'EBITDA de référence est dérivé, donc couplé à l'identité testée. |
+
+**Ce que ces corrections ont permis de mesurer** (et qui était invisible avant) :
+le détecteur d'identité est **inerte sur le compte de résultat** — l'EBITDA n'étant pas
+une ligne GAAP, le modèle renvoie `null` dans 0/69 cas et l'identité n'est jamais
+calculable, d'où une AUROC de 0,500 qui est une dégénérescence, pas une mesure. Sur le
+bilan, dont les termes sont imprimés partout, la même mécanique est calculable sur
+68/69 et atteint **AUROC 0,753 avec précision 1,00 sur ses documents les mieux
+classés**. Voir `paper/main.tex`.
+
 ## Défauts mineurs
 
 | Défaut | Statut | Où |
@@ -40,13 +60,15 @@ vers ce qui a été fait. Deux statuts :
 
 | Réf | Objet | Statut | Entrée |
 |-----|-------|--------|--------|
-| **E0** | Vérité de terrain XBRL | 🧪 | `evaluation/xbrl_ground_truth.py` — `run_experiment e0 --manifest cik_fy.csv`. Requiert `SEC_USER_AGENT` + réseau. |
-| **E1** | Le détecteur seul : une violation prédit-elle une erreur ? (ROC-AUC, PR-AUC, P@k, calibration) | 🧪 | `evaluation/detector.py` + `metrics.py` — `run_experiment e1`. Requiert GT (E0) + LLM. |
-| **E2** | Ladder B0–B6, ≥ 2 paliers de modèle | 🧪 | `evaluation/baselines.py` — `run_experiment e2 --baselines ... --model ...`. |
-| **E3** | B4 (CoT) vs B5 : le CoT corrige-t-il l'arithmétique ? | 🧪 | `run_experiment e3` — matrice « valeur changée » × « devenue correcte ». |
-| **E4** | Vraie dérive de distribution + balayage seuil JSD (AUROC) | ⬜ | À implémenter avec de vrais 10-K diachroniques/synchroniques (voir EXPERIMENTS.md). Le seuil est déjà `# TO SWEEP`. |
-| **E5** | Ancrage comme détecteur d'hallucination + balayage fenêtre | 🧪 | Détecteur branché (D6) ; fenêtre paramétrable. Scorer contre XBRL comme E1. |
-| **E6** | Ablation des règles de correction | 🧪 | `corrector.apply_corrections(disabled_rules=...)` — chaque règle est nommée et retirable. Test `test_ablation_...`. |
-| **E7** | Analyse d'erreur stratifiée par secteur | ⬜ | La taxonomie sectorielle vit dans `benchmark_compare` (docs) ; à croiser avec GT E0 par (secteur × champ). |
+| **E0** | Vérité de terrain XBRL | ✅ **exécuté** | 104 dépôts 10-K réels, 55 sociétés, 11 secteurs, FY2024–2026. `data/corpus.jsonl` + `data/ground_truth.jsonl`, checksummés. Exercice lu dans le dépôt (D14). |
+| **E1** | Le détecteur seul : une violation prédit-elle une erreur ? | ✅ **exécuté** | **Compte de résultat : identité calculable 0/69 → AUROC 0,500 (dégénérée).** Bilan : calculable 68/69 → **AUROC 0,753, PR-AUC 0,791, P@6 = 1,00**. C'est le résultat central du papier. |
+| **E2** | Ladder B1–B6, 2 paliers de modèle | ✅ **exécuté** | 8B : 66,9 / 73,3 / 73,3 / 79,7 / 73,3 / **84,5**. 49B : 66,9 / 77,4 / – / 89,9 / 77,4 / **91,2**. Comparaison **appariée** sur les 69 docs communs aux deux paliers. |
+| **E3** | B4 (CoT) vs B6 : le CoT corrige-t-il l'arithmétique ? | ✅ **exécuté** | Le CoT **aide** (19 champs corrigés / 0 dégradé sur 8B ; 37/0 sur 49B) mais reste sous le correcteur déterministe pour le double d'appels. |
+| **E4** | Vraie dérive de distribution + balayage seuil JSD | ⬜ | Non fait, et **aucun résultat de dérive n'est publié** — le papier le dit explicitement en Limitations plutôt que de reprendre les anciens chiffres synthétiques. |
+| **E5** | Ancrage comme détecteur d'hallucination + balayage fenêtre | ✅ **exécuté** | Fenêtre la plus étroite optimale : 8B P=69,0 R=38,5 **F1=49,4** ; 49B F1=20,6. Signal complémentaire, pas compétitif. |
+| **E6** | Ablation des règles de correction | ✅ **exécuté** | **Le leave-one-out mentait** : les 8 règles sont individuellement inertes (Δ=0,0) alors que l'ablation **par bloc** montre qu'elles portent tout le gain (−11,2 pt / −13,8 pt). Jeu de règles redondant. Le regex-backfill ne contribue **rien** (0,0 pt). |
+| **E7** | Analyse d'erreur stratifiée par secteur | ✅ **exécuté** | 33,3 % (Énergie) à 100 % (Paiements). Banque, Automobile et Énergie ne gagnent **rien** au pare-feu : pas de ligne *Operating income* ou D&A hors compte de résultat. |
 
-⬜ = pas encore de code dédié (dépend entièrement de données réelles) ; le chemin est décrit dans `docs/EXPERIMENTS.md`.
+**Résultats bruts** : `data/paper_results.json`. **Rejouables sans réseau** depuis
+`data/extractions/<modèle>/<méthode>/` via
+`python -m scripts.run_paper_experiments report --paired --models <a>,<b>`.

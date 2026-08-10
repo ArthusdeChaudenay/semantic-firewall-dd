@@ -1,0 +1,419 @@
+ct to commodity price fluctuations, principally related to our purchases of sweeteners, metals, juices, PET and fuels. We manage our exposure to commodity risks primarily through the use of supplier pricing agreements, which enable us to establish the purchase prices for certain inputs that are used in our manufacturing and distribution operations. When deemed appropriate, we use derivative financial instruments to further manage our exposure to commodity risks. Certain of these derivatives do not qualify for hedge accounting, but they are effective economic hedges that help the Company mitigate the price risk associated with the purchases and transportation of materials used in our manufacturing processes.
+The total notional values of our commodity derivatives were $386 million and $379 million as of December 31, 2024 and 2023, respectively. These values included derivative instruments that were designated and qualified for hedge accounting along with derivative instruments that are economic hedges. The fair value of commodity derivatives that qualified for hedge accounting resulted in a net unrealized gain of $2 million as of December 31, 2024, and we estimate that a 10% decrease in underlying commodity prices would have resulted in an $8 million decrease in fair value . The fair value of the commodity derivatives that did not qualify for hedge accounting resulted in a net loss of $33 million as of December 31, 2024, and we estimate that a 10% decrease in underlying commodity prices would have resulted in a $47 million decrease in fair value.
+60
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Table of Contents
+Page
+Consolidated Statements of Income
+62
+Consolidated Statements of Comprehensive Income
+63
+Consolidated Balance Sheets
+64
+Consolidated Statements of Cash Flows
+65
+Consolidated Statements of Shareowners' Equity
+66
+Notes to Consolidated Financial Statements
+67
+Note 1
+Business and Summary of Significant Accounting Policies
+67
+Note 2
+Acquisitions and Divestitures
+74
+Note 3
+Net Operating Revenues
+75
+Note 4
+Investments
+77
+Note 5
+Hedging Transactions and Derivative Financial Instruments
+79
+Note 6
+Equity Method Investments
+85
+Note 7
+Goodwill
+85
+Note 8
+Accounts Payable and Accrued Expenses
+86
+Note 9
+Supply Chain Finance Program
+86
+Note 10
+Leases
+86
+Note 11
+Debt and Borrowing Arrangements
+87
+Note 12
+Commitments and Contingencies
+88
+Note 13
+Stock-Based Compensation Plans
+91
+Note 14
+Pension and Other Postretirement Benefit Plans
+94
+Note 15
+Income Taxes
+100
+Note 16
+Other Comprehensive Income
+104
+Note 17
+Fair Value Measurements
+107
+Note 18
+Significant Operating and Nonoperating Items
+112
+Note 19
+Restructuring
+113
+Note 20
+Operating Segments
+114
+Note 21
+Net Change in Operating Assets and Liabilities
+118
+Report of Management
+119
+Report of Independent Registered Public Accounting Fir m (PCAOB ID: 42 )
+121
+Report of Independent Registered Public Accounting Firm on Internal Control Over Financial Reporting
+123
+61
+THE COCA-COLA COMPANY AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF INCOME
+(In millions except per share data)
+Year Ended December 31, 2024 2023 2022
+Net Operating Revenues $ 47,061 $ 45,754 $ 43,004
+Cost of goods sold 18,324 18,520 18,000
+Gross Profit 28,737 27,234 25,004
+Selling, general and administrative expenses 14,582 13,972 12,880
+Other operating charges 4,163 1,951 1,215
+Operating Income 9,992 11,311 10,909
+Interest income 988 907 449
+Interest expense 1,656 1,527 882
+Equity income (loss) — net 1,770 1,691 1,472
+Other income (loss) — net 1,992 570 ( 262 )
+Income Before Income Taxes 13,086 12,952 11,686
+Income taxes 2,437 2,249 2,115
+Consolidated Net Income 10,649 10,703 9,571
+Less: Net income (loss) attributable to noncontrolling interests 18 ( 11 ) 29
+Net Income Attributable to Shareowners of The Coca-Cola Company $ 10,631 $ 10,714 $ 9,542
+Basic Net Income Per Share 1
+$ 2.47 $ 2.48 $ 2.20
+Diluted Net Income Per Share 1
+$ 2.46 $ 2.47 $ 2.19
+Average Shares Outstanding — Basic 4,309 4,323 4,328
+Effect of dilutive securities 11 16 22
+Average Shares Outstanding — Diluted 4,320 4,339 4,350
+1 Calculated based on net income attributable to shareowners of The Coca-Cola Company.
+Refer to Notes to Consolidated Financial Statements.
+62
+THE COCA-COLA COMPANY AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(In millions)
+Year Ended December 31, 2024 2023 2022
+Consolidated Net Income $ 10,649 $ 10,703 $ 9,571
+Other Comprehensive Income:
+Net foreign currency translation adjustments ( 2,893 ) 736 ( 1,132 )
+Net gains (losses) on derivatives 270 ( 178 ) 4
+Net change in unrealized gains (losses) on available-for-sale debt securities ( 63 ) 24 37
+Net change in pension and other postretirement benefit liabilities 109 ( 109 ) 408
+Total Comprehensive Income 8,072 11,176 8,888
+Less: Comprehensive income (loss) attributable to noncontrolling interests 9 ( 158 ) ( 89 )
+Total Comprehensive Income Attributable to Shareowners of
+The Coca-Cola Company $ 8,063 $ 11,334 $ 8,977
+Refer to Notes to Consolidated Financial Statements.
+63
+THE COCA-COLA COMPANY AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(In millions except par value)
+December 31, 2024 2023
+ASSETS
+Current Assets
+Cash and cash equivalents $ 10,828 $ 9,366
+Short-term investments 2,020 2,997
+Total Cash, Cash Equivalents and Short-Term Investments 12,848 12,363
+Marketable securities 1,723 1,300
+Trade accounts receivable, less allowances of $ 506 and $ 502 , respectively
+3,569 3,410
+Inventories 4,728 4,424
+Prepaid expenses and other current assets 3,129 5,235
+Total Current Assets 25,997 26,732
+Equity method investments 18,087 19,671
+Deferred income tax assets 1,319 1,561
+Property, plant and equipment — net 10,303 9,236
+Trademarks with indefinite lives 13,301 14,349
+Goodwill 18,139 18,358
+Other noncurrent assets 13,403 7,796
+Total Assets $ 100,549 $ 97,703
+LIABILITIES AND EQUITY
+Current Liabilities
+Accounts payable and accrued expenses $ 21,715 $ 15,485
+Loans and notes payable 1,499 4,557
+Current maturities of long-term debt 648 1,960
+Accrued income taxes 1,387 1,569
+Total Current Liabilities 25,249 23,571
+Long-term debt 42,375 35,547
+Other noncurrent liabilities 4,084 8,466
+Deferred income tax liabilities 2,469 2,639
+The Coca-Cola Company Shareowners' Equity
+Common stock, $ 0.25 par value; authorized — 11,200 shares; issued — 7,040 shares
+1,760 1,760
+Capital surplus 19,801 19,209
+Reinvested earnings 76,054 73,782
+Accumulated other comprehensive income (loss) ( 16,843 ) ( 14,275 )
+Treasury stock, at cost — 2,738 and 2,732 shares, respectively
+( 55,916 ) ( 54,535 )
+Equity Attributable to Shareowners of The Coca-Cola Company 24,856 25,941
+Equity attributable to noncontrolling interests 1,516 1,539
+Total Equity 26,372 27,480
+Total Liabilities and Equity $ 100,549 $ 97,703
+Refer to Notes to Consolidated Financial Statements.
+64
+THE COCA-COLA COMPANY AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions)
+Year Ended December 31, 2024 2023 2022
+Operating Activities
+Consolidated net income $ 10,649 $ 10,703 $ 9,571
+Adjustments to reconcile consolidated net income to net cash provided by operating activities:
+Depreciation and amortization 1,075 1,128 1,260
+Stock-based compensation expense 286 254 356
+Deferred income taxes ( 11 ) ( 2 ) ( 122 )
+Equity (income) loss — net of dividends ( 802 ) ( 1,019 ) ( 838 )
+Foreign currency adjustments ( 110 ) 175 203
+Significant (gains) losses — net ( 1,737 ) ( 492 ) ( 129 )
+Other operating charges 4,000 1,741 1,086
+Other items ( 311 ) ( 43 ) 236
+Net change in operating assets and liabilities ( 6,234 ) ( 846 ) ( 605 )
+Net Cash Provided by Operating Activities 6,805 11,599 11,018
+Investing Activities
+Purchases of investments ( 5,640 ) ( 6,698 ) ( 3,751 )
+Proceeds from disposals of investments 6,589 4,354 4,771
+Acquisitions of businesses, equity method investments and nonmarketable securities ( 315 ) ( 62 ) ( 73 )
+Proceeds from disposals of businesses, equity method investments and nonmarketable securities 3,485 430 458
+Purchases of property, plant and equipment ( 2,064 ) ( 1,852 ) ( 1,484 )
+Proceeds from disposals of property, plant and equipment 40 74 75
+Collateral (paid) received associated with hedging activities — net 235 366 ( 1,465 )
+Other investing activities 194 39 706
+Net Cash Provided by (Used in) Investing Activities 2,524 ( 3,349 ) ( 763 )
+Financing Activities
+Issuances of loans, notes payable and long-term debt 12,061 6,891 3,972
+Payments of loans, notes payable and long-term debt ( 9,533 ) ( 5,034 ) ( 4,930 )
+Issuances of stock 747 539 837
+Purchases of stock for treasury ( 1,795 ) ( 2,289 ) ( 1,418 )
+Dividends ( 8,359 ) ( 7,952 ) ( 7,616 )
+Other financing activities ( 31 ) ( 465 ) ( 1,095 )
+Net Cash Provided by (Used in) Financing Activities ( 6,910 ) ( 8,310 ) ( 10,250 )
+Effect of Exchange Rate Changes on Cash, Cash Equivalents, Restricted Cash and
+Restricted Cash Equivalents ( 623 ) ( 73 ) ( 205 )
+Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents
+Net increase (decrease) in cash, cash equivalents, restricted cash and restricted cash
+equivalents during the year 1,796 ( 133 ) ( 200 )
+Cash, cash equivalents, restricted cash and restricted cash equivalents at beginning of year 9,692 9,825 10,025
+Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents at End of Year 11,488 9,692 9,825
+Less: Restricted cash and restricted cash equivalents at end of year 660 326 306
+Cash and Cash Equivalents at End of Year $ 10,828 $ 9,366 $ 9,519
+Refer to Notes to Consolidated Financial Statements.
+65
+THE COCA-COLA COMPANY AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF SHAREOWNERS' EQUITY
+(In millions except per share data)
+2024 2023 2022
+Equity Attributable to Shareowners of The Coca-Cola Company
+Number of Common Shares Outstanding
+Balance at beginning of year 4,308 4,328 4,325
+Treasury stock issued to employees related to stock-based compensation plans 21 17 24
+Purchases of stock for treasury ( 27 ) ( 37 ) ( 21 )
+Balance at end of year 4,302 4,308 4,328
+Common Stock $ 1,760 $ 1,760 $ 1,760
+Capital Surplus
+Balance at beginning of year 19,209 18,822 18,116
+Stock issued to employees related to stock-based compensation plans 319 177 373
+Stock-based compensation expense 273 233 332
+Acquisition of interests held by noncontrolling owners — ( 20 ) —
+Other activities — ( 3 ) 1
+Balance at end of year 19,801 19,209 18,822
+Reinvested Earnings
+Balance at beginning of year 73,782 71,019 69,094
+Net income attributable to shareowners of The Coca-Cola Company 10,631 10,714 9,542
+Dividends (per share — $ 1.94 , $ 1.84 and $ 1.76 in 2024, 2023 and 2022, respectively)
+( 8,359 ) ( 7,951 ) ( 7,617 )
+Balance at end of year 76,054 73,782 71,019
+Accumulated Other Comprehensive Income (Loss)
+Balance at beginning of year ( 14,275 ) ( 14,895 ) ( 14,330 )
+Net other comprehensive income (loss) ( 2,568 ) 620 ( 565 )
+Balance at end of year ( 16,843 ) ( 14,275 ) ( 14,895 )
+Treasury Stock
+Balance at beginning of year ( 54,535 ) ( 52,601 ) ( 51,641 )
+Treasury stock issued to employees related to stock-based compensation plans 321 255 376
+Purchases of stock for treasury
+( 1,702 ) ( 2,189 ) ( 1,336 )
+Balance at end of year ( 55,916 ) ( 54,535 ) ( 52,601 )
+Total Equity Attributable to Shareowners of The Coca-Cola Company $ 24,856 $ 25,941 $ 24,105
+Equity Attributable to Noncontrolling Interests
+Balance at beginning of year $ 1,539 $ 1,721 $ 1,861
+Net income attributable to noncontrolling interests 18 ( 11 ) 29
+Net foreign currency translation adjustments ( 9 ) ( 147 ) ( 118 )
+Dividends paid to noncontrolling interests ( 28 ) ( 25 ) ( 51 )
+Acquisition of interests held by noncontrolling owners — ( 2 ) —
+Divestitures ( 4 ) — —
+Other activities — 3 —
+Total Equity Attributable to Noncontrolling Interests $ 1,516 $ 1,539 $ 1,721
+Refer to Notes to Consolidated Financial Statements.
+66
+THE COCA-COLA COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1: BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+When used in these notes, the terms "The Coca-Cola Company," "Company," "we," "us" and "our" mean The Coca-Cola Company and all entities included in our consolidated financial statements.
+Description of Business
+The Coca-Cola Company is a total beverage company. We own or license and market numerous beverage brands, which we group into the following categories: Trademark Coca-Cola; sparkling flavors; water, sports, coffee and tea; juice, value-added dairy and plant-based beverages; and emerging beverages. We own and market several of the world's largest nonalcoholic sparkling soft drink brands, including Coca-Cola, Sprite, Coca-Cola Zero Sugar, Fanta and Diet Coke/Coca-Cola Light. Finished beverage products bearing our trademarks, sold in the United States since 1886, are now sold in more than 200 countries and territories.
+We make our branded beverage products available to consumers throughout the world through our network of independent bottling partners, distributors, wholesalers and retailers as well as the Company's consolidated bottling and distribution operations. Beverages bearing trademarks owned by or licensed to us account for 2.2 billion of the estimated 65 billion servings of all beverages consumed worldwide every day.
+Summary of Significant Accounting Policies
+Basis of Presentation
+The accompanying consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States ("U.S. GAAP"). The preparation of our consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses and the disclosure of contingent assets and liabilities in our consolidated financial statements and accompanying notes. Although these estimates are based on our knowledge of current events and actions we may undertake in the future, actual results may ultimately differ from these estimates and assumptions. Furthermore, when testing assets for impairment in future periods, if management uses different assumptions or if different conditions occur, impairment charges may result.
+Principles of Consolidation
+Our Company consolidates all entities that we control by ownership of a majority voting interest. Additionally, there are situations in which consolidation is required even though the usual condition of consolidation (i.e., ownership of a majority voting interest) does not apply. Generally, this occurs when an entity holds an interest in another business enterprise that was achieved through arrangements that do not involve voting interests, which results in a disproportionate relationship between such entity's voting interests in, and its exposure to the economic risks and potential rewards of, the other business enterprise. This disproportionate relationship results in what is known as a variable interest, and the entity in which another entity holds a variable interest is referred to as a "VIE." An enterprise must consolidate a VIE if it is determined to be the primary beneficiary of the VIE. The primary beneficiary has both (1) the power to direct the activities of the VIE that most significantly impact the entity's economic performance, and (2) the obligation to absorb losses or the right to receive benefits from the VIE that could potentially be significant to the VIE.
+Our Company holds interests in certain VIEs, primarily bottling operations, for which we were not determined to be the primary beneficiary. Our variable interests in these VIEs primarily relate to equity investments, profit guarantees or subordinated financial support. Refer to Note 12. Although these financial arrangements resulted in our holding variable interests in these entities, they did not empower us to direct the activities of the VIEs that most significantly impact the VIEs' economic performance. Our Company's investments, plus any loans and guarantees, and other subordinated financial support related to these VIEs totaled $ 1,680 million and $ 1,225 million as of December 31, 2024 and 2023, respectively, representing our maximum exposures to loss. The Company's investments, plus any loans and guarantees, related to these VIEs were not individually significant to the Company's consolidated financial statements.
+In addition, our Company holds interests in certain VIEs, primarily bottling operations, for which we were determined to be the primary beneficiary. As a result, we have consolidated these entities. Our Company's investments, plus any loans and guarantees, related to these VIEs totaled $ 87 million and $ 88 million as of December 31, 2024 and 2023, respectively, representing our maximum exposures to loss. The assets and liabilities of VIEs for which we are the primary beneficiary were not significant to the Company's consolidated financial statements.
+Creditors of our VIEs do not have recourse against the general credit of the Company, regardless of whether the VIEs are accounted for as consolidated entities.
+67
+We use the equity method to account for investments in companies if our investment provides us with the ability to exercise significant influence over the operating and financial policies of the investee. Our consolidated net income includes our Company's proportionate share of the net income or loss of these companies. Our judgment regarding the level of influence over each equity method investee includes considering key factors, such as our ownership interest, representation on the board of directors, participation in policy-making decisions, other commercial arrangements and material intercompany transactions.
+We eliminate from our financial results all significant intercompany transactions, including the intercompany transactions with consolidated VIEs and the intercompany portion of transactions with equity method investees.
+Revenue Recognition
+Our Company recognizes revenue when performance obligations under the terms of the contracts with our customers are satisfied. Our performance obligation generally consists of the promise to sell concentrates, syrups or finished products to our bottling partners, wholesalers, distributors or retailers. Refer to Note 3.
+Advertising Costs
+Our Company expenses production costs of print, radio, television and other advertisements as of the first date the advertisements take place. All other marketing expenditures are expensed in the annual period in which the expenditure is incurred. Advertising costs included in the line item selling, general and administrative expenses in our consolidated statements of income were $ 5 billion, $ 5 billion and $ 4 billion in 2024, 2023 and 2022, respectively. As of December 31, 2024 and 2023, advertising and production costs of $ 25 million and $ 43 million, respectively, were primarily recorded in the line item prepaid expenses and other current assets in our consolidated balance sheets.
+Shipping and Handling Costs
+Shipping and handling costs related to the movement of goods from our manufacturing locations to our sales distribution centers are included in the line item cost of goods sold in our consolidated statement of income. Shipping and handling costs incurred to move goods from our manufacturing locations or sales distribution centers to our customers are also included in the line item cost of goods sold in our consolidated statement of income, except for costs incurred to distribute goods sold by our consolidated bottlers to our customers, which are included in the line item selling, general and administrative expenses in our consolidated statement of income. Our customers generally do not pay us separately for shipping and handling costs. We recognize the cost of shipping and handling activities that are performed after a customer obtains control of the goods as costs to fulfill our promise to provide goods to the customer. As a result of this election, the Company does not evaluate whether shipping and handling activities are services promised to customers. If revenue is recognized for the related goods before the shipping and handling activities occur, the related costs of those shipping and handling activities are accrued.
+Sales, Use, Value-Added and Excise Taxes
+The Company collects taxes imposed directly on its customers related to sales, use, value-added, excise and other similar taxes. The Company then remits such taxes on behalf of its customers to the applicable governmental authorities. We exclude from net operating revenues the tax amounts imposed on revenue-producing transactions that were collected from our customers to be remitted to governmental authorities. Accordingly, such tax amounts are recorded in the line item trade accounts receivable in our consolidated balance sheet when collection of taxes from the customer has not yet occurred and are recorded in the line item accounts payable and accrued expenses in our consolidated balance sheet until they are remitted to the applicable governmental authorities. Taxes imposed directly on the Company, whether based on receipts from sales, inventory procurement costs or manufacturing activities, are recorded in the line item cost of goods sold in our consolidated statement of income.
+Net Income Per Share
+Basic net income per share is computed by dividing net income attributable to shareowners of The Coca-Cola Company by the weighted-average number of common shares outstanding during the reporting period. Diluted net income per share is computed similarly to basic net income per share, except that it includes the potential dilution that could occur if dilutive securities were exercised. We excluded 3 million, 8 million and 8 million stock options from the computation of diluted net income per share in 2024, 2023 and 2022, respectively, because the stock options would have been antidilutive.
+Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents
+We classify time deposits and other investments that are highly liquid and have maturities of three months or less at the date of purchase as cash equivalents or restricted cash equivalents, as applicable. Restricted cash and restricted cash equivalents generally consist of amounts held by our captive insurance companies, which are included in the line item other noncurrent assets in our consolidated balance sheet. We manage our exposure to counterparty credit risk through specific minimum credit standards, diversification of counterparties and procedures to monitor our concentrations of credit risk.
+68
+The following table provides a summary of cash, cash equivalents, restricted cash and restricted cash equivalents that constitute the total amounts shown in our consolidated statements of cash flows (in millions):
+December 31, 2024 2023 2022
+Cash and cash equivalents $ 10,828 $ 9,366 $ 9,519
+Restricted cash and restricted cash equivalents 1,2
+660 326 306
+Cash, cash equivalents, restricted cash and restricted cash equivalents $ 11,488 $ 9,692 $ 9,825
+1 Amounts include cash and cash equivalents in our solvency capital portfolio, which are included in the line item other noncurrent assets in our consolidated balance sheets. Refer to Note 4.
+2 Amounts include cash and cash equivalents related to assets held for sale, which are included in the line item prepaid expenses and other current assets in our consolidated balance sheets. Refer to Note 2.
+Investments
+We classify time deposits and other investments that have maturities of greater than three months but less than one year as short-term investments.
+We measure all equity investments that do not result in consolidation and are not accounted for under the equity method at fair value with the change in fair value included in net income. We use quoted market prices to determine the fair value of equity securities with readily determinable fair values. For equity securities without readily determinable fair values, we have elected the measurement alternative under which we measure these investments at cost minus impairment, if any, plus or minus changes resulting from observable price changes in orderly transactions for the identical or a similar investment of the same issuer. Management assesses each of these investments on an individual basis. Our investments in debt securities are carried at either amortized cost or fair value. Investments in debt securities that the Company has the positive intent and ability to hold to maturity are carried at amortized cost and classified as held-to-maturity. Investments in debt securities that are not classified as held-to-maturity are carried at fair value and classified as either trading or available-for-sale. Refer to Note 4 for additional information on our policy for investments, which includes our assessment of impairments.
+We invest in limited partnerships that receive tax credits and other tax benefits by constructing, owning and operating alternative energy generation facilities. Investments of this nature are included in the line item other noncurrent assets in our consolidated balance sheet. We generate a return through the receipt of tax credits, other tax benefits and cash distributions. We have elected to apply the proportional amortization method ("PAM") of accounting to these investments. In accordance with PAM accounting, the Company amortizes the cost of its investments in the line item income taxes in our consolidated statement of income based on the proportion of the income tax benefits received during the period to the total income tax benefits expected to be received over the life of the investments. The income tax credits and other income tax benefits earned reduce our income tax payments and are recorded in the line item net change in operating assets and liabilities in our consolidated statement of cash flows. Refer to Note 15 for additional information on these investments.
+Trade Accounts Receivable
+We record trade accounts receivable at net realizable value. This value includes an appropriate allowance for estimated uncollectible accounts to reflect any expected loss on the trade accounts receivable balances and charged to the provision for doubtful accounts. We calculate this allowance based on available relevant information, in addition to historical loss information, the level of past-due accounts based on the contractual terms of the receivables, and our relationships with, and the economic status of, our bottling partners and customers. We believe our exposure to concentrations of credit risk is limited due to the diverse geographic areas covered by our operations.
+The Company has a trade accounts receivable factoring program in certain countries. Under this program, we can elect to sell trade accounts receivables to unaffiliated financial institutions at a discount. In these factoring arrangements, for ease of administration, the Company collects customer payments related to the factored receivables and remits those payments to the financial institutions. The Company sold $ 21,873 million and $ 17,704 million of trade accounts receivables under this program during the years ended December 31, 2024 and 2023, respectively. The costs of factoring such receivables were $ 114 million and $ 83 million for the years ended December 31, 2024 and 2023, respectively. The Company accounts for this program as a sale, and accordingly, the trade receivables sold are excluded from the line item trade accounts receivable in our consolidated balance sheet. The cash received from the financial institutions is classified within the operating activities section in our consolidated statement of cash flows.
+Inventories
+Inventories consist primarily of raw materials and packaging (which include ingredients and supplies) and finished goods (which include concentrates and syrups in our concentrate operations and finished beverages in our finished product
+69
+operations). Inventories are valued at the lower of cost or net realizable value. We determine cost on the basis of the average cost or first-in, first-out methods.
+Inventories consisted of the following (in millions):
+December 31, 2024 2023
+Raw materials and packaging $ 2,794 $ 2,618
+Finished goods 1,524 1,449
+Other 410 357
+Total inventories $ 4,728 $ 4,424
+Derivative Instruments
+When deemed appropriate, our Company uses derivatives as a risk management tool to mitigate the potential impact of certain market risks. The primary market risks managed by the Company through the use of derivative instruments are foreign currency exchange rate risk, commodity price risk and interest rate risk. All derivatives are carried at fair value in our consolidated balance sheet in the following line items, as applicable: prepaid expenses and other current assets; other noncurrent assets; accounts payable and accrued expenses; and other noncurrent liabilities. The cash flow impact of the Company's derivative instruments is primarily included in our consolidated statement of cash flows in net cash provided by operating activities. Refer to Note 5.
+Leases
+We determine if a contract contains a lease at its inception based on whether or not the Company has the right to control the asset during the contract period and other facts and circumstances. We are the lessee in a lease contract when we obtain the right to control the asset. Operating lease right-of-use ("ROU") assets represent our right to use an underlying asset for the lease term and are included in the line item other noncurrent assets in our consolidated balance sheet. Operating lease liabilities represent our obligation to make lease payments arising from the lease and are included in the line items accounts payable and accrued expenses and other noncurrent liabilities in our consolidated balance sheet. Operating lease ROU assets and operating lease liabilities are recognized based on the present value of the future minimum lease payments over the lease term at the commencement date. When determining the lease term, we include renewal or termination options that we are reasonably certain to exercise. Leases with a lease term of 12 months or less at inception are not recorded in our consolidated balance sheet. Operating lease expense is recognized on a straight-line basis over the lease term in our consolidated statement of income. As the rates implicit in our leases are not readily determinable, we use our local incremental borrowing rate based on the information available at the commencement date in determining the present value of future payments. When our contracts contain lease and non-lease components, we account for both components as a single lease component. Refer to Note 10.
+We have various contracts for certain fountain equipment under which we are the lessor. These leases meet the criteria for operating lease classification. Lease income associated with these leases is not material.
+Property, Plant and Equipment
+Property, plant and equipment are stated at cost. Repair and maintenance costs that do not improve service potential or extend economic life are expensed as incurred. Depreciation is recorded principally by the straight-line method over the estimated useful lives of our assets, which are reviewed periodically and generally have the following ranges: buildings and improvements: 40 years or less; and machinery and equipment: 20 years or less. Land is not depreciated, and construction in progress is not depreciated until ready for service. Leasehold improvements are amortized using the straight-line method over the shorter of the remaining lease term, including renewal options that we are reasonably certain to exercise, or the estimated useful life of the improvement. Depreciation is not recorded during the period in which a long-lived asset or disposal group is classified as held for sale, even if the asset or disposal group continues to generate revenue during the period. Depreciation expense, including the depreciation expense of assets under finance leases, totaled $ 997 million, $ 1,018 million and $ 1,125 million in 2024, 2023 and 2022, respectively. Amortization expense for leasehold improvements totaled $ 17 million, $ 14 million and $ 13 million in 2024, 2023 and 2022, respectively.
+70
+The following table summarizes our property, plant and equipment (in millions):
+December 31, 2024 2023
+Land $ 226 $ 229
+Buildings and improvements 5,143 4,647
+Machinery and equipment 14,504 13,593
+Property, plant and equipment — cost 19,873 18,469
+Less: Accumulated depreciation 9,570 9,233
+Property, plant and equipment — net $ 10,303 $ 9,236
+Certain events or changes in circumstances may indicate that the recoverability of the carrying amount of property, plant and equipment should be assessed, including, among others, a significant decrease in market value, a significant change in the business climate in a particular market, or a current period operating or cash flow loss combined with historical losses or projected future losses. When such events or changes in circumstances are present and a recoverability test is performed, we estimate the future cash flows expected to result from the use of the asset or asset group and its eventual disposition. These estimated future cash flows are consistent with those we use in our internal planning. If the sum of the expected future cash flows (undiscounted and without interest charges) is less than the carrying amount, we recognize an impairment charge. The impairment charge recognized is the amount by which the carrying amount of the asset or asset group exceeds the fair value. We use a variety of methodologies to determine the fair value of property, plant and equipment, including appraisals and discounted cash flow models. These appraisals and models include assumptions we believe are consistent with those a market participant would use.
+Goodwill, Trademarks and Other Intangible Assets
+We classify intangible assets into three categories: (1) intangible assets with definite lives subject to amortization; (2) intangible assets with indefinite lives not subject to amortization; and (3) goodwill. We determine the useful lives of our identifiable intangible assets after considering the specific facts and circumstances related to each intangible asset. Factors we consider when determining useful lives include the contractual term of any agreement related to the asset, the historical performance of the asset, the Company's long-term strategy for using the asset, any laws or other local regulations which could impact the useful life of the asset, and other economic factors, including competition and specific market conditions. Intangible assets that are deemed to have definite lives are amortized, primarily on a straight-line basis, over their useful lives, which is less than 20 years.
+When events or circumstances indicate that the carrying value of definite-lived intangible assets may not be recoverable, management performs a recoverability test of the carrying value by preparing estimates of sales volume and the resulting profit and cash flows expected to result from the use of the asset or asset group and its eventual disposition. These estimated future cash flows are consistent with those we use in our internal planning. If the sum of the expected future cash flows (undiscounted and without interest charges) is less than the carrying amount, we recognize an impairment charge. The impairment charge recognized is the amount by which the carrying amount of the asset or asset group exceeds the fair value. We use a variety of methodologies to determine the fair value of these assets, including discounted cash flow models, which include assumptions we believe are consistent with those a market participant would use.
+We test intangible assets determined to have indefinite useful lives, including trademarks, franchise rights and goodwill, for impairment annually, or more frequently if events or circumstances indicate that assets might be impaired. Our Company performs these annual impairment tests as of the first day of our third fiscal quarter. We perform impairment tests using various valuation methodologies, including discounted cash flow models and a market approach, to determine the fair value of the indefinite-lived intangible asset or the reporting unit, as applicable. We believe our assumptions are consistent with those a market participant would use. For indefinite-lived intangible assets, other than goodwill, if the carrying amount exceeds the fair value, an impairment charge is recognized in an amount equal to that excess. The Company has the option to perform a qualitative assessment of indefinite-lived intangible assets, other than goodwill, rather than completing the impairment test. The Company must assess whether it is more likely than not that the fair value of the intangible asset is less than its carrying amount. If the Company concludes that this is the case, it must perform the impairment testing described above. Otherwise, the Company does not need to perform any further assessment.
+We perform impairment tests of goodwill at our reporting unit level, which is generally one level below our operating segments. Our operating segments are primarily based on geographic responsibility, which is consistent with the way management runs our business. Our geographic operating segments are generally subdivided into smaller geographic regions. These geographic regions are our reporting units. Our Global Ventures operating segment includes the results of our Costa Limited ("Costa"), innocent and do adan businesses, as well as fees earned pursuant to distribution coordination agreements
+71
+between the Company and Monster Beverage Corporation ("Monster"), each of which is its own reporting unit. The Bottling Investments operating segment includes all of our consolidated bottling operations, regardless of geographic location. Generally, each consolidated bottling operation within our Bottling Investments operating segment is its own reporting unit. Goodwill is assigned to the reporting unit or units that benefit from the synergies arising from each business combination.
+In order to test for goodwill impairment, the Company compares the fair value of the reporting unit to its carrying value, including goodwill. If the fair value of the reporting unit is less than its carrying amount, goodwill is written down for the amount by which the carrying amount exceeds the fair value. However, the impairment charge recognized cannot exceed the carrying amount of goodwill. The Company has the option to perform a qualitative assessment of goodwill in order to determine whether it is more likely than not that the fair value of the reporting unit is less than its carrying amount. If the Company concludes that this is the case, it must perform the impairment testing discussed above. Otherwise, the Company does not need to perform any further assessment.
+Impairment charges related to intangible assets, including goodwill, are generally recorded in the line item other operating charges or, to the extent they relate to equity method investees, in the line item equity income (loss) — net in our consolidated statement of income.
+Contingencies
+Our Company is involved in various legal proceedings and tax matters. Due to their nature, such legal proceedings and tax matters involve inherent uncertainties, including, but not limited to, court rulings, negotiations between affected parties and governmental actions. Management assesses the probability of loss for such contingencies and accrues a liability and/or discloses the relevant circumstances, as appropriate. Refer to Note 12.
+Stock-Based Compensation
+Our Company grants long-term equity awards under its stock-based compensation plans to certain employees of the Company. These awards include stock options, performance share units, restricted stock and restricted stock units. The fair value of stock option awards is estimated using a Black-Scholes-Merton option-pricing model. The Company recognizes compensation expense on a straight-line basis over the vesting period, which is generally four years .
+The fair value of restricted stock, restricted stock units and certain performance share units is the closing market price per share of the Company's stock on the grant date less the present value of the expected dividends not received during the vesting period. The Company included a relative total shareowner return ("TSR") modifier for performance share unit awards granted to executives from 2019 through 2022 as well as for performance share unit awards granted to all participants starting in 2023. For these awards, the number of performance share units earned based on the certified achievement of the predefined performance criteria will be reduced or increased if the Company's total shareowner return over the performance period relative to a predefined group of companies falls outside of a predefined range. The fair value of performance share units that include a TSR modifier is determined using a Monte Carlo valuation model.
+In the reporting period it becomes probable that the minimum performance threshold specified in the performance share unit award will be achieved, we recognize compensation expense for the proportionate share of the total fair value of the performance share units related to the vesting period that has already lapsed for the performance share units expected to vest. The remaining fair value of the performance share units expected to vest is expensed on a straight-line basis over the remainder of the vesting period. In the event the Company determines it is no longer probable that the minimum performance threshold specified in the award will be achieved, we reverse all of the previously recognized compensation expense in the reporting period such a determination is made.
+The Company has made a policy election to estimate the number of stock-based compensation awards that will ultimately vest to determine the amount of compensation expense recognized each reporting period. Forfeiture estimates are trued-up at the end of each quarter in order to ensure that compensation expense is recognized only for those awards that ultimately vest. Refer to Note 13.
+Income Taxes
+Income tax expense includes U.S., state, local and international income taxes. Deferred tax assets and liabilities are recognized for the tax consequences of temporary differences between the book basis and the tax basis of assets and liabilities. The tax rate used to determine the deferred tax assets and liabilities is the enacted tax rate for the year and manner in which the differences are expected to reverse. Valuation allowances are recorded to reduce deferred tax assets to the amount that will more likely than not be realized.
+The Company is involved in various tax matters, with respect to some of which the outcome is uncertain. We establish reserves to remove some or all of the tax benefit of any of our tax positions at the time we determine that it becomes uncertain based
+72
+upon one of the following conditions: (1) the tax position is not "more likely than not" to be sustained; (2) the tax position is "more likely than not" to be sustained, but for a lesser amount; or (3) the tax position is "more likely than not" to be sustained, but not in the financial period in which the tax position was originally taken. For purposes of evaluating whether or not a tax position is uncertain, (1) we presume the tax position will be examined by the relevant taxing authority that has full knowledge of all relevant information; (2) the technical merits of a tax position are derived from authorities such as legislation and statutes, legislative intent, regulations, rulings and caselaw and their applicability to the facts and circumstances of the tax position; and (3) each tax position is evaluated without consideration of the possibility of offset or aggregation with other tax positions taken. A number of years may elapse before a particular uncertain tax position is audited and finally resolved or when a tax assessment is raised. The number of years subject to tax assessments varies depending on the tax jurisdiction. The tax benefit that has been previously reserved because of a failure to meet the "more likely than not" recognition threshold would be recognized in income tax expense in the first interim period when the uncertainty disappears under any one of the following conditions: (1) the tax position is "more likely than not" to be sustained; (2) the tax position, amount and/or timing is ultimately settled through negotiation or litigation; or (3) the statute of limitations for the tax position has expired. Refer to Note 12 and Note 15.
+Translation and Remeasurement
+We translate the assets and liabilities of our foreign subsidiaries from their respective functional currencies to U.S. dollars at the appropriate spot rates as of the balance sheet date. Generally, our foreign subsidiaries use the local currency as their functional currency. Changes in the carrying values of these assets and liabilities attributable to fluctuations in spot rates are recognized in net foreign currency translation adjustments, a component of accumulated other comprehensive income (loss) ("AOCI"). Refer to Note 16. Accounts in our consolidated statement of income are translated using the monthly average exchange rates during the year.
+Monetary assets and liabilities denominated in a currency that is different from a reporting entity's functional currency must be remeasured from the applicable currency to the reporting entity's functional currency. The effects of the remeasurement of these assets and liabilities are recognized in the line item other income (loss) — net in our consolidated statement of income and are partially offset by the impact of our economic hedging program for certain exposures on our consolidated balance sheet. Refer to Note 5.
+Recently Issued Accounting Guidance
+In November 2023, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures , which expands annual and interim disclosure requirements for reportable segments, primarily through enhanced disclosures about significant segment expenses. The expanded annual disclosures are effective for our year ended December 31, 2024, and the expanded interim disclosures are effective in 2025 and will be applied retrospectively to all prior periods presented. Refer to Note 20.
+In December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures , which requires, among other things, additional disclosures primarily related to the income tax rate reconciliation and income taxes paid. The expanded annual disclosures are effective for our year ending December 31, 2025. The Company is currently evaluating the impact that ASU 2023-09 will have on our consolidated financial statements and whether we will apply the standard prospectively or retrospectively.
+In November 2024, the FASB issued ASU 2024-03, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40) , which requires additional disclosures around specific expense categories in the notes to the financial statements. The additional annual disclosures are effective for our year ending December 31, 2027, and the additional interim disclosures are effective in 2028. These disclosures will be applied prospectively. The Company is currently evaluating the impact that ASU 2024-03 will have on our consolidated financial statements.
+73
+NOTE 2: ACQUISITIONS AND DIVESTITURES
+Acquisitions
+Our Company's acquisitions of businesses, equity method investments and nonmarketable securities totaled $ 315 million, $ 62 million and $ 73 million during 2024, 2023 and 2022, respectively. In 2024, we invested $ 226 million in alternative energy limited partnerships. Refer to Note 15 for additional information on these investments.
+Divestitures
+During 2024, proceeds from disposals of businesses, equity method investments and nonmarketable securities totaled $ 3,485 million, which primarily related to the refranchising of the Company's bottling operations that were classified as held for sale as of December 31, 2023. Also included was the sale of our ownership interest in an equity method investee in Thailand, for which we received net cash proceeds of $ 718 million and recognized a net gain of $ 506 million, including the impact of post-closing adjustments. We also sold a portion of our interest in Coca-Cola Consolidated, Inc. ("Coke Consolidated"), an equity method investee, to Coke Consolidated, for which we received cash proceeds of $ 554 million and recognized a net gain of $ 338 million. Additionally, we refranchised our bottling operations in additional territories in India for which we received cash proceeds of $ 17 million and recognized a net gain of $ 13 million.
+During 2023, proceeds from disposals of businesses, equity method investments and nonmarketable securities totaled $ 430 million, which primarily related to the sale of our ownership interest in an equity method investee in Indonesia to Coca-Cola Europacific Partners plc ("CCEP"), an equity method investee, for which we received cash proceeds of $ 302 million and recognized a net gain of $ 12 million. Also included was the sale of our ownership interest in an equity method investee in Pakistan, for which we received cash proceeds of $ 100 million and a note receivable of $ 200 million. We recognized a net gain of $ 82 million as a result of the sale.
+During 2022, proceeds from disposals of businesses, equity method investments and nonmarketable securities totaled $ 458 million, which primarily related to the refranchising of our bottling operations in Cambodia. We received net cash proceeds of $ 228 million and recognized a net gain of $ 153 million as a result of the refranchising. Also included was the sale of our ownership interest in one of our equity method investees, for which we received cash proceeds of $ 123 million and recognized a net gain of $ 13 million.
+All of the gains discussed above were recorded in the line item other income (loss) — net in our consolidated statements of income.
+Assets and Liabilities Held for Sale
+As of December 31, 2024, the Company's bottling operations in certain territories in India met the criteria to be classified as held for sale. As of December 31, 2023, the Company's bottling operations in the Philippines, Bangladesh and certain territories in India met the criteria to be classified as held for sale. As a result, we were required to record the related assets and liabilities at the lower of carrying value or fair value less any costs to sell. As the fair values less any costs to sell exceeded the carrying values, the related assets and liabilities were recorded at their carrying values. These assets and liabilities were included in the Bottling Investments operating segment.
+The Company refranchised its bottling operations in certain territories in India in January and February of 2024, for which we received net cash proceeds of $ 474 million and recognized a net gain of $ 290 million, including the impact of post-closing adjustments. The Company refranchised its bottling operations in Bangladesh to Coca-Cola ecek A. . ("CCI"), an equity method investee, in February 2024, for which we received net cash proceeds of $ 27 million and a note receivable of $ 29 million and recognized a net loss of $ 18 million, primarily due to the related reversal of cumulative translation adjustments. Additionally, in February 2024, the Company refranchised its bottling operations in the Philippines to CCEP and a local business partner, for which we received net cash proceeds of $ 1,652 million and recognized a net gain of $ 595 million, including the impact of post-closing adjustments. These gains and losses were recorded in the line item other income (loss) — net in our consolidated statement of income.
+In December 2022, the Company received cash proceeds of $ 823 million in advance of refranchising its bottling operations in Vietnam, which was included in the line item other investing activities in our consolidated statement of cash flows for the year ended December 31, 2022. The Company refranchised its bottling operations in Vietnam in January 2023 and recognized a net gain of $ 439 million as a result of the sale, which was recorded in the line item other income (loss) — net in our consolidated statement of income for the year ended December 31, 2023.
+74
+The following table presents information related to the major classes of assets and liabilities that were classified as held for sale and were included in the line items prepaid expenses and other current assets and accounts payable and accrued expenses, respectively, in our consolidated balance sheets (in millions):
+December 31, 2024 2023
+Cash, cash equivalents and short-term investments $ — $ 37
+Marketable securities
+— 8
+Trade accounts receivable, less allowances — 95
+Inventories 23 299
+Prepaid expenses and other current assets — 60
+Equity method investments
+— 4
+Other noncurrent assets — 51
+Deferred income tax assets — 28
+Property, plant and equipment — net 108 1,267
+Goodwill — 231
+Other intangible assets
+— 14
+Assets held for sale $ 131 $ 2,094
+Accounts payable and accrued expenses $ 2 $ 464
+Loans and notes payable
+— 63
+Accrued income taxes — 24
+Long-term debt — 2
+Other noncurrent liabilities 1 108
+Deferred income tax liabilities — 58
+Liabilities held for sale $ 3 $ 719
+NOTE 3: NET OPERATING REVENUES
+Our Company operates in two lines of business: concentrate operations and finished product operations.
+Our concentrate operations typically generate net operating revenues by selling beverage concentrates, sometimes referred to as "beverage bases," syrups, including fountain syrups, and certain finished beverages to authorized bottling operations (to which we typically refer as our "bottlers" or our "bottling partners"). Our bottling partners either combine concentrates with still or sparkling water and sweeteners (depending on the product), or combine syrups with still or sparkling water, to produce finished beverages. The finished beverages are packaged in authorized containers, such as cans and refillable and nonrefillable glass and plastic bottles, bearing our trademarks or trademarks licensed to us and are then sold to retailers directly or, in some cases, through wholesalers or other bottlers. In addition, outside the United States, our bottling partners are typically authorized to manufacture fountain syrups, using our concentrates, which they sell to fountain retailers for use in producing beverages for immediate consumption, or to authorized fountain wholesalers who in turn sell and distribute the fountain syrups to fountain retailers. Our concentrate operations are included in our geographic operating segments and our Global Ventures operating segment.
+Our finished product operations generate net operating revenues by selling sparkling soft drinks and a variety of other finished beverages to retailers, or to distributors and wholesalers who in turn sell the beverages to retailers. Generally, finished product operations generate higher net operating revenues but lower gross profit margins than concentrate operations. These operations consist primarily of our consolidated bottling and distribution operations, which are included in our Bottling Investments operating segment. In certain markets, the Company also operates non-bottling finished product operations in which we sell finished beverages to distributors and wholesalers that are generally not one of the Company's bottling partners. These operations are generally included in one of our geographic operating segments or our Global Ventures operating segment. Additionally, we sell directly to consumers through retail stores operated by Costa. These sales are included in our Global Ventures operating segment. In the United States, we manufacture fountain syrups and sell them to fountain retailers, who use the fountain syrups to produce beverages for immediate consumption, or to authorized fountain wholesalers or bottling partners who in turn sell and distribute the fountain syrups to fountain retailers. These fountain syrup sales are included in our North America operating segment.
+75
+Revenue is recognized when performance obligations under the terms of the contracts with our customers are satisfied. Our performance obligation generally consists of the promise to sell concentrates, syrups or finished products to our bottling partners, wholesalers, distributors or retailers. Control of the concentrates, syrups or finished products is transferred upon shipment to, or receipt at, our customers' locations, as determined by the specific terms of the contract. Upon transfer of control to the customer, which completes our performance obligation, revenue is recognized. Our sales terms generally do not allow for a right of return except for matters related to any manufacturing defects on our part. After completion of our performance obligation, we have an unconditional right to consideration as outlined in the contract. Our receivables will generally be collected in less than six months, in accordance with the underlying payment terms. All of our performance obligations under the terms of contracts with our customers have an original duration of one year or less.
+Our customers and bottling partners may be entitled to cash discounts, funds for promotional and marketing activities, volume-based incentive programs, support for infrastructure programs and other similar programs. In most markets, in an effort to allow our Company and our bottling partners to grow together through shared value, aligned financial objectives and the flexibility necessary to meet consumers' always changing needs and tastes, we have implemented an incidence-based concentrate pricing model. Under this model, the price we charge bottlers for concentrates they use to prepare and package finished products is impacted by a number of factors, including, but not limited to, the prices charged by the bottlers for such finished products, the channels in which they are sold, and package mix. The amounts associated with the arrangements described above represent variable consideration, an estimate of which is included in the transaction price as a component of net operating revenues in our consolidated statement of income upon completion of our performance obligations. The total revenue recorded, including any variable consideration, cannot exceed the amount for which it is probable that a significant reversal will not occur when uncertainties related to variability are resolved. As a result, we are recognizing revenue based on our best estimate of the consideration that we expect to receive. In making our estimates of variable consideration, we consider past results and make assumptions related to: (1) customer sales volumes; (2) customer ending inventories; (3) customer selling price per unit; (4) selling channels; and (5) discount rates, rebates and other pricing allowances, as applicable. In gathering data to estimate our variable consideration, we generally calculate our estimates using a portfolio approach at the country and product line level rather than at the individual contract level. The result of making these estimates will impact the line items trade accounts receivable or accounts payable and accrued expenses in our consolidated balance sheet, as applicable. The actual amounts ultimately paid and/or received may be different from our estimates. The change in the amount of variable consideration recognized during the year ended December 31, 2024 related to performance obligations satisfied in prior periods was immaterial.
+The following table presents net operating revenues disaggregated between the United States and International and fur

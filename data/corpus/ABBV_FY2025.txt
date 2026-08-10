@@ -1,0 +1,483 @@
+ other variables held constant, would decrease the fair value of foreign exchange forward contracts by $2.0 billion at December 31, 2025. If realized, this appreciation would negatively affect earnings over the remaining life of the contracts. However, gains and losses on the hedging instruments offset losses and gains on the hedged transactions and reduce the earnings and stockholders' equity volatility relating to foreign exchange. A 10% appreciation is believed to be a reasonably possible near-term change in foreign currencies.
+As of December 31, 2025, the company has unsecured senior Euro notes outstanding, which are exposed to foreign currency risk. The company designated 3.1 billion aggregate principal amount of these foreign currency denominated notes as hedges of its net investments in certain foreign subsidiaries and affiliates. As a result, any foreign currency translation gains or losses related to the Euro notes will be included in accumulated other comprehensive loss. See Note 10 to the Consolidated Financial Statements for additional information regarding the senior Euro notes and Note 11 to the Consolidated Financial Statements for additional information regarding the net investment hedging program.
+Interest Rate Risk
+The company estimates that an increase in interest rates of 100 basis points would adversely impact the fair value of AbbVie's interest rate swap contracts by approximately $81 million at December 31, 2025. If realized, the fair value reduction would affect earnings over the remaining life of the contracts. The company estimates that an increase of 100 basis points in long-term interest rates would decrease the fair value of long-term debt by $4.5 billion at December 31, 2025. A 100 basis point change is believed to be a reasonably possible near-term change in interest rates.
+2025 Form 10-K |
+50
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Page
+Consolidated Financial Statements
+Consolidated Statements of Earnings
+52
+Consolidated Statements of Comprehensive Income
+53
+Consolidated Balance Sheets
+54
+Consolidated Statements of Equity (Deficit)
+55
+Consolidated Statements of Cash Flows
+56
+Notes to Consolidated Financial Statements
+Note 1
+Background
+57
+Note 2
+Summary of Significant Accounting Policies
+57
+Note 3
+Supplemental Financial Information
+62
+Note 4
+Earnings Per Share
+63
+Note 5
+Licensing, Acquisitions and Other Arrangements
+63
+Note 6
+Collaborations
+69
+Note 7
+Goodwill and Intangible Assets
+70
+Note 8
+Restructuring Plans
+72
+Note 9
+Leases
+73
+Note 10
+Debt, Credit Facilities and Commitments and Contingencies
+75
+Note 11
+Financial Instruments and Fair Value Measures
+77
+Note 12
+Post-Employment Benefits
+83
+Note 13
+Equity
+87
+Note 14
+Income Taxes
+91
+Note 15
+Legal Proceedings and Contingencies
+95
+Note 16
+Segment and Geographic Area Information
+97
+Note 17
+Fourth Quarter Financial Results (unaudited)
+99
+Report of Independent Registered Public Accounting Firm (PCAOB ID: 42 )
+100
+51
+| 2025 Form 10-K
+AbbVie Inc. and Subsidiaries
+Consolidated Statements of Earnings
+years ended December 31 (in millions, except per share data) 2025 2024 2023
+Net revenues $ 61,160 $ 56,334 $ 54,318
+Cost of products sold 18,204 16,904 20,415
+Selling, general and administrative 14,010 14,752 12,872
+Research and development 9,096 12,791 7,675
+Acquired IPR&D and milestones 5,016 2,757 778
+Other operating income ( 241 ) ( 7 ) ( 179 )
+Total operating costs and expenses 46,085 47,197 41,561
+Operating earnings 15,075 9,137 12,757
+Interest expense, net 2,627 2,160 1,684
+Net foreign exchange loss 58 21 146
+Other expense, net 5,793 3,240 4,677
+Earnings before income tax expense 6,597 3,716 6,250
+Income tax expense (benefit) 2,364 ( 570 ) 1,377
+Net earnings 4,233 4,286 4,873
+Net earnings attributable to noncontrolling interest 7 8 10
+Net earnings attributable to AbbVie Inc. $ 4,226 $ 4,278 $ 4,863
+Per share data
+Basic earnings per share attributable to AbbVie Inc. $ 2.37 $ 2.40 $ 2.73
+Diluted earnings per share attributable to AbbVie Inc. $ 2.36 $ 2.39 $ 2.72
+Weighted-average basic shares outstanding 1,769 1,769 1,768
+Weighted-average diluted shares outstanding 1,773 1,773 1,773
+The accompanying notes are an integral part of these consolidated financial statements.
+2025 Form 10-K |
+52
+AbbVie Inc. and Subsidiaries
+Consolidated Statements of Comprehensive Income
+years ended December 31 (in millions) 2025 2024 2023
+Net earnings $ 4,233 $ 4,286 $ 4,873
+Foreign currency translation adjustments, net of tax expense (benefit) of $ 63 in 2025, $( 39 ) in 2024 and $ 15 in 2023
+1,481 ( 1,008 ) 407
+Net investment hedging activities, net of tax expense (benefit) of $( 266 ) in 2025, $ 133 in 2024 and $( 109 ) in 2023
+( 971 ) 484 ( 399 )
+Pension and post-employment benefits, net of tax expense (benefit) of $ 98 in 2025, $ 206 in 2024 and $( 6 ) in 2023
+421 824 ( 30 )
+Cash flow hedging activities, net of tax expense (benefit) of $( 18 ) in 2025, $ 16 in 2024 and $( 19 ) in 2023
+( 150 ) 80 ( 84 )
+Other comprehensive income (loss) $ 781 $ 380 $ ( 106 )
+Comprehensive income 5,014 4,666 4,767
+Comprehensive income attributable to noncontrolling interest 7 8 10
+Comprehensive income attributable to AbbVie Inc. $ 5,007 $ 4,658 $ 4,757
+The accompanying notes are an integral part of these consolidated financial statements.
+53
+| 2025 Form 10-K
+AbbVie Inc. and Subsidiaries
+Consolidated Balance Sheets
+as of December 31 (in millions, except share data) 2025 2024
+Assets
+Current assets
+Cash and equivalents $ 5,229 $ 5,524
+Short-term investments 28 31
+Accounts receivable, net 12,589 10,919
+Inventories 4,951 4,181
+Prepaid expenses and other 6,265 4,927
+Total current assets 29,062 25,582
+Investments 268 279
+Property and equipment, net 5,628 5,134
+Intangible assets, net 52,641 60,068
+Goodwill 35,640 34,956
+Other assets 10,721 9,142
+Total assets $ 133,960 $ 135,161
+Liabilities and Equity
+Current liabilities
+Short-term borrowings $ 2,499 $ —
+Current portion of long-term debt and finance lease obligations 6,056 6,804
+Accounts payable and accrued liabilities 34,734 31,945
+Total current liabilities 43,289 38,749
+Long-term debt and finance lease obligations 58,941 60,340
+Deferred income taxes 2,389 2,579
+Other long-term liabilities 32,569 30,129
+Commitments and contingencies
+Stockholders' equity (deficit)
+Common stock, $ 0.01 par value, 4,000,000,000 shares authorized, 1,838,678,628 shares issued as of December 31, 2025 and 1,831,594,494 as of December 31, 2024
+18 18
+Common stock held in treasury, at cost, 70,802,593 shares as of December 31, 2025 and 66,337,508 as of December 31, 2024
+( 9,146 ) ( 8,201 )
+Additional paid-in capital 22,495 21,333
+Accumulated deficit ( 15,493 ) ( 7,900 )
+Accumulated other comprehensive loss ( 1,144 ) ( 1,925 )
+Total stockholders' equity (deficit) ( 3,270 ) 3,325
+Noncontrolling interest 42 39
+Total equity (deficit) ( 3,228 ) 3,364
+Total liabilities and equity $ 133,960 $ 135,161
+The accompanying notes are an integral part of these consolidated financial statements.
+2025 Form 10-K |
+54
+AbbVie Inc. and Subsidiaries
+Consolidated Statements of Equity (Deficit)
+years ended December 31 (in millions) Common shares outstanding Common stock Treasury stock Additional paid-in capital Retained earnings (accumulated deficit) Accumulated other comprehensive loss Noncontrolling interest Total
+Balance at December 31, 2022 1,769 $ 18 $ ( 4,594 ) $ 19,245 $ 4,784 $ ( 2,199 ) $ 33 $ 17,287
+Net earnings attributable to AbbVie Inc. — — — — 4,863 — — 4,863
+Other comprehensive loss, net of tax — — — — — ( 106 ) — ( 106 )
+Dividends declared — — — — ( 10,647 ) — — ( 10,647 )
+Purchases of treasury stock ( 12 ) — ( 1,978 ) — — — — ( 1,978 )
+Stock-based compensation plans and other 9 — 39 935 — — — 974
+Change in noncontrolling interest — — — — — — 4 4
+Balance at December 31, 2023 1,766 18 ( 6,533 ) 20,180 ( 1,000 ) ( 2,305 ) 37 10,397
+Net earnings attributable to AbbVie Inc. — — — — 4,278 — — 4,278
+Other comprehensive income, net of tax — — — — — 380 — 380
+Dividends declared — — — — ( 11,178 ) — — ( 11,178 )
+Purchases of treasury stock ( 9 ) — ( 1,703 ) — — — — ( 1,703 )
+Stock-based compensation plans and other 8 — 35 1,153 — — — 1,188
+Change in noncontrolling interest — — — — — — 2 2
+Balance at December 31, 2024 1,765 18 ( 8,201 ) 21,333 ( 7,900 ) ( 1,925 ) 39 3,364
+Net earnings attributable to AbbVie Inc. — — — — 4,226 — — 4,226
+Other comprehensive income, net of tax — — — — — 781 — 781
+Dividends declared — — — — ( 11,819 ) — — ( 11,819 )
+Purchases of treasury stock ( 5 ) — ( 980 ) — — — — ( 980 )
+Stock-based compensation plans and other 8 — 35 1,162 — — — 1,197
+Change in noncontrolling interest — — — — — — 3 3
+Balance at December 31, 2025 1,768 $ 18 $ ( 9,146 ) $ 22,495 $ ( 15,493 ) $ ( 1,144 ) $ 42 $ ( 3,228 )
+The accompanying notes are an integral part of these consolidated financial statements.
+55
+| 2025 Form 10-K
+AbbVie Inc. and Subsidiaries
+Consolidated Statements of Cash Flows
+years ended December 31 (in millions) (brackets denote cash outflows) 2025 2024 2023
+Cash flows from operating activities
+Net earnings $ 4,233 $ 4,286 $ 4,873
+Adjustments to reconcile net earnings to net cash from operating activities:
+Depreciation 762 764 752
+Amortization of intangible assets 7,377 7,622 7,946
+Deferred income taxes ( 492 ) ( 1,449 ) ( 2,889 )
+Change in fair value of contingent consideration liabilities 6,495 3,771 5,128
+Payments of contingent consideration liabilities ( 2,865 ) ( 1,995 ) ( 870 )
+Stock-based compensation 955 911 747
+Acquired IPR&D and milestones 5,016 2,757 778
+Non-cash litigation reserve adjustments, net of cash payments ( 933 ) 508 ( 443 )
+Impairment of intangible assets 847 4,476 4,229
+Other, net ( 3 ) ( 63 ) ( 225 )
+Changes in operating assets and liabilities, net of acquisitions:
+Accounts receivable ( 1,490 ) 207 66
+Inventories ( 234 ) ( 319 ) ( 417 )
+Prepaid expenses and other assets ( 827 ) 361 ( 188 )
+Accounts payable and other liabilities 951 177 3,840
+Income tax assets and liabilities, net ( 762 ) ( 3,208 ) ( 488 )
+Cash flows from operating activities 19,030 18,806 22,839
+Cash flows from investing activities
+Acquisition of businesses, net of cash acquired ( 204 ) ( 17,493 ) —
+Other acquisitions and investments, net of cash acquired ( 5,237 ) ( 3,024 ) ( 1,223 )
+Acquisitions of property and equipment ( 1,214 ) ( 974 ) ( 777 )
+Purchases of investment securities ( 35 ) ( 73 ) ( 77 )
+Sales and maturities of investment securities 76 555 55
+Other, net ( 29 ) 189 13
+Cash flows from investing activities ( 6,643 ) ( 20,820 ) ( 2,009 )
+Cash flows from financing activities
+Net change in commercial paper borrowings with original maturities of three months or less 499 — —
+Proceeds from issuance of other short-term borrowings 4,798 5,008 —
+Repayments of other short-term borrowings ( 2,798 ) ( 5,008 ) —
+Proceeds from issuance of long-term debt 3,994 16,963 —
+Repayments of long-term debt and finance lease obligations ( 6,797 ) ( 9,613 ) ( 4,149 )
+Debt issuance costs ( 23 ) ( 99 ) ( 38 )
+Dividends paid ( 11,657 ) ( 11,025 ) ( 10,539 )
+Purchases of treasury stock ( 980 ) ( 1,708 ) ( 1,972 )
+Proceeds from the exercise of stock options 172 214 180
+Payments of contingent consideration liabilities — — ( 752 )
+Other, net 68 57 48
+Cash flows from financing activities ( 12,724 ) ( 5,211 ) ( 17,222 )
+Effect of exchange rate changes on cash and equivalents 42 ( 65 ) 5
+Net change in cash and equivalents ( 295 ) ( 7,290 ) 3,613
+Cash and equivalents, beginning of year 5,524 12,814 9,201
+Cash and equivalents, end of year $ 5,229 $ 5,524 $ 12,814
+Other supplemental information
+Interest paid, net of portion capitalized $ 3,002 $ 2,811 $ 2,469
+The accompanying notes are an integral part of these consolidated financial statements.
+2025 Form 10-K |
+56
+AbbVie Inc. and Subsidiaries
+Notes to Consolidated Financial Statements
+Note 1 Background
+Background
+The principal business of AbbVie Inc. (AbbVie or the company) is the discovery, development, manufacturing and sale of a broad line of therapies that address some of the world's most complex and serious diseases. AbbVie's products are generally sold worldwide directly to wholesalers, distributors, government agencies, health care facilities, specialty pharmacies and independent retailers from AbbVie-owned distribution centers and public warehouses. Certain products (including aesthetic products and devices) are also sold directly to physicians and other licensed healthcare providers. In the United States, AbbVie distributes pharmaceutical products principally through independent wholesale distributors, with some sales directly to retailers, pharmacies, patients or other customers. Outside the United States, AbbVie sells products primarily to wholesalers or through distributors, and depending on the market, works through largely centralized national payers systems to agree on reimbursement terms.
+AbbVie was incorporated in Delaware on April 10, 2012. On January 1, 2013, AbbVie became an independent, publicly-traded company as a result of the distribution by Abbott Laboratories (Abbott) of 100 % of the outstanding common stock of AbbVie to Abbott's shareholders.
+Note 2 Summary of Significant Accounting Policies
+Use of Estimates
+The consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles (GAAP) and necessarily include amounts based on estimates and assumptions by management. Actual results could differ from those amounts. Significant estimates include amounts for rebates, pension and other post-employment benefits, income taxes, litigation, valuation of goodwill, intangible assets and contingent consideration liabilities.
+Basis of Consolidation
+The consolidated financial statements include the accounts of AbbVie and all of its subsidiaries in which a controlling interest is maintained. Controlling interest is determined by majority ownership interest and the absence of substantive third-party participating rights or, in the case of variable interest entities, where AbbVie is determined to be the primary beneficiary. Investments in companies over which AbbVie has a significant influence but not a controlling interest are accounted for using the equity method with AbbVie's share of earnings or losses reported in other expense, net in the consolidated statements of earnings. Intercompany balances and transactions are eliminated. Certain reclassifications have been made to conform the prior period consolidated financial statements to the current period presentation.
+Revenue Recognition
+AbbVie recognizes revenue when control of promised goods or services is transferred to the company's customers, in an amount that reflects the consideration AbbVie expects to be entitled to in exchange for those goods or services. Sales, value add and other taxes collected concurrent with revenue-producing activities are excluded from revenue. AbbVie generates revenue primarily from product sales. For the majority of sales, the company transfers control, invoices the customer and recognizes revenue upon shipment to the customer. The company recognizes shipping and handling costs as an expense in cost of products sold when the company transfers control to the customer. Payment terms vary depending on the type and location of the customer, are based on customary commercial terms and are generally less than one year. AbbVie does not adjust revenue for the effects of a significant financing component for contracts where AbbVie expects the period between the transfer of the good or service and collection to be one year or less.
+Cash discounts, rebates and chargebacks, sales incentives, product returns and certain other adjustments are accounted for as variable consideration. Provisions for variable consideration are based on current pricing, executed contracts, government pricing legislation and historical data and are provided for in the period the related revenues are recorded. Rebate amounts are typically based upon the volume of purchases using contractual or statutory prices, which may vary by product and by payer. For each type of rebate, factors used in the calculation of the accrual include the identification of the products subject to the rebate, the applicable price terms and the estimated lag time between sale and payment of the rebate, which can be significant.
+57
+| 2025 Form 10-K
+In addition to revenue from contracts with customers, the company also recognizes certain collaboration revenues. See Note 6 for additional information related to the collaborations with Janssen Biotech, Inc. and its affiliates (Janssen) and Genentech, Inc. (Genentech). Additionally, see Note 16 for disaggregation of revenue by product and geography.
+Research and Development Expenses
+Internal research and development (R&D) costs are expensed as incurred. Clinical trial costs incurred by third parties are expensed as the contracted work is performed.
+Acquired IPR&D and Milestones Expenses
+In an asset acquisition, payments incurred prior to regulatory approval to acquire rights to in-process R&D projects are expensed as acquired IPR&D and milestones expense in the consolidated statements of earnings unless the project has an alternative future use. These costs include upfront and development milestone payments related to R&D collaborations, licensing arrangements, or other asset acquisitions that provide rights to develop, manufacture and/or sell pharmaceutical products. Where contingent development milestone payments are due to third parties, prior to regulatory approval, the payment obligations are expensed when the milestone results are achieved. Regulatory and commercial milestone payments made to third parties subsequent to regulatory approval are capitalized as intangible assets and amortized to cost of products sold over the remaining useful life of the related product.
+Business Combinations
+AbbVie utilizes the acquisition method of accounting for business combinations. This method requires, among other things, that results of operations of acquired companies are included in AbbVie's results of operations beginning on the acquisition date and that assets acquired and liabilities assumed are recognized at fair value as of the acquisition date. Any excess of the fair value of consideration transferred over the fair value of the net assets acquired is recognized as goodwill. Contingent consideration liabilities are recognized at the estimated fair value on the acquisition date. Subsequent changes to the fair value of contingent consideration liabilities are recognized in other expense, net in the consolidated statements of earnings. The fair value of assets acquired and liabilities assumed in certain cases may be subject to revision based on the final determination of fair value during a period of time not to exceed 12 months from the acquisition date. Legal costs, due diligence costs, business valuation costs and all other business acquisition costs are expensed when incurred.
+In a business combination, the fair value of IPR&D projects acquired is capitalized and accounted for as indefinite-lived intangible assets until the underlying project receives regulatory approval, at which point the intangible asset will be accounted for as a definite-lived intangible asset, or discontinuation, at which point the intangible asset will be written off. R&D costs incurred by the company after the acquisition are expensed to R&D in the consolidated statements of earnings when incurred.
+Collaborations and Other Arrangements
+The company enters into collaborative agreements with third parties to develop and commercialize drug candidates. Collaborative activities may include joint research and development and commercialization of new products. AbbVie generally receives certain licensing rights under these arrangements. These collaborations often require upfront payments and may include additional milestone, R&D cost sharing, royalty or profit share payments, contingent upon the occurrence of certain future events linked to the success of the asset in development and commercialization. Upfront payments associated with collaborative arrangements and subsequent payments made to the partner for the achievement of development milestones prior to regulatory approval are expensed to acquired IPR&D and milestones expense in the consolidated statements of earnings. Regulatory and commercial milestone payments made to the partner subsequent to regulatory approval are capitalized as intangible assets and amortized to cost of products sold over the estimated useful life of the related asset. Royalties are expensed to cost of products sold in the consolidated statements of earnings when incurred.
+Advertising
+Costs associated with advertising are expensed as incurred and are included in selling, general and administrative (SG&A) expense in the consolidated statements of earnings. Advertising expenses were $ 2.1 billion in 2025, $ 2.1 billion in 2024 and $ 2.2 billion in 2023.
+Pension and Other Post-Employment Benefits
+AbbVie records annual expenses relating to its defined benefit pension and other post-employment benefit plans based on calculations which utilize various actuarial assumptions including discount rates, rates of return on assets, compensation increases, turnover rates and health care cost trend rates. AbbVie reviews its actuarial assumptions on an annual basis and makes modifications to the assumptions based on current rates and trends. Actuarial gains and losses are deferred in
+2025 Form 10-K |
+58
+accumulated other comprehensive income (loss) (AOCI), net of tax and are amortized over the remaining service attribution periods of the employees under the corridor method. Differences between the expected long-term return on plan assets and the actual annual return are generally amortized to net periodic benefit cost over a five-year period.
+Income Taxes
+Income taxes are accounted for under the asset and liability method. Provisions for federal, state and foreign income taxes are calculated on reported pre-tax earnings based on current tax laws. Deferred taxes are provided using enacted tax rates on the future tax consequences of temporary differences, which are the differences between the financial statement carrying amounts of assets and liabilities and their respective tax bases and the tax benefits of carryforwards. A valuation allowance is established or maintained when, based on currently available information, it is more likely than not that all or a portion of a deferred tax asset will not be realized.
+Cash and Equivalents
+Cash and equivalents include money market funds and time deposits with original maturities of three months or less.
+Investments
+Investments consist primarily of equity securities, held-to-maturity debt securities, marketable debt securities and time deposits. Investments in equity securities that have readily determinable fair values are recorded at fair value. Investments in equity securities that do not have readily determinable fair values are recorded at cost and are remeasured to fair value based on certain observable price changes or impairment events as they occur. Held-to-maturity debt securities are recorded at cost. Gains or losses on investments are included in other expense, net in the consolidated statements of earnings. Investments in marketable debt securities are classified as available-for-sale and are recorded at fair value with any unrealized holding gains or losses, net of tax, included in AOCI on the consolidated balance sheets until realized, at which time the gains or losses are recognized in earnings.
+AbbVie periodically assesses its marketable debt securities for impairment and credit losses. When a decline in the fair value of marketable debt security is due to credit related factors, an allowance for credit losses is recorded with a corresponding charge to other expense, net in the consolidated statements of earnings. When AbbVie determines that a non-credit related impairment has occurred, the amortized cost basis of the investment, net of allowance for credit losses, is written down with a charge to other expense, net in the consolidated statements of earnings and an available-for-sale investment's unrealized loss is reclassified from AOCI to other expense, net in the consolidated statements of earnings. Realized gains and losses on sales of investments are computed using the first-in, first-out method adjusted for any impairments and credit losses that were recorded in net earnings.
+Accounts Receivable
+Accounts receivable are stated at amortized cost less allowance for credit losses. The allowance for credit losses reflects the best estimate of future losses over the contractual life of outstanding accounts receivable and is determined on the basis of historical experience, specific allowances for known troubled accounts, other currently available information including customer financial condition and both current and forecasted economic conditions.
+Inventories
+Inventories are valued at the lower of cost (first-in, first-out basis) or market. Cost includes material and conversion costs. Inventories consisted of the following:
+as of December 31 (in millions) 2025 2024
+Finished goods $ 1,580 $ 1,173
+Work-in-process 2,287 1,951
+Raw materials 1,084 1,057
+Inventories $ 4,951 $ 4,181
+59
+| 2025 Form 10-K
+Property and Equipment, Net
+as of December 31 (in millions) 2025 2024
+Land $ 287 $ 284
+Buildings 3,057 2,895
+Equipment 8,785 7,995
+Construction in progress 1,401 1,093
+Property and equipment, gross 13,530 12,267
+Less accumulated depreciation ( 7,902 ) ( 7,133 )
+Property and equipment, net $ 5,628 $ 5,134
+Depreciation for property and equipment is recorded on a straight-line basis over the estimated useful lives of the assets ( 10 to 50 years for buildings and 2 to 25 years for equipment). Depreciation expense was $ 762 million in 2025, $ 764 million in 2024 and $ 752 million in 2023.
+Leases
+Short-term leases with a term of 12 months or less are not recorded on the balance sheet. For leases commencing or modified in 2019 or later, AbbVie does not separate lease components from non-lease components.
+The company records lease liabilities based on the present value of lease payments over the lease term. AbbVie generally uses an incremental borrowing rate to discount its lease liabilities, as the rate implicit in the lease is typically not readily determinable. Certain lease agreements include renewal options that are under the company's control. AbbVie includes optional renewal periods in the lease term only when it is reasonably certain that AbbVie will exercise its option.
+Variable lease payments include payments to lessors for taxes, maintenance, insurance and other operating costs as well as payments that are adjusted based on an index or rate. The company's lease agreements do not contain any significant residual value guarantees or restrictive covenants.
+Litigation and Contingencies
+Loss contingency provisions are recorded when it is probable that a liability has been incurred and the amount of the liability can be reasonably estimated based on existing information. When a best estimate cannot be made, the minimum loss contingency amount in a probable range is recorded. Legal fees are expensed as incurred. AbbVie accrues for product liability claims on an undiscounted basis. The liabilities are evaluated quarterly and adjusted if necessary as additional information becomes available. Receivables for insurance recoveries for product liability claims, if any, are recorded as assets on an undiscounted basis when it is probable that a recovery will be realized.
+Goodwill and Intangible Assets
+Intangible assets acquired in a business combination are recorded at fair value using a discounted cash flow model. The discounted cash flow model requires assumptions about the timing and amount of future net cash flows, risk, the cost of capital and terminal values of market participants. Definite-lived intangibles are amortized over their estimated useful lives using the estimated pattern of economic benefit. AbbVie reviews the recoverability of definite-lived intangible assets whenever events or changes in circumstances indicate the carrying value of an asset may not be recoverable. AbbVie first compares the projected undiscounted cash flows to be generated by the asset to its carrying value. If the undiscounted cash flows of an intangible asset are less than the carrying value, the intangible asset is written down to its fair value. Where cash flows cannot be identified for an individual asset, the review is applied at the lowest level for which cash flows are largely independent of the cash flows of other assets and liabilities.
+Goodwill and indefinite-lived assets are not amortized but are subject to an impairment review annually and more frequently when indicators of impairment exist. An impairment of goodwill could occur if the carrying amount of a reporting unit exceeded the fair value of that reporting unit. An impairment of indefinite-lived intangible assets would occur if the fair value of the intangible asset is less than the carrying value.
+The company tests its goodwill for impairment by first assessing qualitative factors to determine whether it is more likely than not that the fair value is less than its carrying amount. If the company concludes it is more likely than not that the fair value of the reporting unit is less than its carrying amount, a quantitative impairment test is performed. AbbVie tests indefinite-lived intangible assets for impairment by first assessing qualitative factors to determine whether it is more likely than not that the fair value is less than its carrying amount. If the company concludes it is more likely than not that the fair
+2025 Form 10-K |
+60
+value is less than its carrying amount, a quantitative impairment test is performed. For its quantitative impairment tests, the company uses an estimated future cash flow approach that requires significant judgment with respect to future volume, revenue and expense growth rates, changes in working capital use, the selection of an appropriate discount rate, asset groupings and other assumptions and estimates. The estimates and assumptions used are consistent with the company's business plans and a market participant's views. The use of alternative estimates and assumptions could increase or decrease projected cash flows and the estimated fair value of the related intangible assets. Future changes to these estimates and assumptions could have a material impact on the company's results of operations. Actual results may differ from the company's estimates.
+Foreign Currency Translation
+Foreign subsidiary earnings are translated into U.S. dollars using average exchange rates. The net assets of foreign subsidiaries are translated into U.S. dollars using period-end exchange rates. The U.S. dollar effects that arise from translating the net assets of these subsidiaries at changing rates are recognized in other comprehensive income (loss) in the consolidated statements of comprehensive income. The net assets of subsidiaries in highly inflationary economies are remeasured as if the functional currency were the reporting currency. The remeasurement is recognized in net foreign exchange loss in the consolidated statements of earnings.
+Derivatives
+All derivative instruments are recognized as either assets or liabilities at fair value on the consolidated balance sheets and are classified as current or long-term based on the scheduled maturity of the instrument.
+For derivatives formally designated as hedges, the company assesses at inception and quarterly thereafter whether the hedging derivatives are highly effective in offsetting changes in the fair value or cash flows of the hedged item. The changes in fair value of a derivative designated as a fair value hedge and of the hedged item attributable to the hedged risk are recognized in earnings immediately. The effective portions of changes in the fair value of a derivative designated as a cash flow hedge are reported in AOCI and are subsequently recognized in earnings consistent with the underlying hedged item. If it is determined that a derivative is no longer highly effective as a hedge, the company discontinues hedge accounting prospectively. If a hedged forecasted transaction becomes probable of not occurring, any gains or losses are reclassified from AOCI to earnings. Derivatives that are not designated as hedges are adjusted to fair value through current earnings.
+The company also uses derivative instruments or foreign currency denominated debt to hedge its net investments in certain foreign subsidiaries and affiliates. Realized and unrealized gains and losses from these hedges are included in AOCI.
+Derivative cash flows, with the exception of net investment hedges, are principally classified in the operating section of the consolidated statements of cash flows, consistent with the underlying hedged item. Cash flows related to net investment hedges are classified in the investing section of the consolidated statements of cash flows.
+Recent Accounting Pronouncements
+Recent Accounting Pronouncements Not Yet Adopted
+ASU No. 2024-03
+In November 2024, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) No. 2024-03, Income Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40 ). The standard requires further disaggregation of relevant expense captions in a separate note to the financial statements. The standard is effective for AbbVie starting in annual periods in 2027 and interim periods beginning in 2028, with early adoption permitted. AbbVie is currently assessing the impact of adopting this guidance on its consolidated financial statements.
+Recently Adopted Accounting Pronouncements
+ASU No. 2023-09
+In December 2023, the FASB issued ASU No. 2023-09, Income Taxes (Topic 740) . The standard requires disaggregation of the effective tax rate reconciliation into standard categories, enhances disclosure of income taxes paid, and modifies other income tax-related disclosures. AbbVie adopted the standard in the fourth quarter of 2025 on a prospective basis. The adoption did not have a material impact on its consolidated financial statements. See Note 14 for additional information.
+61
+| 2025 Form 10-K
+Note 3 Supplemental Financial Information
+Interest Expense, Net
+years ended December 31 (in millions) 2025 2024 2023
+Interest expense $ 2,893 $ 2,808 $ 2,224
+Interest income ( 266 ) ( 648 ) ( 540 )
+Interest expense, net $ 2,627 $ 2,160 $ 1,684
+Accounts Payable and Accrued Liabilities
+as of December 31 (in millions) 2025 2024
+Sales rebates $ 14,572 $ 14,304
+Accounts payable 3,592 2,945
+Current portion of contingent consideration liabilities 3,455 2,589
+Dividends payable 3,099 2,936
+Salaries, wages and commissions 2,219 1,986
+Royalty and license arrangements 453 527
+Other 7,344 6,658
+Accounts payable and accrued liabilities $ 34,734 $ 31,945
+Other Long-Term Liabilities
+as of December 31 (in millions) 2025 2024
+Contingent consideration liabilities $ 21,919 $ 19,077
+Liabilities for unrecognized tax benefits 5,573 5,049
+Pension and other post-employment benefits 1,410 1,234
+Income taxes payable 364 1,261
+Other 3,303 3,508
+Other long-term liabilities $ 32,569 $ 30,129
+2025 Form 10-K |
+62
+Note 4 Earnings Per Share
+AbbVie grants certain restricted stock units (RSUs) that are considered to be participating securities. Due to the presence of participating securities, AbbVie calculates earnings per share (EPS) using the more dilutive of the treasury stock or the two-class method. For all periods presented, the two-class method was more dilutive.
+The following table summarizes the impact of the two-class method:
+Years ended December 31,
+(in millions, except per share data) 2025 2024 2023
+Basic EPS
+Net earnings attributable to AbbVie Inc. $ 4,226 $ 4,278 $ 4,863
+Earnings allocated to participating securities 40 40 43
+Earnings available to common shareholders $ 4,186 $ 4,238 $ 4,820
+Weighted average basic shares of common stock outstanding 1,769 1,769 1,768
+Basic earnings per share attributable to AbbVie Inc. $ 2.37 $ 2.40 $ 2.73
+Diluted EPS
+Net earnings attributable to AbbVie Inc. $ 4,226 $ 4,278 $ 4,863
+Earnings allocated to participating securities 40 40 43
+Earnings available to common shareholders $ 4,186 $ 4,238 $ 4,820
+Weighted average shares of common stock outstanding 1,769 1,769 1,768
+Effect of dilutive securities 4 4 5
+Weighted average diluted shares of common stock outstanding 1,773 1,773 1,773
+Diluted earnings per share attributable to AbbVie Inc. $ 2.36 $ 2.39 $ 2.72
+Certain shares issuable under stock-based compensation plans were excluded from the computation of EPS because the effect would have been antidilutive. The number of common shares excluded was insignificant for all periods presented.
+Note 5 Licensing, Acquisitions and Other Arrangements
+Acquisition of Nimble Therapeutics, Inc.
+On January 23, 2025, AbbVie completed its acquisition of Nimble Therapeutics, Inc. (Nimble). Nimble is a biotechnology company dedicated to delivering on the promise of oral peptide therapeutics and its lead asset, an investigational oral peptide IL23R inhibitor in development for the treatment of psoriasis. The aggregate purchase price of $ 288 million was comprised of a $ 210 million upfront cash payment and $ 78 million for the acquisition date fair value of contingent consideration liabilities, for which AbbVie may owe up to $ 130 million in future payments upon achievement of certain development milestones. The transaction was accounted for as a business combination using the acquisition method of accounting. The acquisition method requires, among other things, that assets acquired and liabilities assumed in a business combination be recognized at their fair values as of the acquisition date. As of the acquisition date, AbbVie acquired $ 118 million of intangible assets and the acquisition resulted in the recognition of $ 170 million of goodwill. Goodwill was calculated as the excess of the consideration transferred over the fair value of net assets recognized and represents the future economic benefits arising from other assets acquired that could not be individually identified and separately recognized, including expected synergies related to enhancement of AbbVie's existing immunology discovery capabilities and development efforts. The goodwill is not deductible for tax purposes. Other assets acquired and liabilities assumed were insignificant.
+Acquisition of Cerevel Therapeutics Holdings, Inc.
+On August 1, 2024, AbbVie completed its acquisition of Cerevel Therapeutics Holdings, Inc. (Cerevel Therapeutics). Cerevel Therapeutics is a clinical-stage biotechnology company focused on the discovery and development of differentiated therapies for neuroscience diseases. Cerevel Therapeutics neuroscience pipeline included multiple clinical-stage and preclinical candidates with the potential to treat several diseases including schizophrenia, Parkinson's disease and mood disorders. Under the terms of the agreement, AbbVie acquired all outstanding shares of Cerevel Therapeutics for $ 45.00 per
+63
+| 2025 Form 10-K
+share in cash. The total fair value of the consideration transferred to owners of Cerevel Therapeutics common stock was $ 8.7 billion ($ 8.3 billion, net of cash acquired).
+The acquisition of Cerevel Therapeutics was accounted for as a business combination using the acquisition method of accounting. The acquisition method requires, among other things, that assets acquired and liabilities assumed in a business combination be recognized at their fair values as of the acquisition date. The valuation of assets acquired and liabilities assumed was finalized during the three months ended March 31, 2025.
+The following table summarizes the final fair value of assets acquired and liabilities assumed as of the acquisition date:
+(in millions)
+Assets acquired and liabilities assumed
+Cash and equivalents $ 361
+Short-term investments 382
+Prepaid expenses and other current assets 9
+Property and equipment, net 25
+Investments 121
+Intangible assets, net 8,100
+Other noncurrent assets 31
+Current portion of long-term debt ( 400 )
+Accounts payable and accrued liabilities ( 100 )
+Long-term debt ( 246 )
+Deferred income taxes ( 1,292 )
+Other long-term liabilities ( 31 )
+Total identifiable net assets 6,960
+Goodwill 1,702
+Total assets acquired and liabilities assumed $ 8,662
+Intangible assets relate to $ 8.1 billion of acquired in-process research and development (IPR&D) associated with products that have not yet received regulatory approval. The estimated fair values of identifiable intangible assets were determined using the "income approach" which is a valuation technique that provides an estimate of the fair value of an asset based on market participant expectations of the cash flows an asset would generate over its remaining useful life. Some of the more significant assumptions inherent in the development of these asset valuations include the estimated net cash flows for each year for each asset or product, the appropriate discount rate necessary to measure the risk inherent in each future cash flow stream, the life cycle of each asset, the potential regulatory and commercial success risk, competitive trends impacting the asset and each cash flow stream, as well as other factors.
+The current portion of long-term debt assumed by AbbVie consists of $ 345 million aggregate principal of 2.5 % convertible senior notes due 2027. Upon acquisition, the convertible senior notes became callable and note holders could redeem the convertible senior notes for cash at a premium. As of the acquisition date, the convertible senior notes were recognized as current portion of long-term debt on the consolidated balance sheets at an aggregate fair value of $ 400 million. Following the acquisition date, the company repaid the convertible senior notes and there were no amounts outstanding as of December 31, 2024.
+Long-term debt assumed by AbbVie relates to funding agreements entered into by Cerevel Therapeutics prior to the acquisition. Under the agreements, Cerevel Therapeutics received funding to support development of tavapadon and agreed to repay regulatory milestones, sales milestones and royalties contingent upon approval of tavapadon by the U.S. Food and Drug Administration (FDA). The funding agreements were accounted for as financing arrangements and the fair value of the related financing liability was $ 246 million as of the acquisition date. The estimated fair value of the financing liability was determined using a probability-weighted expected payment model for regulatory milestone payments and a Monte Carlo simulation model for sales milestones and royalty payments, which are then discounted to present value. Assumptions inherent in the development of fair value include discount rates, estimated probabilities and timing of achieving milestones and estimated amounts of future sales. See Note 10 and Note 11 for additional information.
+2025 Form 10-K |
+64
+Goodwill was calculated as the excess of the consideration transferred over the fair value of net assets recognized and represents the future economic benefits arising from other assets acquired that could not be individually identified and separately recognized. Specifically, the goodwill recognized from the acquisition of Cerevel Therapeutics represents expected synergies, including the ability to: (i) expand AbbVie's neuroscience pipeline, (ii) leverage AbbVie's commercial, regulatory and clinical expertise to maximize Cerevel Therapeutic's assets and (iii) enhance AbbVie's existing neuroscience discovery capabilities. The goodwill is not deductible for tax purposes.
+AbbVie also assumed a licensing agreement entered into by Cerevel Therapeutics with Pfizer Inc. (Pfizer) prior to the acquisition. Under the agreement, Cerevel Therapeutics was granted an exclusive global license under certain Pfizer patent rights to develop, manufacture and commercialize compounds included in Cerevel Therapeutic's pipeline. AbbVie could make additional payments of up to $ 1.6 billion upon achievement of certain regulatory and commercial milestones for all programs. Additionally, AbbVie will pay tiered royalties on net revenues.
+Following the acquisition date, the operating results of Cerevel Therapeutics have been included in the consolidated financial statements. For the period from the acquisition date through December 31, 2024, operating losses attributable to Cerevel Therapeutics were $ 4.9 billion, inclusive of an intangible asset impairment charge of $ 4.5 billion related to emraclidine. See Note 7 for additional information. Operating losses attributable to Cerevel Therapeutics also included $ 161 million of cash-settled, post-closing expense for Cerevel Therapeutics employee incentive awards. AbbVie issued 0.3 million RSUs to holders of Cerevel Therapeutics equity awards based on a conversion factor described in the transaction agreement. Stock compensation expense related to RSUs issued at the acquisition date was not significant.
+Acquisition-related expenses, which were comprised primarily of regulatory, financial advisory and legal fees, totaled $ 44 million for the year ended December 31, 2024 and were included in SG&A expense in the consolidated statements of earnings.
+Acquisition of ImmunoGen, Inc.
+On February 12, 2024, AbbVie completed its acquisition of ImmunoGen, Inc. (ImmunoGen). ImmunoGen is a commercial-stage biotechnology company focused on the discovery, development and commercialization of antibody-drug conjugates (ADC) for cancer patients. ImmunoGen's oncology portfolio includes its flagship cancer therapy Elahere, a first-in-class ADC approved for platinum-resistant ovarian cancer, and a pipeline of promising next-generation ADC's targeting hematologic malignancies and solid tumors. The combination accelerated AbbVie's entry into the solid tumor space and strengthened its oncology pipeline. Under the terms of the agreement, AbbVie acquired all outstanding shares of ImmunoGen for $ 31.26 per share in cash. The total fair value of the consideration transferred to owners of ImmunoGen common stock was $ 9.8 billion ($ 9.2 billion, net of cash acquired).
+The acquisition of ImmunoGen was accounted for as a business combination using the acquisition method of accounting. The acquisition method requires, among other things, that assets acquired and liabilities assumed in a business combination be recognized at their fair values as of the acquisition date. The valuation of assets acquired and liabilities assumed was finalized during the three months ended December 31, 2024.
+65
+| 2025 Form 10-K
+The following table summarizes the final fair value of assets acquired and liabilities assumed as of the acquisition date:
+(in millions)
+Assets acquired and liabilities assumed
+Cash and equivalents $ 591
+Accounts receivable 171
+Inventories 211
+Prepaid expenses and other current assets 40
+Property and equipment, net 7
+Intangible assets, net
+Developed product rights 7,200
+License agreements 125
+Acquired in-process research and development 1,280
+Other noncurrent assets 273
+Current portion of long-term debt ( 99 )
+Accounts payable and accrued liabilities ( 312 )
+Deferred income taxes ( 899 )
+Other long-term liabilities ( 47 )
+Total identifiable net assets 8,541
+Goodwill 1,249
+Total assets acquired and liabilities assumed $ 9,790
+The fair value step-up adjustment to inventories of $ 179 million was amortized to cost of products sold when the inventory was sold to customers during the year ended December 31, 2024.
+Intangible assets relate to $ 7.3 billion of definite-lived intangible assets and $ 1.3 billion of acquired IPR&D associated with products that have not yet received regulatory approval. The acquired definite-lived intangible assets consist of developed product rights and license agreements and are being amortized over a weighted-average estimated useful life of approximately 12 years using the estimated pattern of economic benefit. The estimated fair values of identifiable intangible assets were determined using the "income approach" which is a valuation technique that provides an estimate of the fair value of an asset based on market participant expectations of the cash flows an asset would generate over its remaining useful life. Some of the more significant assumptions inherent in the development of these asset valuations include the estimated net cash flows for each year for each asset or product, the appropriate discount rate necessary to measure the risk inherent in each future cash flow stream, the life cycle of each asset, the potential regulatory and commercial success risk, competitive trends impacting the asset and each cash flow stream, as well as other factors.
+Other noncurrent assets primarily consist of $ 250 million of deferred tax assets.
+The current portion of long-term debt assumed by AbbVie was repaid concurrent with the acquisition at the fair value of $ 99 million. See Note 10 for additional information.
+Goodwill was calculated as the excess of the consideration transferred over the fair value of net assets recognized and represents the future economic benefits arising from other assets acquired that could not be individually identified and separately recognized. Specifically, the goodwill recognized from the acquisition of ImmunoGen represents expected synergies including, the ability to: (i) expand AbbVie's product portfolio as well as the potential to increase revenue from future growth platforms, (ii) accelerate AbbVie's clinical and commercial presence in the solid tumor space within oncology, (iii) leverage the respective strengths of each company, and (iv) enhance AbbVie's existing ADC development efforts. The goodwill is not deductible for tax purposes.
+Following the acquisition date, the operating results of ImmunoGen have been included in the consolidated financial statements. For the period from the acquisition date through December 31, 2024, net revenues attributable to ImmunoGen were $ 578 million and operating losses attributable to ImmunoGen were $ 682 million, inclusive of $ 349 million of cash-settled, post-closing expense for ImmunoGen employee incentive awards, $ 179 million of inventory fair value step-up amortization and $ 157 million of intangible asset amortization. AbbVie also issued 0.3 million RSUs to holders of ImmunoGen equity awards based on a conversion factor described in the transaction agreement. Stock compensation expense related to RSUs issued at the acquisition date was not significant.
+2025 Form 10-K |
+66
+Acquisition-related expenses, which were comprised primarily of regulatory, financial advisory and legal fees, totaled $ 59 million for the year ended December 31, 2024 and were included in SG&A expense in the consolidated statements of earnings.
+Pro Forma Financial Information
+The following table presents the unaudited pro forma combined results of AbbVie, ImmunoGen and Cerevel Therapeutics for 2024 and 2023 as if the acquisitions of ImmunoGen and Cerevel Therapeutics had occurred on January 1, 2023:
+years ended December 31 (in millions) 2024 2023
+Net revenues $ 56,389 $ 54,691
+Net earnings 4,564 2,862
+The unaudited pro forma combined financial information was prepared using the acquisition method of accounting and was based on the historical financial information of AbbVie, ImmunoGen and Cerevel Therapeutics. In order to reflect the occurrence of the acquisitions on January 1, 2023 as required, the unaudited pro forma financial information includes adjustments to reflect incremental amortization expense to be incurred based on the fair values of the identifiable intangible assets acquired; the incremental cost of products sold related to the fair value adjustments associated with acquisition date inventory; the additional interest expense associated with the issuance of debt to finance the acquisition; and the reclassification of acquisition-related costs incurred during the year ended December 31, 2024 to the year ended December 31, 2023. The unaudited pro forma financial information is not necessarily indicative of what the consolidated results of operations would have been had the acquisitions been completed on January 1, 2023. In addition, the unaudited pro forma financial information is not a projection of future results of operations of the combined company nor does it reflect the expected realization of any synergies or cost savings associated with the acquisitions.
+Other Licensing & Acquisitions Activity
+Cash outflows related to other acquisitions and investments, net of cash acquired totaled $ 5.2 billion in 2025, $ 3.0 billion in 2024 and $ 1.2 billion in 2023.
+The following table summarizes acquired IPR&D and milestone expense:
+years ended December 31 (in millions) 2025 2024 2023
+Upfront charges $ 4,808 $ 2,627 $ 582
+Development milestones 208 130 196
+Acquired IPR&D and milestones $ 5,016 $ 2,757 $ 778
+RemeGen Co., Ltd.
+Subsequent to December 31, 2025, AbbVie announced that it entered into a license agreement with RemeGen Co., Ltd. (RemeGen). Under the terms of the agreement, AbbVie will make an upfront payment of $ 650 million and receive an exclusive global license excluding China to develop, manufacture and commercialize RC148, a novel investigational Programmed Cell Death-1 (PD-1)/Vascular Endothelial Growth Factor (VEGF)-targeted bispecific antibody in development for the treatment of multiple advanced solid tumors. AbbVie could make additional payments of up to $ 5.0 billion upon achievement of certain development, regulatory and commercial milestones and pay tiered royalties. The transaction is expected to close in 2026, subject to regulatory approvals and other customary closing conditions.
+Gilgamesh Pharmaceuticals, Inc.
+In October 2025, AbbVie completed its previously announced acquisition of Gilgamesh Pharmaceuticals, Inc. (Gilgamesh), including its lead program bretisilocin (GM-2505). GM-2505, renamed ABBV-2505, is a short-acting serotonin (5-HT)2A receptor agonist and 5-HT releaser in development for the treatment of major depressive disorder. As part of the transaction, Gilgamesh spun off a new independent entity that will operate under the name Gilgamesh Pharma Inc. to retain its employees and other programs, including an existing option-to-license agreement with AbbVie which remains in effect. Under the terms of the agreement, AbbVie made an upfront cash payment of $ 906 million to acquire all outstanding equity of Gilgamesh and the transaction was accounted for as an asset acquisition as the lead program represented substantially all of the fair value of the gross assets acquired. The upfront cash payment was recorded in acquired IPR&D and milestones expense in the consolidated statement of earnings in the fourth quarter of 2025. AbbVie could make additional payments of up to $ 300 million upon achievement of development milestones.
+67
+| 2025 Form 10-K
+Ichnos Glenmark Innovation, Inc.
+In September 2025, AbbVie entered into a license agreement with Ichnos Glenmark Innovation, Inc. (IGI). Under the terms of the agreement, AbbVie received an exclusive license to develop, manufacture and commercialize ISB-2001 (ABBV-2001), a tri-specific T-cell engager in development for the treatment of multiple myeloma across North America, Europe, Japan and Greater China. The upfront payment of $ 700 million was recorded in acquired IPR&D and milestones expense in the consolidated statement of earnings in the third quarter of 2025. AbbVie could make additional payments of up to $ 1.2 billion upon achievement of certain development, regulatory and commercial milestones and pay tiered royalties.
+Capstan Therapeutics, Inc.
+In August 2025, AbbVie acquired Capstan Therapeutics, Inc. (Capstan), including its lead program CPTX2309 (ABBV-619), a potential first-in-class in vivo targeted lipid nanoparticle (tLNP) anti-CD19 CAR-T therapy candidate in development for the treatment of B cell-mediated autoimmune diseases. Under the terms of the agreement, AbbVie paid cash consideration of $ 2.1 billion ($ 1.9 billion, net of cash acquired) to acquire all outstanding equity of Capstan and the transaction was accounted for as an asset acquisition as the lead program represented substantially all of the fair value of the gross assets acquired. The cash consideration of $ 1.9 billion, net of cash acquired, was recognized in acquired IPR&D and milestones expense in the consolidated statement of earnings in the third quarter of 2025. In connection with the transaction, AbbVie also recorded $ 187 million of cash-settled, post-closing expense for Capstan employee incentive and compensation awards in the consolidated statement of earnings in the third quarter of 2025.
+ADARx Pharmaceuticals, Inc.
+In May 2025, AbbVie entered into a license option agreement with ADARx Pharmaceuticals, Inc. (ADARx). Under the terms of the agreement, AbbVie received exclusive options to global license rights to develop and commercialize ADARx's small interfering RNA (siRNA) therapeutics across multiple disease areas, including neuroscience, immunology and oncology. Under the terms of the agreement, AbbVie made an upfront payment of $ 335 million which was recognized in acquired IPR&D and milestones expense in the consolidated statement of earnings in the second quarter of 2025. AbbVie could make additional payments of up to $ 385 million for option fees and option exercise payments, up to $ 7.5 billion upon achievement of certain development, regulatory and commercial milestones and pay tiered royalties.
+Gubra A/S
+In April 2025, AbbVie entered into a licensing agreement with Gubra A/S. Under the terms of the agreement, AbbVie received an exclusive global license to develop and commercialize GUB014295 (ABBV-295), a long-acting amylin analog in development for the treatment of obesity. Under the terms of the agreement, AbbVie made an upfront payment of $ 350 million which was recognized in acquired IPR&D and milestones expense in the consolidated statement of earnings in the second quarter of 2025. AbbVie could make additional payments of up to $ 1.9 billion upon achievement of certain development, regulatory and commercial milestones and pay tiered royalties.
+Aliada Therapeutics Holdings, Inc.
+In December 2024, AbbVie acquired Aliada Therapeutics Holdings, Inc. (Aliada) including its lead program ALIA-1758 (ABBV-1758) and accounted for the transaction as an asset acquisition as the lead program represented substantially all of the fair value of the gross assets acquired. ABBV-1758 is an anti-pyroglutamate amyloid beta (3pE-A ) antibody in development for the treatment of Alzheimer's Disease. Under the terms of the agreement, AbbVie made an upfront cash payment of approximately $ 1.4 billion to acquire all outstanding equity of Aliada which was recorded in acquired IPR&D and milestones expense in the consolidated statement of earnings in the fourth quarter of 2024.
+Celsius Therapeutics, Inc.
+In June 2024, AbbVie acquired Celsius Therapeutics, Inc. (Celsius Therapeutics) including its lead pipeline asset CEL383 (ABBV-8736). Celsius Therapeutics is a clinical-stage biotechnology company focused on the discovery and development of precision medicine in inflammatory bowel disease. The transaction was accounted for as an asset acquisition as the lead pipeline asset represented substantially all of the fair value of the gross assets acquired. The upfront payment of $ 250 million was recorded in acquired IPR&D and milestones expense in the consolidated statement of earnings in the second quarter of 2024.
+Other Arrangements
+In addition to the significant arrangements described above, AbbVie entered into several other arrangements resulting in charges related to upfront payments of $ 602 million in 2025,

@@ -1,0 +1,582 @@
+rth quarter of 2025, management concluded that changes in circumstances in the skin health reporting unit triggered the need for an interim impairment review of its goodwill. Management completed a quantitative impairment test for goodwill and recorded a goodwill impairment charge of $582 million in the skin health reporting unit. Determining the fair value of the Company's reporting units for goodwill requires significant judgments and estimates by management. Management used the income approach to determine the fair value of the skin health reporting unit, which required several estimates, including future cash flows consistent with management's strategic plans, sales growth rates, operating margins, and discount rates.
+The principal considerations for our determination that performing procedures relating to the annual and interim goodwill impairment tests for the skin health reporting unit is a critical audit matter are (i) the significant judgment by management when developing the fair value estimates of the skin health reporting unit; (ii) a high degree of auditor judgment, subjectivity, and effort in performing procedures and evaluating management's significant assumptions related to the sales growth rates, operating margins, and discount rates; and (iii) the audit effort involved the use of professionals with specialized skill and knowledge.
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to management's annual and interim goodwill impairment tests, including controls over the valuation of the skin health reporting unit. These procedures also included, among others (i) testing management's process for developing the fair value estimates of the skin health reporting unit; (ii) evaluating the appropriateness of the income approach used by management; (iii) testing the completeness and accuracy of underlying data used in the income approach; and (iv) evaluating the reasonableness of the significant assumptions used by management related to the sales growth rates, operating margins, and discount rates. Evaluating management's assumptions related to the sales growth rates and operating margins involved evaluating whether the assumptions used by management were reasonable considering (i) the current and past performance of the skin health reporting unit; (ii) the consistency with external market and industry data; and (iii) whether the assumptions were consistent with evidence obtained in other areas of the audit. Professionals with specialized skill and knowledge were used to assist in evaluating (i) the appropriateness of the income approach and (ii) the reasonableness of the discount rate assumption.
+/s/ PricewaterhouseCoopers LLP
+New York, New York
+February 23, 2026
+We have served as the Company ' s auditor since 2002.
+69
+COLGATE-PALMOLIVE COMPANY
+Consolidated Statements of Income
+For the years ended December 31,
+(Dollars in Millions Except Per Share Amounts)
+2025 2024 2023
+Net sales $ 20,382 $ 20,101 $ 19,457
+Cost of sales 8,131 7,940 8,131
+Gross profit 12,251 12,161 11,326
+Selling, general and administrative expenses 7,903 7,729 7,151
+Other (income) expense, net 123 164 191
+Goodwill and intangible assets impairment charges 919 — —
+Operating profit 3,306 4,268 3,984
+Non-service related postretirement costs 55 87 360
+Interest expense 267 292 287
+Interest income 75 67 55
+Income before income taxes 3,059 3,956 3,392
+Provision for income taxes 798 907 937
+Net income including noncontrolling interests 2,261 3,049 2,455
+Less: Net income attributable to noncontrolling interests 129 160 155
+Net income attributable to Colgate-Palmolive Company $ 2,132 $ 2,889 $ 2,300
+Earnings per common share, basic $ 2.64 $ 3.53 $ 2.78
+Earnings per common share, diluted $ 2.63 $ 3.51 $ 2.77
+See Notes to Consolidated Financial Statements.
+70
+COLGATE-PALMOLIVE COMPANY
+Consolidated Statements of Comprehensive Income
+For the years ended December 31,
+(Dollars in Millions)
+2025 2024 2023
+Net income including noncontrolling interests $ 2,261 $ 3,049 $ 2,455
+Other comprehensive income (loss), net of tax:
+Cumulative translation adjustments 338 ( 343 ) 98
+Retirement plan and other retiree benefit adjustments 22 43 ( 16 )
+Gains (losses) on cash flow hedges ( 16 ) 8 ( 7 )
+Total Other comprehensive income (loss), net of tax 344 ( 292 ) 75
+Total Comprehensive income including noncontrolling interests 2,605 2,757 2,530
+Less: Net income attributable to noncontrolling interests 129 160 155
+Less: Cumulative translation adjustments attributable to noncontrolling interests 2 ( 8 ) ( 42 )
+Total Comprehensive income attributable to noncontrolling interests 131 152 113
+Total Comprehensive income attributable to Colgate-Palmolive Company $ 2,474 $ 2,605 $ 2,417
+See Notes to Consolidated Financial Statements.
+71
+COLGATE-PALMOLIVE COMPANY
+Consolidated Balance Sheets
+As of December 31,
+(Dollars in Millions Except Share and Per Share Amounts)
+2025 2024
+Assets
+Current Assets
+Cash and cash equivalents $ 1,288 $ 1,096
+Receivables (net of allowances of $ 90 and $ 85 , respectively)
+1,675 1,521
+Inventories 2,032 1,987
+Other current assets 714 713
+Total current assets 5,709 5,317
+Property, plant and equipment, net 4,660 4,422
+Goodwill 3,122 3,272
+Other intangible assets, net 1,536 1,756
+Deferred income taxes 205 195
+Other assets 1,098 1,084
+Total assets $ 16,330 $ 16,046
+Liabilities and Shareholders' Equity
+Current Liabilities
+Debt payable within one-year $ 1,117 $ 660
+Accounts payable 2,089 1,805
+Accrued income taxes 383 403
+Other accruals 3,264 2,891
+Total current liabilities 6,853 5,759
+Long-term debt 6,871 7,289
+Deferred income taxes 181 343
+Other liabilities 2,060 2,111
+Total liabilities 15,965 15,502
+Commitments and contingent liabilities — —
+Shareholders' Equity
+Common stock, $ 1 par value ( 2,000,000,000 shares authorized, 1,465,706,360 shares issued)
+1,466 1,466
+Additional paid-in capital 4,322 4,181
+Retained earnings 26,595 26,145
+Accumulated other comprehensive income (loss) ( 3,879 ) ( 4,222 )
+Treasury stock, at cost ( 28,450 ) ( 27,358 )
+Total Colgate-Palmolive Company shareholders' equity 54 212
+Noncontrolling interests 311 332
+Total equity 365 544
+Total liabilities and equity $ 16,330 $ 16,046
+See Notes to Consolidated Financial Statements.
+72
+COLGATE-PALMOLIVE COMPANY
+Consolidated Statements of Changes in Shareholders' Equity
+(Dollars in Millions)
+Colgate-Palmolive Company Shareholders' Equity
+Common Stock Additional Paid-In Capital Unearned Compensation Treasury Stock Retained Earnings Accumulated Other Comprehensive Income (Loss) Noncontrolling Interests
+Balance, January 1, 2023 $ 1,466 $ 3,546 $ ( 1 ) $ ( 25,128 ) $ 24,573 $ ( 4,055 ) $ 405
+Net income — — — — 2,300 — 155
+Other comprehensive income (loss), net of tax — — — — — 117 ( 42 )
+Dividends ($ 1.91 )/per share*
+— — — — ( 1,584 ) — ( 170 )
+Stock-based compensation expense
+— 122 — — — — —
+Shares issued for stock options
+— 170 — 212 — — —
+Shares issued for restricted stock awards
+— ( 34 ) — 34 — — —
+Treasury stock acquired — — — ( 1,128 ) — — —
+Other — 4 1 ( 7 ) — 1 —
+Balance, December 31, 2023 $ 1,466 $ 3,808 $ — $ ( 26,017 ) $ 25,289 $ ( 3,937 ) $ 348
+Net income — — — — 2,889 — 160
+Other comprehensive income (loss), net of tax — — — — — ( 284 ) ( 8 )
+Dividends ($ 2.48 )/per share*
+— — — — ( 2,034 ) — ( 168 )
+Stock-based compensation expense — 135 — — — — —
+Shares issued for stock options — 284 — 354 — — —
+Shares issued for restricted stock awards — ( 52 ) — 52 — — —
+Treasury stock acquired — — — ( 1,739 ) — — —
+Other — 6 — ( 8 ) 1 ( 1 ) —
+Balance, December 31, 2024 $ 1,466 $ 4,181 $ — $ ( 27,358 ) $ 26,145 $ ( 4,222 ) $ 332
+Net income — — — — 2,132 — 129
+Other comprehensive income (loss), net of tax — — — — — 342 2
+Dividends ($ 2.08 )/per share*
+— — — — ( 1,681 ) — ( 157 )
+Stock-based compensation expense — 155 — — — — —
+Shares issued for stock options — 45 — 56 — — —
+Shares issued for restricted stock awards — ( 65 ) — 65 — — —
+Treasury stock acquired — — — ( 1,214 ) — — —
+Other — 6 — 1 ( 1 ) 1 5
+Balance, December 31, 2025 $ 1,466 $ 4,322 $ — $ ( 28,450 ) $ 26,595 $ ( 3,879 ) $ 311
+* Four dividends were declared in 2025. Five dividends were declared in 2024. Four dividends were declared in 2023.
+`
+See Notes to Consolidated Financial Statements.
+73
+COLGATE-PALMOLIVE COMPANY
+Consolidated Statements of Cash Flows
+For the years ended December 31,
+(Dollars in Millions)
+2025 2024 2023
+Operating Activities
+Net income including noncontrolling interests $ 2,261 $ 3,049 $ 2,455
+Adjustments to reconcile net income including noncontrolling interests to net cash provided by operations:
+Depreciation and amortization 630 605 567
+ERISA litigation matter 65 — 267
+Restructuring and termination benefits, net of cash ( 7 ) 51 ( 23 )
+Stock-based compensation expense 155 135 122
+Goodwill and intangible assets impairment charges 919 — —
+Deferred income taxes ( 109 ) ( 77 ) ( 98 )
+Cash effects of changes in:
+Receivables ( 16 ) ( 56 ) ( 37 )
+Inventories 109 ( 100 ) 194
+Accounts payable and other working capital 251 516 309
+Other non-current assets 35 28 53
+Other non-current liabilities ( 95 ) ( 44 ) ( 64 )
+Net cash provided by operations 4,198 4,107 3,745
+Investing Activities
+Capital expenditures ( 564 ) ( 561 ) ( 705 )
+Purchases of marketable securities and investments ( 698 ) ( 574 ) ( 506 )
+Proceeds from sale of marketable securities and investments 752 564 502
+Payment for acquisitions, net of cash acquired ( 293 ) — —
+Other investing activities ( 14 ) 37 ( 33 )
+Net cash used in investing activities ( 817 ) ( 534 ) ( 742 )
+Financing Activities
+Short-term borrowing (repayment) less than 90 days, net ( 989 ) 93 ( 906 )
+Principal payments on debt ( 655 ) ( 503 ) ( 903 )
+Proceeds from issuance of debt 1,188 2 1,495
+Dividends paid ( 1,823 ) ( 1,789 ) ( 1,749 )
+Purchases of treasury shares ( 1,210 ) ( 1,739 ) ( 1,128 )
+Proceeds from exercise of stock options 101 638 380
+Other financing activities 132 ( 91 ) 18
+Net cash used in financing activities ( 3,256 ) ( 3,389 ) ( 2,793 )
+Effect of exchange rate changes on Cash and cash equivalents 67 ( 54 ) ( 19 )
+Net increase (decrease) in Cash and cash equivalents 192 130 191
+Cash and cash equivalents at beginning of year 1,096 966 775
+Cash and cash equivalents at end of year $ 1,288 $ 1,096 $ 966
+Supplemental Cash Flow Information
+Income taxes paid $ 913 $ 933 $ 937
+Interest paid $ 270 $ 302 $ 280
+See Notes to Consolidated Financial Statements.
+74
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements
+(Dollars in Millions Except Share and Per Share Amounts)
+1. Nature of Operations
+The Company manufactures and markets a wide variety of products in 200 countries and territories around the world in two product segments: Oral, Personal and Home Care; and Pet Nutrition. Oral, Personal and Home Care products include toothpaste, toothbrushes, mouthwash, bar and liquid hand soaps, shower gels, shampoos, conditioners, deodorants and antiperspirants, skin health products, dishwashing detergents, fabric conditioners, household cleaners and other similar items. These products are sold primarily to a variety of retailers, wholesalers, distributors, dentists and, in some geographies, skin health professionals. Pet Nutrition products include specialty pet nutrition products for dogs and cats. The principal customers for Pet Nutrition products are authorized pet supply retailers, veterinarians and eCommerce retailers. Some of our products are also sold direct-to-consumer. Principal global and regional trademarks include Colgate, Palmolive, Darlie, elmex, hello, meridol, Sorriso, Tom's of Maine, EltaMD, Filorga, Irish Spring, Lady Speed Stick, PCA SKIN, Protex, Sanex, Softsoap, Speed Stick, Ajax, Axion, Fabuloso, Murphy, Soupline and Suavitel, as well as Hill's Science Diet, Hill's Prescription Diet and Prime100.
+The Company's principal classes of products accounted for the following percentages of worldwide Net sales for the past three years:
+2025 2024 2023
+Oral Care 44 % 43 % 42 %
+Personal Care 17 % 18 % 19 %
+Home Care 16 % 17 % 17 %
+Pet Nutrition 23 % 22 % 22 %
+Total 100 % 100 % 100 %
+75
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+2. Summary of Significant Accounting Policies
+Principles of Consolidation
+The Consolidated Financial Statements include the accounts of Colgate-Palmolive Company and its majority-owned or controlled subsidiaries. Intercompany transactions and balances have been eliminated. The Company's investments in consumer products companies with interests ranging between 20 % and 50 %, where the Company has significant influence over the investee, are accounted for using the equity method. Net income (loss) from such investments is recorded in Other (income) expense, net in the Consolidated Statements of Income. As of December 31, 2025 and 2024, equity method investments included in Other assets in the Consolidated Balance Sheets were $ 82 and $ 81 , respectively. Unrelated third parties hold the remaining ownership interests in these investments. Investments with less than a 20 % interest are recorded at cost and periodically adjusted based on observable price changes or quoted market prices in active markets, if applicable.
+Use of Estimates
+The preparation of financial statements in accordance with accounting principles generally accepted in the United States of America requires management to use judgment and make estimates that affect the reported amounts of assets and liabilities and disclosure of contingent gains and losses at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. The level of uncertainty in estimates and assumptions increases with the length of time until the underlying transactions are completed. As such, the most significant uncertainty in the Company's assumptions and estimates involved in preparing the financial statements includes pension and other retiree benefit cost assumptions, stock-based compensation, asset impairments, uncertain tax positions, tax valuation allowances and legal and other contingency reserves. Additionally, the Company uses available market information and other valuation methodologies in assessing the fair value of financial instruments and retirement plan assets. Judgment is required in interpreting market data to develop the estimates of fair value and, accordingly, changes in assumptions or the estimation methodologies may affect the fair value estimates. Actual results could ultimately differ from those estimates.
+Revenue Recognition
+The Company's revenue contracts represent a single performance obligation to sell its products to trade customers. Sales are recorded at the time control of the products is transferred to trade customers, in an amount that reflects the consideration the Company expects to be entitled to in exchange for the products. Control is the ability of trade customers to "direct the use of" and "obtain the benefit from" our products. In evaluating the timing of the transfer of control of products to trade customers, the Company considers several control indicators, including significant risks and rewards of products, the Company's right to payment and the legal title of the products. Based on the assessment of control indicators, sales are generally recognized when products are delivered to trade customers.
+Net sales reflect the transaction prices for contracts, which include units shipped at selling list prices reduced by variable consideration. Variable consideration includes expected sales returns and the cost of current and continuing promotional programs. Current promotional programs primarily include product listing allowances and co-operative advertising arrangements. Continuing promotional programs are predominantly consumer coupons and volume-based sales incentive arrangements. The cost of promotional programs is estimated using the expected value method considering all reasonably available information, including the Company's historical experience and its current expectations, and is reflected in the transaction price when sales are recorded. Adjustments to the cost of promotional programs in subsequent periods are generally not material, as the Company's promotional programs are typically of short duration, thereby reducing the uncertainty inherent in such estimates.
+Sales returns are generally accepted at the Company's discretion and are not material to the Company's Consolidated Financial Statements. The Company's contracts with trade customers do not have significant financing components or non-cash consideration and the Company does not have unbilled revenue or significant amounts of prepayments from customers. The Company records Net sales excluding taxes collected on its sales to its trade customers. Shipping and handling activities are accounted for as contract fulfillment costs and classified as Selling, general and administrative expenses.
+76
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+Shipping and Handling Costs
+Shipping and handling costs (also referred to as logistics costs) are classified as Selling, general and administrative expenses and were $ 1,789 , $ 1,777 and $ 1,771 for the years ended December 31, 2025, 2024 and 2023, respectively.
+Marketing Costs
+The Company markets its products through advertising and other promotional activities. Advertising costs are included in Selling, general and administrative expenses and are expensed as incurred. Certain consumer and trade promotional programs, such as consumer coupons, are recorded as a reduction of sales.
+Cash and Cash Equivalents
+The Company considers all highly liquid investments with original maturities of three months or less at the time of purchase to be cash equivalents.
+Inventories
+The cost of approximately 75 % of inventories is determined using the FIFO method, which is stated at the lower of cost or net realizable value. The cost of the remaining inventories is determined using the LIFO method, which is stated at the lower of cost or market. Inventories in excess of one year of forecasted sales are classified in the Consolidated Balance Sheets as non-current "Other assets."
+Property, Plant and Equipment
+Land, buildings and machinery and equipment are stated at cost. Depreciation is provided, primarily using the straight-line method, over the estimated useful lives ranging from 3 to 15 years for machinery and equipment and up to 40 years for buildings. Depreciation attributable to manufacturing operations is included in Cost of sales. The remaining component of depreciation is included in Selling, general and administrative expenses.
+Goodwill and Other Intangibles
+Goodwill and indefinite-life intangible assets, such as the Company's global brands, are subject to impairment tests at least annually or when events or changes in circumstances indicate that an asset may be impaired. In assessing impairment, the Company performs either a quantitative or a qualitative analysis.
+Determining the fair value of the Company's reporting units for goodwill and the fair value of its intangible assets requires significant judgments and estimates by management. When a quantitative analysis is performed, the Company generally uses the income approach, which requires several estimates, including future cash flows consistent with management's strategic plans, sales growth rates, operating margins, customer attrition rate and the selection of royalty rates and discount rates. In determining the fair value of the Company's reporting units, fair value is also generally determined using the market approach, which is generally derived from metrics of comparable publicly traded companies. As multiple valuation methodologies are used, the Company also performs a qualitative analysis comparing the fair value of a reporting unit under each method to assess its reasonableness and ensure consistency of results. The Company generally engages a third-party valuation firm to assist in determining the fair value of intangible assets acquired in business combinations.
+Other intangible assets with finite lives, such as local brands and trademarks, customer relationships and non-compete agreements, are amortized over their estimated useful lives, generally ranging from 5 to 40 years. Amortization expense related to intangible assets is included in Other (income) expense, net, which is included in Operating profit.
+77
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+Income Taxes
+The provision for income taxes is determined using the asset and liability method. Under this method, deferred tax assets and liabilities are recognized based upon the differences between the financial statement and tax bases of assets and liabilities using enacted tax rates that will be in effect at the time such differences are expected to reverse. Deferred tax assets are reduced by a valuation allowance when, in the opinion of management, it is more likely than not that some portion or all of the deferred tax assets will not be realized.
+The Company uses a comprehensive model to recognize, measure, present and disclose in its financial statements uncertain tax positions that the Company has taken or expects to take on an income tax return. The Company recognizes interest expense and penalties related to unrecognized tax benefits within Provision for income taxes.
+Financial Instruments
+Derivative instruments are recorded as assets and liabilities at estimated fair value based on available market information. The Company's derivative instruments that qualify for hedge accounting are designated as either fair value hedges, cash flow hedges or net investment hedges. For fair value hedges, changes in the fair value of the derivative, as well as the offsetting changes in the fair value of the hedged item, are recognized in earnings each period. For cash flow hedges, changes in the fair value of the derivative are recorded in Other comprehensive income (loss) and are recognized in earnings when the offsetting effect of the hedged item is also recognized in earnings. For hedges of the net investment in foreign subsidiaries, changes in the fair value of the derivative are recorded in Other comprehensive income (loss) to offset the change in the value of the net investment being hedged. Cash flows related to hedges are classified in the same category as the cash flows from the hedged item in the Consolidated Statements of Cash Flows.
+The Company may also enter into certain foreign currency and interest rate instruments that economically hedge certain of its risks but do not qualify for hedge accounting. Changes in fair value of these derivative instruments, based on quoted market prices, are recognized in earnings each period. The Company's derivative instruments and other financial instruments are more fully described in Note 7, Fair Value Measurements and Financial Instruments along with the related fair value measurement considerations.
+Stock-Based Compensation
+The Company recognizes the cost of employee services received in exchange for awards of equity instruments, such as stock options and restricted stock units (both performance-based and time-vested), based on the fair value of those awards at the date of grant over the requisite service period. The Company uses the Black-Scholes-Merton ( " Black-Scholes " ) option pricing model to estimate the fair value of stock option awards. In addition to performance conditions, performance-based restricted stock units also include a total shareholder return modifier. Because the total shareholder return modifier is considered a market condition, the Company uses a Monte-Carlo simulation model to determine the fair value of performance-based restricted stock units. The fair value of time-vested restricted stock units is determined based on the closing market price of the Company's stock at the date of grant. Stock-based compensation plans, related expenses and assumptions used in the Black-Scholes option pricing model are more fully described in Note 8, Capital Stock and Stock-Based Compensation Plans.
+Currency Translation
+The assets and liabilities of foreign subsidiaries, other than those operating in highly inflationary environments, are translated into U.S. dollars at year-end exchange rates with resulting translation gains and losses accumulated in a separate component of shareholders' equity. Income and expense items are translated into U.S. dollars at average rates of exchange prevailing during the year.
+For subsidiaries operating in highly inflationary environments, local currency-denominated non-monetary assets, including inventories, goodwill and property, plant and equipment, are remeasured at their historical exchange rates, while local currency-denominated monetary assets and liabilities are remeasured at year-end exchange rates. Remeasurement adjustments for these operations are included in Net income attributable to Colgate-Palmolive Company.
+78
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+Recent Accounting Pronouncements
+In September 2025, the Financial Accounting Standards Board (the "FASB") issued Accounting Standards Update ("ASU") No. 2025-06, "Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software." This ASU modernizes the capitalization criteria for internal-use software by eliminating references to project stages and clarifying the threshold applied to begin capitalizing costs. This guidance is effective for the Company for fiscal years beginning after December 15, 2027. The Company is currently assessing the impact of this new guidance.
+In November 2024, the FASB issued ASU No. 2024-03, "Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses." This ASU requires additional disclosures related to the disaggregation of the income statement expense categories. This guidance is effective for the Company for fiscal years beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027. Other than the new disclosure requirements, this guidance will not have an impact on the Company's Consolidated Financial Statements.
+In December 2023, the FASB issued ASU No. 2023-09, "Income Taxes (Topic 740): Improvements to Income Tax Disclosures." This ASU improves the transparency of income tax disclosure by requiring consistent categories and greater disaggregation of information in the rate reconciliation, and income taxes paid disaggregated by jurisdiction. The Company adopted this guidance in 2025. See Note 11, Income Taxes for additional information.
+There have been no other accounting pronouncements issued or effective during the fiscal year that have had, or are expected to have, a material impact on the Company's Consolidated Financial Statements.
+Reclassifications
+Certain prior year amounts have been reclassified to conform to the current year presentation.
+79
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+3. Acquisitions
+On April 30, 2025, the Company acquired Care TopCo Pty Ltd, the owner of the Prime100 pet food business, for cash consideration of AU $ 471 (approximately $ 301 ). This acquisition provides the Company's Hill's Pet Nutrition segment with an entry into the fast-growing fresh pet food category in Australia. The acquisition was financed with a combination of debt and cash and was accounted for as a business combination in accordance with ASC 805.
+The total purchase price of $ 301 has been allocated to the net assets acquired based on their respective estimated fair values as follows:
+Cash $ 8
+Other current assets 12
+Property, plant and equipment 13
+Other assets 5
+Other intangible assets 64
+Goodwill 207
+Total liabilities ( 8 )
+Fair value of net assets acquired $ 301
+Goodwill of $ 207 was allocated to the Hill's Pet Nutrition segment. The Company expects that goodwill will be deductible for tax purposes. Other intangible assets acquired include trademarks, customer relationships and product formulations, which now have useful lives ranging from five to 20 years.
+The preliminary estimates of the fair value of identifiable assets acquired and liabilities assumed are subject to revisions, which may result in adjustments to the preliminary values discussed above. The Company expects to finalize the purchase price allocation no later than the second quarter of 2026.
+Pro forma results of operations have not been presented as the impact on the Company's Consolidated Financial Statements is not material.
+80
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+4. Restructuring and Related Implementation Charges
+Strategic Growth and Productivity Program
+On July 31, 2025, the Company's Board of Directors (the "Board") approved a new three-year productivity program to drive future growth and support the Company's 2030 strategy (the "Strategic Growth and Productivity Program"). The program includes initiatives to better align the Company's organizational structure to support its strategic initiatives, optimize the Company's global supply chain to drive agility and efficiencies and simplify and streamline its organizational structure to reduce overhead costs.
+The Strategic Growth and Productivity Program is estimated to result in cumulative pre-tax charges, once all initiatives are approved and implemented, totaling between $ 200 and $ 300 , which is currently estimated to be comprised of the following: employee-related costs, including severance and other termination benefits ( 65 % to 75 %) and asset-related costs and other charges ( 25 % to 35 %), which include accelerated depreciation, asset write-downs, contract termination and other exit costs. It is estimated that approximately 75 % to 85 % of the charges will result in cash expenditures and substantially all charges resulting from the program will be incurred by December 31, 2028.
+It is estimated that the cumulative pretax charges, once all projects are approved and implemented, will relate to initiatives undertaken in North America ( 15 % to 20 %), Latin America ( 15 % to 20 %), Europe ( 10 % to 15 %), Asia Pacific ( 10 % to 15 %), Africa/Eurasia ( 5 % to 10 %), Hill's Pet Nutrition ( 10 % to 15 %) and Corporate ( 10 % to 15 %).
+For the twelve months ended December 31, 2025, charges resulting from the Strategic Growth and Productivity Program are reflected in the income statement as follows:
+Twelve months ended December 31, 2025
+Selling, general and administrative expenses $ 6
+Other (income) expense, net 7
+Total Strategic Growth and Productivity Program charges, pretax $ 13
+Total Strategic Growth and Productivity Program charges, aftertax $ 11
+Restructuring and related implementation charges are recorded in the Corporate segment as these initiatives are predominantly centrally directed and controlled and are not included in internal measures of segment operating performance.
+Total charges incurred for the Strategic Growth and Productivity Program relate to initiatives undertaken by the following reportable operating segments:
+Twelve months ended December 31, 2025
+North America 30 %
+Latin America — %
+Europe 4 %
+Asia Pacific — %
+Africa/Eurasia — %
+Pet Nutrition 1 %
+Corporate 65 %
+Total 100 %
+81
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+The Company has incurred pretax charges of $ 13 ($ 11 aftertax) in connection with the implementation of various projects as follows:
+Twelve months ended December 31, 2025
+Employee-Related Costs $ 6
+Asset-Related Costs and Other 7
+Total $ 13
+The following table summarizes the activity for the restructuring accrual:
+Twelve months ended December 31, 2025
+Employee-Related
+Costs Asset-Related Costs and Other Total
+Balance at December 31, 2024 $ — $ — $ —
+Charges 6 7 13
+Cash Payments — ( 3 ) ( 3 )
+Balance at December 31, 2025 $ 6 $ 4 $ 10
+2022 Global Productivity Initiative
+The Company's prior targeted productivity program (the "2022 Global Productivity Initiative") concluded on December 31, 2024. The 2022 Global Productivity Initiative resulted in the reallocation of resources towards the Company's strategic priorities and faster growth businesses, efficiencies in the Company's operations and the streamlining of its supply chain to reduce structural costs. Over the course of the 2022 Global Productivity Initiative, the Company incurred total pretax charges of $ 228 ($ 186 aftertax).
+For the twelve months ended December 31, 2024, charges resulting from the 2022 Global Productivity Initiative are reflected in the income statement as follows:
+Twelve Months Ended December 31, 2024
+Gross Profit $ 20
+Selling, general and administrative expenses 6
+Other (income) expense, net 59
+Total 2022 Global Productivity Initiative charges, pretax $ 85
+Total 2022 Global Productivity Initiative charges, aftertax $ 73
+Restructuring and related implementation charges were recorded in the Corporate segment as these initiatives were predominantly centrally directed and controlled and were not included in internal measures of segment operating performance.
+82
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+The following table summarizes the activity for the restructuring accrual:
+Twelve months ended December 31, 2025
+Employee-Related
+Costs Other Total
+Balance at December 31, 2024 $ 34 $ 10 $ 44
+Cash Payments ( 13 ) ( 4 ) ( 17 )
+Foreign exchange 3 — 3
+Balance at December 31, 2025 $ 24 $ 6 $ 30
+83
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+5. Goodwill and Other Intangible Assets
+The changes in net carrying value of Goodwill by segment for the years ended December 31, 2024 and 2025 were as follows:
+2024
+Beginning Balance Reallocation (1)
+Foreign currency translation Ending Balance
+Oral, Personal and Home Care
+North America (3)
+$ 908 $ 223 $ ( 23 ) $ 1,108
+Latin America 179 — ( 34 ) 145
+Europe 1,571 ( 223 ) ( 67 ) 1,281
+Asia Pacific 179 — ( 1 ) 178
+Africa/Eurasia 88 — ( 10 ) 78
+Total Oral, Personal and Home Care 2,925 — ( 135 ) 2,790
+Pet Nutrition 485 — ( 3 ) 482
+Total Goodwill $ 3,410 $ — $ ( 138 ) $ 3,272
+2025
+Beginning Balance Acquisitions (2)
+Impairments Foreign currency translation Ending Balance
+Oral, Personal and Home Care
+North America (3)
+$ 1,108 $ — $ ( 582 ) $ 32 $ 558
+Latin America 145 — — 16 161
+Europe 1,281 — — 149 1,430
+Asia Pacific 178 — — 7 185
+Africa/Eurasia 78 — — 4 82
+Total Oral, Personal and Home Care 2,790 — ( 582 ) 208 2,416
+Pet Nutrition 482 207 — 17 706
+Total Goodwill $ 3,272 $ 207 $ ( 582 ) $ 225 $ 3,122
+(1) As a result of a reporting structure realignment effective as of July 1, 2024, the Company reallocated the goodwill of a certain reporting unit from the Europe segment to the North America segment. Before and after the reallocation of the goodwill, the Company completed an assessment indicating no goodwill impairment was required as a result of this segment reporting structure realignment.
+(2) For information related to the Company's acquisitions, refer to Note 3, Acquisitions.
+(3) The carrying value of goodwill is reflected net of accumulated impairment charges of $ 1,281 and $ 699 as of December 31, 2025 and December 31, 2024, respectively.
+84
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+Other intangible assets as of December 31, 2025 and 2024 were comprised of the following:
+2025 2024
+Gross Carrying Amount Accumulated Amortization Net Gross Carrying Amount Accumulated Amortization Net
+Trademarks - finite life $ 974 $ ( 594 ) $ 380 $ 1,135 $ ( 545 ) $ 590
+Other finite life intangible assets 574 ( 445 ) 129 603 ( 385 ) 218
+Indefinite life intangible assets 1,027 — 1,027 948 — 948
+Total Other intangible assets $ 2,575 $ ( 1,039 ) $ 1,536 $ 2,686 $ ( 930 ) $ 1,756
+The change in the net carrying amounts of Other intangible assets during 2025 was due to the impact of impairment charges related to the Filorga intangible assets as more fully described below, foreign currency translation, amortization expense of $ 78 and the acquisition of the Prime100 pet food business (see Note 3, Acquisitions for further information). Annual estimated amortization expense for each of the next five years is expected to be approximately $ 51 .
+Given lower than expected category growth rates and weaker than expected performance, particularly in China, in the fourth quarter of 2025 the Company lowered its outlook for the skin health reporting unit, primarily Filorga. The Company concluded that the changes in circumstances in this reporting unit triggered the need for an interim impairment review of its goodwill and long-lived assets which consists primarily of trademarks and customer relationships. As a result of the interim impairment test, the Company concluded that the carrying value of the Filorga trademark and customer relationships exceeded their estimated fair values and recorded impairment charges of $ 244 and $ 93 , respectively, reducing their combined carrying values to an immaterial amount, as of December 31, 2025. After adjusting the carrying values of the Filorga trademark and customer relationship intangible assets, the Company completed a quantitative impairment test for goodwill and recorded a goodwill impairment charge of $ 582 in the skin health reporting unit, reducing the carrying value of goodwill to $ 51 as of December 31, 2025. The goodwill and intangible assets impairment charges are presented as a separate line item in the Consolidated Statements of Income.
+The Company used the income approach to determine the fair value of the skin health reporting unit and the Filorga trademark and customer relationships that required significant judgments and estimates by management, including future cash flows consistent with management's strategic plans, sales growth rates, operating margins, customer attrition rate, and the selection of royalty rate and discount rate, among others. Estimating sales growth rates requires significant judgment by management in areas such as future economic conditions, category and industry growth rates, product pricing, consumer tastes and preferences and future expansion expectations.
+85
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+6. Long-Term Debt and Credit Facilities
+Long-term debt consisted of the following at December 31:
+Weighted Average Interest Rate Maturities 2025 2024
+Notes 2.9 % 2026 - 2078 $ 7,767 $ 6,946
+Commercial paper 2.0 % 2026 147 936
+Finance Lease Obligations Various 72 59
+7,986 7,941
+Less: Current portion of long-term debt ( 1,115 ) ( 652 )
+Total $ 6,871 $ 7,289
+Debt payable within one year consisted of the following at December 31:
+2025 2024
+Notes and loans payable $ 2 $ 8
+Current portion of long-term debt 1,115 652
+Debt payable within one year $ 1,117 $ 660
+The Company classifies commercial paper and certain long-term debt that is subject to a put option as long-term debt when it has the intent and ability to refinance such obligations on a long-term basis, including, if necessary, by utilizing its available lines of credit. Excluding commercial paper, scheduled maturities of long-term debt and finance leases outstanding as of December 31, 2025 were as follows:
+Years Ended December 31,
+2026 $ 1,115
+2027 523
+2028 615
+2029 591
+2030 500
+Thereafter 4,495
+Total $ 7,839
+The Company's debt issuances and redemptions support its capital structure strategy objectives of funding its business and growth initiatives while minimizing its risk-adjusted cost of capital. During the year ended December 31, 2024, the Company redeemed at maturity $ 500 of ten-year Medium-Term Notes with a fixed coupon rate of 3.25 %. During the year ended December 31, 2025, the Company redeemed at maturity $ 130 of 30 -year Medium-Term Notes with a fixed coupon rate of 7.60 % and $ 500 of three-year Senior Notes with a fixed coupon of 3.10 %. These redemptions were financed with commercial paper borrowings.
+In April 2025, the Company issued $ 500 of five-year Senior Notes at a fixed coupon rate of 4.20 %. In November 2025, the Company issued 600 of 10 -year Senior Notes at a fixed coupon rate of 3.25 %.
+86
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+At December 31, 2025, the Company had access to unused domestic and foreign lines of credit of $ 3,641 (including under the facility discussed below) and could also issue long-term debt pursuant to an effective shelf registration statement. In November 2022, the Company entered into an amended and restated $ 3,000 five-year revolving credit facility with a syndicate of banks for a five-year term expiring November 2027, which replaced, on substantially similar terms, the Company's $ 3,000 revolving credit facility that was scheduled to expire in August 2026. The term of the revolving credit facility was subsequently extended by one year in each of November 2023, November 2024 and November 2025. The expiration date of the revolving credit facility is now November 2030. The credit facility serves as a backstop for the Company's commercial paper program. Commitment fees related to the credit facility are not material.
+Certain agreements with respect to the Company's bank borrowings contain financial and other covenants as well as cross-default provisions. Noncompliance with these requirements could ultimately result in the acceleration of amounts owed. The Company is in full compliance with all such requirements.
+87
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+7. Fair Value Measurements and Financial Instruments
+The Company uses available market information and other valuation methodologies in assessing the fair value of financial instruments. Judgment is required in interpreting market data to develop the estimates of fair value and, accordingly, changes in assumptions or the estimation methodologies may affect the fair value estimates. The Company is exposed to the risk of credit loss in the event of nonperformance by counterparties to financial instrument contracts; however, nonperformance is considered unlikely and any nonperformance is unlikely to be material, as it is the Company's policy to contract only with diverse, credit-worthy counterparties based upon both strong credit ratings and other credit considerations.
+The Company is exposed to market risk from foreign currency exchange rates, interest rates and commodity price fluctuations. Volatility relating to these exposures is managed on a global basis by utilizing a number of techniques, including working capital management, sourcing strategies, selling price increases, selective borrowings in local currencies and entering into selective derivative instrument transactions, issued with standard features, in accordance with the Company's treasury and risk management policies, which prohibit the use of derivatives for speculative purposes and leveraged derivatives for any purpose. It is the Company's policy to enter into derivative instrument contracts with terms that match the underlying exposure being hedged. Provided below are details of the Company's exposures by type of risk and derivative instruments by type of hedge designation.
+Valuation Considerations
+The Company's derivative instruments include foreign currency contracts and commodity contracts. The fair value of these instruments is classified as follows:
+Level 1: Quoted market prices in active markets for identical assets or liabilities.
+Level 2: Observable market-based inputs or unobservable inputs that are corroborated by market data.
+Level 3: Unobservable inputs reflecting the reporting entity's own assumptions.
+Foreign Exchange Risk
+As the Company markets its products in over 200 countries and territories, it is exposed to currency fluctuations related to manufacturing and selling its products in currencies other than the U.S. dollar. The Company manages its foreign currency exposures through a combination of cost containment measures, sourcing strategies, selling price increases and the hedging of certain costs in an effort to minimize the impact on earnings of foreign currency rate movements.
+The Company primarily utilizes foreign currency contracts, including forward and swap contracts, foreign and local currency deposits and local currency borrowings to hedge portions of its foreign currency purchases, assets and liabilities arising in the normal course of business and the net investment in certain foreign subsidiaries. The duration of foreign currency contracts generally does not exceed 12 months and the contracts are valued using observable market rates (Level 2 valuation).
+Interest Rate Risk
+The Company manages its targeted mix of fixed and floating rate debt with debt issuances and by entering into interest rate swaps in order to mitigate fluctuations in earnings and cash flows that may result from interest rate volatility. The Company utilizes forward-starting interest rate swaps to mitigate the risk of variability in interest rates for future debt issuances. The notional amount, interest payment and maturity date of the swaps generally match the principal, interest payment and maturity date of the related debt, and the swaps are valued using observable benchmark rates (Level 2 valuation).
+88
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+Commodity Price Risk
+The Company is exposed to price volatility related to raw materials used in production, such as resins, essential oils, tropical oils, pulp, tallow, corn, poultry and soybeans. The Company manages its raw material exposures through a combination of cost containment measures, sourcing strategies, ongoing productivity initiatives and the limited use of commodity hedging contracts. Futures contracts are used on a limited basis, primarily in the Hill's Pet Nutrition segment, to manage volatility related to raw material inventory purchases of certain traded commodities, and these contracts are measured using quoted commodity exchange prices (Level 1 valuation). The duration of the commodity contracts generally does not exceed 12 months.
+Credit Risk
+The Company is exposed to the risk of credit loss in the event of nonperformance by counterparties to financial instrument contracts; however, nonperformance is considered unlikely and any nonperformance is unlikely to be material as it is the Company's policy to contract with diverse, credit-worthy counterparties based upon both strong credit ratings and other credit considerations.
+The following table summarizes the fair value of the Company's derivative instruments and other financial instruments which are carried at fair value in the Company's Consolidated Balance Sheets as of December 31, 2025 and 2024:
+Assets Liabilities
+Account Fair Value Account Fair Value
+Designated derivative instruments December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024
+Foreign currency contracts Other current assets $ 18 $ 33 Other accruals $ 22 $ 22
+Commodity contracts Other current assets — — Other accruals — 1
+Total designated $ 18 $ 33 $ 22 $ 23
+Other financial instruments
+Marketable securities Other current assets 107 160
+Total other financial instruments $ 107 $ 160
+The carrying amount of cash, cash equivalents, accounts receivable and short-term debt approximated fair value as of December 31, 2025 and 2024. The estimated fair value of the Company's total debt as of December 31, 2025 and 2024, was $ 7,518 and $ 7,441 , respectively, and the related carrying value was $ 7,988 and $ 7,949 , respectively. The estimated fair value of long-term debt was derived principally from quoted prices on the Company's outstanding fixed-term notes (Level 2 valuation).
+89
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+The following tables present the notional values as of:
+December 31, 2025
+Foreign
+Currency
+Contracts Foreign Currency Debt Commodity Contracts
+Total
+Fair Value Hedges $ 2,093 $ — $ — $ 2,093
+Cash Flow Hedges 1,106 — 16 1,122
+Net Investment Hedges 336 3,942 — 4,278
+December 31, 2024
+Foreign
+Currency
+Contracts Foreign Currency Debt Commodity Contracts
+Total
+Fair Value Hedges $ 1,669 $ — $ — $ 1,669
+Cash Flow Hedges 1,023 — 18 1,041
+Net Investment Hedges 289 3,750 — 4,039
+The following table presents the location and amount of gain (loss) on fair value hedges recognized in the Company's Consolidated Statements of Income for the twelve months ended December 31, 2025 and 2024:
+Gain (Loss) Recognized in Income
+Location of Gain (Loss) Recognized in Income Twelve Months Ended December 31,
+2025 2024
+Hedging instruments:
+Foreign currency contracts Selling, general and administrative expenses $ 100 $ ( 54 )
+Total gain (loss) on fair value hedges $ 100 $ ( 54 )
+The amount of gain (loss) recognized in income and Accumulated Other Comprehensive Income (AOCI) associated with cash flow hedges did not have a material impact on the Company's Consolidated Financial Statements during the twelve months ended December 31, 2025.
+The following table presents the amount of gain (loss) on net investment hedges recognized in the Company's AOCI for the twelve months ended December 31, 2025 and 2024:
+Gain (Loss) Recognized in AOCI
+Twelve Months Ended December 31,
+Hedging instruments: 2025 2024
+Foreign currency contracts $ ( 39 ) $ 42
+Foreign currency debt ( 541 ) 211
+Total gain (loss) on net investment hedges $ ( 580 ) $ 253
+90
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+8. Capital Stock and Stock-Based Compensation Plans
+Preference Stock
+The Company has the authority to issue 50,262,150 shares of preference stock.
+Stock Repurchases
+On March 20, 2025, the Board authorized the repurchase of shares of the Company's common stock having an aggregate purchase price of up to $ 5 billion under a new share repurchase program, which replaced a previously authorized share repurchase program. The Board also has authorized share repurchases on an ongoing basis to fulfill certain requirements of the Company's compensation and benefit programs. The shares are repurchased from time to time in open market or privately negotiated transactions at the Company's discretion, subject to market conditions, customary blackout periods and other factors. The Company repurchased its common stock at a cost of $ 1,214 during 2025.
+The Company may use either authorized and unissued shares or treasury shares to meet share requirements resulting from the exercise of stock options and the vesting of restricted stock unit awards.
+A summary of common stock and treasury stock activity for the three years ended December 31 is as follows:
+Common Stock Outstanding Treasury Stock
+Balance, January 1, 2023 830,212,606 635,493,754
+Common stock acquired ( 14,735,909 ) 14,735,909
+Shares issued for stock options 5,318,430 ( 5,318,430 )
+Shares issued for restricted stock units and other 617,642 ( 617,642 )
+Balance, December 31, 2023 821,412,769 644,293,591
+Common stock acquired ( 18,321,422 ) 18,321,422
+Shares issued for stock options 8,606,699 ( 8,606,699 )
+Shares issued for restricted stock units and other 876,652 ( 876,652 )
+Balance, December 31, 2024 812,574,698 653,131,662
+Common stock acquired ( 13,652,320 ) 13,652,320
+Shares issued for stock options 1,339,704 ( 1,339,704 )
+Shares issued for restricted stock units and other 977,442 ( 977,442 )
+Balance, December 31, 2025 801,239,524 664,466,836
+91
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+Stock-Based Compensation
+The Company recognizes the cost of employee services received in exchange for awards of equity instruments, such as stock options and restricted stock units, based on the fair value of those awards at the date of grant. The fair value of restricted stock units, generally based on market price, is amortized ratably over the requisite service period. The estimated fair value of stock options on the date of grant, based on the Black-Scholes value described below, is amortized on a straight-line basis over the requisite service period for each separately vesting portion of the award. The Company accounts for forfeitures as they occur. Awards to employees eligible for retirement prior to the award becoming fully vested are recognized as compensation cost from the grant date through the date that the employee first becomes eligible to retire and is no longer required to provide service to earn the award.
+The Company has one incentive compensation plan pursuant to which it issues restricted stock units (both performance-based and time-vested) and stock options to employees and shares of common stock and stock options to non-employee directors. The Personnel and Organization Committee of the Board, which is comprised entirely of independent directors, administers the incentive compensation plan. The total stock-based compensation expense charged against pretax income for this plan was $ 155 , $ 135 and $ 122 for the years ended December 31, 2025, 2024 and 2023, respectively. The total income tax benefit recognized on stock-based compensation, excluding excess tax benefits, was approximately $ 28 , $ 26 and $ 22 for the years ended December 31, 2025, 2024 and 2023, respectively.
+Stock-based compensation expense is recorded within Selling, general and administrative expenses in the Corporate segment as these amounts are not included in internal measures of segment operating performance.
+The Company uses the Black-Scholes option pricing model to estimate the fair value of stock option awards. The weighted-average fair value assumptions are summarized in the following table:
+2025 2024 2023
+Expected term of options 6 years 6 years 6 years
+Expected volatility rate 20.6 % 20.5 % 19.8 %
+Risk-free interest rate 4.0 % 3.8 % 4.3 %
+Expected dividend yield 2.1 % 2.1 % 2.5 %
+Weighted-average estimated fair value $ 18.21 $ 22.65 $ 14.89
+The weighted-average expected term of stock options granted each year was determined with reference to historical exercise and post-vesting cancellation experience, the vesting period of the awards and the contractual term of the awards, among other factors. Expected volatility incorporates implied share-price volatility derived from exchange traded options on the Company's common stock. The risk-free interest rate for the expected term of the option is based on the yield of a zero-coupon U.S. Treasury bond with a maturity period equal to the option's expected term.
+Stock Options
+The Company issues non-qualified stock options to non-employee directors, officers and other key employees. Stock options have a contractual term of eight years and generally vest ratably over three years . As of December 31, 2025, approximately 18,063,072 shares of common stock were available for future stock option grants.
+92
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+A summary of stock option activity during 2025 is presented below:
+Shares
+(in thousands) Weighted Average Exercise Price Weighted Average Remaining Contractual Life
+(in years) Intrinsic Value of Unexercised
+In-the-Money Options
+Options outstanding, January 1, 2025 12,774 $ 78
+Granted 1,284 84
+Exercised ( 1,340 ) 76
+Forfeited ( 87 ) 82
+Expired ( 12 ) 79
+Options outstanding, December 31, 2025 12,619 79 4 $ 32
+Options exercisable, December 31, 2025 10,174 $ 77 4 $ 28
+As of December 31, 2025, there was $ 8 of total unrecognized compensation expense related to unvested stock options, which will be recognized over a weighted-average period o f 1.4 years. The total intrinsic value of stock options exercised during the years ended December 31, 2025, 2024 and 2023 was $ 18 , $ 150 and $ 28 , respectively.
+The benefits of tax deductions in excess of grant date fair value resulting from the exercise of stock options and vesting of restricted stock unit awards for the years ended December 31, 2025, 2024 and 2023 were $ 3 , $ 18 and $ 4 , respectively, and are recognized in the provision for income taxes as a discrete item in the quarterly period in which they occur and classified as an operating cash flow. Cash proceeds received from stock options exercised for the years ended December 31, 2025, 2024 and 2023 were $ 101 , $ 638 and $ 380 , respectively.
+Performance-based Restricted Stock Units
+Under the Company's long-term incentive compensation program, the Company grants officers and other key employees a target number of unearned performance-based restricted stock units at the beginning of each three-year performance cycle. Awards are earned and vest following the conclusion of the performance period on the basis of achievement of performance goals established at the commencement of each three-year performance period.
+A summary of performance-based restricted stock unit activity for the year ended December 31, 2025 is presented below:
+Shares
+(in thousands) Weighted Average Grant Date Fair Value Per Award
+Performance-based restricted stock units as of January 1, 2025 1,037 $ 74
+Activity:
+Granted 317 85
+Vested ( 458 ) 68
+Forfeited ( 217 ) 70
+Change due to performance and/or market condition achievement 251 67
+Performance-based restricted stock units as of December 31, 2025 930 $ 80
+As of December 31, 2025, there was $ 32 of total unrecognized compensation expense related to unvested performance-based restricted stock unit awards, which will be recognized ratably over the remaining performance period.
+The Company uses a Monte-Carlo simulation model to estimate the fair value of performance-based restricted stock units at the date of grant.
+93
+COLGATE-PALMOLIVE COMPANY
+Notes to Consolidated Financial Statements (continued)
+(Dollars in Millions Except Share and Per Share Amounts)
+Time-Vested Restricted Stock Units
+The Company also grants time-vested restricted stock unit awards. Awards either vest annually on a ratable basis over the restriction period or at the end of the restriction period, which is generally three years from the date of grant. As of December 31, 2025, approximately 6,091,685 shares of common stock were available for future restricted stock unit awards.
+A summary of restricted stock unit activity during 2025 is presented below:
+Shares
+(in thousands) Weighted Average Grant Date Fair Value Per Award
+Restricted stock units as of January 1, 2025 1,987 $ 88
+Activity:
+Granted 1,197 85
+Vested ( 1,049 ) 83
+Forfeited ( 77 ) 89
+Restricted stock units as of December 31, 2025 2,058 $ 88
+As of December 31, 2025, there was $ 74 of total unrecognized compensation expense related to unvested time-vested restricted stock unit awards, wh

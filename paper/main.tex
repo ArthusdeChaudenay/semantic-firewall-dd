@@ -1,0 +1,922 @@
+\documentclass[11pt]{article}
+
+% Change "review" to "final" for the camera-ready version.
+\usepackage[review]{acl}
+
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+\usepackage{inconsolata}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage[table]{xcolor}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{multirow}
+
+\newcommand{\best}[1]{\textbf{#1}}
+\newcommand{\code}[1]{\texttt{\small #1}}
+
+\title{When the Label Is the Method:\\
+An Audit of Scaffolding Gains in LLM Financial Extraction}
+
+\author{Anonymous Submission}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+% Why they should care, the problem.
+Reading figures out of financial filings is a task where an error is invisible: a
+misread number is a plausible number, and nothing in the output betrays it. Verifying
+such extractions without a reference is therefore an attractive goal, and accounting
+appears to supply the means, since financial statements obey arithmetic identities
+that any correct reading must satisfy.
+%
+We built the system this invites: identity residuals as a reference-free detector,
+a deterministic corrector, and a ladder of six configurations over two model scales,
+evaluated on 104 annual reports against reference values taken from regulatory tags.
+It worked: the corrector improved accuracy substantially over zero-shot extraction at
+no additional inference cost, outperforming chain-of-thought self-verification at half
+the model calls.
+%
+The improvement was not real. One extracted quantity is not covered by the reporting
+standard, so its reference value has to be computed using the same formula the
+corrector applies. Accuracy on that field therefore cannot fail, and it accounts for
+the entire gain. Rescored without it, all six configurations are statistically
+indistinguishable and four produce bit-identical values. The detector's apparent
+precision has the same origin in a different form.
+%
+We give a general criterion for this failure, a one-line test that costs no
+computation, and evidence that the inflated gain is predictable in advance from the
+label definition alone. None of our scaffolding raises accuracy once the coupled field
+is removed, and for the chain-of-thought configuration we show why: a verification
+prompt can repair only the fields it is authorised to revise, so its coverage bounds its
+gain regardless of its reasoning quality.
+\end{abstract}
+
+\section{Introduction}
+
+Large language models are increasingly used where their output is a number rather than
+a sentence. Financial due diligence, credit assessment and audit support all begin
+with figures read out of filings \citep{wu2023bloomberggpt,10.1145/3768292.3770387},
+and those figures propagate into every quantity computed from them.
+
+This setting is unforgiving in a particular way. A hallucinated citation or an
+incoherent summary can often be recognised from the text alone, and a body of work
+detects exactly that \citep{ji2023survey,manakul2023selfcheckgpt}. A misread figure
+offers no such signal: it is a well-formed number in a well-formed field, and it
+differs from the correct one only in being wrong. Checking it appears to require the
+reference value that production settings, by definition, do not have.
+
+Accounting seems to offer an escape. Financial statements are not collections of
+independent numbers but systems tied together by identities that hold by construction.
+If an extraction violates one, at least one of the values involved is wrong, and this
+is knowable without possessing any of them. The same identities can then repair what
+they indict. It is a natural design, close in spirit to verifying generated code
+against executable tests \citep{chen2023codet}, and this paper reports what happened
+when it was built and then audited.
+
+\paragraph{The system worked, and the result was an artifact.}
+Evaluated against reference values drawn from the regulatory tags that accompany every
+filing, the deterministic corrector improved field accuracy substantially over
+zero-shot extraction, at no additional inference cost, and beat chain-of-thought
+self-verification at half the model calls. Every one of those numbers is reproducible
+from the released outputs, and all of them are artifacts of how one field was scored.
+
+The mechanism is specific and it generalises beyond finance. EBITDA, one of the
+extracted quantities, is not covered by the reporting standard, so no reference value
+exists for it. The evaluation therefore constructs one, as operating income plus
+depreciation and amortisation. The corrector's first rule computes that same field by
+that same formula. The field is consequently scored correct precisely when two other
+fields, each already scored on its own, were both correct. The evaluation counts one
+success a second time under a third name, and the accounting identity it appears to
+validate is the identity it was handed.
+
+We state the condition generally.
+
+\begin{quote}
+\textbf{Method-coupled label.} A field whose reference value is produced by a formula
+that the system under test also applies is method-coupled. Accuracy on such a field
+cannot be falsified by the system's behaviour, and any gain attributed to it is
+uninterpretable.
+\end{quote}
+
+The corresponding test is a single rescoring pass with coupled fields removed, which
+requires no additional computation and no new data. Applied here it eliminates the
+headline result entirely, on both model scales, with no residual. As
+\S\ref{sec:predict} shows, the size of the inflation can be predicted in advance from
+the label definition alone, before any rescoring is done.
+
+Evaluation artifacts have repeatedly inflated apparent progress in NLP, through
+annotation shortcuts \citep{gururangan2018annotation,poliak2018hypothesis}, benchmarks
+solvable without the input \citep{kaushik2018much}, and test-set contamination
+\citep{sainz2023nlp,recht2019imagenet}. The mechanism here is distinct and, we argue,
+harder to notice: there is no leak and no shortcut, only a reference value that a rule of
+the system reconstructs exactly, which survives a held-out split and any contamination
+check. We do not claim that published systems share the defect, having audited only our
+own; we claim that the condition is cheap to check and that we found no reason it should
+be rare wherever a missing label is filled by computation.
+
+The venue's open research policy encourages releasing code, prompts, configurations and
+outputs so that findings can be re-evaluated later. This paper is that policy applied
+to its own authors: every result below was obtained by rescoring already-released
+outputs, offline, with no further inference.
+
+\paragraph{Contributions.}
+\begin{enumerate}[leftmargin=*, itemsep=2pt, topsep=2pt]
+\item \textbf{A criterion, a test, and a predictor for method-coupled labels}
+      (\S\ref{sec:audit}--\S\ref{sec:inject}), demonstrated on a case where coupling
+      accounts for the whole of a reported improvement, where its magnitude is
+      recoverable from the label definition alone, and where the mechanism reproduces
+      under controlled injection across fifteen synthetic couplings.
+\item \textbf{An exact null for these verification implementations, with a mechanism}
+      (\S\ref{sec:collapse}): across six configurations and two model scales, none of
+      our scaffolding raises accuracy, four configurations producing values identical
+      field by field. The null is not evidence against the underlying techniques. For
+      the chain-of-thought configuration we show why it holds here: a verification
+      prompt can only repair what it is authorised to touch, and ours was scoped to a
+      single identity. Verification coverage, rather than verification quality, is what
+      bounds the achievable gain.
+\item \textbf{An annotation-free evaluation protocol and a catalogue of the traps it
+      exposes} (\S\ref{sec:protocol}, \S\ref{sec:traps}), covering label coupling,
+      ablation by accuracy delta, threshold mismatch and unit scale, each stated as a
+      mechanism with the instrument that detects it, and released with the artifacts
+      needed to reproduce every table.
+\end{enumerate}
+
+\section{Related Work}
+
+\paragraph{Financial document understanding.}
+Numerical reasoning over financial text is served by FinQA \citep{chen2021finqa},
+ConvFinQA \citep{chen2022convfinqa}, TAT-QA \citep{zhu2021tatqa}, FinanceBench
+\citep{islam2023financebench} and DocMath-Eval \citep{zhou2023docmath}, aggregated by
+FinBen \citep{xie2024finben}; BloombergGPT \citep{wu2023bloomberggpt} adapts a model to
+the domain. These evaluate whether a model can \emph{compute} an answer from curated
+evidence. Our question is upstream: whether a value read from a raw filing is the value
+the filer reported. FiNER \citep{loukas2022finer} uses the same regulatory tags as
+supervision for entity tagging; we use them as evaluation labels, and show that this
+requires care whenever a label must be derived rather than read. Layout-aware
+pretraining \citep{xu2020layoutlm} and table encoders \citep{herzig2020tapas} improve
+the reading itself and are complementary to verification.
+
+\paragraph{Reference-free verification.}
+Detectors built on sampling disagreement \citep{manakul2023selfcheckgpt} or model
+confidence \citep{kadavath2022know} estimate whether a model is uncertain, not whether
+a value is right; a model can be perfectly consistent about the wrong table row.
+Constraint-based verification is closer to program synthesis, where generated tests
+\citep{chen2023codet} and grammar-constrained decoding
+\citep{poesia2022synchromesh,willard2023efficient} check outputs against a
+specification, and to weak supervision \citep{ratner2017snorkel}, where labelling
+functions encode domain knowledge. Accounting identities are a strong instance of that
+family. The failure we document applies to it generally: a labelling function that also
+generates the label cannot test anything.
+
+\paragraph{Self-correction.}
+\citet{huang2024selfcorrect} and \citet{stechly2024selfverification} argue that
+intrinsic self-correction fails without external feedback, and \citet{kamoi2024when}
+survey when it succeeds. Chain-of-Verification \citep{dhuliawala2023chain} supplies
+feedback through generated verification questions; our chain-of-thought configuration
+is the same design applied to a single arithmetic identity. It appeared to help;
+measured outside the coupled field it changes nothing.
+
+\paragraph{Evaluation artifacts and reporting practice.}
+Apparent progress has repeatedly been traced to properties of benchmarks rather than of
+systems \citep{gururangan2018annotation,poliak2018hypothesis,kaushik2018much,
+bowman2021will}, and contamination has become a standard confound to rule out
+\citep{sainz2023nlp}. Behavioural testing \citep{ribeiro2020beyond}, careful
+experimental reporting \citep{dodge2019show} and warnings about
+explanation-after-the-fact \citep{lipton2019troubling} all respond to the same
+pressure. Label coupling belongs on that list: it is invisible to contamination checks,
+survives a held-out split, and is introduced not by the data but by a modelling decision
+about how to fill a gap in the reference. Its systems analogue is the feedback loop
+described by \citet{sculley2015hidden}, in which a component's output silently becomes
+part of its own input.
+
+\section{Protocol}
+\label{sec:protocol}
+
+\paragraph{Task.} Given the text of an annual report, extract five income-statement
+fields (revenue, operating income, EBITDA, depreciation and amortisation, net income)
+and three balance-sheet fields (total assets, total liabilities and equity, total
+equity) for the most recent fiscal period. A field is correct when it falls within a
+relative tolerance of the reference value; $\pm1\%$ is the operating point, and
+\S\ref{sec:survives} reports the sweep.
+
+\paragraph{Reference values.} Filings carry machine-readable tags, so the value behind
+each reported figure is public. Fields are mapped onto standard concepts
+(Appendix~\ref{app:concepts}) and the concept behind every value is recorded, making
+each label auditable. Two properties of that mapping matter. Tag coverage is a property
+of the filer, not of the corpus: total liabilities is tagged by roughly two thirds of
+companies and operating income by four fifths, so the effective sample differs by field
+and is reported per field. And EBITDA has no tag at all, being outside the
+standard, so its reference value must be constructed. That decision is the subject of
+\S\ref{sec:audit}.
+
+\paragraph{Corpus.} From 62 large-cap tickers across 11 sectors we take the two most
+recent annual reports, convert the primary document to text preserving table row
+structure, and slice the section around the consolidated income statement. That heading
+recurs in a filing, so we select the occurrence followed by the highest density of
+printed money figures, which distinguishes the table from a reference to it without
+per-filer rules. Each document's fiscal period is read from the filing's own report
+date, so a document and its reference values cannot refer to different years. The
+arithmetic closes exactly: $124$ possible documents, less $8$ filings that do not exist
+in the recent window, less $12$ whose reporting scale cannot be read from their own
+text, giving $104$ documents from $55$ companies (Appendix~\ref{app:corpus}).
+
+\paragraph{Reporting scale.} Reference values are absolute amounts; statement tables
+print thousands or millions. The multiplier is inferred from the filing text alone,
+with the matched evidence recorded. The direction matters: snapping an extraction to
+whichever power of a thousand lands nearest the reference would leak the label into the
+prediction, which is the defect this paper is about.
+
+The inference is itself validated, since everything downstream depends on it. For each
+filing the ratio between a reference value and the value printed in its table is
+observable, and a correct multiplier is the one that makes that ratio unity. Read this
+way, the inference agrees with the observed multiplier on $101$ of $104$ filings
+($97.1\%$); the three disagreements are documents where the model misread a value
+rather than filings whose header was misread.
+
+\paragraph{Configurations.} Six, sharing one extraction prompt so that differences are
+attributable to the scaffolding: B1 a regex parser given the same patterns the
+full system uses internally; B2 zero-shot extraction (one call); \textbf{B3}
+B2 with self-consistency, five samples at $T{=}0.7$, field-wise median; B4 B2
+with chain-of-thought self-verification of the EBITDA identity (two calls); \textbf{B5}
+B2 with the detector, values untouched; B6 B5 with the corrector. The
+corrector applies eight named rules to a fixed point, so its outcome is
+order-independent and idempotent, and issues no model calls, since repairing an
+extraction never requires re-extracting it. Models are an 8B and a 49B
+instruction-tuned model on one hosted API, temperature $0$ except B3, seed fixed. Rate
+limiting prevented completing the larger model on the full corpus, so scales are
+compared on documents both completed; sample sizes accompany every table.
+
+\begin{figure*}[t]
+\centering
+\includegraphics[width=\linewidth]{figures/tolerance_coupling.pdf}
+\caption{\textbf{(a)} Accuracy depends strongly on the tolerance at which a field is
+called correct, which is a free parameter of any such evaluation. \textbf{(b)} The
+ladder as published (hatched) and rescored with the coupled field removed (solid).
+The apparent progression from B2 to B6 is produced entirely by that one field; without
+it every configuration lands on the same value, marked by the dotted line.}
+\label{fig:ladder}
+\end{figure*}
+
+\section{The Result as It First Appeared}
+
+Table~\ref{tab:asfirst} reports field accuracy over the five income-statement fields.
+Identity repair gains $10.7$ and $13.0$ points over zero-shot extraction while issuing
+no additional model calls; chain-of-thought verification gains $6.3$ and $12.7$ at
+twice the calls. B5 equals B2 exactly, confirming that the detector judges without
+altering values. Read on its own, the table says that cheap symbolic structure
+substitutes for inference-time compute, and that it does so at both model scales.
+
+\begin{table}[t]
+\centering\small
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{@{}llrrrr@{}}
+\toprule
+& \textbf{Config.} & \textbf{Acc.} & \textbf{$\Delta$B2} & \textbf{$n$} & \textbf{Calls} \\
+\midrule
+\multirow{6}{*}{\rotatebox{90}{\textsc{8b}}}
+& B1 regex            & 69.9 & $-3.6$ & 355 & 0 \\
+& B2 zero-shot        & 73.5 & ref.   & 355 & 1 \\
+& B3 self-cons.       & 72.7 & $-0.8$ & 355 & 5 \\
+& B4 CoT verify       & 79.8 & $+6.3$ & 352 & 2 \\
+& B5 ${+}$ detector   & 73.5 & $+0.0$ & 355 & 1 \\
+& B6 ${+}$ corrector  & \best{84.2} & \best{$+10.7$} & 355 & 1 \\
+\midrule
+\multirow{5}{*}{\rotatebox{90}{\textsc{49b}}}
+& B1 regex            & 69.9 & $-7.0$  & 355 & 0 \\
+& B2 zero-shot        & 76.9 & ref.    & 355 & 1 \\
+& B4 CoT verify       & 89.6 & $+12.7$ & 299 & 2 \\
+& B5 ${+}$ detector   & 76.9 & $+0.0$  & 355 & 1 \\
+& B6 ${+}$ corrector  & \best{89.9} & \best{$+13.0$} & 355 & 1 \\
+\bottomrule
+\end{tabular}
+\caption{Field accuracy (\%) at $\pm1\%$, five income-statement fields, over $83$
+documents. $n$ is the number of scored instances, which is lower for B4 where a
+verification call did not return. Every figure is reproducible from the released
+outputs.}
+\label{tab:asfirst}
+\end{table}
+
+\section{The Audit}
+\label{sec:audit}
+
+\subsection{One field produces the entire gain}
+
+EBITDA has no tag, so its reference value is constructed as operating income plus
+D\&A, and the corrector's first rule computes EBITDA as operating income plus D\&A.
+The field is therefore scored correct exactly when the extracted operating income and
+D\&A are both correct, and both of those are already scored separately. Nothing about
+the system's behaviour can make that field wrong while leaving its constituents right.
+
+Rescoring with the coupled field excluded removes the effect entirely, on both scales,
+with no residual (Table~\ref{tab:rescore}, Figure~\ref{fig:ladder}b). Every field that
+the corrector turns from wrong to right is EBITDA: $38$ of $38$ on the smaller model,
+$46$ of $46$ on the larger. Coupled instances are $15.5\%$ of those scored and $100\%$
+of the gain.
+
+\begin{table}[t]
+\centering\small
+\begin{tabular}{@{}lrrl@{}}
+\toprule
+\textbf{Model} & \textbf{with} & \textbf{without} & \textbf{fields repaired} \\
+\midrule
+8B  & $+10.7$ & \best{$+0.0$} & 38/38 EBITDA \\
+49B & $+13.0$ & \best{$+0.0$} & 46/46 EBITDA \\
+\bottomrule
+\end{tabular}
+\caption{Corrector gain over zero-shot extraction, with and without the coupled field.
+The last column counts which fields the corrector repairs: on both scales, only the
+coupled one.}
+\label{tab:rescore}
+\end{table}
+
+A second defect compounds the first and is independent of it. The prompt instructs the
+model to return a null value when a quantity is absent; EBITDA is absent from every
+income statement in the corpus; the model complied in every case; and the metric scored
+that as an error. Removing the field raises zero-shot accuracy by $13.5$ and $14.1$
+points. The baseline was being penalised for following its instructions, which is most
+of the room the corrector then appeared to recover.
+
+\subsection{The inflation is predictable in advance}
+\label{sec:predict}
+
+Excluding a coupled field diagnoses the problem after the fact. The stronger question
+is whether the inflation could have been anticipated. For a derived label
+$L = g(f_1,\dots,f_k)$ and a system rule computing the same field by the same $g$, the
+field is repaired exactly on documents where it was absent from the raw extraction and
+every constituent was already correct. That count is computable from the raw extraction
+and the rule definition, with no rescoring:
+\[
+\widehat{n} \;=\; \bigl|\{d : L \text{ absent in } d,\; f_i \text{ correct } \forall i\}\bigl|.
+\]
+On the smaller model this predicts $38$ repaired instances against $38$ observed, an
+error of zero; on the larger, $43$ against $46$, an error of $6.5\%$, the discrepancy
+arising from tolerance interactions when constituents are correct but near the
+boundary.
+A coupled field can therefore be flagged, and its contribution quantified, before any
+experiment is rerun.
+
+\subsection{The mechanism reproduces under controlled injection}
+\label{sec:inject}
+
+The EBITDA case is observational: that field happened to be untagged, a label had to be
+constructed, and a rule happened to reconstruct it. To show the effect is a property of
+the construction rather than of the field, we induce it deliberately.
+
+For every pair $(a,b)$ of independently tagged fields we define a synthetic field $S$
+with reference value $\mathrm{truth}(a) + \mathrm{truth}(b)$, declare it absent from
+the raw extraction as an unreported quantity would be, and add the corrector rule
+$S := \mathrm{extracted}(a) + \mathrm{extracted}(b)$. This is the EBITDA construction
+with different operands. The phantom gain is the share of documents on which the
+injected field is then scored correct.
+
+Across fifteen injected couplings per model, phantom gain tracks the joint accuracy of
+the constituents closely (Figure~\ref{fig:inject}; Pearson $r = 0.92$ and $0.89$, mean
+absolute error $0.06$ and $0.05$), and ranges from $0.68$ to $1.00$. Two consequences
+follow. First, a coupled label yields a free gain whose size is set by how good the
+system already is on the parts, so the practice is most rewarding exactly where a
+system is strongest, and therefore most tempting on a mature pipeline. Second, the
+points lie slightly above the diagonal, because errors in the two constituents can
+cancel in the sum: a coupled field is scored correct somewhat more often than all of
+its constituents are, which makes the inflation marginally worse than the naive
+prediction.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.92\linewidth]{figures/coupling_injection.pdf}
+\caption{Deliberately injected couplings. Each point is one synthetic field defined as
+the sum of two independently tagged fields, with a corrector rule computing it the same
+way. The phantom gain it produces is determined by the joint accuracy of its
+constituents, irrespective of which fields are chosen.}
+\label{fig:inject}
+\end{figure}
+
+\subsection{The ladder collapses}
+\label{sec:collapse}
+
+Excluding the coupled field leaves the configurations indistinguishable
+(Table~\ref{tab:mcnemar}). Four of them (B2, B4, B5 and B6) produce values identical
+field by field, not merely equal in aggregate: on the larger model a single instance out
+of $300$ differs, and it does not change correctness. No adjacent pair shows a
+significant difference, and the only significant comparison in the entire study is
+between the language model and the pattern matcher.
+
+\begin{table}[t]
+\centering\small
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{@{}llrrr@{}}
+\toprule
+& \textbf{Pair} & \textbf{A only} & \textbf{B only} & \textbf{$p$} \\
+\midrule
+\multirow{5}{*}{\rotatebox{90}{\textsc{8b}}}
+& B2 vs B3 &  9 &  6 & $0.607$ \\
+& B2 vs B4 &  0 &  0 & $1.000$ \\
+& B2 vs B5 &  0 &  0 & $1.000$ \\
+& B2 vs B6 &  0 &  0 & $1.000$ \\
+& B1 vs B2 & 14 & \best{60} & \best{$6{\cdot}10^{-8}$} \\
+\midrule
+\multirow{4}{*}{\rotatebox{90}{\textsc{49b}}}
+& B2 vs B4 &  0 &  0 & $1.000$ \\
+& B2 vs B5 &  0 &  0 & $1.000$ \\
+& B2 vs B6 &  0 &  0 & $1.000$ \\
+& B1 vs B2 &  8 & \best{66} & \best{$2{\cdot}10^{-12}$} \\
+\bottomrule
+\end{tabular}
+\caption{Discordant pairs and exact McNemar tests, coupled field excluded, $300$
+instances over $83$ documents. B4 is compared on the $297$ and $253$ instances it
+returned.}
+\label{tab:mcnemar}
+\end{table}
+
+Self-consistency is the one configuration that is not inert but merely ineffective. It
+moves $38$ of $300$ values and changes $15$ correctness outcomes, nine in one direction
+and six in the other ($p = 0.607$). The displacements are small and systematic: one filer's
+revenue read as $57{,}400$ rather than $57{,}300$, another's D\&A as $52{,}785$ rather
+than $52{,}795$, consistent with sampling changing which table row is read rather than
+which value is inferred. Where the answer is a lookup, disagreement across samples
+reflects retrieval noise, not reasoning uncertainty, and a median over five readings of
+five different rows is not a better reading. This is a mechanism for the null on this
+task, not a contradiction of self-consistency on reasoning benchmarks
+\citep{wang2023selfconsistency}.
+
+Chain-of-thought verification is inert for a reason internal to how it was specified,
+and the reason is worth separating from the result. Its prompt authorises changes to
+the coupled field only, so outside that field it cannot alter anything, and its apparent
+property of never degrading a value is vacuous. This is not evidence that
+chain-of-thought verification fails on this task; it is evidence that a verification
+prompt bounds its own achievable gain by the set of fields it is allowed to revise. A
+verifier scoped to one identity can repair at most the fields that identity relates,
+whatever its reasoning quality. The practical reading is that verification coverage
+should be reported alongside verification accuracy, since the first caps the second.
+
+\subsection{Ablation deltas misdiagnose the rule set}
+
+Leave-one-out ablation reports all eight correction rules as contributing nothing, on
+both scales. We originally read that as mutual redundancy under fixed-point iteration.
+Execution counts show otherwise (Table~\ref{tab:fires}): one rule fires, on every
+document; six never fire; the eighth executes only when the first is removed. The regex
+backfill fires zero and two times and never changes a scored outcome.
+
+\begin{table}[t]
+\centering\small
+\begin{tabular}{@{}lrr@{}}
+\toprule
+\textbf{Rule} & \textbf{8B} & \textbf{49B} \\
+\midrule
+\code{ebitda\_from\_parts}       & \best{83} & \best{69} \\
+\code{ebitda\_below\_ebit}       & 0 $\;$($78^{\dagger}$) & 0 $\;$($65^{\dagger}$) \\
+other six rules, each            & 0 & 0 \\
+\code{regex\_backfill}           & 0 & 2 \\
+\bottomrule
+\end{tabular}
+\caption{Field instances changed, $83$ documents. $^{\dagger}$Executions when the first
+rule is disabled. An accuracy delta of zero is consistent with redundancy and with
+irrelevance; execution counts separate them.}
+\label{tab:fires}
+\end{table}
+
+The point transfers to any rule set applied to convergence: report how often each rule
+executes, because the two readings of a zero delta call for opposite responses.
+
+\subsection{The detector is coupled in a different way}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{figures/threshold_surface.pdf}
+\caption{Detector $F_1$ as a surface over the two thresholds an evaluation chooses
+independently: the residual at which the detector fires ($\tau_d$) and the tolerance at
+which a field counts as correct ($\tau_c$). Performance forms a ridge along
+$\tau_d = \tau_c$. Choosing them independently, which is natural since they
+belong to different parts of the pipeline, lands off the ridge and manufactures
+errors that belong to the mismatch rather than to the detector.}
+\label{fig:surface}
+\end{figure}
+
+The balance-sheet detector appeared to work. Firing on any nonzero residual of
+$|\text{assets} - \text{liabilities and equity}|$, it reached a precision of $80.0\%$
+(95\% CI $[56.3, 94.3]$) and a recall of $84.2\%$ over $68$ documents. Its four false
+positives are all documents where both fields fall inside the $\pm1\%$ correctness
+tolerance while the residual is nonzero. That is not a detector error but a threshold
+mismatch, and Figure~\ref{fig:surface} shows its geometry: performance is maximal along
+the diagonal where the two thresholds agree, and degrades away from it. At matched
+thresholds precision is $100\%$ (CI $[79.4, 100]$) with no false positives.
+
+That precision is nonetheless not a measurement. The two inputs of the identity map to
+reference concepts that the standard defines to be equal, so a nonzero residual proves
+an extraction error by construction. The detector was verifying that two printed lines
+agree, which is useful but is not the identity claimed. Figure~\ref{fig:ecdf} shows the further
+reason an area under a curve is the wrong summary here: most documents sit exactly at
+zero residual, so any ranking metric is dominated by ties.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{figures/residual_ecdf.pdf}
+\caption{Distribution of the identity residual. The mass at zero is what makes ranking
+metrics misleading: an area under a curve computed over this distribution is largely
+determined by how ties are broken.}
+\label{fig:ecdf}
+\end{figure}
+
+Rebuilding the identity over three independently tagged concepts (assets, liabilities
+and equity) required one additional extraction pass and produced no usable evaluation,
+for a reason that generalises into a procedure. The relation
+$\text{assets} = \text{liabilities} + \text{equity}$ holds of a consolidated balance
+sheet only once non-controlling and redeemable interests are counted in equity, and the
+concept a practitioner reaches for first is parent-company equity, which excludes them.
+On our corpus the reference values violate the relation for $47\%$ of filings, always by
+the omitted minority interest. Excluding filings whose inputs are not all tagged, and
+those whose reference values do not balance, leaves $28$ documents per scale containing
+three and one erroneous extraction: too few to estimate anything, with precision
+intervals spanning $[0.3, 52.7]$ and $[0, 100]$.
+
+The procedure this suggests costs nothing and would have caught it. Before treating a
+relation as a verification signal, evaluate it on the reference values alone. If it does
+not hold there, it is not an identity of the standard as one has operationalised it,
+whatever its textbook form, and any residual computed from an extraction confounds
+misreading with the modelling choice behind the reference. We report the uncoupled
+detector as untestable on this corpus rather than refuted, and note that the population
+on which it is testable is determined by tagging practice rather than by the detector.
+
+\section{What Survives}
+\label{sec:survives}
+
+\begin{figure*}[t]
+\centering
+\includegraphics[width=0.86\linewidth]{figures/field_sector.pdf}
+\caption{Zero-shot accuracy by field and sector (8B, $\pm1\%$). Difficulty is
+structured by disclosure convention rather than spread evenly: the banking row is
+uniformly weak because commercial-bank income statements carry no operating-income
+line, and the blank cell is a concept those filers do not tag at all.}
+\label{fig:heat}
+\end{figure*}
+
+Zero-shot extraction is accurate and scaffolding does not improve it. Over both
+statements and both scales, accuracy at the operating tolerance is $85.9\%$ and
+$91.4\%$, and the corrector matches it exactly at every tolerance
+(Table~\ref{tab:survives}). Accuracy is tolerance-sensitive: requiring exact agreement
+costs a further twelve points on the smaller model, which any deployment threshold
+should account for (Figure~\ref{fig:ladder}a).
+
+\begin{table}[t]
+\centering\small
+\begin{tabular}{@{}lrr@{}}
+\toprule
+\textbf{Tolerance} & \textbf{8B} & \textbf{49B} \\
+\midrule
+exact match & 73.9 & 84.6 \\
+$\pm0.1\%$  & 76.9 & 86.3 \\
+$\pm1\%$    & \best{85.9} & \best{91.4} \\
+$\pm5\%$    & 89.5 & 93.9 \\
+\bottomrule
+\end{tabular}
+\caption{Zero-shot accuracy over income-statement and balance-sheet fields, coupled
+field excluded, $590$ instances over $81$ documents. The corrector equals these values
+at every tolerance.}
+\label{tab:survives}
+\end{table}
+
+The regex baseline is compared on income-statement fields only, its patterns not
+covering the balance sheet. There it reaches $71.7\%$ against $87.0\%$ and $91.0\%$ for
+zero-shot extraction, gaps of $15.3$ and $19.3$ points at $p = 6{\cdot}10^{-8}$ and
+$2{\cdot}10^{-12}$. That a language model reads these tables better than a pattern
+matcher is not itself a finding; it is reported because it is the only comparison in the
+study that reaches significance, which calibrates what the null on the remaining
+configurations does and does not say. The instrument can detect an effect of this kind
+when one is present.
+
+Accuracy varies by sector far more than by configuration (Figure~\ref{fig:heat}).
+Banking is weakest on both scales, and it is a schema mismatch rather than a reading
+failure: commercial-bank income statements are built from net interest income and
+non-interest revenue and carry no operating-income line, so no rule defined over that
+quantity can help. Energy fails on revenue and net income for a related reason,
+depletion and certain totals being disclosed outside the extracted section. Cells are
+small and no per-sector claim is made; the pattern is reported because it is where a
+domain-specific schema, rather than a better model or more scaffolding, would help.
+
+Finally, the coupled field is genuinely unenforceable rather than merely outside the
+extraction window. Searching the complete text of all $104$ filings, $26.9\%$ mention
+EBITDA at all, and $4.8\%$ present it with a reconciliation. The dominant form of the
+mention is contractual: EBITDA appears as a defined term in credit-agreement covenants,
+not as a disclosed quantity, and no income statement in the corpus reports it as a line
+item.
+
+\section{Trap Catalogue}
+\label{sec:traps}
+
+Table~\ref{tab:traps} states each trap as a mechanism, the instrument that detects it,
+and the evidence observed here. Two of the four are specific to constraint-based
+verification; the other two apply to any evaluation that compares extracted quantities
+against a reference.
+
+\begin{table*}[t]
+\centering\small
+\begin{tabular}{@{}p{2.7cm}p{4.3cm}p{3.5cm}p{3.9cm}@{}}
+\toprule
+\textbf{Trap} & \textbf{Mechanism} & \textbf{Instrument} & \textbf{Evidence here} \\
+\midrule
+Method-coupled label &
+A field's reference value is produced by a formula the system also applies, so accuracy
+on it cannot fail &
+Rescore with such fields excluded; predict the inflation from the label definition
+(\S\ref{sec:predict}) &
+$15.5\%$ of scored instances, $100\%$ of the reported gain; reproduced on 15 injected
+couplings \\
+\addlinespace[2pt]
+Ablation by accuracy delta &
+Leave-one-out cannot distinguish a redundant rule set from an irrelevant one &
+Per-rule execution counts &
+Eight rules reported inert; one ever fires \\
+\addlinespace[2pt]
+Threshold mismatch &
+A detector firing on any nonzero residual, judged against a metric that forgives one
+percent, manufactures false positives &
+Report at matched thresholds, or sweep both (Figure~\ref{fig:surface}) &
+Precision $80.0\%$ rises to $100\%$; all four false positives eliminated \\
+\addlinespace[2pt]
+Unit-scale mismatch &
+References in absolute amounts compared against tables printed in millions fail every
+comparison while the code runs normally &
+Infer scale from the document, never from the reference; report scale as its own error
+kind &
+$12$ filings excluded for want of a readable scale \\
+\bottomrule
+\end{tabular}
+\caption{The four measurement traps. A scale error is the one failure invisible to this
+entire class of method, since scaling every figure by the same factor leaves all
+accounting identities exactly satisfied. Deriving a missing label, as in the first row,
+is a modelling decision and should be reported as one.}
+\label{tab:traps}
+\end{table*}
+
+\paragraph{Recommendations.} Verify over quantities the filer is required to disclose,
+and confirm the identity holds in the reference data before assuming it holds in the
+extraction. Report per-field sample sizes, since tag coverage is a property of the
+filer. Report class balance alongside any ranking metric, and prefer a confusion matrix
+when the score distribution is dominated by ties.
+
+\section{Conclusion}
+
+An evaluation of accounting-identity verification reported substantial gains that, on
+audit, are entirely attributable to one field whose reference value the system
+reconstructs by its own formula. Excluding it, six configurations across two model
+scales are statistically indistinguishable and four are bit-identical. The detector's
+apparent precision has the same origin in a different form, and the uncoupled identity
+turns out not to be an identity of the reporting standard. What remains is that
+zero-shot extraction is accurate, substantially better than pattern matching, and
+improved by none of the scaffolding we tested. We release the corpus manifest, cached
+outputs and audit scripts so that these conclusions can themselves be re-evaluated.
+
+\section*{Limitations}
+\label{sec:limitations}
+
+\paragraph{Scope of the null.} An exact null over $253$ instances bounds the effect of
+these configurations tightly, but the corpus is one language, one filing type and two
+model scales from one family on one API, and each technique is instantiated once. Our
+chain-of-thought verifier is scoped to a single identity, our self-consistency draws
+five samples at one temperature, and our corrector holds eight rules of which one
+executes. A differently scoped verifier could plausibly do better, and
+\S\ref{sec:collapse} argues that coverage is where the headroom lies. The negative
+claim concerns these implementations, not the techniques.
+
+\paragraph{The uncoupled detector is unresolved.} After excluding filings with untagged
+inputs and those whose reference data do not balance, $26$ documents remain per scale
+with one or two erroneous extractions. This is a statement about evaluability on this
+corpus, not evidence that the uncoupled detector fails.
+
+\paragraph{No expert validation.} Every reference value comes from a regulatory tag,
+matched by concept name, fiscal period and unit. Neither the tags nor the matching were
+checked by a financial professional on any sample, so a systematic mis-mapping would be
+invisible to us. The scale inference is validated against observable ratios
+(\S\ref{sec:protocol}) and the field-to-concept mapping is released
+(Appendix~\ref{app:concepts}), but neither substitutes for expert review, and the
+minority-interest case of \S\ref{sec:audit} shows what such a mis-mapping looks like
+when it goes unnoticed.
+
+\paragraph{Reference concepts.} Accuracy is accuracy against a specific choice of
+concepts. An earlier balance-sheet pass used field names that led one model to
+interpret total liabilities as excluding equity; that run is retained as an ablation.
+Other fields may carry smaller versions of the same effect.
+
+\paragraph{Extraction window.} Text is sliced around the income statement, so
+quantities disclosed only in the cash-flow statement are out of reach, which is a known
+cause of the energy-sector result. Filers submitting statements as a separate exhibit
+are excluded.
+
+\paragraph{Cell sizes.} Five sectors have four or fewer documents. Per-sector figures
+are descriptive; no significance test is reported and none should be inferred.
+
+\paragraph{Not a judgement of the filings.} The system checks arithmetic consistency
+and textual grounding. It does not detect misstatement, fraud or accounting-policy
+choices.
+
+\section*{Ethics Statement}
+
+All data are public regulatory filings retrieved through official interfaces under the
+issuer's fair-access policy with an identifying user agent. No personal, confidential
+or proprietary data is used. The specific risk here is over-confidence: a system
+reporting a document as verified may be read as warranting its figures, when it checks
+only internal arithmetic. This paper's principal finding is that such warrants were
+largely circular in our own system; we recommend that identity-based verification be
+used for triage rather than sign-off, and that any reported gain be accompanied by the
+coupled-field test.
+
+\section*{Acknowledgments}
+
+Removed for anonymous review.
+
+\bibliography{custom}
+
+\appendix
+
+\section{Field-to-Concept Mapping}
+\label{app:concepts}
+
+Table~\ref{tab:concepts} gives the mapping. The first concept with a value for the
+period wins and the choice is recorded per label, so a reviewer can re-derive any
+reference value. The final row is the coupled field: it has no tag, and the derivation
+used to fill that gap is what \S\ref{sec:audit} analyses.
+
+\begin{table}[h]
+\centering\small
+\begin{tabular}{@{}p{1.9cm}p{4.7cm}@{}}
+\toprule
+\textbf{Field} & \textbf{Concept} \\
+\midrule
+Revenue & \code{Revenues}, else \code{Revenue\-From\-Contract\-With\-Customer\-Excluding\-Assessed\-Tax} \\
+Op.\ income & \code{Operating\-Income\-Loss} \\
+D\&A & \code{Depreciation\-Depletion\-And\-Amortization} \\
+Net income & \code{Net\-Income\-Loss} \\
+Total assets & \code{Assets} \\
+Total liab.\ \& eq. & \code{Liabilities\-And\-Stockholders\-Equity} \\
+Total liabilities & \code{Liabilities} \\
+Total equity & \code{Stockholders\-Equity} \\
+\midrule
+EBITDA & \emph{no tag exists} --- derived as
+         op.\ income ${+}$ D\&A \\
+\bottomrule
+\end{tabular}
+\caption{Field-to-concept mapping.}
+\label{tab:concepts}
+\end{table}
+
+\section{Corpus Reconciliation}
+\label{app:corpus}
+
+\begin{table}[h]
+\centering\small
+\begin{tabular}{@{}lr@{}}
+\toprule
+\textbf{Step} & \textbf{Documents} \\
+\midrule
+62 tickers $\times$ 2 filings & 124 \\
+$-$ filings absent from the recent window & $-8$ \\
+$-$ no readable reporting scale & $-12$ \\
+\midrule
+\textbf{corpus} & \textbf{104} \\
+\bottomrule
+\end{tabular}
+\caption{The eight absent filings are six banks with a single recent annual report and
+one company with none. The twelve scale exclusions are six companies whose statements
+are filed as a separate exhibit, both of their years. Per-document reasons are released
+with the corpus.}
+\label{tab:corpusrec}
+\end{table}
+
+Ground-truth coverage differs by field, which is why per-field $n$ is reported
+throughout: net income, total assets, total liabilities and equity, and total equity
+are tagged for every document; revenue for $97\%$; operating income and D\&A for
+$81\%$; total liabilities for $65\%$; and EBITDA for none.
+
+\section{Populations Used by Each Table}
+\label{app:populations}
+
+Results are reported on several nested subsets, because coverage differs by extraction
+pass, by tag availability and by model. Table~\ref{tab:populations} states which subset
+each result uses and why it differs from the full corpus. No subset is chosen by
+outcome: each is the set of documents for which the required inputs exist.
+
+\begin{table}[h]
+\centering\small
+\begin{tabular}{@{}p{2.1cm}rp{4.2cm}@{}}
+\toprule
+\textbf{Result} & \textbf{$n$} & \textbf{Population and reason} \\
+\midrule
+Corpus (\S\ref{sec:protocol}) & 104 &
+All filings with a readable reporting scale and matching reference values. \\
+\addlinespace[2pt]
+Table~\ref{tab:asfirst}, \ref{tab:rescore} & 83 &
+Filings both model scales completed for the income-statement pass. \\
+\addlinespace[2pt]
+Table~\ref{tab:mcnemar} & 83 &
+The same set; B4 is compared on the subset it returned. \\
+\addlinespace[2pt]
+Table~\ref{tab:fires} & 83 &
+Corrector executions, income-statement pass only. \\
+\addlinespace[2pt]
+Table~\ref{tab:survives} & 81 &
+Filings both scales completed for the income-statement \emph{and} the four-field
+balance-sheet pass. \\
+\addlinespace[2pt]
+Fig.~\ref{fig:heat}, per-sector & 81 &
+As above, over the three balance-sheet fields common to both balance-sheet passes. \\
+\addlinespace[2pt]
+Coupled detector (\S\ref{sec:audit}) & 68 &
+Filings with a computable residual on the two-field balance-sheet pass. \\
+\addlinespace[2pt]
+Uncoupled detector & 28 &
+Of those, filings whose three identity inputs are all tagged and whose reference values
+satisfy the identity. \\
+\bottomrule
+\end{tabular}
+\caption{Population per result. The two detector rows are the only large reductions, and
+both follow from tagging practice: total liabilities is tagged by $65\%$ of companies,
+and the reference values satisfy
+$\text{assets}=\text{liabilities}+\text{equity}$ for $53\%$ of the remainder.}
+\label{tab:populations}
+\end{table}
+
+Rate limiting on the larger model prevented completing every pass on all 104 filings.
+A third model was extracted for 47 filings and discarded before analysis: its subset
+contained 28 technology filings and no retail, consumer or industrial ones, so a tier
+comparison on it would have confounded model scale with sector. That decision was taken
+on the composition of the subset, not on any result computed from it.
+
+\section{Detector Confusion Matrices}
+\label{app:detector}
+
+\begin{table}[h]
+\centering\small
+\begin{tabular}{@{}lrrrr@{}}
+\toprule
+\textbf{Threshold} & \textbf{TP} & \textbf{FP} & \textbf{FN} & \textbf{P (95\% CI)} \\
+\midrule
+residual $>0$      & 16 & 4 & 3 & 80.0 $[56.3, 94.3]$ \\
+residual $>0.1\%$  & 16 & 3 & 3 & 84.2 $[60.4, 96.6]$ \\
+residual $>1\%$    & 16 & 0 & 3 & \best{100.0} $[79.4, 100]$ \\
+\bottomrule
+\end{tabular}
+\caption{Coupled balance-sheet detector, 8B, $68$ documents, positive label defined as
+at least one identity input differing from its reference by more than $1\%$. Matching
+the detector threshold to the correctness tolerance eliminates every false positive.}
+\label{tab:detconf}
+\end{table}
+
+The four false positives at the loosest threshold are documents whose largest field
+error is between $0.004\%$ and $0.35\%$, all inside the correctness tolerance.
+Figure~\ref{fig:surface} generalises this to the full threshold plane.
+
+\section{Extraction Prompt}
+\label{app:prompts}
+
+Identical across B2--B6 and both scales; only the scaffolding differs.
+
+\begin{quote}\footnotesize\ttfamily\raggedright
+You are reading the consolidated income statement of a US 10-K filing. Extract these 5
+metrics for the MOST RECENT fiscal year shown.\\[2pt]
+Return ONLY a JSON object with exactly these keys (use null when absent):
+revenue, operating\_income, ebitda, depreciation\_\-amortization, net\_income\\[2pt]
+Rules: Copy each number EXACTLY as printed in the table. Do NOT rescale or convert
+units. Consolidated group totals only, never a single segment. Most recent fiscal year
+column only, never a comparative year. No markdown, no commentary. JSON only.
+\end{quote}
+
+Two instructions in this prompt interact with the audit. The instruction not to rescale
+is what makes document-side scale inference necessary. The instruction to return null
+when a value is absent is what the coupled field then penalised, since EBITDA is absent
+from every income statement in the corpus and the model complied throughout.
+
+\section{Reproducibility}
+\label{app:repro}
+
+All tables and figures are recomputable offline from the released artifacts, with no
+model access.
+
+\begin{itemize}[leftmargin=*, itemsep=1pt]
+\item \code{data/corpus.jsonl} --- manifest with path, ticker, identifier, fiscal year,
+      period end, accession number and inferred scale; checksummed. Drop reasons for
+      every excluded document are released alongside.
+\item \code{data/ground\_truth.jsonl} --- reference values with the concept, accession
+      number and period behind each, plus a \code{derived} flag marking coupled labels.
+\item \code{data/extractions/<model>/<method>/} --- every cached model output.
+\item \code{scripts/reviewer\_checks.py} --- coupled-field rescoring and per-rule
+      execution counts.
+\item \code{scripts/coupling\_index.py} --- the predictor of \S\ref{sec:predict}.
+\item \code{scripts/mcnemar\_ladder.py} --- discordant pairs and exact tests.
+\item \code{scripts/detector\_and\_bs.py} --- confusion matrices, matched thresholds,
+      tolerance sweep.
+\item \code{scripts/make\_figures.py} --- all figures.
+\end{itemize}
+
+Seed fixed at $42$; temperature $0$ except B3 ($T{=}0.7$, five samples); $60$k
+characters of context. Failed API calls are never cached as null results, since a
+cached null is indistinguishable from a model that extracted nothing. An early run
+cached $48$ of $104$ documents that way, which would have depressed all configurations
+equally and resembled a model result.
+
+\end{document}

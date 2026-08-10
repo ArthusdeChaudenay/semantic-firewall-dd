@@ -1,0 +1,538 @@
+indefinite-life intangible assets for impairment and if significant potential impairment risk exists for a specific asset, management quantitatively tests the asset for impairment by comparing its estimated fair value with its carrying value. Management estimates fair value using several accepted valuation methods, including relief from royalty, excess earnings and excess margin, that utilize estimates of future sales, earnings growth rates, royalty rates and discount rates to determine a brand name's fair value.
+The principal considerations for our determination that performing procedures relating to the indefinite-life intangible assets annual impairment assessments for certain brand names is a critical audit matter are (i) the significant judgment by management when developing the fair value of the indefinite-life intangible assets for certain brand names; (ii) a high degree of auditor judgment, subjectivity, and effort in performing procedures and evaluating management's significant assumptions related to estimates of future sales, earnings growth rates, royalty rates, and discount rates for certain brand names; and (iii) the audit effort involved the use of professionals with specialized skill and knowledge.
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to the indefinite-life intangible assets impairment assessments, including controls over the annual valuation of certain brand names. These procedures also included, among others (i) testing management's process for developing the fair value of the indefinite-life intangible assets for certain brand names; (ii) evaluating the appropriateness of the valuation methods; (iii) testing the completeness and accuracy of underlying data used in the valuation methods; and (iv) evaluating the reasonableness of the significant assumptions used by management related to estimates of future sales, earnings growth rates, royalty rates, and discount rates. Evaluating management's significant assumptions related to estimates of future sales and earnings growth rates involved evaluating whether the assumptions used by management were reasonable considering (i) the current and past performance of the certain brand names; (ii) the consistency with external market and industry data; and (iii) whether these assumptions were consistent with evidence obtained in other areas of the audit. Professionals with
+66
+Table of Contents
+specialized skill and knowledge were used to assist in evaluating (i) the appropriateness of the Company's valuation methods and (ii) the reasonableness of the royalty rate and discount rate significant assumptions.
+/s/ PricewaterhouseCoopers LLP
+Chicago, Illinois
+February 5, 2025
+We have served as the Company's auditor since 2001.
+67
+Table of Contents
+Mondel z International, Inc. and Subsidiaries
+Consolidated Statements of Earnings
+For the Years Ended December 31
+(in millions of U.S. dollars, except per share data)
+2024 2023 2022
+Net revenues $ 36,441 $ 36,016 $ 31,496
+Cost of sales ( 22,184 ) ( 22,252 ) ( 20,184 )
+Gross profit 14,257 13,764 11,312
+Selling, general and administrative expenses ( 7,439 ) ( 8,002 ) ( 7,384 )
+Asset impairment and exit costs ( 324 ) ( 217 ) ( 262 )
+Gain on acquisition and divestitures
+4 108 —
+Amortization of intangible assets ( 153 ) ( 151 ) ( 132 )
+Operating income 6,345 5,502 3,534
+Benefit plan non-service income
+96 82 117
+Interest and other expense, net ( 180 ) ( 310 ) ( 423 )
+Gain on marketable securities
+— 606 —
+Earnings before income taxes 6,261 5,880 3,228
+Income tax provision ( 1,469 ) ( 1,537 ) ( 865 )
+(Loss)/gain on equity method investment transactions
+( 337 ) 465 ( 22 )
+Equity method investment net earnings 168 160 385
+Net earnings 4,623 4,968 2,726
+less: Noncontrolling interest earnings
+( 12 ) ( 9 ) ( 9 )
+Net earnings attributable to Mondel z International $ 4,611 $ 4,959 $ 2,717
+Per share data:
+Basic earnings per share attributable to Mondel z International $ 3.44 $ 3.64 $ 1.97
+Diluted earnings per share attributable to Mondel z International $ 3.42 $ 3.62 $ 1.96
+See accompanying notes to the consolidated financial statements.
+68
+Table of Contents
+Mondel z International, Inc. and Subsidiaries
+Consolidated Statements of Comprehensive Earnings
+For the Years Ended December 31
+(in millions of U.S. dollars)
+2024 2023 2022
+Net earnings $ 4,623 $ 4,968 $ 2,726
+Other comprehensive earnings/(losses), net of tax:
+Currency translation adjustment ( 1,453 ) 229 ( 725 )
+Pension and other benefit plans ( 79 ) ( 218 ) 274
+Derivative cash flow hedges ( 3 ) ( 15 ) 114
+Total other comprehensive earnings/(losses) ( 1,535 ) ( 4 ) ( 337 )
+Comprehensive earnings 3,088 4,964 2,389
+less: Comprehensive earnings/(losses) attributable to
+noncontrolling interests ( 2 ) ( 4 ) 5
+Comprehensive earnings attributable to Mondel z International $ 3,086 $ 4,960 $ 2,394
+See accompanying notes to the consolidated financial statements.
+69
+Table of Contents
+Mondel z International, Inc. and Subsidiaries
+Consolidated Balance Sheets, as of December 31
+(in millions of U.S. dollars, except share data)
+2024 2023
+ASSETS
+Cash and cash equivalents $ 1,351 $ 1,810
+Trade receivables, less allowance ($ 37 and $ 66 , respectively)
+3,874 3,634
+Other receivables, less allowance ($ 37 and $ 50 , respectively)
+937 878
+Inventories, net 3,827 3,615
+Other current assets 3,253 1,766
+Total current assets 13,242 11,703
+Property, plant and equipment, net 9,481 9,694
+Operating lease right-of-use assets
+767 683
+Goodwill 23,017 23,896
+Intangible assets, net 18,848 19,836
+Prepaid pension assets 987 1,043
+Deferred income taxes 333 408
+Equity method investments 635 3,242
+Other assets 1,187 886
+TOTAL ASSETS $ 68,497 $ 71,391
+LIABILITIES
+Short-term borrowings $ 71 $ 420
+Current portion of long-term debt 2,014 2,101
+Accounts payable 9,433 8,321
+Accrued marketing 2,558 2,683
+Accrued employment costs 928 1,158
+Other current liabilities 4,545 4,330
+Total current liabilities 19,549 19,013
+Long-term debt 15,664 16,887
+Long-term operating lease liabilities 623 537
+Deferred income taxes 3,425 3,292
+Accrued pension costs 391 437
+Accrued postretirement health care costs 98 124
+Other liabilities 1,789 2,735
+TOTAL LIABILITIES 41,539 43,025
+Commitments and Contingencies (Note 14)
+EQUITY
+Common Stock, no par value ( 5,000,000,000 shares authorized, 1,996,537,778
+shares issued)
+— —
+Additional paid-in capital 32,276 32,216
+Retained earnings 36,476 34,236
+Accumulated other comprehensive losses ( 12,471 ) ( 10,946 )
+Treasury stock, at cost ( 678,708,640 and 648,055,073 shares, respectively)
+( 29,349 ) ( 27,174 )
+Total Mondel z International Shareholders' Equity 26,932 28,332
+Noncontrolling interest 26 34
+TOTAL EQUITY 26,958 28,366
+TOTAL LIABILITIES AND EQUITY $ 68,497 $ 71,391
+See accompanying notes to the consolidated financial statements.
+70
+Table of Contents
+Mondel z International, Inc. and Subsidiaries
+Consolidated Statements of Equity
+(in millions of U.S. dollars, except per share data)
+Mondel z International Shareholders' Equity
+Common
+Stock Additional
+Paid-in
+Capital Retained
+Earnings Accumulated
+Other
+Comprehensive
+Earnings/
+(Losses) Treasury
+Stock Non-controlling
+Interest Total
+Equity
+Balances at January 1, 2022 $ — $ 32,097 $ 30,806 $ ( 10,624 ) $ ( 24,010 ) $ 54 $ 28,323
+Comprehensive earnings/(losses):
+Net earnings — — 2,717 — — 9 2,726
+Other comprehensive earnings/
+(losses), net of income taxes — — — ( 323 ) — ( 14 ) ( 337 )
+Exercise of stock options and
+issuance of other stock awards — 46 ( 20 ) — 216 — 242
+Common Stock repurchased — — — — ( 2,000 ) — ( 2,000 )
+Cash dividends declared
+($ 1.470 per share)
+— — ( 2,025 ) — — — ( 2,025 )
+Dividends paid on noncontrolling
+interest and other activities — — 3 — — ( 12 ) ( 9 )
+Balances at December 31, 2022 $ — $ 32,143 $ 31,481 $ ( 10,947 ) $ ( 25,794 ) $ 37 $ 26,920
+Comprehensive earnings/(losses):
+Net earnings — — 4,959 — — 9 4,968
+Other comprehensive earnings/
+(losses), net of income taxes — — — 1 — ( 5 ) ( 4 )
+Exercise of stock options and
+issuance of other stock awards — 73 ( 6 ) — 199 — 266
+Common Stock repurchased — — — — ( 1,579 ) — ( 1,579 )
+Cash dividends declared
+($ 1.620 per share)
+— — ( 2,209 ) — — — ( 2,209 )
+Dividends paid on noncontrolling
+interest and other activities — — 11 — — ( 7 ) 4
+Balances at December 31, 2023 $ — $ 32,216 $ 34,236 $ ( 10,946 ) $ ( 27,174 ) $ 34 $ 28,366
+Comprehensive earnings/(losses):
+Net earnings — — 4,611 — — 12 4,623
+Other comprehensive earnings/
+(losses), net of income taxes — — — ( 1,525 ) — ( 10 ) ( 1,535 )
+Exercise of stock options and
+issuance of other stock awards — 60 5 — 213 — 278
+Common Stock repurchased — — — — ( 2,388 ) — ( 2,388 )
+Cash dividends declared
+($ 1.790 per share)
+— — ( 2,397 ) — — — ( 2,397 )
+Dividends paid on noncontrolling
+interest and other activities — — 21 — — ( 10 ) 11
+Balances at December 31, 2024 $ — $ 32,276 $ 36,476 $ ( 12,471 ) $ ( 29,349 ) $ 26 $ 26,958
+See accompanying notes to the consolidated financial statements.
+71
+Table of Contents
+Mondel z International, Inc. and Subsidiaries
+Consolidated Statements of Cash Flows
+For the Years Ended December 31
+(in millions of U.S. dollars)
+2024 2023 2022
+CASH PROVIDED BY/(USED IN) OPERATING ACTIVITIES
+Net earnings $ 4,623 $ 4,968 $ 2,726
+Adjustments to reconcile net earnings to operating cash flows:
+Depreciation and amortization 1,302 1,215 1,107
+Stock-based compensation expense 147 146 120
+Deferred income tax provision/(benefit)
+257 ( 37 ) ( 42 )
+Asset impairments and accelerated depreciation 267 128 233
+Gain on acquisition and divestitures
+( 4 ) ( 108 ) —
+Loss/(gain) on equity method investment transactions
+337 ( 465 ) 22
+Equity method investment net earnings ( 175 ) ( 160 ) ( 385 )
+Distributions from equity method investments 115 137 184
+Unrealized (gain)/loss on derivative contracts
+( 627 ) ( 171 ) 338
+Gain on marketable securities
+— ( 593 ) —
+Contingent consideration adjustments
+( 389 ) 125 47
+Other non-cash items, net 26 38 71
+Change in assets and liabilities, net of acquisitions and divestitures:
+Receivables, net ( 519 ) ( 628 ) ( 719 )
+Inventories, net ( 458 ) ( 193 ) ( 635 )
+Accounts payable 1,682 264 715
+Other current assets ( 591 ) ( 120 ) ( 286 )
+Other current liabilities ( 932 ) 354 638
+Change in pension and postretirement assets and liabilities, net ( 151 ) ( 186 ) ( 226 )
+Net cash provided by operating activities 4,910 4,714 3,908
+CASH PROVIDED BY/(USED IN) INVESTING ACTIVITIES
+Capital expenditures ( 1,387 ) ( 1,112 ) ( 906 )
+Acquisitions, net of cash received ( 240 ) 19 ( 5,286 )
+Proceeds from divestitures including equity method and marketable security
+investments
+2,294 4,099 601
+Proceeds from derivative settlements 320 177 768
+Payments for derivative settlements ( 199 ) ( 81 ) ( 86 )
+Contributions to investments ( 278 ) ( 309 ) ( 24 )
+Proceeds from sale of property, plant and equipment and other
+16 19 45
+Net cash provided by/(used in) by investing activities 526 2,812 ( 4,888 )
+CASH PROVIDED BY/(USED IN) FINANCING ACTIVITIES
+Issuances of commercial paper, maturities greater than 90 days — 67 —
+Repayments of commercial paper, maturities greater than 90 days — ( 67 ) —
+Net (repayments)/issuances of short-term borrowings
+( 343 ) ( 1,869 ) 1,914
+Long-term debt proceeds 1,671 277 4,490
+Long-term debt repayments ( 2,554 ) ( 2,432 ) ( 3,032 )
+Repurchases of Common Stock ( 2,334 ) ( 1,547 ) ( 2,017 )
+Dividends paid ( 2,349 ) ( 2,160 ) ( 1,985 )
+Other 129 173 174
+Net cash used in financing activities ( 5,780 ) ( 7,558 ) ( 456 )
+Effect of exchange rate changes on cash, cash equivalents and restricted cash
+( 140 ) ( 32 ) ( 169 )
+Cash, cash equivalents and restricted cash:
+Decrease ( 484 ) ( 64 ) ( 1,605 )
+Balance at beginning of period 1,884 1,948 3,553
+Balance at end of period $ 1,400 $ 1,884 $ 1,948
+Cash paid:
+Interest $ 554 $ 568 $ 551
+Income taxes $ 1,474 $ 1,607 $ 1,103
+See accompanying notes to the consolidated financial statements.
+72
+Table of Contents
+Mondel z International, Inc. and Subsidiaries
+Notes to Consolidated Financial Statements
+Note 1. Summary of Significant Accounting Policies
+Description of Business
+Mondel z International, Inc. was incorporated in 2000 in the Commonwealth of Virginia. Mondel z International, Inc., through its subsidiaries (collectively "Mondel z International," "we," "us" and "our"), sells food and beverage products to consumers in over 150 countries.
+Principles of Consolidation
+The consolidated financial statements include Mondel z International, Inc. as well as our wholly owned and majority owned subsidiaries, except our Venezuelan subsidiaries that were deconsolidated in 2015. All intercompany transactions are eliminated. The noncontrolling interest represents the noncontrolling investors' interests in the results of subsidiaries that we control and consolidate. We account for investments over which we exercise significant influence under the equity method of accounting. Investments over which we do not have significant influence or control are not material and as there is no readily determinable fair value for the equity interests, these investments are carried at cost with changes in the investment recognized to the extent cash is received.
+Use of Estimates
+We prepare our consolidated financial statements in accordance with accounting principles generally accepted in the United States of America ("U.S. GAAP"), which require us to make estimates and assumptions that affect a number of amounts in our consolidated financial statements. Significant estimates include valuation assumptions of goodwill and intangible assets, useful lives of long-lived assets, restructuring program liabilities, contingent consideration, marketing program accruals, insurance and self-insurance reserves, pension and benefit plan assumptions and income taxes. We base our estimates on historical experience, expectations of future impacts and other assumptions that we believe are reasonable. Given the uncertainty of the global economic environment, our estimates could be significantly different than future performance. If actual amounts differ from estimates, we include the updates in our consolidated results of operations in the period the actual amounts become known.
+War in Ukraine
+In February 2022, Russia began a military invasion of Ukraine and we closed our operations and facilities in Ukraine. In March 2022, our two Ukrainian manufacturing facilities in Trostyanets and Vyshhorod were significantly damaged. During the first quarter of 2022, we evaluated and impaired these and other related assets. We recorded $ 143 million of total expenses ($ 145 million after-tax) incurred as a direct result of the war. We reversed $ 22 million during the remainder of 2022 of previously recorded charges primarily as a result of higher than expected collection of trade receivables and inventory recoveries. In the second quarter of 2024, we fully resumed production at both facilities after completing targeted repairs. We continue to consolidate both our Ukrainian and Russian subsidiaries and continue to evaluate our ability to control our operating activities and businesses on an ongoing basis. We continue to evaluate the uncertainty of the ongoing effects of the war in Ukraine and its impact on the global economic environment, and we cannot predict if it will have a significant impact in the future.
+Currency Translation and Highly Inflationary Accounting
+We translate the results of operations of our subsidiaries from multiple currencies using average exchange rates during each period and translate balance sheet accounts using exchange rates at the end of each period. We record currency translation adjustments as a component of equity (except for highly inflationary currencies) and realized exchange gains and losses on transactions in earnings.
+Highly inflationary accounting is triggered when a country's three-year cumulative inflation rate exceeds 100%. It requires the remeasurement of financial statements of subsidiaries in the country, from the functional currency of the subsidiary to our U.S. dollar reporting currency, with currency remeasurement gains or losses recorded in earnings.
+During the fourth quarter of 2024, primarily based on published estimates indicating three-year cumulative inflation rates exceeding 100% for Egypt and Nigeria, we concluded that both countries became highly inflationary economies for accounting purposes. We began to apply highly inflationary accounting for our subsidiaries operating in Egypt and Nigeria and changed their functional currencies from the Egyptian Pound and Nigerian Naira, respectively, to the U.S. dollar during the fourth quarter of 2024.
+73
+Table of Contents
+At this time, within our consolidated entities, Argentina, T rkiye, Egypt and Nigeria are accounted for as highly inflationary economies. Argentina, T rkiye, Egypt and Nigeria represent 1.5 %, 0.7 %, 0.4 % and 0.2 %, respectively, of our consolidated net revenues for the year ended December 31, 2024. Given the continued volatility of these currencies, impacts to our financial statements in future periods could be significantly different from historical levels.
+The share of our remeasurement gains/(losses) for the highly inflationary countries are summarized as follows (1) :
+Year Ended December 31,
+2024 2023 2022
+(in millions)
+Argentina
+$ ( 17 ) $ ( 79 ) $ ( 39 )
+T rkiye
+( 15 ) ( 19 ) ( 1 )
+Total losses
+$ ( 32 ) $ ( 98 ) $ ( 40 )
+(1) Remeasurement gains for Egypt and Nigeria were not material in 2024.
+Cash, Cash Equivalents and Restricted Cash
+Cash and cash equivalents include demand deposits with financial institutions and all highly liquid investments with original maturities of three months or less. Restricted cash primarily includes cash held on behalf of financial institutions in accordance with accounts receivable factoring arrangements and letters of credit arrangements with legally restricted cash collateral provisions. Restricted cash is recorded within other current assets and was $ 49 million as of December 31, 2024 and $ 74 million as of December 31, 2023. Total cash, cash equivalents and restricted cash was $ 1,400 million as of December 31, 2024 and $ 1,884 million as of December 31, 2023.
+Allowances for Credit Losses
+Allowances for credit losses are recorded against our receivables. They are developed at a country and region level based on historical collection experiences, current economic condition of specific customers and the forecasted economic condition of countries using various factors such as bond default rates and consumption indexes. We write off receivables once it is determined that the receivables are no longer collectible and as allowed by local laws.
+Changes in allowances for credit losses consisted of:
+Allowance for Trade Receivables Allowance for Other Current Receivables Allowance for Long-Term Receivables
+(in millions)
+Balance at January 1, 2023 $ ( 45 ) $ ( 59 ) $ ( 14 )
+Net (provision)/recovery for expected credit losses
+( 24 ) 4 1
+Write-offs charged against the allowance 8 1 —
+Recoveries of amounts previously written off ( 1 ) — ( 1 )
+Currency ( 4 ) 4 ( 1 )
+Balance at December 31, 2023 ( 66 ) ( 50 ) ( 15 )
+Net recovery/(provision) for expected credit losses
+14 9 ( 2 )
+Write-offs charged against the allowance 3 1 5
+Currency 12 3 ( 4 )
+Balance at December 31, 2024 $ ( 37 ) $ ( 37 ) $ ( 16 )
+Transfers of Financial Assets
+We account for transfers of financial assets, such as uncommitted revolving non-recourse accounts receivable factoring arrangements, when we have surrendered control over the related assets. We use receivable factoring arrangements periodically when circumstances are favorable to manage liquidity. We have nonrecourse factoring arrangements in which we sell eligible trade receivables primarily to financial institutions in exchange for cash. We may continue to collect the receivables sold, acting solely as a collecting agent on behalf of the financial institutions. The outstanding principal amount of receivables under these arrangements amounted to $ 159 million as of December 31, 2024, $ 262 million as of December 31, 2023 and $ 516 million as of December 31, 2022. The
+74
+Table of Contents
+incremental costs of factoring receivables under these arrangements were not material for all periods presented. The proceeds from the sales of receivables are included in cash from operating activities in the consolidated statements of cash flows.
+Inventories
+We record our inventory using the average cost method and record inventory reserves for excess and obsolete inventory.
+Long-Lived Assets
+Property, plant and equipment are stated at historical cost and depreciated by the straight-line method over the estimated useful lives of the assets with the expense recorded in cost of sales or selling, general and administrative expenses depending on the nature of the long-lived assets. Machinery and equipment are depreciated over periods ranging from 3 to 20 years and buildings and building improvements over periods up to 40 years.
+We review long-lived assets, including definite-life intangible assets, for realizability on an ongoing basis. Changes in depreciation, generally accelerated depreciation, are determined and recorded when estimates of the remaining useful lives or residual values of long-term assets change. We amortize definite-life intangible assets over their estimated useful lives and evaluate them for impairment as we do other long-lived assets. We review for impairment when conditions exist that indicate the carrying amount of the assets may not be fully recoverable. In those circumstances, we perform undiscounted operating cash flow analyses for asset groups at the lowest level for which cash flows are separately identifiable to determine if an impairment exists. Any impairment loss is calculated as the excess of the asset's carrying value over its estimated fair value. Fair value is estimated based on the discounted cash flows for the asset group over the remaining useful life or based on the expected cash proceeds for the asset less costs of disposal.
+Leases
+We determine whether a contract is or contains a lease at contract inception. For short-term operating leases with terms of 12 months or less, we do not recognize right-of-use ("ROU") assets and lease liabilities. ROU assets are recognized at commencement date at the value of the lease liability, adjusted for any prepayments, lease incentives received and initial direct costs incurred. Lease liabilities are recognized at commencement date based on the present value of remaining lease payments over the lease term. The non-recurring fair value measurement is classified as Level 3 as no fair value inputs are observable. As the implicit interest rate in the lease is not readily determinable, we use our country-specific incremental borrowing rate to discount the lease liabilities.
+Our leases may include options to extend or terminate the lease, which are included in the lease term when it is reasonably certain that we will exercise that option. Our lease agreements do not contain any material residual value guarantees or material restrictive covenants. Many of our leases contain non-lease components (e.g., product costs, common-area or other maintenance costs) that relate to the lease components of the agreement. We account for lease and non-lease components as a single lease component.
+Amortization of ROU lease assets is calculated over the lease term with the expense recorded in cost of sales or selling, general and administrative expenses depending on the nature of the leased item. Interest expense is recorded over the lease term and is recorded in interest expense (based on a front-loaded interest expense pattern) for finance leases and is recorded in cost of sales or selling, general and administrative expenses for operating leases. Variable lease payments, which are primarily comprised of product costs, insurance and tax payments based on usage or output, are recognized when the expense is incurred. Finance lease ROU assets are presented in property, plant and equipment and the related finance lease liabilities are presented in the current portion of long-term debt and long-term debt.
+Internal Use Software Costs
+We capitalize certain computer software and software development costs incurred in connection with developing or obtaining computer software for internal use. Capitalized software costs are included in property, plant and equipment and amortized on a straight-line basis over the estimated useful lives of the software, which do not exceed seven years .
+Cloud Computing Arrangements
+We capitalize certain implementation costs of cloud computing arrangements during the application-development stage, consistent with the capitalization criteria used for internal use software. Capitalized costs are recorded to other assets on the consolidated balance sheets and within net cash provided by operating activities on the
+75
+Table of Contents
+consolidated statement of cash flows. Capitalized cloud computing arrangement implementation costs are amortized using the straight-line method over the remaining term of the contract.
+Goodwill and Indefinite-Life Intangible Assets
+We test goodwill and indefinite-life intangible assets for impairment on an annual basis on July 1. We assess goodwill impairment risk throughout the year by performing a qualitative review of entity-specific, industry, market and general economic factors affecting our goodwill reporting units. Annually, we may perform qualitative testing, or depending on factors such as prior year test results, current year developments, current risk evaluations and other practical considerations, we may elect to do quantitative testing instead. In our quantitative testing, we compare a reporting unit's estimated fair value with its carrying value. We estimate a reporting unit's fair value using a discounted cash flow method that incorporates planned growth rates, market-based discount rates and estimates of residual value. If the carrying value of a reporting unit's net assets exceeds its fair value, we would recognize an impairment charge for the amount by which the carrying value exceeds the reporting unit's fair value.
+Annually, we assess indefinite-life intangible assets for impairment by performing a qualitative review and assessing events and circumstances that could affect the fair value or carrying value of these intangible assets. If potential impairment risk exists for a specific asset, we quantitatively test it for impairment by comparing its estimated fair value with its carrying value. During our annual testing, we use several accepted valuation methods, including relief from royalty, excess earnings and excess margin, that utilize estimates of future sales, earnings growth rates, royalty rates and discount rates in determining a brand's global fair value. If the carrying value of the asset exceeds its fair value, we consider the asset impaired and reduce its carrying value to the estimated fair value.
+Business Combinations
+The assets acquired and liabilities assumed upon the acquisition or consolidation of a business are recorded at fair value, with the residual of the purchase price allocated to goodwill. During the measurement period, which may be up to one year from the acquisition date, we may record adjustments to assets acquired and liabilities assumed with the corresponding offset to goodwill. The results of operations of an acquired business are included in our operating results from the date of acquisition.
+Further, certain of our acquisitions may include earn-out provisions or other forms of contingent consideration. As of the acquisition date, we record contingent consideration, as applicable, at the estimated fair value of expected future payments associated with the earn-out. Any changes to the recorded fair value of contingent consideration will be recognized as expenses or earnings in the period in which they occur.
+Legal costs, due diligence costs, business valuation costs and all other business acquisition costs are expensed when incurred.
+Equity Method Investments
+Equity method investments consist of our investments in entities in which we maintain an equity ownership interest and apply the equity method of accounting due to our ability to exert significant influence over decisions relating to their operating and financial affairs. Revenue and expenses of our equity method investees are not consolidated into our financial statements; rather, our proportionate share of the earnings of each investee is reflected as equity method investment net earnings. The carrying values of our equity method investments are also impacted by our proportionate share of items impacting the investee's accumulated other comprehensive income or losses and other items, such as our share of investee dividends.
+Insurance and Self-Insurance
+We use a combination of insurance and self-insurance for a number of risks, including workers' compensation, general liability, automobile liability, product liability and our obligation for employee healthcare benefits. We estimate the liabilities associated with these risks on an undiscounted basis by evaluating and making judgments about historical claims experience and other actuarial assumptions and the estimated impact on future results.
+Revenue Recognition
+We recognize revenue when control over the products transfers to our customers, which generally occurs upon delivery or shipment of the products. We account for product shipping, handling and insurance as fulfillment activities with revenues for these activities recorded within net revenue and costs recorded within cost of sales. Any taxes collected on behalf of government authorities are excluded from net revenues.
+76
+Table of Contents
+Revenues are recorded net of trade and sales incentives and estimated product returns. Known or expected pricing or revenue adjustments, such as trade discounts, rebates or returns, are estimated at the time of sale. We base these estimates of expected amounts principally on historical utilization and redemption rates. Estimates that affect revenue, such as trade incentives and product returns, are monitored and adjusted each period until the incentives or product returns are realized.
+Key sales terms, such as pricing and quantities ordered, are established on a frequent basis such that most customer arrangements and related incentives have a one year or shorter duration. As such, we do not capitalize contract inception costs and we capitalize product fulfillment costs. Deferred revenues are not material and primarily include customer advance payments typically collected a few days before product delivery, at which time deferred revenues are reclassified and recorded as net revenues. We generally do not receive non-cash consideration for the sale of goods nor do we grant payment financing terms greater than one year.
+Marketing, Advertising and Research and Development
+We promote our products with marketing and advertising programs. These programs include, but are not limited to, cooperative advertising, in-store displays and consumer marketing promotions. For interim reporting purposes, advertising, consumer promotion and marketing research expenses are charged to operations as a percentage of volume, based on estimated sales volume and estimated program spending. We do not defer costs on our year-end consolidated balance sheets and all marketing and advertising costs are recorded as an expense in the year incurred. Advertising expense was $ 2,112 million in 2024, $ 2,057 million in 2023 and $ 1,670 million in 2022. We expense product research and development costs as incurred. Research and development expense was $ 400 million in 2024, $ 380 million in 2023 and $ 346 million in 2022. We record marketing and advertising as well as research and development expenses within selling, general and administrative expenses.
+Stock-based Compensation
+We maintain a share-based compensation plan, which authorizes the granting of various equity-based incentives, including stock options (including stock appreciation rights), deferred stock units (DSUs) and performance share units (PSUs). Stock compensation expense is amortized to expense over the vesting period, generally three years .
+Stock options are granted with an exercise price equal to the closing market price of our Common Stock on the grant date. Substantially all of the options become exercisable in three annual installments beginning a year from the grant date and generally expire 10 years from the grant date. We use the Black-Scholes Model to measure the fair value of stock options granted to employees. The expected life of the options represents the period of time the options are expected to be outstanding and is based on historical trends. Expected stock price volatility is based on the implied and historical volatility of the Company's stock. The expected dividend yield is based on the Company's most recent annual dividend rate. The risk-free interest rate is based on the U.S. Treasury yield curve in effect at the time of grant with a term equal to the expected life.
+DSUs are typically granted to selected management employees on an annual basis and vest over three years . Dividend equivalents are paid during the vesting period for DSUs granted prior to February 27, 2024. For DSUs granted on or after February 27, 2024, dividend equivalents accumulated over the vesting period are paid after vesting. The fair value of our DSUs and other stock-based awards is measured at the market price of our Common Stock on the grant date.
+PSUs vest based on varying performance, market and service conditions. Dividend equivalents accumulated over the vesting period are paid after vesting. The grant date fair value of PSUs is determined based on the Monte Carlo simulation model for the market-based component and the market price of our Common Stock on the grant date for performance-based components. The final award may equal 0 - 200 percent of the target grant, based on the achievement of the performance and market-based components .
+Forfeitures are estimated on the grant date for all of our stock-based compensation awards.
+Employee Benefit Plans
+We provide a range of benefits to our current and retired employees including pension benefits, defined contribution plan benefits, postretirement health care benefits and postemployment primarily severance-related benefits depending upon local statutory requirements, employee tenure and service requirements as well as other factors. The cost for these plans is recognized in earnings primarily over the working life of the covered employee.
+77
+Table of Contents
+Financial Instruments
+We use financial instruments to manage our currency exchange rate, commodity price and interest rate risks. We monitor and manage these exposures as part of our overall risk management program, which focuses on the unpredictability of financial markets and seeks to reduce the potentially adverse effects that the volatility of these markets may have on our operating results. A principal objective of our risk management strategies is to reduce significant, unanticipated earnings fluctuations that may arise from volatility in currency exchange rates, commodity prices and interest rates.
+When we use derivatives, we are exposed to credit and market risks. We reduce our credit risk by entering into transactions with counterparties with high quality, investment grade credit ratings, limiting the amount of exposure with each counterparty and monitoring the financial condition of our counterparties. We also maintain a policy of requiring that all significant, non-exchange traded derivative contracts with a duration of one year or longer are governed by an International Swaps and Derivatives Association master agreement. We manage derivative market risk by limiting the types of derivative instruments, derivative strategies we use and the degree of market risk that we plan to hedge through the use of derivative instruments.
+We record derivative financial instruments on a gross basis in our consolidated balance sheets. The fair value of our instruments are recorded within other current assets, other assets, other current liabilities and other liabilities in our consolidated balance sheets.
+Mark-to-market gains or losses related to our economic hedges are separately presented in the consolidated statements of cash flows within operating activities. Cash flows related to the settlement of derivative instruments designated as hedges of net investments in non-U.S. operations are classified in the consolidated statements of cash flows within investing activities. Cash flows related to derivative instruments that are designated or settled economic hedges are classified in the same line item as the cash flows of the related hedged item. Cash flows related to the settlement of all other free-standing derivative instruments are classified within investing activities.
+Commodity derivatives . We are exposed to price risk related to forecasted purchases of certain commodities that we primarily use as raw materials. We enter into commodity forward, futures, option and swap contracts. Commodity forward contracts generally are not subject to the accounting requirements for derivative instruments and hedging activities under the normal purchases exception. We sell commodity futures to hedge future purchase commitments. We occasionally use related futures to cross-hedge a commodity exposure. We are not a party to leveraged derivatives and do not use financial instruments for speculative purposes. Any mark-to-market gains or losses are recorded in earnings (see Note 10, Financial Instruments , for additional information).
+Currency exchange derivatives . We enter into currency exchange forward, futures, option and swap contracts to mitigate our exposure to changes in exchange rates from third-party and intercompany current and forecasted transactions. Any mark-to-market gains or losses are recorded in earnings (see Note 10, Financial Instruments , for additional information).
+Interest rate cash flow hedges . We manage interest rate volatility by modifying the pricing or maturity characteristics of certain liabilities so that the net impact on expense is not, on a material basis, adversely affected by movements in interest rates. We use derivative instruments, including interest rate swaps that have indices related to the pricing of specific liabilities as part of our interest rate risk management strategy. We use cross-currency interest rate swaps to hedge interest payments on newly issued debt denominated in a different currency than the functional currency of the borrowing entity. Substantially all of these derivative instruments are highly effective and qualify for hedge accounting treatment. Changes in the fair value of derivatives that are designated as a cash flow hedge, to the extent the hedge is effective, are recorded in accumulated other comprehensive earnings/(losses), net of deferred taxes, and reclassified to earnings when the hedged item affects earnings (see Note 10, Financial Instruments , for additional information).
+Hedges of net investments in non-U.S. operations . We have numerous investments outside the United States. The net assets of these subsidiaries are exposed to changes and volatility in currency exchange rates. We use local currency denominated debt to hedge our non-U.S. net investments against adverse movements in exchange rates. We may designate non-U.S. dollar-denominated borrowings in the U.S. as a net investment hedge of a portion of our overall non-U.S. operations. The gains and losses on our net investment in these designated non-U.S. operations are economically offset by losses and gains designated dollar-denominated borrowings. The revaluation of designated borrowings, net of deferred taxes, is recorded within currency translation adjustment in accumulated other comprehensive earnings/(losses) (see Note 10, Financial Instruments , for additional information).
+78
+Table of Contents
+We use derivatives instruments to hedge certain investments in our non-U.S. operations against movements in exchange rates. These instruments may include cross-currency interest rate swaps, forwards and options. The after-tax gain/(loss) on these net investment hedge contracts, net of deferred taxes, is recorded within cumulative translation adjustment in accumulated other comprehensive earnings/(losses) (see Note 10, Financial Instruments , for additional information).
+Income Taxes
+Our provision for income taxes includes amounts payable or refundable for the current year, the effects of deferred taxes and impacts from uncertain tax positions. We recognize deferred tax assets and liabilities for the expected future tax consequences of temporary differences between the financial statement and tax basis of our assets and liabilities, operating loss carryforwards and tax credit carryforwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply in the years in which those differences are expected to reverse.
+The realization of certain deferred tax assets is dependent on generating sufficient taxable income in the appropriate jurisdiction prior to the expiration of the carryforward periods. Deferred tax assets are reduced by a valuation allowance if it is more likely than not that some portion, or all, of the deferred tax assets will not be realized. When assessing the need for a valuation allowance, we consider any carryback potential, future reversals of existing taxable temporary differences (including liabilities for unrecognized tax benefits), future taxable income and tax planning strategies.
+We recognize tax benefits in our financial statements from uncertain tax positions only if it is more likely than not that the tax position will be sustained based on the technical merits of the position. The amount we recognize is measured as the largest amount of benefit that is greater than 50 percent likely of being realized upon resolution. Future changes related to the expected resolution of uncertain tax positions could affect tax expense in the period when the change occurs.
+We monitor for changes in tax laws and reflect the impacts of tax law changes in the period of enactment. When there is refinement to tax law changes in subsequent periods, we account for the new guidance in the period when it becomes known.
+Supply Chain Financing
+As part of our continued efforts to improve our working capital efficiency, we have worked with our suppliers over the past several years to optimize our terms and conditions, which include the extension of payment terms. Our current payment terms with a majority of our suppliers are from 30 to 180 days, which we deem to be commercially reasonable. We also facilitate voluntary supply chain financing ("SCF") programs through several participating financial institutions. Under these programs, our suppliers, at their sole discretion, determine invoices that they want to sell to participating financial institutions. Our suppliers' voluntary inclusion of invoices in SCF programs has no bearing on our payment terms or amounts due. Our responsibility is limited to making payments based upon the agreed-upon contractual terms. No guarantees are provided by the Company or any of our subsidiaries under the SCF programs and we have no economic interest in the suppliers' decision to participate in the SCF programs. Amounts due to our suppliers that elected to participate in the SCF program are included in accounts payable in our consolidated balance sheets.
+The roll-forward of our outstanding obligations confirmed as valid under our SCF program are as follows:
+For the Year Ended December 31,
+2024
+(in millions)
+Confirmed obligations outstanding at the beginning of the year
+$ 2,387
+New invoices confirmed during the year 10,378
+Confirmed invoices paid during the year ( 9,133 )
+Currency ( 123 )
+Confirmed obligations outstanding at the end of the year
+$ 3,509
+79
+Table of Contents
+New Accounting Pronouncements
+In September 2022, the FASB issued an ASU which enhances the transparency of supplier finance programs by requiring additional disclosure about the key terms of these programs and a roll-forward of the related obligations to understand the effects of these programs on working capital, liquidity and cash flows. The ASU is effective for fiscal years beginning after December 15, 2022, except for the roll-forward requirement, which is effective for fiscal years beginning after December 15, 2023. Early adoption is permitted. We adopted, with the exception of the roll-forward requirement in the first quarter of 2023 and the subsequent roll-forward requirement on a prospective basis in the fourth quarter of 2024. This adoption did not have a material impact on our consolidated financial statements and related disclosures.
+In November 2023, the FASB issued an ASU which improves reportable segment disclosure requirements, primarily through enhanced disclosures about significant segment expenses. The ASU is effective for fiscal years beginning after December 15, 2023 and early adoption is permitted. We adopted this standard, retrospectively to all comparative periods, in the fourth quarter of 2024 and it did not have a material impact on our consolidated financial statements and related segment disclosures.
+In December 2023, the FASB issued an ASU which enhances the transparency of income tax disclosures, primarily related to the rate reconciliation and income taxes paid information. The ASU is effective for fiscal years beginning after December 15, 2024 and early adoption is permitted. We are currently assessing the impact on our consolidated financial statements and related disclosures.
+In November 2024, the FASB issued an ASU which requires incremental disclosures in the notes to the financial statements to disaggregate certain income statement expense line items. The ASU is effective for fiscal years beginning after December 15, 2026 and early adoption is permitted. We are currently assessing the impact on our consolidated financial statements and related disclosures.
+80
+Table of Contents
+Note 2. Acquisitions and Divestitures
+Acquisitions
+Evirth
+On November 1, 2024, we acquired Evirth (Shanghai) Industrial Co., Ltd. ("Evirth"), a leading manufacturer of cakes and pastries in China. The acquisition will continue to expand our growth in the cakes and pastries categories. The cash consideration paid for Evirth totaled 1.7 billion ($ 240 million), net of cash received.
+We are working to complete the valuation of assets acquired and liabilities assumed and have recorded a preliminary purchase price allocation as of December 31, 2024.
+Within definite-lived intangible assets, we allocated $ 117 million to customer relationships which have an estimated useful life of 17 years. The fair value of customer relationships at the acquisition date was determined using the multi-period excess earnings method under the income approach. The fair value measurements are based on significant unobservable inputs, and thus represent Level 3 inputs. Significant assumptions used in assessing the fair values of the intangible assets include discounted cash flows, customer attrition rates and discount rates.
+Goodwill of $ 122 million was determined as the excess of the purchase price over the fair value of the net assets acquired and arises principally as a result of expansion opportunities and synergies across China. None of the goodwill recognized will be deductible for income tax purposes. All of the goodwill was assigned to the AMEA operating segment. For further detail, refer to Note 6. Goodwill and Intangible Assets.
+We incurred acquisition integration and contingent consideration adjustment costs of $ 8 million, acquisition-related costs of $ 3 million and an inventory step-up charge of $ 3 million in 2024.
+Ricolino
+On November 1, 2022, we acquired 100 % of the equity of Grupo Bimbo's confectionery business, Ricolino, located primarily in Mexico. The acquisition of Ricolino builds on our continued prioritization of fast-growing snacking segments in key geographies. The cash consideration paid for Ricolino totaled 26 billion Mexican pesos ($ 1.3 billion), net of cash received.
+We incurred acquisition integration costs of $ 21 million in 2024, $ 50 million in 2023 and $ 11 million in 2022. In 2022, we also incurred an inventory step-up charge of $ 5 million and recorded several items within acquisition-related costs that resulted in income of $ 64 million as realized gains related to hedging contracts associated with acquisition funds more than offset other acquisition transaction costs.
+Clif Bar
+On August 1, 2022, we acquired 100 % of the equity of Clif Bar & Company ("Clif Bar"), a leading U.S. maker of nutritious energy bars with organic ingredients. The acquisition expands our global snack bar business and complements our refrigerated snacking and performance nutrition bar portfolios. The total cash payment of $ 2.9 billion includes purchase price consideration of $ 2.6 billion, net of cash received, and one-time compensation expense of $ 0.3 billion related to the buyout of the non-vested employee stock ownership plan ("ESOP") shares. This compensation expense is considered an acquisition-related cost. We also incurred a contingent consideration liability with an acquisition date fair value of $ 440 million.
+We recorded a net gain in acquisition integration costs and contingent consideration adjustments of $ 393 million in 2024 and incurred acquisition integration costs and contingent consideration adjustments of $ 164 million in 2023 and $ 30 million in 2022. Refer to Note 10, Financial Instruments for additional information on the changes to the contingent consideration liability. We also incurred acquisition-related costs of $ 296 million, primarily related to the buyout of the non-vested ESOP shares, and an inventory step-up charge of $ 20 million in 2022.
+Chipita
+On January 3, 2022, we acquired 100 % of the equity of Chipita Global S.A. ("Chipita"), a leading croissants and baked snacks company in the Central and Eastern European markets. The acquisition of Chipita offers a strategic complement to our existing portfolio and advances our strategy to become the global leader in broader snacking. The cash consideration paid for Chipita totaled 1.2 billion ($ 1.4 billion), net of cash received, plus the assumption of Chipita's debt of 0.4 billion ($ 0.4 billion) for a total purchase price of 1.7 billion ($ 1.8 billion).
+81
+Table of Contents
+We incurred acquisition integration costs of $ 20 million in 2024, $ 17 million in 2023 and $ 90 million in 2022. We incurred acquisition-related costs of $ 22 million in 2022.
+Divestitures
+Developed Market Gum
+On October 1, 2023, we completed the sale of our developed market gum business in the United States, Canada and Europe to Perfetti Van Melle Group, excluding the Portugal business which we retained pending regulatory approval. After obtaining the regulatory approval, we completed the sale of the Portugal business to Perfetti Van Melle Group on October 23, 2023 . We received cash proceeds of $ 1.4 billion. We recorded a pre-tax gain of $ 108 million on the sale. We recorded divestiture-related costs of $ 1 million in 2024, $ 83 million in 2023 and $ 15 million in 2022 .
+This disposition was not considered a strategic shift that would have a major effect on our operations or financial results; therefore, the results of the disposed business were not classified as discontinued operations.
+Note 3. Inventories
+Inventories consisted of the following:
+As of December 31,
+2024 2023
+(in millions)
+Raw materials $ 1,058 $ 973
+Finished product 2,940 2,790
+3,998 3,763
+Inventory reserves ( 171 ) ( 148 )
+Inventories, net $ 3,827 $ 3,615
+Note 4. Property, Plant and Equipment
+Property, plant and equipment consisted of the following:
+As of December 31,
+2024 2023
+(in millions)
+Land and land improvements $ 373 $ 384
+Buildings and building improvements 3,453 3,452
+Machinery and equipment 12,732 12,736
+Construction in progress 1,058 1,118
+17,616 17,690
+Accumulated depreciation ( 8,135 ) ( 7,996 )
+Property, plant and equipment, net $ 9,481 $ 9,694
+Capital expenditures as presented on the statement of cash flow were approximately $ 1.4 billion, $ 1.1 billion and $ 0.9 billion for the years ending December 31, 2024, 2023 and 2022, respectively, and excluded $ 458 million, $ 471 million and $ 324 million, respectively, for accrued capital expenditures not yet paid.
+82
+Table of Contents
+Note 5. Leases
+We have operating and finance leases for manufacturing and distribution facilities, vehicles, equipment and office space. Our leases generally have remaining lease terms of 1 to 15 years, some of which include options to extend the leases for up to 10 years.
+The components of lease costs were as follows:
+For the Years Ended December 31,
+2024 2023 2022
+(in millions)
+Operating lease cost $ 234 $ 223 $ 213
+Finance lease cost:
+Amortization of ROU assets
+144 130 95
+Interest on lease liabilities 18 15 8
+Short-term lease cost 15 12 11
+Variable lease cost 637 766 602
+Sublease income ( 3 ) ( 4 ) ( 4 )
+Total lease cost $ 1,045 $ 1,142 $ 925
+Supplemental cash flow information related to leases was as follows:
+For the Years Ended December 31,
+2024 2023 2022
+(in millions)
+Cash paid for amounts included in the measurement of
+lease liabilities:
+Operating cash flows from operating leases $ ( 228 ) $ ( 222 ) $ ( 212 )
+Operating cash flows from finance leases ( 18 ) ( 15 ) ( 8 )
+Financing cash flows from finance leases ( 139 ) ( 125 ) ( 95 )
+ROU assets obtained in exchange for lease obligations:
+Operating leases $ 272 $ 197 $ 220
+Finance leases 124 163 148
+83
+Table of Contents
+Supplemental balance sheet information related to leases was as follows:
+As of December 31,
+2024 2023
+(in millions)
+Operating Leases
+Operating lease ROU assets, net of amortization
+$ 767 $ 683
+Other current liabilities $ 172 $ 165
+Long-term operating lease liabilities 623 537
+Total operating lease liabilities $ 795 $ 702
+Finance Leases
+Finance leases, net of amortization (within property, plant and equipment) $ 292 $ 325
+Current portion of long-term debt $ 126 $ 122
+Long-term debt 183 214
+Total finance lease liabilities $ 309 $ 336
+Weighted Average Remaining Lease Term
+Operating leases 6.7 6.4
+Finance leases 3.3 3.6
+Weighted Average Discount Rate
+Operating leases 5.5 % 5.1 %
+Finance leases 5.1 % 5.0 %
+Maturities of lease liabilities were as follows:
+As of December 31, 2024
+Operating Leases Finance Leases
+(in millions)
+Year Ending December 31:
+2025 $ 209 $ 138
+2026 161 97
+2027 120 49
+2028 109 25
+2029 82 12
+Thereafter 277 16
+Total future undiscounted lease payments $ 958 $ 337
+less: imputed interest
+( 163 ) ( 28 )
+Total reported lease liability $ 795 $ 309
+84
+Table of Contents
+Note 6. Goodwill and Intangible Assets
+Goodwill
+Changes in goodwill consisted of (in millions):
+Latin America AMEA Europe North America Total
+January 1, 2023 $ 1,421 $ 3,132 $ 8,009 $ 10,888 $ 23,450
+Currency 180 ( 67 ) 341 19 473
+Other (1)
+6 — — ( 33 ) ( 27 )
+Balance at December 31, 2023
+$ 1,607 $ 3,065 $ 8,350 $ 10,874 $ 23,896
+Currency ( 291 ) ( 147 ) ( 508 ) ( 55 ) ( 1,001 )
+Acquisition (2)
+— 122 — — 122
+Balance at December 31, 2024
+$ 1,316 $ 3,040 $ 7,842 $ 10,819 $ 23,017
+(1) Relates to purchase price allocation adjustments for Ricolino and Clif Bar during 2023.
+(2) Relates to purchase price allocation for Evirth during 2024. Refer to Note 2, Acquisitions and Divestitures for more information.
+Intangible Assets
+Intangible assets consisted of the following (in millions):
+As of December 31, 2024 As of December 31, 2023
+Gross carrying amount Accumulated amortization Net carrying amount Gross carrying amount Accumulated amortization Net carrying amount
+Indefinite-life intangible assets (1)
+$ 17,770 $ — $ 17,770 $ 18,669 $ — $ 18,669
+Definite-life intangible assets
+3,306 ( 2,228 ) 1,078 3,322 ( 2,155 ) 1,167
+Total $ 21,076 $ ( 2,228 ) $ 18,848 $ 21,991 $ ( 2,155 ) $ 19,836
+(1) We recorded intangible asset impairments of $ 153 million in 2024 and $ 26 million in 2023 within asset impairment and exit costs .
+Indefinite-life intangible assets consist principally of brand names purchased through our acquisitions of Nabisco Holdings Corp., the global LU biscuit business of Groupe Danone S.A., Cadbury Limited and Clif Bar. Definite-life intangible assets consist primarily of trademarks, customer-related intangibles, process technology, licenses and non-compete agreements.
+Amortization expense for intangible assets was $ 153 million in 2024, $ 151 million in 2023 and $ 132 million in 2022. For the next five years, we estimate annual amortization expense of approximately $ 135 million in 2025, $ 110 million in 2026, $ 90 million in 2027 and $ 85 million in 2028 and 2029 (reflecting December 31, 2024 exchange rates).
+In 2024, 2023 and 2022, there were no goodwill impairments and each of our reporting units had sufficient fair value in excess of its carrying value. While all reporting units passed our annual impairment testing, if planned business performance expectations are not met or specific valuation factors outside of our control, such as discount rates, change significantly, then the estimated fair values of a reporting unit or reporting units might decline and lead to a goodwill impairment in the future.
+In 2024, we recorded $ 153 million of intangible asset impairment charges related to two biscuit brands in the Europe segment, one biscuit brand in the AMEA segment and one candy and one biscuit brand in the Latin America segment. We identified thirteen brands, as part of our annual test, that each had a fair value in excess of book value of 10% or less. The aggregate value of the thirteen brands was $ 2.9 billion as of December 31, 2024. We believe our current plans for each of these brands will allow them to not be impaired, but if plans to grow brand revenue and earnings, and expand margin are not met or specific valuation factors outside of our control, such as discount rates, change significantly, then a brand or brands could become impaired in the future.
+In 2023, we recorded $ 26 million of intangible asset impairment charges related to a chocolate brand in North America and a biscuit brand in Europe. In 2022, we recorded $ 101 million of intangible asset impairment charges related to two biscuit brands in AMEA.
+85
+Table of Contents
+Note 7. Investments
+Equity Method Investments
+Our equity method investments include, but are not limited to, our ownership interests in Dong Suh Foods Corporation and Dong Suh Oil & Fats Co. Ltd. Our ownership interests may change over time due to investee stock-based compensation arrangements, share issuances or other equity-related transactions. As of December 31, 2024, we owned 50.0 % and 49.0 %, respectively, of these companies' outstanding shares.
+On November 29, 2024, we sold our remaining 85.9 million shares in JDE Peet's (Euronext Amsterdam: "JDEP") to JAB Holdings Company. We received 2.2 billion ($ 2.3 billion) of proceeds at a price of 25.10 per share and recorded a gain on equity method investment transactions of 313 million ($ 332 million) during 2024. As a result of this transaction, we have fully exited our investment in the company.
+Our investments accounted for under the equity method of accounting totaled $ 0.6 billion as of December 31, 2024 and $ 3.2 billion as of December 31, 2023. The investment balance as of December 31, 2023 is inclusive of our prior investment in JDEP. We recorded equity earnings and cash dividends of $ 168 million and $ 115 million in 2024, equity earnings and cash dividends of $ 1

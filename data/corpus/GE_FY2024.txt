@@ -1,0 +1,334 @@
+or preparing consolidated financial statements and maintaining accountability for assets. These systems are enhanced by policies and procedures, an organizational structure providing division of responsibilities, careful selection and training of qualified personnel, and a program of internal audits.
+The Company engaged Deloitte and Touche LLP, an independent registered public accounting firm, to audit and render an opinion on the consolidated financial statements and internal control over financial reporting in accordance with the standards of the Public Company Accounting Oversight Board (PCAOB).
+The Board of Directors, through its Audit Committee, which consists entirely of independent directors, meets periodically with management, internal auditors and our independent registered public accounting firm to ensure that each is meeting its responsibilities and to discuss matters concerning internal controls and financial reporting. Deloitte and Touche LLP and the internal auditors each have full and free access to the Audit Committee.
+MANAGEMENT'S ANNUAL REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING. Management is responsible for establishing and maintaining adequate internal control over financial reporting for the Company. With our participation, an evaluation of the effectiveness of our internal control over financial reporting was conducted as of December 31, 2024, based on the framework and criteria established in Internal Control Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+Based on this evaluation, our management has concluded that our internal control over financial reporting was effective as of December 31, 2024.
+Our independent registered public accounting firm has issued an audit report on our internal control over financial reporting. Their report follows.
+/s/ H. Lawrence Culp, Jr. /s/ Rahul Ghai
+H. Lawrence Culp, Jr. Rahul Ghai
+Chairman and Chief Executive Officer Chief Financial Officer
+February 3, 2025
+DISCLOSURE CONTROLS. Under the direction of our Chief Executive Officer and Chief Financial Officer, we evaluated our disclosure controls and procedures and internal control over financial reporting and concluded that our disclosure controls and procedures were effective as of December 31, 2024. There have been no changes in the Company's internal control over financial reporting during the quarter ended December 31, 2024, that have materially affected, or are reasonably likely to materially affect, its internal control over financial reporting.
+34 2024 FORM 10-K
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the shareholders and the Board of Directors of General Electric Company (operating as GE Aerospace)
+Opinion on the Financial Statements
+We have audited the accompanying consolidated statements of financial position of General Electric Company (operating as GE Aerospace) and subsidiaries (the "Company") as of December 31, 2024, and 2023, the related consolidated statements of earnings (loss), comprehensive income (loss), changes in shareholders' equity, and cash flows for each of the three years in the period ended December 31, 2024, and the related notes (collectively referred to as the "financial statements"). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2024, and 2023, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2024, in conformity with accounting principles generally accepted in the United States of America.
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2024, based on criteria established in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission and our report dated February 3, 2025, expressed an unqualified opinion on the Company's internal control over financial reporting.
+Basis for Opinion
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matters
+The critical audit matters communicated below are matters arising from the current-period audit of the financial statements that were communicated or required to be communicated to the audit committee and that (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+Sales of services - Revenue recognition on certain Aerospace long-term service agreements - Refer to Notes 1 and 8 to the financial statements.
+Critical Audit Matter Description
+The Company enters into long-term service agreements with certain customers. These agreements require the Company to provide maintenance services for customer assets over the contract term, which generally range from 10 to 25 years. Revenue for these agreements is recognized using the percentage of completion method, based on costs incurred relative to total estimated costs over the contract term. As part of the revenue recognition process, the Company estimates both customer payments that are expected to be received and costs to perform maintenance services over the contract term. Key assumptions within those estimates that require significant judgment from management include: (a) how the customer will utilize the assets covered over the contract term; (b) the expected timing and extent of future overhaul services; (c) the future cost of materials, labor, and other resources; and (d) forward looking information concerning market conditions.
+Given the complexity involved with evaluating the key estimates, which includes significant judgment necessary to estimate future costs, auditing these assumptions required a high degree of auditor judgment and extensive audit effort, including the involvement of professionals with specialized skills and industry knowledge.
+How the Critical Audit Matter Was Addressed in the Audit
+Our auditing procedures over the key estimates described above related to the amount and timing of revenue recognition of the long-term service agreements included the following, among others:
+We tested the effectiveness of controls over the revenue recognition process for the long-term service agreements, including controls over management's key estimates.
+We evaluated management's risk assessment process through observation of key meetings and processes, including inspection of documentation, addressing contract status and current market conditions including the timely incorporation of changes that affect total estimated costs to complete the contract.
+We evaluated the appropriateness and consistency of management's methods and key assumptions applied in recognizing revenue and developing cost estimates.
+2024 FORM 10-K 35
+We tested management's utilization assumptions for the assets covered over the contract term, which impact the estimated timing and extent of future maintenance and overhaul services by comparing current estimates to historical information and forward-looking market conditions.
+We tested management's process for estimating the timing and amount of costs associated with overhaul and other maintenance events throughout the contract term, including comparing estimates to historical cost experience, performing a retrospective review, performing analytical procedures, and utilized specialists to evaluate statistical models used by the Company to estimate the useful life of certain components of the applicable engine platform.
+Future Policy Benefits - refer to Note 12 to the financial statements
+Critical Audit Matter Description
+The liability for future policy benefits as of December 31, 2024 is measured under ASU 2018-12 "Targeted Improvements to the Accounting for Long Duration Contracts" (LDTI) based on current assumptions applied to the underlying policy cash flows. The liability for future policy benefits includes $24,675 million for long term care policies.
+Significant uncertainties exist in evaluating future cash flow projections, including consideration of a wide range of possible outcomes of future events over the life of the insurance contracts that can extend for long periods of time.
+A key assumption impacting the cash flow projections used in the measurement of such liabilities that is sensitive and more subjective, requiring significant judgment by management, is the rate of change in morbidity.
+Given the significant judgments required by management, auditing the liability for future policy benefits required a high degree of auditor judgment and an increased extent of effort, including the involvement of actuarial specialists.
+How the Critical Audit Matter was Addressed in the Audit
+Our audit procedures, including those performed by our actuarial specialists, included the following, among others:
+We tested the effectiveness of controls related to the determination of the liability for future policy benefits.
+We evaluated judgments applied by management in setting key assumptions by considering actual experience, sensitivity analysis and relevant industry data, when available. We performed retrospective reviews of certain assumptions to evaluate for management bias.
+We tested the underlying data for completeness and accuracy, including historical cash flows that served as a basis for the actuarial estimates.
+We performed policy level testing to assess that management's intended assumptions were used and the model accurately calculated the cash flow projections.
+We validated the levels of aggregation of the liability calculations determined by the Company were in accordance with their policy and performed recalculations on a sample basis to validate the appropriateness of the discount rate assumptions used and tested the application of the net premium ratio used to measure the liability for future policy benefits.
+/s/ DELOITTE & TOUCHE LLP
+Cincinnati, Ohio
+February 3, 2025
+We have served as the Company's auditor since 2020.
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the shareholders and the Board of Directors of General Electric Company (operating as GE Aerospace)
+Opinion on Internal Control over Financial Reporting
+We have audited the internal control over financial reporting of General Electric Company (operating as GE Aerospace) and subsidiaries (the "Company") as of December 31, 2024, based on criteria established in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2024, based on criteria established in Internal Control — Integrated Framework (2013) issued by COSO.
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated financial statements as of and for the year ended December 31, 2024, of the Company and our report dated February 3, 2025, expressed an unqualified opinion on those financial statements.
+Basis for Opinion
+The Company's management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management's Annual Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company's internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+36 2024 FORM 10-K
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+Definition and Limitations of Internal Control over Financial Reporting
+A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/s/ DELOITTE & TOUCHE LLP
+Cincinnati, Ohio
+February 3, 2025
+2024 FORM 10-K 37
+STATEMENT OF EARNINGS (LOSS)
+For the years ended December 31 (In millions; per-share amounts in dollars) 2024 2023 2022
+Sales of equipment $ 10,274 $ 9,318 $ 7,837
+Sales of services 24,847 22,641 18,345
+Insurance revenue (Note 12) 3,581 3,389 2,957
+Total revenue 38,702 35,348 29,139
+Cost of equipment sold 10,341 9,900 8,151
+Cost of services sold 13,967 13,039 10,836
+Selling, general and administrative expenses 4,437 4,045 3,672
+Separation costs 492 692 625
+Research and development 1,286 1,011 808
+Interest and other financial charges 986 1,029 1,339
+Debt extinguishment costs — — 465
+Insurance losses, annuity benefits and other costs (Note 12) 2,429 2,886 2,592
+Goodwill impairments (Note 7) 251 — —
+Non-operating benefit cost (income) ( 842 ) ( 978 ) ( 60 )
+Total costs and expenses 33,346 31,625 28,428
+Other income (loss) (Note 19) 2,264 6,718 811
+Earnings (loss) from continuing operations before income taxes 7,620 10,441 1,522
+Benefit (provision) for income taxes (Note 15) ( 962 ) ( 994 ) ( 169 )
+Earnings (loss) from continuing operations 6,657 9,448 1,353
+Earnings (loss) from discontinued operations, net of taxes (Note 2) ( 91 ) ( 3 ) ( 949 )
+Net earnings (loss) 6,566 9,445 403
+Less net earnings (loss) attributable to noncontrolling interests 11 ( 37 ) 67
+Net earnings (loss) attributable to the Company 6,556 9,482 336
+Preferred stock dividends and other — ( 295 ) ( 289 )
+Net earnings (loss) attributable to common shareholders $ 6,556 $ 9,188 $ 48
+Amounts attributable to common shareholders
+Earnings (loss) from continuing operations $ 6,657 $ 9,448 $ 1,353
+Less net earnings (loss) attributable to noncontrolling interests,
+continuing operations ( 13 ) ( 1 ) 2
+Earnings (loss) from continuing operations attributable to the Company 6,670 9,449 1,350
+Preferred stock dividends and other — ( 295 ) ( 289 )
+Earnings (loss) from continuing operations attributable
+to common shareholders 6,670 9,154 1,061
+Earnings (loss) from discontinued operations attributable
+to common shareholders ( 114 ) 33 ( 1,014 )
+Net earnings (loss) attributable to common shareholders $ 6,556 $ 9,188 $ 48
+Earnings (loss) per share from continuing operations (Note 18)
+Diluted earnings (loss) per share $ 6.09 $ 8.33 $ 0.97
+Basic earnings (loss) per share $ 6.15 $ 8.41 $ 0.97
+Net earnings (loss) per share (Note 18)
+Diluted earnings (loss) per share $ 5.99 $ 8.36 $ 0.05
+Basic earnings (loss) per share $ 6.04 $ 8.44 $ 0.05
+38 2024 FORM 10-K
+STATEMENT OF FINANCIAL POSITION
+December 31 (In millions) 2024 2023
+Cash, cash equivalents and restricted cash $ 13,619 $ 15,204
+Investment securities (Note 3) 982 5,706
+Current receivables (Note 4) 9,327 8,703
+Inventories, including deferred inventory costs (Note 5) 9,763 8,284
+Current contract assets (Note 8) 2,982 2,875
+All other current assets (Note 9) 962 1,244
+Assets of businesses held for sale (Note 2) — 541
+Current assets 37,635 42,556
+Investment securities (Note 3) 37,741 38,000
+Property, plant and equipment net (Note 6) 7,277 7,246
+Goodwill (Note 7) 8,538 8,948
+Other intangible assets net (Note 7) 4,257 4,642
+Contract and other deferred assets (Note 8) 4,831 4,785
+All other assets (Note 9) 13,910 11,695
+Deferred income taxes (Note 15) 7,111 7,502
+Assets of discontinued operations (Note 2)
+1,841 47,927
+Total assets
+$ 123,140 $ 173,300
+Short-term borrowings (Note 10) $ 2,039 $ 1,108
+Accounts payable (Note 11) 7,909 7,516
+Progress collections (Note 8) 6,695 6,177
+Contract liabilities and deferred income (Note 8) 9,353 8,322
+Sales discounts and allowances (Note 14) 3,475 3,741
+All other current liabilities (Note 14) 4,920 4,860
+Liabilities of businesses held for sale (Note 2) — 378
+Current liabilities 34,392 32,103
+Deferred income (Note 8) 1,013 975
+Long-term borrowings (Note 10) 17,234 19,417
+Insurance liabilities and annuity benefits (Note 12) 36,209 39,576
+Non-current compensation and benefits 7,035 7,656
+All other liabilities (Note 14) 6,376 5,756
+Liabilities of discontinued operations (Note 2)
+1,317 39,213
+Total liabilities
+103,576 144,695
+Common stock ( 1,073,692,183 and 1,088,415,995 shares outstanding
+at December 31, 2024 and 2023, respectively) (Note 16)
+15 15
+Accumulated other comprehensive income (loss) net attributable to the Company (Note 16) ( 3,861 ) ( 6,150 )
+Other capital
+24,266 26,962
+Retained earnings
+80,488 86,553
+Less common stock held in treasury
+( 81,566 ) ( 79,976 )
+Total shareholders' equity 19,342 27,403
+Noncontrolling interests 223 1,202
+Total equity 19,564 28,605
+Total liabilities and equity
+$ 123,140 $ 173,300
+2024 FORM 10-K 39
+STATEMENT OF CASH FLOWS
+For the years ended December 31 (In millions) 2024 2023 2022
+Net earnings (loss) $ 6,566 $ 9,445 $ 403
+(Earnings) loss from discontinued operations activities 91 3 949
+Adjustments to reconcile net earnings (loss) to cash from (used for) operating activities:
+Depreciation and amortization of property, plant and equipment 834 797 846
+Amortization of intangible assets (Note 7) 350 382 338
+Goodwill impairments (Note 7) 251 — —
+(Gains) losses on equity securities (Note 19) ( 719 ) ( 5,846 ) 56
+Debt extinguishment costs — — 465
+Principal pension plans (benefit) cost (Note 13) ( 653 ) ( 755 ) 305
+Principal pension plans employer contributions ( 210 ) ( 184 ) ( 173 )
+Other postretirement benefit plans (net) ( 299 ) ( 348 ) ( 332 )
+Provision (benefit) for income taxes (Note 15) 962 994 169
+Cash recovered (paid) during the year for income taxes ( 334 ) ( 1,041 ) ( 547 )
+Changes in operating working capital:
+Decrease (increase) in current receivables ( 1,076 ) ( 210 ) ( 1,875 )
+Decrease (increase) in inventories, including deferred inventory costs ( 1,528 ) ( 1,321 ) ( 980 )
+Decrease (increase) in current contract assets ( 112 ) ( 27 ) 36
+Increase (decrease) in contract liabilities and current deferred income 1,066 1,226 1,075
+Increase (decrease) in progress collections 531 242 1,187
+Increase (decrease) in accounts payable
+688 713 1,639
+Increase (decrease) in sales discounts and allowances ( 266 ) ( 203 ) 47
+All other operating activities ( 326 ) 743 418
+Cash from (used for) operating activities continuing operations 5,817 4,609 4,027
+Cash from (used for) operating activities discontinued operations ( 1,107 ) 580 1,889
+Cash from (used for) operating activities 4,710 5,189 5,917
+Additions to property, plant and equipment and internal-use software
+( 1,032 ) ( 862 ) ( 662 )
+Dispositions of property, plant and equipment 114 60 153
+Proceeds from principal business dispositions 499 — 15
+Net cash from (payments for) principal businesses purchased ( 135 ) ( 41 ) ( 30 )
+Sales of retained ownership interests 5,250 9,004 4,717
+Net (purchases) dispositions of insurance investment securities ( 963 ) ( 986 ) ( 876 )
+All other investing activities ( 4,289 ) 519 7,053
+Cash from (used for) investing activities continuing operations ( 556 ) 7,693 10,369
+Cash from (used for) investing activities discontinued operations ( 1,110 ) ( 3,726 ) ( 8,099 )
+Cash from (used for) investing activities ( 1,666 ) 3,967 2,270
+Net increase (decrease) in borrowings (maturities of 90 days or less) 2 ( 71 ) 42
+Newly issued debt (maturities longer than 90 days) — — —
+Repayments and other debt reductions (maturities longer than 90 days) ( 788 ) ( 3,282 ) ( 11,088 )
+Dividends paid to shareholders ( 1,008 ) ( 589 ) ( 639 )
+Cash received (paid) for debt extinguishment costs — — 338
+Redemption of preferred stock — ( 5,795 ) ( 144 )
+Purchases of common stock for treasury ( 5,827 ) ( 1,233 ) ( 1,048 )
+All other financing activities 992 459 ( 1,000 )
+Cash from (used for) financing activities continuing operations ( 6,628 ) ( 10,511 ) ( 13,540 )
+Cash from (used for) financing activities discontinued operations ( 98 ) 1,899 7,955
+Cash from (used for) financing activities ( 6,726 ) ( 8,613 ) ( 5,585 )
+Effect of currency exchange rate changes on cash, cash equivalents and restricted cash ( 193 ) 120 ( 369 )
+Increase (decrease) in cash, cash equivalents and restricted cash ( 3,875 ) 664 2,232
+Cash, cash equivalents and restricted cash at beginning of year 19,755 19,092 16,859
+Cash, cash equivalents and restricted cash at December 31
+15,880 19,755 19,092
+Less cash, cash equivalents and restricted cash of discontinued operations at December 31
+( 1,327 ) ( 3,762 ) ( 4,868 )
+Cash, cash equivalents and restricted cash of continuing operations at December 31
+$ 14,553 $ 15,993 $ 14,223
+Supplemental disclosure of cash flows information
+Cash paid during the year for interest $ ( 969 ) $ ( 1,067 ) $ ( 1,561 )
+40 2024 FORM 10-K
+STATEMENT OF COMPREHENSIVE INCOME (LOSS)
+For the years ended December 31 (In millions) 2024 2023 2022
+Net earnings (loss) $ 6,566 $ 9,445 $ 403
+Less: net earnings (loss) attributable to noncontrolling interests 11 ( 37 ) 67
+Net earnings (loss) attributable to the Company $ 6,556 $ 9,482 $ 336
+Currency translation adjustments
+2,131 2,274 ( 1,326 )
+Benefit plans
+( 1,128 ) ( 4,747 ) 2,889
+Investment securities and cash flow hedges
+( 1,016 ) 968 ( 7,099 )
+Long-duration insurance contracts 2,284 ( 2,371 ) 8,126
+Less: other comprehensive income (loss) attributable to noncontrolling interests
+( 17 ) 2 1
+Other comprehensive income (loss) attributable to the Company $ 2,289 $ ( 3,878 ) $ 2,589
+Comprehensive income (loss) $ 8,838 $ 5,569 $ 2,993
+Less: comprehensive income (loss) attributable to noncontrolling interests
+( 7 ) ( 35 ) 68
+Comprehensive income (loss) attributable to the Company $ 8,845 $ 5,604 $ 2,925
+STATEMENT OF CHANGES IN SHAREHOLDERS' EQUITY
+For the years ended December 31 (In millions) 2024 2023 2022
+Preferred stock issued $ — $ — $ 6
+Common stock issued $ 15 $ 15 $ 15
+Beginning balance ( 6,150 ) ( 2,272 ) ( 4,860 )
+Currency translation adjustments 2,151 2,270 ( 1,324 )
+Benefit plans ( 1,120 ) ( 4,745 ) 2,886
+Investment securities and cash flow hedges
+( 1,026 ) 968 ( 7,099 )
+Long-duration insurance contracts 2,284 ( 2,371 ) 8,126
+Accumulated other comprehensive income (loss) $ ( 3,861 ) $ ( 6,150 ) $ ( 2,272 )
+Beginning balance 26,962 34,173 34,691
+Gains (losses) on treasury stock dispositions ( 3,028 ) ( 1,845 ) ( 741 )
+Stock-based compensation 361 355 362
+Other changes(a) ( 29 ) ( 5,721 ) ( 139 )
+Other capital $ 24,266 $ 26,962 $ 34,173
+Beginning balance 86,553 83,001 83,229
+Net earnings (loss) attributable to the Company 6,556 9,482 336
+Dividends and other transactions with shareholders(b) ( 12,599 ) ( 5,937 ) ( 642 )
+Other ( 21 ) 6 77
+Retained earnings $ 80,488 $ 86,553 $ 83,001
+Beginning balance ( 79,976 ) ( 81,209 ) ( 81,093 )
+Purchases ( 5,826 ) ( 1,244 ) ( 1,048 )
+Dispositions 4,236 2,477 931
+Common stock held in treasury $ ( 81,566 ) $ ( 79,976 ) $ ( 81,209 )
+GE Aerospace shareholders' equity balance
+19,342 27,403 33,714
+Noncontrolling interests balance(c) 223 1,202 1,216
+Total equity balance at December 31
+$ 19,564 $ 28,605 $ 34,930
+(a) Included decreases of $ 5,795 million and $ 144 million, substantially all in Other capital related to our redemption of GE preferred stock in the years ended December 31, 2023 and 2022, respectively.
+(b) Included a $ 5,300 million decrease in Retained earnings reflecting a pro-rata distribution of approximately 80.1 % of the shares of GE HealthCare on January 3, 2023. Included a $ 11,375 million decrease in Retained earnings reflecting a distribution of all the shares of GE Vernova on April 2, 2024.
+(c) Included a reclassification of $ 1,007 million of noncontrolling interests attributable to GE Vernova to Retained earnings as a result of the separation on April 2, 2024.
+2024 FORM 10-K 41
+NOTE 1. BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+FINANCIAL STATEMENT PRESENTATION. Our financial statements are prepared in conformity with U.S. generally accepted accounting principles (GAAP), which requires us to make estimates based on assumptions about current, and for some estimates, future, economic and market conditions which affect reported amounts and related disclosures in our financial statements. Although our current estimates contemplate current and expected future conditions, as applicable, it is reasonably possible that actual conditions could differ from our expectations, which could materially affect our results of operations, financial position and cash flows. Such changes could result in future impairments of goodwill, intangibles, long-lived assets, contract assets and investment securities, revisions to estimated profitability on long-term product service agreements, incremental credit losses on receivables and debt securities, incremental losses related to our contingencies, a change in the carrying amount of our tax assets and liabilities, or a change in our insurance liabilities and pension obligations as of the time of a relevant measurement event.
+In preparing our Statement of Cash Flows, we make certain adjustments to reflect cash flows that cannot otherwise be calculated by changes in our Statement of Financial Position. These adjustments may include, but are not limited to, the effects of currency exchange, acquisitions and dispositions of businesses, businesses classified as held for sale, the timing of settlements to suppliers for property, plant and equipment, non-cash gains/losses and other balance sheet reclassifications.
+We have reclassified certain prior-year amounts to conform to the current-year's presentation. Unless otherwise noted, tables are presented in U.S. dollars in millions. Certain columns and rows may not add due to the use of rounded numbers. Percentages presented are calculated from the underlying numbers in millions. Earnings per share amounts are computed independently for earnings from continuing operations, earnings from discontinued operations and net earnings. As a result, the sum of per-share amounts may not equal the total. Unless otherwise indicated, information in these notes to consolidated financial statements relates to continuing operations. Certain of our operations have been presented as discontinued. We present businesses whose disposal represents a strategic shift that has, or will have, a major effect on our operations and financial results as discontinued operations when the components meet the criteria for held for sale, are sold, or spun-off.
+On April 2, 2024 and January 3, 2023, General Electric Company, now operating as GE Aerospace, completed the previously announced separation of GE Vernova and its separation of GE HealthCare, respectively, which resulted in three independent, publicly traded companies GE Aerospace, GE Vernova and GE HealthCare. We are organized into two business segments that are aligned with the industries we serve: Commercial Engines & Services and Defense & Propulsion Technologies. The historical results of GE Vernova and GE HealthCare are presented as discontinued operations and, as such, have been excluded from both continuing operations and segment results for all periods presented. See Notes 2 and 25 for further information.
+CONSOLIDATION. Our financial statements consolidate all of our affiliates, entities where we have a controlling financial interest, most often because we hold a majority voting interest, or where we are required to apply the variable interest entity (VIE) model and we have the power to direct the most economically significant activities of entities. We reevaluate whether we have a controlling financial interest in all entities when our rights and interests change. All intercompany balances and transactions have been eliminated.
+REVENUE FROM THE SALE OF EQUIPMENT. We recognize revenue for equipment including commercial install and spare aircraft engines, defense aircraft engines, and other products we manufacture at the point in time that the customer obtains control of the product, which is generally no earlier than when the customer has physical possession. We use proof of delivery for certain large equipment with more complex logistics, whereas the delivery of other equipment is estimated based on historical averages of in-transit periods (time between shipment and delivery).
+Where arrangements include customer acceptance provisions based on seller or customer-specified objective criteria, we recognize revenue when we have concluded that the customer has control of the equipment, and that acceptance is likely to occur. We do not provide for anticipated losses on point-in-time transactions prior to transferring control of the equipment to the customer.
+Our billing terms for these contracts generally coincide with delivery to the customer. We sometimes offer our customers financing discounts for the purchase of certain equipment when sold in contemplation of long-term service agreements. These sales are accounted for as financing arrangements when payments for the equipment are collected through higher usage-based fees from servicing the equipment. In some contracts, we receive progress collections from customers for large equipment purchases. Progress collections are not considered a significant financing component as they are used to meet working capital demands and protect us from the other party failing to adequately complete some or all of its obligations under the contract. For certain commercial engine programs, we make payments to airlines when the aircraft with our engines are delivered by the airframers (aircraft allowances). We record aircraft allowances as a reduction in revenue when control of the engine is transferred to our airframer customer.
+Some of our contracts require us to make payments to customers related to failure to deliver our equipment on-time or meeting certain performance specifications, which is factored into our estimate of variable consideration using the expected value method taking into consideration performance relative to our contractual obligations, specified liquidated damages rates, if applicable, and history of paying damages to the customer or similar customers.
+REVENUE FROM THE SALE OF SERVICES. Spare Parts. We sell certain tangible products, largely spare parts, through our services businesses. We recognize revenue and bill our customers at the point in time that the customer obtains control of the good, which is when we deliver the spare part to the customer. In some cases, our contracts give rise to variable consideration in the form of volume or product durability discounts, which we incorporate into our estimate of transaction price using the expected value method. Delivery is measured using either proof of delivery or estimated based on historical averages of in-transit periods (time between shipment and delivery).
+42 2024 FORM 10-K
+Long-term Services Agreements. We enter into long-term services agreements with our customers primarily within our Commercial Engines and Services segment. These agreements require us to provide maintenance, overhauls and standby "warranty-type" services, which generally range from 5 to 25 years. We account for items that are integral to the maintenance of the equipment as part of our performance obligation, unless the customer has a substantive right to make a separate purchasing decision.
+We recognize revenue as we perform under the arrangements using the percentage of completion method which is based on our costs incurred to date relative to our estimate of total expected costs. Throughout the life of a contract, this measure of progress captures the nature, timing and extent of our underlying performance activities as our stand-ready services often fluctuate between routine inspections and maintenance, unscheduled service events and major overhauls at predetermined usage intervals. We provide for potential losses on these agreements when it is probable that we will incur the loss.
+Our rights to consideration for these arrangements are generally based on the utilization of the asset (e.g., per hour of usage) and contractual payment terms are based on either periodic billing schedules or upon the occurrence of a maintenance event, such as an overhaul. The differences between the timing of our revenue recognized (based on costs incurred) and customer billings results in changes to our contract asset or contract liability positions. Contract assets and contract liabilities for long-term service agreements are classified as current based on our contract operating cycle and include amounts that may be billed and collected beyond one year due to the long-cycle nature of our contracts. See Note 8 for further information.
+Contracts are often modified to account for changes in contract specifications or requirements. Contract modifications in our long-term service agreements are predominantly accounted for on a prospective basis. Changes in estimates for existing contracts are accounted for on a cumulative catchup basis. See Note 8 for further information.
+Other Services Revenue Contracts. We enter into contracts to perform other services, including time and material service contracts and component repairs, where we enhance the value of a customer asset and the customer pays us on a per event basis. For time and material overhauls, the contract duration and transaction price are limited to the individual maintenance event and we recognize revenue on an over time basis as the services are rendered, in proportion to cost incurred. Labor costs are recognized as incurred and costs of replacement parts are recognized when we can reliably determine that the parts are non-fungible. For component repairs, we recognize revenue when the services are completed.
+Development Agreements. We enter into long-term development agreements primarily within our Defense & Propulsion Technologies segment. The majority of these agreements are with the U.S. Government for the research and design of defense products. Our contracts with the U.S. government are typically subject to the Federal Acquisition Regulation (FAR) and are either fixed-priced or based on estimated or actual costs of providing services. Certain contracts include incentive and award fees, based on achievement of specified targets, which we consider as variable consideration. The amount included in the transaction price represents our estimate of the most likely amount we expect to collect to the extent that it is probable that a significant reversal in the amount of cumulative revenue recognized will not occur. Revenue is recognized on an over time basis because of continuous transfer of control to the customer using percentage of completion based on costs incurred to date relative to total estimated costs. Changes in estimates for existing contracts are accounted for on a cumulative catchup basis.
+NONRECURRING ENGINEERING COSTS . We incur contract fulfillment costs for engineering and development of products directly related to existing contracts with customers, primarily in our Defense & Propulsion Technologies segment. If we determine the costs are for development of products for a specific customer and there is a high probability of recovery from future sales to that customer, we capitalize the costs we incur, excluding early-stage costs which are expensed as research and development. Capitalized nonrecurring engineering costs are included in Contract and other deferred assets in our accompanying Statement of Financial Position and are amortized to Cost of equipment sold ratably over each unit sold. We periodically assess the recoverability of capitalized nonrecurring engineering costs and if we determine the costs are no longer probable of recovery, the asset is impaired. See Note 8 for further information.
+RESEARCH AND DEVELOPMENT. Research and development includes costs incurred for experimentation, design, development and testing, as well as bid and proposal efforts related to government products and services, which are expensed as incurred unless the costs are related to certain contractual arrangements with customers. We enter certain research and development arrangements that meet the requirement for best efforts research and development accounting. Accordingly, the amounts funded by third parties are recognized as an offset to our research and development expense rather than as revenue.
+COLLABORATIVE ARRANGEMENTS. We enter into collaborative arrangements with manufacturers and suppliers of components used to build and maintain certain engines. Under these arrangements, we and our collaborative partners share in the risks and rewards of these programs through various revenue, cost and profit-sharing payment structures. We recognize revenue and costs for these arrangements based on the scope of work we are responsible for transferring to our customers. Our net payments to participants are primarily recorded as either cost of services sold ($ 4,144 million, $ 3,781 million and $ 2,890 million for the years ended December 31, 2024, 2023 and 2022, respectively) or as cost of equipment sold ($ 784 million, $ 663 million and $ 658 million for the years ended December 31, 2024, 2023 and 2022, respectively).
+2024 FORM 10-K 43
+EQUITY METHOD INVESTMENTS. Equity method investments are investments in entities in which we do not have a controlling financial interest, but over which we have significant influence. Significant influence typically exists if we have a 20% to 50% ownership interest in the investee. Equity method investments are assessed for other-than-temporary impairment when events occur, or circumstances change that indicate it is more likely than not the fair value of the asset is below its carrying value. If a decline in the value of an equity method investment is determined to be other than temporary, a loss is recorded in earnings in the current period. Equity method investments are recognized within All other assets in our Statement of Financial Position. Our share of the results of equity method investments is recognized within Other income (loss) in our Statement Earnings (Loss) since the activities of the investee are closely aligned with our operations. See Notes 9 and 26 for further information.
+We enter into related party transactions with certain equity method investments, of which, the most significant are with CFM International, a non-consolidated company jointly owned with Safran Aircraft Engines, a subsidiary of Safran Group of France. We make substantial sales of parts and services to CFM International. Related party transactions with other equity method investees primarily consist of purchases of engine parts or maintenance services, which are not significant with any single related party.
+GOVERNMENT INCENTIVES. We receive grants and incentives from various federal, state, local, and foreign governments in exchange for compliance with certain conditions relating to our activities in a specific jurisdiction which encourage investment, job creation and retention, and environmental objectives including emissions reductions. We recognize government grants as a reduction to the related expense or asset when there is reasonable assurance that the Company will comply with the conditions of the grant, the grant is received or is probable of receipt and the amount is determinable. Government grants resulted in reductions of $ 117 million, $ 99 million and $ 100 million to research and development expense in 2024, 2023 and 2022, respectively.
+CASH, CASH EQUIVALENTS AND RESTRICTED CASH. Cash, cash equivalents and restricted cash include cash on hand, demand deposits and short-term cash investment that are highly liquid in nature and have original maturities of three months or less, including
+debt securities and money market instruments unless classified as available-for-sale investment securities. Restricted cash primarily comprised funds restricted in connection with certain ongoing litigation matters and amounted to an insignificant amount at both December 31, 2024 and 2023, respectively.
+INVESTMENT SECURITIES. We report investments in available-for-sale debt securities and certain equity securities at fair value. Unrealized gains and losses on available-for-sale debt securities are recorded to other comprehensive income, net of applicable taxes. Unrealized gains and losses on equity securities with readily determinable fair values are recorded to earnings.
+Although we generally do not have the intent to sell any specific debt securities in the ordinary course of managing our portfolio, we may sell debt securities prior to their maturities for a variety of reasons, including diversification, credit quality, yield and liquidity requirements and the funding of claims and obligations to policyholders.
+We regularly review investment securities for impairment. For debt securities, if we do not intend to sell the security or it is not more likely than not that we will be required to sell the security before recovery of our amortized cost, we evaluate qualitative criteria, such as the financial health of and specific prospects for the issuer, to determine whether we do not expect to recover the amortized cost basis of the security. We also evaluate quantitative criteria including determining whether there has been an adverse change in expected future cash flows. If we do not expect to recover the entire amortized cost basis of the security, we consider the security to contain an expected credit loss, and we record the difference between the security's amortized cost basis and its recoverable amount in earnings as an allowance for credit loss and the difference between the security's recoverable amount and fair value in other comprehensive income. If we intend to sell the security or it is more likely than not we will be required to sell the security before recovery of its amortized cost basis, the security is considered impaired, and we recognize the entire difference between the security's amortized cost basis and its fair value in earnings. See Note 3 for further information.
+CURRENT RECEIVABLES. Amounts due from customers arising from the sales of equipment and services are recorded at the outstanding amount, less allowance for losses. We regularly monitor the recoverability of our receivables. See Note 4 for further information.
+ALLOWANCE FOR CREDIT LOSSES. When we record customer receivables and contract assets arising from revenue transactions, as well as commercial mortgage loans and reinsurance recoverables in our run-off insurance operations, financial guarantees and certain commitments, we record an allowance for credit losses for the current expected credit losses (CECL) inherent in the asset over its expected life. The allowance for credit losses is a valuation account deducted from the amortized cost basis of the assets to present their net carrying value at the amount expected to be collected. Each period , the allowance for credit losses is adjusted through earnings to reflect expected credit losses over the remaining lives of the assets. We evaluate debt securities with unrealized losses to determine whether any of the losses arise from concerns about the issuer's credit or the underlying collateral and record an allowance for credit losses, if required.
+We estimate expected credit losses based on relevant information about past events, including historical experience, current conditions, and reasonable and supportable forecasts that affect the collectability of the reported amount. When measuring expected credit losses, we pool assets with similar country risk and credit risk characteristics. Changes in the relevant information may significantly affect the estimates of expected credit losses.
+INVENTORIES. All inventories are stated at lower of cost or realizable values. Cost of inventories is primarily determined using the average cost method. See Note 5 for further information.
+44 2024 FORM 10-K
+PROPERTY, PLANT AND EQUIPMENT. The cost of property, plant and equipment is generally depreciated on a straight-line basis over its estimated economic life. See Note 6 for further information.
+LEASE ACCOUNTING FOR LESSEE ARRANGEMENTS. We evaluate whether our contractual arrangements contain leases at the inception of such arrangements. Specifically, we consider whether we can control the underlying asset and have the right to obtain substantially all of the economic benefits or outputs from the asset. At lease commencement, we record a lease liability and corresponding right-of-use (ROU) asset. Options to extend or terminate the lease are included as part of the ROU lease asset and liability when it is reasonably certain the Company will exercise the option. We have elected to include lease and non-lease components in determining our lease liability for all leased assets except our vehicle leases. Non-lease components are generally services that the lessor performs for the Company associated with the leased asset. As most of our leases do not provide an implicit rate, the present value of our lease liability is determined using our incremental collateralized borrowing rate at lease inception. We determine our incremental borrowing rate through market sources including relevant industry rates. For leases with an initial term of 12 months or less, an ROU asset and lease liability is not recognized and lease expense is recognized on a straight-line basis over the lease term. We test ROU assets whenever events or changes in circumstance indicate that the asset may be impaired.
+GOODWILL AND OTHER INTANGIBLE ASSETS. We test goodwill at least annually for impairment at the reporting unit level. When testing goodwill for impairment, the Company may first assess qualitative factors. If an initial qualitative assessment identifies that it is more likely than not that the fair value of a reporting unit is less than its carrying value, additional quantitative testing is performed. The Company may also elect to forego the qualitative assessment and proceed directly to quantitative testing.
+We recognize an impairment charge if the carrying amount of a reporting unit exceeds its fair value. When a portion of a reporting unit is disposed, goodwill is allocated to the gain or loss on disposition based on the relative fair values of the business or businesses disposed and the portion of the reporting unit that will be retained.
+For other intangible assets that are not deemed indefinite-lived, cost is generally amortized on a straight-line basis over the asset's estimated economic life, except for individually significant customer-related intangible assets that are amortized in relation to total related sales. Amortizable intangible assets are reviewed for impairment whenever events or changes in circumstances indicate that the related carrying amounts may not be recoverable. In these circumstances, they are tested for impairment based on undiscounted cash flows and, if impaired, written down to estimated fair value based on either discounted cash flows or appraised values. See Note 7 for further information.
+DERIVATIVES AND HEDGING. We use derivatives to manage a variety of risks, including risks related to interest rates, foreign exchange, certain equity investments and commodity prices. We enter into derivative and other financial instruments with major investment grade financial institutions and have policies to monitor the credit risk of those counterparties. We limit counterparty exposure and concentration of risk by diversifying counterparties. While there can be no assurance, we do not anticipate any material non-performance by any of these counterparties.
+Accounting for derivatives as hedges requires that, at inception and over the term of the arrangement, the hedged item and related derivative meet the requirements for hedge accounting. In evaluating whether a particular relationship qualifies for hedge accounting, we test effectiveness at inception and each reporting period thereafter by determining whether changes in the fair value of the derivative offset, within a specified range, changes in the fair value of the hedged item. If fair value changes fail this test, we discontinue applying hedge accounting to that relationship prospectively. Fair values of both the derivative instrument and the hedged item are calculated using internal valuation models incorporating market-based assumptions, subject to third-party confirmation, as applicable. See Note 22 for further information.
+INCOME TAXES. Provisions for U.S. federal, state and local, and non-U.S. income taxes are calculated on reported earnings before income taxes based on current tax law and also include, in the current period, the cumulative effect of any changes in tax rates from those used previously in determining deferred tax assets and liabilities. Such provisions differ from the amounts currently receivable or payable because certain items of income and expense are recognized in different time periods for financial reporting purposes than for income tax purposes.
+Deferred income tax balances reflect the effects of temporary differences between the carrying amounts of assets and liabilities and their tax bases, as well as from net operating loss and tax credit carryforwards, and are stated at enacted tax rates expected to be in effect when those taxes are paid or recovered. Deferred income tax assets represent amounts available to reduce income taxes payable on taxable income in future years. We evaluate the recoverability of these future tax deductions and credits by assessing the adequacy of future expected taxable income from all sources, including reversal of taxable temporary differences, forecasted operating earnings and available tax planning strategies. To the extent we consider it more likely than not that a deferred tax asset will not be recovered, a valuation allowance is established. Deferred taxes, as needed, are provided for our investment in affiliates and associated companies when we plan to remit those earnings. See Note 15 for further information.
+Significant judgment is required when assessing our income tax positions and determining our tax expense and benefits and management evaluates the positions based on the facts, circumstances, and information available at the reporting date. The tax benefits recognized in the financial statements are based on the largest benefit that has a greater than 50% likelihood of being realized upon ultimate settlement with a taxing authority that has full knowledge of all relevant information. For those income tax positions where it is not more likely than not that a tax benefit will be sustained, no tax benefit has been recognized in the financial statements.
+2024 FORM 10-K 45
+INSURANCE. Our run-off insurance operations include providing insurance and reinsurance for life and health risks and providing certain annuity products. Primary product types include long-term care, structured settlement annuities, life and disability insurance contracts and investment contracts. Insurance contracts are contracts with significant mortality and/or morbidity risks, while investment contracts are contracts without such risks. Insurance revenue is comprised primarily of premiums and investment income. For traditional long-duration insurance contracts, we report premiums as revenue when due. Premiums received on non-traditional long-duration insurance contracts and investment contracts, including annuities without significant mortality risk, are not reported as revenue but rather as deposit liabilities. We recognize revenue for charges and assessments on these contracts, mostly for mortality, administration and surrender. Interest credited to policyholder accounts is charged to expense.
+Future policy benefit reserves represent the present value of future benefits to be paid to or on behalf of policyholders and related expenses less the present value of future net premiums. The liability is measured for each group of contracts (i.e., cohorts) using current cash flow assumptions. As a run-off insurance operation consisting substantially all of reinsurance, contracts are grouped into cohorts by legal entity and product type, based on the date the reinsurance contract was consummated. Future policy benefit reserves are adjusted each period as a result of updating lifetime net premium ratios for differences between actual and expected experience with the retroactive effect of those variances recognized in current period earnings. We review at least annually in the third quarter, future policy benefit reserves cash flow assumptions, except related claim expenses which remain locked-in, and if the review concludes that the assumptions need to be updated, future policy benefit reserves are adjusted retroactively based on the revised net premium ratio using actual historical experience, updated cash flow assumptions, and the locked-in discount rate with the effect of those changes recognized in current period earnings.
+As our insurance operations are in run-off, the locked-in discount rate is used for the computation of interest accretion on future policy benefit reserves recognized in earnings. However, cash flows used to estimate future policy benefit reserves are also discounted using an upper-medium grade (i.e., low credit risk) fixed-income instrument yield reflecting the duration characteristics of the liabilities and is updated each reporting period with changes recorded in Accumulated other comprehensive income (loss) (AOCI). As a result, changes in the current discount rate at each reporting period are recognized as an adjustment to AOCI and not earnings each period, whereas, changes relating to cash flow assumptions are recognized in the Statement of Earnings (Loss).
+Liabilities for investment contracts equal the account value, that is, the amount that accrues to the benefit of the contract or policyholder including credited interest and assessments through the financial statement date. See Note 12 for further information.
+POSTRETIREMENT BENEFIT PLANS. We sponsor a number of pension and retiree health and life insurance benefit plans that we present in three categories, principal pension plans, other pension plans and principal retiree benefit plans. We use a December 31 measurement date for these plans. On our Statement of Financial Position, we measure our plan assets at fair value and the obligations at the present value of the estimated payments to plan participants. Participants earn benefits based on their service and pay. Those estimated future payment amounts are determined based on assumptions. Differences between our actual results and what we assumed are recorded in a separate component of equity each period. These differences are amortized into earnings over the remaining average future service of active employees or the expected life of inactive participants, as applicable, who participate in the plan. See Note 13 for further information.
+LOSS CONTINGENCIES. Loss contingencies are existing conditions, situations or circumstances involving uncertainty as to possible loss that will ultimately be resolved when future events occur or fail to occur. Such contingencies include, but are not limited to environmental obligations, litigation, regulatory investigations and proceedings, product quality and losses resulting from other events and developments. When a loss is considered probable and reasonably estimable, we record a liability in the amount of our best estimate for the ultimate loss. When there appears to be a range of possible costs with equal likelihood, liabilities are based on the low-end of such range. Disclosure is provided for material loss contingencies when a loss is probable but a reasonable estimate cannot be made, and when it is reasonably possible that a loss will be incurred or the amount of a loss will exceed the recorded provision. We regularly review contingencies to determine whether the likelihood of loss has changed and to assess whether a reasonable estimate of the loss or range of loss can be made. See Note 24 for further information.
+SUPPLY CHAIN FINANCE PROGRAMS. We evaluate supply chain finance programs to ensure where we use a third-party intermediary to settle our trade payables, their involvement does not change the nature, existence, amount or timing of our trade payables and does not provide the Company

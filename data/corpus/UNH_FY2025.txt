@@ -1,0 +1,506 @@
+d the underlying claims and membership data and other information that served as the basis for the actuarial analysis, to test that the inputs to the actuarial estimate were complete and accurate.
+With the assistance of actuarial specialists, we evaluated the reasonableness of the actuarial methods and assumptions used by management to estimate IBNR for these services by:
+Performing an overlay of the historical claims data used in management's current year model to the data used in prior periods to validate that there were no material changes to the claims data tested in prior periods.
+Developing an independent estimate of the IBNR for these services and comparing our estimate to management's estimate.
+Performing a retrospective review comparing management's prior year estimate of IBNR to claims processed in 2025 with dates of service in 2024 or prior.
+/ S / DELOITTE & TOUCHE LLP
+Minneapolis, Minnesota
+March 2, 2026
+We have served as the Company's auditor since 2002.
+40
+Table of Contents
+UnitedHealth Group
+Consolidated Balance Sheets
+(in millions, except per share data) December 31,
+2025 December 31,
+2024
+Assets
+Current assets:
+Cash and cash equivalents $ 24,365 $ 25,312
+Short-term investments 3,756 3,801
+Accounts receivable, net of allowances of $ 1,208 and $ 985
+23,018 22,365
+Other current receivables, net of allowances of $ 3,763 and $ 2,864
+29,697 26,089
+Prepaid expenses and other current assets 9,746 8,212
+Total current assets 90,582 85,779
+Long-term investments 54,251 52,354
+Property, equipment and capitalized software, net of accumulated depreciation and amortization of $ 7,546 and $ 6,971
+10,762 10,553
+Goodwill 110,499 106,734
+Other intangible assets, net of accumulated amortization of $ 7,472 and $ 8,350
+20,474 23,268
+Other assets 23,013 19,590
+Total assets $ 309,581 $ 298,278
+Liabilities, redeemable noncontrolling interests and equity
+Current liabilities:
+Medical costs payable $ 39,337 $ 34,224
+Accounts payable and accrued liabilities 38,032 34,337
+Short-term borrowings and current maturities of long-term debt 6,069 4,545
+Unearned revenues 3,413 3,317
+Other current liabilities 28,046 27,346
+Total current liabilities 114,897 103,769
+Long-term debt, less current maturities 72,320 72,359
+Deferred income taxes 2,421 3,620
+Other liabilities 18,245 15,939
+Total liabilities 207,883 195,687
+Commitments and contingencies (Note 12)
+Redeemable noncontrolling interests 1,608 4,323
+Equity:
+Preferred stock, $ 0.001 par value - 10 shares authorized; no shares issued or outstanding
+— —
+Common stock, $ 0.01 par value - 3,000 shares authorized; 906 and 915 issued and outstanding
+9 9
+Additional paid-in capital 559 —
+Retained earnings 95,603 96,036
+Accumulated other comprehensive loss ( 2,061 ) ( 3,387 )
+Nonredeemable noncontrolling interests
+5,980 5,610
+Total equity 100,090 98,268
+Total liabilities, redeemable noncontrolling interests and equity $ 309,581 $ 298,278
+See Notes to the Consolidated Financial Statements
+41
+Table of Contents
+UnitedHealth Group
+Consolidated Statements of Operations
+For the Years Ended December 31,
+(in millions, except per share data) 2025 2024 2023
+Revenues:
+Premiums $ 352,229 $ 308,810 $ 290,827
+Products 53,380 50,226 42,583
+Services 38,038 36,040 34,123
+Investment and other income 3,920 5,202 4,089
+Total revenues 447,567 400,278 371,622
+Operating costs:
+Medical costs 313,995 264,185 241,894
+Operating costs 59,592 53,013 54,628
+Cost of products sold 50,655 46,694 38,770
+Depreciation and amortization 4,361 4,099 3,972
+Total operating costs 428,603 367,991 339,264
+Earnings from operations 18,964 32,287 32,358
+Interest expense ( 4,002 ) ( 3,906 ) ( 3,246 )
+Loss on sale of subsidiary and subsidiaries held for sale ( 265 ) ( 8,310 ) —
+Earnings before income taxes 14,697 20,071 29,112
+Provision for income taxes ( 1,890 ) ( 4,829 ) ( 5,968 )
+Net earnings 12,807 15,242 23,144
+Earnings attributable to noncontrolling interests ( 751 ) ( 837 ) ( 763 )
+Net earnings attributable to UnitedHealth Group common shareholders
+$ 12,056 $ 14,405 $ 22,381
+Earnings per share attributable to UnitedHealth Group common shareholders:
+Basic
+$ 13.28 $ 15.64 $ 24.12
+Diluted
+$ 13.23 $ 15.51 $ 23.86
+Basic weighted-average number of common shares outstanding
+908 921 928
+Dilutive effect of common share equivalents 3 8 10
+Diluted weighted-average number of common shares outstanding
+911 929 938
+Anti-dilutive shares excluded from the calculation of dilutive effect of common share equivalents
+12 6 6
+See Notes to the Consolidated Financial Statements
+42
+Table of Contents
+UnitedHealth Group
+Consolidated Statements of Comprehensive Income
+For the Years Ended December 31,
+(in millions) 2025 2024 2023
+Net earnings $ 12,807 $ 15,242 $ 23,144
+Other comprehensive income:
+Gross unrealized gains on investment securities during the period 1,553 29 1,139
+Income tax effect ( 364 ) ( 7 ) ( 263 )
+Total unrealized gains, net of tax 1,189 22 876
+Gross reclassification adjustment for net realized gains included in net earnings ( 53 ) ( 369 ) ( 90 )
+Income tax effect 12 92 21
+Total reclassification adjustment, net of tax
+( 41 ) ( 277 ) ( 69 )
+Foreign currency translation gains (losses) 178 ( 319 ) 559
+Reclassification adjustment for translation losses included in net earnings — 4,214 —
+Total foreign currency translation gains 178 3,895 559
+Other comprehensive income 1,326 3,640 1,366
+Comprehensive income 14,133 18,882 24,510
+Comprehensive income attributable to noncontrolling interests
+( 751 ) ( 837 ) ( 763 )
+Comprehensive income attributable to UnitedHealth Group common shareholders
+$ 13,382 $ 18,045 $ 23,747
+See Notes to the Consolidated Financial Statements
+43
+Table of Contents
+UnitedHealth Group
+Consolidated Statements of Changes in Equity
+Common Stock Additional Paid-In Capital Retained Earnings Accumulated Other Comprehensive (Loss) Income Nonredeemable
+Noncontrolling
+Interests Total
+Equity
+(in millions, except per share data) Shares Amount Net Unrealized (Losses) Gains on Investments Foreign Currency Translation (Losses) Gains
+Balance at January 1, 2023 934 $ 9 $ — $ 86,156 $ ( 2,778 ) $ ( 5,615 ) $ 3,678 $ 81,450
+Net earnings
+22,381 575 22,956
+Other comprehensive income 807 559 1,366
+Issuances of common stock, and related tax effects
+6 — 1,231 1,231
+Share-based compensation 1,027 1,027
+Common share repurchases
+( 16 ) — ( 2,057 ) ( 6,002 ) ( 8,059 )
+Cash dividends paid on common shares ($ 7.29 per share)
+( 6,761 ) ( 6,761 )
+Redeemable noncontrolling interests fair value and other adjustments ( 201 ) ( 201 )
+Acquisition and other adjustments of nonredeemable noncontrolling interests
+1,928 1,928
+Distributions to nonredeemable noncontrolling interests ( 516 ) ( 516 )
+Balance at December 31, 2023 924 9 — 95,774 ( 1,971 ) ( 5,056 ) 5,665 94,421
+Net earnings
+14,405 663 15,068
+Other comprehensive (loss) income ( 255 ) 3,895 3,640
+Issuances of common stock, and related tax effects
+8 — 1,485 1,485
+Share-based compensation
+963 963
+Common share repurchases ( 17 ) — ( 2,395 ) ( 6,610 ) ( 9,005 )
+Cash dividends paid on common shares ($ 8.18 per share)
+( 7,533 ) ( 7,533 )
+Redeemable noncontrolling interests fair value and other adjustments ( 53 ) ( 53 )
+Acquisition and other adjustments of nonredeemable noncontrolling interests
+26 26
+Distributions to nonredeemable noncontrolling interests ( 744 ) ( 744 )
+Balance at December 31, 2024 915 9 — 96,036 ( 2,226 ) ( 1,161 ) 5,610 98,268
+Net earnings
+12,056 677 12,733
+Other comprehensive income 1,148 178 1,326
+Issuances of common stock, and related tax effects
+3 — 649 649
+Share-based compensation 979 979
+Common share repurchases
+( 12 ) — ( 952 ) ( 4,573 ) ( 5,525 )
+Cash dividends paid on common shares ($ 8.73 per share)
+( 7,916 ) ( 7,916 )
+Redeemable noncontrolling interests fair value and other adjustments
+( 117 ) ( 117 )
+Acquisition and other adjustments of nonredeemable noncontrolling interests
+390 390
+Distributions to nonredeemable noncontrolling interests
+( 697 ) ( 697 )
+Balance at December 31, 2025 906 $ 9 $ 559 $ 95,603 $ ( 1,078 ) $ ( 983 ) $ 5,980 $ 100,090
+See Notes to the Consolidated Financial Statements
+44
+Table of Contents
+UnitedHealth Group
+Consolidated Statements of Cash Flows
+For the Years Ended December 31,
+(in millions) 2025 2024 2023
+Operating activities
+Net earnings $ 12,807 $ 15,242 $ 23,144
+Noncash items:
+Depreciation and amortization 4,361 4,099 3,972
+Deferred income taxes ( 1,752 ) ( 296 ) ( 245 )
+Share-based compensation 971 1,018 1,059
+Loss on sale of subsidiary and subsidiaries held for sale 265 8,310 —
+Net gains on dispositions and other strategic transactions ( 910 ) ( 3,333 ) ( 489 )
+Other, net 1,673 ( 28 ) ( 16 )
+Net change in other operating items, net of effects from acquisitions and dispositions:
+Accounts receivable ( 764 ) ( 1,437 ) ( 3,114 )
+Other assets ( 4,606 ) ( 4,140 ) ( 2,444 )
+Medical costs payable 5,824 2,503 3,482
+Accounts payable and other liabilities 1,665 2,463 3,516
+Unearned revenues 163 ( 197 ) 203
+Cash flows from operating activities 19,697 24,204 29,068
+Investing activities
+Purchases of investments ( 17,373 ) ( 27,308 ) ( 18,314 )
+Sales of investments 9,288 18,514 7,307
+Maturities of investments 8,446 9,319 9,230
+Cash paid for acquisitions and other transactions, net of cash assumed ( 4,509 ) ( 13,408 ) ( 10,136 )
+Purchases of property, equipment and capitalized software ( 3,622 ) ( 3,499 ) ( 3,386 )
+Loans to care providers - cyberattack — ( 9,033 ) —
+Repayments of care provider loans - cyberattack 1,680 4,514 —
+Cash received from dispositions and other strategic transactions, net 561 2,041 685
+Originations and purchases of loans ( 4,795 ) ( 2,477 ) ( 1,664 )
+Repayments and maturities of loans 1,980 908 613
+Other, net ( 341 ) ( 98 ) 91
+Cash flows used for investing activities ( 8,685 ) ( 20,527 ) ( 15,574 )
+Financing activities
+Common share repurchases ( 5,545 ) ( 9,000 ) ( 8,000 )
+Cash dividends paid ( 7,916 ) ( 7,533 ) ( 6,761 )
+Proceeds from common stock issuances 827 1,846 1,353
+Repayments of long-term debt ( 3,050 ) ( 3,000 ) ( 2,125 )
+Proceeds from (repayments of) short-term borrowings, net 807 ( 151 ) 11
+Proceeds from issuance of long-term debt 2,969 17,811 6,394
+Customer funds administered 366 ( 1,560 ) ( 521 )
+Purchases of redeemable noncontrolling interests ( 165 ) ( 280 ) ( 730 )
+Other, net 63 ( 1,645 ) ( 1,150 )
+Cash flows used for financing activities ( 11,644 ) ( 3,512 ) ( 11,529 )
+Effect of exchange rate changes on cash and cash equivalents 40 ( 61 ) 97
+(Decrease) increase in cash and cash equivalents, including cash within businesses held for sale ( 592 ) 104 2,062
+Less: net increase in cash within businesses held for sale ( 355 ) ( 219 ) —
+Net (decrease) increase in cash and cash equivalents ( 947 ) ( 115 ) 2,062
+Cash and cash equivalents, beginning of period 25,312 25,427 23,365
+Cash and cash equivalents, end of period $ 24,365 $ 25,312 $ 25,427
+Supplemental cash flow disclosures
+Cash paid for interest $ 4,030 $ 3,594 $ 3,035
+Cash paid for income taxes 3,714 4,620 6,078
+See Notes to the Consolidated Financial Statements
+45
+Table of Contents
+UnitedHealth Group
+Notes to the Consolidated Financial Statements
+1. Description of Business
+UnitedHealth Group Incorporated (individually and together with its subsidiaries, "UnitedHealth Group" and "the Company") is a health care and well-being company with a mission to help people live healthier lives and help make the health system work better for everyone. The Company's two distinct, yet complementary businesses — Optum and UnitedHealthcare — are working to help build a modern, high-performing health system through improved access, affordability, outcomes and experiences for the individuals and organizations the Company is privileged to serve.
+2. Basis of Presentation, Use of Estimates and Significant Accounting Policies
+Basis of Presentation
+The Company has prepared the Consolidated Financial Statements according to U.S. Generally Accepted Accounting Principles (GAAP) and has included the accounts of UnitedHealth Group and its subsidiaries, including variable interest entities. All significant intercompany accounts and transactions have been eliminated.
+Use of Estimates
+These Consolidated Financial Statements include certain amounts based on the Company's best estimates and judgments. The Company's most significant estimates relate to estimates and judgments for medical costs payable and goodwill. Certain of these estimates require the application of complex assumptions and judgments, often because they involve matters inherently uncertain and will likely change in subsequent periods. The impact of any change in estimates is included in earnings in the period in which the estimate is adjusted.
+Net Portfolio Divestitures, Restructuring and Other Actions and Direct Response Costs - Cyberattack
+Net Portfolio Divestitures
+In the fourth quarter of 2025, the Company took various actions as a result of a strategic review of the Company's assets and businesses to operationally advance and scale core businesses and initiatives, including the value-based care business at Optum Health. These actions primarily include losses on business exits and dispositions and other businesses held for sale and a gain on the deconsolidation of a business. As a result of the Company's portfolio actions, the Company recorded a net gain of $ 568 million, which included a net gain of $ 1.5 billion at Optum Rx, partially offset by losses of $ 821 million and $ 68 million at Optum Health and Optum Insight, respectively. Gains and losses on portfolio actions were recorded within operating costs on the Consolidated Statements of Operations.
+Restructuring and Other Actions
+Additionally, in the fourth quarter of 2025 the Company took restructuring and other actions that resulted in a total impact of $ 2.5 billion, which included real estate rationalization and workforce reductions of $ 746 million, contractual reassessments of $ 573 million, the establishment a loss contract reserve related to anticipated future losses in 2026 for certain value-based care businesses of $ 623 million, net valuation losses on equity securities of $ 329 million and the advance funding of the United Health Foundation of $ 250 million. The $ 2.5 billion impact of the restructuring and other actions was a reduction to premium revenue of $ 122 million and investment and other income of $ 397 million, and increased medical costs $ 623 million and operating costs $ 1.4 billion on the Consolidated Statements of Operations. The impacts by reportable segment were $ 153 million, $ 1.7 billion, $ 236 million and $ 389 million, for UnitedHealthcare, Optum Health, Optum Insight and Optum Rx, respectively.
+Direct Response Costs Cyberattack
+To support care providers impacted by the Change Healthcare cyberattack that occurred on February 21, 2024, the Company provided interest-free loans. In the fourth quarter of 2025, the Company increased its reserves for net collection expectations associated with provider loans and other customer balances of $ 799 million, which are primarily within other assets on the Consolidated Balance Sheets and were recorded within operating costs within the Consolidated Statements of Operations. These amounts are included within Optum Insight's results.
+46
+Table of Contents
+Revenues
+Premiums
+Premium revenues are primarily derived from risk-based arrangements in which the premium is typically at a fixed rate per individual served for a one-year period, and the Company assumes the economic risk of funding its customers' health care and related administrative costs.
+Premium revenues are recognized in the period in which eligible individuals are entitled to receive health care benefits. Health care premium payments received from the Company's customers in advance of the service period are recorded as unearned revenues. Fully insured commercial products of U.S. health plans, Medicare Advantage and Medicare Prescription Drug Benefit (Medicare Part D) plans with medical loss ratios (MLRs) as calculated under the definitions in the Patient Protection and Affordable Care Act (ACA) and related federal and state regulations and implementing regulation, falling below certain targets are required to rebate ratable portions of their premiums annually. Commercial premiums within the Company's individual and small group markets are also subject to the ACA risk adjustment program. Medicare Advantage premium revenue includes the impact of the Centers for Medicare & Medicaid Services (CMS) quality bonuses based on plans' Star rating. Certain of the Company's Medicaid business is also subject to state minimum MLR rebates.
+Premium revenues are recognized based on the estimated premiums earned, net of projected rebates, because the Company is able to reasonably estimate the ultimate premiums of these contracts. The Company also records premium revenues for certain value-based care arrangements at its Optum Health care delivery businesses. Under these arrangements, the Company enters into agreements with health plans to stand ready to deliver, integrate, direct and control certain health care services for patients. In exchange, the Company receives a premium that is typically paid on a per-patient per-month basis. The Company considers these value-based care arrangements to represent a single performance obligation where premium revenues are recognized in the period in which health care services are made available.
+The Company's Medicare Advantage and Medicare Part D premium revenues are subject to periodic and retroactive adjustments based upon the CMS risk adjustment methodology, which apportions premiums paid to all health plans according to health severity and certain demographic factors. The CMS risk adjustment model provides higher per member payments for enrollees diagnosed with certain conditions and lower payments for enrollees who are healthier. CMS updates the model annually and changes to risk weights, or the condition coefficient, by specific diagnoses can impact premium revenue for a member between years. Under this risk adjustment methodology, CMS calculates the risk adjusted premium payment using diagnosis and encounter data from hospital inpatient, hospital outpatient and physician treatment settings. The Company and health care providers collect, capture and submit the necessary and available data to CMS within prescribed deadlines. The Company estimates risk adjustment premium revenues based upon the data submitted and expected to be submitted to CMS. Risk adjustment data for the Company's plans are subject to review by the government, including audit by regulators. See Note 12 for additional information regarding these audits.
+Products and Services
+For the Company's Optum Rx pharmacy care services business, the majority of revenues are derived from products sold through a contracted network of retail pharmacies or home delivery, specialty and community health pharmacies. Product revenues include the cost of pharmaceuticals (net of rebates), a negotiated dispensing fee and customer co-payments. Pharmacy products are billed to customers based on the number of transactions occurring during the billing period. Product revenues are recognized when the prescriptions are dispensed. The Company has entered into contracts in which it is primarily obligated to pay its network pharmacy providers for benefits provided to their customers regardless of whether the Company is paid. The Company is also involved in establishing the prices charged by retail pharmacies, determining which drugs will be included in formulary listings and selecting which retail pharmacies will be included in the network offered to plan sponsors' members and accordingly, product revenues are reported on a gross basis.
+Services revenue includes a number of services and products sold through Optum. Optum Health's service revenues include net patient service revenues recorded based upon established billing rates, less allowances for contractual adjustments, and are recognized as services are provided. For its financial services offerings, Optum Health charges fees and earns investment income on managed funds. Optum Insight provides software and information products, advisory consulting arrangements and managed services outsourcing contracts, which may be delivered over several years. Optum Insight revenues are generally recognized over time and measured for each period based on the progress to date as services are performed or made available to customers. Optum Rx provides administrative services, including claims processing, formulary design and management, and clinical services, which are recognized as services revenue as the services are provided.
+Services revenue also consists of fees derived from services performed for customers who self-insure the health care costs of their employees and employees' dependents. Under service fee contracts, the Company receives a monthly fixed fee per employee, which is recognized as revenue as the Company performs, or makes available, the applicable services to the customer. The customers retain the risk of financing health care costs for their employees and employees' dependents, and the
+47
+Table of Contents
+Company administers the payment of customer funds to physicians and other health care professionals from customer-funded bank accounts. As the Company has neither the obligation for funding the health care costs, nor the primary responsibility for providing the medical care, the Company does not recognize premium revenue and medical costs for these contracts in its Consolidated Financial Statements. For these fee-based customer arrangements, the Company provides coordination and facilitation of medical services; transaction processing; customer, consumer and care professional services; and access to contracted networks of physicians, hospitals and other health care professionals. These services are performed throughout the contract period.
+As of December 31, 2025 and 2024, accounts receivables related to products and services were $ 9.7 billion and $ 9.9 billion, respectively. In 2025 and 2024, the Company had no material bad-debt expense arising from contracts with customers and there were no material contract assets, contract liabilities or deferred contract costs recorded on the Consolidated Balance Sheets as of December 31, 2025 or 2024. For the years ended December 31, 2025, 2024 and 2023, revenue recognized from performance obligations related to prior periods (for example, due to changes in transaction price) was not material.
+As of December 31, 2025, revenue expected to be recognized in any future year related to remaining performance obligations, excluding revenue pertaining to contracts having an original expected duration of one year or less, contracts where revenue is recognized as invoiced and contracts with variable consideration related to undelivered performance obligations, was $ 11.7 billion, of which more than half is expected to be recognized in the next three years .
+See Note 15 for disaggregation of revenue by segment and type.
+Medical Costs and Medical Costs Payable
+The Company's estimate of medical costs payable represents management's best estimate of its liability for unpaid medical costs as of December 31, 2025.
+Each period, the Company re-examines previously established medical costs payable estimates based on actual claim submissions and other changes in facts and circumstances. As more complete claim information becomes available, the Company adjusts the amount of the estimates and includes the changes in estimates in medical costs in the period in which the change is identified. Approximately 90 % of claims related to medical care services are known and settled within 90 days from the date of service and substantially all within twelve months.
+Medical costs and medical costs payable include estimates of the Company's obligations for medical care services rendered on behalf of consumers, but for which claims have either not yet been received, processed, or paid. The Company develops estimates for medical care services incurred but not reported (IBNR), which includes estimates for claims which have not been received or fully processed, using an actuarial process consistently applied, centrally controlled and automated. The actuarial models consider factors such as time from date of service to claim processing, seasonal variances in medical care consumption, health care professional contract rate changes, care activity and other medical cost trends, membership volume and demographics, the introduction of new technologies, benefit plan changes and business mix changes related to products, customers and geography.
+In developing its medical costs payable estimates, the Company applies different estimation methods depending on which incurred claims are being estimated. For the most recent two months, the Company estimates claim costs incurred by applying observed medical cost trend factors to the average per member per month medical costs incurred in prior months for which more complete claim data are available, supplemented by a review of near-term completion factors (actuarial estimates, based upon historical experience and analysis of current trends, of the percentage of incurred claims during a given period adjudicated by the Company at the date of estimation). For months prior to the most recent two months, the Company applies the completion factors to actual claims adjudicated-to-date to estimate the expected amount of ultimate incurred claims for those months.
+The Company establishes premium deficiency reserves on its health benefits business and loss contract reserves on its Optum Health value-based care businesses when it is probable that expected future costs, claim adjustment expenses, and maintenance costs will exceed related future premiums, including expected investment income. For purposes of establishing premium deficiency reserves, contracts are grouped in a manner consistent with the method of acquiring, servicing, and measuring their profitability. For loss contract reserves, contracts are grouped in a manner consistent with the method of establishing premium rates. Reserves recognized in the current period will be released in subsequent periods as actual costs are incurred.
+48
+Table of Contents
+Cost of Products Sold
+The Company's cost of products sold includes the cost of pharmaceuticals dispensed to unaffiliated customers either directly at its home delivery, specialty and community pharmacy locations, or indirectly through its nationwide network of participating pharmacies. Rebates attributable to unaffiliated clients are accrued as rebates receivable and a reduction of cost of products sold, with a corresponding payable for the amounts of the rebates to be remitted to those unaffiliated clients in accordance with their contracts and recorded in the Consolidated Statements of Operations as a reduction of product revenue. Cost of products sold also includes the cost of personnel to support the Company's transaction processing services, system sales, maintenance and professional services.
+Cash, Cash Equivalents and Investments
+Cash and cash equivalents consist of cash and highly liquid investments with an original maturity of three months or less. The fair value of cash and cash equivalents approximates their carrying value because of the short maturity of the instruments. Investments with maturities of less than one year are classified as short-term. Because of regulatory requirements, certain investments are included in long-term investments regardless of their maturity date. The Company classifies these investments as held-to-maturity and reports them at amortized cost. Substantially all other investments are classified as available-for-sale and reported at fair value based on quoted market prices, where available. Equity investments are measured at fair value, with certain exceptions where the Company has elected to measure investments with unobservable inputs at cost, subject to fair value adjustments upon an impairment or a transaction of the same or similar security. Changes in fair value of equity investments are recognized in net earnings.
+The Company excludes unrealized gains and losses on available-for-sale debt securities from net earnings and reports them as comprehensive income and, net of income tax effects, as a separate component of equity. To calculate realized gains and losses on the sale of debt securities, the Company specifically identifies the cost of each investment sold.
+The Company evaluates an available-for-sale debt security for credit-related impairment by considering the present value of expected cash flows relative to a security's amortized cost, the extent to which fair value is less than amortized cost, the financial condition and near-term prospects of the issuer and specific events or circumstances which may influence the operations of the issuer. Credit-related impairments are recorded as an allowance, with an offset to investment and other income. Non-credit related impairments are recorded through other comprehensive income. If the Company intends to sell an impaired security, or will likely be required to sell a security before recovery of the entire amortized cost, the entire impairment is included in net earnings.
+New information and the passage of time can change these judgments. The Company manages its investment portfolio to limit its exposure to any one issuer or market sector, and largely limits its investments to investment grade quality.
+Other Current Receivables
+Other current receivables include amounts due from pharmaceutical manufacturers for rebates and Medicare Part D drug discounts, loans to care providers in response to the Change Healthcare cyberattack, accrued interest and other miscellaneous amounts due to the Company.
+The Company's pharmacy care services businesses contract with pharmaceutical manufacturers, some of which provide rebates based on use of the manufacturers' products by its affiliated and unaffiliated clients. The Company accrues rebates as they are earned by its clients on a monthly basis based on the terms of the applicable contracts, historical data and current estimates. The pharmacy care services businesses bill these rebates to the manufacturers on a monthly or quarterly basis depending on the contractual terms and record rebates attributable to affiliated clients as a reduction to medical costs. The Company generally receives rebates two to five months after billing. As of December 31, 2025 and 2024, total pharmaceutical manufacturer rebates receivable included in other receivables in the Consolidated Balance Sheets amounted to $ 13.6 billion and $ 12.5 billion, respectively.
+Receivables Financing Facility
+In 2025, the Company entered into a $ 3.3 billion 364-day uncommitted receivables financing facility under which certain receivables may be sold to financial institutions. The sales of the receivables under the facility are recorded as a reduction to other current receivables on the Consolidated Balance Sheets and classified as an operating cash flow on the Consolidated Statement of Cash Flows. The Company continues to provide collection services related to the transferred receivables. Amounts received but not remitted to financial institutions are recorded as a liability within accounts payable and accrued liabilities on the Consolidated Balance Sheets and classified as a financing cash flow on the Consolidated Statement of Cash Flows. For the year ended December 31, 2025, the Company sold $ 3.0 billion of receivables under the receivables funding facility, and the loss on discounted receivables was immaterial. As of December 31, 2025, the Company collected $ 2.0 billion, of which $ 1.0 billion has not been remitted to financial institutions.
+49
+Table of Contents
+Prepaid Expenses and Other Current Assets
+Prepaid expenses and other current assets included pharmaceutical drug and supplies inventory of $ 3.3 billion and $ 3.8 billion as of December 31, 2025 and 2024, respectively.
+Property, Equipment and Capitalized Software
+Property, equipment and capitalized software are stated at cost, net of accumulated depreciation and amortization. Capitalized software consists of certain costs incurred in the development of internal-use software, including external direct costs of materials and services and applicable payroll costs of employees devoted to specific software development.
+The Company calculates depreciation and amortization using the straight-line method over the estimated useful lives of the assets. The useful lives for property, equipment and capitalized software are:
+Furniture, fixtures and equipment 3 to 10 years
+Buildings 35 to 40 years
+Capitalized software 3 to 5 years
+Leasehold improvements are depreciated over the shorter of the remaining lease term or their estimated useful economic life.
+Loan Receivables
+The majority of the Company's loan receivables, which are primarily held by Optum Bank, are recorded at the outstanding principal balance, net of an allowance for credit losses and are classified as current or long-term based upon contractual maturities, with the remaining loan receivables held at fair value under the fair value option. The current and long-term portions of loans receivable are included within prepaid expenses and other current assets and other assets on the Consolidated Balance Sheets, respectively. Interest income on current loans is recognized on an accrual basis at the applicable interest rate on the principal amount outstanding and recognized on a nonaccrual basis when the loan is past due 90 days or more, or where reasonable doubt exists as to the collection of principal or interest.
+The allowance for credit losses is determined based upon the probability of default and the severity of loss if a default occurs. The probability of default is based upon macroeconomic conditions as well as individual loan characteristics and credit quality indicators, such as loan-to-value, debt service coverage, underlying collateral and credit score. The severity of loss is driven by the type of collateral and its liquidity, including costs associated with liquidation. The Company regularly reviews and updates the credit quality indicators of each loan. Loans are considered impaired and written off against the allowance when it is probable that all amounts due will not be collected. As of December 31, 2025 and 2024, amounts past due over 30 days and loans with low credit quality indicators were immaterial.
+The Company's loan portfolio consists of commercial, consumer and syndicated bank loans. Commercial mortgage loans are primarily fixed rate loans, collateralized by high-quality commercial real estate and diversified by property type, location and borrower. Consumer loans are primarily fixed rate loans. Syndicated bank loans are primarily variable rate loans where the Company lends through syndicates that provide financing to a variety of borrowers. A summary of loans outstanding by major category is as follows:
+(in millions) December 31, 2025 December 31, 2024
+Commercial $ 6,095 $ 4,908
+Consumer 2,053 990
+Syndicated 1,689 1,367
+Less: allowance for credit losses ( 95 ) ( 96 )
+Total loans receivable, net $ 9,742 $ 7,169
+Operating Leases
+The Company leases facilities and equipment under long-term operating leases which are non-cancelable and expire on various dates. At the lease commencement date, lease right-of-use (ROU) assets and lease liabilities are recognized based on the present value of the future minimum lease payments over the lease term, which includes all fixed obligations arising from the lease contract. If an interest rate is not implicit in a lease, the Company utilizes its incremental borrowing rate for a period closely matching the lease term.
+The Company's ROU assets are included in other assets, and lease liabilities are included in other current liabilities and other liabilities in the Company's Consolidated Balance Sheets.
+50
+Table of Contents
+Goodwill
+To determine whether goodwill is impaired, annually or more frequently if needed, the Company performs impairment tests. The Company may first assess qualitative factors to determine if it is more likely than not the carrying value of a reporting unit exceeds its estimated fair value. If our qualitative assessment indicates a goodwill impairment is more likely than not, we perform additional quantitative analyses. The Company may also elect to skip the qualitative testing and proceed directly to the quantitative testing. When performing quantitative testing, the Company first estimates the fair values of its reporting units using discounted cash flows. To determine fair values, the Company must make assumptions about a wide variety of internal and external factors. Significant assumptions used in the impairment analysis include financial projections of free cash flow (including significant assumptions about operations, capital levels and income taxes), long-term growth rates for determining terminal value, and discount rates. Comparative market multiples are used to corroborate the results of the discounted cash flow test. If the fair value is less than the carrying value of the reporting unit, an impairment is recognized for the difference, up to the carrying amount of goodwill.
+There was no impairment of goodwill during the years ended December 31, 2025, 2024 and 2023.
+Intangible Assets
+The Company's finite-lived intangible assets are subject to impairment tests when events or circumstances indicate an intangible asset (or asset group) may be impaired. The Company's indefinite-lived intangible assets are also tested for impairment annually. There were no significant impairments of intangible assets during the years ended December 31, 2025, 2024 and 2023.
+Other Current Liabilities
+Other current liabilities include health savings account deposits, accruals for premium rebates payable, the current portion of future policy benefits and customer balances.
+Deposits
+The Company, through Optum Bank, holds various deposits, primarily Health Savings Accounts (HSAs) and brokered certificates of deposit (CDs). HSAs have no defined maturities and the carrying value is the amount payable on demand on the reporting date, which approximates fair value and is included within other current liabilities on the Consolidated Balance Sheets. CDs have a stipulated maturity and fixed interest rates. As of December 31, 2025, the majority of the CDs had maturities of less than two years. The current and long-term portions of CDs are included within other current liabilities and other liabilities on the Consolidated Balance Sheets, respectively. As of December 31, 2025 and 2024, the Company had $ 13.9 billion and $ 13.7 billion of HSAs, respectively, and $ 1.6 billion and $ 1.1 billion of CDs, respectively.
+Policy Acquisition Costs
+The Company's short duration health insurance contracts typically have a one-year term and may be canceled by the customer with at least 30 days' notice. Costs related to the acquisition and renewal of short duration customer contracts are primarily charged to expense as incurred.
+Variable Interest Entities
+The Company holds interests in various variable interest entities ("VIEs"), including certain physician practices that require an individual physician to legally own the equity interests as required by certain state laws and regulations. The determination of whether the Company is the primary beneficiary in a VIE, and therefore required to consolidate the VIE, is based on whether the Company has the power to direct the activities that most significantly impact the economic performance of the VIE and if the Company has the obligation to absorb losses or the right to receive benefits of the VIE that could potentially be significant to the VIE.
+The Company has entered into exclusive management agreements with certain care delivery practices, under which the Company provides non-clinical management services, including operational support, marketing, technology, infrastructure, sourcing and procurement, and other services. The Company concluded its interests in these care delivery practices are variable interests based upon the management agreements and additional support needed in order to fund the operations of the care delivery practices. While all clinical decisions, including but not limited to diagnosis, treatment, and prescribing, are controlled or made by practicing physicians or other licensed professionals consistent with state laws, the Company's management activities are significant to the economic performance of the practices, and the Company has an obligation to absorb losses and the right to receive the benefits of the results of the care delivery practices. Therefore, the Company is determined to be the primary beneficiary and consolidates these care delivery practices.
+51
+Table of Contents
+Redeemable Noncontrolling Interests
+Redeemable noncontrolling interests in the Company's subsidiaries whose redemption is outside of the Company's control are classified as temporary equity. These interests primarily relate to put options on unowned shares, which are typically redeemable at fair value after a certain time period. The Company accretes changes in the redemption value to the earliest redemption date utilizing the interest method. If all interests were currently redeemable, the difference between the carrying value and the estimated redemption value is not material. The following table provides details of the Company's redeemable noncontrolling interests' activity for the years ended December 31, 2025 and 2024:
+(in millions) 2025 2024
+Redeemable noncontrolling interests, beginning of period $ 4,323 $ 4,498
+Net earnings 74 174
+Acquisitions 9 33
+Redemptions ( 189 ) ( 280 )
+Distributions ( 99 ) ( 125 )
+Fair value, deconsolidations and other adjustments ( 2,510 ) 23
+Redeemable noncontrolling interests, end of period $ 1,608 $ 4,323
+Share-Based Compensation
+The Company recognizes compensation expense for share-based awards, including stock options and restricted stock and restricted stock units (collectively, restricted shares), on a straight-line basis over the related service period (generally the vesting period) of the award, or to an employee's eligible retirement date under the award agreement, if earlier. Restricted shares vest ratably, primarily over two to four years, and compensation expense related to restricted shares is based on the share price on the date of grant. Stock options vest ratably primarily over four years and may be exercised up to 10 years from the date of grant. Compensation expense related to stock options is based on the fair value at the date of grant, which is estimated on the date of grant using a binomial option-pricing model. Under the Company's Employee Stock Purchase Plan (ESPP), eligible employees are allowed to purchase the Company's stock at a discounted price, which is 90% of the market price of the Company's common stock at the end of the six-month purchase period. Share-based compensation expense for all programs is recognized in operating costs in the Consolidated Statements of Operations.
+Net Earnings Per Common Share
+The Company computes basic earnings per common share attributable to UnitedHealth Group common shareholders by dividing net earnings attributable to UnitedHealth Group common shareholders by the weighted-average number of common shares outstanding during the period. The Company determines diluted net earnings per common share attributable to UnitedHealth Group common shareholders using the weighted-average number of common shares outstanding during the period, adjusted for potentially dilutive shares associated with stock options, restricted shares and the ESPP (collectively, common stock equivalents), using the treasury stock method. The treasury stock method assumes a hypothetical issuance of shares to settle the share-based awards, with the assumed proceeds used to purchase common stock at the average market price for the period. Assumed proceeds include the amount the employee must pay upon exercise and the average unrecognized compensation cost. The difference between the number of shares assumed issued and number of shares assumed purchased represents the dilutive shares.
+Recently Adopted Accounting Standards
+In December 2023, the Financial Accounting Standards Board issued ASU No. 2023-09, "Income Taxes (Topic 740): Improvements to Income Tax Disclosures." Under ASU 2023-09, an entity is required to provide additional income tax disclosures on an annual basis, including disclosure of the disaggregation of income tax expense or benefit from continuing operations by federal, state and local, and foreign taxes; cash paid for income taxes by jurisdiction; and prescribed specific categories to be included within the effective tax rate reconciliation. The Company adopted the standard on a prospective basis and has included the required disclosures in Note 9.
+The Company has determined that there have been no other recently adopted or issued accounting standards that had, or will have, a material impact on its Consolidated Financial Statements.
+52
+Table of Contents
+3. Investments
+A summary of debt securities by major security type is as follows:
+(in millions) Amortized
+Cost Gross
+Unrealized
+Gains Gross
+Unrealized
+Losses Fair
+Value
+December 31, 2025
+Debt securities - available-for-sale:
+U.S. government and agency obligations $ 4,086 $ 2 $ ( 156 ) $ 3,932
+State and municipal obligations 6,533 24 ( 232 ) 6,325
+Corporate obligations 25,927 159 ( 540 ) 25,546
+U.S. agency mortgage-backed securities 10,284 33 ( 598 ) 9,719
+Non-U.S. agency mortgage-backed securities 2,748 11 ( 99 ) 2,660
+Total debt securities - available-for-sale 49,578 229 ( 1,625 ) 48,182
+Debt securities - held-to-maturity:
+U.S. government and agency obligations 461 2 ( 1 ) 462
+State and municipal obligations 26 — ( 2 ) 24
+Corporate obligations 3 — — 3
+Total debt securities - held-to-maturity 490 2 ( 3 ) 489
+Total debt securities $ 50,068 $ 231 $ ( 1,628 ) $ 48,671
+December 31, 2024
+Debt securities - available-for-sale:
+U.S. government and agency obligations $ 4,600 $ 1 $ ( 274 ) $ 4,327
+State and municipal obligations 7,357 2 ( 375 ) 6,984
+Corporate obligations 24,391 56 ( 1,140 ) 23,307
+U.S. agency mortgage-backed securities 10,577 1 ( 994 ) 9,584
+Non-U.S. agency mortgage-backed securities 2,890 2 ( 175 ) 2,717
+Total debt securities - available-for-sale 49,815 62 ( 2,958 ) 46,919
+Debt securities - held-to-maturity:
+U.S. government and agency obligations 444 — ( 2 ) 442
+State and municipal obligations 28 — ( 2 ) 26
+Corporate obligations 40 — — 40
+Total debt securities - held-to-maturity 512 — ( 4 ) 508
+Total debt securities $ 50,327 $ 62 $ ( 2,962 ) $ 47,427
+Nearly all of the Company's investments in mortgage-backed securities were rated "Double A" or better as of December 31, 2025.
+The Company held $ 5.5 billion and $ 4.9 billion of equity securities as of December 31, 2025 and 2024, respectively. The Company's investments in equity securities primarily consist of venture investments and employee savings plan related investments. The carrying values of equity securities held at fair value on non-recurring basis were $ 3.3 billion and $ 3.0 billion, including cumulative net unrealized gains of $ 0.8 billion and $ 1.3 billion, as of December 31, 2025 and 2024, respectively. For the years ended December 31, 2025, 2024 and 2023, the Company recognized $( 360 ) million, $ 710 million and $ 276 million, respectively, of unrealized (losses) or gains related to fair value adjustments on equity securities primarily in the Company's venture portfolio and recorded $( 54 ) million, $ 121 million and $ 44 million, respectively, of investment expenses related to the fair value adjustments. Unrealized gains and losses on equity securities are recorded within investment and other income with associated expenses recorded within operating costs within the Consolidated Statements of Operations.
+Additionally, the Company's investments included $ 3.8 billion of equity method investments primarily in operating businesses in the health care sector, as of both December 31, 2025 and 2024. The allowance for credit losses on held-to-maturity securities as of December 31, 2025 and 2024 was not material.
+53
+Table of Contents
+The amortized cost and fair value of debt securities as of December 31, 2025, by contractual maturity, were as follows:
+Available-for-Sale Held-to-Maturity
+(in millions) Amortized
+Cost Fair
+Value Amortized
+Cost Fair
+Value
+Due in one year or less $ 3,859 $ 3,843 $ 266 $ 266
+Due after one year through five years 13,775 13,547 202 203
+Due after five years through ten years 11,962 11,670 5 5
+Due after ten years 6,950 6,743 17 15
+U.S. agency mortgage-backed securities 10,284 9,719 — —
+Non-U.S. agency mortgage-backed securities 2,748 2,660 — —
+Total debt securities $ 49,578 $ 48,182 $ 490 $ 489
+The fair value of available-for-sale debt securities with gross unrealized losses by major security type and length of time that individual securities have been in a continuous unrealized loss position were as follows:
+Less Than 12 Months 12 Months or Greater Total
+(in millions) Fair
+Value Gross
+Unrealized
+Losses Fair
+Value Gross
+Unrealized
+Losses Fair
+Value Gross
+Unrealized
+Losses
+December 31, 2025
+U.S. government and agency obligations $ 500 $ ( 4 ) $ 2,339 $ ( 152 ) $ 2,839 $ ( 156 )
+State and municipal obligations 523 ( 8 ) 4,342 ( 224 ) 4,865 ( 232 )
+Corporate obligations 2,661 ( 16 ) 10,399 ( 524 ) 13,060 ( 540 )
+U.S. agency mortgage-backed securities
+346 ( 1 ) 6,665 ( 597 ) 7,011 ( 598 )
+Non-U.S. agency mortgage-backed securities
+184 ( 1 ) 1,355 ( 98 ) 1,539 ( 99 )
+Total debt securities - available-for-sale $ 4,214 $ ( 30 ) $ 25,100 $ ( 1,595 ) $ 29,314 $ ( 1,625 )
+December 31, 2024
+U.S. government and agency obligations $ 1,475 $ ( 51 ) $ 2,152 $ ( 223 ) $ 3,627 $ ( 274 )
+State and municipal obligations 2,593 ( 58 ) 4,085 ( 317 ) 6,678 ( 375 )
+Corporate obligations 7,402 ( 213 ) 11,449 ( 927 ) 18,851 ( 1,140 )
+U.S. agency mortgage-backed securities
+4,791 ( 191 ) 4,674 ( 803 ) 9,465 ( 994 )
+Non-U.S. agency mortgage-backed securities
+416 ( 5 ) 1,863 ( 170 ) 2,279 ( 175 )
+Total debt securities - available-for-sale $ 16,677 $ ( 518 ) $ 24,223 $ ( 2,440 ) $ 40,900 $ ( 2,958 )
+The Company's unrealized losses from all securities as of December 31, 2025 were generated from approximately 24,000 positions out of a total of 41,000 positions. The Company believes it will timely collect the principal and interest due on its debt securities that have an amortized cost in excess of fair value. The unrealized losses were primarily caused by interest rate increases and not by unfavorable changes in the credit quality associated with these securities which impacted the Company's assessment on collectibility of principal and interest. At each reporting period, the Company evaluates available-for-sale debt securities for any credit-related impairment when the fair value of the investment is less than its amortized cost. The Company evaluated the expected cash flows, the underlying credit quality and credit ratings of the issuers, noting no significant credit deterioration since purchase. As of December 31, 2025, the Company did not have the intent to sell any of the securities in an unrealized loss position. Therefore, the Company believes these losses to be temporary. The allowance for credit losses on available-for-sale debt securities as of December 31, 2025 and 2024 was not material.
+54
+Table of Contents
+4. Fair Value
+Certain assets and liabilities are measured at fair value in the Consolidated Financial Statements or have fair values disclosed in the Notes to the Consolidated Financial Statements. These assets and liabilities are classified into one of three levels of a hierarchy defined by GAAP. In instances in which the inputs used to measure fair value fall into different levels of the fair value hierarchy, the fair value measurement is categorized in its entirety based on the lowest level input which is significant to the fair value measurement in its entirety. The Company's assessment of the significance of a particular item to the fair value measurement in its entirety requires judgment, including the consideration of inputs specific to the asset or liability.
+The fair value hierarchy is summarized as follows:
+Level 1 — Quoted prices (unadjusted) for identical assets/liabilities in active markets.
+Level 2 — Other observable inputs, either directly or indirectly, including:
+Quoted prices for similar assets/liabilities in active markets;
+Quoted prices for identical or similar assets/liabilities in inactive markets (e.g., few transactions, limited information, noncurrent prices, high variability over time);
+Inputs other than quoted prices observable for the asset/liability (e.g., interest rates, yield curves, implied volatilities, credit spreads); and
+Inputs corroborated by other observable market data.
+Level 3 — Unobservable inputs cannot be corroborated by observable market data.
+There were no transfers in or out of Level 3 financial assets or liabilities during the years ended December 31, 2025 or 2024.
+Nonfinancial assets and liabilities or financial assets and liabilities measured at fair value on a nonrecurring basis are subject to fair value adjustments only in certain circumstances, such as when the Company records an impairment. The Company holds equity securities without readily determinable fair values, primarily related to the Company's venture portfolio, and an equity method stake from the deconsolidation of a business in 2025, which are classified as Level 3 and measured on a nonrecurring basis. The fair values of these securities are typically based upon transactions of the same or similar security or unobservable amounts, with estimated value derived using valuation approaches such as discounted cash flow analyses, market comparable analyses and consideration of Company-specific information, market conditions and third-party indications.The assets and liabilities within businesses held for sale as of December 31, 2025 were measured at the lower of carrying value or fair value less cost to sell. Fair value is measured based upon unobservable amounts, such as estimated selling price derived from Company-specific information, market conditions and third-party indications. There were no other significant fair value adjustments for these assets and liabilities recorded during the years ended December 31, 2025, 2024 or 2023.
+The following methods and assumptions were used to estimate the fair value and determine the fair value hierarchy classification of each class of financial instrument included in the tables below:
+Cash and Cash Equivalents. The carrying value of cash and cash equivalents approximates fair value as maturities are less than three months. Fair values of cash equivalent instruments which do not trade on a regular basis in active markets are classified as Level 2.
+Debt and Equity Securities. Fair values of debt securities and equity securities reported at fair value on a recurring basis are based on quoted market prices, where available. The Company obtains one price for each security primarily from a third-party pricing service (pricing service), which generally uses quoted or other observable inputs for the determination of fair value. The pricing service normally derives the security prices through recently reported trades for identical or similar securities, and, if necessary, makes adjustments through the reporting date based upon available observable market information. For securities not actively traded, the pricing service may use quoted market prices of comparable instruments or discounted cash flow analyses, incorporating inputs currently observable in the markets for similar securities. Inputs often used in the valuation methodologies include, but are not limited to, benchmark yields, credit spreads, default rates, prepayment speeds and nonbinding broker quotes. As the Company is responsible for the determination of fair value, it performs quarterly analyses on the prices received from the pricing service to determine whether the prices are reasonable estimates of fair value. Specifically, the Company compares the prices received from the pricing service to prices reported by a secondary pricing source, such as its custodian, its investment consultant and third-party investment advisors. Additionally, the Company compares changes in the reported market values and returns to relevant market indices to test the reasonableness of the reported prices. The Company's internal price verification procedures and reviews of fair value methodology documentation provided by independent pricing services have not historically resulted in adjustment to the prices obtained from the pricing service.
+Fair values of debt securities which do not trade on a regular basis in active markets but are priced using other observable inputs are classified as Level 2.
+55
+Table of Contents
+Fair value estimates for Level 1 and Level 2 equity securities reported at fair value on a recurring basis are based on quoted market prices for actively traded equity securities and/or other market data for the same or comparable instruments and transactions in establishing the prices.
+The fair values of Level 3 investments in corporate bonds, which are not a significant portion of our investments, are estimated using valuation techniques relying heavily on management assumptions and qualitative observations.
+Throughout the procedures discussed above in relation to the Company's processes for validating third-party pricing information, the Company validates the understanding of assumptions and inputs used in security pricing and determines the proper classification in the hierarchy based on such understanding.
+Loan Receivables. The fair values of loan receivables which do not trade on a regular basis in active markets but are priced using other observable inputs are classified as Level 2. The fair values of Level 3 loans receivables are estimated using valuation techniques relying heavily on management assumptions and qualitative observations.
+Long-Term Debt. The fair values of the Company's long-term debt are estimated and classified using the same methodologies as the Company's investments in debt securities.
+The following table presents a summary of fair value measurements by level and carrying values for items measured at fair value on a recurring basis in the Consolidated Balance Sheets:
+(in millions) Quoted Prices
+in Active
+Markets
+(Level 1) Other
+Observable
+Inputs
+(Level 2) Unobservable
+Inputs
+(Level 3) Total
+Fair and Carrying
+Value
+December 31, 2025
+Cash and cash equivalents $ 19,848 $ 4,517 $ — $ 24,365
+Debt securities - available-for-sale:
+U.S. government and agency obligations 3,778 154 — 3,932
+State and municipal obligations — 6,325 — 6,325
+Corporate obligations — 25,123 423 25,546
+U.S. agency mortgage-backed securities — 9,719 — 9,719
+Non-U.S. agency mortgage-backed securities — 2,660 — 2,660
+Total debt securities - available-for-sale 3,778 43,981 423 48,182
+Equity securities 2,083 20 67 2,170
+Loan receivables — — 882 882
+Total assets at fair value $ 25,709 $ 48,518 $ 1,372 $ 75,599
+Percentage of total assets at fair value 34 % 64 % 2 % 100 %
+December 31, 2024
+Cash and cash equivalents $ 25,248 $ 64 $ — $ 25,312
+Debt securities - available-for-sale:
+U.S. government and agency obligations 4,194 133 — 4,327
+State and municipal obligations — 6,984 — 6,984
+Corporate obligations 29 22,841 437 23,307
+U.S. agency mortgage-backed securities — 9,584 — 9,584
+Non-U.S. agency mortgage-backed securities — 2,717 — 2,717
+Total debt securities - available-for-sale 4,223 42,259 437 46,919
+Equity securities 1,859 24 65 1,948
+Loan receivables — — 293 293
+Total assets

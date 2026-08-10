@@ -1,0 +1,661 @@
+ wind-down in the second quarter of 2025. During the second quarter of 2025, Citi's Poland consumer banking business was classified as HFS as a result of Citi's agreement to sell the business. Accordingly, the Poland consumer loans are recorded in Other assets on the Consolidated Balance Sheet. As a result, the Poland consumer loans and related delinquencies are not included in this table for 2025. See "Agreement to Sell Poland Consumer Banking Business" in Note 2.
+(8) The 90+ days past due and 30 89 days past due and related ratios exclude U.S. mortgage loans that are primarily related to U.S. mortgages guaranteed by U.S. government-sponsored agencies since the potential risk of loss predominantly resides with the U.S. agencies. The amounts excluded for 90+ days past due and (EOP loans) were $65 million ($0.2 billion), $66 million ($0.2 billion) and $67 million ($0.2 billion) at December 31, 2025, 2024 and 2023, respectively. The amounts excluded for loans 30 89 days past due (the 30 89 days past due EOP loans have the same adjustments as the 90+ days past due EOP loans) were $29 million, $34 million and $36 million at December 31, 2025, 2024 and 2023, respectively. The EOP loans in the table include the guaranteed loans.
+N/A Not applicable
+Consumer Loan Net Credit Losses (NCLs) and Ratios
+Average loans (1)
+Net credit losses (2)
+In millions of dollars, except average loan amounts in billions 2025 2025 2024 2023
+Wealth $ 148.8 $ 170 $ 121 $ 98
+Ratio 0.11 % 0.08 % 0.07 %
+USPB
+Total $ 219.8 $ 7,431 $ 7,579 $ 5,234
+Ratio 3.38 % 3.62 % 2.72 %
+Credit cards and personal installment loans total (d+b) 169.8 7,290 7,457 5,124
+Ratio 4.29 % 4.51 % 3.32 %
+Credit cards total (a+c) = (d) $ 166.0 $ 7,057 $ 7,245 $ 4,981
+Ratio 4.25 % 4.48 % 3.29 %
+Branded Cards (a+b) $ 119.2 $ 4,392 $ 4,227 $ 2,807
+Ratio 3.68 % 3.71 % 2.68 %
+Credit cards (a) 115.4 4,159 4,015 2,664
+Ratio 3.60 % 3.64 % 2.62 %
+Personal installment loans (b) 3.8 233 212 143
+Ratio 6.13 % 5.89 % 4.93 %
+Retail Services (c) $ 50.6 $ 2,898 $ 3,230 $ 2,317
+Ratio 5.73 % 6.27 % 4.64 %
+Retail Banking $ 50.0 $ 141 $ 122 $ 110
+Ratio 0.28 % 0.28 % 0.29 %
+All Other— Legacy Franchises (managed basis) (3)
+Total $ 25.1 $ 1,131 $ 896 $ 861
+Ratio 4.51 % 3.41 % 2.94 %
+Mexico Consumer 19.7 1,095 828 682
+Ratio 5.56 % 4.52 % 4.01 %
+Asia Consumer (managed basis) (3)(4)
+3.5 49 67 198
+Ratio 1.40 % 1.14 % 2.08 %
+Legacy Holdings Assets (consumer) 1.9 (13) 1 (19)
+Ratio (0.68) % 0.05 % (0.68) %
+Reconciling Items (3)
+$ — $ 7 $ (6)
+Total Citigroup $ 393.7 $ 8,732 $ 8,603 $ 6,187
+Ratio 2.22 % 2.24 % 1.66 %
+(1) Average loans include interest and fees on credit cards.
+(2) The ratios of net credit losses are calculated based on average loans, net of unearned income.
+(3) All Other (managed basis) excludes divestiture-related impacts (Reconciling Items) related to (i) Citi's divestitures of its Asia Consumer businesses and (ii) the
+ongoing divestiture of Banamex, within Legacy Franchises. The Reconciling Items are reflected in Citi's Consolidated Statement of Income. See " All Other —Divestiture-Related Impacts (Reconciling Items)" above.
+(4) Asia Consumer NCLs and average loan balances, reported within All Other —Legacy Franchises, include the three remaining Asia Consumer loan portfolios: Korea, Poland (through the first quarter of 2025) and Russia until the completion of its consumer loan portfolio wind-down in the second quarter of 2025. Citi's Poland consumer banking business was classified as HFS during the second quarter of 2025 as a result of Citi's agreement to sell the business. In accordance with
+81
+HFS accounting treatment, the Poland consumer average loans of approximately $1 billion in 2025 are recorded in Other assets on the Consolidated Balance Sheet, and the related NCLs of approximately $1 million in 2025 are recorded as a reduction to Other revenue . Other Asia Consumer businesses classified as HFS in Other assets and Other liabilities on the Consolidated Balance Sheet include approximately $0 million and $25 million in NCLs recorded as reductions to Other revenue in 2024 and 2023, respectively. Accordingly, these NCLs are not included in this table. See Note 2.
+Loan Maturities and Fixed/Variable Pricing of Consumer Loans
+Loan Maturities
+In millions of dollars at December 31, 2025
+Due within
+1 year Greater than
+1 year
+but within
+5 years Greater than
+5 years
+but within 15 years Greater than
+15 years Total
+In North America offices
+Residential first mortgages $ 7 $ 277 $ 2,544 $ 116,561 $ 119,389
+Home equity loans 3 8 1,034 1,827 2,872
+Credit cards (1)
+170,896 2,760 — — 173,656
+Personal, small business and other 17,005 14,928 1,108 170 33,211
+Total $ 187,911 $ 17,973 $ 4,686 $ 118,558 $ 329,128
+In offices outside North America
+Residential mortgages $ 263 $ 418 $ 4,207 $ 19,153 $ 24,041
+Credit cards (1)
+14,666 35 — — 14,701
+Personal, small business and other 31,880 7,270 174 996 40,320
+Total $ 46,809 $ 7,723 $ 4,381 $ 20,149 $ 79,062
+Total Consumer $ 234,720 $ 25,696 $ 9,067 $ 138,707 $ 408,190
+(1) Credit card loans with maturities greater than one year represent loan modifications to borrowers experiencing financial difficulty and are at fixed interest rates.
+Fixed/Variable Pricing
+In millions of dollars at December 31, 2025
+Greater than
+1 year
+but within
+5 years Greater than
+5 years
+but within 15 years Greater than
+15 years
+Loans at fixed interest rates
+Residential first mortgages $ 346 $ 3,982 $ 69,374
+Home equity loans 4 187 22
+Credit cards (1)
+2,795 — —
+Personal, small business and other 8,605 323 150
+Total $ 11,750 $ 4,492 $ 69,546
+Loans at floating or adjustable interest rates
+Residential first mortgages $ 349 $ 2,769 $ 66,340
+Home equity loans 4 847 1,805
+Personal, small business and other 13,593 959 1,016
+Total $ 13,946 $ 4,575 $ 69,161
+Total Consumer $ 25,696 $ 9,067 $ 138,707
+(1) Credit card loans with maturities greater than one year represent loan modifications to borrowers experiencing financial difficulty and are at fixed interest rates.
+82
+ADDITIONAL CONSUMER AND CORPORATE CREDIT DETAILS
+Loans Outstanding
+December 31,
+In millions of dollars 2025 2024 2023 2022 2021
+Consumer loans
+In North America offices (1)
+Residential first mortgages (2)
+$ 119,389 $ 114,593 $ 108,711 $ 96,039 $ 83,361
+Home equity loans (2)
+2,872 3,141 3,592 4,580 5,745
+Credit cards 173,656 171,059 164,720 150,643 133,868
+Personal, small business and other 33,211 33,155 36,135 37,752 40,713
+Total $ 329,128 $ 321,948 $ 313,158 $ 289,014 $ 263,687
+In offices outside North America (1)
+Residential mortgages (2)
+$ 24,041 $ 24,456 $ 26,426 $ 28,114 $ 37,889
+Credit cards 14,701 12,927 14,233 12,955 17,808
+Personal, small business and other 40,320 33,995 35,380 37,984 57,150
+Total $ 79,062 $ 71,378 $ 76,039 $ 79,053 $ 112,847
+Consumer loans, net of unearned income, excluding portfolio-layer cumulative basis adjustments (3)
+$ 408,190 $ 393,326 $ 389,197 $ 368,067 $ 376,534
+Unallocated portfolio-layer cumulative basis adjustments
+$ 343 $ (224) $ — $ — $ —
+Consumer loans, net of unearned income (3)
+$ 408,533 $ 393,102 $ 389,197 $ 368,067 $ 376,534
+Corporate loans
+In North America offices (1)
+Commercial and industrial $ 57,406 $ 57,730 $ 61,008 $ 56,176 $ 48,364
+Financial institutions 72,154 41,815 39,393 43,399 49,804
+Mortgage and real estate (2)
+17,931 18,411 17,813 17,829 15,965
+Installment and other (4)
+23,104 25,529 23,335 23,767 20,143
+Lease financing 72 235 227 308 415
+Total $ 170,667 $ 143,720 $ 141,776 $ 141,479 $ 134,691
+In offices outside North America (1)
+Commercial and industrial $ 96,886 $ 92,856 $ 93,402 $ 93,967 $ 102,735
+Financial institutions 27,054 27,276 26,143 21,931 22,158
+Mortgage and real estate (2)
+9,856 8,136 7,197 4,179 4,374
+Installment and other (4)
+34,100 25,800 27,907 23,347 22,812
+Lease financing 47 40 48 46 40
+Governments and official institutions 5,070 3,630 3,599 4,205 4,423
+Total $ 173,013 $ 157,738 $ 158,296 $ 147,675 $ 156,542
+Corporate loans, net of unearned income, excluding portfolio-layer cumulative basis adjustments (5)
+$ 343,680 $ 301,458 $ 300,072 $ 289,154 $ 291,233
+Unallocated portfolio-layer cumulative basis adjustments
+$ 17 $ (72) $ 93 $ — $ —
+Corporate loans, net of unearned income (5)
+$ 343,697 $ 301,386 $ 300,165 $ 289,154 $ 291,233
+Total loans—net of unearned income $ 752,230 $ 694,488 $ 689,362 $ 657,221 $ 667,767
+Allowance for credit losses on loans (ACLL) (19,247) (18,574) (18,145) (16,974) (16,455)
+Total loans—net of unearned income and ACLL $ 732,983 $ 675,914 $ 671,217 $ 640,247 $ 651,312
+ACLL as a percentage of total loans—
+net of unearned income (6)
+2.58 % 2.71 % 2.66 % 2.60 % 2.49 %
+ACLL for consumer loan losses as a percentage of
+total consumer loans—net of unearned income (6)
+3.96 % 4.08 % 3.97 % 3.84 % 3.73 %
+ACLL for corporate loan losses as a percentage of
+total corporate loans—net of unearned income (6)
+0.91 % 0.87 % 0.93 % 1.01 % 0.85 %
+83
+(1) North America includes the U.S., Canada and Puerto Rico. Mexico is included in offices outside North America. The classification of corporate loans between offices in North America and outside North America is based on the domicile of the booking unit. The difference between the domicile of the booking unit and the risk-based country view is not material for the purposes of classification of corporate loans between offices in North America and outside North America.
+(2) Loans secured primarily by real estate.
+(3) Consumer loans are net of unearned income of $971 million, $889 million, $802 million, $712 million and $629 million at December 31, 2025, 2024, 2023, 2022 and 2021, respectively. Unearned income on consumer loans primarily represents loan origination fees, net of certain direct origination costs, that are deferred and recognized as Interest income over the lives of the related loans, except for credit cards (see Note 5).
+(4) Installment and other includes loans to SPEs and TTS commercial cards.
+(5) Corporate loans include Mexico SBMM loans and are net of unearned income of $(1.1) billion, $(969) million, $(917) million, $(797) million and $(770) million at December 31, 2025, 2024, 2023, 2022 and 2021, respectively. Unearned income on corporate loans primarily represents loan origination fees, net of certain direct origination costs, that are deferred and recognized as Interest income over the lives of the related loans.
+(6) Because loans carried at fair value do not have an ACLL, they are excluded from the ACLL ratio calculation.
+Details of Credit Loss Experience
+In millions of dollars 2025 2024 2023 2022 2021
+Allowance for credit losses on loans (ACLL) at beginning of year $ 18,574 $ 18,145 $ 16,974 $ 16,455 $ 24,956
+Adjustments to opening balance:
+Financial instruments—TDRs and vintage disclosures (1)
+— — (352) — —
+Adjusted ACLL at beginning of year $ 18,574 $ 18,145 $ 16,622 $ 16,455 $ 24,956
+Provision for credit losses on loans (PCLL)
+Consumer $ 8,690 $ 9,459 $ 7,665 $ 4,128 $ (1,159)
+Corporate 807 267 121 617 (1,944)
+Total $ 9,497 $ 9,726 $ 7,786 $ 4,745 $ (3,103)
+Gross credit losses on loans
+Consumer
+In U.S. offices $ 9,203 $ 8,989 $ 6,339 $ 3,944 $ 4,076
+In offices outside the U.S. 1,454 1,212 1,214 934 2,144
+Corporate
+Commercial and industrial, and other
+In U.S. offices 125 149 129 110 228
+In offices outside the U.S. 286 170 119 81 259
+Loans to financial institutions
+In U.S. offices — — 4 — 1
+In offices outside the U.S. 9 10 36 80 1
+Mortgage and real estate
+In U.S. offices 8 144 31 — 10
+In offices outside the U.S. 14 20 9 7 1
+Total $ 11,099 $ 10,694 $ 7,881 $ 5,156 $ 6,720
+Gross recoveries on loans
+Consumer
+In U.S. offices $ 1,752 $ 1,406 $ 1,124 $ 1,045 $ 1,215
+In offices outside the U.S. 173 192 242 222 496
+Corporate
+Commercial and industrial, and other
+In U.S. offices 37 51 38 44 57
+In offices outside the U.S. 36 35 37 46 54
+Loans to financial institutions
+In U.S. offices — 5 — 6 2
+In offices outside the U.S. 4 4 — 3 1
+Mortgage and real estate
+In U.S. offices — — — — —
+In offices outside the U.S. — 1 3 1 —
+Total $ 2,002 $ 1,694 $ 1,444 $ 1,367 $ 1,825
+84
+Net credit losses on loans (NCLs)
+In U.S. offices $ 7,547 $ 7,820 $ 5,341 $ 2,959 $ 3,041
+In offices outside the U.S. 1,550 1,180 1,096 830 1,854
+Total $ 9,097 $ 9,000 $ 6,437 $ 3,789 $ 4,895
+Other—net (2)(3)(4)(5)(6)(7)
+$ 273 $ (297) $ 174 $ (437) $ (503)
+Allowance for credit losses on loans (ACLL) at end of year $ 19,247 $ 18,574 $ 18,145 $ 16,974 $ 16,455
+ACLL as a percentage of EOP loans (8)
+2.58 % 2.71 % 2.66 % 2.60 % 2.49 %
+Allowance for credit losses on unfunded lending commitments (ACLUC) (9)
+$ 1,833 $ 1,601 $ 1,728 $ 2,151 $ 1,871
+Total ACLL and ACLUC $ 21,080 $ 20,175 $ 19,873 $ 19,125 $ 18,326
+Net consumer credit losses on loans $ 8,732 $ 8,603 $ 6,187 $ 3,611 $ 4,509
+As a percentage of average consumer loans 2.22 % 2.24 % 1.66 % 1.02 % 1.20 %
+Net corporate credit losses on loans $ 365 $ 397 $ 250 $ 178 $ 386
+As a percentage of average corporate loans 0.11 % 0.13 % 0.09 % 0.06 % 0.13 %
+ACLL by type at end of year (10)
+Consumer $ 16,194 $ 16,018 $ 15,431 $ 14,119 $ 14,040
+Corporate 3,053 2,556 2,714 2,855 2,415
+Total $ 19,247 $ 18,574 $ 18,145 $ 16,974 $ 16,455
+(1) On January 1, 2023, Citi adopted Accounting Standards Update (ASU) 2022-02, Financial Instruments—Credit Losses (Topic 326): TDRs and Vintage Disclosures . The ASU eliminated the accounting and disclosure requirements for TDRs, including the requirement to measure the ACLL for TDRs using a discounted cash flow (DCF) approach. On January 1, 2023, Citi recorded a $352 million decrease in the Allowance for loan losses , along with a $290 million after-tax increase to Retained earnings . See "Accounting Changes" in Note 1.
+(2) Includes all adjustments to the allowance for credit losses, such as changes in the allowance from acquisitions, dispositions, securitizations, FX translation, purchase accounting adjustments, etc.
+(3) 2025 includes an approximate $29 million reclass related to Citi's agreement to sell its Poland consumer banking business. That ACLL was transferred to Other assets. 2025 also includes an increase of approximately $273 million related to FX translation.
+(4) 2024 includes an approximate $300 million decrease related to FX translation, as well as an initial allowance for credit losses on newly purchased credit-deteriorated assets during the year.
+(5) 2023 includes an approximate $175 million increase related to FX translation.
+(6) 2022 includes an approximate $350 million reclass related to the announced sales of Citi's consumer banking businesses in Thailand, India, Malaysia, Taiwan, Indonesia, Bahrain and Vietnam. Also includes a decrease of approximately $100 million related to FX translation.
+(7) 2021 includes an approximate $280 million reclass related to Citi's agreement to sell its Australia consumer banking business and an approximate $90 million reclass related to Citi's agreement to sell its Philippines consumer banking business. Those ACLL were reclassified to Other assets during 2021. 2021 also includes a decrease of approximately $134 million related to FX translation.
+(8) December 31, 2025, 2024, 2023, 2022 and 2021 exclude $6.9 billion, $8.0 billion, $7.6 billion, $5.4 billion and $6.1 billion, respectively, of loans that are carried at fair value.
+(9) Represents additional credit reserves recorded as Other liabilities on the Consolidated Balance Sheet.
+(10) The ACLL represents management's estimate of expected credit losses in the portfolio and troubled debt restructurings. See "Significant Accounting Policies and Significant Estimates" below. Attribution of the allowance is made for analytical purposes only and is available to absorb probable credit losses inherent in the overall portfolio.
+85
+Allowance for Credit Losses on Loans (ACLL)
+The following tables detail information on Citi's ACLL, loans and coverage ratios:
+December 31, 2025
+In billions of dollars ACLL EOP loans, net of
+unearned income ACLL as a
+% of EOP loans (1)
+Consumer
+North America cards (2)
+$ 13.3 $ 173.7 7.7 %
+North America personal installment loans 0.4 3.8 10.5
+North America mortgages (3)
+0.1 122.6 0.1
+North America other (3)
+0.2 29.4 0.7
+International cards 1.2 14.7 8.2
+International other (3)
+0.9 64.3 1.4
+Total (1)
+$ 16.1 $ 408.5 4.0 %
+Corporate (4)
+Commercial and industrial $ 1.8 $ 151.8 1.2 %
+Financial institutions 0.3 98.9 0.3
+Mortgage and real estate (4)
+0.7 27.8 2.5
+Installment and other 0.3 58.4 0.5
+Total (1)
+$ 3.1 $ 336.9 0.9 %
+Loans at fair value (1)
+N/A $ 6.9 N/A
+Total Citigroup $ 19.2 $ 752.2 2.6 %
+December 31, 2024
+In billions of dollars ACLL EOP loans, net of
+unearned income ACLL as a
+% of EOP loans (1)
+Consumer
+North America cards (2)
+$ 13.6 $ 171.1 7.9 %
+North America personal installment loans 0.4 3.8 10.5
+North America mortgages (3)
+0.1 117.2 0.1
+North America other (3)
+0.3 29.4 1.0
+International cards 0.9 12.9 7.0
+International other (3)
+0.7 58.4 1.2
+Total (1)
+$ 16.0 $ 392.8 4.1 %
+Corporate (4)
+Commercial and industrial $ 1.3 $ 148.7 0.9 %
+Financial institutions 0.4 68.4 0.6
+Mortgage and real estate (4)
+0.7 26.4 2.7
+Installment and other 0.2 50.1 0.4
+Total (1)
+$ 2.6 $ 293.6 0.9 %
+Loans at fair value (1)
+N/A $ 8.0 N/A
+Total Citigroup $ 18.6 $ 694.5 2.7 %
+(1) Excludes loans carried at fair value, since they do not have an ACLL and are excluded from the ACLL ratio calculation.
+(2) Includes both Branded Cards and Retail Services. As of December 31, 2025, the $13.3 billion of ACLL represented approximately 24 months of coincident net credit loss coverage (based on fourth quarter of 2025 NCLs). As of December 31, 2025, Branded Cards ACLL as a percentage of EOP loans was 6.3% and Retail Services ACLL as a percentage of EOP loans was 10.8%. As of December 31, 2024, the $13.6 billion of ACLL represented approximately 22 months of coincident net credit loss coverage (based on fourth quarter of 2024 NCLs). As of December 31, 2024, Branded Cards ACLL as a percentage of EOP loans was 6.4% and Retail Services ACLL as a percentage of EOP loans was 11.3%.
+(3) Includes residential mortgages, retail loans and personal, small business and other loans, including those extended through the Private Bank network.
+(4) The above corporate loan classifications are broadly based on the loan's collateral, purpose and type of borrower, which may be different from the following industry table. For example, commercial and industrial, financial institutions, and installment and other loan classifications include various forms of loans to borrowers across multiple industries, whereas mortgage and real estate includes loans secured primarily by real estate.
+N/A Not applicable
+86
+The following table details Citi's corporate credit ACLL by industry exposure:
+December 31, 2025
+In millions of dollars, except percentages Funded exposure (1)(3)
+ACLL ACLL as a % of funded exposure
+Banks and finance companies $ 73,206 $ 257 0.4 %
+Real estate (2)
+62,776 709 1.1
+Commercial 44,387 682 1.5
+Residential 18,389 26 0.1
+Transportation and industrials 58,014 614 1.1
+Technology, media and telecom 34,144 354 1.0
+Consumer retail 34,119 298 0.9
+Power, chemicals, metals and mining 18,695 381 2.0
+Public sector 17,063 67 0.4
+Energy and commodities 12,686 171 1.3
+Asset managers and funds 10,642 42 0.4
+Healthcare 8,076 102 1.3
+Insurance 3,657 15 0.4
+Securities firms 154 3 1.9
+Financial markets infrastructure 151 — —
+Other industries (4)
+3,510 40 1.1
+Total (5)
+$ 336,893 $ 3,053 0.9 %
+(1) Funded exposure excludes loans carried at fair value of $6.8 billion that are not subject to the ACLL.
+(2) As of December 31, 2025, the portion of the ACLL attributed to the total funded CRE exposure (including the Private Bank) was approximately 1.4%.
+(3) Includes $0.7 billion of funded exposure at December 31, 2025, primarily related to commercial credit card delinquency-managed loans.
+(4) Includes the impact of FX translation on the ACLL that is not allocated to individual industries.
+(5) As of December 31, 2025, the ACLL above reflects coverage of 0.3% of funded investment-grade exposure and 2.6% of funded non-investment-grade exposure.
+The following table details Citi's corporate credit ACLL by industry exposure:
+December 31, 2024
+In millions of dollars, except percentages Funded exposure (1)(3)
+ACLL ACLL as a % of funded exposure
+Transportation and industrials $ 57,166 $ 460 0.8 %
+Banks and finance companies 56,716 307 0.5
+Real estate (2)
+53,186 717 1.3
+Commercial 36,200 645 1.8
+Residential 16,986 72 0.4
+Consumer retail 32,212 258 0.8
+Technology, media and telecom 29,534 238 0.8
+Power, chemicals, metals and mining 18,504 257 1.4
+Public sector 13,209 47 0.4
+Energy and commodities 11,686 136 1.2
+Healthcare 8,537 77 0.9
+Asset managers and funds 5,258 28 0.5
+Insurance 2,115 8 0.4
+Securities firms 590 9 1.5
+Financial markets infrastructure 181 1 0.6
+Other industries (4)
+4,733 13 0.3
+Total (5)
+$ 293,627 $ 2,556 0.9 %
+(1) Funded exposure excludes loans carried at fair value of $7.8 billion that are not subject to the ACLL.
+(2) As of December 31, 2024, the portion of the ACLL attributed to the total funded CRE exposure (including the Private Bank) was approximately 1.6%.
+(3) Includes $0.6 billion of funded exposure at December 31, 2024, primarily related to commercial credit card delinquency-managed loans.
+(4) Includes the impact of FX translation on the ACLL that is not allocated to individual industries.
+(5) As of December 31, 2024, the ACLL above reflects coverage of 0.4% of funded investment-grade exposure and 2% of funded non-investment-grade exposure.
+87
+Non-Accrual Loans and Assets
+There is a certain amount of overlap among non-accrual loans and assets. The following summary provides a general description of non-accrual loans and assets:
+Corporate and consumer (including commercial banking) non-accrual status is based on the determination that payment of interest or principal is doubtful.
+A corporate loan may be classified as non-accrual and still be current on principal and interest payments under the terms of the loan structure.
+Consumer non-accrual status is generally based on aging, i.e., the borrower has fallen behind on payments, including borrowers who have enrolled in forbearance programs.
+Consumer mortgage loans, other than Federal Housing Administration (FHA) insured loans, are classified as non-accrual within 60 days of notification that the borrower has filed for bankruptcy. Uninsured consumer mortgage loans are classified as non-accrual if the loan is 90 days or more past due. In addition, home equity loans are classified as non-accrual if the related residential first mortgage loan is 90 days or more past due.
+With the exception of certain international portfolios, credit card loans are not included because, under industry standards, they accrue interest until such loans are charged off, which typically occurs at 180 days of contractual delinquency.
+88
+Non-Accrual Loans
+The table below summarizes Citigroup's non-accrual loans (NAL) as of the periods indicated. Non-accrual loans may still be current on interest payments. In situations where Citi reasonably expects that none or only a portion of the principal owed will ultimately be collected, all payments received are reflected as a reduction of principal and not as interest income. For all other non-accrual loans, cash interest receipts are generally recorded as revenue.
+The increase in corporate non-accrual loans at December 31, 2025 was driven by idiosyncratic credit downgrades. The increase in consumer non-accrual loans at December 31, 2025 was driven by residential mortgage loans impacted by the California wildfires and higher loan balances and the impact of FX translation in Mexico Consumer.
+December 31,
+In millions of dollars 2025 2024 2023 2022 2021
+Corporate non-accrual loans by region (1)(2)(3)
+North America $ 1,145 $ 757 $ 978 $ 138 $ 510
+International 856 620 904 984 1,043
+Total $ 2,001 $ 1,377 $ 1,882 $ 1,122 $ 1,553
+International NAL by cluster
+United Kingdom $ 127 $ 190 $ 268 $ 288 $ 227
+Japan, Asia North and Australia (JANA) 9 22 70 50 82
+LATAM 576 301 367 429 568
+Asia South 29 17 35 3 26
+Europe 100 58 139 117 88
+Middle East, Africa and Russia (MEA) 15 32 25 97 52
+Corporate non-accrual loans (1)(2)(3)
+Banking $ 919 $ 498 $ 799 $ 757 $ 1,166
+Services 337 65 103 153 70
+Markets 622 715 791 3 71
+Mexico SBMM and AFG 123 99 189 209 246
+Total $ 2,001 $ 1,377 $ 1,882 $ 1,122 $ 1,553
+Consumer non-accrual loans (1)
+Wealth $ 526 $ 404 $ 288 $ 259 $ 336
+USPB 343 290 291 282 344
+Mexico Consumer 585 411 479 457 524
+Asia Consumer (4)
+15 19 22 30 209
+Legacy Holdings Assets (consumer)
+149 186 235 289 413
+Total $ 1,618 $ 1,310 $ 1,315 $ 1,317 $ 1,826
+Total non-accrual loans $ 3,619 $ 2,687 $ 3,197 $ 2,439 $ 3,379
+(1) Corporate loans are placed on non-accrual status based on a review by Citigroup's risk officers. Corporate non-accrual loans may still be current on interest payments. With limited exceptions, the following practices are applied for consumer loans: consumer loans, excluding credit cards and mortgages, are placed on non-accrual status at 90 days past due and are charged off at 120 days past due; residential mortgage loans are placed on non-accrual status at 90 days past due and written down to net realizable value at 180 days past due. Consistent with industry conventions, Citigroup generally accrues interest on credit card loans until such loans are charged off, which typically occurs at 180 days contractual delinquency. As such, the non-accrual loan disclosures do not include credit card loans, with the exception of certain international portfolios. The balances above represent non-accrual loans within Corporate loans and Consumer loans on the Consolidated Balance Sheet.
+(2) Approximately 70%, 61%, 50%, 50% and 56% of Citi's corporate non-accrual loans remain current on interest and principal payments at December 31, 2025, 2024, 2023, 2022 and 2021, respectively.
+(3) The December 31, 2025 total corporate non-accrual loans represented 0.58% of total corporate loans.
+(4) Asia Consumer includes the three remaining consumer loan portfolios: Korea, Poland (through the first quarter of 2025) and Russia until the completion of its consumer loan portfolio wind-down in the second quarter of 2025.
+89
+The changes in Citigroup's non-accrual loans were as follows:
+Year ended Year ended
+December 31, 2025 December 31, 2024
+In millions of dollars Corporate Consumer Total Corporate Consumer Total
+Non-accrual loans at beginning of year $ 1,377 $ 1,310 $ 2,687 $ 1,882 $ 1,315 $ 3,197
+Additions 2,425 2,599 5,024 1,517 1,966 3,483
+Sales and transfers to HFS (124) (17) (141) (443) (14) (457)
+Returned to performing — (378) (378) (269) (206) (475)
+Paydowns/settlements (1,277) (553) (1,830) (934) (531) (1,465)
+Charge-offs (400) (1,414) (1,814) (372) (951) (1,323)
+Other — 71 71 (4) (269) (273)
+Ending balance $ 2,001 $ 1,618 $ 3,619 $ 1,377 $ 1,310 $ 2,687
+The table below summarizes Citigroup's other real estate owned (OREO) assets. OREO is recorded on the Consolidated Balance Sheet within Other assets. This represents the carrying value of all real estate property acquired by foreclosure or other legal proceedings when Citi has taken possession of the collateral:
+December 31,
+In millions of dollars 2025 2024 2023 2022 2021
+OREO
+North America $ 14 $ 9 $ 17 $ 10 $ 15
+International (1)
+8 9 19 5 12
+Total OREO $ 22 $ 18 $ 36 $ 15 $ 27
+Non-accrual assets
+Corporate non-accrual loans $ 2,001 $ 1,377 $ 1,882 $ 1,122 $ 1,553
+Consumer non-accrual loans 1,618 1,310 1,315 1,317 1,826
+Non-accrual loans (NAL) $ 3,619 $ 2,687 $ 3,197 $ 2,439 $ 3,379
+OREO 22 18 36 15 27
+Non-accrual assets (NAA) $ 3,641 $ 2,705 $ 3,233 $ 2,454 $ 3,406
+NAL as a percentage of total loans 0.48 % 0.39 % 0.46 % 0.37 % 0.51 %
+NAA as a percentage of total assets 0.14 0.11 0.13 0.10 0.15
+ACLL as a percentage of NAL (2)
+532 691 568 696 487
+(1) The International OREO details by cluster are not provided due to the immateriality of such amounts.
+(2) The ACLL includes the allowance for Citi's credit card portfolios and purchased credit-deteriorated loans, while the non-accrual loans exclude credit card balances (with the exception of certain international portfolios).
+90
+LIQUIDITY RISK
+Overview
+Adequate and diverse sources of funding and liquidity are essential to Citi's businesses. Funding and liquidity risks arise from several factors, many of which are largely outside of Citi's control, such as disruptions in the financial markets, changes in key funding sources, credit spreads, changes in Citi's credit ratings and macroeconomic, geopolitical and other conditions. For additional information, see "Risk Factors—Liquidity Risks" above.
+Citi's funding and liquidity management objectives are aimed at:
+funding its existing asset base;
+growing its core businesses;
+maintaining sufficient liquidity, structured appropriately, so that Citi can operate under a variety of adverse circumstances, including potential Company-specific and/or market liquidity events in varying durations and severity; and
+satisfying regulatory requirements, including, but not limited to, those related to resolution planning (see "Resolution Plan" and "Total Loss-Absorbing Capacity (TLAC)" below).
+Citigroup's primary liquidity objectives are established by entity, and in aggregate, across two major categories:
+Citibank (including Citibank Europe plc, Citibank Singapore Ltd. and Citibank (Hong Kong) Ltd.); and
+Citi's non-bank and other entities, including the parent holding company (Citigroup Inc.), Citi's primary intermediate holding company (Citicorp LLC), Citi's broker-dealer subsidiaries (including Citigroup Global Markets Inc., Citigroup Global Markets Limited and Citigroup Global Markets Japan Inc.) and other bank and non-bank subsidiaries that are consolidated into Citigroup (including Banamex).
+At an aggregate Citigroup level, Citi's goal is to maintain sufficient funding in amount and tenor to fully fund customer assets and to provide an appropriate amount of cash and high-quality liquid assets (as discussed below), even in times of stress, in order to meet its payment obligations as they come due. Citi's liquidity risk management framework provides that, in addition to the aggregate requirements, certain entities be self-sufficient or net providers of liquidity, including in conditions established under their designated stress tests.
+Citi's primary funding sources include the following:
+corporate and consumer deposits via Citi's bank subsidiaries, including Citibank, N.A. (Citibank)
+long-term debt (primarily senior and subordinated debt) mainly issued by Citigroup Inc., as the parent, and Citibank
+stockholders' equity
+These sources are supplemented by short-term borrowings, primarily in the form of secured funding transactions.
+Citi's funding and liquidity framework, working in concert with overall asset/liability management, helps ensure that there is sufficient liquidity and tenor in the overall liability structure (including funding products) of the Company relative to the liquidity and tenor of Citi's assets. This reduces the risk that liabilities will become due before assets mature or are monetized. The Company holds excess liquidity, primarily in the form of high-quality liquid assets (HQLA), as presented in the table below. Citi's liquidity is managed centrally by Corporate Treasury, reported within Corporate/Other in All Other , in conjunction with cluster and in-country treasurers with oversight provided by Independent Risk Management and various Asset and Liability Committees (ALCOs) and Country Coordinating Committee at the individual entity, cluster, country and business levels. Pursuant to this approach, Citi's HQLA are managed with emphasis on asset/liability management and entity-level liquidity adequacy throughout Citi.
+Citi's CRO and CFO co-chair Citigroup's ALCO, which includes Citi's Treasurer and other senior executives. The ALCO sets the strategy of the liquidity portfolio and monitors portfolio performance (see "Risk Governance—Board and Executive Management Committees" above). Significant changes to portfolio asset allocations are approved by the ALCO. Citi also has other ALCOs, which are established at various organizational levels to ensure appropriate oversight for individual entities, countries, franchise businesses and regions, serving as the primary governance committees for managing Citi's balance sheet and liquidity.
+As a supplement to Citigroup's ALCO, Citi's Funding and Liquidity Risk Committee (FLRC) is focused on funding and liquidity risk matters. The FLRC reviews and discusses the funding and liquidity risk profile of, as well as risk management practices for, Citigroup and Citibank and reports its findings and recommendations to each relevant ALCO as appropriate.
+Liquidity Monitoring and Measurement
+Stress Testing
+Liquidity stress testing is performed for each of Citi's major entities, operating subsidiaries and countries. Stress testing and scenario analyses are intended to quantify the potential impact of an adverse liquidity event on the balance sheet and liquidity position, in order to have sufficient liquidity on hand to manage through such an event. These scenarios include assumptions about significant changes in key funding sources, market triggers (such as credit ratings), potential uses of funding and macroeconomic, geopolitical and other conditions. These conditions include expected and stressed market conditions as well as Company-specific events.
+Liquidity stress tests are performed to ascertain potential mismatches between liquidity sources and uses over a variety of time horizons and over different stressed conditions. To monitor the liquidity of an entity, these stress tests and potential mismatches are calculated on a daily basis.
+Given the range of potential stresses, Citi maintains contingency funding plans on a consolidated basis and for individual entities. These plans specify a wide range of readily available actions for a variety of adverse market conditions or idiosyncratic stresses.
+91
+High-Quality Liquid Assets (HQLA)
+Citibank Citi non-bank and other entities Total
+In billions of dollars Dec. 31, 2025 Sep. 30, 2025 Dec. 31, 2024 Dec. 31, 2025 Sep. 30, 2025 Dec. 31, 2024 Dec. 31, 2025 Sep. 30, 2025 Dec. 31, 2024
+Available cash $ 267.2 $ 270.1 $ 227.1 $ 7.3 $ 8.6 $ 7.7 $ 274.5 $ 278.7 $ 234.8
+U.S. sovereign
+179.9 161.3 191.2 52.3 50.5 46.8 232.2 211.8 238.0
+U.S. agency/agency MBS
+32.7 32.2 26.6 1.6 1.8 2.1 34.3 34.0 28.7
+Foreign government debt (1)
+49.7 53.0 44.2 16.5 10.9 12.6 66.2 63.9 56.8
+Other investment grade
+— — — — — 0.1 — — 0.1
+Total HQLA (AVG) $ 529.5 $ 516.6 $ 489.1 $ 77.7 $ 71.8 $ 69.3 $ 607.2 $ 588.4 $ 558.4
+(1) Foreign government debt includes securities issued or guaranteed by foreign sovereigns, agencies and multilateral development banks. Foreign government debt securities are held largely to support local liquidity requirements and Citi's local franchises and principally include government bonds from Japan, Mexico, Korea, the United Kingdom and China.
+The table above includes average amounts of HQLA held at Citigroup's operating entities that are eligible for inclusion in the calculation of Citigroup's consolidated LCR, pursuant to the U.S. LCR rules. These amounts include the HQLA needed to meet the minimum requirements at these entities as well as any amounts in excess of these minimums that are available to be transferred to other entities within Citigroup. Citigroup's average HQLA increased quarter-over-quarter as of the fourth quarter of 2025, primarily driven by an increase in average deposits in Services .
+As of December 31, 2025, Citigroup had approximately $1.0 trillion of available liquidity resources to support client and business needs, including end-of-period HQLA ($610 billion) included in Citi's LCR calculation; additional unencumbered HQLA, including excess liquidity held at bank entities that is non-transferable to other entities within Citigroup ($275 billion); and unused borrowing capacity from available assets not already accounted for within Citi's HQLA to support additional advances from the Federal Home Loan Bank (FHLB) and the Federal Reserve Bank discount window ($164 billion).
+Short-Term Liquidity Measurement: Liquidity Coverage Ratio (LCR)
+Citi monitors its liquidity by reference to the LCR in addition to internal 30-day liquidity stress testing performed for Citi's major entities, operating subsidiaries and countries.
+The LCR is calculated by dividing HQLA by estimated net outflows assuming a stressed 30-day period, with the net outflows determined by standardized stress outflow and inflow rates prescribed in the LCR rule. The outflows are partially offset by contractual inflows from assets maturing within 30 days. Similar to outflows, the inflows are calculated based on prescribed factors to various asset categories, such as retail loans as well as unsecured and secured wholesale lending. The minimum LCR requirement is 100%.
+The table below details the components of Citi's LCR calculation and HQLA in excess of net outflows for the periods indicated:
+In billions of dollars Dec. 31, 2025 Sep. 30, 2025 Dec. 31, 2024
+HQLA $ 607.2 $ 588.4 $ 558.4
+Net outflows 529.3 510.5 480.8
+LCR 115 % 115 % 116 %
+HQLA in excess of net outflows $ 77.9 $ 77.9 $ 77.6
+Note: The amounts are presented on an average basis.
+As of December 31, 2025, Citigroup's average LCR remained unchanged from the quarter ended September 30, 2025. The increase in average HQLA was offset by an increase in net outflows from unsecured and secured wholesale funding.
+Long-Term Liquidity Measurement: Net Stable Funding Ratio (NSFR)
+The NSFR measures the availability of an institution's stable funding against the required stable funding in accordance with U.S. NSFR rules. The ratio of available stable funding to required stable funding must be greater than 100%.
+In general, an institution's available stable funding includes portions of equity, deposits and long-term debt, while its required stable funding is based on the liquidity characteristics of its assets, derivatives and commitments. Standardized weightings are required to be applied to the various asset and liability classes.
+For the quarter ended December 31, 2025, Citigroup's consolidated NSFR was compliant with the 100% minimum requirement of the rule. (For additional information, see the Consolidated Citigroup NSFR Disclosure for the quarterly periods ended December 31, 2025 and September 30, 2025, on Citi's Investor Relations website. The Consolidated Citigroup NSFR Disclosure on Citi's Investor Relations website is not incorporated by reference into, and does not form any part of, this Form 10-K).
+92
+Deposits
+The table below details average deposits, by segment and/or business, and the total Citigroup end-of-period deposits for each of the periods indicated:
+In billions of dollars 4Q25 3Q25 4Q24
+Services $ 935 $ 893 $ 839
+TTS 780 744 704
+Securities Services
+155 149 135
+Markets 20 20 15
+Banking 1 1 1
+Wealth 319 315 315
+USPB 88 90 86
+All Other —Legacy Franchises
+42 40 42
+All Other —Corporate/Other
+17 23 22
+Total Citigroup deposits (AVG) $ 1,422 $ 1,382 $ 1,320
+Total Citigroup deposits (EOP) $ 1,404 $ 1,384 $ 1,284
+On an average basis, total deposits increased 8% year-over-year and 3% sequentially, both driven by corporate deposits. Year-over-year, average deposits for:
+Services increased 11%, driven by both TTS and Securities Services, reflecting growth in International and North America, largely driven by an increase in operational deposits.
+Wealth increased 1%, driven by client transfers from USPB and net new deposits, largely offset by outflows, including a shift from deposits to higher-yielding investments.
+USPB increased 2%, as net new deposits growth was primarily offset by the transfer of certain relationships and the associated deposits to Wealth .
+All Other decreased 8%, reflecting a decrease in corporate certificates of deposit in Corporate/Other, as continued wind-downs in Asia Consumer within Legacy Franchises (including the impact of moving HFS deposits to Other liabilities ) were offset by growth in Legacy Franchises Mexico deposits (including the impact of Mexican peso appreciation).
+The majority of Citi's $1.4 trillion of end-of-period deposits are institutional (approximately $934 billion) and span approximately 90 countries. A large majority of these institutional deposits are within TTS, and of these, over 70% are from clients that use all three TTS integrated services: payments and collections, liquidity management and working capital solutions. In addition, approximately 80% of TTS deposits are from clients that have a longer than 15-year relationship with Citi.
+Citi also has a strong consumer and wealth deposit base, with $413 billion of USPB and Wealth end-of-period deposits, which are diversified across the Private Bank, Citigold and Wealth at Work within Wealth , as well as Retail Banking within USPB .
+As of year end, approximately 65% of Wealth 's U.S. Citigold clients have been with Citi for more than 10 years and approximately 38% of Private Bank ultra-high net worth
+clients have been with Citi for more than 10 years. In addition, USPB 's Retail Banking deposits are spread across six key metropolitan areas in the U.S.
+Long-Term Debt (LTD)
+LTD (generally defined as debt with original maturities of one year or more) represents the most significant component of Citi's funding for the Citigroup parent company and Citi's non-bank subsidiaries and is a supplementary source of funding for the bank entities.
+The following table presents Citi's end-of-period total LTD outstanding for each of the dates indicated:
+In billions of dollars Dec. 31, 2025 Sep. 30, 2025 Dec. 31, 2024
+Non-bank (1)
+Benchmark debt:
+Senior debt
+$ 117.5 $ 115.0 $ 107.4
+Subordinated debt
+28.7 28.7 28.7
+Trust preferred
+1.6 1.6 1.6
+Customer-related debt (2)
+116.7 116.4 103.3
+Local country and other (3)
+14.8 13.6 9.6
+Total non-bank $ 279.3 $ 275.3 $ 250.6
+Bank
+FHLB borrowings $ 3.0 $ 6.0 $ 8.5
+Securitizations (4)
+5.2 6.7 5.1
+Citibank benchmark senior debt 23.5 23.5 19.4
+Customer-related debt (2)
+2.7 2.8 1.2
+Local country and other (3)
+2.1 1.5 2.5
+Total bank $ 36.5 $ 40.5 $ 36.7
+Total LTD $ 315.8 $ 315.8 $ 287.3
+Note: Amounts represent the current value of LTD on Citi's Consolidated Balance Sheet that, for certain debt instruments, includes consideration of fair value, hedging impacts and unamortized discounts and premiums.
+(1) Non-bank includes LTD issued to third parties by the parent holding company (Citigroup) and Citi's non-bank subsidiaries (including broker-dealer subsidiaries) that are consolidated into Citigroup. As of December 31, 2025, non-bank included $101.5 billion of LTD issued by Citi's broker-dealer and other subsidiaries that are consolidated into Citigroup. Certain Citigroup consolidated hedging activities are also included in this line.
+(2) Primarily structured notes, which contain an embedded derivative component that adjusts each security's risk-return profile. See Note 27 for the fair value component of these issuances.
+(3) Local country and other includes debt issued by Citi's affiliates in support of their local operations. Within non-bank, certain secured financing is also included.
+(4) Predominantly credit card securitizations, primarily backed by Branded Cards receivables.
+For information about changes in Citi's end-of-period long-term debt, see "Balance Sheet Overview" above.
+As part of its liability management, Citi has considered, and may continue to consider, opportunities to redeem or repurchase its LTD pursuant to open market purchases, tender offers or other means. Such redemptions and repurchases help reduce Citi's overall funding costs. During 2025, Citi redeemed or repurchased an aggregate of $63.3 billion of its outstanding LTD.
+93
+LTD Issuances and Maturities
+The table below details Citi's LTD issuances and maturities (including repurchases and redemptions) during the periods presented:
+2025 2024 2023
+In billions of dollars Maturities Issuances Maturities Issuances Maturities Issuances
+Non-bank
+Benchmark debt:
+Senior debt $ 19.7 $ 25.1 $ 13.9 $ 11.7 $ 10.2 $ —
+Subordinated debt 5.8 5.2 1.0 4.9 1.3 3.2
+Trust preferred — — — — — —
+Customer-related debt 61.8 70.9 59.2 56.7 42.1 40.1
+Local country and other 2.8 6.9 6.1 8.8 3.1 3.9
+Total non-bank $ 90.1 $ 108.1 $ 80.2 $ 82.1 $ 56.7 $ 47.2
+Bank
+FHLB borrowings $ 6.5 $ 1.0 $ 7.0 $ 4.0 $ 4.3 $ 8.5
+Securitizations 1.9 2.0 1.7 — 2.4 1.5
+Citibank benchmark senior debt 2.5 6.5 2.7 12.0 — 7.5
+Customer-related debt 1.1 2.6 0.5 0.2 0.2 0.1
+Local country and other 1.2 1.8 0.9 0.8 1.4 1.0
+Total bank $ 13.2 $ 13.9 $ 12.8 $ 17.0 $ 8.3 $ 18.6
+Total $ 103.3 $ 122.0 $ 93.0 $ 99.1 $ 65.0 $ 65.8
+The table below details Citi's aggregate LTD maturities (including repurchases and redemptions) in 2025, as well as its aggregate remaining LTD maturities by year as of December 31, 2025:
+Maturities
+In billions of dollars 2025 2026 2027 2028 2029 2030 Thereafter Total
+Non-bank
+Benchmark debt:
+Senior debt $ 19.7 $ 9.9 $ 7.6 $ 20.5 $ 7.9 $ 12.2 $ 59.4 $ 117.5
+Subordinated debt 5.8 2.5 3.8 2.0 — — 20.4 28.7
+Trust preferred — — — — — — 1.6 1.6
+Customer-related debt 61.8 18.5 14.5 12.7 9.4 10.1 51.5 116.7
+Local country and other 2.8 4.0 2.2 0.8 1.2 1.3 5.3 14.8
+Total non-bank $ 90.1 $ 34.9 $ 28.1 $ 36.0 $ 18.5 $ 23.6 $ 138.2 $ 279.3
+Bank
+FHLB borrowings $ 6.5 $ 3.0 $ — $ — $ — $ — $ — $ 3.0
+Securitizations 1.9 0.8 — — 0.8 2.2 1.4 5.2
+Citibank benchmark senior debt 2.5 8.0 6.5 2.5 1.5 3.0 2.0 23.5
+Customer-related debt 1.1 — — — 0.4 0.8 1.5 2.7
+Local country and other 1.2 0.2 0.7 0.9 0.1 — 0.2 2.1
+Total bank $ 13.2 $ 12.0 $ 7.2 $ 3.4 $ 2.8 $ 6.0 $ 5.1 $ 36.5
+Total LTD $ 103.3 $ 46.9 $ 35.3 $ 39.4 $ 21.3 $ 29.6 $ 143.3 $ 315.8
+94
+Resolution Plan
+Citigroup is required under Title I of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (Dodd-Frank Act) and the rules promulgated by the FDIC and FRB to periodically submit a plan for Citi's rapid and orderly resolution under the U.S. Bankruptcy Code in the event of material financial distress or failure. For additional information on risks related to the application of resolution plan requirements, see "Risk Factors—Strategic Risks" above. Citigroup alternates between submitting a full resolution plan and a targeted resolution plan on a biennial cycle.
+Under Citi's preferred "single point of entry" resolution plan strategy, only Citigroup, the parent holding company, would enter into bankruptcy, while Citigroup's material legal entities (as defined in the public section of its 2025 resolution plan, which can be found on the FRB's and FDIC's websites) would remain operational outside of any resolution or insolvency proceedings. Citigroup's resolution plan has been designed to minimize the risk of systemic impact to the U.S. and global financial systems, while maximizing the value of the bankruptcy estate for the benefit of Citigroup's creditors, including its unsecured LTD holders.
+In addition, in line with the FRB's total loss-absorbing capacity (TLAC) rule, Citigroup's shareholders and unsecured creditors—including its unsecured LTD holders—bear any losses resulting from Citigroup's bankruptcy. Accordingly, any value realized by holders of its unsecured LTD may not be sufficient to repay the amounts owed to such debt holders in the event of a bankruptcy or other resolution proceeding of Citigroup.
+The FDIC has also indicated that it was developing a single point of entry strategy to implement the Orderly Liquidation Authority under Title II of the Dodd-Frank Act, which provides the FDIC with the ability to resolve a firm when it is determined that bankruptcy would have serious adverse effects on financial stability in the U.S.
+As previously disclosed, in response to feedback received from the FRB and FDIC, Citigroup took the following actions:
+Citicorp LLC (Citicorp), an existing wholly owned subsidiary of Citigroup, was established as an intermediate holding company (an IHC) for certain of Citigroup's operating material legal entities.
+Citigroup executed an inter-affiliate agreement with Citicorp, Citigroup's operating material legal entities and certain other affiliated entities pursuant to which Citicorp is required to provide liquidity and capital support to Citigroup's operating material legal entities in the event that Citigroup were to enter bankruptcy proceedings (Citi Support Agreement).
+pursuant to the Citi Support Agreement:
+Citigroup made an initial contribution of assets, including certain high-quality liquid assets and inter-affiliate loans (Contributable Assets), to Citicorp, and Citicorp became the business-as-usual funding vehicle for Citigroup's operating material legal entities;
+Citigroup will be obligated to continue to transfer Contributable Assets to Citicorp over time, subject to certain amounts retained by Citigroup to, among other things, meet Citigroup's near-term cash needs; and
+in the event of a Citigroup bankruptcy, Citigroup will be required to contribute most of its remaining assets to Citicorp.
+The obligations of both Citigroup and Citicorp under the Citi Support Agreement, as well as the Contributable Assets, are secured pursuant to a security agreement.
+Total Loss-Absorbing Capacity (TLAC)
+As a U.S. GSIB, Citi is required to maintain minimum levels of TLAC and eligible LTD, each set by reference to the GSIB's consolidated risk-weighted assets (RWA) and total leverage exposure. The intended purpose of the requirements is to facilitate the orderly resolution of U.S. GSIBs under the U.S. Bankruptcy Code and Title II of the Dodd-Frank Act. For additional information, including Citi's TLAC and LTD amounts and ratios, see "Capital Resources—Current Regulatory Capital Standards" above.
+95
+SECURED FUNDING TRANSACTIONS AND SHORT-TERM BORROWINGS
+Citi supplements its primary sources of funding with short-term financings that generally include:
+secured funding transactions consisting of securities loaned or sold under agreements to repurchase, i.e., repos
+short-term borrowings consisting of commercial paper issuances and borrowings from the FHLB and other market participants
+Secured Funding Transactions
+Secured funding is primarily accessed through Citi's broker-dealer subsidiaries, with a smaller portion executed through Citi's bank entities to efficiently fund both (i) secured lending activity and (ii) a portion of the securities inventory held in the context of market making and customer activities. Secured funding transactions are predominantly collateralized by government debt securities. Generally, changes in the level of Citi's secured funding are primarily due to fluctuations in secured lending activity in the matched book (as described below), and changes in securities inventory and eligible counterparty balance sheet netting. In order to maintain reliable funding under a wide range of market conditions, Citi manages risks related to its secured funding by establishing secured funding limits and conducting daily stress tests that account for risks related to capacity, tenor, haircut, collateral type, counterparty and client actions.
+As of the quarter ended December 31, 2025, secured funding on an average basis was $385 billion. For
+information about changes in Citi's end-of-period securities
+loaned and sold under agreements to repurchase, see "Balance Sheet Overview" above.
+The portion of secured funding in the broker-dealer subsidiaries that funds secured lending is commonly referred to as "matched book" activity and is primarily secured by high-quality liquid securities such as U.S. Treasury securities, U.S. agency securities and foreign government debt securities. Other "matched book" activity is secured by less liquid securities, including equity securities, corporate bonds and asset-backed securities, the tenor of which is generally equal to or longer than the tenor of the corresponding assets. As indicated above, the remaining portion of secured funding is used to fund securities inventory held in the context of market making and customer activities.
+Short-Term Borrowings
+See Note 19 for further information on Citigroup's and its affiliates' outstanding short-term borrowings.
+96
+CREDIT RATINGS
+Citigroup's funding and liquidity, funding capacity, ability to access capital markets and other sources of funds, the cost of these funds and its ability to maintain certain deposits are partially dependent on its credit ratings.
+The table below presents the ratings for Citigroup and Citibank as of December 31, 2025. While not included in the table below, the current long-term and short-term ratings of Citigroup Global Markets Holdings Inc. (CGMHI) were A+/F1 at Fitch Ratings, A2/P-1 at Moody's Ratings and A/A-1 at S&P Global Ratings as of December 31, 2025.
+Ratings as of December 31, 2025
+Citigroup Inc. Citibank, N.A.
+Long-term Short-term Outlook Long-
+term Short-
+term Outlook
+Fitch Ratings (Fitch) A F1 Stable A+ F1 Stable
+Moody's Ratings (Moody's) A3 P-2 Stable Aa3 P-1 Stable
+S&P Global Ratings (S&P) BBB+ A-2 Stable A+ A-1 Stable
+Potential Impacts of Ratings Downgrades
+Ratings downgrades by Fitch, Moody's or S&P could negatively impact Citigroup's and/or Citibank's funding and liquidity due to reduced funding capacity, including derivative triggers, which could take the form of cash obligations and collateral requirements.
+The following information is provided for the purpose of analyzing the potential funding and liquidity impact to Citigroup and Citibank of a hypothetical simultaneous ratings downgrade across all three major rating agencies. This analysis is subject to certain estimates, estimation methodologies, judgments and uncertainties. Uncertainties include potential ratings limitations that certain entities may have with respect to permissible counterparties, as well as general subjective counterparty behavior. For example, certain corporate customers and markets counterparties could re-evaluate their business relationships with Citi and limit transactions in certain contracts or market instruments with Citi. Changes in counterparty behavior could impact Citi's funding and liquidity, as well as the results of operations of certain of its businesses. The actual impact to Citigroup or Citibank is unpredictable and may differ materially from the potential funding and liquidity impacts described below. For additional information on the impact of credit rating changes on Citi and its applicable subsidiaries, see "Risk Factors—Liquidity Risks" above.
+Citigroup Inc. and Citibank—Potential Derivative Triggers
+As of December 31, 2025, Citi estimates that a hypothetical one-notch downgrade of the senior debt/long-term rating across all three major rating agencies could impact funding and liquidity due to derivative triggers by approximately $0.1 billion, unchanged from September 30, 2025, for Citigroup Inc., and $0.1 billion, unchanged from September 30, 2025, for Citibank. Other funding sources, such as secured financing transactions and other margin requirements, for which there are no explicit triggers, could also be adversely affected.
+In total, as of December 31, 2025, Citi estimates that a one-notch downgrade of Citigroup Inc. and Citibank across all three major rating agencies could result in increased aggregate cash obligations and collateral requirements of approximately $0.2 billion, unchanged from September 30, 2025. As detailed under "High-Quality Liquid Assets (HQLA)" above, Citigroup has various liquidity resources available to its bank and non-bank entities in part as a contingency for the potential events described above.
+In addition, a broad range of mitigating actions are currently included in Citigroup's and Citibank's contingency funding plans. For Citigroup, these mitigating factors include, but are not limited to, accessing surplus funding capacity from existing clients, tailoring levels of secured lending and adjusting the size of select trading books and collateralized borrowings at certain Citibank subsidiaries. Mitigating actions available to Citibank include, but are not limited to, selling or financing highly liquid government securities, tailoring levels of secured lending, adjusting the size of select trading assets, reducing loan originations and renewals, raising additional deposits or borrowing from the FHLB or central banks. Citi believes these mitigating actions could substantially reduce the funding and liquidity risk, if any, of the potential downgrades described above.
+Citibank—Additional Potential Impacts
+In addition to the above derivative triggers, Citi believes that a potential downgrade of Citibank's senior debt/long-term rating across any of the three major rating agencies could also have an adverse impact on the commercial paper/short-term rating of Citibank. Citibank has provided liquidity commitments to consolidated asset-backed commercial paper (ABCP) conduits, primarily in the form of as set purchase agreements. As of December 31, 2025, Citibank had liquidity commitments of approximately $10.0 billion to ABCP conduits (compared to $15.0 billion at December 31, 2024) (see Note 23 ).
+97
+In addition to the above-referenced liquidity resources of certain Citibank entities, Citibank could reduce the funding and liquidity risk, if any, of the potential downgrades described above through mitigating actions, including repricing certain commitments to commercial paper conduits. In the event of the potential downgrades described above, Citi believes that certain corporate customers could reduce borrowing through these conduits, which would result in a reduced amount of ABCP issuance.
+MARKET RISK
+Overview
+Market risk is the potential for losses arising from changes in the value of Citi's assets and liabilities resulting from changes in market variables such as interest rates, foreign exchange rates, equity prices, commodity prices and credit spreads, as well as their implied volatilities. Market risk arises from both Citi's trading and non-trading portfolios. For additional information on market risk and market risk management at Citi, see "Risk Factors" above.
+Each business is required to establish, with approval from Citi's market risk management, a market risk limit framework for identified risk factors that clearly defines approved risk profiles and is within the parameters of Citi's overall risk appetite. These limits are monitored by the Risk organization, including various regional, legal entity and business Risk Management committees, Citi's country and business Asset and Liability Committees and the Citigroup Risk Management and Asset and Liability Committees. In all cases, the businesses are ultimately responsible for the market risks taken and for remaining within their defined limits.
+MARKET RISK OF NON-TRADING PORTFOLIOS
+Market risk from non-trading portfolios stems predominantly from the potential impact of changes in interest rates and foreign exchange rates on Citi's net interest income and on Citi's Accumulated other comprehensive income (loss) (AOCI) from its investment securities portfolios. Market risk from non-trading portfolios also includes the potential impact of changes in foreign exchange rates on Citi's capital invested in foreign currencies.
+Banking Book Interest Rate Risk
+For interest rate risk purposes, Citi's non-trading portfolios are referred to as the Banking Book. Management of interest rate risk in the Banking Book is governed by Citi's Non-Trading Market Risk Policy. Citigroup's Asset and Liability Committee (ALCO) establishes Citi's risk appetite and related limits for interest rate risk in the Banking Book, which are subject to approval by Citigroup's Board of Directors.
+Corporate Treasury is responsible for the day-to-day management of Citi's Banking Book interest rate risk as well as periodically reviewing it with the ALCO. Citi's Banking Book interest rate risk management is also subject to independent oversight from the second line o

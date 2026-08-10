@@ -1,0 +1,521 @@
+well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matter
+The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+37
+Table of Contents
+Content Amortization
+Description of the Matter As disclosed in Note 1 to the consolidated financial statements "Organization and Summary of Significant Accounting Policies", the Company acquires, licenses and produces content, including original programming ("Content"). The Company amortizes Content based on factors including historical and estimated viewing patterns.
+Auditing the amortization of the Company's Content is complex and subjective due to the judgmental nature of amortization which is based on an estimate of future viewing patterns. Estimated viewing patterns are based on historical and forecasted viewing. If actual viewing patterns differ from these estimates, the pattern and/or period of amortization would be changed and could affect the timing of recognition of content amortization.
+How We Addressed the
+Matter in Our Audit We obtained an understanding, evaluated the design and tested the operating effectiveness of controls over the content amortization process. For example, we tested controls over management's review of the content amortization method and the significant assumptions, including the historical and forecasted viewing hour consumption, used to develop estimated viewing patterns. We also tested management's controls to determine that the data used in the model was complete and accurate.
+To test content amortization, our audit procedures included, among others, evaluating the content amortization method, testing the significant assumptions used to develop the estimated viewing patterns and testing the completeness and accuracy of the underlying data. For example, we assessed management's assumptions by comparing them to current viewing trends and current operating information including comparing previous estimates of viewing patterns to actual results. We also performed sensitivity analyses to evaluate the potential changes in the content amortization recorded that could result from changes in the assumptions.
+/s/ Ernst & Young LLP
+We have served as the Company's auditor since 2012.
+San Jose, California
+January 23, 2026
+38
+Table of Contents
+NETFLIX, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in thousands, except per share data)
+Year ended December 31,
+2025 2024 2023
+Revenues $ 45,183,036 $ 39,000,966 $ 33,723,297
+Cost of revenues 23,275,329 21,038,464 19,715,368
+Sales and marketing 3,301,306 2,917,554 2,657,883
+Technology and development
+3,391,390 2,925,295 2,675,758
+General and administrative
+1,888,408 1,702,039 1,720,285
+Operating income 13,326,603 10,417,614 6,954,003
+Other income (expense):
+Interest expense ( 776,510 ) ( 718,733 ) ( 699,826 )
+Interest and other income (expense) 172,459 266,776 ( 48,772 )
+Income before income taxes 12,722,552 9,965,657 6,205,405
+Provision for income taxes ( 1,741,351 ) ( 1,254,026 ) ( 797,415 )
+Net income $ 10,981,201 $ 8,711,631 $ 5,407,990
+Earnings per share:
+Basic $ 2.58 $ 2.03 $ 1.22
+Diluted $ 2.53 $ 1.98 $ 1.20
+Weighted-average shares of common stock outstanding:
+Basic 4,249,512 4,295,191 4,415,712
+Diluted 4,343,863 4,392,608 4,494,966
+See accompanying notes to consolidated financial statements.
+39
+Table of Contents
+NETFLIX, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(in thousands)
+Year ended December 31,
+2025 2024 2023
+Net income $ 10,981,201 $ 8,711,631 $ 5,407,990
+Other comprehensive income (loss):
+Foreign currency translation adjustments, net of income tax benefit (expense) of $ 33 million, $( 7 ) million, and $ 0 , respectively
+72,011 ( 247,949 ) 113,384
+Net change in unrealized gains (losses) on available-for-sale securities, net of income tax benefit (expense) of $ 1 million, $( 1 ) million, and $ 0 , respectively
+( 2,511 ) 2,511 —
+Cash flow hedges:
+Net unrealized gains (losses) ( 1,071,168 ) 921,227 ( 120,023 )
+Reclassification of net (gains) losses included in net income 68,962 ( 96,795 ) —
+Net change, net of income tax benefit (expense) of $ 301 million, $( 246 ) million, and $ 36 million, respectively
+( 1,002,206 ) 824,432 ( 120,023 )
+Fair value hedges:
+Net change in unrealized gains (losses) excluded from the assessment of effectiveness, net of income tax benefit (expense) of $ 3 million, $( 2 ) million, and $ 0 , respectively
+( 9,838 ) 7,113 —
+Total other comprehensive income (loss) ( 942,544 ) 586,107 ( 6,639 )
+Comprehensive income $ 10,038,657 $ 9,297,738 $ 5,401,351
+See accompanying notes to consolidated financial statements.
+40
+Table of Contents
+NETFLIX, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+Year Ended December 31,
+2025 2024 2023
+Cash flows from operating activities:
+Net income $ 10,981,201 $ 8,711,631 $ 5,407,990
+Adjustments to reconcile net income to net cash provided by operating activities:
+Additions to content assets ( 17,096,617 ) ( 16,223,617 ) ( 12,554,703 )
+Change in content liabilities ( 610,838 ) ( 779,135 ) ( 585,602 )
+Amortization of content assets 16,422,166 15,301,517 14,197,437
+Depreciation and amortization of property, equipment and intangibles 333,389 328,914 356,947
+Stock-based compensation expense 368,449 272,588 339,368
+Foreign currency remeasurement loss (gain) on debt 72,348 ( 121,539 ) 176,296
+Other non-cash items 577,451 494,778 512,075
+Deferred income taxes ( 442,056 ) ( 590,698 ) ( 459,359 )
+Changes in operating assets and liabilities:
+Other current assets ( 790,661 ) 22,180 ( 181,003 )
+Accounts payable ( 8,039 ) 121,353 93,502
+Accrued expenses and other liabilities 881,218 191,899 103,565
+Deferred revenue 254,917 77,844 178,708
+Other non-current assets and liabilities ( 793,655 ) ( 446,351 ) ( 310,920 )
+Net cash provided by operating activities 10,149,273 7,361,364 7,274,301
+Cash flows from investing activities:
+Purchases of property and equipment ( 688,220 ) ( 439,538 ) ( 348,552 )
+Acquisitions ( 17,194 ) — —
+Purchases of investments ( 169,965 ) ( 1,742,246 ) ( 504,862 )
+Proceeds from maturities and sales of investments 1,917,067 — 1,395,165
+Net cash provided by (used in) investing activities 1,041,688 ( 2,181,784 ) 541,751
+Cash flows from financing activities:
+Proceeds from issuance of debt — 1,794,460 —
+Repayments of debt ( 1,833,450 ) ( 400,000 ) —
+Proceeds from issuance of common stock 666,965 832,887 169,990
+Repurchases of common stock ( 9,127,167 ) ( 6,263,746 ) ( 6,045,347 )
+Taxes paid related to net share settlement of equity awards ( 46,165 ) ( 8,285 ) —
+Other financing activities ( 5,806 ) ( 29,743 ) ( 75,446 )
+Net cash used in financing activities ( 10,345,623 ) ( 4,074,427 ) ( 5,950,803 )
+Effect of exchange rate changes on cash, cash equivalents and restricted cash 386,519 ( 416,331 ) 82,684
+Net increase in cash, cash equivalents and restricted cash 1,231,857 688,822 1,947,933
+Cash, cash equivalents and restricted cash, beginning of year 7,807,337 7,118,515 5,170,582
+Cash, cash equivalents and restricted cash, end of year $ 9,039,194 $ 7,807,337 $ 7,118,515
+Supplemental disclosure:
+Interest paid 718,611 674,502 684,504
+See accompanying notes to consolidated financial statements.
+41
+Table of Contents
+NETFLIX, INC.
+CONSOLIDATED BALANCE SHEETS
+(in thousands, except share and per share data)
+As of December 31,
+2025 2024
+Assets
+Current assets:
+Cash and cash equivalents $ 9,033,681 $ 7,804,733
+Short-term investments 28,678 1,779,006
+Other current assets 3,957,832 3,516,640
+Total current assets 13,020,191 13,100,379
+Content assets, net 32,778,392 32,452,462
+Property and equipment, net 2,004,350 1,593,756
+Other non-current assets 7,794,060 6,483,777
+Total assets $ 55,596,993 $ 53,630,374
+Liabilities and Stockholders' Equity
+Current liabilities:
+Current content liabilities $ 4,084,854 $ 4,393,681
+Accounts payable 900,612 899,909
+Accrued expenses and other liabilities 3,220,869 2,156,544
+Deferred revenue 1,775,730 1,520,813
+Short-term debt 998,865 1,784,453
+Total current liabilities 10,980,930 10,755,400
+Non-current content liabilities 1,579,476 1,780,806
+Long-term debt 13,463,971 13,798,351
+Other non-current liabilities 2,957,128 2,552,250
+Total liabilities 28,981,505 28,886,807
+Commitments and contingencies (Note 9)
+Stockholders' equity:
+Preferred stock, $ 0.001 par value; 10,000,000 shares authorized at December 31, 2025 and December 31, 2024; no shares issued and outstanding at December 31, 2025 and December 31, 2024
+— —
+Common stock, $ 0.001 par value; 49,900,000,000 shares authorized at December 31, 2025 and December 31, 2024; 4,222,162,150 and 4,277,571,000 issued and outstanding at December 31, 2025 and December 31, 2024, respectively
+7,286,410 6,252,126
+Treasury stock at cost ( 346,541,145 and 259,534,600 shares at December 31, 2025 and December 31, 2024)
+( 22,372,658 ) ( 13,171,638 )
+Accumulated other comprehensive income (loss) ( 580,382 ) 362,162
+Retained earnings 42,282,118 31,300,917
+Total stockholders' equity 26,615,488 24,743,567
+Total liabilities and stockholders' equity $ 55,596,993 $ 53,630,374
+See accompanying notes to consolidated financial statements.
+42
+Table of Contents
+NETFLIX, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+(in thousands, except share data)
+Common Stock and Additional
+Paid-in Capital Treasury Stock Accumulated
+Other
+Comprehensive Income (Loss) Retained
+Earnings Total
+Stockholders'
+Equity
+Shares Amount
+Balances as of December 31, 2022 4,453,467,760 $ 4,637,601 $ ( 824,190 ) $ ( 217,306 ) $ 17,181,296 $ 20,777,401
+Net income
+— — — — 5,407,990 5,407,990
+Other comprehensive loss — — — ( 6,639 ) — ( 6,639 )
+Issuance of common stock 19,265,980 168,203 — — — 168,203
+Repurchases of common stock ( 145,137,900 ) — ( 6,098,010 ) — — ( 6,098,010 )
+Stock-based compensation expense
+— 339,368 — — — 339,368
+Balances as of December 31, 2023 4,327,595,840 $ 5,145,172 $ ( 6,922,200 ) $ ( 223,945 ) $ 22,589,286 $ 20,588,313
+Net income
+— — — — 8,711,631 8,711,631
+Other comprehensive income — — — 586,107 — 586,107
+Issuance of common stock 48,727,080 834,366 — — — 834,366
+Repurchases of common stock ( 98,619,350 ) — ( 6,241,153 ) — — ( 6,241,153 )
+Shares withheld related to net share settlement of equity awards
+( 132,570 ) — ( 8,285 ) — — ( 8,285 )
+Stock-based compensation expense
+— 272,588 — — — 272,588
+Balances as of December 31, 2024 4,277,571,000 $ 6,252,126 $ ( 13,171,638 ) $ 362,162 $ 31,300,917 $ 24,743,567
+Net income
+— — — — 10,981,201 10,981,201
+Other comprehensive loss — — — ( 942,544 ) — ( 942,544 )
+Issuance of common stock 31,597,695 665,835 — — — 665,835
+Repurchases of common stock ( 86,536,215 ) — ( 9,154,855 ) — — ( 9,154,855 )
+Shares withheld related to net share settlement of equity awards ( 470,330 ) — ( 46,165 ) — — ( 46,165 )
+Stock-based compensation expense
+— 368,449 — — — 368,449
+Balances as of December 31, 2025 4,222,162,150 $ 7,286,410 $ ( 22,372,658 ) $ ( 580,382 ) $ 42,282,118 $ 26,615,488
+See accompanying notes to consolidated financial statements.
+43
+Table of Contents
+NETFLIX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. Organization and Summary of Significant Accounting Policies
+Description of Business
+Netflix, Inc. (the "Company") was incorporated on August 29, 1997 and began operations on April 14, 1998. The Company is one of the world's leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.
+Basis of Presentation
+The consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries. Intercompany balances and transactions have been eliminated.
+Stock Split
+On November 14, 2025, the Company completed a ten -for-one forward stock split of the Company's issued common stock (the "Stock Split"). Each shareholder as of the record date of November 10, 2025 received nine additional shares of common stock for every share held. References made to share or per share amounts in the accompanying consolidated financial statements and applicable disclosures have been retroactively adjusted to reflect the Stock Split. See Note 10 Stockholders' Equity for additional information.
+Use of Estimates
+The preparation of consolidated financial statements in conformity with generally accepted accounting principles ("GAAP") in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting periods. Significant items subject to such estimates and assumptions include the content asset amortization policy and the recognition and measurement of income tax assets and liabilities. The Company bases its estimates on historical experience and on various other assumptions that the Company believes to be reasonable under the circumstances. On an ongoing basis, the Company evaluates these assumptions, judgments and estimates. Actual results may differ from these estimates.
+Recently issued accounting pronouncements not yet adopted
+In November 2024, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") 2024-03, Income Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses , requiring public entities to disclose additional information about specific expense categories in the notes to the financial statements on an interim and annual basis. ASU 2024-03 is effective for fiscal years beginning after December 15, 2026, and for interim periods beginning after December 15, 2027, with early adoption permitted. The Company is currently evaluating the impact of adopting ASU 2024-03.
+In December 2025, the FASB issued ASU 2025-10, Government Grants (Topic 832): Accounting for Government Grants Received by Business Entities , which establishes authoritative guidance on the recognition, measurement, presentation, and disclosure of government grants. Under ASU 2025-10, government grants are recognized when it is probable that the entity will both comply with the conditions of the grant and the grant will be received. The ASU provides specific accounting models for grants related to assets and grants related to income, including options to recognize government grants as deferred income or as a reduction of the asset's cost basis. The ASU also requires enhanced disclosures regarding the nature of government grants, significant terms and conditions, accounting policies applied, and amounts recognized in the financial statements. ASU 2025-10 is effective for fiscal years beginning after December 15, 2028, including interim periods within those fiscal years, with early adoption permitted. The Company is currently evaluating the impact of adopting ASU 2025-10.
+In December 2025, the FASB issued ASU 2025-11, Interim Reporting (Topic 270): Narrow-Scope Improvements , which clarifies the guidance in Topic 270 to improve the consistency of interim financial reporting. The ASU provides a comprehensive list of required interim disclosures and introduces a disclosure principle requiring entities to disclose events since the end of the last annual reporting period that have a material impact on the entity. ASU 2025-11 is effective for fiscal years beginning after December 15, 2027, including interim periods within those fiscal years, with early adoption permitted. The Company is currently evaluating the impact of adopting ASU 2025-11.
+Recently adopted accounting pronouncements
+In December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures , which requires public entities, on an annual basis, to provide disclosure of specific categories in the rate reconciliation, as well as disclosure of income taxes paid disaggregated by jurisdiction. ASU 2023-09 is effective for fiscal years beginning after December 15, 2024, with early adoption permitted. The Company adopted ASU 2023-09 for the year ended December 31, 2025, and applied the new disclosure requirements
+44
+Table of Contents
+prospectively to the current annual period. Prior period disclosures have not been adjusted to reflect the new disclosure requirements. See Note 11 Income Taxes in the accompanying notes to the consolidated financial statements for further detail.
+Cash Equivalents and Short-term Investments
+The Company considers investments in instruments purchased with an original maturity of 90 days or less to be cash equivalents. The Company also classifies amounts in transit from payment processors for customer credit card and debit card transactions that it expects to settle within several days as cash equivalents.
+The Company classifies short-term investments, which consist of marketable securities with original maturities in excess of 90 days as available-for-sale. Short-term investments are reported at fair value, with allowances for credit losses included in "Interest and other income (expense)" in the Consolidated Statements of Operations and unrealized gains and losses included in "Accumulated other comprehensive income (loss)" within Stockholders' equity in the Consolidated Balance Sheets. The Company uses the specific identification method to determine cost in calculating realized gains and losses upon the sale of short-term investments.
+Short-term investments are reviewed periodically for allowances for credit losses and impairment. When evaluating the investments, the Company reviews factors such as the extent to which the fair value of the security is less than the amortized cost basis, adverse conditions specifically related to the security, the financial condition of the issuer, the Company's intent to sell, and whether it would be more likely than not that the Company would be required to sell the investments before the recovery of their amortized cost basis.
+Content
+The Company acquires, licenses and produces content, including original programming, in order to offer members unlimited viewing of video entertainment. The content licenses are for a fixed fee and specific windows of availability. Payment terms for certain content licenses and the production of content require more upfront cash payments relative to the amortization expense. Payments for content, including additions to content assets and the changes in related liabilities, are classified within "Net cash provided by operating activities" on the Consolidated Statements of Cash Flows.
+The Company recognizes content assets (licensed and produced) as "Content assets, net" on the Consolidated Balance Sheets. For licensed content, the Company capitalizes the fee per title and records a corresponding liability at the gross amount of the liability when the license period begins, the cost of the title is known and the title is accepted and available for streaming. For produced content, the Company capitalizes costs associated with the production, including development costs, direct costs and production overhead, as costs are incurred.
+Based on factors including historical and estimated viewing patterns, the Company amortizes the content assets (licensed and produced) in "Cost of revenues" on the Consolidated Statements of Operations over the shorter of each title's contractual window of availability, estimated period of use or ten years , beginning with the month of first availability. The amortization is on an accelerated basis, as the Company typically expects more upfront viewing, and film amortization is more accelerated than TV series amortization. On average, over 90 % of a licensed or produced content asset is expected to be amortized within four years after its month of first availability. The Company reviews factors impacting the amortization of the content assets on a regular basis. The Company's estimates related to these factors require considerable management judgment.
+In the normal course of business, the Company, or a third-party producing content on the Company's behalf, may qualify for tax incentives through eligible spend on productions. The accounting for tax incentives is dependent on the particular type of incentive, including the nature of the benefit and the location the incentive is earned. In general, tax incentives are realized as cash receipts and may be received prior to or after a title launches on the Company's service. Any amounts the Company is eligible for through qualified production spend but has not received, are recognized in "Other current assets" or "Other non-current assets" on the Company's Consolidated Balance Sheets as receivables. Tax incentives are generally accounted for as a reduction to the cost basis of the Company's content assets (presented in "Content assets, net") and reduce content amortization over the life of the title (as presented in "Cost of revenues") on the Consolidated Statements of Operations.
+The Company's business model is subscription based as opposed to a model generating revenues at a specific title level. Content assets (licensed and produced) are predominantly monetized as a group and therefore are reviewed in the aggregate at a group level when an event or change in circumstances indicates a change in the expected usefulness of the content or that the fair value may be less than unamortized cost. To date, the Company has not identified any such event or changes in circumstances. If such changes are identified in the future, these aggregated content assets will be stated at the lower of unamortized cost or fair value. In addition, unamortized costs for assets that have been, or are expected to be, abandoned are written off.
+Acquisitions
+The Company uses its best estimates and assumptions to assign fair value to the tangible and intangible assets acquired and liabilities assumed at the acquisition date. In addition, uncertain tax positions, tax-related valuation allowances and pre-acquisition contingencies of an entity acquired in a business combination are recorded as of the acquisition date.
+45
+Table of Contents
+Property and Equipment
+Property and equipment are carried at cost less accumulated depreciation. Depreciation is calculated using the straight-line method over the shorter of the estimated useful lives of the respective assets, generally up to 30 years, or the expected lease term for leasehold improvements, if applicable.
+Trade Receivables
+Trade receivables primarily consist of membership and advertising fees due to the Company. The Company evaluates the need for an allowance for credit losses based on historical collection trends, the financial condition of its payment partners, and external market factors.
+Revenue Recognition
+The Company's primary source of revenues is from monthly membership fees. Members are billed in advance of the start of their monthly membership and revenues are recognized ratably over each monthly membership period. Revenues are presented net of the taxes that are collected from members and remitted to governmental authorities. The Company is the principal in all its relationships where partners, including consumer electronics ("CE") manufacturers, multichannel video programming distributors ("MVPDs"), mobile operators and internet service providers ("ISPs"), provide access to the service as the Company retains control over service delivery to its members. In circumstances in which the price that the member pays is established by a partner and there is no standalone price for the Netflix service (for instance, in a bundle), the net amount collected from the partner is recognized as revenue.
+The Company also earns revenue from advertisements presented on its streaming service, consumer products, live experiences and various other sources. Revenues earned from sources other than monthly membership fees were not a material component of revenues for the years ended December 31, 2025, 2024, and 2023. See Note 2 Revenue Recognition to the consolidated financial statements for further information regarding revenues.
+Sales and Marketing
+Sales and marketing expenses consist primarily of expenses for promotional activities such as digital and television advertising, and certain payments made to marketing and advertising sales partners. Our marketing partners include CE manufacturers, MVPDs, mobile operators, and ISPs. Our advertising sales partners include advertising technology providers and advertising agencies. Sales and marketing expenses also include payroll, stock-based compensation, facilities, and other related expenses for personnel that support advertising sales and marketing activities. Marketing expenses are expensed as incurred. Advertising expenses were $ 2,001 million, $ 1,779 million and $ 1,732 million for the years ended December 31, 2025, 2024 and 2023, respectively.
+Income Taxes
+The Company records a provision for income taxes for the anticipated tax consequences of the reported results of operations using the asset and liability method. Deferred income taxes are recognized by applying enacted statutory tax rates applicable to future years to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases as well as net operating loss and tax credit carryforwards. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. The measurement of deferred tax assets is reduced, if necessary, by a valuation allowance for any tax benefits for which future realization is uncertain. The Company accounts for the tax effects of global intangible low tax income as a current period expense.
+The Company does not recognize certain tax benefits from uncertain tax positions within the provision for income taxes. The Company may recognize a tax benefit only if it is more likely than not the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the financial statements from such positions are then measured based on the largest benefit that has a greater than 50% likelihood of being realized upon settlement. The Company recognizes interest and penalties related to uncertain tax positions in income tax expense. See Note 11 Income Taxes to the consolidated financial statements for further information regarding income taxes.
+Foreign Currency
+The functional currency for the Company's subsidiaries is determined based on the primary economic environment in which the subsidiary operates. The Company translates the assets and liabilities of its non-U.S. dollar functional currency subsidiaries into U.S. dollars using exchange rates in effect at the end of each period. Revenues and expenses for these subsidiaries are translated using rates that approximate those in effect during the period. Gains and losses from these translations are recognized in cumulative translation adjustment included in "Accumulated other comprehensive income" in Stockholders' equity on the Consolidated Balance Sheets.
+The Company remeasures monetary assets and liabilities that are not denominated in the functional currency at exchange rates in effect at the end of each period. Gains and losses from these remeasurements are recognized in "Interest and other income (expense)" in the Consolidated Statements of Operations. Foreign exchange losses were $ 123 million, $ 18 million, and $ 293 million for the years ended
+46
+Table of Contents
+December 31, 2025, 2024, and 2023, respectively. These losses were primarily due to the non-cash remeasurement of our Senior Notes denominated in Euro and the remeasurement of cash and content liability positions denominated in currencies other than functional currencies. Foreign exchange losses for the years ended December 31, 2025 and December 31, 2024 were net of hedging impacts. No hedging gains or losses were recognized in the Consolidated Statements of Operations in the year ended December 31, 2023. See Note 8 Derivative Financial Instruments and Hedging Activities for further information.
+Derivative Financial Instruments and Hedging Activities
+The Company uses derivative and non-derivative instruments to manage foreign exchange risk related to its ongoing business operations with the primary objective of reducing earnings and cash flow volatility associated with fluctuations in foreign exchange rates.
+The Company recognizes derivative instruments at fair value as either assets (presented in "Other current assets" and "Other non-current assets") or liabilities (presented in "Accrued expenses and other liabilities" and "Other non-current liabilities") on the Company's Consolidated Balance Sheets. The Company classifies derivative instruments in the Level 2 category within the fair value hierarchy.
+Cash flow hedges
+The Company enters into forward contracts to manage the foreign exchange risk on forecasted revenue transactions denominated in currencies other than the U.S. dollar, as well as the foreign exchange risk on forecasted transactions and firm commitments related to the licensing and production of foreign currency-denominated content assets. These forward contracts are designated as cash flow hedges of foreign currency firm commitments and forecasted transactions and generally have maturities of 36 months or less. The hedging contracts may reduce, but do not entirely eliminate, the effect of foreign currency exchange movements, and the Company may choose not to hedge certain exposures.
+The gain or loss on derivative instruments designated as cash flow hedges of forecasted foreign currency revenue is initially reported as a component of accumulated other comprehensive income ("AOCI") and reclassified into "Revenues" on the Consolidated Statements of Operations in the same period the forecasted transaction affects earnings. The gain or loss on derivative instruments designated as cash flow hedges of firmly committed or forecasted transactions related to the licensing and production of content assets is initially reported as a component of AOCI and reclassified into "Cost of Revenues" on the Consolidated Statements of Operations in the same period the hedged transaction affects earnings, which occurs as the underlying hedged content assets are amortized. Cash flows from hedging activities are classified in the same category as the cash flows for the underlying item being hedged within "Net cash provided by operating activities" on the Consolidated Statements of Cash Flows.
+In the event that the likelihood of occurrence of the underlying forecasted transactions is determined to be probable not to occur, the gains or losses on the related cash flow hedges are reclassified from AOCI to "Interest and other income (expense)" in the Consolidated Statements of Operations in the period of dedesignation.
+Fair value hedges
+The Company designates forward contracts as fair value hedges to manage the foreign exchange risk on its foreign-currency denominated debt. These hedges may reduce, but do not entirely eliminate, the effect of foreign currency exchange movements, and the Company may choose not to hedge the full amount of its exposure. The gain or loss on derivative instruments designated as fair value hedges included in the assessment of hedge effectiveness is recognized in "Interest and other income (expense)," net with the offsetting foreign currency remeasurement gains and losses on the hedged items. The Company excludes forward points from the assessment of hedge effectiveness and recognizes the initial value of the excluded component over the life of the hedging instrument in "Interest and other income (expense)" on the Consolidated Statements of Operations. The difference between changes in fair value of the excluded component and the amount recognized in earnings is recognized as a component in AOCI. Cash flows from hedging activities are classified in the same category as the cash flows for the underlying item being hedged within "Net cash provided by (used in) financing activities" on the Consolidated Statements of Cash Flows.
+Net investment hedges
+The Company designates a portion of its foreign currency-denominated debt as net investment hedges to manage the foreign exchange risk on its investment in certain foreign subsidiaries. These hedges may reduce, but do not entirely eliminate, the effect of foreign currency exchange movements, and the Company may choose not to hedge certain exposures. The gains or losses on these non-derivative instruments are reported as a component of AOCI as part of the cumulative translation adjustment on the Company's Consolidated Balance Sheets. The accumulated gains and losses remain in AOCI until the hedged net investment is sold or liquidated, at which point the amounts recognized in AOCI are reclassified into earnings.
+Derivative instruments not designated as hedging instruments
+The Company enters into forward contracts to manage the foreign exchange risk on intercompany transactions and monetary assets and liabilities that are not denominated in the functional currencies of the Company and its subsidiaries. These derivative instruments are not designated as hedging instruments and may reduce, but do not entirely eliminate, the effect of foreign currency exchange movements. The gains or losses on derivative instruments not designated as hedging instruments are recorded in "Interest and other income (expense)" in the
+47
+Table of Contents
+Consolidated Statements of Operations. Cash flows related to these derivative instruments are classified within "Net cash provided by operating activities" on the Consolidated Statements of Cash Flows.
+See Note 8 Derivative Financial Instruments and Hedging Activities to the consolidated financial statements for further information regarding the Company's derivative and non-derivative financial instruments.
+Stock-Based Compensation
+The Company grants non-qualified stock options to its employees on a monthly basis. For certain executive officers, the Company grants restricted stock units ("RSUs") and performance-based restricted stock units ("PSUs"). Stock-based compensation expense is based on the fair value of the stock awards at the grant date and is recognized, net of forfeitures, over the requisite service period. See Note 10 Stockholders' Equity to the consolidated financial statements for further information regarding stock-based compensation.
+2. Revenue Recognition
+The following table summarizes streaming revenues by region for the years ended December 31, 2025, 2024 and 2023. Total streaming revenues are inclusive of hedging gains (losses) of $( 91 ) million and $ 124 million for the years ended December 31, 2025 and 2024, respectively. No hedging gains and losses were recognized in total streaming revenues for the year ended December 31, 2023. See Note 8 Derivative Financial Instruments and Hedging Activities for further information.
+Year Ended December 31,
+2025 2024 2023
+(in thousands)
+United States and Canada (UCAN) $ 19,957,152 $ 17,359,369 $ 14,873,783
+Europe, Middle East, and Africa (EMEA) 14,514,646 12,387,035 10,556,487
+Latin America (LATAM) 5,357,521 4,839,816 4,446,461
+Asia-Pacific (APAC) 5,353,717 4,414,746 3,763,727
+Total Streaming Revenues $ 45,183,036 $ 39,000,966 $ 33,640,458
+Deferred revenue consists of membership fees billed that have not been recognized, as well as gift and other prepaid memberships that have not been fully redeemed. As of December 31, 2025, total deferred revenue was $ 1,776 million, the vast majority of which was related to membership fees billed that are expected to be recognized as revenue within the next month. The remaining deferred revenue balance, which is related to gift cards and other prepaid memberships, will be recognized as revenue over the period of service after redemption, which is expected to occur over the next 12 months. Deferred revenue increased $ 255 million from $ 1,521 million as of December 31, 2024 to $ 1,776 million as of December 31, 2025. Deferred revenue balances may fluctuate due to the number of paid memberships and the price of our memberships.
+48
+Table of Contents
+3. Earnings per Share
+On November 14, 2025, the Company completed the Stock Split to all shareholders of record as of November 10, 2025.
+Outstanding share and per-share amounts disclosed for all periods provided have been retroactively adjusted to reflect the effects of the Stock Split.
+Basic earnings per share is computed using the weighted-average number of outstanding shares of common stock during the period. Diluted earnings per share is computed using the weighted-average number of outstanding shares of common stock and, when dilutive, potential outstanding shares of common stock during the period. Potential outstanding shares of common stock are calculated using the treasury-stock method and consist of incremental shares issuable upon the assumed exercise of stock options and vesting of time-based and performance-based restricted stock units. The computation of earnings per share, as adjusted for the Stock Split, is as follows:
+Year Ended December 31,
+2025 2024 2023
+(in thousands, except per share data)
+Basic earnings per share:
+Net income $ 10,981,201 $ 8,711,631 $ 5,407,990
+Shares used in computation:
+Weighted-average shares of common stock outstanding 4,249,512 4,295,191 4,415,712
+Basic earnings per share $ 2.58 $ 2.03 $ 1.22
+Diluted earnings per share:
+Net income $ 10,981,201 $ 8,711,631 $ 5,407,990
+Shares used in computation:
+Weighted-average shares of common stock outstanding 4,249,512 4,295,191 4,415,712
+Effect of dilutive stock-based awards 94,351 97,417 79,254
+Weighted-average number of shares 4,343,863 4,392,608 4,494,966
+Diluted earnings per share
+$ 2.53 $ 1.98 $ 1.20
+The following table summarizes the potential shares of common stock excluded from the diluted calculation, as adjusted for the Stock Split, as their inclusion would have been anti-dilutive:
+Year Ended December 31,
+2025 2024 2023
+(in thousands)
+Stock-based awards 818 2,432 41,091
+49
+Table of Contents
+4. Cash, Cash Equivalents, Restricted Cash, and Short-term Investments
+The Company classifies short-term investments, which consist of marketable securities with original maturities in excess of 90 days as available-for-sale ("AFS"). The Company does not buy and hold securities principally for the purpose of selling them in the near future. The Company's policy is focused on the preservation of capital, liquidity and return. From time to time, the Company may sell certain securities but the objectives are generally not to generate profits on short-term differences in price.
+The following tables summarize the Company's cash, cash equivalents, restricted cash and short-term investments as of December 31, 2025 and 2024:
+As of December 31, 2025
+Amortized Cost Gross Unrealized Gains Gross Unrealized Losses Estimated Fair Value Cash and cash equivalents Short-term investments Other Current Assets Non-current Assets
+(in thousands)
+Cash $ 5,214,163 $ — $ — $ 5,214,163 $ 5,208,710 $ — $ 5,369 $ 84
+Level 1 securities:
+Money market funds 3,259,240 — — 3,259,240 3,259,180 — — 60
+Level 2 securities:
+Time Deposits (1)
+594,469 — — 594,469 565,791 28,678 — —
+$ 9,067,872 $ — $ — $ 9,067,872 $ 9,033,681 $ 28,678 $ 5,369 $ 144
+As of December 31, 2024
+Amortized Cost Gross Unrealized Gains Gross Unrealized Losses Estimated Fair Value Cash and cash equivalents Short-term investments Other Current Assets Non-current Assets
+(in thousands)
+Cash $ 4,866,753 $ — $ — $ 4,866,753 $ 4,864,207 $ — $ 2,472 $ 74
+Level 1 securities:
+Money market funds 2,676,314 — — 2,676,314 2,676,256 — — 58
+Level 2 securities:
+Time Deposits (1)
+301,374 — — 301,374 264,270 37,104 — —
+Government securities 1,738,642 3,260 1,741,902 — 1,741,902 — —
+$ 9,583,083 $ 3,260 $ — $ 9,586,343 $ 7,804,733 $ 1,779,006 $ 2,472 $ 132
+(1) The majority of the Company's time deposits are international deposits, which mature within one year.
+Other current assets and non-current assets primarily consist of restricted cash for deposits related to self-insurance. The fair value of AFS securities, cash equivalents and short-term investments included in the Level 2 category is based on observable inputs, such as quoted prices for similar assets at the measurement date; quoted prices in markets that are not active; or other inputs that are observable, either directly or indirectly.
+See Note 7 Debt and Note 8 Derivative Financial Instruments and Hedging Activities to the consolidated financial statements for further information regarding the fair value of the Company's senior notes and derivative financial instruments.
+50
+Table of Contents
+5. Balance Sheet Components
+Content Assets, Net
+Content assets consisted of the following:
+As of December 31,
+2025 2024
+(in thousands)
+Licensed content, net
+$ 12,138,578 $ 12,422,309
+Produced content, net
+Released, less amortization
+10,687,444 10,151,543
+In production
+9,210,735 9,317,367
+In development and pre-production
+741,635 561,243
+20,639,814 20,030,153
+Content assets, net $ 32,778,392 $ 32,452,462
+As of December 31, 2025, approximately $ 6,381 million, $ 2,280 million, and $ 1,469 million of the $ 12,139 million unamortized cost of the licensed content is expected to be amortized in each of the next three years. As of December 31, 2025, approximately $ 4,309 million, $ 2,784 million, and $ 1,840 million of the $ 10,687 million unamortized cost of the produced content that has been released is expected to be amortized in each of the next three years.
+The following table summarizes the amortization of content assets:
+Year Ended December 31,
+2025 2024 2023
+(in thousands)
+Licensed content $ 8,713,558 $ 7,689,014 $ 7,145,446
+Produced content (1)
+7,708,608 7,612,503 7,051,991
+Total $ 16,422,166 $ 15,301,517 $ 14,197,437
+(1) Tax incentives earned on qualified production spend generally reduce the cost-basis of content assets and result in lower content amortization over the life of the title. For the years ended December 31, 2025, 2024 and 2023, tax incentives resulted in lower content amortization on produced content of approximately $ 1,000 million, $ 899 million and $ 835 million, respectively.
+Property and Equipment, Net
+Property and equipment and accumulated depreciation consisted of the following:
+As of December 31, Estimated Useful Lives (in Years)
+2025 2024
+(in thousands)
+Land $ 155,664 $ 85,000
+Buildings and improvements 537,082 475,684 30 years
+Leasehold improvements 1,263,051 1,026,593 Over life of lease
+Furniture and fixtures 157,984 134,987 3 years
+Information technology 572,407 446,419 3 - 5 years
+Corporate aircraft 99,164 99,175 8 - 10 years
+Machinery and equipment 30,879 15,135 3 - 5 years
+Capital work-in-progress 285,010 228,300
+Property and equipment, gross 3,101,241 2,511,293
+Less: Accumulated depreciation ( 1,096,891 ) ( 917,537 )
+Property and equipment, net $ 2,004,350 $ 1,593,756
+51
+Table of Contents
+Leases
+The Company has entered into operating leases primarily for real estate. These leases generally have terms which range from 1 year to 15 years, and often include one or more options to renew. These renewal terms can extend the lease term from 1 year to 20 years, and are included in the lease term when it is reasonably certain that the Company will exercise the option. These operating leases are included in "Other non-current assets" on the Company's Consolidated Balance Sheets, and represent the Company's right to use the underlying asset for the lease term. The Company's obligations to make lease payments are included in "Accrued expenses and other liabilities" and "Other non-current liabilities" on the Company's Consolidated Balance Sheets. Operating lease right-of-use assets and liabilities are recognized at the commencement date based on the present value of lease payments over the lease term. The Company has entered into various short-term operating leases with an initial term of twelve months or less. These leases are not recorded on the Company's Consolidated Balance Sheets. All operating lease expense is recognized on a straight-line basis over the lease term. Because the rate implicit in each lease is not readily determinable, the Company uses its incremental borrowing rate to determine the present value of the lease payments. The Company has certain contracts for real estate which may contain lease and non-lease components which it has elected to treat as a single lease component.
+The components of lease costs for the years ended December 31, 2025, 2024 and 2023 were as follows:
+Year ended December 31,
+2025 2024 2023
+(in thousands)
+Operating lease cost $ 503,637 $ 468,282 $ 430,856
+Short-term lease cost 207,324 197,691 207,822
+Total lease cost $ 710,961 $ 665,973 $ 638,678
+Information related to the Company's operating right-of-use assets and related operating lease liabilities were as follows:
+Year ended December 31,
+2025 2024 2023
+(in thousands)
+Cash paid for operating lease liabilities $ 506,624 $ 509,296 $ 451,525
+Right-of-use assets obtained in exchange for new operating lease obligations 465,420 442,391 196,639
+As of December 31,
+2025 2024
+(in thousands, except lease term and discount rate)
+Operating lease right-of-use assets, net $ 2,207,161 $ 2,102,310
+Current operating lease liabilities $ 460,475 $ 428,482
+Non-current operating lease liabilities 2,052,526 1,983,688
+Total operating lease liabilities $ 2,513,001 $ 2,412,170
+Weighted-average remaining lease term 7.0 years 6.9 years
+Weighted-average discount rate 3.8 % 3.5 %
+Maturities of operating lease liabilities as of December 31, 2025 were as follows (in thousands):
+52
+Table of Contents
+Due in 12 month period ended December 31,
+2026 $ 555,684
+2027 481,542
+2028 422,982
+2029 351,107
+2030 292,154
+Thereafter 782,470
+2,885,939
+Less imputed interest ( 372,938 )
+Total operating lease liabilities $ 2,513,001
+Other Current Assets
+Other current assets consisted of the following:
+As of
+December 31,
+2025 December 31,
+2024
+(in thousands)
+Trade receivables
+$ 2,031,476 $ 1,335,304
+Prepaid expenses
+498,054 431,924
+Other (1)
+1,428,302 1,749,412
+Total other current assets
+$ 3,957,832 $ 3,516,640
+(1) $ 552 million and $ 653 million of receivables related to tax incentives earned on production spend are included in Other as of December 31, 2025 and 2024, respectively.
+6. Acquisitions
+In December 2025, the Company completed an acquisition which was accounted for as a business combination for a total purchase price of approximately $ 28 million, consisting of cash consideration.
+On December 4, 2025, the Company entered into a definitive agreement and plan of merger with Warner Bros. Discovery, Inc. ("WBD"), to acquire WBD's streaming and studios businesses, including its film and television studios, HBO Max and HBO (such transaction, the "WBD transaction"), which was then amended by the parties thereto on January 19, 2026 (as so amended and restated, the "Amended and Restated Merger Agreement"). WBD is a leading global media and entertainment company and will separate its Global Linear Networks business, Discovery Global, into a new publicly-traded company prior to the closing of the WBD transaction. See Note 9 Commitments and Contingencies for further details.
+53
+Table of Contents
+7. Debt
+As of December 31, 2025, the Company had aggregate outstanding notes of $ 14,463 million, net of $ 56 million of issuance costs and discounts, with varying maturities (the "Notes"). As of December 31, 2024, the Company had aggregate outstanding notes of $ 15,583 million, net of $ 70 million of issuance costs and discounts. Each of the Notes are senior unsecured obligations of the Company. Interest is payable semi-annually at fixed rates.
+A portion of the outstanding Notes is denominated in foreign currency (comprised of 4,700 million) and is remeasured into U.S. dollars at each balance sheet date (with remeasurement loss, net of hedging impacts, totaling $ 72 million for the year ended December 31, 2025). See Note 8 Derivative Financial Instruments and Hedging Activities to the consolidated financial statements for further information regarding the Company's derivative and non-derivative financial instruments.
+The following table provides a summary of the Company's outstanding debt and the fair values based on quoted market prices in less active markets as of December 31, 2025 and December 31, 2024:
+Principal Amount at Par Level 2 Fair Value as of
+December 31,
+2025 December 31,
+2024 Issuance Date Maturity December 31,
+2025 December 31,
+2024
+(in millions) (in millions)
+5.875 % Senior Notes
+— 800 February 2015 February 2025 — 801
+3.000 % Senior Notes (1)
+— 487 April 2020 June 2025 — 487
+3.625 % Senior Notes
+— 500 April 2020 June 2025 — 497
+4.375 % Senior Notes
+1,000 1,000 October 2016 November 2026 1,006 998
+3.625 % Senior Notes (1)
+1,526 1,346 May 2017 May 2027 1,550 1,375
+4.875 % Senior Notes
+1,600 1,600 October 2017 April 2028 1,634 1,607
+5.875 % Senior Notes
+1,900 1,900 April 2018 November 2028 1,998 1,970
+4.625 % Senior Notes (1)
+1,292 1,139 October 2018 May 2029 1,363 1,220
+6.375 % Senior Notes
+800 800 October 2018 May 2029 857 848
+3.875 % Senior Notes (1)
+1,409 1,242 April 2019 November 2029 1,455 1,293
+5.375 % Senior Notes
+900 900 April 2019 November 2029 939 918
+3.625 % Senior Notes (1)
+1,292 1,139 October 2019 June 2030 1,322 1,174
+4.875 % Senior Notes
+1,000 1,000 October 2019 June 2030 1,025 996
+4.900 % Senior Notes
+1,000 1,000 August 2024 August 2034 1,025 982
+5.400 % Senior Notes
+800 800 August 2024 August 2054 777 782
+$ 14,519 $ 15,653 $ 14,951 $ 15,948
+(1) The following Senior Notes have a principal amount denominated in Euro: 3.000 % Senior Notes for 470 million, 3.625 % Senior Notes for 1,300 million, 4.625 % Senior Notes for 1,100 million, 3.875 % Senior Notes for 1,200 million, and 3.625 % Senior Notes for 1,100 million.
+In the year ended December 31, 2025, the Company repaid upon maturity the $ 800 million aggregate principal amount of its 5.875 % Senior Notes, the 470 million aggregate principal amount of its 3.000 % Senior Notes, and the $ 500 million aggregate principal amount of its 3.625 % Senior Notes.
+Each of the Notes are repayable in whole or in part upon the occurrence of a change of control, at the option of the holders, at a purchase price in cash equal to 101 % of the principal plus accrued interest. The Company may redeem the Notes prior to maturity in whole or in part at an amount equal to the principal amount thereof plus accrued and unpaid interest and an applicable premium. The Notes include, among other terms and conditions, limitations on the Company's ability to create, incur or allow certain liens, and consolidate or merge with, or convey, transfer or lease all or substantially all of the Company's and its subsidiaries assets, to another person. Certain of the Notes additionally limit the ability to enter into sale and lease-back transactions and create, assume, incur or guarantee additional indebtedness of certain of the Company's subsidiaries. As of December 31, 2025 and December 31, 2024, the Company was in compliance with all related covenants.
+Revolving Credit Facility
+On April 12, 2024, the Company entered into a five-year , $ 3 billion unsecured revolving credit facility that matures on April 12, 2029 (the "Revolving Credit Agreement"), to replace its previous $ 1 billion unsecured revolving credit facility. As of December 31, 2025, no amounts have been borrowed under the Revolving Credit Agreement.
+54
+Table of Contents
+The borrowings under the Revolving Credit Agreement bear interest, at the Company's option, of either (i) a floating rate per annum equal to a base rate (the "Alternate Base Rate") plus an applicable margin or (ii) a per annum rate equal to an adjusted term SOFR rate (the "Adjusted Term SOFR Rate") plus an applicable margin. The applicable margin for Alternate Base Rate loans will range from 0.00 % to 0.25 %, and the applicable margin for Adjusted Term SOFR Rate loans will range from 0.75 % to 1.25 %, each based on the Company's credit ratings.
+The Revolving Credit Agreement contains customary affirmative covenants and negative covenants (and customary baskets and exceptions with respect thereto) for a credit facility of this size and type and requires the Company to maintain a minimum ratio of consolidated EBITDA to consolidated interest expense of 3.0 to 1.0 as of the last day of each fiscal quarter. As of December 31, 2025 and December 31, 2024, the Company was in compliance with all related covenants and ratios.
+Commercial Paper Program
+In May 2025, the Company established a $ 3 billion commercial paper program (the "Commercial Paper Program") under which it may issue short-term unsecured commercial paper notes. Net proceeds from this program may be used for general corporate purposes. There were no borrowings outstanding under the Commercial Paper Program as of December 31, 2025.
+WBD Financing
+On December 4, 2025, the Company entered into a bridge commitment letter pursuant to which the commitment parties agreed to provide, subject to the satisfaction of customary closing conditions, a $ 59 billion senior unsecured bridge term loan facility to finance the purchase price for the WBD transaction, to pay fees, costs and expenses incurred in connection with the WBD transaction and, at the Company's option, to refinance certain indebtedness (the "Bridge Facility Commitments"). As of December 31, 2025, no amounts have been utilized under the Bridge Facility Commitments and the Bridge Facility Commitments have been reduced on a dollar-for-dollar basis by the amounts of the Transactions Revolving Credit Agreement and the DDTL Credit Agreement described below to $ 34 billion.
+On December 19, 2025, the Company entered into a $ 5 billion senior unsecured revolving credit facility (the "Transactions Revolving Credit Agreement"). Borrowings under the Transactions Revolving Credit Agreement may be used for working capital and general corporate purposes and to finance the purchase price for the WBD transaction, to pay fees, costs and expenses incurred in connection with the WBD transaction and, at the Company's option, to refinance certain indebtedness. Revolving loans under the Transactions Revolving Credit Agreement may be borrowed, repaid and reborrowed until the date that is the earliest of (i) the date that is the third anniversary of the date of the consummation of the WBD transaction, (ii) the date the Amended and Restated Merger Agreement is terminated in accordance with its terms and (iii) December 19, 2030, at which time all amounts borrowed must be repaid. Borrowings under the Transactions Revolving Credit Agreement bear interest, at the Company's option, at either (i) the Alternate Base Rate plus an applicable margin or (ii) a per annum rate equal to a term SOFR rate (the "Term SOFR Rate") plus an applicable margin. The applicable margin for Alternate Base Rate loans will range from 0 % to 0.10 %, and the applicable margin for Term SOFR Rate loans will range from 0.60 % to 1.10 %, each based on the Company's credit ratings. The Transactions Revolving Credit Agreement contains customary affirmative covenants and negative covenants (and customary baskets and exceptions with respect thereto) for a credit facility of this size and type. The Transactions Revolving Credit Agreement requires the Company to maintain a minimum ratio of consolidated EBITDA to consolidated interest expense of 3.0 to 1.0 as of the last day of each fiscal quarter. As of December 31, 2025, the Company was in compliance with all related covenants and ratios and no amounts have been borrowed under the Transactions Revolving Credit Agreement.
+On December 19, 2025, the Company entered into a senior unsecured delayed draw credit facility (the "DDTL Credit Agreement"). The DDTL Credit Agreement provides for a two-year $ 10 billion unsecured delayed draw term loan credit facility (the "2Y DDTL Facility") and a three-year $ 10 billion unsecured delayed draw term loan credit facility (the "3Y DDTL Facility"). Borrowings under each of the 2Y DDTL Facility and the 3Y DDTL Facility may be used to finance the purchase price for the WBD transaction, to pay fees, costs and expenses incurred in connection with the WBD transaction and, at the Company's option, to refinance certain indebtedness. Delayed draw term loans under the DDTL Credit Agreement will bear interest, at the Company's option, at either (i) the Alternate Base Rate plus an applicable margin or (ii) the Term SOFR Rate plus an applicable margin. For the 2Y DDTL Facility, the applicable margin for Alternate Base Rate loans will range from 0 % to 0.125 %, and the applicable margin for Term SOFR Rate loans will range from 0.850 % to 1.125 %, each based on the Company's credit ratings. For the 3Y DDTL Facility, the applicable margin for Alternate Base Rate loans will range from 0 % to 0.25 %, and the applicable margin for Term SOFR Rate loans will range from 0.95 % to 1.25 %, each based on the Company's credit ratings. The DDTL Credit Agreement contains customary affirmative covenants and negative covenants (and customary baskets and exceptions with respect thereto) for a credit facility of this size and type. The DDTL Credit Agreement requires the Company to maintain a minimum ratio of consolidated EBITDA to consolidated interest expense of 3.0 to 1.0 as of the last day of each fiscal quarter. As of December 31, 2025, the Company was in compliance with all related covenants and ratios and no amounts have been borrowed under the DDTL Credit Agreement.
+See Note 9 Commitments and Contingencies and Note 14 Subsequent Event for further information on the financing arrangements the Company has entered into in connection with the WBD transaction.
+55
+Table of Contents
+8. Derivative Financial Instruments and Hedging Activities
+The Company uses derivative and non-derivative instruments to manage foreign exchange risk related to its ongoing business operations with the primary objective of reducing earnings and cash flow volatility associated with fluctuations in foreign exchange rates.
+Notional Amount of Derivative Contracts
+The net notional amounts of the Company's outstanding derivative instruments were as follows:
+As of December 31,
+2025 2024
+(in thousands)
+Derivatives designated as hedging instruments:
+Foreign exchange contracts
+Cash flow hedges
+$ 21,066,760 $ 18,508,390
+Fair value hedges 2,884,792 3,819,817
+Derivatives not designated as hedging instruments:
+Foreign exchange contracts
+1,555,502 1,432,136
+Total
+$ 25,507,054 $ 23,760,343
+As of December 31, 2025 and December 31, 2024, approximately $ 1.9 billion and $ 1.0 billion, respectively, of the Company's Euro denominated Senior Notes were designated as hedges of the foreign exchange risk of the Company's net investment in certain foreign subsidiaries.
+As of December 31, 2025 and December 31, 2024, the carrying amount of the Company's Euro-denominated Senior Notes (included in "Long-term debt" on the Company's Consolidated Balance Sheets), which were designated as the hedged items in fair value hedges, wa

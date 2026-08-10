@@ -71,6 +71,16 @@ US_GAAP_CONCEPTS: dict[str, list[str]] = {
         "StockholdersEquity",
         "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
     ],
+    # Total liabilities EXCLUDING equity. Added so that Assets = Liabilities + Equity
+    # relates three INDEPENDENTLY tagged concepts. Without it the only available
+    # balance-sheet pair is Assets and LiabilitiesAndStockholdersEquity, which are
+    # defined to be equal: an identity over them cannot be violated by a correct
+    # reading, so a corrector filling one from the other would be scored right
+    # whenever the other was right -- the same label/method coupling that voided the
+    # EBITDA result.
+    "total_liabilities": [
+        "Liabilities",
+    ],
 }
 
 # EBITDA is intentionally NOT tagged in XBRL (it is a non-GAAP measure). The
@@ -265,23 +275,36 @@ def build_manifest(pairs: list[tuple[int, int]], out_path: Path) -> int:
     return n
 
 
-def score_extraction(extracted: dict, gt_fields: dict, rel_tol: float = 0.01) -> dict:
+def score_extraction(extracted: dict, gt_fields: dict, rel_tol: float = 0.01,
+                     scale: dict | None = None) -> dict:
     """Correctness of an extraction against XBRL ground truth, per field.
 
-    Returns {field: {"extracted", "truth", "exact", "within_tol"}}. This is the
-    honest redefinition of "recall" the audit asks for: proportion of CORRECT
-    fields (with an explicit tolerance), not proportion of non-null fields.
+    Returns ``{field: {extracted_raw, extracted_abs, truth, exact, within_tol,
+    error_kind}}``. This is the honest redefinition of "recall" the audit asks for:
+    proportion of CORRECT fields (explicit tolerance), not proportion of non-nulls.
+
+    ``scale`` (D13) is the reporting scale inferred from the DOCUMENT by
+    ``extraction.scale.infer_document_scale``. XBRL facts are absolute USD while
+    statement tables print thousands/millions, so without it every comparison fails.
+    The scale must never be derived from ``gt_fields`` — that would leak the label
+    into the prediction and recreate the D1 tautology. Passing ``None`` means
+    "already absolute" (multiplier 1.0).
     """
+    from semantic_firewall.extraction.scale import classify_error, to_absolute
     from semantic_firewall.validation.dd_base import DDTaxonomy
 
+    sc = scale or {"multiplier": 1.0, "label": "units", "confident": True}
     res = {}
     for field, meta in gt_fields.items():
         truth = float(meta["val"])
-        ev = DDTaxonomy._f(extracted.get(field))
-        exact = abs(ev - truth) < 1.0
+        raw = DDTaxonomy._f(extracted.get(field))
+        ev = to_absolute(raw, sc)
         tol = max(abs(truth) * rel_tol, 1.0)
-        res[field] = {"extracted": ev, "truth": truth,
-                      "exact": exact, "within_tol": abs(ev - truth) <= tol}
+        res[field] = {"extracted_raw": raw, "extracted_abs": ev, "truth": truth,
+                      "scale_multiplier": float(sc.get("multiplier", 1.0)),
+                      "exact": abs(ev - truth) < 1.0,
+                      "within_tol": abs(ev - truth) <= tol,
+                      "error_kind": classify_error(ev, truth, rel_tol)}
     return res
 
 

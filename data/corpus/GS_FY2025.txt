@@ -1,0 +1,487 @@
+dit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that (i) relates to accounts or disclosures that are material to the consolidated financial statements and (ii) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+Valuation of Certain Level 3 Hybrid Financial Instruments
+As described in Notes 4 and 5 to the consolidated financial statements, as of December 31, 2025, the Company had unsecured long-term borrowings of $15.8 billion and unsecured short-term borrowings of $7.7 billion accounted for at fair value and classified in level 3 of the fair value hierarchy, a significant portion of which are hybrid financial instruments. The significant unobservable inputs used to value certain level 3 hybrid financial instruments include volatility, correlation and credit spreads, which primarily relate to the embedded derivative component of these long-term and short-term unsecured borrowings.
+The principal considerations for our determination that performing procedures relating to the valuation of certain level 3 hybrid financial instruments is a critical audit matter are (i) the significant judgment by management when developing the valuation of certain level 3 hybrid financial instruments, (ii) a high degree of auditor judgment, subjectivity, and effort in performing procedures and evaluating audit evidence related to the significant unobservable input related to correlation and (iii) the audit effort involved the use of professionals with specialized skill and knowledge.
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to the valuation of certain level 3 hybrid financial instruments, including controls over the significant unobservable input related to correlation. These procedures also included, among others (i) testing the completeness and accuracy of certain data provided by management and (ii) the involvement of professionals with specialized skill and knowledge to assist in evaluating the reasonableness of management's estimate by (a) developing an independent range of prices for a sample of certain level 3 hybrid financial instruments using independently developed assumptions, and (b) comparing the independent range of prices to management's estimate.
+/s/ PricewaterhouseCoopers LLP
+New York, New York
+February 25, 2026
+We have served as the Company's auditor since 1922.
+Goldman Sachs 2025 Form 10-K
+137
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Consolidated Statements of Earnings
+Year Ended December
+in millions, except per share amounts 2025 2024 2023
+Revenues
+Investment banking $ 9,348 $ 7,738 $ 6,218
+Investment management 11,749 10,596 9,532
+Commissions and fees 4,042 4,086 3,789
+Market making 17,993 18,390 18,238
+Other principal transactions 1,592 4,646 2,126
+Total non-interest revenues 44,724 45,456 39,903
+Interest income
+80,373 81,397 68,515
+Interest expense 66,814 73,341 62,164
+Net interest income 13,559 8,056 6,351
+Total net revenues 58,283 53,512 46,254
+Provision for credit losses
+( 1,113 ) 1,348 1,028
+Operating expenses
+Compensation and benefits 18,906 16,706 15,499
+Transaction based 7,997 6,724 5,698
+Market development 710 646 629
+Communications and technology 2,170 1,991 1,919
+Depreciation and amortization 2,182 2,392 4,856
+Occupancy 958 973 1,053
+Professional fees 1,770 1,652 1,623
+Other expenses 2,851 2,683 3,210
+Total operating expenses 37,544 33,767 34,487
+Pre-tax earnings
+21,852 18,397 10,739
+Provision for taxes 4,676 4,121 2,223
+Net earnings 17,176 14,276 8,516
+Preferred stock dividends 876 751 609
+Net earnings applicable to common shareholders $ 16,300 $ 13,525 $ 7,907
+Earnings per common share
+Basic $ 51.95 $ 41.07 $ 23.05
+Diluted $ 51.32 $ 40.54 $ 22.87
+Average common shares
+Basic 312.7 328.1 340.8
+Diluted 317.6 333.6 345.8
+Consolidated Statements of Comprehensive Income
+Year Ended December
+$ in millions 2025 2024 2023
+Net earnings $ 17,176 $ 14,276 $ 8,516
+Other comprehensive income/(loss) adjustments, net of tax:
+Currency translation 11 32 ( 62 )
+Debt valuation adjustment ( 676 ) ( 263 ) ( 1,015 )
+Pension and postretirement liabilities 32 47 ( 76 )
+Available-for-sale securities 1,075 401 1,245
+Cash flow hedges ( 1 )
+Other comprehensive income
+442 216 92
+Comprehensive income $ 17,618 $ 14,492 $ 8,608
+The accompanying notes are an integral part of these consolidated financial statements.
+138
+Goldman Sachs 2025 Form 10-K
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Consolidated Balance Sheets
+As of December
+$ in millions 2025 2024
+Assets
+Cash and cash equivalents $ 164,259 $ 182,092
+Collateralized agreements:
+Securities purchased under agreements to resell (includes $ 126,007 and $ 179,793 at fair value)
+126,007 180,062
+Securities borrowed (includes $ 51,581 and $ 46,902 at fair value)
+208,208 194,645
+Customer and other receivables (includes $ 315 and $ 23 at fair value)
+185,842 133,717
+Trading assets (at fair value and includes $ 158,641 and $ 148,417 pledged as collateral)
+656,796 570,555
+Investments:
+Available-for-sale securities (at fair value; amortized cost of $ 99,116 and $ 80,777 )
+99,244 79,458
+Held-to-maturity securities
+69,193 78,713
+Other investments (includes $ 24,938 and $ 25,284 at fair value)
+25,825 26,343
+Loans (net of allowance of $ 2,148 and $ 4,666 , and includes $ 4,905 and $ 5,460 at fair value)
+237,734 196,200
+Other assets (includes $ 180 and $ 194 at fair value)
+36,212 34,187
+Total assets $ 1,809,320 $ 1,675,972
+Liabilities and shareholders' equity
+Deposits (includes $ 76,569 and $ 44,855 at fair value)
+$ 501,422 $ 433,013
+Collateralized financings:
+Securities sold under agreements to repurchase (at fair value)
+223,384 274,380
+Securities loaned (includes $ 11,995 and $ 10,246 at fair value)
+53,644 56,060
+Other secured financings (includes $ 27,833 and $ 27,985 at fair value)
+28,021 28,150
+Customer and other payables 231,865 223,255
+Trading liabilities (at fair value) 262,552 202,555
+Unsecured short-term borrowings (includes $ 59,758 and $ 50,367 at fair value)
+70,459 69,709
+Unsecured long-term borrowings (includes $ 112,683 and $ 89,189 at fair value)
+285,500 242,634
+Other liabilities (includes $ 111 and $ 84 at fair value)
+27,501 24,220
+Total liabilities 1,684,348 1,553,976
+Commitments, contingencies and guarantees
+Shareholders' equity
+Preferred stock; aggregate liquidation preference of $ 15,153 and $ 13,253
+15,153 13,253
+Common stock; 931,995,446 and 927,499,667 shares issued, and 296,476,742 and 310,653,708 shares outstanding
+9 9
+Share-based awards 5,795 5,148
+Nonvoting common stock; no shares issued and outstanding
+Additional paid-in capital 61,906 61,376
+Retained earnings 165,288 153,412
+Accumulated other comprehensive loss ( 2,260 ) ( 2,702 )
+Stock held in treasury, at cost; 635,518,706 and 616,845,961 shares
+( 120,919 ) ( 108,500 )
+Total shareholders' equity 124,972 121,996
+Total liabilities and shareholders' equity $ 1,809,320 $ 1,675,972
+The accompanying notes are an integral part of these consolidated financial statements.
+Goldman Sachs 2025 Form 10-K
+139
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Consolidated Statements of Changes in Shareholders' Equity
+Year Ended December
+$ in millions 2025 2024 2023
+Preferred stock
+Beginning balance $ 13,253 $ 11,203 $ 10,703
+Issued 1,900 4,250 1,500
+Redeemed ( 2,200 ) ( 1,000 )
+Ending balance 15,153 13,253 11,203
+Common stock
+Beginning balance 9 9 9
+Issued
+Ending balance 9 9 9
+Share-based awards
+Beginning balance 5,148 5,121 5,696
+Issuance and amortization of share-based awards 3,513 2,741 2,098
+Delivery of common stock underlying share-based awards ( 2,730 ) ( 2,483 ) ( 2,504 )
+Forfeiture of share-based awards ( 136 ) ( 231 ) ( 169 )
+Ending balance 5,795 5,148 5,121
+Additional paid-in capital
+Beginning balance 61,376 60,247 59,050
+Delivery of common stock underlying share-based awards 2,693 2,476 2,549
+Cancellation of share-based awards in satisfaction of withholding tax requirements ( 2,156 ) ( 1,331 ) ( 1,345 )
+Preferred stock issuance costs
+( 5 ) 10 5
+Other ( 2 ) ( 26 ) ( 12 )
+Ending balance 61,906 61,376 60,247
+Retained earnings
+Beginning balance
+153,412 143,688 139,372
+Net earnings 17,176 14,276 8,516
+Dividends and dividend equivalents declared on common stock and share-based awards ( 4,424 ) ( 3,801 ) ( 3,591 )
+Dividends declared on preferred stock ( 876 ) ( 717 ) ( 599 )
+Preferred stock redemption premium ( 34 ) ( 10 )
+Ending balance 165,288 153,412 143,688
+Accumulated other comprehensive income/(loss)
+Beginning balance ( 2,702 ) ( 2,918 ) ( 3,010 )
+Other comprehensive income
+442 216 92
+Ending balance ( 2,260 ) ( 2,702 ) ( 2,918 )
+Stock held in treasury, at cost
+Beginning balance ( 108,500 ) ( 100,445 ) ( 94,631 )
+Repurchased ( 12,360 ) ( 8,000 ) ( 5,796 )
+Reissued 39 33 29
+Other ( 98 ) ( 88 ) ( 47 )
+Ending balance ( 120,919 ) ( 108,500 ) ( 100,445 )
+Total shareholders' equity $ 124,972 $ 121,996 $ 116,905
+The accompanying notes are an integral part of these consolidated financial statements.
+140
+Goldman Sachs 2025 Form 10-K
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Consolidated Statements of Cash Flows
+Year Ended December
+$ in millions 2025 2024 2023
+Cash flows from operating activities
+Net earnings $ 17,176 $ 14,276 $ 8,516
+Adjustments to reconcile net earnings to net cash used for operating activities:
+Depreciation and amortization 2,182 2,392 4,856
+Deferred income taxes
+204 ( 800 ) ( 1,360 )
+Share-based compensation 3,445 2,663 2,085
+Provision for credit losses ( 1,113 ) 1,348 1,028
+Changes in operating assets and liabilities:
+Customer and other receivables and payables, net ( 43,206 ) ( 8,367 ) ( 28,219 )
+Collateralized transactions (excluding other secured financings), net ( 12,891 ) 68,582 160,227
+Trading assets ( 69,866 ) ( 86,991 ) ( 163,807 )
+Trading liabilities 57,560 ( 212 ) 5,751
+Loans held for sale, net ( 504 ) 537 1,635
+Other, net 1,859 ( 6,640 ) ( 3,299 )
+Net cash used for operating activities ( 45,154 ) ( 13,212 ) ( 12,587 )
+Cash flows from investing activities
+Purchase of property, leasehold improvements and equipment ( 2,064 ) ( 2,091 ) ( 2,316 )
+Proceeds from sales of property, leasehold improvements and equipment 803 1,613 3,278
+Net cash received from business dispositions
+1,536 3,622 487
+Available-for-sale securities:
+Purchases ( 77,429 ) ( 60,852 ) ( 9,185 )
+Proceeds from sales 61,325 19,005 3,161
+Proceeds from paydowns and maturities 43 12,809 8,130
+Held-to-maturity securities:
+Purchases ( 11,279 ) ( 23,018 ) ( 26,238 )
+Proceeds from paydowns and maturities 21,687 15,549 8,604
+Other investments:
+Purchases ( 9,392 ) ( 8,226 ) ( 4,833 )
+Proceeds from sales, paydowns and maturities 9,892 9,010 6,953
+Loans (excluding loans held for sale), net ( 39,349 ) ( 17,045 ) ( 5,353 )
+Net cash used for investing activities ( 44,227 ) ( 49,624 ) ( 17,312 )
+Cash flows from financing activities
+Unsecured short-term borrowings, net 2,988 934 2,050
+Other secured financings (short-term), net ( 3,877 ) 13,707 673
+Proceeds from issuance of other secured financings (long-term) 6,510 5,243 3,047
+Repayment of other secured financings (long-term), including the current portion ( 3,331 ) ( 2,036 ) ( 3,570 )
+Proceeds from issuance of unsecured long-term borrowings 88,196 67,252 47,153
+Repayment of unsecured long-term borrowings, including the current portion ( 71,502 ) ( 74,519 ) ( 54,066 )
+Derivative contracts with a financing element, net 2,313 2,390 3,280
+Deposits, net 62,783 5,894 39,723
+Preferred stock redemption
+( 2,200 ) ( 1,000 )
+Common stock repurchased ( 12,360 ) ( 8,000 ) ( 5,796 )
+Settlement of share-based awards in satisfaction of withholding tax requirements ( 2,156 ) ( 1,331 ) ( 1,345 )
+Dividends and dividend equivalents paid on common stock, preferred stock and share-based awards ( 5,277 ) ( 4,497 ) ( 4,189 )
+Proceeds from issuance of preferred stock, net of issuance costs 1,895 4,239 1,496
+Other financing, net ( 82 ) 247 344
+Net cash provided by financing activities 66,100 7,323 27,800
+Effect of exchange rate changes on cash and cash equivalents
+5,448 ( 3,972 ) 1,851
+Net decrease in cash and cash equivalents ( 17,833 ) ( 59,485 ) ( 248 )
+Cash and cash equivalents, beginning balance 182,092 241,577 241,825
+Cash and cash equivalents, ending balance $ 164,259 $ 182,092 $ 241,577
+Supplemental disclosures:
+Cash payments for interest, net of capitalized interest $ 65,494 $ 72,623 $ 60,026
+Cash payments for income taxes, net $ 3,990 $ 3,673 $ 2,389
+See Notes 9, 12 and 16 for information about non-cash activities. See Note 24 for further information about cash payments for income taxes for 2025.
+The accompanying notes are an integral part of these consolidated financial statements.
+Goldman Sachs 2025 Form 10-K
+141
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+Note 1.
+Description of Business
+The Goldman Sachs Group, Inc. (Group Inc. or parent company), a Delaware corporation, together with its consolidated subsidiaries (collectively, the firm), is a leading global financial institution that delivers a broad range of financial services to a large and diversified client base that includes corporations, financial institutions, governments and individuals. Founded in 1869, the firm is headquartered in New York and maintains offices in all major financial centers around the world.
+Beginning with the fourth quarter of 2025, the firm made certain changes to its segments as the firm continued to narrow its strategic focus with respect to consumer-related activities within Platform Solutions. Prior periods are presented on a comparable basis.
+The firm manages and reports its activities in the following three business segments:
+Global Banking & Markets
+The firm provides a broad range of services to a diverse group of corporations, financial institutions, investment funds and governments. Services include strategic advisory assignments with respect to mergers and acquisitions, divestitures, corporate defense activities, restructurings and spin-offs, and equity and debt underwriting of public offerings and private placements. The firm facilitates client transactions and makes markets in fixed income, equity, currency and commodity products. In addition, the firm makes markets in and clears institutional client transactions on major stock, options and futures exchanges worldwide and provides prime financing (including securities lending, margin lending and swaps), portfolio financing and other types of equity financing (including securities-based loans to individuals). The firm also provides lending to corporate clients, including through relationship lending and acquisition financing, and secured lending, through structured mortgage and other asset-backed lending. In addition, the firm provides financing through securities purchased under agreements to resell (resale agreements) and other financing (including commodity financing to clients through structured transactions, facilitating institutional primary loans for syndication and providing structured letters of credit to corporate clients). Additionally, the firm provides transaction banking services, such as deposit taking, payments solutions and other cash management services, for corporate and institutional clients. The firm also makes investments related to Global Banking & Markets activities.
+Asset & Wealth Management
+The firm manages assets and offers investment products across all major asset classes to a diverse set of clients, both institutional and individuals, including through a network of third-party distributors around the world. The firm also provides investing and wealth advisory solutions, including financial planning and counseling, and executing brokerage transactions for wealth management clients. The firm issues loans to wealth management clients and raises deposits through its consumer banking digital platform, Marcus by Goldman Sachs (Marcus), and through its private bank. The firm invests in public and private equity securities, debt securities and loans, related to corporate, real estate and infrastructure assets. The firm also makes investments through consolidated investment entities (CIEs), substantially all of which are engaged in real estate investment activities.
+Platform Solutions
+The firm issues credit cards through a partnership arrangement with Apple Inc. and raises deposits from Apple Card customers. In December 2025, the firm entered into an agreement to transition the Apple Card program to another issuer. During 2025, the firm sold the GM credit card program to another issuer. See Note 9 for further information about the Apple Card program.
+142
+Goldman Sachs 2025 Form 10-K
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+Note 2.
+Basis of Presentation
+These consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States (U.S. GAAP) and include the accounts of Group Inc. and all other entities in which the firm has a controlling financial interest. Intercompany transactions and balances have been eliminated.
+All references to 2025, 2024 and 2023 refer to the firm's years ended, or the dates, as the context requires, December 31, 2025, December 31, 2024 and December 31, 2023, respectively. Any reference to a future year refers to a year ending on December 31 of that year. Certain reclassifications have been made to previously reported amounts to conform to the current presentation.
+Note 3.
+Significant Accounting Policies
+The firm's significant accounting policies are either described below or included in the following footnotes:
+Fair Value Measurements Note 4
+Fair Value Hierarchy Note 5
+Trading Assets and Liabilities Note 6
+Derivatives and Hedging Activities Note 7
+Investments Note 8
+Loans Note 9
+Fair Value Option Note 10
+Collateralized Agreements and Financings Note 11
+Other Assets Note 12
+Deposits Note 13
+Unsecured Borrowings Note 14
+Other Liabilities Note 15
+Securitization Activities Note 16
+Variable Interest Entities Note 17
+Commitments, Contingencies and Guarantees Note 18
+Shareholders' Equity Note 19
+Regulation and Capital Adequacy Note 20
+Earnings Per Common Share Note 21
+Transactions with Affiliated Funds Note 22
+Interest Income and Interest Expense Note 23
+Income Taxes Note 24
+Business Segments Note 25
+Credit Concentrations Note 26
+Legal Proceedings Note 27
+Employee Benefit Plans Note 28
+Employee Incentive Plans Note 29
+Parent Company Note 30
+Goldman Sachs 2025 Form 10-K
+143
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+Consolidation
+The firm consolidates entities in which the firm has a controlling financial interest. The firm determines whether it has a controlling financial interest in an entity by first evaluating whether the entity is a voting interest entity or a variable interest entity (VIE).
+Voting Interest Entities. Voting interest entities are entities in which (i) the total equity investment at risk is sufficient to enable the entity to finance its activities independently and (ii) the equity holders have the power to direct the activities of the entity that most significantly impact its economic performance, the obligation to absorb the losses of the entity and the right to receive the residual returns of the entity. The usual condition for a controlling financial interest in a voting interest entity is ownership of a majority voting interest. If the firm has a controlling majority voting interest in a voting interest entity, the entity is consolidated.
+Variable Interest Entities. A VIE is an entity that lacks one or more of the characteristics of a voting interest entity. The firm has a controlling financial interest in a VIE when the firm has a variable interest or interests that provide it with (i) the power to direct the activities of the VIE that most significantly impact the VIE's economic performance and (ii) the obligation to absorb losses of the VIE or the right to receive benefits from the VIE that could potentially be significant to the VIE. See Note 17 for further information about VIEs.
+Equity-Method Investments. When the firm does not have a controlling financial interest in an entity but can exert significant influence over the entity's operating and financial policies, the investment is generally accounted for at fair value by electing the fair value option available under U.S. GAAP. Significant influence generally exists when the firm owns 20% to 50% of the entity's common stock or in-substance common stock.
+In certain cases, the firm applies the equity method of accounting to new investments that are strategic in nature or closely related to the firm's principal business activities, when the firm has a significant degree of involvement in the cash flows or operations of the investee or when cost-benefit considerations are less significant. See Note 8 for further information about equity-method investments.
+Investment Funds. The firm has formed investment funds with third-party investors. These funds are typically organized as limited partnerships or limited liability companies for which the firm acts as general partner or manager. Generally, the firm does not hold a majority of the economic interests in these funds. These funds are usually voting interest entities and generally are not consolidated because third-party investors typically have rights to terminate the funds or to remove the firm as general partner or manager. Investments in these funds are generally measured at net asset value (NAV) and are included in investments. See Notes 8, 18 and 22 for further information about investments in funds.
+Use of Estimates
+Preparation of these consolidated financial statements requires management to make certain estimates and assumptions, the most important of which relate to fair value measurements, the allowance for credit losses on loans and lending commitments accounted for at amortized cost, accounting for goodwill and identifiable intangible assets, provisions for losses that may arise from litigation and regulatory proceedings (including governmental investigations), and accounting for income taxes. These estimates and assumptions are based on the best available information, but actual results could be materially different.
+Revenue Recognition
+Financial Assets and Liabilities at Fair Value. Trading assets and liabilities and certain investments are carried at fair value either under the fair value option or in accordance with other U.S. GAAP. In addition, the firm has elected to account for certain of its loans and other financial assets and liabilities at fair value by electing the fair value option. The fair value of a financial instrument is the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. Financial assets are marked to bid prices and financial liabilities are marked to offer prices. Fair value measurements do not include transaction costs. Fair value gains or losses are generally included in market making or other principal transactions. See Note 4 for further information about fair value measurements.
+144
+Goldman Sachs 2025 Form 10-K
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+Revenue from Contracts with Clients. The firm recognizes revenue earned from contracts with clients for services, such as investment banking, investment management, and execution and clearing (contracts with clients), when the performance obligations related to the underlying transaction are completed.
+Revenues from contracts with clients represent approximately 50 % of total non-interest revenues for 2025 (including approximately 85 % of investment banking revenues, approximately 95 % of investment management revenues and all commissions and fees), and approximately 45 % of total non-interest revenues for both 2024 and 2023 (including approximately 85 % of investment banking revenues, approximately 95 % of investment management revenues and all commissions and fees). See Note 25 for information about net revenues by business segment.
+Investment Banking
+Advisory. Fees from financial advisory assignments are recognized in revenues when the services related to the underlying transaction are completed under the terms of the assignment. Non-refundable deposits and milestone payments in connection with financial advisory assignments are recognized in revenues upon completion of the underlying transaction or when the assignment is otherwise concluded.
+Expenses associated with financial advisory assignments are recognized when incurred and are included in transaction based expenses. Client reimbursements for such expenses are included in investment banking revenues.
+Underwriting. Fees from underwriting assignments are recognized in revenues upon completion of the underlying transaction based on the terms of the assignment.
+Expenses associated with underwriting assignments are generally deferred until the related revenue is recognized or the assignment is otherwise concluded. Such expenses are included in transaction based expenses for completed assignments.
+Investment Management
+The firm earns management fees and incentive fees for investment management services, which are included in investment management revenues. The firm makes payments to brokers and advisors related to the placement of the firm's investment funds (distribution fees), which are included in transaction based expenses.
+Management Fees. Management fees for mutual funds are calculated as a percentage of daily NAV and are received monthly. Management fees for hedge funds are calculated as a percentage of month-end NAV and are generally received quarterly. Management fees for separately managed accounts are calculated as a percentage of either the daily or monthly NAV and are received quarterly. Management fees for private equity funds are calculated as a percentage of monthly invested capital or committed capital and are generally received quarterly, semi-annually or annually, depending on the fund. Management fees are recognized over time in the period the services are provided.
+Distribution fees paid by the firm are calculated based on either a percentage of the management fee, the investment fund's NAV or the committed capital. Such fees are included in transaction based expenses.
+Incentive Fees. Incentive fees are calculated as a percentage of a fund's or separately managed account's return, or excess return above a specified benchmark or other performance target. Incentive fees are generally based on investment performance over a twelve-month period or over the life of a fund. Fees that are based on performance over a twelve-month period are subject to adjustment prior to the end of the measurement period. For fees that are based on investment performance over the life of the fund, future investment underperformance may require fees previously distributed to the firm to be returned to the fund.
+Incentive fees earned from a fund or separately managed account are recognized when it is probable that a significant reversal of such fees will not occur, which is generally when such fees are no longer subject to fluctuations in the market value of investments held by the fund or separately managed account. Therefore, incentive fees recognized during the period may relate to performance obligations satisfied in previous periods.
+Goldman Sachs 2025 Form 10-K
+145
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+Commissions and Fees
+The firm earns substantially all commissions and fees from executing and clearing client transactions on stock, options and futures markets, as well as over-the-counter (OTC) transactions. Commissions and fees are recognized on the day the trade is executed. The firm also provides third-party research services to clients in connection with certain soft-dollar arrangements. Third-party research costs incurred by the firm in connection with such arrangements are presented net within commissions and fees.
+Remaining Performance Obligations
+Remaining performance obligations are services that the firm has committed to perform in the future in connection with its contracts with clients. The firm's remaining performance obligations are generally related to its financial advisory assignments and certain investment management activities. Revenues associated with remaining performance obligations relating to financial advisory assignments cannot be determined until the outcome of the transaction. For the firm's investment management activities, where fees are calculated based on the NAV of the fund or separately managed account, future revenues associated with such remaining performance obligations cannot be determined as such fees are subject to fluctuations in the market value of investments held by the fund or separately managed account.
+The firm is able to determine the future revenues associated with management fees calculated based on committed capital. As of December 2025, substantially all future net revenues associated with such remaining performance obligations will be recognized through 2034. Annual revenues associated with such performance obligations average less than $ 350 million through 2034.
+Transfers of Financial Assets
+Transfers of financial assets are accounted for as sales when the firm has relinquished control over the assets transferred. For transfers of financial assets accounted for as sales, any gains or losses are recognized in net revenues. Assets or liabilities that arise from the firm's continuing involvement with transferred financial assets are initially recognized at fair value. For transfers of financial assets that are not accounted for as sales, the assets are generally included in trading assets and the transfer is accounted for as a collateralized financing, with the related interest expense recognized over the life of the transaction. See Note 11 for further information about transfers of financial assets accounted for as collateralized financings and Note 16 for further information about transfers of financial assets accounted for as sales.
+Cash and Cash Equivalents
+The firm defines cash equivalents as highly liquid overnight deposits held in the ordinary course of business. Cash and cash equivalents included cash and due from banks of $ 6.52 billion as of December 2025 and $ 5.36 billion as of December 2024. Cash and cash equivalents also included interest-bearing deposits with banks of $ 157.74 billion as of December 2025 and $ 176.73 billion as of December 2024.
+The firm segregates cash for regulatory and other purposes related to client activity. Cash and cash equivalents segregated for regulatory and other purposes were $ 14.80 billion as of December 2025 and $ 14.84 billion as of December 2024. In addition, the firm segregates securities for regulatory and other purposes related to client activity. See Note 11 for further information about segregated securities.
+Customer and Other Receivables
+Customer and other receivables included receivables from customers and counterparties of $ 125.00 billion as of December 2025 and $ 92.88 billion as of December 2024, and receivables from brokers, dealers and clearing organizations of $ 60.84 billion as of December 2025 and $ 40.84 billion as of December 2024. Such receivables primarily consist of customer margin loans, collateral posted in connection with certain derivative transactions, and receivables resulting from unsettled transactions.
+Substantially all of these receivables are accounted for at amortized cost net of any allowance for credit losses, which generally approximates fair value. As these receivables are not accounted for at fair value, they are not included in the firm's fair value hierarchy in Notes 4 and 5. Had these receivables been included in the firm's fair value hierarchy, substantially all would have been classified in level 2 as of both December 2025 and December 2024. See Note 10 for further information about customer and other receivables accounted for at fair value under the fair value option. Interest on customer and other receivables is recognized over the life of the transaction and included in interest income.
+Customer and other receivables includes receivables from contracts with clients and contract assets. Contract assets represent the firm's right to receive consideration for services provided in connection with its contracts with clients for which collection is conditional and not merely subject to the passage of time. The firm's receivables from contracts with clients were $ 4.16 billion as of December 2025 and $ 4.08 billion as of December 2024. As of both December 2025 and December 2024, contract assets were not material.
+146
+Goldman Sachs 2025 Form 10-K
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+Customer and Other Payables
+Customer and other payables included payables to customers and counterparties of $ 224.46 billion as of December 2025 and $ 217.15 billion as of December 2024, and payables to brokers, dealers and clearing organizations of $ 7.41 billion as of December 2025 and $ 6.11 billion as of December 2024. Such payables primarily consist of customer credit balances related to the firm's prime brokerage activities. Customer and other payables are accounted for at cost plus accrued interest, which generally approximates fair value. As these payables are not accounted for at fair value, they are not included in the firm's fair value hierarchy in Notes 4 and 5. Had these payables been included in the firm's fair value hierarchy, substantially all would have been classified in level 2 as of both December 2025 and December 2024. Interest on customer and other payables is recognized over the life of the transaction and included in interest expense.
+Offsetting Assets and Liabilities
+To reduce credit exposures on derivatives and securities financing transactions, the firm may enter into master netting agreements or similar arrangements (collectively, netting agreements) with counterparties that permit it to offset receivables and payables with such counterparties. A netting agreement is a contract with a counterparty that permits net settlement of multiple transactions with that counterparty, including upon the exercise of termination rights by a non-defaulting party. Upon exercise of such termination rights, all transactions governed by the netting agreement are terminated and a net settlement amount is calculated. In addition, the firm receives and posts cash and securities collateral with respect to its derivatives and securities financing transactions, subject to the terms of the related credit support agreements or similar arrangements (collectively, credit support agreements). An enforceable credit support agreement grants the non-defaulting party exercising termination rights the right to liquidate the collateral and apply the proceeds to any amounts owed. In order to assess enforceability of the firm's right of setoff under netting and credit support agreements, the firm evaluates various factors, including applicable bankruptcy laws, local statutes and regulatory provisions in the jurisdiction of the parties to the agreement.
+Derivatives are reported on a net-by-counterparty basis (i.e., the net payable or receivable for derivative assets and liabilities for a given counterparty) in the consolidated balance sheets when a legal right of setoff exists under an enforceable netting agreement. Resale agreements and securities sold under agreements to repurchase (repurchase agreements) and securities borrowed and loaned transactions with the same settlement date are presented on a net-by-counterparty basis in the consolidated balance sheets when such transactions meet certain settlement criteria and are subject to netting agreements.
+In the consolidated balance sheets, derivatives are reported net of cash collateral received and posted under enforceable credit support agreements, when transacted under an enforceable netting agreement. In the consolidated balance sheets, resale and repurchase agreements, and securities borrowed and loaned, are not reported net of the related cash and securities received or posted as collateral. See Note 11 for further information about collateral received and pledged, including rights to deliver or repledge collateral. See Notes 7 and 11 for further information about offsetting assets and liabilities.
+Foreign Currency Translation
+Assets and liabilities denominated in non-U.S. currencies are translated at rates of exchange prevailing on the date of the consolidated balance sheets and revenues and expenses are translated at average rates of exchange for the period. Foreign currency remeasurement gains or losses on transactions in nonfunctional currencies are recognized in earnings. Gains or losses on translation of the financial statements of a non-U.S. operation, when the functional currency is other than the U.S. dollar, are included, net of hedges and taxes, in the consolidated statements of comprehensive income.
+Goldman Sachs 2025 Form 10-K
+147
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+Recent Accounting Developments
+Fair Value Measurement of Equity Securities Subject to Contractual Sale Restrictions (ASC 820). In June 2022, the FASB issued ASU No. 2022-03, "Fair Value Measurement of Equity Securities Subject to Contractual Sale Restrictions." This ASU clarifies that a contractual restriction on the sale of an equity security should not be considered in measuring its fair value. In addition, the ASU requires specific disclosures related to equity securities that are subject to contractual sale restrictions. This ASU became effective for the firm in January 2024 under a prospective approach. Adoption of this ASU did not have a material impact on the firm's consolidated financial statements.
+Accounting for Investments in Tax Credit Structures Using the Proportional Amortization Method (ASC 323). In March 2023, the FASB issued ASU No. 2023-02, "Investments — Equity Method and Joint Ventures (Topic 323) — Accounting for Investments in Tax Credit Structures Using the Proportional Amortization Method." This ASU expands the proportional amortization method election currently associated with low-income housing tax credits to other qualifying tax credits and requires incremental disclosures for programs in which the proportional amortization method is elected. This ASU became effective for the firm in January 2024 under a modified retrospective approach. Adoption of this ASU did not have a material impact on the firm's consolidated financial statements.
+Improvements to Reportable Segment Disclosures (ASC 280). In N ovember 2023, the FASB issued ASU No. 2023-07, "Improvements to Reportable Segment Disclosures." This ASU requires enhanced disclosures primarily about significant segment expenses that are regularly provided to the chief operating decision maker. This ASU became effective for the firm for annual periods beginning in January 2024, and interim periods beginning in January 2025 under a retrospective approach. Since this ASU only requires additional disclosures, adoption of this ASU did not have an impact on the firm's financial condition, results of operations or cash flows. See Note 25 for further information.
+Improvements to Income Tax Disclosures (ASC 740). In December 2023, the FASB issued ASU No. 2023-09, "Improvements to Income Tax Disclosures." This ASU requires incremental disclosures primarily related to the reconciliation of the statutory tax rate to the effective tax rate, as well as income taxes paid. This ASU became effective for the firm for annual periods beginning in January 2025, and the firm elected to apply it under a prospective approach. Since this ASU only requires additional disclosures, adoption of this ASU did not have an impact on the firm's financial condition, results of operations or cash flows.
+Disaggregation of Income Statement Expenses (ASC 220). In November 2024, the FASB issued ASU No. 2024-03, "Disaggregation of Income Statement Expenses." This ASU requires additional disaggregation of certain expenses within the footnotes to the financial statements. This ASU is effective for the firm for annual periods beginning in January 2027, and interim periods beginning in January 2028 under a prospective approach. Early adoption and retrospective application is permitted. Since this ASU only requires additional disclosures, adoption of this ASU will not have an impact on the firm's financial condition, results of operations or cash flows.
+148
+Goldman Sachs 2025 Form 10-K
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+Measurement of Credit Losses for Accounts Receivable and Contract Assets (ASC 326). In July 2025, the FASB issued ASU No. 2025-05, "Measurement of Credit Losses for Accounts Receivable and Contract Assets." This ASU simplifies the estimation of credit losses on accounts receivable and contract assets arising from transactions accounted for under ASC 606, "Revenue from Contracts with Customers," by providing companies an option to assume that the conditions as of the balance sheet date will remain unchanged for the remaining life of these assets while estimating expected credit losses. This ASU is effective for the firm beginning in January 2026 under a prospective approach. Adoption of this ASU will not have a material impact on the firm's financial condition, results of operations or cash flows.
+Targeted Improvements to the Accounting for Internal-Use Software (ASC 350). In September 2025, the FASB issued ASU No. 2025-06, "Targeted Improvements to the Accounting for Internal-Use Software." This ASU eliminates the requirement to consider the project stage of an internal-use software under development while capitalizing its development costs. Instead, under the ASU, companies are required to capitalize internal-use software development costs when management authorizes and commits to fund the software development project, and it is probable that the project will be completed and the software will be used as intended. This ASU is effective for the firm beginning in January 2028 under a prospective, retrospective or a modified approach. Early adoption is permitted. Adoption of this ASU is not expected to have a material impact on the firm's financial condition, results of operations or cash flows.
+Derivatives Scope Refinements (ASC 815) and Scope Clarification for Share-Based Noncash Consideration from a Customer in a Revenue Contract (ASC 606). In September 2025, the FASB issued ASU No. 2025-07, "Derivatives Scope Refinements and Scope Clarification for Share-Based Noncash Consideration from a Customer in a Revenue Contract." This ASU expands the scope exceptions in ASC 815 to include non-exchange-traded contracts with underlyings based on operations or activities specific to one of the parties to the contract. This ASU also clarifies that the guidance in ASC 606 should be applied to contracts where share-based noncash consideration is received from a customer. This ASU is effective for the firm beginning in January 2027 under a prospective approach or on a modified retrospective basis. Early adoption is permitted. Adoption of this ASU is not expected to have a material impact on the firm's financial condition, results of operations or cash flows.
+Financial Instruments — Credit Losses: Purchased Loans (ASC 326) . In November 2025, the FASB issued ASU No. 2025-08, "Financial Instruments — Credit Losses (Topic 326) — Purchased Loans." This ASU expands the recognition model currently in place for purchased financial assets with significant credit deterioration to certain purchased seasoned loans. This ASU is effective for the firm beginning in January 2027 under a prospective approach. Early adoption is permitted. Adoption of this ASU is not expected to have a material impact on the firm's financial condition, results of operations or cash flows.
+Improvements to Hedge Accounting (ASC 815). In November 2025, the FASB issued ASU No. 2025-09, "Hedge Accounting Improvements." This ASU better aligns hedge accounting with the entity's risk management activities. This ASU expands on hedge accounting guidance for both financial and nonfinancial risk components and aligns the recognition and presentation of the effects of the hedging instruments and the hedged items in the financial statements. This ASU is effective for the firm beginning in January 2027 under a prospective approach. Early adoption is permitted. Adoption of this ASU is not expected to have a material impact on the firm's financial condition, results of operations or cash flows.
+Goldman Sachs 2025 Form 10-K
+149
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+Note 4.
+Fair Value Measurements
+The fair value of a financial instrument is the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. Financial assets are marked to bid prices and financial liabilities are marked to offer prices. Fair value measurements do not include transaction costs. The firm measures certain financial assets and liabilities as a portfolio (i.e., based on its net exposure to market and/or credit risks).
+The best evidence of fair value is a quoted price in an active market. If quoted prices in active markets are not available, fair value is determined by reference to prices for similar instruments, quoted prices or recent transactions in less active markets, or internally developed models that primarily use market-based or independently sourced inputs, including, but not limited to, interest rates, volatilities, equity or debt prices, foreign exchange rates, commodity prices, credit spreads and funding spreads (i.e., the spread or difference between the interest rate at which a borrower could finance a given financial instrument relative to a benchmark interest rate).
+U.S. GAAP has a three-level hierarchy for disclosure of fair value measurements. This hierarchy prioritizes inputs to the valuation techniques used to measure fair value, giving the highest priority to level 1 inputs and the lowest priority to level 3 inputs. A financial instrument's level in this hierarchy is based on the lowest level of input that is significant to its fair value measurement. In evaluating the significance of a valuation input, the firm considers, among other factors, a portfolio's net risk exposure to that input. The fair value hierarchy is as follows:
+Level 1. Inputs are unadjusted quoted prices in active markets to which the firm had access at the measurement date for identical, unrestricted assets or liabilities.
+Level 2. Inputs to valuation techniques are observable, either directly or indirectly.
+Level 3. One or more inputs to valuation techniques are significant and unobservable.
+The fair values for substantially all of the firm's financial assets and liabilities are based on observable prices and inputs and are classified in levels 1 and 2 of the fair value hierarchy. Certain level 2 and level 3 financial assets and liabilities may require valuation adjustments that a market participant would require to arrive at fair value for factors, such as counterparty and the firm's credit quality, funding risk, transfer restrictions, liquidity and bid/offer spreads. Valuation adjustments are generally based on market evidence.
+The table below presents financial assets and liabilities carried at fair value.
+As of December
+$ in millions 2025 2024
+Total level 1 financial assets $ 515,386 $ 436,298
+Total level 2 financial assets 473,090 497,514
+Total level 3 financial assets 20,324 20,358
+Investments in funds at NAV 1,739 2,547
+Counterparty and cash collateral netting ( 46,573 ) ( 49,048 )
+Total financial assets at fair value $ 963,966 $ 907,669
+Total assets
+$ 1,809,320 $ 1,675,972
+Total level 3 financial assets divided by:
+Total assets 1.1 % 1.2 %
+Total financial assets at fair value 2.1 % 2.2 %
+Total level 1 financial liabilities $ 140,556 $ 100,350
+Total level 2 financial liabilities 648,454 611,340
+Total level 3 financial liabilities 32,130 25,721
+Counterparty and cash collateral netting ( 46,255 ) ( 37,750 )
+Total financial liabilities at fair value $ 774,885 $ 699,661
+Total liabilities $ 1,684,348 $ 1,553,976
+Total level 3 financial liabilities divided by:
+Total liabilities 1.9 % 1.7 %
+Total financial liabilities at fair value 4.1 % 3.7 %
+In the table above:
+Counterparty netting among positions classified in the same level is included in that level.
+Counterparty and cash collateral netting represents the impact on derivatives of netting across levels.
+The table below presents a summary of level 3 financial assets.
+As of December
+$ in millions 2025 2024
+Trading assets:
+Trading cash instruments $ 904 $ 1,213
+Derivatives 4,283 4,126
+Investments 14,411 14,142
+Loans 546 683
+Other assets
+180 194
+Total $ 20,324 $ 20,358
+Level 3 financial assets as of December 2025 were essentially unchanged compared with December 2024. See Note 5 for further information about level 3 financial assets (including information about unrealized gains and losses related to level 3 financial assets and transfers into and out of level 3).
+150
+Goldman Sachs 2025 Form 10-K
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+The valuation techniques and nature of significant inputs used to determine the fair value of the firm's financial instruments are described below. See Note 5 for further information about significant unobservable inputs used to value level 3 financial instruments.
+Valuation Techniques and Significant Inputs for Trading Cash Instruments, Investments and Loans
+Level 1. Level 1 instruments include U.S. government obligations, most non-U.S. government obligations, certain agency obligations, certain corporate debt instruments, certain money market instruments and actively traded listed equities. These instruments are valued using quoted prices for identical unrestricted instruments in active markets. The firm defines active markets for equity instruments based on the average daily trading volume both in absolute terms and relative to the market capitalization for the instrument. The firm defines active markets for debt instruments based on both the average daily trading volume and the number of days with trading activity.
+Level 2. Level 2 instruments include certain non-U.S. government obligations, most agency obligations, most mortgage-backed loans and securities, most corporate debt instruments, most state and municipal obligations, most money market instruments, most other debt obligations, restricted or less liquid listed equities, certain private equities, commodities and certain lending commitments.
+Valuations of level 2 instruments can be verified to quoted prices, recent trading activity for identical or similar instruments, broker or dealer quotations or alternative pricing sources with reasonable levels of price transparency. Consideration is given to the nature of the quotations (e.g., indicative or executable) and the relationship of recent market activity to the prices provided from alternative pricing sources.
+Valuation adjustments are typically made to level 2 instruments (i) if the instrument is subject to transfer restrictions and/or (ii) for other premiums and liquidity discounts that a market participant would require to arrive at fair value. Valuation adjustments are generally based on market evidence.
+Level 3. Level 3 instruments have one or more significant valuation inputs that are not observable. Absent evidence to the contrary, level 3 instruments are initially valued at transaction price, which is considered to be the best initial estimate of fair value. Subsequently, the firm uses other methodologies to determine fair value, which vary based on the type of instrument. Valuation inputs and assumptions are changed when corroborated by substantive observable evidence, including values realized on sales.
+Valuation techniques of level 3 instruments vary by instrument, but are generally based on discounted cash flow techniques. The valuation techniques and the nature of significant inputs used to determine the fair values of each type of level 3 instrument are described below:
+Loans and Securities Backed by Commercial Real Estate
+Loans and securities backed by commercial real estate are directly or indirectly collateralized by a single property or a portfolio of properties, and may include tranches of varying levels of subordination. Significant inputs are generally determined based on relative value analyses and include:
+Market yields implied by transactions of similar or related assets and/or current levels and changes in market indices, such as the CMBX (an index that tracks the performance of commercial mortgage bonds);
+Transaction prices in both the underlying collateral and instruments with the same or similar underlying collateral;
+A measure of expected future cash flows in a default scenario (recovery rates) implied by the value of the underlying collateral, which is mainly driven by current performance of the underlying collateral and capitalization rates. Recovery rates are expressed as a percentage of notional or face value of the instrument and reflect the benefit of credit enhancements on certain instruments; and
+Timing of expected future cash flows (duration) which, in certain cases, may incorporate the impact of any loan forbearances and other unobservable inputs (e.g., prepayment speeds).
+Loans and Securities Backed by Residential Real Estate
+Loans and securities backed by residential real estate are directly or indirectly collateralized by portfolios of residential real estate and may include tranches of varying levels of subordination. Significant inputs are generally determined based on relative value analyses, which incorporate comparisons to instruments with similar collateral and risk profiles. Significant inputs include:
+Market yields implied by transactions of similar or related assets;
+Transaction prices in both the underlying collateral and instruments with the same or similar underlying collateral; and
+Duration, driven by underlying loan prepayment speeds and residential property liquidation timelines.
+Goldman Sachs 2025 Form 10-K
+151
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+Corporate Debt Instruments
+Corporate debt instruments includes corporate loans, debt securities and convertible debentures. Significant inputs for corporate debt instruments are generally determined based on relative value analyses, which incorporate comparisons both to prices of credit default swaps that reference the same or similar underlying instrument or entity and to other debt instruments for the same or similar issuer for which observable prices or broker quotations are available. Significant inputs include:
+Market yields implied by transactions of similar or related assets and/or current levels and trends of market indices, such as the CDX (an index that tracks the performance of corporate credit);
+Current performance and recovery assumptions and, where the firm uses credit default swaps to value the related instrument, the cost of borrowing the underlying reference obligation;
+Duration; and
+Market and transaction multiples for corporate debt instruments with convertibility or participation options.
+Equity Securities
+Equity securities consists of private equities. Recent third-party completed or pending transactions (e.g., merger proposals, debt restructurings, tender offers) are considered the best evidence for any change in fair value. When these are not available, the following valuation methodologies are used, as appropriate:
+Industry multiples (primarily EBITDA and revenue multiples) and public comparables;
+Transactions in similar instruments;
+Discounted cash flow techniques; and
+Third-party appraisals.
+The firm also considers changes in the outlook for the relevant industry and financial performance of the issuer as compared to projected performance. Significant inputs include:
+Market and transaction multiples;
+Discount rates and capitalization rates; and
+For equity securities with debt-like features, market yields implied by transactions of similar or related assets, current performance and recovery assumptions, and duration.
+Other Trading Cash Instruments, Investments and Loans
+The significant inputs to the valuation of other trading cash instruments, investments and loans are generally determined based on relative value analyses, which incorporate comparisons both to prices of credit default swaps that reference the same or similar underlying instrument or entity and to other debt instruments for the same issuer for which observable prices or broker quotations are available. Significant inputs include:
+Market yields implied by transactions of similar or related assets and/or current levels and trends of market indices;
+Current performance and recovery assumptions and, where the firm uses credit default swaps to value the related instrument, the cost of borrowing the underlying reference obligation; and
+Duration.
+Valuation Techniques and Significant Inputs for Derivatives
+The firm's level 2 and level 3 derivatives are valued using derivative pricing models (e.g., discounted cash flow models, correlation models and models that incorporate option pricing methodologies, such as Monte Carlo simulations). Price transparency of derivatives can generally be characterized by product type, as described below.
+Interest Rate. In general, the key inputs used to value interest rate derivatives are transparent, even for most long-dated contracts. Interest rate swaps and options denominated in the currencies of leading industrialized nations are characterized by high trading volumes and tight bid/offer spreads. Interest rate derivatives that reference indices, such as an inflation index, or the shape of the yield curve (e.g., 10-year swap rate vs. 2-year swap rate) are more complex, but the key inputs are generally observable.
+Credit. Price transparency for credit default swaps, including both single names and baskets of credits, varies by market and underlying reference entity or obligation. Credit default swaps that reference indices, large corporates and major sovereigns generally exhibit the most price transparency. For credit default swaps with other underliers, price transparency varies based on credit rating, the cost of borrowing the underlying reference obligations, and the availability of the underlying reference obligations for delivery upon the default of the issuer. Credit default swaps that reference loans, asset-backed securities and emerging market debt instruments tend to have less price transparency than those that reference corporate bonds. In addition, more complex credit derivatives, such as those sensitive to the correlation between two or more underlying reference obligations, generally have less price transparency.
+152
+Goldman Sachs 2025 Form 10-K
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+Currency. Prices for currency der

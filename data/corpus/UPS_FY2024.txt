@@ -1,0 +1,483 @@
+nt controls, and IT operations controls.
+Tested the effectiveness of system interface controls and automated controls within the global small package revenue stream, as well as the controls designed to ensure the accuracy and completeness of revenue.
+We tested the effectiveness of controls over the relevant global small package revenue business processes, including those in place to reconcile the various systems to the Company's general ledger.
+We performed analytical procedures to evaluate the Company's recorded revenue and evaluate trends.
+For a sample of customers, we read the Company's contract with the customer and evaluated the Company's pattern of revenue recognition for the customer. In addition, we evaluated the accuracy of the Company's recorded global small package revenue for a sample of customer invoices.
+/s/ Deloitte & Touche LLP
+Atlanta, Georgia
+February 18, 2025
+We have served as the Company's auditor since 1969.
+66
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(In millions)
+December 31,
+2024 2023
+ASSETS
+Current Assets:
+Cash and cash equivalents $ 6,112 $ 3,206
+Marketable securities 206 2,866
+Accounts receivable 11,007 11,342
+Less: Allowance for credit losses ( 136 ) ( 126 )
+Accounts receivable, net 10,871 11,216
+Other current assets 2,121 2,125
+Total Current Assets 19,310 19,413
+Property, Plant and Equipment, Net 37,179 36,945
+Operating Lease Right-Of-Use Assets 4,149 4,308
+Goodwill 4,300 4,872
+Intangible Assets, Net 3,064 3,305
+Deferred Income Tax Assets 112 126
+Other Non-Current Assets 1,956 1,888
+Total Assets $ 70,070 $ 70,857
+LIABILITIES AND SHAREOWNERS' EQUITY
+Current Liabilities:
+Current maturities of long-term debt, commercial paper and finance leases $ 1,838 $ 3,348
+Current maturities of operating leases 733 709
+Accounts payable 6,302 6,340
+Accrued wages and withholdings 3,655 3,224
+Self-insurance reserves 1,086 1,320
+Accrued group welfare and retirement plan contributions 1,390 1,479
+Other current liabilities 1,437 1,256
+Total Current Liabilities 16,441 17,676
+Long-Term Debt and Finance Leases 19,446 18,916
+Non-Current Operating Leases 3,635 3,756
+Pension and Postretirement Benefit Obligations 6,859 6,159
+Deferred Income Tax Liabilities 3,595 3,772
+Other Non-Current Liabilities 3,351 3,264
+Shareowners' Equity:
+Class A common stock ( 121 and 127 shares issued in 2024 and 2023, respectively)
+2 2
+Class B common stock ( 733 and 726 shares issued in 2024 and 2023, respectively)
+7 7
+Additional paid-in capital 136 —
+Retained earnings 20,882 21,055
+Accumulated other comprehensive loss ( 4,309 ) ( 3,758 )
+Deferred compensation obligations 7 9
+Less: Treasury stock ( 0.1 and 0.2 in 2024 and 2023, respectively)
+( 7 ) ( 9 )
+Total Equity for Controlling Interests 16,718 17,306
+Noncontrolling Interests 25 8
+Total Shareowners' Equity 16,743 17,314
+Total Liabilities and Shareowners' Equity $ 70,070 $ 70,857
+See notes to audited, consolidated financial statements.
+67
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+STATEMENTS OF CONSOLIDATED INCOME
+(In millions, except per share amounts)
+Years Ended December 31,
+2024 2023 2022
+Revenue $ 91,070 $ 90,958 $ 100,338
+Operating Expenses:
+Compensation and benefits 48,093 47,092 47,724
+Repairs and maintenance 2,940 2,828 2,884
+Depreciation and amortization 3,609 3,366 3,188
+Purchased transportation 13,589 13,640 17,666
+Fuel 4,366 4,775 6,018
+Other occupancy 2,117 2,019 1,844
+Other expenses 7,888 8,097 7,920
+Total Operating Expenses 82,602 81,817 87,244
+Operating Profit 8,468 9,141 13,094
+Other Income and (Expense):
+Investment income (expense) and other
+( 160 ) 219 2,435
+Interest expense ( 866 ) ( 787 ) ( 704 )
+Total Other Income and (Expense) ( 1,026 ) ( 568 ) 1,731
+Income Before Income Taxes 7,442 8,573 14,825
+Income Tax Expense 1,660 1,865 3,277
+Net Income $ 5,782 $ 6,708 $ 11,548
+Basic Earnings Per Share $ 6.76 $ 7.81 $ 13.26
+Diluted Earnings Per Share $ 6.75 $ 7.80 $ 13.20
+STATEMENTS OF CONSOLIDATED COMPREHENSIVE INCOME (LOSS)
+(In millions)
+Years Ended December 31,
+2024 2023 2022
+Net Income $ 5,782 $ 6,708 $ 11,548
+Change in foreign currency translation adjustment, net of tax ( 338 ) 198 ( 284 )
+Change in unrealized gain (loss) on marketable securities, net of tax 1 9 ( 10 )
+Change in unrealized gain (loss) on cash flow hedges, net of tax 167 ( 243 ) 184
+Change in unrecognized pension and postretirement benefit costs, net of tax ( 381 ) ( 2,173 ) 1,839
+Comprehensive Income (Loss) $ 5,231 $ 4,499 $ 13,277
+See notes to audited, consolidated financial statements.
+68
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+STATEMENTS OF CONSOLIDATED CASH FLOWS
+(In millions)
+Years Ended December 31,
+2024 2023 2022
+Cash Flows From Operating Activities:
+Net income $ 5,782 $ 6,708 $ 11,548
+Adjustments to reconcile net income to net cash from operating activities:
+Depreciation and amortization 3,609 3,366 3,188
+Pension and postretirement benefit (income) expense 1,698 1,330 ( 129 )
+Pension and postretirement benefit contributions ( 1,524 ) ( 1,393 ) ( 2,342 )
+Self-insurance reserves 44 57 ( 20 )
+Deferred tax (benefit) expense ( 15 ) 199 531
+Stock compensation expense 24 220 1,568
+Other (gains) losses 262 265 123
+Changes in assets and liabilities, net of effects of business acquisitions and dispositions:
+Accounts receivable ( 566 ) 1,256 ( 322 )
+Other assets 70 87 117
+Accounts payable 262 ( 1,377 ) 34
+Accrued wages and withholdings 501 ( 296 ) ( 189 )
+Other liabilities ( 11 ) ( 42 ) ( 9 )
+Other operating activities ( 14 ) ( 142 ) 6
+Net cash from operating activities 10,122 10,238 14,104
+Cash Flows From Investing Activities:
+Capital expenditures ( 3,909 ) ( 5,158 ) ( 4,769 )
+Proceeds from disposal of businesses, property, plant and equipment 1,115 193 12
+Purchases of marketable securities ( 76 ) ( 3,521 ) ( 1,906 )
+Sales and maturities of marketable securities 2,748 2,701 255
+Acquisitions, net of cash acquired ( 71 ) ( 1,329 ) ( 755 )
+Other investing activities ( 24 ) ( 19 ) ( 309 )
+Net cash used in investing activities ( 217 ) ( 7,133 ) ( 7,472 )
+Cash Flows From Financing Activities:
+Net change in short-term debt ( 1,272 ) 1,272 —
+Proceeds from long-term borrowings 2,785 3,429 —
+Repayments of long-term borrowings ( 2,487 ) ( 2,429 ) ( 2,304 )
+Purchases of common stock ( 500 ) ( 2,250 ) ( 3,500 )
+Issuances of common stock 232 248 262
+Dividends ( 5,399 ) ( 5,372 ) ( 5,114 )
+Other financing activities ( 209 ) ( 432 ) ( 529 )
+Net cash used in financing activities ( 6,850 ) ( 5,534 ) ( 11,185 )
+Effect of Exchange Rate Changes on Cash, Cash Equivalents and Restricted Cash
+( 149 ) 33 ( 100 )
+Net Increase (Decrease) In Cash, Cash Equivalents and Restricted Cash 2,906 ( 2,396 ) ( 4,653 )
+Cash, Cash Equivalents and Restricted Cash:
+Beginning of period 3,206 5,602 10,255
+End of period $ 6,112 $ 3,206 $ 5,602
+Cash Paid During the Period For:
+Interest (net of amount capitalized) $ 854 $ 762 $ 721
+Income taxes (net of refunds) $ 1,347 $ 1,976 $ 2,574
+See notes to audited, consolidated financial statements.
+69
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1. SUMMARY OF ACCOUNTING POLICIES
+Basis of Financial Statements and Business Activities
+The accompanying consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States ("GAAP"), and include the accounts of United Parcel Service, Inc., and all of its consolidated subsidiaries (collectively "UPS" or the "Company"). All intercompany balances and transactions have been eliminated.
+We provide transportation services, primarily domestic and international letter, package and air cargo delivery. Through our Supply Chain Solutions subsidiaries, we are also a global provider of transportation, logistics and related services.
+In 2024, we reclassified certain operating expenses to better align with the manner in which we manage our operations. These reclassifications were inconsequential and substantially all of these costs were previously classified within operating expenses as Purchased transportation and have now been classified within operating expenses within Other expenses in the statements of consolidated income. The remaining line items within operating expenses and Other Income and (Expense) that were impacted by this reclassification were inconsequential. As a result, the statements of consolidated income give effect to this reclassification as follows:
+Purchased transportation decreased by $ 11 and $ 9 million for 2023 and 2022, respectively.
+Other expenses increased by $ 7 and $ 5 million for 2023 and 2022, respectively.
+The amounts for 2024 were not reported under this legacy basis but are also immaterial. The reclassification had no impact on our reported revenue, operating profit, Other Income and (Expense) , net income, or any internal performance measure on which management is compensated.
+Use of Estimates
+The preparation of our consolidated financial statements requires the use of estimates and assumptions that affect the reported amounts of assets and liabilities, the reported amounts of revenues and expenses and the disclosure of contingencies. Estimates have been prepared on the basis of the most current and best information, and actual results could differ materially from those estimates.
+Revenue Recognition
+United States ("U.S.") Domestic Package and International Package Operations: Revenue is recognized over time as we perform the services in the contract.
+Forwarding : Freight forwarding revenue, and expenses related to the transportation of freight are recognized over time as we perform the services. Customs brokerage revenue is recognized upon completing documents necessary for customs entry purposes.
+Logistics : In our Logistics businesses we have a right to consideration from customers in an amount that corresponds directly with the value to the customers of our performance completed to date, and as such we recognize revenue in the amount to which we have a right to invoice the customer.
+Cash and Cash Equivalents
+Cash and cash equivalents consist of highly liquid investments that are readily convertible into cash. We consider securities with maturities of three months or less and insignificant credit risk, when purchased, to be cash equivalents. The carrying amount of these securities approximates fair value because of the short-term maturity of these instruments.
+As of December 31, 2024, we did no t have any restricted cash. As of December 31, 2023, we had $ 37 million of restricted cash that was primarily related to cash we had agreed to deposit in connection with a previously disclosed challenge by Italian tax authorities to the deductibility of Value Added Tax payments by UPS to certain third-party service providers. We designated additional amounts as restricted cash during the first quarter of 2024 and, during the second quarter of 2024, we
+70
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+made a voluntary payment, including interest, of approximately $ 94 million to settle this matter and recorded a corresponding charge against income which is reflected in Other expenses in our statements of consolidated income.
+Marketable Securities and Non-Current Investments
+Debt securities are classified as either trading or available-for-sale securities and are carried at fair value. Unrealized gains and losses on trading securities are reported as Investment income (expense) and other on the statements of consolidated income. Unrealized gains and losses on available-for-sale securities are reported within other comprehensive income, a separate component of shareowners' equity. The amortized cost of debt securities is adjusted for amortization of premiums and accretion of discounts to maturity. Such amortization and accretion is included in Investment income (expense) and other , together with interest and dividends. The cost of securities sold is based on the specific identification method; realized gains and losses resulting from such sales are included in Investment income (expense) and other .
+We periodically review our available-for-sale investments for indications of other-than-temporary impairment considering many factors, including the extent and duration to which a security's fair value has been less than its cost, overall economic and market conditions and the financial condition and specific prospects for the issuer. Impairment of available-for-sale securities results in a charge to income when a market decline below cost is other-than-temporary, which includes consideration of whether we have both the intent and ability to hold such securities for the time necessary to recover the cost basis. If a decline in fair value is determined to be the result of a credit loss, then the decrease is recognized in income through an allowance for credit losses.
+Investments in equity securities through which we exercise significant influence but do not have control over the investee are accounted for under the equity method. We record the investment at cost and subsequently increase or decrease the carrying amount of the investment by our proportionate share of the net earnings or losses and other comprehensive income of the investee. Gains and losses from equity method investments are reported in Investment income (expense) and other on the statements of consolidated income. We record dividends or other equity distributions as reductions of the carrying value of the investment. Equity method investments are included within Other Non-Current Assets in our consolidated balance sheets.
+Inventories
+Fuel and other materials and supplies are recognized as inventory when purchased, and then charged to expense when used in our operations. Jet fuel, diesel and unleaded gasoline inventories are valued at the lower of average cost or net realizable value. Total inventories were $ 826 and $ 935 million as of December 31, 2024 and 2023, respectively, and are included in Other current assets in our consolidated balance sheets.
+Property, Plant and Equipment
+Property, plant and equipment are carried at cost less accumulated depreciation. We evaluate the useful lives of our property, plant and equipment based on our usage, maintenance and replacement policies, and taking into account physical and economic factors that may affect the useful lives of the assets.
+Depreciation and amortization are provided by the straight-line method over the estimated useful lives of the assets, which are as follows:
+Aircraft: 7 to 40 years, based on aircraft type and original aircraft manufacture date
+Buildings: 10 to 40 years
+Leasehold Improvements: lesser of asset useful life or lease term
+Plant Equipment: 3 to 20 years
+Technology Equipment: 3 to 10 years
+Vehicles: 5 to 15 years
+Routine maintenance and repairs are generally charged to expense as incurred. For substantially all of our aircraft, the costs of major airframe and engine overhauls, as well as routine maintenance and repairs, are charged to expense as incurred.
+71
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Interest incurred during the construction of property, plant and equipment is capitalized until the underlying assets are placed in service, at which time amortization of the capitalized interest begins, straight-line, over the estimated useful lives of the related assets. Capitalized interest was $ 121 and $ 118 million for the years ended December 31, 2024 and 2023, respectively.
+We monitor our property, plant and equipment for any indicators that the carrying value of our asset groups may not be recoverable, at which time we review the asset group for impairment based on undiscounted future cash flows. If the carrying amount of the asset is determined not to be recoverable, a write-down to fair value is recorded. Fair values are determined based on quoted market values, discounted cash flows or external appraisals, as appropriate. We test long-lived assets for impairment at the asset group level, which is the lowest level at which independent cash flows can be identified. We evaluate long-lived assets within our global small package operations at a network level given the cash flows associated with individual assets therein are not independent. Refer to note 4 for a discussion of impairments of property, plant and equipment.
+During the first quarter of 2025, we entered into an agreement in principle with our largest customer that will provide for a significant reduction in their volume. In connection therewith, we will be reconfiguring our U.S. network and expect this reconfiguration to lead to a reduction in the number of buildings, vehicles and aircraft in our network. We are not yet able to identify the specific assets which will be impacted by these actions; however, it is reasonably possible that revisions to our estimates of the useful life and salvage values of certain of our long-lived assets will accelerate depreciation expense and charges related to early retirements may be recognized during future periods.
+Leases
+We recognize a right-of-use ("ROU") asset and lease obligation for all leases greater than twelve months, including reasonably certain renewal or purchase options. Some of our leases contain both lease and non-lease components, which we have elected to treat as a single lease component. Lease costs for short-term leases are recognized on a straight-line basis over the lease term.
+Certain of our leases contain future payments that are dependent on an index or rate, such as the consumer price index. We initially measure the lease obligation and ROU asset using the index or rate at the commencement date. In subsequent periods, lease payments dependent on an index or rate are not remeasured. Rather, changes to payments due to a change in an index or rate are recognized in our statements of consolidated income in the period of the change.
+When available, we use the rate implicit in the lease to discount lease payments; however, the rate implicit in the lease is not readily determinable for substantially all of our leases. For these leases, we use an estimate of our incremental borrowing rate to discount lease payments based on information available at lease commencement. The incremental borrowing rate is derived using multiple inputs including our credit rating, the impact of full collateralization, lease term and denominated currency.
+Goodwill and Intangible Assets
+Costs of purchased businesses in excess of net identifiable assets acquired (goodwill) and indefinite-lived intangible assets are tested for impairment at least annually, unless changes in circumstances indicate an impairment may have occurred between annual tests. We complete our annual goodwill impairment evaluation as of July 1 on a reporting unit basis.
+In assessing goodwill for impairment, we initially evaluate qualitative factors to determine if it is more likely than not that the fair value of a reporting unit is less than its carrying amount. We consider several factors, including macroeconomic conditions, industry and market conditions, overall financial performance of the reporting unit, changes in management, strategy or customers and relevant reporting unit-specific events such as a change in the carrying amount of net assets, a more likely than not expectation of selling or disposing of all, or a portion of, a reporting unit, and the testing for recoverability of a significant asset group within a reporting unit. If this qualitative assessment results in a conclusion that it is more likely than not that the fair value of a reporting unit exceeds the carrying value, then no further testing is performed for that reporting unit.
+If the qualitative assessment is not conclusive, or if we elect to bypass the qualitative test, we quantitatively assess the fair value of a reporting unit to test goodwill for impairment. We assess the fair value of a reporting unit using a combination of discounted cash flow modeling and observable valuation multiples for comparable companies. Our estimates are developed using assumptions that we believe are consistent with how a market participant would value our reporting units. If the carrying amount of a reporting unit exceeds the reporting unit's fair value, we record the excess amount as goodwill impairment, not to exceed the total amount of goodwill allocated to the reporting unit.
+72
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Finite-lived intangible assets, including trademarks, licenses, patents, customer lists, non-compete agreements and franchise rights are amortized on a straight-line basis over their estimated useful lives, which range from 2 to 21 years. Capitalized software is generally amortized over 7 years. Finite-lived intangible assets are assessed for impairment as part of asset groups whenever events or changes in circumstances indicate that their carrying value may not be recoverable.
+Assets Held for Sale
+We classify long-lived assets or disposal groups as held for sale in the period when all of the following conditions have been met:
+we have approved and committed to a plan to sell the assets or disposal group;
+the asset or disposal group is available for immediate sale in its present condition;
+an active program to locate a buyer and other actions required to complete the sale have been initiated;
+the sale of the asset or disposal group is probable and expected to be completed within one year;
+the asset or disposal group is being actively marketed for sale at a price that is reasonable in relation to its current fair value; and
+it is unlikely that significant changes to the plan will be made or that the plan will be withdrawn.
+We initially measure a long-lived asset or disposal group that is classified as held for sale at the lower of its carrying value or fair value less any costs to sell and recognize any loss in the period in which the held for sale criteria are met. Gains are not recognized until the date of sale. We cease depreciation and amortization of a long-lived asset, or assets within a disposal group, upon their designation as held for sale and subsequently assess fair value less any costs to sell at each reporting date until the asset or disposal group is no longer classified as held for sale.
+Supplier Finance Programs
+As part of our working capital management, certain financial institutions offer a Supply Chain Finance ("SCF") program to certain of our suppliers. We agree to commercial terms with our suppliers, including prices, quantities and payment terms, regardless of whether the supplier elects to participate in the SCF program. Suppliers issue invoices to us based on the agreed-upon contractual terms. If they participate in the SCF program, our suppliers, at their sole discretion, determine which invoices, if any, to sell to the financial institutions. Our suppliers' voluntary inclusion of invoices in the SCF program has no bearing on our payment terms. No guarantees are provided by us under the SCF program. We have no economic interest in a supplier's decision to participate, and we have no direct financial relationship with the financial institutions, as it relates to the SCF program.
+Amounts due to our suppliers that participate in the SCF program are included in Accounts payable in our consolidated balance sheets. As of December 31, 2024 and 2023, suppliers sold $ 515 and $ 504 million, respectively, of our outstanding payment obligations to participating institutions. A rollforward of obligations confirmed and paid during the year is presented below (dollars in millions):
+2024 2023
+Confirmed obligations outstanding at the beginning of the year $ 504 $ 806
+Invoices confirmed during the year 1,722 2,428
+Confirmed invoices paid during the year ( 1,711 ) ( 2,730 )
+Confirmed obligations outstanding at the end of the year $ 515 $ 504
+Self-Insurance Accruals
+We self-insure costs associated with workers' compensation claims, automobile liability, health and welfare and general business liabilities, up to certain limits. Self-insurance reserves are established for estimates of the losses we will ultimately incur on reported claims, as well as estimates of claims that have been incurred but not yet reported. The expected ultimate cost for claims incurred is estimated based upon historical loss experience and judgments about the present and expected levels of cost per claim. Trends in actual experience are a significant factor in the determination of our reserves.
+73
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+In 2024, we transferred a portion of our workers' compensation liability related to policy years 1994 through 2000 and policy year 2018 to a third-party insurer. We paid $ 114 million to transfer a portfolio of claims for which we carried reserves of $ 114 million.
+In 2023, we transferred a portion of our workers' compensation liability related to policy years 2001 through 2006 and policy year 2017 to a third-party insurer. We paid $ 151 million to transfer a portfolio of claims for which we carried reserves of $ 153 million, recognizing a pre-tax gain of $ 2 million that was recorded in Other expenses in the statement of consolidated income for the year ended December 31, 2023.
+We also sponsor a number of health and welfare insurance plans for our employees. Liabilities and expenses related to these plans are based on estimates of the number of employees and eligible dependents covered under the plans, global health events, anticipated medical usage by participants and overall trends in medical costs and inflation.
+Pension and Postretirement Benefits
+We incur certain employment-related expenses associated with company-sponsored defined benefit pension and postretirement medical benefits. These expenses are calculated using various actuarial assumptions and methodologies, including discount rates, expected returns on plan assets, healthcare cost trend rates, inflation, compensation increase rates, mortality rates and coordination of benefits with plans not sponsored by UPS. Actuarial assumptions are reviewed on an annual basis, unless circumstances require an interim measurement of any of our plans.
+We recognize changes in the fair value of plan assets and net actuarial gains or losses in excess of a corridor (defined as 10% of the greater of the fair value of plan assets or the plan's projected benefit obligation) in Investment income (expense) and other, in the statement of consolidated income, upon remeasurement of a plan. The remaining components of pension expense, primarily service and interest costs and the expected return on plan assets, are recorded ratably on a quarterly basis.
+We recognize expense for required contributions to defined contribution plans quarterly, and we recognize a liability for any contributions due and unpaid within Accrued group welfare and retirement plan contributions within our consolidated balance sheets.
+We participate in a number of trustee-managed multiemployer pension and health and welfare plans for employees covered under collective bargaining agreements. Our contributions to these plans are determined in accordance with the respective collective bargaining agreements. We recognize expense for the contractually required contribution for each period, and we recognize a liability for any contributions due and unpaid within Accrued group welfare and retirement plan contributions .
+Income Taxes
+Income taxes are accounted for on an asset and liability approach that requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of events that have been recognized in our consolidated financial statements or tax returns. In estimating future tax consequences, we generally consider all expected future events other than proposed changes in the tax law or rates. Valuation allowances are provided if it is more likely than not that a deferred tax asset will not be realized. Our current accounting policy for releasing income tax effects from other comprehensive income is based on a portfolio approach.
+We recognize liabilities for uncertain tax positions based on a two-step process. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position will be sustained on audit, including resolution of related appeals or litigation processes, if any. Once it is determined that the position meets the recognition threshold, the second step requires us to estimate and measure the largest amount of tax benefit that is more likely than not to be realized upon ultimate settlement. The difference between the amount of recognizable tax benefit and the total amount of tax benefit from positions filed or to be filed with the tax authorities is recorded as a liability for uncertain tax benefits. It is inherently difficult and subjective to estimate such amounts, as we have to determine the probability of various possible outcomes. We reevaluate uncertain tax positions on a quarterly basis. This evaluation is based on factors including, but not limited to, changes in facts or circumstances, changes in tax law, effectively settled issues under audit and new audit activity. Such a change in recognition or measurement could result in the recognition of a tax benefit or an additional charge to the tax provision.
+74
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Foreign Currency Translation and Remeasurement
+We translate the results of operations of our foreign subsidiaries using average exchange rates for each period, whereas balance sheet accounts are translated using exchange rates at the end of each period. Balance sheet currency translation adjustments are recorded in other comprehensive income. Pre-tax foreign currency transaction gains (losses) from remeasurement, net of hedging, included in Investment income (expense) and other were $( 38 ), $( 53 ) and $ 72 million in 2024, 2023 and 2022, respectively.
+Stock-Based Compensation
+Share-based awards are measured based on their fair values and expensed over the period during which an employee is required to provide service in exchange for the award (the vesting period), less estimated forfeitures. We have issued employee share-based awards under various incentive compensation plans that contain vesting conditions, including service conditions, where the awards cliff vest after one or three years or vest ratably over periods up to five years (the "nominal vesting period") or at the date the employee retires (as defined by the plan), if earlier. As of December 31, 2023, we had no outstanding share-based awards cliff vesting after one year. See note 13 for further discussion of our share-based awards. Compensation cost is generally recognized immediately for certain awards granted to retirement-eligible employees, or over the period from the grant date to the date retirement eligibility is achieved, if that is expected to occur during the nominal vesting period. For awards with a performance-based condition, expense is recognized based on probability of performance achievement. We estimate forfeiture rates based on historical rates of forfeitures for awards with similar characteristics, historical and projected rates of employee turnover and the nature and terms of the vesting conditions of the awards. We reevaluate our forfeiture rates on an annual basis.
+Fair Value Measurements
+Our financial assets and liabilities measured at fair value on a recurring basis have been categorized based upon a fair value hierarchy. Level 1 inputs utilize quoted prices in active markets for identical assets or liabilities. Level 2 inputs are based on other observable market data, such as quoted prices for similar assets and liabilities, and inputs other than quoted prices that are observable, such as interest rates and yield curves. Level 3 inputs are developed from unobservable data reflecting our own assumptions, and include situations where there is little or no market activity for the asset or liability. Certain investments described further in note 5, that do not have a readily determinable fair value, are measured at net asset value ("NAV") using NAV as a practical expedient or an equivalent developed consistent with the measurement principles in Accounting Standards Codification Topic 820. Plan assets that are measured using NAV as a practical expedient are excluded from the fair value hierarchy.
+Certain non-financial assets and liabilities are measured at fair value on a nonrecurring basis, including property, plant, and equipment, goodwill and intangible assets. These assets are subject to fair value adjustments in certain circumstances, such as when there is an impairment.
+For business acquisitions, we allocate the fair value of purchase consideration to the tangible assets acquired, liabilities assumed and identified intangible assets based on their estimated fair values. The excess of the fair value of purchase consideration over the fair values of these identifiable assets and liabilities is recorded as goodwill. During the measurement period, which is up to one year from the acquisition date, we may record adjustments to the assets acquired and liabilities assumed, with the corresponding offset to goodwill. Following the conclusion of the measurement period, any subsequent adjustments are recorded to earnings.
+Derivative Instruments
+We recognize all derivative instruments as assets or liabilities in our consolidated balance sheets at fair value. The accounting for changes in the fair value of a derivative instrument depends on whether it has been designated and qualifies as part of a hedging relationship and, further, on the type of hedging relationship. For those derivative instruments that are designated and qualify as hedging instruments, we designate the derivative as a cash flow hedge, a fair value hedge or a hedge of a net investment in a foreign operation based upon the exposure being hedged.
+A cash flow hedge refers to hedging the exposure to variability in expected future cash flows that is attributable to a particular risk. For derivative instruments that are designated and qualify as cash flow hedges, the gain or loss on the derivative instrument is reported as a component of other comprehensive income, and reclassified into earnings in the period during which the hedged transaction affects earnings.
+75
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+A fair value hedge refers to hedging the exposure to changes in the fair value of an existing asset or liability that is attributable to a particular risk. For derivative instruments that are designated and qualify as fair value hedges, the gain or loss on the derivative instrument is recognized in earnings during the current period, together with the gain or loss on the hedged item.
+A net investment hedge refers to the use of cross currency swaps, forward contracts or foreign-currency-denominated debt to hedge portions of net investments in foreign operations. For instruments that meet the hedge accounting requirements, the net gains or losses attributable to changes in spot exchange rates are recorded in the foreign currency translation adjustment within other comprehensive income, and are recorded in the income statement when the hedged item affects earnings.
+Adoption of New Accounting Standards
+In March 2020, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") 2020-04, Reference Rate Reform (Topic 848), and in December 2022 subsequently issued ASU 2022-06, to temporarily ease the potential burden in accounting for reference rate reform. As of December 31, 2023, we had transitioned our affected debt instruments and contracts to an alternative reference rate and, as a result, we did not elect to apply the practical expedients provided under Topic 848 to these transitions, and we did not observe any further impact as of December 31, 2024.
+In November 2023, the FASB issued an ASU on segment reporting. The standard requires new disclosures reconciling significant segment expenses to segment profit measures and additional qualitative information about how segment measures are used by management. Effective December 31, 2024, we adopted this ASU retrospectively for all prior periods presented. The adoption did not have a significant impact on our consolidated financial position, results of operations, cash flows or internal controls. See note 14 for our segment disclosures.
+Other accounting pronouncements adopted during the periods covered by the consolidated financial statements did not have a material impact on our consolidated financial position, results of operations, cash flows or internal controls.
+Accounting Standards Issued But Not Yet Effective
+In December 2023, the FASB issued an ASU to enhance tax-related disclosures. This update will require more standardized categories for tax rate reconciliation and additional detail for significant tax items. It will also require a breakdown of income taxes paid by jurisdiction exceeding 5% of total taxes and remove certain disclosure requirements for unremitted foreign earnings and uncertain tax positions. The standard becomes effective for us in the first quarter of 2025. We are evaluating its impact on our financial statements, disclosures and internal controls but do not expect this ASU to have a significant impact on our consolidated financial position, results of operations, cash flows or internal controls.
+In November 2024, the FASB issued an ASU on expense disaggregation disclosures, which will require tabular disclosure in the notes to financial statements for specific expense categories. The standard becomes effective for us beginning with our 2027 annual report and for interim and annual periods thereafter. This ASU provides for additional expense disclosures. We are evaluating its impact on our financial statements, disclosures and internal controls but do not expect this ASU to have a significant impact on our consolidated financial position, results of operations, cash flows or internal controls.
+Other accounting pronouncements issued, but not effective until after December 31, 2024, are not expected to have a material impact on our consolidated financial position, results of operations, cash flows or internal controls.
+76
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 2. REVENUE RECOGNITION
+Revenue Recognition
+Substantially all of our revenues are from contracts associated with the pickup, transportation and delivery of packages and freight ("transportation services"). These services may be carried out by or arranged by us and generally occur over a short period of time. Additionally, we provide value-added logistics services to customers through our global network of company-owned and leased distribution centers and field stocking locations.
+Disaggregation of Revenue
+Year Ended December 31,
+2024 2023 2022
+Revenue:
+Next Day Air $ 9,703 $ 9,894 $ 10,699
+Deferred 4,757 5,093 5,968
+Ground 45,347 44,971 47,542
+Cargo & Other
+569 247 402
+U.S. Domestic Package $ 60,376 $ 60,205 $ 64,611
+Domestic $ 3,186 $ 3,144 $ 3,346
+Export 14,142 14,003 15,341
+Cargo & Other 632 684 1,011
+International Package $ 17,960 $ 17,831 $ 19,698
+Forwarding $ 4,728 $ 5,534 $ 8,943
+Logistics 6,437 5,927 5,351
+Other 1,569 1,461 1,735
+Supply Chain Solutions $ 12,734 $ 12,922 $ 16,029
+Consolidated revenue $ 91,070 $ 90,958 $ 100,338
+We account for a contract when both parties have approved the contract and are committed to perform their obligations, the rights of the parties are identified, payment terms are identified, the contract has commercial substance and collectability of consideration is probable. As of the fourth quarter of 2024, based on a change in our management reporting structure, U.S. Air Cargo revenue is presented within our U.S. Domestic Package segment and prior periods have been recast. Refer to note 14 for further information.
+Performance Obligations
+A performance obligation is a promise in a contract to transfer a distinct good or service to the customer, and is the basis of revenue recognition. The vast majority of our contracts with customers are for transportation services that include only one performance obligation; the transportation services themselves. If a contract contains more than one performance obligation, we allocate the total transaction price to each performance obligation based on the estimated relative standalone selling prices of the services underlying each performance obligation.
+In certain business units, such as Logistics, we sell customized, customer-specific solutions in which we integrate a complex set of tasks and components into a single capability that is accounted for as one performance obligation.
+77
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Satisfaction of Performance Obligations
+We generally recognize revenue over time as we perform services in the contract because our customers receive the benefit of our services as goods are transported from one location to another. Further, if we were unable to complete delivery to the final location, those services would not need to be re-performed.
+We recognize revenue based on the extent of progress towards completion of our services. We use the cost-to-cost measure of progress for our package delivery contracts because it best depicts the benefit received by the customer, which occurs as we incur costs on our contracts. Under this measure, the extent of progress towards completion is measured based on the ratio of costs incurred to date to the total estimated costs at completion of the service. Revenues, including ancillary or accessorial fees and reductions for estimated customer incentives, are recorded proportionally as costs are incurred. Costs to fulfill include labor and other direct costs and an allocation of indirect costs.
+For our freight forwarding contracts, an output method of progress based on time-in-transit is utilized as the timing of costs incurred does not best depict the benefit to the customer. In our Logistics business we have a right to consideration from customers in an amount that corresponds directly with the value to the customers of our performance completed to date; therefore we recognize revenue in the amount to which we have a right to invoice the customer.
+Variable Consideration
+Our contracts commonly contain customer incentives, guaranteed service refunds or other provisions that can either increase or decrease the rates paid for services. These variable amounts are generally dependent upon achievement of certain incentive tiers or performance metrics. We record revenue, which may be reduced by incentives or other contract provisions, to the extent it is probable that a significant reversal of cumulative amounts recognized will not occur when the uncertainty associated with the variable consideration is resolved. Our estimates of revenue are based on an assessment of anticipated customer spending and all information (historical, current and forecasted) that is reasonably available to us.
+Contract Modifications
+Contracts are often modified to account for changes in the rates we charge our customers or to add additional, distinct services. We consider contract modifications to exist when the modification either creates new, or changes the existing, enforceable rights and obligations. Contract modifications that add distinct goods or services are treated as separate contracts. Contract modifications that do not add distinct goods or services typically change the price of existing services. These contract modifications are accounted for prospectively as the remaining performance obligations are distinct.
+Payment Terms
+Under the typical payment terms of our customer contracts, customers pay at periodic intervals, which are generally seven days within our U.S. Domestic Package business, for shipments included on invoices received. Invoices are generated each week on the week-ending day, which is Saturday for the majority of our U.S. Domestic Package business, but could be another day depending on the business unit or the specific agreement with the customer. It is not customary business practice to extend payment terms past 90 days and, as such, we do not have a practice of including a significant financing component within our contracts with customers.
+Principal vs. Agent Considerations
+In our transportation businesses, we may utilize independent contractors and third-party carriers to perform transportation services. We have determined that all our major businesses act as principal rather than agent within their revenue arrangements. Consequently, revenue and the associated purchased transportation costs are reported on a gross basis within our statements of consolidated income.
+Accounts Receivable, Net
+Accounts receivable, net , include amounts billed and currently due from customers. The amounts due are stated at their net estimated realizable value. Losses on accounts receivable are recognized when reasonable and supportable forecasts affect the expected collectability. This requires us to make our best estimate of the current expected losses inherent in our accounts receivable at each balance sheet date. These estimates require consideration of historical loss experience, adjusted for current conditions, forward-looking indicators, trends in customer payment frequency, and judgments about the probable effects of relevant observable data, including present and future economic conditions and the financial health of specific customers and
+78
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+market sectors. Our risk management process includes standards and policies for reviewing major account exposures and concentrations of risk.
+Our allowance for expected credit losses increased by $ 10 million during 2024 as a result of changes in the composition of invoice aging and certain customers' behaviors. Our allowance for credit losses as of December 31, 2024 and 2023 was $ 136 and $ 126 million, respectively. Amounts for credit losses charged to expense before recoveries during the years ended December 31, 2024 and 2023 were $ 311 and $ 205 million, respectively.
+Contract Assets and Liabilities
+Contract assets include billed and unbilled amounts resulting from in-transit shipments, as we have an unconditional right to payment only when services have been completed (i.e., shipments have been delivered). Amounts do not exceed their net realizable value. Contract assets are generally classified as current and the full balance is converted each quarter based on the short-term nature of the transactions.
+Contract liabilities consist of advance payments and billings in excess of revenue as well as deferred revenue. Advance payments and billings in excess of revenue represent payments received from our customers that will be earned over the contract term. Deferred revenue represents the amount due from customers related to in-transit shipments that has not yet been recognized as revenue based on our selected measure of progress. We classify advance payments and billings in excess of revenue as either current or long-term, depending on the period over which the amount will be earned. We classify deferred revenue as current based on the short-term nature of the transactions. Our contract assets and liabilities are reported in a net position on a contract-by-contract basis at the end of each reporting period. In order to determine revenue recognized in the period from contract liabilities, we first allocate revenue to the individual contract liability balance outstanding at the beginning of the period until the revenue exceeds that deferred revenue balance.
+Contract assets and liabilities as of December 31, 2024 and 2023 were as follows (in millions):
+Balance Sheet Location 2024 2023
+Contract Assets:
+Revenue related to in-transit packages Other current assets $ 307 $ 237
+Contract Liabilities:
+Short-term advance payments from customers Other current liabilities $ 13 $ 20
+Long-term advance payments from customers Other non-current liabilities $ 27 $ 25
+79
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 3. MARKETABLE SECURITIES AND NON-CURRENT INVESTMENTS
+The following is a summary of marketable securities classified as trading and available-for-sale as of December 31, 2024 and 2023 (in millions):
+Cost Unrealized
+Gains Unrealized
+Losses Estimated
+Fair Value
+2024
+Current trading marketable securities:
+Equity securities $ 3 $ — $ — $ 3
+Total trading marketable securities 3 — — 3
+Current available-for-sale marketable securities:
+U.S. government and agency debt securities 165 — ( 1 ) 164
+Mortgage and asset-backed debt securities — — — —
+Corporate debt securities 39 — — 39
+Non-U.S. government debt securities — — — —
+Total available-for-sale marketable securities 204 — ( 1 ) 203
+Total current marketable securities $ 207 $ — $ ( 1 ) $ 206
+Cost Unrealized
+Gains Unrealized
+Losses Estimated
+Fair Value
+2023
+Current trading marketable securities:
+Equity securities $ 4 $ — $ — $ 4
+Total trading marketable securities 4 — — 4
+Current available-for-sale marketable securities:
+U.S. government and agency debt securities 963 2 ( 4 ) 961
+Mortgage and asset-backed debt securities 3 — — 3
+Corporate debt securities 1,891 4 ( 4 ) 1,891
+Non-U.S. government debt securities 7 — — 7
+Total available-for-sale marketable securities 2,864 6 ( 8 ) 2,862
+Total current marketable securities $ 2,868 $ 6 $ ( 8 ) $ 2,866
+Total current marketable securities that were pledged as collateral for our self-insurance requirements had estimated fair values of $ 177 and $ 343 million as of December 31, 2024 and 2023, respectively.
+The gross realized gains on sales of available-for-sale marketable securities totaled $ 5 , $ 1 and $ 0 million in 2024, 2023 and 2022, respectively. The gross realized losses on sales of available-for-sale marketable securities totaled $ 5 , $ 4 and $ 3 million in 2024, 2023 and 2022, respectively.
+There were no material impairment losses recognized on marketable securities during 2024, 2023 or 2022.
+80
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Unrealized Losses
+The following table presents the age of gross unrealized losses and fair value by investment category for all securities in a loss position as of December 31, 2024 (in millions):
+Less Than 12 Months 12 Months or More Total
+Fair Value Unrealized Losses
+Fair Value Unrealized Losses
+Fair Value Unrealized Losses
+U.S. government and agency debt securities $ — $ — $ 162 $ ( 1 ) $ 162 $ ( 1 )
+Total marketable securities $ — $ — $ 162 $ ( 1 ) $ 162 $ ( 1 )
+Maturity Information
+The amortized cost and estimated fair value of marketable securities as of December 31, 2024 by contractual maturity are shown below (in millions). Actual maturities may differ from contractual maturities because the issuers of the securities may have the right to prepay obligations with or without prepayment penalties.
+Cost Estimated
+Fair Value
+Due in one year or less $ 161 $ 161
+Due after one year through three years 43 42
+Due after three years through five years — —
+Due after five years — —
+204 203
+Equity securities 3 3
+$ 207 $ 206
+Non-Current Investments
+We hold non-current investments that are reported within Other Non-Current Assets in our consolidated balance sheets. Cash paid for these investments, excluding investments obtained through business acquisitions, is included in Other investing activities in our statements of consolidated cash flows.
+Equity method investments : As of December 31, 2024 and 2023, equity securities accounted for under the equity method had carrying values of $ 304 and $ 295 million, respectively. In 2023, we obtained an equity method investment as part of our acquisition of MNX Global Logistics. See note 8 for a further discussion of business acquisitions. Cash paid for this investment is included in Acquisitions, net of cash acquired in our statement of consolidated cash flows.
+Other equity securities : Certain equity securities that do not have readily determinable fair values are reported in accordance with the measurement alternative in Accounting Standards Codification Topic 321 Investments Equity Securities . As of December 31, 2024 and 2023, we had equity securities of $ 42 and $ 47 million, respectively, accounted for under this measurement alternative.
+Other investments : We hold an investment in a variable life insurance policy to fund benefits for the UPS Excess Coordinating Benefit Plan. The investment had a fair market value of $ 19 million as of December 31, 2024 and 2023, respectively.
+81
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Fair Value Measurements
+Marketable securities valued utilizing Level 1 inputs include active exchange-traded equity securities and equity index funds, certificates of deposits, and most U.S. government debt securities, as these securities all have quoted prices in active markets. Marketable securities valued utilizing Level 2 inputs include asset-backed securities, most corporate bonds and municipal bonds. These securities are valued using market corroborated pricing, matrix pricing or other models that utilize observable inputs such as yield curves.
+The following table presents information about our investments measured at fair value on a recurring basis as of December 31, 2024 and 2023, and indicates the fair value hierarchy of the valuation techniques utilized to determine such fair value (in millions):
+Quoted Prices in
+Active Markets
+for Identical
+Assets
+(Level 1) Significant Other Observable
+Inputs
+(Level 2) Significant
+Unobservable
+Inputs
+(Level 3) Total
+2024
+Marketable Securities:
+U.S. government and agency debt securities $ 164 $ — $ — $ 164
+Mortgage and asset-backed debt securities — — — —
+Corporate debt securities 25 14 — 39
+U.S. state and local municipal debt securities — — — —
+Equity securities — 3 — 3
+Non-U.S. government debt securities — — — —
+Total marketable securities 189 17 — 206
+Other non-current investments (1)
+— 19 — 19
+Total $ 189 $ 36 $ — $ 225
+(1) Represents a variable life insurance policy funding benefits for the UPS Excess Coordinating Benefit Plan.
+Quoted Prices in
+Active Markets
+for Identical
+Assets
+(Level 1) Significant Other
+Observable Inputs
+(Level 2) Significant
+Unobservable
+Inputs
+(Level 3) Total
+2023
+Marketable Securities:
+U.S. government and agency debt securities $ 961 $ — $ — $ 961
+Mortgage and asset-backed debt securities — 3 — 3
+Corporate debt securities — 1,891 — 1,891
+U.S. state and local municipal debt securities — — — —
+Equity securities — 4 — 4
+Non-U.S. government debt securities — 7 — 7
+Total marketable securities 961 1,905 — 2,866
+Other non-current investments (1)
+— 19 — 19
+Total $ 961 $ 1,924 $ — $ 2,885
+(1) Represents a variable life insurance policy funding benefits for the UPS Excess Coordinating Benefit Plan.
+There were no transfers of investments into or out of Level 3 during 2024 or 2023.
+82
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 4. PROPERTY, PLANT AND EQUIPMENT
+Property, plant and equipment, including owned assets and assets subject to finance leases, consisted of the following as of December 31, 2024 and 2023 (in millions):
+2024 2023
+Vehicles $ 11,912 $ 11,768
+Aircraft 23,768 22,888
+Land 2,104 2,138
+Buildings 6,714 6,255
+Building and leasehold improvements 5,601 5,241
+Plant equipment 18,495 17,322
+Technology equipment 2,735 2,656
+Construction-in-progress 1,967 3,247
+73,296 71,515
+Less: Accumulated depreciation and amortization ( 36,117 ) ( 34,570 )
+Property, Plant and Equipment, Net $ 37,179 $ 36,945
+Property, plant and equipment purchased on account was $ 227 and $ 309 million as of December 31, 2024 and 2023, respectively.
+There were no material impairment charges to property, plant and equipment during the years ended December 31, 2024 or 2023. We will continue to monitor our long-lived asset groups for impairment.
+During the first quarter of 2025, we entered into an agreement in principle with our largest customer that will provide for a significant reduction in their volume. In connection therewith, we will be reconfiguring our U.S. network and expect this reconfiguration to lead to a reduction in the number of buildings, vehicles and aircraft in our network. We are not yet able to identify the specific assets which will be impacted by these actions; however, it is reasonably possible that revisions to our estimates of the useful life and salvage values of certain of our long-lived assets will accelerate depreciation expense and charges related to early retirements may be recognized during future periods.
+83
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 5. COMPANY-SPONSORED EMPLOYEE BENEFIT PLANS
+We sponsor various retirement, postretirement and pension plans, including defined benefit and defined contribution plans, which cover our employees worldwide.
+U.S. Pension Benefits
+In the U.S. we maintain the following single-employer defined benefit pension plans:
+The UPS Retirement Plan is noncontributory and includes substantially all eligible employees of participating domestic subsidiaries hired prior to July 1, 2016 who are not members of a collective bargaining unit, as well as certain employees covered by a collective bargaining agreement. This plan generally provides for retirement benefits based on average compensation earned by employees prior to retirement. Benefits payable under this plan are subject to maximum compensation limits and the annual benefit limits for a tax-qualified defined benefit plan as prescribed by the Internal Revenue Service ("IRS"). The plan ceased accruals of additional benefits for future service and compensation for non-union participants effective January 1, 2023.
+The UPS Pension Plan is noncontributory and includes certain eligible employees of participating domestic subsidiaries and members of collective bargaining units that elect to participate in the plan. This plan generally provides for retirement benefits based on service credits earned by employees prior to retirement.
+The UPS/IBT Full-Time Employee Pension Plan is noncontributory and includes employees that were previously members of the Central States Pension Fund ("CSPF"), a multiemployer pension plan, in addition to other eligible employees who are covered under certain collective bargaining agreements. This plan generally provides for retirement benefits based on service credits earned by employees prior to retirement.
+The UPS Excess Coordinating Benefit Plan is a non-qualified plan that provides benefits to certain participants in the UPS Retirement Plan, hired prior to July 1, 2016, for amounts that exceed the benefit limits described above. The plan ceased accruals of additional benefits for future service and compensation for non-union participants effective January 1, 2023
+Refer to note 6 for the status of our collective bargaining agreements.
+International Pension Benefits
+We also sponsor various defined benefit plans covering certain of our international employees. The majority of our international obligations are for defined benefit plans in Canada and the United Kingdom. In addition, many of our international employees are covered by government-sponsored retirement and pension plans. We are not directly responsible for providing benefits to participants of government-sponsored plans.
+During 2022, we amended certain Canadian defined benefit pensi

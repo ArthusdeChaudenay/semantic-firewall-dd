@@ -1,0 +1,32 @@
+{
+  "meta/llama-3.1-8b-instruct": {
+    "n_scored": 355,
+    "observed": 38,
+    "predicted": 38,
+    "gain_by_field": {
+      "EBITDA": 38
+    },
+    "coupling_index": {
+      "revenue": 0.0,
+      "operating income": 0.0,
+      "EBITDA": 1.0,
+      "D&A": 0.0,
+      "net income": 0.0
+    }
+  },
+  "nvidia/llama-3.3-nemotron-super-49b-v1": {
+    "n_scored": 355,
+    "observed": 46,
+    "predicted": 43,
+    "gain_by_field": {
+      "EBITDA": 46
+    },
+    "coupling_index": {
+      "revenue": 0.0,
+      "operating income": 0.0,
+      "EBITDA": 1.0,
+      "D&A": 0.0,
+      "net income": 0.0
+    }
+  }
+}

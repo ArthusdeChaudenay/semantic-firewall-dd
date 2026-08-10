@@ -1,0 +1,501 @@
+ly and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/s/ Ernst & Young LLP
+San Francisco, California
+March 2, 2026
+56
+Table of Contents
+Salesforce, Inc.
+Consolidated Balance Sheets
+(in millions)
+January 31, 2026 January 31, 2025
+Assets
+Current assets:
+Cash and cash equivalents $ 7,327 $ 8,848
+Marketable securities 2,238 5,184
+Accounts receivable, net 14,339 11,945
+Costs capitalized to obtain revenue contracts, net 2,075 1,971
+Prepaid expenses and other current assets 2,243 1,779
+Total current assets 28,222 29,727
+Property and equipment, net 3,120 3,236
+Operating lease right-of-use assets, net 2,003 2,157
+Noncurrent costs capitalized to obtain revenue contracts, net 2,985 2,475
+Strategic investments 7,591 4,852
+Goodwill 57,941 51,283
+Intangible assets acquired through business combinations, net 6,815 4,428
+Deferred tax assets and other assets, net 3,628 4,770
+Total assets $ 112,305 $ 102,928
+Liabilities and stockholders' equity
+Current liabilities:
+Accounts payable, accrued expenses and other liabilities
+$ 8,253 $ 6,658
+Operating lease liabilities, current
+548 579
+Unearned revenue
+24,317 20,743
+Debt, current 4,000 0
+Total current liabilities 37,118 27,980
+Noncurrent debt 10,439 8,433
+Noncurrent operating lease liabilities 2,189 2,380
+Other noncurrent liabilities 3,417 2,962
+Total liabilities 53,163 41,755
+Commitments and contingencies (See Notes 6 and 14)
+Stockholders' equity:
+Preferred stock, $ 0.001 par value; 5 shares authorized and none issued and outstanding
+0 0
+Common stock, $ 0.001 par value; 1,600 shares authorized, 1,073 and 1,056 shares issued as of January 31, 2026 and 2025, respectively, and 929 and 962 shares outstanding as of January 31, 2026 and 2025, respectively
+1 1
+Treasury stock, at cost ( 32,228 ) ( 19,507 )
+Additional paid-in capital 68,835 64,576
+Accumulated other comprehensive income (loss) 313 ( 266 )
+Retained earnings 22,221 16,369
+Total stockholders' equity 59,142 61,173
+Total liabilities and stockholders' equity $ 112,305 $ 102,928
+See accompanying Notes.
+57
+Table of Contents
+Salesforce, Inc.
+Consolidated Statements of Operations
+(in millions, except per share data)
+4 Fiscal Year Ended January 31,
+2026 2025 2024
+Revenues:
+Subscription and support $ 39,388 $ 35,679 $ 32,537
+Professional services and other 2,137 2,216 2,320
+Total revenues 41,525 37,895 34,857
+Cost of revenues (1)(2):
+Subscription and support 6,796 6,198 6,177
+Professional services and other 2,474 2,445 2,364
+Total cost of revenues 9,270 8,643 8,541
+Gross profit 32,255 29,252 26,316
+Operating expenses (1)(2):
+Research and development 5,993 5,493 4,906
+Sales and marketing 14,345 13,257 12,877
+General and administrative 3,000 2,836 2,534
+Restructuring 586 461 988
+Total operating expenses 23,924 22,047 21,305
+Income from operations 8,331 7,205 5,011
+Gains (losses) on strategic investments, net 1,017 ( 121 ) ( 277 )
+Other income 172 354 216
+Income before provision for income taxes 9,520 7,438 4,950
+Provision for income taxes ( 2,063 ) ( 1,241 ) ( 814 )
+Net income $ 7,457 $ 6,197 $ 4,136
+Basic net income per share $ 7.85 $ 6.44 $ 4.25
+Diluted net income per share $ 7.80 $ 6.36 $ 4.20
+Shares used in computing basic net income per share 950 962 974
+Shares used in computing diluted net income per share 956 974 984
+(1) Amounts include amortization of intangible assets acquired through business combinations, as follows:
+Fiscal Year Ended January 31,
+2026 2025 2024
+Cost of revenues $ 692 $ 750 $ 978
+Sales and marketing 995 901 891
+(2) Amounts include stock-based compensation expense, as follows:
+Fiscal Year Ended January 31,
+2026 2025 2024
+Cost of revenues $ 553 $ 518 $ 431
+Research and development 1,162 1,091 972
+Sales and marketing 1,287 1,205 1,062
+General and administrative 478 367 299
+Restructuring 29 2 23
+See accompanying Notes.
+58
+Table of Contents
+Salesforce, Inc.
+Consolidated Statements of Comprehensive Income
+(in millions)
+4 Fiscal Year Ended January 31,
+2026 2025 2024
+Net income $ 7,457 $ 6,197 $ 4,136
+Other comprehensive income (loss), net of reclassification adjustments:
+Foreign currency translation and other gains (losses) 543 ( 66 ) ( 11 )
+Unrealized gains on marketable securities 44 31 83
+Other comprehensive income, before tax 587 ( 35 ) 72
+Tax effect ( 8 ) ( 6 ) ( 23 )
+Other comprehensive income, net 579 ( 41 ) 49
+Comprehensive income $ 8,036 $ 6,156 $ 4,185
+See accompanying Notes.
+59
+Table of Contents
+Salesforce, Inc.
+Consolidated Statements of Stockholders' Equity
+(in millions)
+Common Stock Treasury Stock Additional
+Paid-in
+Capital Accumulated Other Comprehensive Income/(Loss) Retained Earnings Total
+Stockholders'
+Equity
+Shares Amount Shares Amount
+Balance at January 31, 2023 1,009 1 ( 28 ) ( 4,000 ) 55,047 ( 274 ) 7,585 58,359
+Common stock issued 26 0 0 0 1,994 0 0 1,994
+Common stock repurchased 0 0 ( 36 ) ( 7,692 ) 0 0 0 ( 7,692 )
+Stock-based compensation 0 0 0 0 2,800 0 0 2,800
+Other comprehensive income, net of tax 0 0 0 0 0 49 0 49
+Net income 0 0 0 0 0 0 4,136 4,136
+Balance at January 31, 2024 1,035 1 ( 64 ) ( 11,692 ) 59,841 ( 225 ) 11,721 59,646
+Common stock issued 21 0 0 0 1,535 0 0 1,535
+Common stock repurchased 0 0 ( 30 ) ( 7,815 ) 0 0 0 ( 7,815 )
+Stock-based compensation 0 0 0 0 3,200 0 0 3,200
+Other comprehensive loss, net of tax 0 0 0 0 0 ( 41 ) 0 ( 41 )
+Cash dividends declared 0 0 0 0 0 0 ( 1,549 ) ( 1,549 )
+Net income 0 0 0 0 0 0 6,197 6,197
+Balance at January 31, 2025 1,056 1 ( 94 ) ( 19,507 ) 64,576 ( 266 ) 16,369 61,173
+Common stock issued 17 0 0 0 1,062 0 0 1,062
+Common stock withheld related to net share settlement of equity awards 0 0 0 0 ( 325 ) 0 0 ( 325 )
+Common stock repurchased 0 0 ( 50 ) ( 12,721 ) 0 0 0 ( 12,721 )
+Stock-based compensation 0 0 0 0 3,522 0 0 3,522
+Other comprehensive loss, net of tax 0 0 0 0 0 579 0 579
+Cash dividends and dividend equivalents declared 0 0 0 0 0 0 ( 1,605 ) ( 1,605 )
+Net income 0 0 0 0 0 0 7,457 7,457
+Balance at January 31, 2026 1,073 1 ( 144 ) ( 32,228 ) 68,835 313 22,221 59,142
+See accompanying Notes.
+60
+Table of Contents
+Salesforce, Inc.
+Consolidated Statements of Cash Flows
+(in millions)
+4 Fiscal Year Ended January 31,
+2026 2025 2024
+Operating activities:
+Net income $ 7,457 $ 6,197 $ 4,136
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization (1) 3,631 3,477 3,959
+Amortization of costs capitalized to obtain revenue contracts, net 2,197 2,095 1,925
+Stock-based compensation expense 3,509 3,183 2,787
+(Gains) losses on strategic investments, net ( 1,017 ) 121 277
+Changes in assets and liabilities, net of business combinations:
+Accounts receivable, net ( 2,160 ) ( 490 ) ( 659 )
+Costs capitalized to obtain revenue contracts, net ( 2,811 ) ( 2,121 ) ( 1,872 )
+Prepaid expenses and other current assets and other assets 819 ( 1,495 ) ( 843 )
+Accounts payable and accrued expenses and other liabilities 1,014 1,089 ( 478 )
+Operating lease liabilities ( 567 ) ( 548 ) ( 621 )
+Unearned revenue 2,924 1,584 1,623
+Net cash provided by operating activities 14,996 13,092 10,234
+Investing activities:
+Business combinations, net of cash acquired ( 9,268 ) ( 2,734 ) ( 82 )
+Purchases of strategic investments ( 1,958 ) ( 539 ) ( 496 )
+Sales of strategic investments 184 126 108
+Purchases of marketable securities ( 3,763 ) ( 6,879 ) ( 3,761 )
+Sales of marketable securities 4,414 4,143 1,511
+Maturities of marketable securities 2,395 3,378 2,129
+Capital expenditures ( 594 ) ( 658 ) ( 736 )
+Net cash used in investing activities ( 8,590 ) ( 3,163 ) ( 1,327 )
+Financing activities:
+Proceeds from issuance of debt, net of issuance costs 6,000 0 0
+Repurchases of common stock ( 12,596 ) ( 7,829 ) ( 7,620 )
+Payments for taxes related to net share settlement of equity awards ( 351 ) 0 0
+Proceeds from employee stock plans 1,039 1,540 1,954
+Principal payments on financing obligations ( 584 ) ( 603 ) ( 629 )
+Repayments of debt 0 ( 1,000 ) ( 1,182 )
+Payments of dividends and dividend equivalents ( 1,587 ) ( 1,537 ) 0
+Net cash used in financing activities ( 8,079 ) ( 9,429 ) ( 7,477 )
+Effect of exchange rate changes 152 ( 124 ) 26
+Net increase (decrease) in cash and cash equivalents ( 1,521 ) 376 1,456
+Cash and cash equivalents, beginning of period 8,848 8,472 7,016
+Cash and cash equivalents, end of period $ 7,327 $ 8,848 $ 8,472
+(1) Includes amortization of intangible assets acquired through business combinations, depreciation of fixed assets and amortization and impairment of right-of-use assets.
+See accompanying Notes.
+61
+Table of Contents
+Salesforce, Inc.
+Consolidated Statements of Cash Flows
+Supplemental Cash Flow Disclosure
+(in millions)
+Fiscal Year Ended January 31,
+2026 2025 2024
+Supplemental cash flow disclosure:
+Cash paid during the period for:
+Interest $ 276 $ 233 $ 254
+Income taxes, net of tax refunds $ 1,282 $ 2,061 $ 1,027
+See accompanying Notes.
+62
+Table of Contents
+Salesforce, Inc.
+Notes to Consolidated Financial Statements
+1. Summary of Business and Significant Accounting Policies
+Description of Business
+Salesforce, Inc. (the "Company") is a global leader in customer relationship management technology that brings companies and customers together. With the deeply unified Agentforce 360 Platform, the Company delivers a single source of truth, connecting customer data with integrated artificial intelligence ("AI") across systems, apps and devices to help companies sell, service, market and conduct commerce from anywhere. During the third quarter of fiscal 2025, the Company introduced Agentforce, a new layer of the trusted Agentforce 360 Platform that enables companies to build and deploy AI agents that can respond to inputs, make decisions and take action autonomously across business functions. Agentforce includes a suite of customizable agents for use across sales, service, marketing and commerce. Since its founding in 1999, the Company has enabled companies of every size and industry to transform their businesses in the digital-first world, pioneering innovations in cloud, mobile, social, analytics and AI.
+Fiscal Year
+The Company's fiscal year ends on January 31. References to fiscal 2026, for example, refer to the fiscal year ending January 31, 2026.
+Use of Estimates
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions in the Company's consolidated financial statements and notes thereto.
+Significant estimates and assumptions made by management include the determination of:
+the standalone selling price ("SSP") of performance obligations for revenue contracts with multiple performance obligations;
+the valuation of privately-held strategic investments;
+the fair value of assets acquired and liabilities assumed for business combinations;
+the recognition, measurement and valuation of current and deferred income taxes and uncertain tax positions;
+the useful lives of intangible assets; and
+the fair value of certain stock awards issued.
+Actual results could differ materially from these estimates. The Company bases its estimates on historical experience and on various other assumptions that are believed to be reasonable, which forms the basis for making judgments about the carrying values of assets and liabilities as well as income and expenses to be recognized.
+Principles of Consolidation
+The consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries. All significant intercompany balances and transactions have been eliminated in consolidation.
+Segments
+The Company operates as one operating segment. Operating segments are defined as components of an enterprise for which separate financial information is evaluated regularly by the chief operating decision maker ("CODM"), who is the Company's Chief Executive Officer, in deciding how to allocate resources and assess performance. Over the past few years, the Company has completed a number of acquisitions which have allowed the Company to expand its offerings, presence and reach in various market segments of the enterprise cloud computing market. While the Company has offerings in multiple enterprise cloud computing market segments, including as a result of the Company's acquisitions, and operates in multiple countries, the Company's business operates in one operating segment because most of the Company's service offerings operate on the Agentforce 360 Platform and are deployed in a nearly identical manner, and the Company's CODM evaluates the Company's financial information and resources, and assesses the performance of these resources, on a consolidated net income basis. Additionally, the measure of segment assets is reported on the consolidated balance sheet as total consolidated assets.
+The Company's significant segment expenses, which are the expenses included in operating income as well as gains (losses) on strategic investments, and other segment items, which includes other income and provision for income taxes, are included in the Company's consolidated statement of operations. Additionally, further components of the Company's measure of profit or loss, which is consolidated net income, are included throughout the Company's financial statements.
+63
+Table of Contents
+Concentrations of Credit Risk, Significant Customers and Investments
+The Company's financial instruments that are exposed to concentrations of credit risk consist primarily of cash and cash equivalents, marketable securities and accounts receivable. The Company monitors and manages the overall exposure of its cash balances to individual financial institutions on an ongoing basis. The Company's marketable securities portfolio consists primarily of investment-grade securities and the Company's policies limit the amount of credit exposure to any one issuer. The Company does not require collateral for accounts receivable. The Company maintains an allowance for its doubtful accounts receivable for estimated credit losses. This allowance is based upon historical loss patterns, the number of days that billings are past due, an evaluation of the potential risk of loss associated with delinquent accounts and current market conditions and reasonable and supportable forecasts of future economic conditions to inform adjustments to historical loss patterns. The Company records the allowance against bad debt expense through the consolidated statements of operations, included in general and administrative expense, up to the amount of revenues recognized to date. Any incremental allowance is recorded as an offset to unearned revenue on the consolidated balance sheets. Receivables are written off and charged against the recorded allowance when the Company has exhausted collection efforts without success.
+No single customer accounted for ten percent or more of accounts receivable as of January 31, 2026 and January 31, 2025. No single customer accounted for ten percent or more of total revenue during fiscal 2026 and 2025. As of January 31, 2026 and January 31, 2025, assets located outside the Americas were 16 percent and 17 percent of total assets, respectively. As of January 31, 2026 and January 31, 2025, assets located in the United States were 82 percent and 81 percent of total assets, respectively.
+The Company is also exposed to concentrations of risk in its strategic investment portfolio, including within specific industries, as the Company primarily invests in enterprise cloud companies, technology st artups and system integrators. As of January 31, 2026, two of the Company's privately held investments had carrying values that were individually greater than five percent of its total strategic investments portfolio and represented approximately 35 percent o f the portfolio in the aggregate. As of January 31, 2025 , the Company held four investments, all privately held, with carrying values that were individually greater than five percent of its strategic investments portfolio and represented approximately 24 percent of the portfolio in the aggregate.
+Revenue Recognition
+The Company derives its revenues from two sources: (1) subscription and support revenues and (2) professional services and other revenues. Subscription and support revenues primarily include subscription fees from customers accessing the Company's enterprise cloud computing services (collectively, "Cloud Services"), software license revenues from the sales of term software licenses and support revenues from the sales of support and updates beyond the basic subscription or software license sales. Professional services and other revenues include professional and advisory services for process mapping, project management and implementation services and training services.
+Revenue is recognized upon transfer of control of promised products and services to customers in an amount that reflects the consideration the Company expects to receive in exchange for those products or services. If the consideration promised in a contract includes a variable amount, for example, overage fees, contingent fees or service level penalties, the Company includes an estimate of the amount it expects to receive for the total transaction price if it is probable that a significant reversal of cumulative revenue recognized will not occur.
+The Company determines the amount of revenue to be recognized through the application of the following steps:
+identification of the contract, or contracts, with a customer;
+identification of the performance obligations in the contract;
+determination of the transaction price;
+allocation of the transaction price to the performance obligations in the contract; and
+recognition of revenue when or as the Company satisfies the performance obligations.
+Subscription and Support Revenues
+Subscription and support revenues are comprised of fees that provide customers with access to Cloud Services, software licenses and related support and updates during the term of the arrangement.
+Cloud Services allow customers to use the Company's multi-tenant software without taking possession of the software. Revenue is generally recognized ratably over the contract term. Substantially all of the Company's subscription service arrangements are noncancellable and do not contain refund-type provisions.
+Subscription and support revenues also include revenues associated with term software licenses that provide the customer with a right to use the software as it exists when made available. Revenues from term software licenses are generally recognized
+64
+Table of Contents
+at the point in time when the software is made available to the customer. Revenue from software support and updates is recognized as the support and updates are provided, which is generally ratably over the contract term.
+The Company typically invoices its customers annually and its payment terms provide that customers pay within 30 days of invoice. Amounts that have been invoiced are recorded in accounts receivable and in unearned revenue or revenue, depending on whether transfer of control to customers has occurred.
+Professional Services and Other Revenues
+The Company's professional services contracts are either on a time and materials, fixed price or subscription basis. These revenues are recognized as the services are rendered for time and materials contracts, on a proportional performance basis for fixed price contracts or ratably over the contract term for subscription professional services contracts. Other revenues consist primarily of training revenues recognized as such services are performed.
+Significant Judgments - Contracts with Multiple Performance Obligations
+The Company enters into contracts with its customers that may include promises to transfer multiple performance obligations such as Cloud Services, software licenses, support and updates and professional services. A performance obligation is a promise in a contract with a customer to transfer products or services that are concluded to be distinct. Determining whether products and services are distinct performance obligations that should be accounted for separately or combined as one unit of accounting may require significant judgment.
+Cloud Services, software licenses and support and updates services are generally concluded to be distinct because such offerings are often sold separately. In determining whether professional services are distinct, the Company considers the following factors for each professional services agreement: availability of the services from other vendors, the nature of the professional services, the timing of when the professional services contract was signed in comparison to the subscription start date and the contractual dependence of the service on the customer's satisfaction with the professional services work. To date, the Company has concluded that professional services included in contracts with multiple performance obligations are distinct.
+The Company allocates the transaction price to each performance obligation on a relative SSP basis. The SSP is the price at which the Company would sell a promised product or service separately to a customer. Judgment is required to determine the SSP for each distinct performance obligation.
+The Company determines SSP by considering its overall pricing objectives and market conditions. Significant pricing practices taken into consideration include the Company's discounting practices, the size and volume of the Company's transactions, the customer demographic, the geographic area where services are sold, price lists, the Company's go-to-market strategy, historical and current sales and contract prices. In instances where the Company does not sell or price a product or service separately, the Company maximizes the use of observable inputs by using information that may include market conditions. As the Company's go-to-market strategies evolve, the Company may modify its pricing practices in the future, which could result in changes to SSP.
+In certain cases, the Company is able to establish SSP based on observable prices of products or services sold or priced separately in comparable circumstances to similar customers. The Company uses a single amount to estimate SSP when indicated by the distribution of its observable prices.
+Alternatively, the Company uses a range of amounts to estimate SSP when the pricing practices or distribution of the observable prices are highly variable. The Company typically has more than one SSP for individual products and services due to the stratification of those products and services by customer size and geography.
+Costs Capitalized to Obtain Revenue Contracts
+The Company capitalizes incremental costs of obtaining revenue contracts related to noncancellable Cloud Services subscription, ongoing Cloud Services support and license support and updates. For contracts with term software licenses where revenue is recognized upfront when the software is made available to the customer, costs allocable to those licenses are expensed as they are incurred. Capitalized amounts consist primarily of sales commissions paid to the Company's direct sales force on new and renewal contracts, the associated payroll and benefit costs, and success fees paid to partners.
+Costs capitalized related to new revenue contracts are amortized on a straight-line basis over four years , which is longer than the typical initial contract period, but reflects the estimated average period of benefit, including expected contract renewals. In arriving at this average period of benefit, the Company evaluates both qualitative and quantitative factors which included the estimated life cycles of its offerings and its customer attrition. Additionally, the Company amortizes capitalized costs for renewals over two years .
+The capitalized amounts are recoverable through future revenue streams under all noncancellable customer contracts. The Company periodically evaluates whether there have been any changes in its business, the market conditions in which it operates
+65
+Table of Contents
+or other events which would indicate that its amortization period should be changed or if there are potential indicators of impairment.
+Amortization of capitalized costs to obtain revenue contracts is included in sales and marketing expense in the accompanying consolidated statements of operations. There were no impairments of costs to obtain revenue contracts for fiscal 2026 and 2025.
+Cash and Cash Equivalents
+The Company considers all highly liquid investments purchased with an original maturity of three months or less to be cash equivalents. Cash and cash equivalents are stated at fair value.
+Marketable Securities
+The Company considers all of its marketable debt securities as available for use in current operations, including those with maturity dates beyond one year, and therefore classifies these securities within current assets on the consolidated balance sheets. Securities are classified as available for sale and are carried at fair value, with the change in unrealized gains and losses, net of tax, reported as a separate component on the consolidated statements of comprehensive income until realized. Fair value is determined based on quoted market rates when observable or utilizing data points that are observable, such as quoted prices, interest rates and yield curves. Securities with an amortized cost basis in excess of estimated fair value are assessed to determine what amount of the excess, if any, is caused by expected credit losses. Expected credit losses on securities are recognized in other income on the consolidated statements of operations and any remaining unrealized losses, net of taxes, are included in accumulated other comprehensive income (loss) in stockholders' equity. For the purposes of computing realized and unrealized gains and losses, the cost of securities sold is based on the specific-identification method. Interest on securities classified as available for sale is included as a component of investment income within other income on the consolidated statements of operations.
+Strategic Investments
+The Company holds strategic investments in publicly held equity securities, privately held equity securities and other investments in which the Company does not have a controlling interest.
+Privately held equity securities where the Company lacks a controlling financial interest but does exercise significant influence are accounted for under the equity method. Privately held equity securities not accounted for under the equity method are recorded at cost and adjusted only for observable transactions for same or similar investments of the same issuer or impairment events (referred to as the measurement alternative). All gains and losses on privately held equity securities, realized and unrealized, are recorded through gains (losses) on strategic investments, net on the consolidated statements of operations. Other privately held investments not classified as debt or equity securities are recorded at cost and adjusted for impairment events, with any associated gains and losses recorded through gains (losses) on strategic investments, net on the consolidated statements of operations.
+Valuations of privately held securities are inherently complex and require judgment due to the lack of readily available market data. In determining the estimated fair value of its strategic investments in privately held companies, the Company utilizes the most recent data available to the Company. The Company assesses its privately held strategic investments quarterly for impairment. The Company's impairment analysis encompasses an assessment of both qualitative and quantitative factors, including the investee's financial metrics, market acceptance of the investee's product or technology and the rate at which the investee is using its cash. If the investment is considered impaired, the Company estimates the fair value of the investment and recognizes any resulting impairment through the consolidated statements of operations.
+Publicly held equity securities are measured at fair value with changes recorded through gains (losses) on strategic investments, net on the consolidated statements of operations.
+Fair Value Measurement
+The Company measures its cash and cash equivalents, marketable securities, publicly held equity securities and foreign currency derivative contracts at fair value. In addition, the Company measures certain of its strategic investments, including its privately held equity securities, at fair value on a nonrecurring basis when there has been an observable price change in a same or similar security or an impairment event. The additional disclosures regarding the Company's fair value measurements are included in Note 4 "Fair Value Measurement."
+Derivative Financial Instruments
+The Company enters into foreign currency derivative contracts with financial institutions to reduce foreign exchange risk associated with intercompany transactions and other monetary assets or liabilities denominated in currencies other than the functional currency of a subsidiary. The Company uses forward currency derivative contracts, which are not designated as
+66
+Table of Contents
+hedging instruments, to minimize the Company's exposure to balances primarily denominated in the Euro, British Pound Sterling, Canadian Dollar, Australian Dollar, Brazilian Real and Japanese Yen. The Company's derivative financial instruments program is not conducted for trading or speculative purposes. The Company generally enters into master netting arrangements with the financial institutions with which it contracts for such derivatives, which permit net settlement of transactions with the same counterparty, thereby reducing risk of credit-related losses from a financial institutions' nonperformance. While the contract or notional amount is often used to express the volume of foreign currency derivative contracts, the amounts potentially subject to credit risk are generally limited to the amounts, if any, by which the counterparties' obligations under the agreements exceed the obligations of the Company to the counterparties. The notional amount of outstanding foreign currency derivative contracts as of January 31, 2026 and January 31, 2025 was $ 11.9 billion and $ 10.7 billion, respectively.
+Outstanding foreign currency derivative contracts are recorded at fair value on the consolidated balance sheets. Unrealized gains or losses due to changes in the fair value of these derivative contracts, as well as realized gains or losses from their net settlement, are recognized as other income in the consolidated statements of operations consistent with the offsetting gains or losses resulting from the remeasurement or settlement of the underlying foreign currency denominated receivables and payables.
+Property and Equipment
+Property and equipment are stated at cost less accumulated depreciation. Depreciation is calculated on a straight-line basis over the estimated useful lives of those assets as follows:
+Buildings and building improvements 10 to 40 years
+Computers, equipment and software 3 to 5 years
+Furniture and fixtures 5 years
+Leasehold improvements Shorter of the estimated lease term or 10 years
+The Company estimates the useful lives of property and equipment upon initial recognition and periodically evaluates the useful lives and whether events or changes in circumstances warrant a revision to the useful lives.
+When assets are retired or otherwise disposed of, the cost and accumulated depreciation and amortization are removed from their respective accounts and any loss on such retirement is reflected in operating expenses.
+Leases
+The Company has entered into operating and finance leases for corporate offices, data centers, and equipment. The Company determines if an arrangement is a lease at inception and classifies its leases at commencement. Operating leases are included in operating lease right-of-use ("ROU") assets and current and noncurrent operating lease liabilities on the Company's consolidated balance sheets. Assets (also referred to as ROU assets) and liabilities recognized from finance leases are included in property and equipment, accrued expenses and other liabilities and other noncurrent liabilities, respectively, on the Company's consolidated balance sheets. ROU assets represent the Company's right to use an underlying asset for the lease term. The corresponding lease liabilities represent its obligation to make lease payments arising from the lease. The Company does not recognize ROU assets or lease liabilities for leases with a term of 12 months or less for any asset classes.
+Lease liabilities are recognized based on the present value of the future minimum lease payments over the lease term at commencement, net of any future tenant incentives. The Company has lease agreements which contain both lease and non-lease components, which it has elected to combine for all asset classes. As such, minimum lease payments include fixed payments for non-lease components within a lease agreement but exclude variable lease payments not dependent on an index or rate, such as common area maintenance, operating expenses, utilities, or other costs that are subject to fluctuation from period to period. The Company's lease terms may include options to extend or terminate the lease. Periods beyond the noncancellable term of the lease are included in the measurement of the lease liability only when it is reasonably certain that the Company will exercise the associated extension option or waive the termination option. The Company reassesses the lease term if and when a significant event or change in circumstances occurs within the control of the Company. As most of the Company's leases do not provide an implicit rate, the net present value of future minimum lease payments is determined using the Company's incremental borrowing rate. The Company's incremental borrowing rate is an estimate of the interest rate the Company would have to pay to borrow on a collateralized basis with similar terms and payments, in the economic environment where the leased asset is located.
+The lease ROU asset is recognized based on the lease liability, adjusted for any rent payments or initial direct costs incurred or tenant incentives received prior to commencement.
+Lease expense for operating leases, which includes amortization expense of ROU assets, is recognized on a straight-line basis over the lease term. Amortization expense of finance lease ROU assets is recognized on a straight-line basis over the lease
+67
+Table of Contents
+term and interest expense for finance lease liabilities is recognized based on the incremental borrowing rate. Expense for variable lease payments is recognized as incurred.
+On the lease commencement date, the Company also establishes assets and liabilities for the present value of estimated future costs to retire long-lived assets at the termination or expiration of a lease. Such assets are included in property and equipment, net and are amortized over the lease term.
+The Company has entered into subleases or has made decisions and taken actions to sublease or discontinue use of certain leased assets. Similar to other long-lived assets discussed below, management tests ROU assets for impairment whenever events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable. For leased assets, such circumstances would include the decision to discontinue use prior to the end of the minimum lease term or subleases, in the case of office space, for which estimated cash flows do not fully cover the costs of the associated lease.
+Intangible Assets Acquired through Business Combinations
+Intangible assets are amortized over their estimated useful lives. Each period, the Company evaluates the estimated remaining useful life of its intangible assets and whether events or changes in circumstances warrant a revision to the remaining period of amortization.
+Impairment Assessment
+The Company evaluates intangible assets and other long-lived assets for possible impairment whenever events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable, including, but not limited to, significant adverse changes in business climate, market conditions or other events that indicate an asset's carrying amount may not be recoverable. Recoverability of these assets is measured by comparing the carrying amount of each asset group to the future undiscounted cash flows the asset is expected to generate. If the undiscounted cash flows used in the test for recoverability are less than the carrying amount of these assets, the carrying amount of such assets is reduced to fair value.
+The Company evaluates and tests the recoverability of its goodwill for impairment annually during its fourth quarter of each fiscal year or more often if and when circumstances indicate that goodwill may not be recoverable.
+Business Combinations
+The Company uses its best estimates and assumptions to assign fair value to the tangible and intangible assets acquired and liabilities assumed at the acquisition date. The Company's estimates are inherently uncertain and subject to refinement. During the measurement period, which may be up to one year from the acquisition date, the Company may record adjustments to the fair value of these tangible and intangible assets acquired and liabilities assumed, with the corresponding offset to goodwill. In addition, uncertain tax positions, tax-related valuation allowances and pre-acquisition contingencies are initially recorded in connection with a business combination as of the acquisition date. The Company continues to collect information and reevaluates these estimates and assumptions quarterly and records any adjustments to the Company's preliminary estimates to goodwill provided that the Company is within the measurement period. Upon the conclusion of the measurement period or final determination of the fair value of assets acquired or liabilities assumed, whichever comes first, any subsequent adjustments are recorded to the Company's consolidated statements of operations.
+In the event the Company acquires an entity with which the Company has a preexisting relationship, the Company will generally recognize a gain or loss to settle that relationship as of the acquisition date within operating income on the consolidated statements of operations. In the event that the Company acquires an entity in which the Company previously held a strategic investment, the difference between the fair value of the shares as of the date of the acquisition and the carrying value of the strategic investment is recorded as a gain or loss and recorded within gains (losses) on strategic investments, net in the consolidated statements of operations.
+Restructuring
+The Company generally recognizes employee severance costs when payments are probable and amounts are estimable or when notification occurs, depending on the region where an employee works. Costs related to contracts without future benefit or contract termination are recognized at the earlier of the contract termination or the cease-use dates. Other exit-related costs are recognized as incurred.
+Stock-Based Compensation Expense
+Stock-based compensation expense is measured based on grant date at fair value using the grant date closing stock price for restricted stock units and restricted stock awards and using the Black-Scholes option pricing model for stock options and shares issued pursuant to the Amended and Restated 2004 Employee Stock Purchase Plan ("ESPP"). The Company recognizes stock-based compensation expense related to restricted stock units, restricted stock awards, stock options and shares issued pursuant to the ESPP on a straight-line basis, net of estimated forfeitures, over the requisite service period of the awards, which
+68
+Table of Contents
+is generally the vesting term of four years for restricted stock units, restricted stock awards, and stock options, and the 12-month offering period for shares issued pursuant to the ESPP. The estimated forfeiture rate applied is based on historical forfeiture rates.
+The Company grants performance-based restricted stock units and performance-based stock options to executive officers and other members of senior management, which may include a market condition, a performance condition, or both, in addition to a service condition. Stock-based compensation expense related to awards with a market condition are measured at fair value using a Monte Carlo simulation model and the expense related to these awards is recognized on a graded-vesting basis, net of estimated forfeitures, over the requisite service period of the awards, which is generally the vesting term. Stock-based compensation expense related to awards with a performance condition are measured based on the grant date closing stock price and the expense related to these awards is recognized based on the requisite service period elapsed, as well as the probability of achievement and estimated attainment of the performance condition as of the end of our reporting period.
+Advertising Expenses
+Advertising is expensed as incurred. Advertising expense was $ 0.8 billion, $ 1.0 billion, and $ 1.1 billion for fiscal 2026, 2025 and 2024, respectively.
+Income Taxes
+The Company uses the asset and liability method of accounting for income taxes. Under this method, deferred tax assets and liabilities are determined based on temporary differences between the financial statement and tax basis of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. The effect on deferred tax assets and liabilities of a change in tax laws is recognized in the consolidated statements of operations in the period that includes the enactment date.
+The Company's tax positions are subject to income tax audits by multiple tax jurisdictions throughout the world. The Company recognizes the tax benefit of an uncertain tax position only if it is more likely than not that the position is sustainable upon examination by the taxing authority, solely based on its technical merits. The tax benefit recognized is measured as the largest amount of benefit which is greater than 50 percent likely to be realized upon settlement with the taxing authority. The Company recognizes interest accrued and penalties related to unrecognized tax benefits in the income tax provision.
+Valuation allowances are established when necessary to reduce deferred tax assets to the amounts that are more likely than not expected to be realized based on the weighting of positive and negative evidence. Future realization of deferred tax assets ultimately depends on the existence of sufficient taxable income of the appropriate character (for example, ordinary income or capital gain) within the carryback or carryforward periods available under the applicable tax law. The Company regularly reviews the deferred tax assets for recoverability based on historical taxable income, projected future taxable income, the expected timing of the reversals of existing temporary differences and tax planning strategies. The Company's judgments regarding future profitability may change due to many factors, including future market conditions and the ability to successfully execute its business plans. Should there be a change in the ability to recover deferred tax assets, the tax provision would increase or decrease in the period in which the assessment is changed.
+Foreign Currency Translation
+The functional currency of the Company's major foreign subsidiaries is generally the local currency. All assets and liabilities denominated in a foreign currency are translated into U.S. dollars at the exchange rate on the balance sheet date. Revenues and expenses are translated at the average exchange rate during the period. Equity transactions are translated using historical exchange rates. Adjustments resulting from translating foreign functional currency financial statements into U.S. dollars are recorded as a separate component on the consolidated statements of comprehensive income. Foreign currency transaction gains and losses are included in other income in the consolidated statements of operations.
+Warranties and Indemnification
+The Company's arrangements generally include certain provisions for indemnifying customers against liabilities if its products or services infringe on a third party's intellectual property rights. To date, the Company has not incurred any material costs as a result of such obligations and has not accrued any material liabilities related to such obligations in the accompanying consolidated financial statements.
+The Company has also agreed to indemnify its directors and executive officers for costs associated with any fees, expenses, judgments, fines and settlement amounts incurred by any of these persons in any action or proceeding to which any of those persons is, or is threatened to be, made a party by reason of the person's service as a director or officer, including any action by the Company, arising out of that person's services as the Company's director or officer or that person's services provided to any other company or enterprise at the Company's request. The Company maintains director and officer insurance coverage that would generally enable the Company to recover a portion of any future amounts paid. The Company may also be
+69
+Table of Contents
+subject to indemnification obligations by law with respect to the actions of its employees under certain circumstances and in certain jurisdictions.
+New Accounting Pronouncements Adopted in Fiscal 2026
+In December 2023, the Financial Accounting Standards Board (the "FASB") issued Accounting Standards Update No. 2023-09, "Income Taxes (Topic 740): Improvements to Income Tax Disclosures" ("ASU 2023-09"), which requires disclosure of disaggregated income taxes paid, prescribes standard categories for the components of the effective tax rate reconciliation and modifies other income tax-related disclosures. The Company adopted ASU 2023-09 in the fourth quarter of fiscal 2026 on a retrospective basis.
+New Accounting Pronouncements Pending Adoption
+In November 2024, the FASB issued Accounting Standards Update No. 2024-03, "Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses" ("ASU 2024-03"), which requires disaggregation of certain costs in a separate note to the financial statements, such as the amounts of employee compensation, depreciation and intangible asset amortization, included in each relevant expense caption in annual and interim consolidated financial statements. ASU 2024-03 is effective for annual periods beginning after December 15, 2026 and for interim periods within fiscal years beginning after December 15, 2027 on a retrospective or prospective basis, with early adoption permitted. The Company is evaluating the effect that ASU 2024-03 will have on its financial statement disclosures.
+In September 2025, the FASB issued Accounting Standards Update 2025-06, "Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software" ("ASU 2025-06"), which provides targeted improvements to the accounting for internal-use software costs by replacing the existing project-stage model with a principles-based approach to determine when capitalization of costs should begin. ASU 2025-06 is effective for all entities for annual reporting periods beginning after December 15, 2027 on a prospective basis, with early adoption permitted. The Company is currently evaluating the effect that ASU 2025-06 will have on its financial statement disclosures.
+2. Revenues
+Disaggregation of Revenue
+Subscription and Support Revenue by the Company's Service Offerings (1)
+Subscription and support revenues consisted of the following (in millions):
+Fiscal Year Ended January 31,
+2026 2025 2024
+Agentforce Sales $ 9,028 $ 8,322 $ 7,580
+Agentforce Service 9,818 9,054 8,245
+Agentforce 360 Platform, Slack and Other (2) 8,882 7,247 6,611
+Agentforce Marketing and Agentforce Commerce 5,428 5,281 4,912
+Agentforce Integration and Agentforce Analytics 6,232 5,775 5,189
+$ 39,388 $ 35,679 $ 32,537
+(1) In the third quarter of fiscal 2026, the Company renamed its service offerings to reference Agentforce. There were no changes in the allocation of revenue between these service offerings as a result of this change.
+(2) Agentforce 360 Platform, Slack and Other revenue for the year ended January 31, 2026 includes $ 388 million in subscription and support revenue from Informatica, Inc. ("Informatica"), which the Company acquired in November 2025.
+Total Revenue by Geographic Locations
+Revenues by geographical region consisted of the following (in millions):
+Fiscal Year Ended January 31,
+2026 2025 2024
+Americas $ 27,193 $ 25,143 $ 23,289
+Europe 10,017 8,891 8,128
+Asia Pacific 4,315 3,861 3,440
+$ 41,525 $ 37,895 $ 34,857
+70
+Table of Contents
+Revenues by geography are determined based on the region of the Company's contracting entity, which may be different than the region of the customer. Americas revenue attributed to the United States was approximately 93 percent during fiscal 2026, 2025, and 2024, respectively. No other country represented more than ten percent of total revenue during fiscal 2026, 2025 and 2024.
+Contract Balances
+Contract Assets
+The Company records a contract asset when revenue recognized on a contract exceeds the billings. Contract assets were $ 818 million as of January 31, 2026 as compared to $ 724 million as of January 31, 2025, and are included in prepaid expenses and other current assets and deferred tax assets and other assets, net on the consolidated balance sheets.
+Unearned Revenue
+Unearned revenue represents amounts that have been invoiced in advance of revenue recognition and is recognized as revenue when transfer of control to customers has occurred or services have been provided. The unearned revenue balance does not represent the total contract value of annual or multi-year, noncancellable subscription agreements. The unearned revenue balance is influenced by several factors, including seasonality, the compounding effects of renewals, invoice duration, invoice timing, dollar size and new business linearity within the quarter.
+The change in unearned revenue was as follows (in millions):
+Fiscal Year Ended January 31,
+2026 2025
+Unearned revenue, beginning of period $ 20,743 $ 19,003
+Billings and other (1) 45,099 39,635
+Revenue recognized over time ( 39,041 ) ( 35,628 )
+Revenue recognized at a point in time ( 2,484 ) ( 2,267 )
+Unearned revenue, end of period $ 24,317 $ 20,743
+(1) Other includes, for example, the impact of foreign currency translation as well as contributions from contract assets and business combinations, including $ 651 million from Informatica as of the acquisition date.
+Revenue recognized over time primarily includes Cloud Services subscription and support revenue, which is generally recognized ratably over time, and professional services and other revenue, which is generally recognized ratably or as delivered.
+Revenue recognized at a point in time substantially consists of term software licenses.
+Approximately 50 percent of total revenue recognized in fiscal 2026 was from the unearned revenue balance as of January 31, 2025.
+Remaining Performance Obligation
+Remaining performance obligation represents contracted revenue that has not yet been recognized and includes unearned revenue and unbilled amounts that will be recognized as revenue in future periods. The transaction price allocated to the remaining performance obligation is based on SSP. Remaining performance obligation is influenced by several factors, including seasonality, the timing of renewals, the timing of term license deliveries, average contract terms and foreign currency exchange rates. Remaining performance obligation is also impacted by acquisitions. Unbilled portions of the remaining performance obligation denominated in foreign currencies are revalued each period based on the period end exchange rates. Remaining performance obligation is subject to future economic risks, including bankruptcies, regulatory changes and other market factors.
+The Company excludes amounts related to performance obligations from professional services contracts that are billed and recognized on a time and materials basis.
+The majority of the Company's noncurrent remaining performance obligation is expected to be recognized in the next 13 to 36 months.
+Remaining performance obligation consisted of the following (in billions):
+Current Noncurrent Total
+As of January 31, 2026 (1) $ 35.1 $ 37.3 $ 72.4
+As of January 31, 2025 $ 30.2 $ 33.2 $ 63.4
+(1) Includes approximately $ 2.2 billion of remaining performance obligation related to Informatica.
+71
+Table of Contents
+3. Investments
+Marketable Securities
+As of January 31, 2026, marketable securities consisted of the following (in millions):
+Amortized
+Cost Unrealized
+Gains Unrealized
+Losses Fair Value
+Corporate notes and obligations $ 1,343 $ 10 $ 0 $ 1,353
+U.S. treasury securities 168 2 0 170
+Mortgage-backed obligations 32 0 ( 1 ) 31
+Asset-backed securities 618 4 0 622
+Municipal securities 17 0 0 17
+Commercial paper 30 0 0 30
+Covered bonds 1 0 0 1
+Other 14 0 0 14
+Total marketable securities $ 2,223 $ 16 $ ( 1 ) $ 2,238
+As of January 31, 2025, marketable securities consisted of the following (in millions):
+Amortized
+Cost Unrealized
+Gains Unrealized
+Losses Fair Value
+Corporate notes and obligations $ 2,574 $ 6 $ ( 23 ) $ 2,557
+U.S. treasury securities 546 0 ( 4 ) 542
+Mortgage-backed obligations 128 0 ( 6 ) 122
+Asset-backed securities 1,218 3 ( 4 ) 1,217
+Municipal securities 108 0 ( 1 ) 107
+Commercial paper 506 0 0 506
+Covered bonds 29 0 ( 2 ) 27
+Other 106 0 0 106
+Total marketable securities $ 5,215 $ 9 $ ( 40 ) $ 5,184
+The contractual maturities of the investments classified as marketable securities were as follows (in millions):
+As of
+January 31, 2026 January 31, 2025
+Due within 1 year $ 460 $ 2,081
+Due in 1 year through 5 years 1,777 3,098
+Due in 5 years through 10 years 1 5
+$ 2,238 $ 5,184
+Interest income from marketable securities for fiscal year ended January 31, 2026, 2025, and 2024 was $ 539 million, $ 647 million, and $ 527 million, respectively, and is included in other income in the consolidated statements of operations.
+Strategic Investments
+Strategic investments by form and measurement category as of January 31, 2026 were as follows (in millions):
+Measurement Category
+Fair Value Measurement Alternative Other Total
+Equity securities $ 5 $ 7,415 $ 127 $ 7,547
+Other investments 0 0 44 44
+Balance as of January 31, 2026
+$ 5 $ 7,415 $ 171 $ 7,591
+72
+Table of Contents
+Strategic investments by form and measurement category as of January 31, 2025 were as follows (in millions):
+Measurement Category
+Fair Value Measurement Alternative Other Total
+Equity securities $ 69 $ 4,617 $ 125 $ 4,811
+Other investments 0 0 41 41
+Balance as of January 31, 2025
+$ 69 $ 4,617 $ 166 $ 4,852
+The Company holds investments in, or management agreements with, variable interest entities ("VIEs") which the Company does not consolidate because it is not considered the primary beneficiary of these entities. The carrying value of VIEs within strategic investments was $ 160 million and $ 484 million, as of January 31, 2026 and January 31, 2025, respectively.
+Gains (losses) on Strategic Investments, Net
+The components of gains (losses) on strategic investments, net were as follows (in millions):
+4 Fiscal Year Ended January 31,
+2026 2025 2024
+Unrealized gains (losses) recognized on publicly traded equity securities, net $ ( 4 ) $ ( 16 ) $ 29
+Unrealized gains recognized on privately held equity securities, net 1,470 358 119
+Impairments on privately held equity securities and other investments ( 496 ) ( 582 ) ( 466 )
+Unrealized gains (losses), net 970 ( 240 ) ( 318 )
+Realized gains (losses) on sales of securities, net 47 119 41
+Gains (losses) on strategic investments, net $ 1,017 $ ( 121 ) $ ( 277 )
+Unrealized gains and losses recognized on privately held equity securities, net includes upward and downward adjustments from equity securities accounted for under the measurement alternative, as well as gains and losses from private equity securities in other measurement categories. For privately held securities accounted for under the measurement alternative, the Company recorded upward adjustments of $ 1.5 billion and $ 385 million and impairments and downward adjustments of $ 511 million and $ 583 million for fiscal 2026 and 2025 , respectively. Upward adjustments to measurement alternative investments in fiscal 2026 included $ 1.2 billion in gains from one privately held equity investment.
+Realized gains on sales of securities, net reflects the difference between the sale proceeds and the carrying value of the security at the beginning of the period or the purchase date, if later.
+4. Fair Value Measurement
+The Company uses a three-tier fair value hierarchy, which prioritizes the inputs used in the valuation methodologies in measuring fair value:
+Level 1. Quoted prices (unadjusted) in active markets for identical assets or liabilities.
+Level 2. Significant other inputs that are directly or indirectly observable in the marketplace.
+Level 3. Significant unobservable inputs which are supported by little or no market activity.
+All of the Company's cash equivalents, marketable securities and foreign currency derivative contracts are classified within Level 1 or Level 2 because these assets are valued using quoted market prices or alternative pricing sources and models utilizing observable market inputs.
+73
+Table of Contents
+The following table presents information about the Company's assets that were measured at fair value as of January 31, 2026 and indicates the fair value hierarchy of the valuation (in millions):
+Description Quoted Prices in
+Active Markets
+for Identical Assets
+(Level 1) Significant Other
+Observable
+Inputs
+(Level 2) Significant
+Unobservable
+Inputs
+(Level 3) Fair Value
+Cash equivalents (1):
+Time deposits $ 0 $ 1,393 $ 0 $ 1,393
+Money market mutual funds 3,204 0 0 3,204
+Cash equivalent securities 0 567 0 567
+Marketable securities:
+Corporate notes and obligations 0 1,353 0 1,353
+U.S. treasury securities 0 170 0 170
+Mortgage-backed obligations 0 31 0 31
+Asset-backed securities 0 622 0 622
+Municipal securities 0 17 0 17
+Commercial paper 0 30 0 30
+Covered bonds 0 1 0 1
+Other 0 14 0 14
+Strategic investments:
+Equity securities 5 0 0 5
+Total assets $ 3,209 $ 4,198 $ 0 $ 7,407
+(1) Included in "cash and cash equivalents" in the accompanying consolidated balance sheets in addition to $ 2.2 billion of cash, as of January 31, 2026.
+The following table presents information about the Company's assets that were measured at fair value as of January 31, 2025 and indicates the fair value hierarchy of

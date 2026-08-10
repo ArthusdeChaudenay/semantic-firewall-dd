@@ -1,0 +1,685 @@
+f the URR involved significant judgment by management, which in turn led to a high degree of auditor judgment, subjectivity and effort in performing procedures and evaluating the audit evidence relating to the models, significant inputs and assumptions used by management and (ii) the audit effort involved the use of professionals with specialized skill and knowledge.
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to the estimate of the Membership Rewards liability, including the URR. These procedures also included, among others, (i) testing the completeness and accuracy of significant inputs to the statistical and actuarial models used to estimate the URR assumption, including redemption trends, card product type, enrollment tenure, and card spend levels, (ii) the involvement of professionals with specialized skill and knowledge to assist in developing an independent estimate of the URR assumption and comparing the independent estimate to management's assumption to evaluate its reasonableness and (iii) comparing our independently calculated Membership Rewards liability to management's estimate.
+/s/ PricewaterhouseCoopers LLP
+New York, New York
+February 6, 2026
+We have served as the Company's auditor since 2005.
+90
+Table of Contents
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS
+PAGE
+Consolidated Statements of Income For the Years Ended December 31, 2025, 2024 and 2023
+92
+Consolidated Statements of Comprehensive Income For the Years Ended December 31, 2025, 2024 and 2023
+93
+Consolidated Balance Sheets December 31, 2025 and 2024
+94
+Consolidated Statements of Cash Flows For the Years Ended December 31, 2025, 2024 and 2023
+95
+Consolidated Statements of Shareholders' Equity For the Years Ended December 31, 2025, 2024 and 2023
+96
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+97
+Note 1 Summary of Significant Accounting Policies
+97
+Note 2 Loans and Card Member Receivables
+103
+Note 3 Reserves for Credit Losses
+112
+Note 4 Investment Securities
+115
+Note 5 Asset Securitizations
+117
+Note 6 Other Assets
+118
+Note 7 Customer Deposits
+120
+Note 8 Debt
+121
+Note 9 Other Liabilities
+124
+Note 10 Stock -Based Compensation
+125
+Note 11 Retirement Plans
+127
+Note 12 Contingencies, Commitments and Guarantees
+128
+Note 13 Derivatives and Hedging Activities
+131
+Note 14 Fair Values
+134
+Note 15 Common and Preferred Shares
+139
+Note 16 Changes in Accumulated Other Comprehensive Income (Loss)
+140
+Note 17 Service Fees and Other Revenue and Other Expenses
+141
+Note 18 Restructuring
+141
+Note 19 Income Taxes
+142
+Note 20 Earnings Per Common Share (EPS)
+146
+Note 21 Regulatory Matters and Capital Adequacy
+147
+Note 22 Significant Credit Concentrations
+149
+Note 23 Reportable Operating Segments and Geographic Operations
+150
+Note 24 Parent Company
+153
+91
+Table of Contents
+CONSOLIDATED STATEMENTS OF INCOME
+Year Ended December 31 (Millions, except per share amounts)
+2025 2024 2023
+Revenues
+Non-interest revenues
+Discount revenue $ 37,401 $ 35,192 $ 33,416
+Net card fees 9,993 8,449 7,255
+Service fees and other revenue 7,471 6,765 6,710
+Total non-interest revenues 54,865 50,406 47,381
+Interest income
+Interest on loans 23,234 21,095 17,697
+Interest and dividends on investment securities 63 86 128
+Deposits with banks and other 2,301 2,614 2,158
+Total interest income 25,598 23,795 19,983
+Interest expense
+Deposits 5,425 5,695 4,865
+Long-term debt and other 2,809 2,557 1,984
+Total interest expense 8,234 8,252 6,849
+Net interest income 17,364 15,543 13,134
+Total revenues net of interest expense 72,229 65,949 60,515
+Provisions for credit losses
+Card Member receivables 751 774 880
+Card Member loans 4,067 4,109 3,839
+Other 438 302 204
+Total provisions for credit losses 5,256 5,185 4,923
+Total revenues net of interest expense after provisions for credit losses 66,973 60,764 55,592
+Expenses
+Card Member rewards 18,409 16,599 15,367
+Business development 6,457 5,886 5,657
+Card Member services 6,057 4,782 3,968
+Marketing 6,252 6,040 5,213
+Salaries and employee benefits 9,016 8,198 8,067
+Other, net 6,987 6,364 6,807
+Total expenses 53,178 47,869 45,079
+Pretax income 13,795 12,895 10,513
+Income tax provision 2,962 2,766 2,139
+Net income $ 10,833 $ 10,129 $ 8,374
+Earnings per Common Share — (Note 20) (a)
+Basic $ 15.41 $ 14.04 $ 11.23
+Diluted $ 15.38 $ 14.01 $ 11.21
+Average common shares outstanding for earnings per common share:
+Basic 695 712 735
+Diluted 696 713 736
+(a) Represents net income less (i) earnings allocated to participating share awards of $ 74 million, $ 76 million and $ 64 million for the years ended December 31, 2025, 2024 and 2023, respectively, and (ii) dividends on preferred shares of $ 58 million for each of the years ended December 31, 2025, 2024 and 2023.
+See Notes to Consolidated Financial Statements.
+92
+Table of Contents
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+Year Ended December 31 (Millions)
+2025 2024 2023
+Net income $ 10,833 $ 10,129 $ 8,374
+Other comprehensive income (loss):
+Net unrealized debt securities gains (losses), net of tax
+5 5 50
+Foreign currency translation adjustments, net of hedges and tax 141 ( 353 ) 51
+Net unrealized pension and other postretirement benefits, net of tax ( 28 ) 25 37
+Other comprehensive income (loss)
+118 ( 323 ) 138
+Comprehensive income $ 10,951 $ 9,806 $ 8,512
+See Notes to Consolidated Financial Statements.
+93
+Table of Contents
+CONSOLIDATED BALANCE SHEETS
+December 31 (Millions, except share data)
+2025 2024
+Assets
+Cash and cash equivalents
+Cash and due from banks (includes restricted cash of consolidated variable interest entities: 2025, nil ; 2024, $ 6 )
+$ 3,559 $ 3,413
+Interest-bearing deposits in other banks
+43,491 37,006
+Short-term investment securities (includes restricted investments of consolidated variable interest entities: 2025, $ 84 ; 2024, $ 82 )
+742 221
+Total cash and cash equivalents (includes restricted cash: 2025, $ 169 ; 2024, $ 427 )
+47,792 40,640
+Card Member receivables (includes gross receivables available to settle obligations of a consolidated variable interest entity: 2025, $ 5,659 ; 2024, $ 3,927 ), less reserves for credit losses: 2025, $ 180 ; 2024, $ 171
+61,851 59,240
+Card Member loans (includes gross loans available to settle obligations of a consolidated variable interest entity: 2025, $ 27,719 ; 2024, $ 28,278 ), less reserves for credit losses: 2025, $ 5,909 ; 2024, $ 5,679
+145,923 133,995
+Card Member loans held for sale
+2,457 758
+Other loans, less reserves for credit losses: 2025, $ 323 ; 2024, $ 194
+10,605 9,038
+Investment securities 1,043 1,240
+Premises and equipment, less accumulated depreciation and amortization: 2025, $ 12,039 ; 2024, $ 10,739
+6,118 5,371
+Other assets, less reserves for credit losses: 2025, $ 86 ; 2024, $ 27
+24,263 21,179
+Total assets $ 300,052 $ 271,461
+Liabilities and Shareholders' Equity
+Liabilities
+Customer deposits $ 152,488 $ 139,413
+Accounts payable 14,700 13,884
+Short-term borrowings 1,371 1,374
+Long-term debt (includes debt issued by consolidated variable interest entities: 2025, $ 13,022 ; 2024, $ 13,880 )
+56,387 49,715
+Other liabilities 41,632 36,811
+Total liabilities $ 266,578 $ 241,197
+Contingencies, Commitments and Guarantees (Note 12)
+Shareholders' Equity
+Preferred shares, $1.66 2/3 par value, authorized 20 million shares; issued and outstanding 1,600 shares as of December 31, 2025 and 2024 (Note 15)
+— —
+Common shares, $ 0.20 par value, authorized 3.6 billion shares; issued and outstanding 686 million shares as of December 31, 2025 and 702 million shares as of December 31, 2024
+138 141
+Additional paid-in capital 11,126 11,370
+Retained earnings 25,487 22,148
+Accumulated other comprehensive income (loss) ( 3,277 ) ( 3,395 )
+Total shareholders' equity 33,474 30,264
+Total liabilities and shareholders' equity $ 300,052 $ 271,461
+See Notes to Consolidated Financial Statements.
+94
+Table of Contents
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Years Ended December 31 (Millions)
+2025 2024 2023
+Cash Flows from Operating Activities
+Net income $ 10,833 $ 10,129 $ 8,374
+Adjustments to reconcile net income to net cash provided by operating activities:
+Provisions for credit losses 5,256 5,185 4,923
+Depreciation and amortization 1,777 1,676 1,651
+Stock-based compensation 551 504 450
+Deferred taxes ( 542 ) ( 990 ) ( 1,329 )
+Other items (a)
+( 237 ) ( 564 ) 664
+Originations of loans held for sale ( 74 ) — ( 54 )
+Proceeds from sales of loans held for sale — — 59
+Changes in operating assets and liabilities, net of effects of acquisitions and dispositions:
+Other assets ( 2,781 ) 1,007 ( 1,244 )
+Accounts payable & other liabilities 3,645 ( 2,897 ) 5,065
+Net cash provided by operating activities 18,428 14,050 18,559
+Cash Flows from Investing Activities
+Sale of investments 47 42 2
+Maturities and redemptions of investments 1,453 2,179 3,888
+Purchase of investments ( 1,760 ) ( 1,593 ) ( 1,572 )
+Net increase in loans and Card Member receivables, including Card Member loans held for sale (b)(c)
+( 19,573 ) ( 23,259 ) ( 25,124 )
+Purchase of premises and equipment, net of sales: 2025, $ 1 ; 2024, $ 6 ; 2023, $ 2
+( 2,425 ) ( 1,911 ) ( 1,563 )
+Acquisitions, net of cash acquired ( 633 ) ( 454 ) ( 64 )
+Dispositions, net of cash disposed — 594 —
+Net cash used in investing activities ( 22,891 ) ( 24,402 ) ( 24,433 )
+Cash Flows from Financing Activities
+Net increase in customer deposits 13,045 10,305 18,915
+Net (decrease) increase in short-term borrowings (c)
+( 27 ) 207 ( 105 )
+Proceeds from long-term debt 24,377 12,602 15,674
+Payments of long-term debt ( 18,157 ) ( 10,759 ) ( 10,703 )
+Issuance of American Express common shares 57 100 28
+Repurchase of American Express common shares and other ( 5,814 ) ( 6,020 ) ( 3,650 )
+Dividends paid ( 2,271 ) ( 1,999 ) ( 1,780 )
+Net cash provided by financing activities 11,210 4,436 18,379
+Effect of foreign currency exchange rates on cash and cash equivalents 405 ( 40 ) 177
+Net increase (decrease) in cash and cash equivalents 7,152 ( 5,956 ) 12,682
+Cash and cash equivalents at beginning of year 40,640 46,596 33,914
+Cash and cash equivalents at end of year $ 47,792 $ 40,640 $ 46,596
+(a) Primarily includes gains/losses on foreign currency transactions, fair value hedges and tax credit and Amex Ventures investments and movements in equity method investments. For the period ended on December 31, 2024, also includes the gain recognized on the sale of Accertify (refer to Note 1 for additional information).
+(b) Includes Card Member loans held for sale (HFS) which were previously held for investment within Card Member loans and were reclassified on the Consolidated Balance Sheets effective June 1, 2025 and December 1, 2024. Refer to Note 1 for additional information.
+(c) Excludes an increase of $ 117 million related to non-cash activity during 2023.
+Net income taxes paid during 2025, 2024 and 2023 were $ 3.2 billion, $ 3.6 billion and $ 3.3 billion, respectively, and interest paid primarily related to Debt and Customer deposits for the same periods were $ 8.0 billion, $ 8.2 billion and $ 6.4 billion, respectively.
+See Notes to Consolidated Financial Statements.
+95
+Table of Contents
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+(Millions, except per share amounts) Total Preferred Shares Common Shares Additional Paid-in
+Capital Accumulated Other
+Comprehensive
+Income (Loss) Retained Earnings
+Balances as of December 31, 2022 $ 24,711 $ — $ 149 $ 11,493 $ ( 3,210 ) $ 16,279
+Net income 8,374 — — — — 8,374
+Other comprehensive income (loss)
+138 — — — 138 —
+Repurchase of common shares ( 3,519 ) — ( 4 ) ( 334 ) — ( 3,181 )
+Other changes
+181 — — 213 — ( 32 )
+Cash dividends declared preferred Series D, $ 35,993.05 per share
+( 58 ) — — — — ( 58 )
+Cash dividends declared common, $ 2.40 per share
+( 1,770 ) — — — — ( 1,770 )
+Balances as of December 31, 2023 28,057 — 145 11,372 ( 3,072 ) 19,612
+Net income 10,129 — — — — 10,129
+Other comprehensive income (loss)
+( 323 ) — — — ( 323 ) —
+Repurchase of common shares ( 5,857 ) — ( 4 ) ( 377 ) — ( 5,476 )
+Other changes
+315 — — 375 — ( 60 )
+Cash dividends declared preferred Series D, $ 36,288.88 per share
+( 58 ) — — — — ( 58 )
+Cash dividends declared common, $ 2.80 per share
+( 1,999 ) — — — — ( 1,999 )
+Balances as of December 31, 2024 30,264 — 141 11,370 ( 3,395 ) 22,148
+Net income 10,833 — — — — 10,833
+Other comprehensive income (loss)
+118 — — — 118 —
+Repurchase of common shares ( 5,311 ) — ( 3 ) ( 273 ) — ( 5,035 )
+Other changes
+( 86 ) — — 29 — ( 115 )
+Cash dividends declared preferred Series D, $ 35,993.05 per share
+( 58 ) — — — — ( 58 )
+Cash dividends declared common, $ 3.28 per share
+( 2,286 ) — — — — ( 2,286 )
+Balances as of December 31, 2025 $ 33,474 $ — $ 138 $ 11,126 $ ( 3,277 ) $ 25,487
+See Notes to Consolidated Financial Statements.
+96
+Table of Contents
+NOTES TO CONSOLID ATED FINANCIAL STATEMENTS
+NOTE 1
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+THE C OMPANY
+We are a global payments and premium lifestyle brand powered by technology. Founded in 1850 and headquartered in New York, American Express' card-issuing, merchant-acquiring and card network businesses offer products and services to a broad range of customers, including consumers, small businesses, mid-sized companies and large corporations around the world. These products and services are offered through various channels, including mobile and online applications, affiliate marketing, customer referral programs, third-party service providers and business partners, in-house sales teams, direct mail, telephone and direct response advertising.
+Refer to Note 23 for additional discussion of the products and services that comprise each segment. Corporate functions and certain other businesses and operations are included in Corporate & Other.
+BUSINESS EVENTS
+On May 1, 2024, we completed the sale of fraud prevention solutions provider Accertify, Inc. (Accertify), a wholly owned subsidiary we acquired in 2010, the operations of which were reported within the Global Merchant and Network Services (GMNS) segment. The transaction resulted in a gain of $ 531 million ($ 479 million after tax), which was reported as a reduction to Other expense in the second quarter of 2024. Prior to the completion of the transaction, the carrying amount of Accertify's net assets were not material to the Company's financial position.
+PRINCIPLES OF CONSOLIDATION
+The Consolidated Financial Statements are prepared in conformity with accounting principles generally accepted in the United States of America (GAAP). All intercompany transactions are eliminated.
+We consolidate entities in which we hold a "controlling financial interest." For voting interest entities, we are considered to hold a controlling financial interest when we are able to exercise control over the investees' operating and financial decisions. For variable interest entities (VIEs), the determination of which is based on the amount and characteristics of the entity's equity, we are considered to hold a controlling financial interest when we are determined to be the primary beneficiary. A primary beneficiary is the party that has both: (1) the power to direct the activities that most significantly impact that VIE's economic performance, and (2) the obligation to absorb the losses of, or the right to receive the benefits from, the VIE that could potentially be significant to that VIE.
+Entities in which our voting interest in common equity does not provide it with control, but allows us to exert significant influence over operating and financial decisions, are accounted for under the equity method. We also have investments in equity securities where our voting interest is below the level of significant influence, including investments that we make in non-public companies in the ordinary course of business. Such investments are initially recorded at cost and adjusted to fair value through earnings for observable price changes in orderly transactions for identical or similar instruments of the same company or if they are determined to be impaired. See Note 4 for the accounting policy for our marketable equity securities.
+FOREIGN CURRENCY
+Transactions conducted in currencies other than the applicable functional currency of an entity are converted to the functional currency at the exchange rate on the transaction date. At the period end, monetary assets and liabilities are remeasured to the functional currency using period end rates. The resulting transaction gains and losses are recorded in Other, net expenses in the Consolidated Statements of Income.
+For subsidiaries where the functional currency is not the U.S. dollar, the monetary assets and liabilities and results of operations are translated for consolidation purposes into U.S. dollars at period-end rates for monetary assets and liabilities and generally at average rates for results of operations. The resulting translation adjustments, along with any related qualifying hedge and tax effects, are included in accumulated other comprehensive income (loss) (AOCI), a component of shareholders' equity. Translation adjustments, including qualifying hedge and tax effects, are reclassified to earnings upon the sale or substantial liquidation of investments in foreign operations.
+AMOUNTS BASED ON ESTIMATES AND ASSUMPTIONS
+Accounting estimates are an integral part of the Consolidated Financial Statements. These estimates are based, in part, on management's assumptions concerning future events. Among the more significant assumptions are those that relate to reserves for Card Member credit losses on loans and receivables, Membership Rewards liability, goodwill and income taxes. These accounting estimates reflect the best judgment of management, but actual results could differ.
+97
+Table of Contents
+INCOME STATEMENT
+Revenue is recognized when obligations under the terms of a contract with our customers are satisfied. We have elected to not disclose revenue that is expected to be recognized in future periods related to contracts with variable consideration (e.g., discount revenue). Non-interest revenue expected to be recognized in future periods related to all other contracts with customers is not material.
+Payments made pursuant to contractual arrangements with our merchants, network partners and other customers are classified as contra-revenue, except where we receive goods, services or other benefits for which the fair value is determinable and measurable, in which case they are recorded as expense.
+Discount Revenue
+Discount revenue primarily represents the amount we earn and retain from the merchant payable for facilitating transactions between Card Members and merchants on payment products issued by American Express. The amount of fees charged for accepting our cards as payment, or merchant discount, varies with, among other factors, the industry in which the merchant conducts business, the merchant's overall American Express-related transaction volume, the method of payment, the settlement terms with the merchant, the method of submission of transactions and, in certain instances, the geographic scope of the card acceptance agreement between the merchant and us (e.g., local or global) and the transaction amount. Discount revenue is generally recorded at the time the Card Member transaction occurs.
+Card acceptance agreements, which include the agreed-upon terms for charging the merchant discount fee, vary in duration. Our contracts with small- and mid-sized merchants generally have no fixed contractual duration, while those with large merchants are generally for fixed periods, which typically range from three to seven years in duration. Our fixed-period agreements may include auto-renewal features, which may allow the existing terms to continue beyond the stated expiration date until a new agreement is reached. We satisfy our obligations under these agreements over the contract term, often on a daily basis, including through the processing of Card Member transactions and the availability of our payment network.
+In cases where the merchant acquirer is a third party, we receive a network rate fee in our settlement with the merchant acquirer, which is negotiated between us and that merchant acquirer and is recorded as discount revenue at the time the Card Member transaction occurs.
+Net Card Fees
+Net card fees represent revenue earned from annual card membership fees, which vary based on the type of card and the number of cards for each account. These fees, net of qualifying acquisition costs and a reserve for projected refunds for Card Member cancellations, are deferred and recognized on a straight-line basis over the twelve-month card membership period as Net card fees in the Consolidated Statements of Income and are therefore more stable in relation to short term business or economic shifts. The unamortized net card fee balance is reported in Other liabilities on the Consolidated Balance Sheets.
+Service Fees and Other Revenue
+Service fees and other revenue includes network partnership revenue, foreign currency-related revenue, loyalty coalition, merchant and other service fees, delinquency fees, travel commissions and fees and other fees and revenues.
+Network partnership revenue primarily represents revenues related to network partnership agreements, comprising royalties, fees and amounts earned for facilitating transactions on cards issued by network partners. In our role as the operator of the American Express network, we settle with merchants and our third-party merchant acquirers on behalf of our network card issuing partners. The amount of fees charged for accepting American Express-branded cards is generally deducted from the payment to the merchant or third-party merchant acquirer and recorded as network partnership revenue at the time the Card Member transaction occurs. Our network card issuing partners receive an issuer rate that is individually negotiated between that issuer and us and is recorded as contra-revenue within network partnership revenue to the extent that there is revenue from the same customer, after which any additional issuer rate is recorded as expense in Business development. Network partnership revenue also includes fees earned on alternative payment solutions facilitated by us.
+Foreign currency-related fees and delinquency fees are primarily recognized in the period when they are applied to a Card Member account. Loyalty coalition, merchant and other service fees and travel commissions and fees are generally recognized in the period when the service is performed. Other fees and revenues includes income (losses) from our investments in which we have significant influence and therefore account for under the equity method.
+Refer to Note 17 for additional information on the components of Service fees and other revenue.
+98
+Table of Contents
+Interest Income
+Interest on Card Member loans is assessed using the average daily balance method. Unless the loan is classified as non-accrual, interest is recognized based upon the principal amount outstanding, in accordance with the terms of the applicable account agreement, until the outstanding balance is paid, or written off.
+Interest and dividends on investment securities primarily relate to our performing fixed-income securities. Interest income is recognized as earned using the effective interest method, which adjusts the yield for security premiums and discounts, fees and other payments, so that a constant rate of return is recognized on the investment security's outstanding balance. Amounts are recognized until securities are in default or when it becomes likely that future interest payments will not be made as scheduled.
+Interest on deposits with banks and other is recognized as earned, and primarily relates to the placement of cash, in excess of near-term funding requirements, in interest-bearing time deposits, overnight sweep accounts, and other interest-bearing demand and call accounts.
+Interest Expense
+Interest expense includes interest incurred primarily to fund Card Member loans and receivables, general corporate purposes and liquidity needs, and is recognized as incurred. Interest expense is divided principally into two categories: (i) deposits, which primarily relates to interest expense on deposits taken from customers and institutions and (ii) debt, which primarily relates to interest expense on our long-term debt and short-term borrowings, as well as the realized impact of derivatives used to hedge interest rate risk on our long-term debt.
+Card Member Rewards
+We issue credit, charge and debit cards that allow Card Members to participate in various rewards programs (e.g., Membership Rewards, cash back and cobrand). Rewards expense is recognized in the period Card Members earn rewards, generally by spending on their enrolled card products. For Membership Rewards and cash back, we record a liability that represents the rewards that are expected to be redeemed, as well as, for Membership Rewards, the estimated cost of points earned. For cobrand, we record a liability based primarily on rewards earned on Card Member spending on cobrand cards, and make associated payments to our cobrand partners. The partner is liable for providing rewards to the Card Member under the cobrand partner's own loyalty program. Card Member rewards liabilities are impacted over time by enrollment levels, attrition, the volume of points earned and redeemed, and the associated redemption costs. Changes in the Card Member rewards liabilities during the period are recorded as an increase or decrease to the Card Member rewards expense in the Consolidated Statements of Income.
+Business Development
+Business development expense includes payments to our cobrand partners, corporate client incentive payments earned on achievement of pre-set targets and certain payments to network partners. These costs are generally expensed as incurred.
+Card Member Services
+Card Member services expense represents costs incurred in providing our Card Members with various value-added benefits and services, which are generally expensed as incurred.
+Marketing
+Marketing expense includes the cost of promotional activities to attract, engage and retain customers. Customer acquisition activities include initiatives such as welcome offers, where bonus points or statement credits are issued for the purpose of incentivizing Card Members to apply for a new product and are awarded either on acquisition or upon the Card Member achieving specified spend volume within a stipulated time period, as well as affiliate marketing, direct mail campaigns and telemarketing. In addition, Marketing also includes agency services (such as marketing research, strategy consulting, creative production and placement), sponsorship programs, promotional events, distribution of branded materials and advertising via digital, television, radio and print media.
+Marketing expenses incurred in the development and initial placement of advertising are expensed in the period in which the advertising first takes place. All other marketing expenses are generally expensed as incurred.
+99
+Table of Contents
+BALANCE SHEET
+Cash and Cash Equivalents
+Cash and cash equivalents include cash and amounts due from banks, interest-bearing bank balances, including securities purchased under resale agreements, restricted cash, and other highly liquid investments with original maturities of 90 days or less. Restricted cash primarily represents amounts related to Card Member credit balances as well as upcoming debt maturities of consolidated VIEs.
+Card Member Loans HFS
+When we decide to sell Card Member loans, they are reclassified on the Consolidated Balance Sheets as Card Member loans held for sale and measured at the lower of amortized cost or fair value (LOCOM). Refer to Note 14 for additional information regarding the valuation methodology for Card Member loans HFS. At the time of HFS reclassification, we first write-off amounts in accordance with our policy and then reverse any remaining reserves for credit losses associated with the HFS loans, the net impact of which is recognized within Provisions for credit losses in the Consolidated Statements of Income. HFS loans will continue to be remeasured at LOCOM until they are sold, with any changes in valuation recognized in Other, net in the Consolidated Statements of Income. We will continue to recognize discount revenue, interest income and other revenues and expenses related to the HFS loans until they are sold.
+Effective June 1, 2025 and December 1, 2024, we reclassified $ 1.6 billion and $ 758 million, respectively, of Card Member loans related to two small business cobrand portfolios to Card Member loans held for sale on the Consolidated Balance Sheets and released $ 144 million and $ 49 million, respectively, of associated reserves for credit losses.
+Goodwill
+Goodwill represents the excess of the acquisition cost of an acquired business over the fair value of assets acquired and liabilities assumed. We allocate goodwill to our reporting units for the purpose of impairment testing. A reporting unit is defined as an operating segment, or a business that is one level below an operating segment, for which discrete financial information is regularly reviewed by the operating segment manager.
+We evaluate goodwill for impairment annually as of November 1, or more frequently if events occur or circumstances change that would more likely than not reduce the fair value of one or more of our reporting units below its carrying value. Prior to completing the annual assessment of goodwill for impairment, we perform a recoverability test of certain long-lived assets.
+We have the option to perform a qualitative assessment of goodwill impairment to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying value. Alternatively, we can perform a more detailed quantitative assessment of goodwill impairment.
+This qualitative assessment entails the evaluation of factors such as economic conditions, industry and market considerations, cost factors, overall financial performance of the reporting unit and other company and reporting unit-specific events. If we determine that it is more likely than not that the fair value of a reporting unit is less than its carrying amount, we then perform the impairment evaluation using the quantitative assessment.
+The quantitative assessment compares the fair value of a reporting unit with its carrying amount, including goodwill. If the carrying amount exceeds the reporting unit's fair value, an impairment loss is recognized for the amount over and above the reporting unit's fair value.
+When measuring the fair value of our reporting units in the quantitative assessment, we use widely accepted valuation techniques, applying a combination of the income approach (discounted cash flows) and market approach (market multiples). When preparing discounted cash flow models under the income approach, we use internal forecasts to estimate future cash flows expected to be generated by the reporting units. To discount these cash flows, we use the expected cost of equity, determined by using a capital asset pricing model. We believe the discount rates appropriately reflect the risks and uncertainties in the financial markets generally and specifically in our internally-developed forecasts. When using market multiples under the market approach, we apply comparable publicly traded companies' multiples (e.g., earnings or revenues) to our reporting units' operating results.
+For the years ended December 31, 2025 and 2024, we performed assessments for each reporting unit in connection with our annual goodwill impairment evaluation and determined that it was more likely than not that the fair values of each of our reporting units exceeded their carrying values and accordingly no impairment was recognized.
+100
+Table of Contents
+Other Intangible Assets
+Intangible assets are amortized on a straight-line basis over their estimated useful lives of 1 to 22 years. We review long-lived assets and asset groups, including intangible assets, for impairment whenever events and circumstances indicate their carrying amounts may not be recoverable. An impairment is recognized if the carrying amount is not recoverable and exceeds the asset or asset group's fair value.
+Premises and Equipment
+Premises and equipment, including leasehold improvements, are carried at cost less accumulated depreciation. Costs incurred during construction are capitalized and are depreciated once an asset is placed in service. Premises and equipment are depreciated on a straight-line basis over their estimated useful lives, which range from 3 to 10 years for equipment, furniture and building improvements, and from 40 to 50 years for premises.
+Certain costs associated with the acquisition or development of internal-use software are also capitalized and recorded in Premises and equipment. Once the specific software feature is ready for its intended use, these costs are amortized on a straight-line basis over the software's estimated useful life, generally 5 years. We review these assets for impairment using the same impairment methodology used for Other intangible assets.
+Leasehold improvements are capitalized and recorded in Premises and equipment and are depreciated using the straight-line method over the shorter of the remaining term of the leased facility, or the estimated useful life of the improvement, and range from 5 to 10 years. We recognize lease restoration obligations at the fair value of the restoration liabilities when incurred and amortize the restoration assets over the lease term.
+Leases
+We have operating leases worldwide for facilities, primarily office locations and airport lounges, and equipment, which, for those leases with terms greater than 12 months, are recorded as lease-related assets and liabilities. We do not separate lease and non-lease components. Lease-related assets, or right-of-use assets, are recognized at the lease commencement date at amounts equal to the respective lease liabilities, adjusted for prepaid lease payments, initial direct costs and lease incentives. Lease liabilities are recognized at the present value of the contractual fixed lease payments, discounted using our incremental borrowing rate as of the lease commencement date or upon modification of the lease. Lease assets and liabilities are recognized based on the lease term, which includes any extension or termination options that we are reasonably certain to exercise. Operating lease expense is recognized on a straight-line basis over the lease term, while variable lease payments are expensed as incurred.
+OTHER SIGNIFICANT ACCOUNTING POLICIES
+The following table identifies our other significant accounting policies, along with the related Note:
+TABLE 1.1: OTHER SIGNIFICANT ACCOUNTING POLICIES
+Significant Accounting Policy Note
+Number Note Title
+Loans and Card Member Receivables Note 2 Loans and Card Member Receivables
+Reserves for Credit Losses Note 3 Reserves for Credit Losses
+Investment Securities Note 4 Investment Securities
+Asset Securitizations Note 5 Asset Securitizations
+Stock-Based Compensation
+Note 10 Stock-Based Compensation
+Legal Contingencies Note 12 Contingencies, Commitments and Guarantees
+Derivative Financial Instruments and Hedging Activities Note 13 Derivatives and Hedging Activities
+Fair Value Measurements Note 14 Fair Values
+Income Taxes Note 19 Income Taxes
+Earnings Per Common Share
+Note 20 Earnings Per Common Share
+CLASSIFICATION OF VARIOUS ITEMS
+Certain reclassifications of prior period amounts have been made to conform to the current period presentation.
+101
+Table of Contents
+RECENTLY ADOPTED AND ISSUED ACCOUNTING STANDARDS
+In December 2023, the Financial Accounting Standards Board issued updated accounting guidance on Disclosures for Income Taxes, effective for annual reporting periods beginning after December 15, 2024, with early adoption permitted. The updated guidance requires additional disclosure and disaggregated information in the Income Tax Rate reconciliation using both percentages and reporting currency amounts, with additional qualitative explanations of individually significant reconciling items. The updated guidance also requires disclosure of the amount of income taxes paid (net of refunds received) disaggregated by jurisdictional categories (federal (national), state and foreign). We adopted the updated guidance prospectively for the annual reporting period beginning January 1, 2025, which did not result in a material impact to our Consolidated Financial Statements. Refer to Note 19 for related disclosures about income taxes.
+In November 2024 and as amended in January 2025, the Financial Accounting Standards Board issued updated accounting guidance on the Disaggregation of Income Statement Expenses for annual reporting periods beginning after December 15, 2026 and for interim reporting periods beginning December 15, 2027, with early adoption permitted. The updated guidance includes the requirement for a new tabular disclosure within a Note to the Consolidated Financial Statements, to disaggregate defined expense categories from the expense report lines presented on the Consolidated Statements of Income. We are currently assessing the updated guidance; however, it is not expected to have a material impact to our Consolidated Financial Statements.
+In September 2025, the Financial Accounting Standards Board issued updated guidance on accounting for internal-use software, effective for annual reporting periods beginning after December 15, 2027, with early adoption permitted. The amendments modernize guidance to consider different methods of software development, updating the requirements for capitalization of software costs. We are currently assessing the updated guidance; however, it is not expected to have a material impact to our Consolidated Financial Statements.
+102
+Table of Contents
+NOTE 2
+LOANS AND CARD MEMBER RECEIVABLES
+Our lending and charge payment card products that we offer to consumer, small business and corporate customers result in the generation of Card Member loans and Card Member receivables. We also extend credit to customers through financing products that are not associated with a Card Member agreement, and instead are governed by a separate borrowing relationship, resulting in Other loans.
+CARD MEMBER AND OTHER LOANS
+Card Member loans are generally recorded at the time a Card Member enters into a point-of-sale transaction with a merchant and represent revolve-eligible balances on our card products, as well as any finance charges and associated card-related fees. Card Members with outstanding revolving loans are required to make a minimum monthly payment, and the balances that Card Members choose to revolve are subject to finance charges. These loans have varying terms such as credit limits, interest rates, fees and payment structures, which can be revised over time based on new information about Card Members and in accordance with applicable regulations and the respective product's terms and conditions.
+Card Member loans are presented on the Consolidated Balance Sheets net of reserves for credit losses (refer to Note 3), and include principal and any related accrued interest and fees. Our policy generally is to cease accruing interest on a Card Member loan at the time the account is written off, and establish reserves for interest that we believe will not be collected.
+Other loans are recorded at the time any extension of credit is provided to consumer and commercial customers for financing products not associated with a Card Member agreement, such as consumer installment loans and lines of credit offered to small business customers. These loans have a range of fixed and variable terms such as interest rates, fees and repayment periods. Borrowers are typically required to make pre-established monthly payments over the term of the loan. Other loans are presented on the Consolidated Balance Sheets net of reserves for credit losses and include principal and any related accrued interest and fees.
+Card Member and Other loans as of December 31, 2025 and 2024 consisted of:
+TABLE 2.1: CARD MEMBER AND OTHER LOANS
+(Millions) 2025 2024
+Consumer (a)
+$ 117,719 $ 107,646
+Small Business 34,074 31,991
+Corporate 39 37
+Card Member loans 151,832 139,674
+Less: Reserves for credit losses 5,909 5,679
+Card Member loans, net $ 145,923 $ 133,995
+Other loans, net (b)
+$ 10,605 $ 9,038
+(a) Includes approximately $ 27.7 billion and $ 28.3 billion of gross Card Member loans available to settle obligations of a consolidated VIE as of December 31, 2025 and 2024, respectively.
+(b) Other loans are presented net of reserves for credit losses of $ 323 million and $ 194 million as of December 31, 2025 and 2024, respectively.
+103
+Table of Contents
+CARD MEMBER RECEIVABLES
+Card Member receivables are recorded at the time a Card Member enters into a point-of-sale transaction with a merchant and represent balances due on our card products and card-related fees that need to be paid in full on or before the Card Member's payment due date.
+Charge Card Members generally must pay the full amount billed each month. Card Member receivable balances are presented on the Consolidated Balance Sheets net of reserves for credit losses (refer to Note 3), and include principal and any related accrued fees.
+Card Member receivables as of December 31, 2025 and 2024 consisted of:
+TABLE 2.2: CARD MEMBER RECEIVABLES
+(Millions) 2025 2024
+Consumer $ 26,605 $ 25,431
+Small Business 19,558 18,619
+Corporate (a)
+15,868 15,361
+Card Member receivables 62,031 59,411
+Less: Reserves for credit losses 180 171
+Card Member receivables, net $ 61,851 $ 59,240
+(a) Includes $ 5.7 billion and $ 3.9 billion of gross Card Member receivables available to settle obligations of a consolidated VIE as of December 31, 2025 and 2024, respectively.
+104
+Table of Contents
+CARD MEMBER LOANS AND RECEIVABLES AGING
+Generally, a Card Member account is considered past due if payment due is not received within 30 days after the billing statement date. The following tables present the aging of Card Member loans and receivables as of December 31, 2025 and 2024:
+TABLE 2.3: CARD MEMBER LOANS AND RECEIVABLES AGING
+2025 ( Millions )
+Current 30-59
+Days
+Past Due 60-89
+Days
+Past Due 90+
+Days
+Past Due Total 90+ Days Past Due and Still Accruing Interest (a)
+Non-Accruals (b)
+Card Member Loans:
+Consumer $ 116,148 $ 473 $ 350 $ 748 $ 117,719 $ 434 $ 471
+Small Business 33,528 173 121 252 34,074 130 177
+Corporate (c)
+(d) (d) (d) — 39 — —
+Card Member Receivables:
+Consumer $ 26,404 $ 56 $ 42 $ 103 $ 26,605 $ — $ —
+Small Business 19,342 82 47 88 19,558 — —
+Corporate (c)
+(d) (d) (d) 75 15,868 — —
+2024 ( Millions )
+Current 30-59
+Days Past Due 60-89
+Days Past Due 90+
+Days Past
+Due Total 90+ Days Past Due and Still Accruing Interest (a)
+Non-Accruals (b)
+Card Member Loans:
+Consumer $ 106,155 $ 437 $ 329 $ 725 $ 107,646 $ 435 $ 464
+Small Business 31,510 151 107 223 31,991 132 135
+Corporate (c)
+(d) (d) (d) — 37 — —
+Card Member Receivables:
+Consumer $ 25,255 $ 58 $ 39 $ 79 $ 25,431 $ — $ —
+Small Business 18,400 77 54 88 18,619 — —
+Corporate (c)
+(d) (d) (d) 65 15,361 — —
+(a) Our policy is generally to accrue interest through the date of write-off (typically 180 days past due). We establish reserves for interest that we believe will not be collected.
+(b) Non-accrual loans primarily include certain loans placed with outside collection agencies for which we have ceased accruing interest.
+(c) For corporate accounts, delinquency data is tracked based on days past billing status rather than days past due. A Card Member account is considered 90 days past billing if payment has not been received within 90 days of the Card Member's billing statement date. In addition, if we initiate collection procedures on an account prior to the account becoming 90 days past billing, the associated Card Member loan or receivable balance is classified as 90 days past billing. These amounts are shown above as 90+ Days Past Due for presentation purposes. See also (d).
+(d) Delinquency data for periods other than 90+ days past billing has not historically been available due to system constraints. Therefore, such data has not been a material input for risk management purposes. The balances that are current to 89 days past billing can be derived as the difference between the Total and the 90+ Days Past Due balances.
+105
+Table of Contents
+OTHER LOANS AGING AND GROSS WRITE-OFFS BY ORIGINATION YEAR
+Generally, a customer loan is considered past due if payment due is not received within 30 days after the payment due date. The following tables present the aging and gross write-offs for other loans by year of origination as of or for the years ended December 31:
+TABLE 2.4: OTHER LOANS AGING AND GROSS WRITE-OFFS BY ORIGINATION YEAR
+2025 ( Millions )
+2025 2024 2023 2022 2021 Prior
+Revolving Loans (a)
+Total
+Current
+$ 5,532 $ 2,172 $ 494 $ 45 $ 6 $ 54 $ 2,564 $ 10,867
+30-59 Days Past Due
+6 7 2 — — 1 8 25
+60-89 Days Past Due
+4 5 2 — — — 8 19
+90+ Days Past Due (b)
+3 5 2 — — 1 6 17
+Total (c)
+$ 5,545 $ 2,188 $ 500 $ 46 $ 6 $ 56 $ 2,587 $ 10,928
+Gross Write-Offs
+$ 15 $ 77 $ 47 $ 13 $ 1 $ — $ 88 $ 242
+2024 ( Millions )
+2024 2023 2022 2021 2020 Prior
+Revolving Loans (a)
+Total
+Current
+$ 4,950 $ 1,578 $ 356 $ 10 $ 14 $ 57 $ 2,209 $ 9,174
+30-59 Days Past Due
+5 5 2 — — — 10 22
+60-89 Days Past Due
+5 4 2 — — — 7 18
+90+ Days Past Due (b)
+4 4 2 — — 1 7 18
+Total (c)
+$ 4,964 $ 1,591 $ 362 $ 10 $ 14 $ 58 $ 2,233 $ 9,232
+Gross Write-Offs
+$ 13 $ 59 $ 42 $ 6 $ — $ — $ 87 $ 207
+(a) Revolving loans consist primarily of lines of credit offered to small business customers.
+(b) Over 90 days past due includes $ 7 million and $ 6 million as of December 31, 2025 and 2024, respectively, of loans on which interest is still accruing. Our policy is generally to accrue interest through the date of write-off (typically 120 days past due) except for lines of credit offered to small business customers, where interest ceases to accrue at 90 days past due. We establish reserves for interest that we believe will not be collected.
+(c) This total includes non-accrual loans of $ 16 million and $ 19 million as of December 31, 2025 and 2024, respectively. Non-accruals for consumer installment loans primarily include certain loans placed with outside collection agencies for which we have ceased accruing interest.
+106
+Table of Contents
+CREDIT QUALITY INDICATORS FOR LOANS AND CARD MEMBER RECEIVABLES
+The following table presents the key credit quality indicators as of or for the years ended December 31, 2025 and 2024:
+TABLE 2.5: CREDIT QUALITY INDICATORS FOR LOANS AND CARD MEMBER RECEIVABLES
+2025 2024
+Net Write-Off Rate Net Write-Off Rate
+Principal
+Only (a)
+Principal,
+Interest &
+Fees (a)
+30+
+Days Past Due
+as a % of
+Total Principal
+Only (a)
+Principal,
+Interest &
+Fees (a)
+30+
+Days Past Due
+as a % of
+Total
+Card Member Loans:
+Consumer 2.1 % 2.6 % 1.3 % 2.2 % 2.7 % 1.4 %
+Small Business 2.5 % 2.9 % 1.6 % 2.3 % 2.6 % 1.5 %
+Card Member Receivables:
+Consumer 1.1 % 1.2 % 0.8 % 1.2 % 1.3 % 0.7 %
+Small Business 1.8 % 1.9 % 1.1 % 1.9 % 2.0 % 1.2 %
+Corporate
+(b) 0.5 % (c) (b) 0.6 % (c)
+Other Loans
+2.0 % 2.0 % 0.6 % 2.2 % 2.3 % 0.6 %
+(a) We present a net write-off rate based on principal losses only (i.e., excluding interest and/or fees) to be consistent with industry convention. In addition, as our practice is to include uncollectible interest and/or fees as part of our total provision for credit losses, a net write-off rate including principal, interest and/or fees is also presented.
+(b) Net write-off rate based on principal losses only is not available due to system constraints.
+(c) For corporate receivables, delinquency data is tracked based on days past billing status rather than days past due. Delinquency data for periods other than 90+ days past billing is not available due to system constraints. 90+ days past billing as a % of total was 0.5 percent and 0.4 percent as of December 31, 2025 and 2024, respectively.
+Refer to Note 3 for additional indicators, including external qualitative factors, management considers in its evaluation process for reserves for credit losses.
+107
+Table of Contents
+LOANS AND RECEIVABLES RESTRUCTURINGS FOR BORROWERS EXPERIENCING FINANCIAL DIFFICULTY
+We evaluate all loans and receivables restructurings according to the accounting guidance for loan refinancing and restructuring to determine whether such loan modification should be accounted for as a new loan or a continuation of the existing loan. Our loans and receivables restructurings for borrowers experiencing financial difficulty are generally accounted for as a continuation of the existing loan, which reflects the ongoing effort to support our customer and recover our investment in the existing loan.
+We offer several types of loans and receivables modification programs to customers experiencing financial difficulty. In such instances, we may modify loans and receivables with the intention to minimize losses and improve collectability, while providing customers with temporary or permanent financial relief.
+Such modifications to the loans and receivables primarily include (i) temporary interest rate reductions (reducing interest rates to as low as zero percent, in which case the loan is characterized as non-accrual) and/or (ii) placing the customer on a fixed payment plan not to exceed 60 months. Upon entering the modification program, the customer's ability to make future purchases is limited, canceled or, in certain cases, suspended until the customer successfully exits from the modification program. As of December 31, 2025, we had $ 75 million of unused credit available to customers with loans and receivables modified during the year ended December 31, 2025. In accordance with the modification agreement with the customer, loans and/or receivables may revert to the original contractual terms (including the contractual interest rate where applicable) when the customer exits the modification program, which is either (i) when all payments have been made in accordance with the modification agreement or (ii) when the customer defaults out of the modification program.
+The following tables provide information relating to loans and receivables modifications for borrowers experiencing financial difficulty during the years ended December 31, 2025 and 2024:
+TABLE 2.6: LOANS AND RECEIVABLES MODIFICATIONS FOR BORROWERS EXPERIENCING FINANCIAL DIFFICULTY
+Year Ended December 31, 2025
+2025 ( Millions )
+Account Balances
+( Millions ) (a)
+% of Total Class of
+Financing Receivables Weighted Average Interest Rate Reduction
+(% points) Weighted Average Payment
+Term Extensions
+(# of months)
+Interest Rate Reduction
+Card Member Loans
+Consumer $ 1,868 1.6 % 18.3 % (b)
+Small Business 738 2.2 % 17.8 % (b)
+Corporate — — — (b)
+Term Extension
+Card Member Receivables
+Consumer 203 0.8 % (c) 32
+Small Business 340 1.7 % (c) 30
+Corporate 16 0.1 % (c) 10
+Other Loans 30 0.3 % — 17
+Interest Rate Reduction
+and Term Extension
+Other Loans 59 0.5 % 3.4 % 21
+Total $ 3,255
+108
+Table of Contents
+Year Ended December 31, 2024
+2024 ( Millions )
+Account Balances
+( Millions ) (a)
+% of Total Class of
+Financing Receivables Weighted Average Interest Rate Reduction
+(% points) Weighted Average Payment
+Term Extensions
+(# of months)
+Interest Rate Reduction
+Card Member Loans
+Consumer $ 1,770 1.6 % 18.3 % (b)
+Small Business 646 2.0 % 17.5 % (b)
+Corporate — — — (b)
+Term Extension
+Card Member Receivables
+Consumer 256 1.0 % (c) 30
+Small Business 401 2.2 % (c) 30
+Corporate 13 0.1 % (c) 9
+Other Loans 30 0.3 % — 18
+Interest Rate Reduction
+and Term Extension
+Other Loans 56 0.6 % 2.6 % 20
+Total $ 3,172
+(a) Represents the outstanding balances as of December 31, 2025 and 2024, respectively, of all modifications undertaken in the current and preceding year for loans and receivables that remain in modification programs as of, or that defaulted on or before, December 31, 2025 and 2024, respectively. The outstanding balances include principal, fees and accrued interest on loans and principal and fees on receivables. Modifications did not reduce the principal balance.
+(b) For Card Member loans, we generally do not offer payment term extensions.
+(c) We do not offer interest rate reduction programs for Card Member receivables as the receivables are non-interest bearing.
+109
+Table of Contents
+The following tables provide information with respect to modified loans and receivables that defaulted in the periods presented and were modified in the twelve months prior to the payment default. A customer can miss up to three payments before being considered in default, depending on the terms of the modification program.
+TABLE 2.7: MODIFIED LOANS AND RECEIVABLES THAT DEFAULTED WITHIN TWELVE MONTHS OF MODIFICATION
+Year Ended December 31, 2025
+Account Balance ( Millions ) (a)
+Interest Rate Reduction
+Term Extension Interest Rate Reduction and Term Extension Total
+Card Member Loans
+Consumer $ 74 (b) $ — $ 74
+Small Business 37 (b) — 37
+Corporate — (b) — —
+Card Member Receivables
+Consumer (c) $ 6 — 6
+Small Business (c) 13 — 13
+Corporate (c) 1 — 1
+Other Loans — — 2 2
+Total $ 112 $ 20 $ 2 $ 133
+Year Ended December 31, 2024
+Account Balance ( Millions ) (a)
+Interest Rate Reduction
+Term Extension Interest Rate Reduction and Term Extension Total
+Card Member Loans
+Consumer $ 88 (b) $ — $ 88
+Small Business 40 (b) — 40
+Corporate — (b) — —
+Card Member Receivables
+Consumer (c) $ 10 — 10
+Small Business (c) 17 — 17
+Corporate (c) — — —
+Other Loans — — 2 2
+Total $ 128 $ 27 $ 2 $ 157
+(a) Represents the outstanding balances as of December 31, 2025 and 2024, respectively, of all modifications that defaulted in the periods presented and were modified in the twelve months prior to payment default. The outstanding balances include principal, fees and accrued interest on loans and principal and fees on receivables.
+(b) For Card Member loans, we generally do not offer payment term extensions.
+(c) We do not offer interest rate reduction programs for Card Member receivables as the receivables are non-interest bearing.
+110
+Table of Contents
+The following tables provide information relating to the performance of loans and receivables that were modified during the years ended December 31, 2025 and 2024 and that remain in modification programs as of, or that defaulted on or before, December 31, 2025 and 2024, respectively:
+TABLE 2.8: PERFORMANCE OF MODIFIED LOANS AND RECEIVABLES
+As of December 31, 2025
+Account Balances ( Millions ) (a)
+Current
+30-89 Days Past Due
+90+ Days Past Due
+Card Member Loans
+Consumer $ 1,709 $ 116 $ 43
+Small Business 656 60 22
+Corporate — — —
+Card Member Receivables:
+Consumer 186 12 5
+Small Business 303 27 9
+Corporate 11 3 2
+Other Loans 83 5 2
+Total $ 2,950 $ 223 $ 82
+As of December 31, 2024
+Account Balances ( Millions ) (a)
+Current
+30-89 Days Past Due
+90+ Days Past Due
+Card Member Loans
+Consumer $ 1,615 $ 110 $ 45
+Small Business 568 56 22
+Corporate — — —
+Card Member Receivables:
+Consumer 234 16 6
+Small Business 357 31 13
+Corporate 10 2 1
+Other Loans 79 5 2
+Total $ 2,863 $ 220 $ 89
+(a) The outstanding balances include principal, fees and accrued interest on loans and principal and fees on receivables.
+111
+Table of Contents
+NOTE 3
+RESERVES FOR CREDIT LOSSES
+Reserves for credit losses represent our best estimate of the expected credit losses in our outstanding portfolio of Card Member loans and receivables as of the balance sheet date. The Current Expected Credit Loss (CECL) methodology requires us to estimate lifetime expected credit losses by incorporating historical loss experience, as well as current and future economic conditions over a reasonable and supportable period (R&S Period), which is approximately three years , beyond the balance sheet date. We make various judgments combined with historical loss experience to determine a reserve rate that is applied to the outstanding loan or receivable balance to produce a reserve for expected credit losses .
+We use a combination of statistically-based models that incorporate current and future economic conditions throughout the R&S Period. The process of estimating expected credit losses is based on several key models: Probability of Default (PD), Exposure at Default (EAD) and future recoveries for each month of the R&S Period. Beyond the R&S Period, we estimate expected credit losses by immediately reverting to long-term average loss rates.
+PD models are used to estimate the likelihood an account will be written-off.
+EAD models are used to estimate the balance of an account at the time of write-off. This includes balances less expected repayments based on historical payment and revolve behavior, which vary by customer. Due to the nature of revolving loan portfolios, the EAD models are complex and involve assumptions regarding the relationship between future spend and payment behaviors.
+Recovery models are used to estimate amounts that are expected to be received from Card Members after default occurs, typically as a result of collection efforts. Future recoveries are estimated taking into consideration the time of default, time elapsed since default and macroeconomic conditions.
+We also estimate the likelihood and magnitude of recovery of previously written off accounts considering how long ago the account was written off and future economic conditions, even if such expected recoveries exceed expected losses. Our models are developed using historical loss experience covering the economic cycle and consider the impact of account characteristics on expected losses. This history includes the performance of loans and receivables modifications for borrowers experiencing financial difficulty, including their subsequent defaults.
+Future economic conditions that are incorporated over the R&S Period include multiple macroeconomic scenarios provided to us by an independent third party. Management reviews these economic scenarios each period and assigns probability weights to each scenario, generally with a consistent initial distribution. At times, due to macroeconomic uncertainty and volatility, management may apply judgment and assign different probability weights to scenarios. These macroeconomic scenarios contain certain variables, including unemployment rates and real gross domestic product (GDP), that are significant to our models.
+We also evaluate whether to include qualitative reserves to cover losses that are expected but, in our assessment, may not be adequately represented in the quantitative methods or the economic assumptions. We consider whether to adjust the quantitative reserves (higher or lower) to address possible limitations within the models or factors not included within the models, such as external conditions, emerging portfolio trends, the nature and size of the portfolio, portfolio concentrations, the volume and severity of past due accounts, or management risk actions.
+Lifetime losses for most of our loans and receivables are evaluated at an appropriate level of granularity, including assessment on a pooled basis where financial assets share similar risk characteristics, such as past spend and remittance behaviors, credit bureau scores where available, delinquency status, tenure of balance outstanding, amongst others. Credit losses on accrued interest are measured and presented as part of Reserves for credit losses on the Consolidated Balance Sheets and within the Provisions for credit losses in the Consolidated Statements of Income, rather than reversing interest income.
+For Other loans, we use vintage-based historical performance to estimate expected credit losses over the life of the loan, net of recovery estimates. We also assess the need to establish a reserve for expected credit losses as it relat

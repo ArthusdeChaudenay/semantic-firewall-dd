@@ -11,6 +11,7 @@ Usage :
 """
 
 import json
+import os
 import time
 import argparse
 from pathlib import Path
@@ -19,7 +20,7 @@ import urllib.error
 
 # ── Constantes EDGAR ──────────────────────────────────────────────────────────
 
-UA         = "AuditWen-Research valentin.noel@devoteam.com"
+UA         = os.environ.get("SEC_USER_AGENT", "Research corpus builder (set SEC_USER_AGENT)")
 RATE_SLEEP = 0.2   # ~5 req/s, sous le seuil EDGAR de 10 req/s
 
 OUTPUT_DIR = Path("samples/real_world/sec_10k")

@@ -1,0 +1,482 @@
+es. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/s/ Ernst & Young LLP
+San Jose, California
+January 28, 2026
+87
+Table of Contents
+META PLATFORMS, INC.
+CONSOLIDATED BALANCE SHEETS
+(In millions, except number of shares and par value)
+December 31,
+2025 2024
+Assets
+Current assets:
+Cash and cash equivalents $ 35,873 $ 43,889
+Marketable securities 45,719 33,926
+Accounts receivable, net 19,769 16,994
+Prepaid expenses and other current assets 7,361 5,236
+Total current assets 108,722 100,045
+Non-marketable equity investments 27,524 6,070
+Property and equipment, net 176,400 121,346
+Operating lease right-of-use assets 20,404 14,922
+Goodwill 24,534 20,654
+Other assets 8,437 13,017
+Total assets $ 366,021 $ 276,054
+Liabilities and stockholders' equity
+Current liabilities:
+Accounts payable $ 8,894 $ 7,687
+Operating lease liabilities, current 2,213 1,942
+Accrued expenses and other current liabilities 30,729 23,967
+Total current liabilities 41,836 33,596
+Operating lease liabilities, non-current 22,940 18,292
+Long-term debt 58,744 28,826
+Long-term income taxes 21,005 9,987
+Other liabilities 4,253 2,716
+Total liabilities 148,778 93,417
+Commitments and contingencies
+Stockholders' equity:
+Common stock, $ 0.000006 par value; 5,000 million Class A shares authorized, 2,187 million and 2,190 million shares issued and outstanding, as of December 31, 2025 and 2024, respectively; 4,141 million Class B shares authorized, 343 million and 344 million shares issued and outstanding, as of December 31, 2025 and 2024, respectively
+— —
+Additional paid-in capital 95,793 83,228
+Accumulated other comprehensive income (loss) 271 ( 3,097 )
+Retained earnings 121,179 102,506
+Total stockholders' equity 217,243 182,637
+Total liabilities and stockholders' equity $ 366,021 $ 276,054
+See Accompanying Notes to Consolidated Financial Statements.
+88
+Table of Contents
+META PLATFORMS, INC.
+CONSOLIDATED STATEMENTS OF INCOME
+(In millions, except per share amounts)
+Year Ended December 31,
+2025 2024 2023
+Revenue $ 200,966 $ 164,501 $ 134,902
+Costs and expenses:
+Cost of revenue 36,175 30,161 25,959
+Research and development 57,372 43,873 38,483
+Marketing and sales 11,991 11,347 12,301
+General and administrative 12,152 9,740 11,408
+Total costs and expenses 117,690 95,121 88,151
+Income from operations 83,276 69,380 46,751
+Interest and other income, net 2,656 1,283 677
+Income before provision for income taxes 85,932 70,663 47,428
+Provision for income taxes 25,474 8,303 8,330
+Net income $ 60,458 $ 62,360 $ 39,098
+Earnings per share:
+Basic $ 23.98 $ 24.61 $ 15.19
+Diluted $ 23.49 $ 23.86 $ 14.87
+Weighted-average shares used to compute earnings per share:
+Basic 2,521 2,534 2,574
+Diluted 2,574 2,614 2,629
+See Accompanying Notes to Consolidated Financial Statements.
+89
+Table of Contents
+META PLATFORMS, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(In millions)
+Year Ended December 31,
+2025 2024 2023
+Net income $ 60,458 $ 62,360 $ 39,098
+Other comprehensive income (loss):
+Change in foreign currency translation adjustment, net of tax 2,693 ( 1,413 ) 618
+Change in unrealized gain (loss) on available-for-sale investments and other, net of tax 675 471 757
+Comprehensive income $ 63,826 $ 61,418 $ 40,473
+See Accompanying Notes to Consolidated Financial Statements.
+90
+Table of Contents
+META PLATFORMS, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+(In millions, except per share amounts)
+Class A and Class B Common Stock Additional Paid-In Capital Accumulated Other Comprehensive Income (Loss) Retained Earnings Total Stockholders' Equity
+Shares Par Value
+Balances at December 31, 2022 2,614 $ — $ 64,444 $ ( 3,530 ) $ 64,799 $ 125,713
+Net income — — — — 39,098 39,098
+Other comprehensive income — — — 1,375 — 1,375
+Issuance of common stock 65 — — — — —
+Shares withheld related to net share settlement ( 26 ) — ( 5,218 ) — ( 1,794 ) ( 7,012 )
+Share-based compensation — — 14,027 — — 14,027
+Share repurchases ( 92 ) — — — ( 20,033 ) ( 20,033 )
+Balances at December 31, 2023 2,561 — 73,253 ( 2,155 ) 82,070 153,168
+Net income — — — — 62,360 62,360
+Other comprehensive loss — — — ( 942 ) — ( 942 )
+Issuance of common stock 65 — — — — —
+Shares withheld related to net share settlement ( 27 ) — ( 6,721 ) — ( 7,049 ) ( 13,770 )
+Share-based compensation — — 16,690 — — 16,690
+Share repurchases ( 65 ) — — — ( 29,754 ) ( 29,754 )
+Dividends and dividend equivalents declared (1)
+— — — — ( 5,121 ) ( 5,121 )
+Other — — 6 — — 6
+Balances at December 31, 2024 2,534 — 83,228 ( 3,097 ) 102,506 182,637
+Net income — — — — 60,458 60,458
+Other comprehensive income — — — 3,368 — 3,368
+Issuance of common stock 63 — 450 — — 450
+Shares withheld related to net share settlement ( 27 ) — ( 8,312 ) — ( 10,088 ) ( 18,400 )
+Share-based compensation — — 20,427 — — 20,427
+Share repurchases ( 40 ) — — — ( 26,264 ) ( 26,264 )
+Dividends and dividend equivalents declared (1)
+— — — — ( 5,421 ) ( 5,421 )
+Other — — — — ( 12 ) ( 12 )
+Balances at December 31, 2025 2,530 $ — $ 95,793 $ 271 $ 121,179 $ 217,243
+_______________________
+(1) Dividend per share was $ 2.10 and $ 2.00 for the years ended December 31, 2025 and 2024, respectively.
+See Accompanying Notes to Consolidated Financial Statements.
+91
+Table of Contents
+META PLATFORMS, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions)
+Year Ended December 31,
+2025 2024 2023
+Cash flows from operating activities
+Net income $ 60,458 $ 62,360 $ 39,098
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization 18,616 15,498 11,178
+Share-based compensation 20,427 16,690 14,027
+Deferred income taxes 18,738 ( 4,738 ) 131
+Unrealized (gain) loss on equity investments ( 1,138 ) ( 53 ) 102
+Impairment charges for facilities consolidation — 383 2,432
+Other ( 416 ) 140 309
+Changes in assets and liabilities:
+Accounts receivable ( 1,815 ) ( 1,485 ) ( 2,399 )
+Prepaid expenses and other current assets ( 89 ) ( 698 ) 559
+Other assets ( 481 ) ( 270 ) ( 80 )
+Accounts payable ( 14 ) 373 51
+Accrued expenses and other current liabilities 1,077 323 5,081
+Other liabilities 437 2,805 624
+Net cash provided by operating activities 115,800 91,328 71,113
+Cash flows from investing activities
+Purchases of property and equipment ( 69,691 ) ( 37,256 ) ( 27,045 )
+Purchases of marketable securities ( 36,929 ) ( 25,542 ) ( 2,982 )
+Sales and maturities of marketable securities 26,874 15,789 6,184
+Payments for held-for-sale assets ( 2,432 ) — —
+Proceeds from Venture distribution 2,554 — —
+Purchases of non-marketable equity investments ( 18,330 ) ( 11 ) ( 1 )
+Acquisitions of businesses and intangible assets ( 4,231 ) ( 270 ) ( 629 )
+Other investing activities 182 140 ( 22 )
+Net cash used in investing activities ( 102,003 ) ( 47,150 ) ( 24,495 )
+Cash flows from financing activities
+Taxes paid related to net share settlement of equity awards ( 18,400 ) ( 13,770 ) ( 7,012 )
+Repurchases of Class A common stock ( 26,248 ) ( 30,125 ) ( 19,774 )
+Payments for dividends and dividend equivalents ( 5,324 ) ( 5,072 ) —
+Proceeds from issuance of long-term debt, net 29,906 10,432 8,455
+Principal payments on finance leases ( 2,524 ) ( 1,969 ) ( 1,058 )
+Other financing activities 2,220 ( 277 ) ( 111 )
+Net cash used in financing activities ( 20,370 ) ( 40,781 ) ( 19,500 )
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash equivalents 235 ( 786 ) 113
+Net increase (decrease) in cash, cash equivalents, and restricted cash equivalents ( 6,338 ) 2,611 27,231
+Cash, cash equivalents, and restricted cash equivalents at beginning of the period 45,438 42,827 15,596
+Cash, cash equivalents, and restricted cash equivalents at end of the period $ 39,100 $ 45,438 $ 42,827
+Reconciliation of cash, cash equivalents, and restricted cash equivalents to the consolidated balance sheets
+Cash and cash equivalents $ 35,873 $ 43,889 $ 41,862
+Restricted cash equivalents, included in prepaid expenses and other current assets 837 353 99
+Restricted cash equivalents, included in other assets 2,390 1,196 866
+Total cash, cash equivalents, and restricted cash equivalents $ 39,100 $ 45,438 $ 42,827
+See Accompanying Notes to Consolidated Financial Statements.
+92
+Table of Contents
+META PLATFORMS, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions)
+Year Ended December 31,
+2025 2024 2023
+Supplemental cash flow data
+Cash paid for income taxes, net $ 7,578 $ 10,554 $ 6,607
+Cash paid for interest, net of amounts capitalized $ 696 $ 486 $ 448
+Non-cash investing and financing activities:
+Property and equipment in accounts payable and accrued expenses and other current liabilities $ 9,331 $ 7,127 $ 4,105
+Acquisition of businesses and intangible assets in accounts payable, accrued expenses and other current liabilities, and other liabilities $ 2,659 $ 172 $ 119
+See Accompanying Notes to Consolidated Financial Statements.
+93
+Table of Contents
+META PLATFORMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Note 1. Summary of Significant Accounting Policies
+Organization and Description of Business
+We were incorporated in Delaware in July 2004. Our mission is to build the future of human connection and the technology that makes it possible.
+We report our financial results based on two reportable segments: Family of Apps (FoA) and Reality Labs (RL). The segment information aligns with how the chief operating decision maker (CODM), who is our chief executive officer (CEO), reviews and manages the business. We generate substantially all of our revenue from advertising.
+Basis of Presentation
+We prepared the consolidated financial statements in accordance with U.S. generally accepted accounting principles (GAAP). The consolidated financial statements include the accounts of Meta Platforms, Inc. and its subsidiaries where we have controlling financial interests. All intercompany balances and transactions have been eliminated.
+Use of Estimates
+Preparation of consolidated financial statements in conformity with GAAP requires the use of estimates and judgments that affect the reported amounts in the consolidated financial statements and accompanying notes. These estimates form the basis for judgments we make about the carrying values of our assets and liabilities, which are not readily apparent from other sources. We base our estimates and judgments on historical information and on various other assumptions that we believe are reasonable under the circumstances. GAAP requires us to make estimates and judgments in several areas, including, but not limited to, those related to loss contingencies, income taxes, valuation of non-marketable equity investments, valuation of long-lived assets and their associated estimated useful lives, revenue recognition, valuation of goodwill, credit losses of available-for-sale debt securities, accounts receivable, and fair value of financial instruments and leases. These estimates are based on management's knowledge about current events, interpretation of regulations, and expectations about actions we may undertake in the future. Actual results could differ materially from those estimates.
+In January 2025, we completed an assessment of the useful lives of property and equipment, which resulted in an increase in the estimated useful lives of most servers and network assets to 5.5 years, effective January 1, 2025. Based on the servers and network assets placed in service as of December 31, 2024, the financial impact of this change in estimate included a reduction in depreciation expense of $ 2.92 billion and an increase in net income of $ 2.59 billion, or $ 1.00 per diluted share, for the year ended December 31, 2025.
+Revenue Recognition
+We recognize revenue under Accounting Standards Codification (ASC) 606 Revenue from Contracts with Customers . Revenue is recognized when control of the promised goods or services is transferred to our customers, in an amount that reflects the consideration we expect to be entitled to in exchange for those goods or services.
+Sales commissions we pay in connection with contracts are expensed when incurred because the amortization period is one year or less. These costs are recorded within marketing and sales on our consolidated statements of income. We do not disclose the value of unsatisfied performance obligations for contracts with an original expected length of one year or less.
+Revenue includes sales and usage based taxes, except for cases where we are acting as a pass through agent.
+Advertising Revenue
+Advertising revenue is generated by displaying ad products on Facebook, Instagram, Messenger, and third-party mobile applications. Marketers pay for ad products either directly or through their relationships with advertising agencies or resellers, based on the number of impressions delivered or the number of actions, such as clicks, taken by our users.
+94
+Table of Contents
+We recognize revenue from the display of impression-based ads in the contracted period in which the impressions are delivered. Impressions are considered delivered when an ad is displayed to users. We recognize revenue from the delivery of action-based ads in the period in which a user takes the action the marketer contracted for. In general, we report advertising revenue on a gross basis, since we control the advertising inventory before it is transferred to our customers. Our control is evidenced by our sole ability to monetize the advertising inventory before it is transferred to our customers.
+For revenue generated from arrangements that involve third parties, we evaluate whether we are the principal, and report revenue on a gross basis, or the agent, and report revenue on a net basis. In this assessment, we consider if we obtain control of the specified goods or services before they are transferred to the customer, as well as other indicators such as the party primarily responsible for fulfillment, inventory risk, and discretion in establishing price.
+We may accept lower consideration than the amount promised per the contract for certain revenue transactions and certain customers may receive cash-based incentives, credits, or refunds, which are accounted for as variable consideration when estimating the amount of revenue to recognize. We estimate these amounts and reduce revenue based on the amounts expected to be provided to customers. We believe that there will not be significant changes to our estimates of variable consideration for the reported periods.
+Reality Labs Revenue
+RL revenue is generated from the delivery of consumer hardware products, such as Meta Quest and AI glasses, and related software and content. Revenue is recognized at the time control of the products is transferred to customers, which is generally at the time of delivery, in an amount that reflects the consideration RL expects to be entitled to in exchange for the products.
+Other Revenue
+FoA other revenue consists of revenue from paid messaging from WhatsApp, Meta Verified subscriptions, net fees we receive from developers using our Payments infrastructure, and revenue from various other sources.
+Cost of Revenue
+Our cost of revenue consists of expenses associated with the delivery and distribution of our products. These mainly include expenses related to the operation of our data centers and technical infrastructure, such as depreciation expense from servers, network infrastructure and buildings, employee compensation which includes payroll, share-based compensation and benefits for employees on our operations teams, and energy and bandwidth costs. Cost of revenue also consists of costs associated with partner arrangements, including traffic acquisition costs and credit card and other fees related to processing customer transactions; RL inventory costs, which consist of cost of products sold and estimated losses on non-cancelable contractual commitments; and content costs.
+Content Costs
+Our content costs are mostly related to payments to content providers from whom we license video and music to increase engagement on the platform. We pay fees to these content providers based on revenue generated, a flat fee, or both. For licensed video, we expense the cost per title when the title is accepted and available for viewing if the capitalization criteria are not met. Video content costs that meet the criteria for capitalization were not material to date.
+For licensed music, we expense the license fees over the contractual license period. We pay fees to music partners based on revenue generated, minimum guaranteed fees, flat fees, or a combination thereof. Expensed content costs are included in cost of revenue on our consolidated statements of income.
+Software Development Costs
+Software development costs, including costs to develop software products or the software component of products to be marketed or sold to external users, are expensed before the software or technology reach technological feasibility, which is typically reached shortly before the release of such products. Software development costs also include costs to develop software to be used solely to meet internal needs and applications used to deliver our services. These software development
+95
+Table of Contents
+costs meet the criteria for capitalization once the preliminary project stage is complete, and it is probable that the project will be completed and the software will be used to perform the function intended. Software development costs that meet the criteria for capitalization were not material to date.
+Share-based Compensation
+Share-based compensation expense consists of our restricted stock units (RSUs) expense. RSUs granted to employees are measured based on the grant-date fair value. In general, our RSUs vest over a service period of four years . Share-based compensation expense is generally recognized on the straight-line basis over the requisite service period and forfeitures are accounted for as they occur.
+Income Taxes
+We are subject to income taxes in the United States and numerous foreign jurisdictions. Significant judgment is required in determining our provision for income taxes and income tax assets and liabilities, including evaluating uncertainties in the application of accounting principles and complex tax laws.
+We record a provision for income taxes for the anticipated tax consequences of the reported results of operations using the asset and liability method. Under this method, we recognize deferred income tax assets and liabilities for the expected future consequences of temporary differences between the financial reporting and tax bases of assets and liabilities, as well as for loss and tax credit carryforwards. Deferred tax assets and liabilities are measured using the tax rates that are expected to apply to taxable income for the years in which those tax assets and liabilities are expected to be realized or settled. We recognize the deferred income tax effects of a change in tax rates in the period of the enactment.
+We record a valuation allowance to reduce our deferred tax assets to the net amount that we believe is more likely than not to be realized. We consider all available evidence, both positive and negative, including historical levels of income, expectations and risks associated with estimates of future taxable income and ongoing tax planning strategies in assessing the need for a valuation allowance. In determining the valuation allowance, our accounting policy incorporates the expected impact of future years' Corporate Alternative Minimum Tax in assessing the realizability of our deferred tax assets.
+We recognize tax benefits from uncertain tax positions only if we believe that it is more likely than not that the tax position will be sustained on examination by the taxing authorities based on the technical merits of the position. We recognize interest and penalties related to uncertain tax positions as a component of the provision for income taxes.
+Advertising Expense
+Advertising costs are expensed when incurred and are included in marketing and sales expenses on our consolidated statements of income. We incurred advertising expenses of $ 2.09 billion, $ 2.06 billion, and $ 2.02 billion for the years ended December 31, 2025, 2024, and 2023, respectively.
+Cash and Cash Equivalents, Restricted Cash, and Restricted Cash Equivalents
+Cash and cash equivalents consist of cash on deposit with financial institutions globally and highly liquid investments with maturities of 90 days or less from the date of purchase. We classify amounts in transit from customer credit cards and payment service providers as cash on our consolidated balance sheets.
+We classify certain restricted cash and cash equivalent balances, consisting mainly of cash related to insurance policies, cash reserves designated for a specific purpose, as well as retention and indemnification holdback for our acquisitions, within prepaid expenses and other current assets and other assets on our consolidated balance sheets, based upon the expected duration of the restrictions.
+Marketable Securities
+We hold investments in marketable debt securities, consisting of U.S. government securities, U.S. government agency securities, and investment grade corporate debt securities. Our marketable debt securities are classified as available-for-sale (AFS) investments in marketable securities within current assets on our consolidated balance sheets because they represent investments of cash available for current operations. The AFS investments are carried at estimated fair value with any
+96
+Table of Contents
+unrealized gains and losses, net of taxes, included in accumulated other comprehensive income (loss) in stockholders' equity. AFS debt securities with an amortized cost basis in excess of estimated fair value are assessed to determine what amount of that difference, if any, is caused by expected credit losses. Allowance for credit losses on AFS debt securities are recognized as a charge in interest and other income (expense), net on our consolidated statements of income, and any remaining unrealized losses, net of taxes, are included in accumulated other comprehensive income (loss) in stockholders' equity. We determine realized gains or losses on sale of marketable securities on a specific identification method and include such gains or losses in interest and other income (expense), net on our consolidated statements of income.
+We also hold investments in marketable equity securities that are publicly traded stocks. We classify these equity securities as marketable securities within current assets on our consolidated balance sheets because they are available to be converted into cash to fund current operations without any restriction. These marketable equity securities are measured at fair value at each reporting date with gains and losses recognized in interest and other income (expense), net on our consolidated statements of income.
+Non-marketable Equity Investments
+Our non-marketable equity investments include equity investments without readily determinable fair values accounted for using either the measurement alternative or the equity method. Non-marketable equity investments accounted for using the measurement alternative, which is cost, less any impairment, are adjusted for changes in fair value resulting from observable transactions for identical or similar investments of the same issuer as of the respective transaction dates. Other non-marketable equity investments, through which we exercise significant influence but do not have control over the investee, are accounted for under the equity method.
+We periodically review our non-marketable equity investments for impairment. When indicators of impairment exist and the estimated fair value of an investment is below its carrying amount, we write down the investment to its fair value in interest and other income (expense), net on our consolidated statements of income. An impairment loss is recognized when the impairment is considered other-than-temporary for equity method investments. For the years ended December 31, 2025 and 2024, impairment for non-marketable equity investments were not material. For additional information, see Note 5 — Non-Marketable Equity Investments and Part II, Item 7, "Management's Discussion and Analysis of Financial Conditions and Results of Operations — Critical Accounting Estimates" contained in this Annual Report on Form 10-K.
+Fair Value Measurements
+We apply fair value accounting for all financial assets and liabilities and non-financial assets and liabilities that are recognized or disclosed at fair value in the financial statements on a recurring basis. We define fair value as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and liabilities, we consider the principal or most advantageous market in which we would transact and the market-based risk measurements or assumptions that market participants would use in pricing the asset or liability, such as risks inherent in valuation techniques, transfer restrictions and credit risk. Fair value is estimated by applying the following three-level hierarchy, which prioritizes the inputs used to measure fair value based on the lowest level of input that is available and significant to the fair value measurement:
+Level 1 - Quoted prices in active markets for identical assets or liabilities.
+Level 2 - Observable inputs other than quoted prices in active markets for identical assets and liabilities, quoted prices for identical or similar assets or liabilities in inactive markets, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.
+Level 3 - Inputs that are generally unobservable and typically reflect management's estimate of assumptions that market participants would use in pricing the asset or liability.
+Our cash equivalents, marketable securities, and restricted cash equivalents are classified within Level 1 or Level 2 of the fair value hierarchy because their fair values are derived from quoted market prices or alternative pricing sources and models utilizing observable market inputs. Certain other assets are classified within Level 3 because factors used to develop the estimated fair value are unobservable inputs that are not supported by market activity.
+97
+Table of Contents
+Our non-marketable equity investments accounted for using the measurement alternative are recorded at fair value on a non-recurring basis. When an impairment loss or upward adjustment from observable price changes of qualified transactions occur, the respective non-marketable equity investment would be classified within Level 3 of the fair value hierarchy because the valuation methods include a combination of the observable transaction price at the transaction date and other unobservable inputs including volatility, rights, and obligations of the securities we hold. For the years ended December 31, 2025 and 2024, changes in the fair value recorded for our non-marketable equity securities were not material. For additional information, see Note 5 — Non-Marketable Equity Investments.
+Variable Interest Entities
+At the inception of each arrangement, we determine whether an entity in which we have made an investment or in which we have other variable interests is considered a variable interest entity (VIE). Significant judgment is required to identify the activities that most significantly affect the VIE's economic performance, based on its purpose and design. We assess whether we have both the power to direct those activities and the obligation to absorb the majority of the VIE's losses or benefits. We evaluate whether we are the primary beneficiary of the VIE, in which case we would consolidate the entity.
+As of December 31, 2025, we are not the primary beneficiary of the VIEs related to our investments, and therefore the VIEs are not consolidated. These investments are accounted for as equity method investments included within non-marketable equity investments on our consolidated balance sheet. We continually monitor our involvement with the VIEs and will consolidate them if we become the primary beneficiary in the future. For additional information, see Note 5 — Non-Marketable Equity Investments.
+Accounts Receivable and Allowances
+Accounts receivable are recorded and carried at the original invoiced amount less an allowance for any potential uncollectible amounts. We make estimates of expected credit and collectibility trends for the allowance for credit losses and allowance for unbilled receivables based upon our assessment of various factors, including historical experience, the age of the accounts receivable balances, credit quality of our customers, current economic conditions, reasonable and supportable forecasts of future economic conditions, and other factors that may affect our ability to collect from customers. Expected credit losses are recorded as general and administrative expenses on our consolidated statements of income. As of December 31, 2025 and 2024, the allowance for credit losses on accounts receivable were not material.
+Property and Equipment
+Property and equipment, including finance leases, are depreciated and stated at cost less accumulated depreciation. Depreciation is computed using the straight-line method over the estimated useful lives of the assets or the remaining lease term, whichever is shorter.
+The estimated useful lives of property and equipment and amortization periods of finance lease right-of-use (ROU) assets as of December 31, 2025 are described below:
+Property and Equipment
+Useful Life/ Amortization period
+Servers and network assets Five to 5.5 years
+Buildings 25 to 30 years
+Equipment and other One to 25 years
+Finance lease right-of-use assets Five to 20 years
+Leasehold improvements Lesser of estimated useful life or remaining lease term
+We evaluate at least annually the recoverability of property and equipment for possible impairment whenever events or circumstances indicate that the carrying amount of such assets may not be recoverable. If such review indicates that the carrying amount of property and equipment assets is not recoverable, and the asset's fair value is less than the carrying amount, an impairment loss is recognized in income from operations.
+The useful lives of our property and equipment are management's estimates when the assets are initially recognized and are routinely reviewed for the remaining estimated useful lives. Our estimate of useful lives represents the best estimate
+98
+Table of Contents
+of the useful lives based on current facts and circumstances, but may differ from the actual useful lives due to changes to our business operations, changes in the planned use of assets, and technological advancements. When we change the estimated useful life assumption for any asset, the remaining carrying amount of the asset is accounted for prospectively and depreciated or amortized over the revised estimated useful life.
+Servers and network assets include equipment mostly in our data centers, which are used to support our core business and AI efforts. Land and assets held within construction in progress (CIP) are not depreciated. CIP assets are related to the construction or development of property and equipment that have not yet been placed in service for their intended use. We also capitalize interest on our debt related to certain eligible CIP assets and depreciate the capitalized interest over the useful life of the related assets.
+The cost of maintenance and repairs is expensed as incurred. When assets are retired or otherwise disposed of, the cost and related accumulated depreciation are removed from their respective accounts, and gain or loss on such sale or disposal is reflected in income from operations.
+Lease Obligations
+Our operating leases mostly comprise of certain data centers, offices, and colocations. We also have finance leases for certain network infrastructure. We determine if an arrangement is a lease at inception and most of our leases contain lease and non-lease components. Non-lease components include fixed payments for maintenance, utilities, real estate taxes, and management fees. We combine fixed lease and non-lease components and account for them as a single lease component. Our lease agreements may contain variable costs such as contingent rent escalations, common area maintenance, insurance, real estate taxes, or other costs. These amounts are affected by the Consumer Price Index, payments contingent on energy production for renewable energy purchase arrangements, and maintenance and utilities. Such variable lease costs are expensed as incurred on our consolidated statements of income. For certain colocation and equipment leases, we apply a portfolio approach to effectively account for the operating lease ROU assets and lease liabilities.
+For leases with a lease term greater than 12 months, ROU assets and lease liabilities are recognized on our consolidated balance sheets at the commencement date based on the present value of the remaining fixed lease payments and includes only payments that are fixed and determinable at the time of commencement.
+Our lease terms may include options to extend or terminate the lease when it is reasonably certain that we will exercise such options. When determining the probability of exercising such options, we consider contract-based, asset-based, entity-based, and market-based factors. We do not assume renewals in our determination of the lease term unless the renewals are deemed to be reasonably assured. Our lease agreements generally do not contain any material restrictive covenants.
+As most of our leases do not provide an implicit rate, we use our incremental borrowing rate based on the information available at the commencement date in determining the present value of lease payments. Our incremental borrowing rate is based on our understanding of what our credit rating would be in a similar economic environment.
+Operating leases are included in operating lease ROU assets, operating lease liabilities, current, and operating lease liabilities, non-current on our consolidated balance sheets. Finance leases are included in property and equipment, net, accrued expenses and other current liabilities, and other liabilities on our consolidated balance sheets.
+Operating lease costs are recognized on a straight-line basis over the lease terms. Finance lease assets are amortized on a straight-line basis over the shorter of the estimated useful lives of the assets or the lease terms.
+Loss Contingencies
+We are involved in legal proceedings, claims, and regulatory, tax or government inquiries and investigations that arise in the ordinary course of business. Certain of these matters include speculative claims for substantial or indeterminate amounts of damages. Additionally, we are required to comply with various legal and regulatory obligations around the world, and we regularly become subject to new laws and regulations in the jurisdictions in which we operate. The requirements for complying with these obligations may be uncertain and subject to interpretation and enforcement by regulatory and other authorities, and any failure or perceived failure to comply with such obligations could eventually lead to asserted legal or regulatory action. With respect to these matters, asserted and unasserted, we evaluate the associated developments on a regular basis and accrue a liability when we believe that it is both probable that a loss has been incurred and the amount can
+99
+Table of Contents
+be reasonably estimated. We record such losses as general and administrative expenses on our consolidated statements of income.
+If we determine that a loss is probable or reasonably possible and the loss or range of loss can be reasonably estimated, we disclose the possible loss in the accompanying notes to the consolidated financial statements to the extent material.
+Business Combinations
+We allocate the fair value of purchase consideration to the tangible assets acquired, liabilities assumed and intangible assets acquired based on their estimated fair values as of the acquisition date. The excess of the fair value of purchase consideration over the fair values of these identifiable assets and liabilities is recorded as goodwill to reporting units based on the expected benefit from the business combination. Allocation of purchase consideration to identifiable assets and liabilities affects the amortization expense, as acquired finite-lived intangible assets are amortized over the useful life, whereas any indefinite-lived intangible assets, including goodwill, are not amortized. During the measurement period, which is not to exceed one year from the acquisition date, we record adjustments to the assets acquired and liabilities assumed, with the corresponding offset to goodwill. Upon the conclusion of the measurement period, any subsequent adjustments are recorded to earnings. Acquisition-related expenses are recognized separately from business combinations and are expensed as incurred. For more information, see Note 8 —Acquisitions, Goodwill, and Intangible Assets.
+Goodwill and Intangibles Assets
+We allocate goodwill to reporting units based on the expected benefit from business combinations. We evaluate our reporting units annually, as well as when changes in our operating segments occur. For changes in reporting units, we reassign goodwill using a relative fair value allocation approach. Goodwill is tested for impairment at the reporting unit level annually or more frequently if events or changes in circumstances would more likely than not reduce the fair value of a reporting unit below its carrying value. We have two reporting units, Family of Apps (FoA) and Reality Labs (RL), subject to goodwill impairment testing. As of December 31, 2025, no impairment of goodwill has been identified.
+We evaluate the recoverability of finite-lived intangible assets for possible impairment whenever events or circumstances indicate that the carrying amount of such assets may not be recoverable. The evaluation of these intangible assets is performed at the lowest level for which identifiable cash flows are largely independent of the cash flows of other assets and liabilities. Recoverability of these assets is measured by a comparison of the carrying amounts to the future undiscounted cash flows the assets are expected to generate from the use and eventual disposition. If such review indicates that the carrying amount of a finite-lived intangible asset is not recoverable and the asset's fair value is less than the carrying amount, an impairment loss is recognized. The impairment losses of finite-lived intangible assets were not material during the reporting periods presented.
+Our finite-lived intangible assets are amortized on a straight-line basis over the estimated useful lives of the assets. Indefinite-lived intangible assets are not amortized. If an indefinite-lived intangible asset is subsequently determined to have a finite useful life, the asset will be tested for impairment and accounted for as a finite-lived intangible asset prospectively over its estimated remaining useful life. We routinely review the remaining estimated useful lives of finite-lived intangible assets. If we change the estimated useful life assumption for any asset, the remaining unamortized balance is amortized over the revised estimated useful life. Intangible assets are included within other assets on our consolidated balance sheet.
+Foreign Currency
+Generally, the functional currency of our international subsidiaries is the local currency. We translate the financial statements of these subsidiaries to U.S. dollars using month-end rates of exchange for assets and liabilities, and average rates of exchange for revenue, costs, and expenses. Translation gains and losses are recorded in accumulated other comprehensive income (loss) as a component of stockholders' equity. As of December 31, 2025, cumulative translation gains, net of tax was not material. As of December 31, 2024, cumulative translation losses, net of tax was $ 2.66 billion.
+Foreign currency transaction gains and losses from transactions denominated in a currency other than the functional currency of the subsidiary involved are recorded within interest and other income (expense), net on our consolidated statements of income. Foreign currency transaction gains, net were $ 352 million for the year ended December 31, 2025 and foreign currency transaction losses, net were $ 690 million, and $ 366 million for the years ended December 31, 2024 and 2023, respectively.
+100
+Table of Contents
+Credit Risk and Concentration
+Our financial instruments that are potentially subject to concentrations of credit risk consist primarily of cash, cash equivalents, restricted cash and restricted cash equivalents, marketable debt securities, and accounts receivable. Cash equivalents consist mostly of money market funds, that primarily invest in U.S. government and agency securities. Marketable debt securities consist of investments in U.S. government securities, U.S. government agency securities, and investment grade corporate debt securities. As part of our cash management strategy, we concentrate cash deposits with large financial institutions and our marketable debt securities are held in diversified highly rated securities. Our investment portfolio in corporate debt securities is highly liquid and diversified among individual issuers. The amount of credit losses recorded for the year ended December 31, 2025 was not material.
+Accounts receivable are typically unsecured and are derived from revenue earned from customers across different industries and countries. We generated 37 %, 36 %, and 37 % of our revenue for the years ended December 31, 2025, 2024, and 2023, respectively, from marketers and developers based in the United States, with a majority of the revenue outside of the United States in 2025 coming from customers located in western Europe, China, Singapore, and Brazil.
+We perform ongoing credit evaluations of our customers and generally do not require collateral. We maintain an allowance for estimated credit losses, and bad debt expense on these losses was not material during the years ended December 31, 2025, 2024, and 2023. In the event that accounts receivable collection cycles deteriorate, our operating results and financial position could be adversely affected.
+No customer represented 10% or more of total revenue or accounts receivable for the years ended December 31, 2025, 2024, and 2023.
+Recently Adopted Accounting Pronouncements
+Beginning in 2025 annual reporting, we adopted Accounting Standards Update (ASU) No. 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures (ASU 2023-09) on a prospective basis. This standard improves the transparency of income tax disclosures by requiring consistent categories and greater disaggregation of information in the effective tax rate reconciliation and income taxes paid disaggregated by jurisdiction. It also includes certain other amendments to improve the effectiveness of income tax disclosures. The adoption of this new standard did not have a material impact on our consolidated financial statements. For additional information, see Note 14 — Income Taxes.
+Accounting Pronouncements Not Yet Adopted
+In November 2024, the FASB issued ASU No. 2024-03, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses (ASU 2024-03). The guidance requires disaggregated information about certain income statement expense line items on an annual and interim basis. This guidance will be effective for annual periods beginning with the year ending December 31, 2027 and for interim periods thereafter. The new standard permits early adoption and can be applied prospectively or retrospectively. We are evaluating the effect that this guidance will have on our consolidated financial statements and related disclosures.
+In September 2025, the FASB issued ASU No. 2025-06, Intangibles: Goodwill and Other Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software (ASU 2025-06). The guidance modernizes the accounting for software costs and enhances the transparency about an entity's software costs. The guidance will be effective for the annual periods beginning with the year ending December 31, 2027 and for interim periods beginning January 1, 2028. Early adoption is permitted. Upon adoption, the guidance can be applied prospectively, retrospectively, or under a modified transition approach. We are evaluating the effect that this guidance and do not expect the adoption of this guidance to have a material impact on our consolidated financial statements.
+In December 2025, the FASB issued ASU No. 2025-11, Interim Reporting (Topic 270): Narrow-Scope Improvements (ASU 2025-11), which clarifies interim disclosure requirements and the applicability of Topic 270. The guidance will be effective for interim periods beginning January 1, 2028. Early adoption is permitted. Upon adoption, the guidance can be applied prospectively or retrospectively. We do not expect the adoption of this guidance to have a material impact on our consolidated financial statements.
+101
+Table of Contents
+In December 2025, the FASB issued ASU No. 2025-10, Accounting for Government Grants (Topic 832): Accounting for Government Grants Received by Business Entities (ASU 2025-10) to establish authoritative guidance on the recognition, measurement, and presentation of government grants received by business entities. The guidance will be effective for the annual periods beginning with the year ending December 31, 2028 and for interim periods beginning January 1, 2029. Early adoption is permitted. Upon adoption, the guidance can be applied using a modified prospective, modified retrospective, or under a retrospective approach. We are evaluating the effect that this guidance and do not expect the adoption of this guidance to have a material impact on our consolidated financial statements.
+Note 2. Revenue
+Revenue disaggregated by revenue source and by segment consists of the following (in millions):
+Year Ended December 31,
+2025 2024 2023
+Advertising $ 196,175 $ 160,633 $ 131,948
+Other revenue 2,584 1,722 1,058
+Family of Apps 198,759 162,355 133,006
+Reality Labs 2,207 2,146 1,896
+Total revenue $ 200,966 $ 164,501 $ 134,902
+Revenue disaggregated by geography, based on the addresses of our customers, consists of the following (in millions):
+Year Ended December 31,
+2025 2024 2023
+United States and Canada (1)
+$ 78,866 $ 63,207 $ 52,888
+Europe (2)
+46,569 38,361 31,210
+Asia-Pacific 53,817 45,009 36,154
+Rest of World (2)
+21,714 17,924 14,650
+Total revenue $ 200,966 $ 164,501 $ 134,902
+_________________________
+(1) United States revenue was $ 74.78 billion, $ 59.73 billion, and $ 49.78 billion for the years ended December 31, 2025, 2024, and 2023, respectively.
+(2) Europe includes Russia and Turkey, and Rest of World includes Africa, Latin America, and the Middle East.
+Deferred revenue was $ 1.08 billion and $ 772 million as of December 31, 2025 and 2024, respectively. Our deferred revenue primarily relates to advertising prepayments and credits, as well as software updates and upgrades associated with RL hardware sales, most of which are expected to be realized in less than a year.
+102
+Table of Contents
+Note 3. Earnings per Share
+The holders of our Class A and Class B common stock (together, "common stock") have identical liquidation and dividend rights but different voting rights. Accordingly, we present the earnings per share (EPS) for Class A and Class B common stock together.
+Basic EPS is computed by dividing net income by the weighted-average number of shares of our common stock outstanding. Diluted EPS is computed by dividing net income by the weighted-average number of fully diluted common stock outstanding and assumes the conversion of our Class B common stock to Class A common stock.
+For the years ended December 31, 2025 and 2023, approximately 9 million and 16 million shares of RSUs, respectively, were excluded from the diluted EPS calculation, as including them would have an anti-dilutive effect. RSUs with anti-dilutive effect were not material for the year ended December 31, 2024.
+The numerators and denominators of the basic and diluted EPS computations for our common stock are calculated as follows (in millions, except per share amounts):
+Year Ended December 31,
+2025 2024 2023 (2)
+Basic EPS:
+Numerator
+Distributed earnings $ 5,324 $ 5,072 $ —
+Undistributed earnings 55,134 57,288 39,098
+Net income $ 60,458 $ 62,360 $ 39,098
+Denominator
+Shares used in computation of basic EPS (1)
+2,521 2,534 2,574
+Basic EPS $ 23.98 $ 24.61 $ 15.19
+Diluted EPS:
+Numerator
+Net income for diluted EPS $ 60,458 $ 62,360 $ 39,098
+Denominator
+Shares used in computation of basic EPS (1)
+2,521 2,534 2,574
+Effect of dilutive RSUs 53 80 55
+Shares used in computation of diluted EPS 2,574 2,614 2,629
+Diluted EPS $ 23.49 $ 23.86 $ 14.87
+____________________________________
+(1) Includes 2,178 million, 2,189 million, and 2,220 million shares of Class A common stock and 343 million, 345 million, and 354 million shares of Class B common stock, for the years ended December 31, 2025, 2024, and 2023, respectively.
+(2) The prior period EPS for Class A and Class B common stock has been presented together to conform with current period presentation, which had no impact on our previously reported basic or diluted EPS.
+EPS for Class B common stock is not presented separately as under the two-class method Class A and Class B EPS is not meaningfully different.
+103
+Table of Contents
+Note 4. Financial Instruments
+Fair Value Measurements
+Our cash equivalents, marketable securities, and restricted cash equivalents are classified within Level 1 or Level 2 of the fair value hierarchy because their fair values are derived from quoted market prices or alternative pricing sources and models utilizing market observable inputs. Certain other assets are classified within Level 3 because factors used to develop the estimated fair value are unobservable inputs that are not supported by market activity.
+The following tables summarize our assets measured at fair value on a recurring basis and the classification by level of input within the fair value hierarchy (in millions):
+Fair Value Measurement at Reporting Date Using
+Description December 31, 2025 Quoted Prices in Active Markets for Identical Assets
+(Level 1) Significant Other Observable Inputs
+(Level 2) Significant Unobservable Inputs
+(Level 3)
+Cash equivalents:
+Money market funds $ 27,928 $ 27,928 $ — $ —
+U.S. government securities 1,623 1,623 — —
+Time deposits 328 — 328 —
+Corporate debt securities 1,603 — 1,603 —
+Total cash equivalents 31,482 29,551 1,931 —
+Marketable securities:
+U.S. government securities 21,483 21,483 — —
+U.S. government agency securities 767 767 — —
+Corporate debt securities 17,477 — 17,477 —
+Marketable equity securities 5,992 5,992 — —
+Total marketable securities 45,719 28,242 17,477 —
+Restricted cash equivalents 2,539 2,539 — —
+Other assets 106 — — 106
+Total $ 79,846 $ 60,332 $ 19,408 $ 106
+104
+Table of Contents
+Fair Value Measurement at Reporting Date Using
+Description December 31, 2024 Quoted Prices in Active Markets for Identical Assets
+(Level 1) Significant Other Observable Inputs
+(Level 2) Significant Unobservable Inputs
+(Level 3)
+Cash equivalents:
+Money market funds $ 36,165 $ 36,165 $ — $ —
+U.S. government and agency securities 23 23 — —
+Time deposits 369 — 369 —
+Corporate debt securities 114 — 114 —
+Total cash equivalents 36,671 36,188 483 —
+Marketable securities:
+U.S. government securities 14,889 14,889 — —
+U.S. government agency securities 3,053 3,053 — —
+Corporate debt securities 14,758 — 14,758 —
+Marketable equity securities 1,226 1,226 — —
+Total marketable securities 33,926 19,168 14,758 —
+Restricted cash equivalents 1,193 1,193 — —
+Other assets 101 — — 101
+Total $ 71,891 $ 56,549 $ 15,241 $ 101
+Marketable Debt Securities
+The following tables summarize our available-for-sale marketable debt securities with unrealized losses as of December 31, 2025 and 2024, aggregated by major security type and the length of time that individual securities have been in a continuous loss position (in millions):
+December 31, 2025
+Less than 12 months 12 months or greater Total
+Fair Value Unrealized Losses Fair Value Unrealized Losses Fair Value Unrealized Losses
+U.S. government securities $ 1,491 $ ( 2 ) $ 1,570 $ ( 18 ) $ 3,061 $ ( 20 )
+U.S. government agency securities 17 — 25 — 42 —
+Corporate debt securities 1,213 ( 1 ) 1,534 ( 20 ) 2,747 ( 21 )
+Total $ 2,721 $ ( 3 ) $ 3,129 $ ( 38 ) $ 5,850 $ ( 41 )
+December 31, 2024
+Less than 12 months 12 months or greater Total
+Fair Value Unrealized Losses Fair Value Unrealized Losses Fair Value Unrealized Losses
+U.S. government securities $ 6,860 $ ( 71 ) $ 4,330 $ ( 146 ) $ 11,190 $ ( 217 )
+U.S. government agency securities 435 ( 2 ) 2,083 ( 44 ) 2,518 ( 46 )
+Corporate debt securities 2,989 ( 26 ) 6,373 ( 192 ) 9,362 ( 218 )
+Total $ 10,284 $ ( 99 ) $ 12,786 $ ( 382 ) $ 23,070 $ ( 481 )
+The gross unrealized gains on our marketable debt securities were $ 300 million and not material as of December 31, 2025 and 2024, respectively, and the allowance for credit losses were not material for both periods.
+105
+Table of Contents
+The following table classifies our marketable debt securities by contractual maturities (in millions):
+December 31, 2025
+Due within one year $ 13,023
+Due after one year to five years 26,704
+Total $ 39,727
+Marketable Equity Securities
+The net unrealized gains on our marketable equity securities recognized in interest and other income, net on our consolidated statements of income were $ 413 million and not material during the years ended December 31, 2025 and 2024, respectively.
+Note 5. Non-Marketable Equity Investments
+Our non-marketable equity investments are in privately-held companies without readily determinable fair values. The following table summarizes our non-marketable equity investments under measurement alternative and equity method (in millions):
+December 31,
+2025 2024
+Initial cost $ 20,271 $ 6,342
+Cumulative upward adjustments 429 300
+Cumulative impairment/downward adjustments ( 624 ) ( 624 )
+Non-marketable equity investments under measurement alternative 20,076 6,018
+Non-marketable equity investments under equity method 7,448 52
+Total carrying value of non-marketable equity investments $ 27,524 $ 6,070
+Non-Marketable Equity Investments Under Measurement Alternative
+Our non-marketable equity investments accounted for under the measurement alternative mostly consist of our minority investments in Scale AI for $ 13.80 billion, which was closed during 2025, and our investment in Jio Platforms Limited of $ 5.82 billion as of December 31, 2025. We do not have significant influence over these investees' operations.
+Non-Marketable Equity Investments Under Equity Method
+In October 2025, we entered into an arrangement to co-develop a data center campus in Louisiana (the Venture). This Venture provides strategic optionality and flexibility, enabling us to effectively meet future infrastructure capacity needs as AI markets and technologies develop.
+At Venture formation, we contributed $ 4.30 billion of held-for-sale assets, net of liabilities, and we received a one-time distribution of $ 2.55 billion. We hold a 20 % membership interest in the Venture, which is accounted for under the equity method included within non-marketable equity investments on the consolidated balance sheets. We provide construction management, administrative and property management services to the Venture. The parties have committed to fund their respective pro rata share of approximately $ 27 billion in total estimated development costs.
+We also entered into lease agreements with the Venture for the use of properties on the data center campus, which will commence in 2029. The aggregate initial lease commitment is approximately $ 12.31 billion, with each property having an initial four-year lease term and options to renew for a total lease period of up to 20 years. In addition, we have provided residual value guarantees (RVG) with an aggregate threshold of approximately $ 28 billion that decreases over time. If we decide to terminate or not renew a lease, and if certain other conditions are met, our maximum RVG payment would equal any shortfall between the fair value at that time and the RVG threshold for that property. As of December 31, 2025, RVG payments are not probable and therefore, no liability has been recorded.
+106
+Table of Contents
+We do not have the power to direct the activities that most significantly impact the Venture's economic performance. Therefore, we are not the primary beneficiary and do not consolidate the variable interest entity (VIE). Our maximum exposure to loss related to the Venture was $ 45.95 billion as of December 31, 2025, consisting of $ 1.83 billion carrying value of our equity investment, the lease commitments, our estimated future fundings, and the maximum RVG threshold.
+In addition, our non-marketable equity method investments also include other types of unconsolidated VIEs for which we are not the primary beneficiary, as we do not direct the activities that would significantly affect their economic performance. As of December 31, 2025, total maximum exposure to loss in these other VIEs was $ 5.58 billion, which equals the carrying value of our investments for the year ended December 31, 2025.
+Note 6. Property and Equipment
+Property and equipment, net consists of the following (in millions):
+December 31,
+2025 2024
+Land $ 3,687 $ 2,561
+Servers and network assets 98,040 68,397
+Buildings 55,568 47,076
+Leasehold improvements 8,346 7,293
+Equipment and other 9,377 7,150
+Finance lease right-of-use assets 8,187 5,384
+Construction in progress 50,521 26,802
+Property and equipment, gross 233,726 164,663
+Less: Accumulated depreciation ( 57,326 ) ( 43,317 )
+Property and equipment, net $ 176,400 $ 121,346
+Construction in progress (CIP) includes costs mostly related to construction of data centers, network infrastructure and servers. Interest expense capitalized for the eligible CIP assets was $ 535 million and $ 384 million during the years ended December 31, 2025 and 2024, respectively.
+Depreciation expense on property and equipment was $ 18.00 billion, $ 15.29 billion, and $ 11.02 billion for the years ended December 31, 2025, 2024, and 2023, respectively. Within property and equipment, servers and network assets depreciation expen

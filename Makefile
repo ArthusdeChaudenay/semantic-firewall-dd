@@ -1,20 +1,31 @@
-# Semantic Firewall — reproducible entry points (D11).
-# Windows: run these in Git Bash, or copy the command bodies into PowerShell.
-# Override the interpreter with:  make test PY=python
+# Reproduction entry points for "When the Label Is the Method".
+#
+# The audit targets are offline: the model outputs are committed under
+# data/extractions/, so every number in the paper rebuilds without an API key and
+# without network access. Only `corpus` and `extract` reach outside.
+#
+# Windows: run in Git Bash. Override the interpreter with:  make test PY=python
 
-PY ?= venv/Scripts/python.exe
+PY ?= python
 export PYTHONPATH := .
 export SF_SEED ?= 42
 
-.PHONY: help install install-dev test lint compile ground-truth e1 e2 e3 clean
+MODEL   ?= meta/llama-3.1-8b-instruct
+WORKERS ?= 3
+YEARS   ?= 2
+LIMIT   ?= 62
+
+.PHONY: help install install-dev test compile corpus extract audit figures paper clean
 
 help:
-	@echo "install       install core research deps (requirements.txt)"
-	@echo "install-dev   + pytest"
-	@echo "test          run fast offline unit tests"
-	@echo "compile       byte-compile the whole package"
-	@echo "ground-truth  E0: build XBRL ground truth   (needs SEC_USER_AGENT, MANIFEST=...)"
-	@echo "e1 / e2 / e3  run experiments               (needs CORPUS=... GT=... API key)"
+	@echo "install / install-dev   dependencies (add pytest with -dev)"
+	@echo "test                    49 offline unit tests"
+	@echo "audit                   every number in the paper, from cached outputs"
+	@echo "figures                 all five figures as vector PDF"
+	@echo "paper                   compile paper/main.pdf"
+	@echo ""
+	@echo "corpus                  rebuild from SEC EDGAR   (needs SEC_USER_AGENT)"
+	@echo "extract MODEL=...       run extraction           (needs OPENAI_API_KEY)"
 
 install:
 	$(PY) -m pip install -r requirements.txt
@@ -23,27 +34,59 @@ install-dev:
 	$(PY) -m pip install -r requirements-dev.txt
 
 test:
-	$(PY) -m pytest
+	$(PY) -m pytest -q
 
 compile:
-	$(PY) -m py_compile $$(git ls-files 'semantic_firewall/*.py')
+	$(PY) -m compileall -q semantic_firewall scripts
 
-# ── Experiments ────────────────────────────────────────────────────────────
-MANIFEST ?= data/cik_fy.csv
-GT        ?= data/ground_truth.jsonl
-CORPUS    ?= data/corpus.jsonl
+# ── Rebuilding from source data (external access required) ────────────────────
 
-ground-truth:
-	$(PY) -m semantic_firewall.evaluation.run_experiment e0 --manifest $(MANIFEST) --out $(GT)
+corpus:
+	@test -n "$$SEC_USER_AGENT" || (echo "set SEC_USER_AGENT='Name (you@example.org)'"; exit 1)
+	$(PY) -m scripts.build_benchmark_corpus --years $(YEARS) --limit $(LIMIT)
 
-e1:
-	$(PY) -m semantic_firewall.evaluation.run_experiment e1 --corpus $(CORPUS) --ground-truth $(GT)
+extract:
+	@test -n "$$OPENAI_API_KEY" || (echo "set OPENAI_API_KEY (and OPENAI_BASE_URL)"; exit 1)
+	$(PY) -m scripts.run_paper_experiments extract --model $(MODEL) --workers $(WORKERS)
 
-e2:
-	$(PY) -m semantic_firewall.evaluation.run_experiment e2 --corpus $(CORPUS) --ground-truth $(GT) --baselines B0,B1,B2,B4,B5,B6
+# ── The audit: offline, reads only the committed extractions ──────────────────
 
-e3:
-	$(PY) -m semantic_firewall.evaluation.run_experiment e3 --corpus $(CORPUS) --ground-truth $(GT)
+audit:
+	@echo "== corpus reconciliation (Appendix B) =="
+	$(PY) -m scripts.corpus_reconcile
+	@echo "\n== coupled-field rescoring and per-rule execution counts (Tables 2, 4) =="
+	$(PY) -m scripts.reviewer_checks
+	@echo "\n== predicting the inflated gain from the label definition (Sec. 5.2) =="
+	$(PY) -m scripts.coupling_index
+	@echo "\n== injected couplings (Sec. 5.3) =="
+	$(PY) -m scripts.coupling_injection
+	@echo "\n== discordant pairs and exact McNemar tests (Table 3) =="
+	$(PY) -m scripts.mcnemar_ladder
+	@echo "\n== detector, coupled identity (Tables 5, 6) =="
+	$(PY) -m scripts.detector_and_bs --bs-method BS
+	@echo "\n== detector, uncoupled identity (Sec. 5.6) =="
+	$(PY) -m scripts.detector_and_bs --bs-method BSEN
+	@echo "\n== scale inference validation (Sec. 3) =="
+	$(PY) scripts/validate_scale.py
+	@echo "\n== per-sector accuracy (Figure 4) =="
+	$(PY) -m scripts.sector_table
+
+# Needs network: re-reads the complete filing text rather than the cached slice.
+ebitda-coverage:
+	$(PY) -m scripts.ebitda_coverage
+
+figures:
+	$(PY) -m scripts.make_figures
+	$(PY) -m scripts.coupling_injection
+
+paper:
+	cd paper && pdflatex -interaction=nonstopmode main.tex >/dev/null \
+	  && bibtex main >/dev/null \
+	  && pdflatex -interaction=nonstopmode main.tex >/dev/null \
+	  && pdflatex -interaction=nonstopmode main.tex >/dev/null \
+	  && rm -f main.aux main.log main.out main.blg \
+	  && echo "paper/main.pdf"
 
 clean:
 	find . -type d -name __pycache__ -prune -exec rm -rf {} +
+	rm -f paper/main.aux paper/main.log paper/main.out paper/main.blg

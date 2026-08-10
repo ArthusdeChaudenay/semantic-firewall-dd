@@ -1,0 +1,12 @@
+{
+  "fields": {
+    "chiffre_affaires": "44,328",
+    "ebit": "8,053",
+    "ebitda": "11,169",
+    "dotations_amortissements": "1,682 (Amortization of intangible assets) + 1,434 (Depreciation from Cash Flow Statement) = 3,116",
+    "resultat_net": "6,524"
+  },
+  "seconds": 18.44,
+  "tokens": 135,
+  "accepted_verification": true
+}

@@ -1,0 +1,385 @@
+ex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+Valuation of Employee Benefit Obligations
+Description of the Matter The Company sponsors several pension plans and other post-employment benefit plans. At December 31, 2024, the Company's aggregate defined benefit pension obligation was $7.9 billion and exceeded the fair value of pension plan assets of $6.8 billion, resulting in an unfunded defined benefit pension obligation of $1.1 billion. Also, at December 31, 2024, the other postretirement benefits obligation was approximately $10.5 billion. As explained in Note 11 of the consolidated financial statements, the Company updates the estimates used to measure employee benefit obligations and plan assets in the fourth quarter and upon a remeasurement event to reflect the actual return on plan assets and updated actuarial assumptions.
+Auditing the employee benefit obligations was complex due to the highly judgmental nature of the actuarial assumption relating to the discount rates used in the measurement process. This assumption had a significant effect on the projected benefit obligations.
+52
+Table of Contents
+How We Addressed the Matter in Our Audit We obtained an understanding, evaluated the design and tested the operating effectiveness of controls over the employee benefits obligation valuation process. For example, we tested controls over management's review of the employee benefit obligation calculations, the actuarial assumption relating to the discount rates and the data inputs provided to the actuary.
+To test the employee benefit obligations, our audit procedures included, among others, evaluating the methodologies used, the actuarial assumption relating to the discount rates and the underlying data used by the Company. We compared the actuarial assumption used by management to historical trends, current economic factors and evaluated the change in the employee benefit obligations from prior year due to the change in service cost, interest cost, actuarial gains and losses, benefit payments, contributions and other activities. In addition, we involved an actuarial specialist to assist in evaluating management's methodology for determining the discount rates that reflect the maturity and duration of the benefit payments and are used to measure the employee benefit obligations. As part of this assessment, we compared the projected cash flows to prior year projections and compared the current year benefits paid to the prior year projected cash flows. We also tested the completeness and accuracy of the underlying data.
+/s/ Ernst & Young LLP
+Ernst & Young LLP
+We have served as Verizon's auditor since 2000.
+New York, New York
+February 12, 2025
+53
+Table of Contents
+Consolidated Statements of Income
+Verizon Communications Inc. and Subsidiaries
+(dollars in millions, except per share amounts)
+Years Ended December 31, 2024 2023 2022
+Operating Revenues
+Service revenues and other
+$ 111,571 $ 109,652 $ 109,625
+Wireless equipment revenues
+23,217 24,322 27,210
+Total Operating Revenues 134,788 133,974 136,835
+Operating Expenses
+Cost of services (exclusive of items shown below)
+27,997 28,100 28,637
+Cost of wireless equipment
+26,100 26,787 30,496
+Selling, general and administrative expense 34,113 32,745 30,136
+Depreciation and amortization expense
+17,892 17,624 17,099
+Verizon Business Group goodwill impairment — 5,841 —
+Total Operating Expenses 106,102 111,097 106,368
+Operating Income 28,686 22,877 30,467
+Equity in earnings (losses) of unconsolidated businesses ( 53 ) ( 53 ) 44
+Other income (expense), net 995 ( 313 ) 1,373
+Interest expense ( 6,649 ) ( 5,524 ) ( 3,613 )
+Income Before Provision For Income Taxes 22,979 16,987 28,271
+Provision for income taxes ( 5,030 ) ( 4,892 ) ( 6,523 )
+Net Income $ 17,949 $ 12,095 $ 21,748
+Net income attributable to noncontrolling interests $ 443 $ 481 $ 492
+Net income attributable to Verizon 17,506 11,614 21,256
+Net Income $ 17,949 $ 12,095 $ 21,748
+Basic Earnings Per Common Share
+Net income attributable to Verizon $ 4.15 $ 2.76 $ 5.06
+Weighted-average shares outstanding (in millions) 4,218 4,211 4,202
+Diluted Earnings Per Common Share
+Net income attributable to Verizon $ 4.14 $ 2.75 $ 5.06
+Weighted-average shares outstanding (in millions) 4,223 4,215 4,204
+See Notes to Consolidated Financial Statements
+54
+Table of Contents
+Consolidated Statements of Comprehensive Income
+Verizon Communications Inc. and Subsidiaries
+(dollars in millions)
+Years Ended December 31, 2024 2023 2022
+Net Income $ 17,949 $ 12,095 $ 21,748
+Other Comprehensive Income (Loss), Net of Tax (Expense) Benefit
+Foreign currency translation adjustments, net of tax of $( 13 ), $ 6 and $( 13 )
+( 97 ) 62 ( 153 )
+Unrealized gain on cash flow hedges, net of tax of $( 27 ), $( 30 ) and $( 111 )
+81 88 322
+Unrealized gain (loss) on fair value hedges, net of tax of $( 162 ), $( 181 ) and $ 148
+484 536 ( 431 )
+Unrealized gain (loss) on marketable securities, net of tax of $ 1 , $( 2 ) and $ 8
+( 3 ) 7 ( 25 )
+Defined benefit pension and postretirement plans, net of tax of $ 4 , $ 68 and $ 221
+( 8 ) ( 208 ) ( 651 )
+Other comprehensive income (loss) attributable to Verizon 457 485 ( 938 )
+Total Comprehensive Income $ 18,406 $ 12,580 $ 20,810
+Comprehensive income attributable to noncontrolling interests $ 443 $ 481 $ 492
+Comprehensive income attributable to Verizon 17,963 12,099 20,318
+Total Comprehensive Income $ 18,406 $ 12,580 $ 20,810
+See Notes to Consolidated Financial Statements
+55
+Table of Contents
+Consolidated Balance Sheets
+Verizon Communications Inc. and Subsidiaries
+(dollars in millions, except per share amounts)
+At December 31, 2024 2023
+Assets
+Current assets
+Cash and cash equivalents $ 4,194 $ 2,065
+Accounts receivable 27,261 26,102
+Less Allowance for credit losses
+1,152 1,017
+Accounts receivable, net 26,109 25,085
+Inventories 2,247 2,057
+Prepaid expenses and other 7,973 7,607
+Total current assets 40,523 36,814
+Property, plant and equipment 331,406 320,108
+Less Accumulated depreciation 222,884 211,798
+Property, plant and equipment, net 108,522 108,310
+Investments in unconsolidated businesses 842 953
+Wireless licenses 156,613 155,667
+Goodwill 22,841 22,843
+Other intangible assets, net 11,129 11,057
+Operating lease right-of-use assets 24,472 24,726
+Other assets 19,769 19,885
+Total assets $ 384,711 $ 380,255
+Liabilities and Equity
+Current liabilities
+Debt maturing within one year $ 22,633 $ 12,973
+Accounts payable and accrued liabilities 23,374 23,453
+Current operating lease liabilities 4,415 4,266
+Other current liabilities 14,349 12,531
+Total current liabilities 64,771 53,223
+Long-term debt 121,381 137,701
+Employee benefit obligations 11,997 13,189
+Deferred income taxes 46,732 45,781
+Non-current operating lease liabilities 19,928 20,002
+Other liabilities 19,327 16,560
+Total long-term liabilities 219,365 233,233
+Commitments and Contingencies (Note 16)
+Equity
+Series preferred stock ($ 0.10 par value; 250,000,000 shares authorized; none issued)
+— —
+Common stock ($ 0.10 par value; 6,250,000,000 shares authorized in each period; 4,291,433,646 shares issued in each period)
+429 429
+Additional paid in capital 13,466 13,631
+Retained earnings 89,110 82,915
+Accumulated other comprehensive loss ( 923 ) ( 1,380 )
+Common stock in treasury, at cost ( 81,753,488 and 87,172,997 shares outstanding)
+( 3,583 ) ( 3,821 )
+Deferred compensation employee stock ownership plans (ESOPs) and other 738 656
+Noncontrolling interests 1,338 1,369
+Total equity 100,575 93,799
+Total liabilities and equity $ 384,711 $ 380,255
+See Notes to Consolidated Financial Statements
+56
+Table of Contents
+Consolidated Statements of Cash Flows
+Verizon Communications Inc. and Subsidiaries
+(dollars in millions)
+Years Ended December 31, 2024 2023 2022
+Cash Flows from Operating Activities
+Net Income $ 17,949 $ 12,095 $ 21,748
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization expense 17,892 17,624 17,099
+Employee retirement benefits ( 52 ) 1,206 ( 2,046 )
+Deferred income taxes 815 2,388 2,973
+Provision for expected credit losses 2,338 2,214 1,611
+Equity in losses (earnings) of unconsolidated businesses, net of dividends received 75 84 ( 10 )
+Verizon Business Group goodwill impairment — 5,841 —
+Changes in current assets and liabilities, net of effects from acquisition/disposition of businesses:
+Accounts receivable ( 2,565 ) ( 2,198 ) ( 1,978 )
+Inventories ( 196 ) 287 627
+Prepaid expenses and other ( 626 ) ( 435 ) 928
+Accounts payable and accrued liabilities and Other current liabilities 1,109 2,079 ( 33 )
+Other, net 173 ( 3,710 ) ( 3,778 )
+Net cash provided by operating activities 36,912 37,475 37,141
+Cash Flows from Investing Activities
+Capital expenditures (including capitalized software) ( 17,090 ) ( 18,767 ) ( 23,087 )
+Cash received (paid) related to acquisitions of businesses, net of cash acquired — ( 30 ) 248
+Acquisitions of wireless licenses ( 900 ) ( 5,796 ) ( 3,653 )
+Collateral receipts (payments) related to derivative contracts, net ( 712 ) 880 ( 2,265 )
+Proceeds from disposition of business — — 33
+Other, net 28 281 62
+Net cash used in investing activities ( 18,674 ) ( 23,432 ) ( 28,662 )
+Cash Flows from Financing Activities
+Proceeds from long-term borrowings 3,146 2,018 7,074
+Proceeds from asset-backed long-term borrowings 12,422 6,594 10,732
+Net proceeds from (repayments of) short-term commercial paper — ( 150 ) 106
+Repayments of long-term borrowings and finance lease obligations ( 11,854 ) ( 6,181 ) ( 8,616 )
+Repayments of asset-backed long-term borrowings ( 8,490 ) ( 4,443 ) ( 4,948 )
+Dividends paid ( 11,249 ) ( 11,025 ) ( 10,805 )
+Other, net ( 1,075 ) ( 1,470 ) ( 2,072 )
+Net cash used in financing activities ( 17,100 ) ( 14,657 ) ( 8,529 )
+Increase (decrease) in cash, cash equivalents and restricted cash 1,138 ( 614 ) ( 50 )
+Cash, cash equivalents and restricted cash, beginning of period 3,497 4,111 4,161
+Cash, cash equivalents and restricted cash, end of period (Note 1) $ 4,635 $ 3,497 $ 4,111
+See Notes to Consolidated Financial Statements
+57
+Table of Contents
+Consolidated Statements of Changes in Equity
+Verizon Communications Inc. and Subsidiaries
+(dollars in millions, except per share amounts, and shares in thousands)
+Years Ended December 31, 2024 2023 2022
+Shares Amount Shares Amount Shares Amount
+Common Stock
+Balance at beginning of year 4,291,434 $ 429 4,291,434 $ 429 4,291,434 $ 429
+Balance at end of year 4,291,434 429 4,291,434 429 4,291,434 429
+Additional Paid In Capital
+Balance at beginning of year 13,631 13,420 13,861
+Other (Note 14)
+( 165 ) 211 ( 441 )
+Balance at end of year 13,466 13,631 13,420
+Retained Earnings
+Balance at beginning of year 82,915 82,380 71,993
+Net income attributable to Verizon 17,506 11,614 21,256
+Dividends declared ($ 2.685 , $ 2.635 , $ 2.585 per share)
+( 11,306 ) ( 11,082 ) ( 10,860 )
+Other ( 5 ) 3 ( 9 )
+Balance at end of year 89,110 82,915 82,380
+Accumulated Other Comprehensive Income (Loss)
+Balance at beginning of year attributable to Verizon
+( 1,380 ) ( 1,865 ) ( 927 )
+Foreign currency translation adjustments ( 97 ) 62 ( 153 )
+Unrealized gain on cash flow hedges 81 88 322
+Unrealized gain (loss) on fair value hedges 484 536 ( 431 )
+Unrealized gain (loss) on marketable securities ( 3 ) 7 ( 25 )
+Defined benefit pension and postretirement plans ( 8 ) ( 208 ) ( 651 )
+Other comprehensive income (loss) 457 485 ( 938 )
+Balance at end of year attributable to Verizon
+( 923 ) ( 1,380 ) ( 1,865 )
+Treasury Stock
+Balance at beginning of year ( 87,173 ) ( 3,821 ) ( 91,572 ) ( 4,013 ) ( 93,635 ) ( 4,104 )
+Employee plans (Note 14) 5,407 237 4,380 191 2,048 90
+Shareholder plans (Note 14) 13 1 19 1 15 1
+Balance at end of year ( 81,753 ) ( 3,583 ) ( 87,173 ) ( 3,821 ) ( 91,572 ) ( 4,013 )
+Deferred Compensation-ESOPs and Other
+Balance at beginning of year 656 793 538
+Restricted stock equity grant 447 296 423
+Amortization ( 365 ) ( 433 ) ( 168 )
+Balance at end of year 738 656 793
+Noncontrolling Interests
+Balance at beginning of year 1,369 1,319 1,410
+Total comprehensive income 443 481 492
+Distributions and other (Note 14)
+( 474 ) ( 431 ) ( 583 )
+Balance at end of year 1,338 1,369 1,319
+Total Equity $ 100,575 $ 93,799 $ 92,463
+See Notes to Consolidated Financial Statements
+58
+Table of Contents
+Notes to Consolidated Financial Statements
+Verizon Communications Inc. and Subsidiaries
+Note 1. Description of Business and Summary of Significant Accounting Policies
+Description of Business
+Verizon Communications Inc. (the Company) is a holding company that, acting through its subsidiaries (together with the Company, collectively, Verizon), is one of the world's leading providers of communications, technology, information and streaming products and services to consumers, businesses and government entities. With a presence around the world, we offer data, video and voice services and solutions on our networks and platforms that are designed to meet customers' demand for mobility, reliable network connectivity and security.
+We have two reportable segments that we operate and manage as strategic business units - Verizon Consumer Group (Consumer) and Verizon Business Group (Business).
+Our Consumer segment provides consumer-focused wireless and wireline communications services and products. Our wireless services are provided across one of the most extensive wireless networks in the United States (U.S.) under the Verizon family of brands and through wholesale and other arrangements. We also provide fixed wireless access (FWA) broadband through our fifth-generation (5G) or fourth-generation (4G) Long-Term Evolution (LTE) networks as an alternative to traditional landline internet access. Our wireline services are provided in nine states in the Mid-Atlantic and Northeastern U.S., as well as Washington D.C., over our 100% fiber-optic network through our Verizon Fios product portfolio and over a traditional copper-based network to customers who are not served by Fios.
+Our Business segment provides wireless and wireline communications services and products, including FWA broadband, data, video and advanced communication services, corporate networking solutions, security and managed network services, local and long distance voice services and network access to deliver various Internet of Things (IoT) services and products. We provide these products and services to businesses, public sector customers and wireless and wireline carriers across the U.S. and a subset of these products and services to customers around the world.
+Consolidation
+The method of accounting applied to investments, whether consolidated or equity, involves an evaluation of all significant terms of the investments that explicitly grant or suggest evidence of control or influence over the operations of the investee. The consolidated financial statements include our controlled subsidiaries, as well as variable interest entities (VIE) where we are deemed to be the primary beneficiary. For controlled subsidiaries that are not wholly-owned, the noncontrolling interests are included in Net income and Total equity. Investments in businesses that we do not control, but have the ability to exercise significant influence over operating and financial policies, are accounted for using the equity method. Equity method investments are included in Investments in unconsolidated businesses in our consolidated balance sheets. All significant intercompany accounts and transactions have been eliminated.
+Basis of Presentation
+We have reclassified certain prior year amounts to conform to the current year presentation.
+Use of Estimates
+We prepare our financial statements using U.S. generally accepted accounting principles (GAAP), which requires management to make estimates and assumptions that affect reported amounts and disclosures. These estimates and assumptions take into account historical and forward-looking factors that the Company believes are reasonable. Actual results could differ significantly from those estimates.
+Examples of significant estimates include the allowance for credit losses, the recoverability of property, plant and equipment and other long-lived assets, the incremental borrowing rate for the lease liability, fair value measurements, including those related to financial instruments, goodwill, spectrum licenses and intangible assets, unrecognized tax benefits, valuation allowances on tax assets, pension and postretirement benefit obligations, contingencies and the identification and valuation of assets acquired and liabilities assumed in connection with business combinations.
+Revenue Recognition
+We earn revenue from contracts with customers, primarily through the provision of telecommunications and other services and through the sale of wireless equipment. These services include a variety of communication and connectivity services for our Consumer and Business customers including other carriers that use our facilities to provide services to their customers, as well as professional and integrated managed services for our large enterprise and government customers. We account for these revenues under Topic 606.
+59
+Table of Contents
+We also earn revenues that are not accounted for under Topic 606 from leasing arrangements (such as those for towers and equipment), captive reinsurance arrangements primarily related to wireless device insurance and the interest recognized when equipment is sold to the customer by an authorized agent under a device payment plan agreement.
+Nature of Products and Services
+Telecommunications
+Service
+We offer wireless services through a variety of plans on a postpaid or prepaid basis. For wireless service, we recognize revenue using an output method, either as the service allowance units are used or as time elapses, because it reflects the pattern by which we satisfy our performance obligation through the transfer of service to the customer. Monthly service is generally billed in advance, which results in a contract liability. See Note 2 for additional information. For postpaid plans, where monthly usage exceeds the allowance, the overage usage represents options held by the customer for incremental services and the usage-based fee is recognized when the customer exercises the option (typically on a month-to-month basis).
+For our contracts related to wireline communication and connectivity services, in general, fixed monthly fees for service are billed one month in advance, which results in a contract liability, and service revenue is recognized over the enforceable contract term as the service is rendered, as the customer simultaneously receives and consumes the benefits of the services through network access and usage. While substantially all of our wireline service revenue contracts are the result of providing access to our networks, revenue from services that are not fixed in amount and, instead, are based on usage are generally billed in arrears and recognized as the usage occurs.
+Equipment
+We sell wireless devices and accessories under the Verizon brand and other brands. Equipment revenue is generally recognized when the products are delivered to and accepted by the customer, as this is when control passes to the customer. In addition to offering the sale of equipment on a standalone basis, we have two primary offerings through which customers pay for a wireless device, in connection with a service contract: fixed-term plans (for our Business customers) and device payment plans.
+Under a fixed-term plan, the customer is sold the wireless device without any upfront charge or at a discounted price in exchange for entering into a fixed-term service contract (typically for a term of 36 months or less).
+Under a device payment plan, the customer is sold the wireless device in exchange for a non-interest-bearing installment note, which is repaid by the customer, typically over a 36-month term, and concurrently enters into a month-to-month contract for wireless service. We may offer certain promotions that provide billing credits applied over a specified term, contingent upon the customer maintaining service. The credits are included in the transaction price, which are allocated to the performance obligations based on their relative selling price and are recognized when earned.
+A financing component exists in both our fixed-term plans and device payment plans because the timing of the payment for the device, which occurs over the contract term, differs from the satisfaction of the performance obligation, which occurs at contract inception upon transfer of the device to the customer. We periodically assess, at the contract level, the significance of the financing component inherent in our fixed-term and device payment plan receivable based on qualitative and quantitative considerations related to our customer classes. These considerations include assessing the commercial objective of our plans, the term and duration of financing provided, interest rates prevailing in the marketplace, and credit risks of our customer classes, all of which impact our selection of appropriate discount rates. Based on current facts and circumstances, we determined that the financing component in our existing wireless device payments and fixed-term contracts sold through the direct channel is not significant and therefore is not accounted for separately. See Note 8 for additional information on the interest on equipment financed on a device payment plan agreement when sold to the customer by an authorized agent in our indirect channel.
+Wireless Contracts
+For our wireless contracts, total contract revenue, which represents the transaction price for wireless service and wireless equipment, is allocated between service and equipment revenue based on their estimated standalone selling prices. We estimate the standalone selling price of the device or accessory to be its retail price excluding subsidies or conditional purchase discounts. We estimate the standalone selling price of wireless service to be the price that we offer to customers on month-to-month contracts that can be cancelled at any time without penalty (i.e., when there is no fixed-term for service) or when service is procured without the concurrent purchase of a wireless device. In addition, we also assess whether the service term is impacted by certain legally enforceable rights and obligations in our contract with customers, such as penalties that a customer would have to pay to early terminate a fixed-term contract or billing credits that would cease if the month-to-month wireless service is canceled. The assessment of these legally enforceable rights and obligations involves judgment and impacts our determination of the transaction price and related disclosures.
+From time to time, we may offer certain promotions that provide our customers on device payment plans with the right to upgrade to a new device after paying a specified portion of their device payment plan agreement amount and trading in their device in good working order. We account for this trade-in right as a guarantee obligation. The full amount of the trade-in right's fair value is recognized as a guarantee liability and results in a reduction to the revenue recognized upon the sale of the device. The total
+60
+Table of Contents
+transaction price is reduced by the guarantee, which is accounted for outside the scope of Topic 606, and the remaining transaction price is allocated between the performance obligations within the contract.
+Our fixed-term plans generally include the sale of a wireless device at subsidized prices. This results in the creation of a contract asset at the time of sale, which represents the recognition of equipment revenue in excess of amounts billed.
+For our device payment plans, billing credits are accounted for as consideration payable to a customer and are included in the determination of total transaction price, resulting in a contract liability.
+We may provide a right of return on our products and services for a short time period after a sale. These rights are accounted for as variable consideration when determining the transaction price, and accordingly we recognize revenue based on the estimated amount to which we expect to be entitled after considering expected returns. Returns and credits are estimated at contract inception and updated at the end of each reporting period as additional information becomes available. We also may provide credits or incentives on our products and services for contracts with resellers, which are accounted for as variable consideration when estimating the amount of revenue to recognize.
+Wireline Contracts
+Total consideration for wireline services that are bundled in a single contract is allocated to each performance obligation based on our standalone selling price for each service. While many contracts include one or more service performance obligations, the revenue recognition pattern is generally not impacted by the allocation since the services are generally satisfied over the same period of time. We estimate the standalone selling price to be the price of the services when sold on a standalone basis without any promotional discount. In addition, we also assess whether the service term is impacted by certain legally enforceable rights and obligations in our contract with customers such as penalties that a customer would have to pay to early terminate a fixed-term contract. The assessment of these legally enforceable rights and obligations involves judgment and impacts our determination of transaction price and related disclosures.
+We may provide performance-based credits or incentives on our products and services for contracts with our Business customers, which are accounted for as variable consideration when estimating the transaction price. Credits are estimated at contract inception and are updated at the end of each reporting period as additional information becomes available.
+Wireless and Wireline Contracts
+For offers that include third-party providers, we evaluate whether we are acting as the principal or as the agent with respect to the goods or services provided to the customer. This principal-versus-agent assessment involves judgment and focuses on whether the facts and circumstances of the arrangement indicate that the goods or services were controlled by us prior to transferring them to the customer. To evaluate if we have control, we consider various factors including whether we are primarily responsible for fulfillment, bear risk of loss and have discretion over pricing.
+Other
+We offer telematics services including smart fleet management and optimization software. Telematics service revenue is generated primarily through subscription contracts. We recognize revenue over time for our subscription contracts.
+We report taxes collected from customers on behalf of governmental authorities on revenue-producing transactions on a net basis.
+Maintenance and Repairs
+We charge the cost of maintenance and repairs, including the cost of replacing minor items not constituting substantial betterments, principally to Cost of services as these costs are incurred.
+Advertising Costs
+Costs for advertising products and services, as well as other promotional and sponsorship costs, are charged to Selling, general and administrative expense in the periods in which they are incurred. See Note 15 for additional information.
+Earnings Per Common Share
+Basic earnings per common share are based on the weighted-average number of shares outstanding during the period. Where appropriate, diluted earnings per common share include the dilutive effect of shares issuable under our stock-based compensation plans.
+There were a total of approximately 4.7 million and 4.2 million outstanding dilutive securities, primarily consisting of performance stock units and restricted stock units, included in the computation of diluted earnings per common share for the years ended December 31, 2024 and 2023, respectively. There was a total of approximately 1.9 million outstanding dilutive securities, primarily consisting of restricted stock units, included in the computation of diluted earnings per common share for the year ended December 31, 2022 .
+61
+Table of Contents
+Cash, Cash Equivalents and Restricted Cash
+We consider all highly liquid investments with an original maturity of 90 days or less when purchased to be cash equivalents. Cash equivalents are stated at cost, which approximates quoted market value and includes amounts held in money market funds.
+Cash collections on the receivables and on the underlying receivables related to the participation interest collateralizing our asset-backed debt securities are required at certain specified times to be placed into segregated accounts. Deposits to the segregated accounts are considered restricted cash.
+Cash, cash equivalents and restricted cash are included in the following line items in the consolidated balance sheets:
+(dollars in millions)
+At December 31, 2024 2023 Increase / (Decrease)
+Cash and cash equivalents $ 4,194 $ 2,065 $ 2,129
+Restricted cash:
+Prepaid expenses and other 319 1,244 ( 925 )
+Other assets 122 188 ( 66 )
+Cash, cash equivalents and restricted cash $ 4,635 $ 3,497 $ 1,138
+Investments in Debt and Equity Securities
+Investments in equity securities that are not accounted for under equity method accounting or result in consolidation are to be measured at fair value. For investments in equity securities without readily determinable fair values, Verizon elects the measurement alternative permitted under GAAP to measure these investments at cost, less any impairment, plus or minus changes resulting from observable price changes in orderly transactions for an identical or similar investment of the same issuer. For investments in debt securities without quoted prices, Verizon uses an alternative matrix pricing method. Investments in equity securities that do not result in consolidation of the investee are included in Investments in unconsolidated businesses and debt securities are included in Other assets in our consolidated balance sheets.
+Allowance for Credit Losses
+Accounts receivable are recorded at amortized cost less an allowance for credit losses that are not expected to be recovered. The gross amount of accounts receivable and corresponding allowance for credit losses are presented separately in the consolidated balance sheets. We maintain allowances for credit losses resulting from the expected failure or inability of our customers to make required payments. We recognize the allowance for credit losses at inception and reassess quarterly based on management's expectation of the asset's collectability. The allowance is based on multiple factors including historical experience with bad debts, the credit quality of the customer base, the aging of such receivables and current macroeconomic conditions, as well as management's expectations of conditions in the future, as applicable. Our allowance for credit losses is based on management's assessment of the collectability of assets pooled together with similar risk characteristics.
+We pool our device payment plan agreement receivables based on the credit quality indicators and shared risk characteristics of "new customers" and "existing customers." New customers are defined as customers who have been with Verizon for less than 210 days. Existing customers are defined as customers who have been with Verizon for 210 days or more. We record an allowance to reduce the receivables to the amount that is expected to be collectible. For device payment plan agreement receivables, we record bad debt expense based on a default and loss calculation using our proprietary loss model. The expected loss rate is determined based on customer credit scores and other qualitative factors as noted above. The loss rate is assigned individually on a customer by customer basis and the custom credit scores are then aggregated by vintage and used in our proprietary loss model to calculate the weighted-average loss rate used for determining the allowance balance.
+We monitor the collectability of our wireless service receivables as one overall pool. Wireline service receivables are disaggregated and pooled by the following types of customers and related contracts: consumer, small and medium business, enterprise, public sector and wholesale. For wireless service receivables and wireline consumer and small and medium business receivables, the allowance is calculated based on a 12 month rolling average write-off balance multiplied by the average life-cycle of an account from billing to write-off. The risk of loss is assessed over the contractual life of the receivables and is adjusted based on the historical loss amounts for current and future conditions based on management's qualitative considerations. For enterprise, public sector and wholesale wireline receivables, the allowance for credit losses is based on historical write-off experience and individual customer credit risk, if applicable. We consider multiple factors in determining the allowance as discussed above.
+Inventories
+Inventory consists of wireless and wireline equipment held for sale, which is carried at the lower of cost (determined principally on either an average cost or first-in, first-out basis) or net realizable value.
+62
+Table of Contents
+Property, Plant and Equipment and Depreciation
+We record property, plant and equipment at cost. Property, plant and equipment are generally depreciated on a straight-line basis.
+Leasehold improvements are amortized over the shorter of the estimated life of the improvement or the remaining term of the related lease, calculated from the time the asset was placed in service.
+When depreciable assets are retired or otherwise disposed of, the related cost and accumulated depreciation are deducted from the property, plant and equipment accounts and any gains or losses on disposition are recognized in Selling, general and administrative expense.
+We capitalize and depreciate network software purchased or developed within property, plant and equipment assets. We also capitalize interest associated with the acquisition or construction of network-related assets. Capitalized interest is reported as a reduction in interest expense and depreciated as part of the cost of the network-related assets.
+Computer Software and Cloud Computing Costs
+We capitalize the cost of internal-use network and non-network software and defer the costs associated with cloud computing service arrangements that have a useful life and term in excess of one year. Subsequent additions, modifications or upgrades to internal-use network and non-network software are capitalized only to the extent that they add significant new functionality. Planning, software maintenance and training costs for internal-use software and cloud computing arrangements are expensed in the period in which they are incurred. We capitalize interest associated with the development of internal-use network and non-network software. Capitalized non-network internal-use software costs are amortized using the straight-line method over a period of 3 to 7 years and are included in Other intangible assets, net in our consolidated balance sheets. Costs incurred in implementing a cloud computing service arrangement are deferred during the application-development stage and recorded as Prepaid expense and other in our consolidated balance sheets. Once a project is substantially complete and ready for its intended use, we stop deferring the related cloud computing arrangement costs.
+For a discussion of our impairment policy for capitalized non-network software costs, see "Goodwill and Other Intangible Assets" below. See Note 4 for additional information of internal-use non-network software reflected in our consolidated balance sheets. Similar to capitalized software costs, deferred costs associated with cloud computing arrangements are subject to impairment testing.
+Goodwill and Other Intangible Assets
+Goodwill
+Goodwill is the excess of the acquisition cost of businesses over the fair value of the identifiable net assets acquired. Impairment testing for goodwill is performed annually in the fourth quarter or more frequently if impairment indicators are present.
+To determine if goodwill is potentially impaired, we have the option to perform a qualitative assessment. However, we may elect to bypass the qualitative assessment and perform a quantitative impairment test even if no indications of a potential impairment exist. It is our policy to perform quantitative impairment assessment at least every three years.
+Under the qualitative assessment, we consider several factors, including the enterprise value of the reporting unit from the last quantitative test and the excess of fair value over carrying value from this test, macroeconomic conditions (including changes in interest rates and discount rates), industry and market considerations (including industry revenue and earnings before interest, taxes, depreciation and amortization (EBITDA) margin results, projections and recent merger and acquisition activity), the recent and projected financial performance of the reporting unit, as well as other factors.
+The quantitative impairment test for goodwill is performed at the reporting unit level and compares the fair value of the reporting unit (calculated using a combination of a market approach and a discounted cash flow method, as a form of the income approach) to its carrying value. Estimated fair values of reporting units are Level 3 measures in the fair value hierarchy, see "Fair Value Measurements" discussion below for additional information. The market approach includes the use of comparative multiples of guideline companies to complement discounted cash flow results. The discounted cash flow method is based on the present value of two components, projected cash flows and a terminal value. The terminal value represents the expected normalized future cash flows of the reporting unit beyond the cash flows from the discrete projection period. The fair value of the reporting unit is calculated based on the sum of the present value of the cash flows from the discrete period and the present value of the terminal value. The discount rate represents our estimate of the weighted-average cost of capital, or expected return, that a marketplace participant would have required as of the valuation date. If the carrying value exceeds the fair value, an impairment charge is booked for the excess carrying value over fair value, limited to the total amount of goodwill of that reporting unit. During the fourth quarter each year, we update our three-year strategic planning review for each of our reporting units. Those plans consider current economic conditions and trends, estimated future operating results, our view of growth-rates and anticipated future economic and regulatory conditions.
+See Note 4 for additional information regarding our goodwill impairment testing.
+63
+Table of Contents
+Intangible Assets Not Subject to Amortization
+A significant portion of our intangible assets are wireless licenses that provide our wireless operations with the exclusive right to utilize designated radio frequency spectrum to provide wireless communication services. While licenses are issued for only a fixed time, generally ten to fifteen years , such licenses are subject to renewal by the Federal Communications Commission (FCC). License renewals have occurred routinely and at nominal cost. Moreover, we have determined that there are currently no legal, regulatory, contractual, competitive, economic or other factors that limit the useful life of our wireless licenses. As a result, we treat the wireless licenses as an indefinite-lived intangible asset. We re-evaluate the useful life determination for wireless licenses each year to determine whether events and circumstances continue to support an indefinite useful life. We aggregate our wireless licenses into one single unit of accounting, as we utilize our wireless licenses on an integrated basis as part of our nationwide wireless network.
+We test our wireless licenses for potential impairment annually or more frequently if impairment indicators are present. We have the option to first perform a qualitative assessment to determine whether it is necessary to perform a quantitative impairment test. However, we may elect to bypass the qualitative assessment in any period and proceed directly to performing the quantitative impairment test. It is our policy to perform quantitative impairment assessment at least every three years.
+As part of our qualitative assessment we consider several factors including the enterprise value of our combined wireless business, macroeconomic conditions (including changes in interest rates and discount rates), industry and market considerations (including industry revenue and EBITDA margin results, projections and recent merger and acquisition activity), the recent and projected financial performance of our combined wireless business as a whole, as well as other factors including the result of our last quantitative assessment. See Note 4 for additional information regarding our impairment tests.
+Our quantitative impairment assessment consists of comparing the estimated fair value of our aggregate wireless licenses to the aggregated carrying amount as of the test date. Under our quantitative assessment, we estimate the fair value of our wireless licenses using the Greenfield approach. The Greenfield approach is an income based valuation approach that values the wireless licenses by calculating the cash flow generating potential of a hypothetical start-up company that goes into business with no assets except the wireless licenses to be valued. A discounted cash flow analysis is used to estimate what a marketplace participant would be willing to pay to purchase the aggregated wireless licenses as of the valuation date. If the estimated fair value of the aggregated wireless licenses is less than the aggregated carrying amount of the wireless licenses, then an impairment charge is recognized.
+Interest expense incurred while qualifying activities are performed to ready wireless licenses for their intended use is capitalized as part of wireless licenses. The capitalization period ends when the development is discontinued or substantially completed and the license is ready for its intended use.
+Wireless licenses can be purchased through public auctions conducted by the FCC. Deposits required to participate in these auctions and purchase licenses are recorded within Other assets in our consolidated balance sheets until the corresponding licenses are received and within Net cash used in investing activities in our consolidated statements of cash flows.
+Intangible Assets Subject to Amortization and Long-Lived Assets
+Our intangible assets that do not have indefinite lives (primarily customer lists and non-network internal-use software) are amortized over their estimated useful lives. All of our intangible assets subject to amortization and other long-lived assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of the asset may not be recoverable. If any indications of impairment are present, we would test for recoverability by comparing the carrying amount of the asset group to the net undiscounted cash flows expected to be generated from the asset group. If those net undiscounted cash flows do not exceed the carrying amount, we would perform the next step, which is to determine the fair value of the asset group and record an impairment, if any. We re-evaluate the useful life determinations for these intangible assets each year to determine whether events and circumstances warrant a revision to their remaining useful lives.
+See Note 4 for information related to the carrying amount of goodwill, wireless licenses and other intangible assets, as well as the major components and average useful lives of our other acquired intangible assets.
+Leases
+We lease network equipment including towers, distributed antenna systems, small cells, real estate, connectivity mediums which include dark fiber, equipment, and other various types of assets for use in our operations under both operating and finance leases. We assess whether an arrangement is a lease or contains a lease at inception. For arrangements considered leases or that contain a lease that is accounted for separately, we determine the classification and initial measurement of the right-of-use asset and lease liability at the lease commencement date, which is the date that the underlying asset becomes available for use.
+For both operating and finance leases, we recognize a right-of-use asset, which represents our right to use the underlying asset for the lease term, and a lease liability, which represents the present value of our obligation to make payments arising over the lease term. The present value of the lease payments is calculated using the incremental borrowing rate for operating and finance leases. The incremental borrowing rate is determined using a portfolio approach based on the rate of interest that the Company
+64
+Table of Contents
+would have to pay to borrow an amount equal to the lease payments on a collateralized basis over a similar term. Management uses the unsecured borrowing rate and risk-adjusts that rate to approximate a collateralized rate, which is updated on a quarterly basis.
+In those circumstances where Verizon is the lessee, we account for non-lease components associated with our leases (e.g., common area maintenance costs) and lease components as a single lease component for substantially all of our asset classes. Additionally, in arrangements where we are the lessor, we have customer premise equipment for which we account for non-lease components (e.g., service revenue) and lease components as combined components under the revenue recognition guidance in Topic 606 as the service revenues are the predominant components in the arrangements.
+Rent expense for operating leases is recognized on a straight-line basis over the term of the lease and is included in either Cost of services or Selling, general and administrative expense in our consolidated statements of income, based on the use of the facility or equipment on which rent is being paid. Variable rent payments related to both operating and finance leases are expensed in the period incurred. Our variable lease payments consist of payments dependent on various external indicators, including real estate taxes, common area maintenance charges and utility usage.
+Operating leases with a term of 12 months or less are not recorded in our consolidated balance sheets; we recognize rent expense for these leases on a straight-line basis over the lease term.
+We recognize the amortization of the right-of-use asset for our finance leases on a straight-line basis over the shorter of the lease term or the useful life of the right-of-use asset in Depreciation and amortization expense in our consolidated statements of income. The interest expense related to finance leases is recognized using the effective interest method based on the discount rate determined at lease commencement and is included within Interest expense in our consolidated statements of income.
+See Note 6 for additional information related to leases, including disclosure required under Topic 842.
+Fair Value Measurements
+Fair value of financial and non-financial assets and liabilities is defined as an exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants. The three-tier hierarchy for inputs used in measuring fair value, which prioritizes the inputs used in the methodologies of measuring fair value for assets and liabilities, is as follows:
+Level 1 — Quoted prices in active markets for identical assets or liabilities
+Level 2 — Observable inputs other than quoted prices in active markets for identical assets and liabilities
+Level 3 — Unobservable pricing inputs in the market
+Financial assets and financial liabilities are classified in their entirety based on the lowest level of input that is significant to the fair value measurements. Our assessment of the significance of a particular input to the fair value measurements requires judgment and may affect the valuation of the assets and liabilities being measured and their categorization within the fair value hierarchy .
+Income Taxes
+Our effective tax rate is based on pre-tax income, statutory tax rates, tax laws and regulations and tax planning strategies available to us in the various jurisdictions in which we operate.
+Deferred income taxes are provided for temporary differences in the basis between financial statement and income tax assets and liabilities. Deferred income taxes are recalculated annually at tax rates in effect for the years in which those tax assets and liabilities are expected to be realized or settled. We record valuation allowances to reduce our deferred tax assets to the amount that is more likely than not to be realized.
+We use a two-step approach for recognizing and measuring tax benefits taken or expected to be taken in a tax return. The first step is recognition: we determine whether it is more likely than not that a tax position will be sustained upon examination, including resolution of any related appeals or litigation processes, based on the technical merits of the position. In evaluating whether a tax position has met the more-likely-than-not recognition threshold, we presume that the position will be examined by the appropriate taxing authority that has full knowledge of all relevant information. The second step is measurement: a tax position that meets the more-likely-than-not recognition threshold is measured to determine the amount of benefit to recognize in the financial statements. The tax position is measured at the largest amount of benefit that is greater than 50% likely of being realized upon ultimate settlement. Differences between tax positions taken in a tax return and amounts recognized in the financial statements will generally result in one or more of the following: an increase in a liability for income taxes payable, a reduction of an income tax refund receivable, a reduction in a deferred tax asset or an increase in a deferred tax liability.
+Significant management judgment is required in evaluating our tax positions and in determining our effective tax rate.
+65
+Table of Contents
+Stock-Based Compensation
+We measure and recognize compensation expense for all stock-based compensation awards made to employees and directors based on estimated fair values. See Note 10 for additional information.
+Foreign Currency Translation and Transactions
+The functional currency of our foreign operations is generally the local currency. For these foreign entities, we translate their financial statements into U.S. dollars using average exchange rates for the period for income statement amounts and using end-of-period exchange rates for assets and liabilities. We record these translation adjustments in Accumulated other comprehensive loss, a separate component of Equity, in our consolidated balance sheets. We record exchange gains and losses resulting from the conversion of transaction currency to functional currency as a component of Other income (expense), net.
+Employee Benefit Plans
+Pension and postretirement health care and life insurance benefits earned during the year, as well as interest on projected benefit obligations, are accrued. Prior service costs and credits resulting from changes in plan benefits are generally amortized over the average remaining service period of the employees expected to receive benefits. Expected return on plan assets is determined by applying the return on assets assumption to the actual fair value of plan assets. Actuarial gains and losses are recognized in Other income (expense), net in the year in which they occur. These gains and losses are measured annually as of December 31 and upon a remeasurement event. Verizon management employees no longer earn pension benefits or earn service towards the Company retiree medical subsidy. See Note 11 for additional information.
+We recognize a pension or a postretirement plan's funded status as either an asset or liability in the consolidated balance sheets. Also, we measure any unrecognized prior service costs and credits that arise during the period as a component of Accumulated other comprehensive income (loss), net of applicable income tax.
+Derivative Instruments
+We enter into derivative transactions primarily to manage our exposure to fluctuations in foreign currency exchange rates and interest rates. We employ risk management strategies, which may include the use of a variety of derivatives including cross currency swaps, forward starting interest rate swaps, interest rate swaps, treasury rate locks, interest rate caps, swaptions and foreign exchange forwards. We do not hold derivatives for trading purposes.
+We measure all derivatives at fair value and recognize them as either assets or liabilities in our consolidated balance sheets. Our derivative instruments are valued primarily using models based on readily observable market parameters for all substantial terms of our derivative contracts and thus are classified as Level 2. Changes in the fair values of derivative instruments applied as economic hedges are recognized in earnings in the current period. For fair value hedges, the change in the fair value of the derivative instruments is recognized in earnings, along with the change in the fair value of the hedged item. Unrealized gains or losses on excluded components of fair value hedges are recorded in Other comprehensive income (loss) and are recognized into earnings on a systematic and rational basis through the swap accrual over the life of the hedged item. For cash flow hedges, the change in the fair value of the derivative instruments is reported in Other comprehensive income (loss) and recognized in earnings when the hedged item is recognized in earnings. For net investment hedges of certain of our foreign operations, the change in the fair value of the hedging instruments is reported in Other comprehensive income (loss) as part of the cumulative translation adjustment and partially offsets the impact of foreign currency changes on the value of our net investment.
+Cash flows from derivatives, which are designated as accounting hedges or applied as economic hedges, are presented consistently with the cash flow classification of the related hedged items. See Note 9 for additional information.
+Variable Interest Entities
+VIEs are entities that lack sufficient equity to permit the entity to finance its activities without additional subordinated financial support from other parties, have equity investors that do not have the ability to make significant decisions relating to the entity's operations through voting rights, do not have the obligation to absorb the expected losses, or do not have the right to receive the residual returns of the entity. We consolidate the assets and liabilities of VIEs when we are deemed to be the primary beneficiary. The primary beneficiary is the party that has the power to make the decisions that most significantly affect the economic performance of the VIE and has the obligation to absorb losses or the right to receive benefits that could potentially be significant to the VIE.
+66
+Table of Contents
+Recently Adopted Accounting Standards
+The following Accounting Standards Update (ASU) was issued by the Financial Accounting Standards Board (FASB), and has been early adopted by Verizon.
+Description Effect on Financial Statements
+ASU 2023-09, Income Taxes (Topic 740)
+In December 2023, the FASB issued this standard update which requires enhanced disclosures primarily related to rate reconciliation and income taxes paid information. The standard is effective for annual periods beginning after December 15, 2024. A prospective transition approach should be applied; however, a retrospective application is permitted. Early adoption of this standard is permitted.
+Verizon has elected to early adopt this Topic effective December 31, 2024 using a retrospective approach and included the required disclosures in our notes to the financial statements for our income taxes. This standard update did not affect our operating results.
+Note 2. Revenue and Contract Costs
+We earn revenue from contracts with customers, primarily through the provision of telecommunications and other services and through the sale of wireless equipment.
+Revenue by Category
+We have two reportable segments that we operate and manage as strategic business units, Consumer and Business. Revenue is disaggregated by products and services within Consumer, and customer groups (Enterprise and Public Sector, Business Markets and Other, and Wholesale) within Business. See Note 13 for additional information on revenue by segment, including Corporate and other.
+We also earn revenues that are not accounted for under Topic 606 from leasing arrangements (such as those for towers and equipment), captive reinsurance arrangements primarily related to wireless device insurance and the interest recognized when equipment is sold to the customer by an authorized agent under a device payment plan agreement. We have elected the practical expedient within Topic 842, to combine the lease and non-lease components for those customer arrangements under Topic 606 that involve customer premise equipment where we are the lessor. Revenues from arrangements that were not accounted for under Topic 606 were approximately $ 3.1 billion, $ 2.9 billion and $ 3.2 billion for the years ended December 31, 2024, 2023 and 2022, respectively.
+Remaining Performance Obligations
+When allocating the total contract transaction price to identified performance obligations, a portion of the total transaction price may relate to service performance obligations which were not satisfied or are partially satisfied as of the end of the reporting period. Below we disclose information relating to these unsatisfied performance obligations. We apply the practical expedient available under Topic 606 that provides the option to exclude the expected revenues arising from unsatisfied performance obligations related to contracts that have an original expected duration of one year or less. This situation primarily arises with respect to certain month-to-month service contracts. At December 31, 2024, month-to-month service contracts represented approximately 95 % of both our wireless postpaid contracts and our wireline Consumer and our Business Markets and Other contracts, compared to December 31, 2023, for which month-to-month service contracts represented approximately 95 % of our wireless postpaid contracts and 94 % of our wireline Consumer and our Business Markets and Other contracts .
+Additionally, certain contracts provide customers the option to purchase additional services. The fees related to these additional services are recognized when the customer exercises the option (typically on a month-to-month basis).
+Contracts for wireless services, with or without promotional credits that require maintenance of service, are generally either month-to-month and cancellable at any time, or considered to contain terms ranging from greater than one month to up to thirty-six months (typically under a device payment plan or a fixed-term plan). Additionally, customers may incur charges based on usage or a

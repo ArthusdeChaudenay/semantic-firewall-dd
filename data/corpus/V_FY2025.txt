@@ -1,0 +1,490 @@
+in the Company's analysis, we compared such amounts to the complete population of amounts attributable to the remaining opt-out merchants. We performed a sensitivity analysis over the Company's monetary exposure calculations, and we recalculated the amount of the ending litigation accrual. We read letters received directly from the Company's external legal counsel and internal legal counsel that discussed the Company's legal matters, including the MDL Individual Merchant Actions . We also considered relevant publicly available information.
+/s/ KPMG LLP
+We have served as the Company's auditor since 2007.
+San Francisco, California
+November 6, 2025
+58
+Table of Contents
+VISA
+CONSOLIDATED BALANCE SHEETS
+September 30,
+2025 2024
+(in millions, except per share data)
+Assets
+Cash and cash equivalents $ 17,164 $ 11,975
+Restricted cash equivalents—U.S. litigation escrow 2,990 3,089
+Investment securities 1,833 3,200
+Settlement receivable 4,191 4,454
+Accounts receivable 3,126 2,561
+Customer collateral 3,625 3,524
+Current portion of client incentives 2,158 1,918
+Prepaid expenses and other current assets 2,679 3,312
+Total current assets 37,766 34,033
+Investment securities 999 2,545
+Client incentives 5,157 4,628
+Property, equipment and technology, net 4,236 3,824
+Goodwill 19,879 18,941
+Intangible assets, net 27,646 26,889
+Other assets 3,944 3,651
+Total assets $ 99,627 $ 94,511
+Liabilities
+Accounts payable $ 555 $ 479
+Settlement payable 4,568 5,265
+Customer collateral 3,625 3,524
+Accrued compensation and benefits 1,863 1,538
+Client incentives 10,369 9,075
+Accrued liabilities 5,466 4,909
+Current maturities of debt 5,569 —
+Accrued litigation 3,033 1,727
+Total current liabilities 35,048 26,517
+Long-term debt 19,602 20,836
+Deferred tax liabilities 5,549 5,301
+Other liabilities 1,519 2,720
+Total liabilities 61,718 55,374
+Commitments and contingencies (Note 18 and Note 20)
+Equity
+Preferred stock, $ 0.0001 par value, 5 shares issued and outstanding as of September 30, 2025 and 2024
+745 1,031
+Common stock, $ 0.0001 par value:
+Class A common stock, 1,691 and 1,733 shares issued and outstanding as of September 30, 2025 and 2024, respectively
+— —
+Class B-1 and B-2 total common stock, 125 shares issued and outstanding as of September 30, 2025 and 2024
+— —
+Class C common stock, 9 and 10 shares issued and outstanding as of September 30, 2025 and 2024, respectively
+— —
+Right to recover for covered losses ( 124 ) ( 104 )
+Additional paid-in capital 21,934 21,229
+Accumulated income 15,106 17,289
+Accumulated other comprehensive income (loss):
+Investment securities 12 30
+Defined benefit pension and other postretirement plans ( 32 ) ( 16 )
+Derivative instruments ( 307 ) ( 213 )
+Foreign currency translation adjustments 575 ( 109 )
+Total accumulated other comprehensive income (loss) 248 ( 308 )
+Total equity 37,909 39,137
+Total liabilities and equity $ 99,627 $ 94,511
+See accompanying notes, which are an integral part of these consolidated financial statements.
+59
+Table of Contents
+VISA
+CONSOLIDATED STATEMENTS OF OPERATIONS
+For the Years Ended
+September 30,
+2025 2024 2023
+(in millions, except per share data)
+Net revenue $ 40,000 $ 35,926 $ 32,653
+Operating Expenses
+Personnel 6,961 6,264 5,831
+Marketing 1,684 1,560 1,341
+Network and processing 894 778 736
+Professional fees 759 635 545
+Depreciation and amortization 1,220 1,034 943
+General and administrative 1,926 1,598 1,330
+Litigation provision 2,562 462 927
+Total operating expenses 16,006 12,331 11,653
+Operating income 23,994 23,595 21,000
+Non-operating Income (Expense)
+Interest expense ( 589 ) ( 641 ) ( 644 )
+Investment income (expense) and other 789 962 681
+Total non-operating income (expense) 200 321 37
+Income before income taxes 24,194 23,916 21,037
+Income tax provision 4,136 4,173 3,764
+Net income $ 20,058 $ 19,743 $ 17,273
+Basic Earnings Per Share
+Class A common stock $ 10.22 $ 9.74 $ 8.29
+Class B-1 common stock $ 15.97 $ 15.46 $ 13.26
+Class B-2 common stock (1)
+$ 15.72 $ 15.45 $ —
+Class C common stock $ 40.87 $ 38.97 $ 33.17
+Basic Weighted-average Shares Outstanding
+Class A common stock 1,714 1,621 1,618
+Class B-1 common stock 5 148 245
+Class B-2 common stock (1)
+120 49 —
+Class C common stock 9 16 10
+Diluted Earnings Per Share
+Class A common stock $ 10.20 $ 9.73 $ 8.28
+Class B-1 common stock $ 15.95 $ 15.45 $ 13.24
+Class B-2 common stock (1)
+$ 15.70 $ 15.43 $ —
+Class C common stock $ 40.82 $ 38.92 $ 33.13
+Diluted Weighted-average Shares Outstanding
+Class A common stock 1,966 2,029 2,085
+Class B-1 common stock 5 148 245
+Class B-2 common stock (1)
+120 49 —
+Class C common stock 9 16 10
+(1) No shares of class B-2 common stock were outstanding prior to the class B-1 common stock exchange offer in May 2024. See Note 15—Stockholders' Equity for further details.
+See accompanying notes, which are an integral part of these consolidated financial statements.
+60
+Table of Contents
+VISA
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+For the Years Ended
+September 30,
+2025 2024 2023
+(in millions)
+Net income $ 20,058 $ 19,743 $ 17,273
+Other comprehensive income (loss):
+Investment securities:
+Net unrealized gain (loss) ( 23 ) 120 53
+Income tax effect 5 ( 26 ) ( 11 )
+Defined benefit pension and other postretirement plans:
+Net unrealized actuarial gain (loss) and prior service credit (cost) ( 20 ) 172 6
+Income tax effect 4 ( 40 ) —
+Reclassification adjustments — 9 10
+Income tax effect — ( 2 ) ( 2 )
+Derivative instruments:
+Net unrealized gain (loss) ( 172 ) ( 38 ) ( 126 )
+Income tax effect 36 9 24
+Reclassification adjustments 55 — 49
+Income tax effect ( 13 ) ( 7 ) ( 24 )
+Foreign currency translation adjustments:
+Translation adjustments 583 741 975
+Income tax effect 101 71 98
+Other comprehensive income (loss) 556 1,009 1,052
+Comprehensive income $ 20,614 $ 20,752 $ 18,325
+See accompanying notes, which are an integral part of these consolidated financial statements.
+61
+Table of Contents
+VISA
+CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY
+Preferred Stock Common Stock and Additional Paid-in Capital Right to Recover for Covered Losses Accumulated
+Income Accumulated
+Other
+Comprehensive
+Income (Loss)
+Total
+Equity
+Shares Amount Shares Amount
+(in millions, except per share data)
+Balance as of September 30, 2024 5 $ 1,031 (1)
+1,868 $ 21,229 $ ( 104 ) $ 17,289 $ ( 308 ) $ 39,137
+Net income
+20,058 20,058
+Other comprehensive income (loss)
+556 556
+VE territory covered losses
+( 28 ) ( 28 )
+Recovery through conversion rate adjustments
+( 8 ) 8 —
+Anniversary release (2)
+— (3)
+( 7 ) ( 7 )
+Conversions to class A common stock
+— (3)
+( 271 ) 7 271 —
+Share-based compensation
+897 897
+Stock issued under equity plans 5 396 396
+Shares withheld for taxes related to stock issued under equity plans
+( 1 ) ( 281 ) ( 281 )
+Cash dividends declared and paid, at a quarterly amount of $ 0.59 per class A common stock
+( 4,634 ) ( 4,634 )
+Repurchases of class A common stock
+( 54 ) ( 578 ) ( 17,607 ) ( 18,185 )
+Balance as of September 30, 2025 5 $ 745 (1)
+1,825 $ 21,934 $ ( 124 ) $ 15,106 $ 248 $ 37,909
+(1) As of September 30, 2025 and 2024, the book value of series A convertible participating preferred stock (series A preferred stock) was $ 513 million and $ 540 million, respectively. See Note 5—U.S. and Europe Retrospective Responsibility Plans for the book value of series B convertible participating preferred stock (series B preferred stock) and series C convertible participating preferred stock (series C preferred stock).
+(2) See Note 5—U.S. and Europe Retrospective Responsibility Plans for further details.
+(3) Increase or decrease is less than one million.
+See accompanying notes, which are an integral part of these consolidated financial statements.
+62
+Table of Contents
+VISA
+CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY—(Continued)
+Preferred Stock Common Stock and Additional Paid-in Capital Right to Recover for Covered Losses Accumulated
+Income Accumulated
+Other
+Comprehensive
+Income (Loss)
+Total
+Equity
+Shares Amount Shares Amount
+(in millions, except per share data)
+Balance as of September 30, 2023 5 $ 1,698 (1)
+1,849 $ 20,452 $ ( 140 ) $ 18,040 $ ( 1,317 ) $ 38,733
+Net income
+19,743 19,743
+Other comprehensive income (loss)
+1,009 1,009
+VE territory covered losses
+( 139 ) ( 139 )
+Recovery through conversion rate adjustments
+( 181 ) 175 ( 6 )
+Anniversary release (2)
+— (3)
+( 5 ) ( 5 )
+Conversions to class A common stock
+— (3)
+( 481 ) 151 481 —
+Class B-1 common stock exchange offer
+( 73 ) — (3)
+—
+Share-based compensation
+850 850
+Stock issued under equity plans 6 335 335
+Shares withheld for taxes related to stock issued under equity plans
+( 1 ) ( 208 ) ( 208 )
+Cash dividends declared and paid, at a quarterly amount of $ 0.52 per class A common stock
+( 4,217 ) ( 4,217 )
+Repurchases of class A common stock
+( 64 ) ( 681 ) ( 16,277 ) ( 16,958 )
+Balance as of September 30, 2024 5 $ 1,031 (1)
+1,868 $ 21,229 $ ( 104 ) $ 17,289 $ ( 308 ) $ 39,137
+(1) As of September 30, 2024 and 2023, the book value of series A preferred stock was $ 540 million and $ 456 million, respectively. See Note 5—U.S. and Europe Retrospective Responsibility Plans for the book value of series B and C preferred stock.
+(2) See Note 5—U.S. and Europe Retrospective Responsibility Plans for further details.
+(3) Increase or decrease is less than one million .
+See accompanying notes, which are an integral part of these consolidated financial statements.
+63
+Table of Contents
+VISA
+CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY—(Continued)
+Preferred Stock Common Stock and Additional Paid-in Capital Right to Recover for Covered Losses Accumulated
+Income Accumulated
+Other
+Comprehensive
+Income (Loss)
+Total
+Equity
+Shares Amount Shares Amount
+(in millions, except per share data)
+Balance as of September 30, 2022 5 $ 2,324 (1)
+1,890 $ 19,545 $ ( 35 ) $ 16,116 $ ( 2,369 ) $ 35,581
+Net income
+17,273 17,273
+Other comprehensive income (loss)
+1,052 1,052
+VE territory covered losses
+( 136 ) ( 136 )
+Recovery through conversion rate adjustments
+( 30 ) 31 1
+Conversions to class A common stock
+— (2)
+( 596 ) 10 596 —
+Share-based compensation
+765 765
+Stock issued under equity plans 5 260 260
+Shares withheld for taxes related to stock issued under equity plans
+( 1 ) ( 130 ) ( 130 )
+Cash dividends declared and paid, at a quarterly amount of $ 0.45 per class A common stock
+( 3,751 ) ( 3,751 )
+Repurchases of class A common stock
+( 55 ) ( 584 ) ( 11,598 ) ( 12,182 )
+Balance as of September 30, 2023 5 $ 1,698 (1)
+1,849 $ 20,452 $ ( 140 ) $ 18,040 $ ( 1,317 ) $ 38,733
+(1) As of September 30, 2023 and 2022, the book value of series A preferred stock was $ 456 million and $ 1.0 billion, respectively. See Note 5—U.S. and Europe Retrospective Responsibility Plans for the book value of series B and C preferred stock.
+(2) Increase or decrease is less than one million .
+See accompanying notes, which are an integral part of these consolidated financial statements.
+64
+Table of Contents
+VISA
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+For the Years Ended
+September 30,
+2025 2024 2023
+(in millions)
+Operating Activities
+Net income $ 20,058 $ 19,743 $ 17,273
+Adjustments to reconcile net income to net cash provided by (used in) operating activities:
+Client incentives 15,751 13,764 12,297
+Share-based compensation 897 850 765
+Depreciation and amortization 1,220 1,034 943
+Deferred income taxes 152 ( 100 ) ( 483 )
+VE territory covered losses ( 28 ) ( 139 ) ( 136 )
+(Gains) losses on equity investments, net 87 94 104
+Other 94 136 14
+Change in operating assets and liabilities:
+Settlement receivable 374 ( 2,175 ) ( 160 )
+Accounts receivable ( 542 ) ( 237 ) ( 250 )
+Client incentives ( 15,314 ) ( 14,067 ) ( 11,014 )
+Other assets 160 ( 199 ) ( 24 )
+Accounts payable 67 109 34
+Settlement payable ( 847 ) 1,841 ( 194 )
+Accrued and other liabilities ( 373 ) ( 676 ) 1,291
+Accrued litigation 1,303 ( 28 ) 295
+Net cash provided by (used in) operating activities 23,059 19,950 20,755
+Investing Activities
+Purchases of property, equipment and technology ( 1,482 ) ( 1,257 ) ( 1,059 )
+Purchases of investment securities — ( 4,443 ) ( 4,363 )
+Proceeds from maturities and sales of investment securities 3,024 5,013 3,160
+Acquisitions, net of cash and restricted cash acquired ( 887 ) ( 915 ) —
+Purchases of other investments ( 68 ) ( 231 ) ( 121 )
+Proceeds from settlement of derivative instruments — — 402
+Other investing activities 121 ( 93 ) ( 25 )
+Net cash provided by (used in) investing activities 708 ( 1,926 ) ( 2,006 )
+Financing Activities
+Repurchases of class A common stock ( 18,316 ) ( 16,713 ) ( 12,101 )
+Repayments of debt — — ( 2,250 )
+Dividends paid ( 4,634 ) ( 4,217 ) ( 3,751 )
+Proceeds from issuance of senior notes 3,924 — —
+Proceeds from stock issued under equity plans 396 335 260
+Taxes paid related to stock issued under equity plans ( 281 ) ( 208 ) ( 130 )
+Other financing activities ( 52 ) 170 200
+Net cash provided by (used in) financing activities ( 18,963 ) ( 20,633 ) ( 17,772 )
+Effect of exchange rate changes on cash, cash equivalents, restricted cash and restricted cash equivalents
+420 382 636
+Increase (decrease) in cash, cash equivalents, restricted cash and restricted cash equivalents
+5,224 ( 2,227 ) 1,613
+Cash, cash equivalents, restricted cash and restricted cash equivalents as of beginning of period
+19,763 21,990 20,377
+Cash, cash equivalents, restricted cash and restricted cash equivalents as of end of period
+$ 24,987 $ 19,763 $ 21,990
+Supplemental Disclosure
+Cash paid for income taxes, net (1)
+$ 4,541 $ 5,775 $ 3,433
+Interest payments on debt $ 587 $ 583 $ 617
+Accruals related to purchases of property, equipment and technology $ 59 $ 52 $ 96
+(1) For fiscal 2025, the amount includes $ 1.9 billion of cash paid for federal transferable tax credits.
+See accompanying notes, which are an integral part of these consolidated financial statements.
+65
+Table of Contents
+VISA
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+September 30, 2025
+Note 1—Summary of Significant Accounting Policies
+Organization . Visa Inc. (Visa or the Company) is a global payments technology company that facilitates secure, reliable and efficient global commerce and money movement. Visa provides transaction processing services (primarily authorization, clearing and settlement) among consumers, issuing and acquiring financial institutions and sellers through its electronic payments network, VisaNet. Visa is focused on extending, enhancing and investing in its proprietary advanced transaction processing network, VisaNet, to offer a single connection point for facilitating money movement to multiple endpoints through various form factors and innovative technologies across more than 200 countries and territories. Visa is not a financial institution and does not issue cards, extend credit or set rates and fees for account holders of Visa products. In most cases, account holder and seller relationships belong to, and are managed by, Visa's financial institution clients.
+Consolidation and basis of presentation. The consolidated financial statements include the accounts of Visa and its consolidated entities and are presented in accordance with accounting principles generally accepted in the United States of America (GAAP). The Company consolidates entities for which it has a controlling financial interest, as well as variable interest entities (VIEs) for which the Company is the primary beneficiary. The Company's investments in VIEs have not been material to its consolidated financial statements as of and for the periods presented. Intercompany balances and transactions have been eliminated in consolidation.
+Use of estimates. The preparation of consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions about future events. These estimates and assumptions affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and reported amounts of revenue and expenses during the reporting period. These estimates may change as new events occur and additional information is obtained, and will be recognized in the period in which such changes occur. Future actual results could differ materially from these estimates. The use of estimates in specific accounting policies is described further below as appropriate.
+Cash, cash equivalents, restricted cash and restricted cash equivalents . Cash and cash equivalents include cash and certain highly liquid investments with original maturities of 90 days or less from the date of purchase. Cash equivalents are primarily recorded at cost, which approximates fair value due to their generally short maturities. The Company defines restricted cash and restricted cash equivalents as cash and cash equivalents that cannot be withdrawn or used for general operating activities. See Note 4—Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents.
+Restricted cash equivalents—U.S. litigation escrow . The Company maintains an escrow account from which monetary liabilities from settlements of, or judgments in, the U.S. covered litigation are paid. See Note 5—U.S. and Europe Retrospective Responsibility Plans and Note 20—Legal Matters for a discussion of the U.S. covered litigation. The escrow funds are held in money market investments, and are classified as restricted cash equivalents on the consolidated balance sheets. Interest earned on the escrow funds is recorded in investment income (expense) and other on the consolidated statements of operations.
+Fair value. The Company measures certain financial assets and liabilities at fair value on a recurring basis. Certain non-financial assets such as goodwill, intangible assets and property, equipment and technology are subject to nonrecurring fair value measurements if they are deemed to be impaired. Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. Fair value measurements are reported under a three-level valuation hierarchy. See Note 6—Fair Value Measurements and Investments.
+Available-for-sale debt securities. The Company's investments in debt securities, which are classified as available-for-sale and recorded in investment securities or cash and cash equivalents on the consolidated balance sheets, include U.S. government-sponsored debt securities and U.S. Treasury securities. These securities are recorded at cost at the time of purchase and are carried at fair value. The Company considers these securities to be available-for-sale to meet working capital and liquidity needs. Investments with stated maturities of less than one year from the balance sheet date, or investments that the Company intends to sell within one year, are classified as current assets, while all other securities are classified as non-current assets. Unrealized gains and losses are recorded in other comprehensive income (loss). The specific identification method is used to calculate realized gain or loss on the sale of securities, which is recorded in investment income (expense) and other on the consolidated
+66
+Table of Contents
+statements of operations. Interest income is recognized when earned and is included in investment income (expense) and other on the consolidated statements of operations.
+The Company evaluates its debt securities for impairment on an ongoing basis. When there has been a decline in fair value of a debt security below the amortized cost basis, the Company recognizes an impairment in investment income (expense) and other on the consolidated statements of operations if it has the intent to sell the security or it is more likely than not that the Company will be required to sell the security before recovery of the amortized cost basis. In addition, if the Company identifies that the decline in fair value has resulted from credit losses, the credit loss component is recognized a s an allowance on the consolidated balance sheets and in investment income (expense) and other on the consolidated statements of operations. The non-credit loss component remains in accumulated other comprehensive income (loss) until realized from a sale or subsequent impairment.
+Marketable equity securities. Marketable equity securities, which are recorded in investment securities on the consolidated balance sheets, include investments in publicly traded companies as well as mutual fund investments related to various employee compensation and benefit plans. Dividend income as well as gains and losses from changes in fair value are recognized in investment income (expense) and other on the consolidated statements of operations.
+Trading activity in the mutual fund investments is at the direction of the Company's employees. These investments are held in a trust and are not considered by the Company to be available for its operational or liquidity needs. The corresponding liability is recorded in accrued liabilities on the consolidated balance sheets, with changes in the liability recognized in personnel expense on the consolidated statements of operations.
+Non-marketable equity securities. The Company's non-marketable equity securities, which are recorded in other assets on the consolidated balance sheets, include investments in privately held entities without readily determinable fair values. All gains and losses on non-marketable equity securities are recorded in investment income (expense) and other on the consolidated statements of operations.
+The Company applies the equity method of accounting when it does not have control but has the ability to exercise significant influence over the entity. Under the equity method, the Company's share of each entity's profit or loss is recorded in investment income (expense) and other on the consolidated statements of operations.
+The Company applies the fair value measurement alternative for equity securities in certain other entities when it has neither control nor the ability to exercise significant influence over the entity. The Company adjusts the carrying value of these equity securities to fair value when orderly transactions for identical or similar investments of the same issuer are observable.
+The Company regularly reviews investments accounted for under the equity method and the fair value measurement alternative for possible impairment, which generally involves an analysis of the facts and changes in circumstances influencing the investment, expectations of the entity's cash flows and capital needs, and the viability of its business model.
+Financial instruments . The Company considers the following to be financial instruments: cash, cash equivalents, restricted cash, restricted cash equivalents, investment securities, settlement receivable and payable, accounts receivable and payable, customer collateral, non-marketable equity securities, derivative instruments and debt. See Note 6—Fair Value Measurements and Investments.
+Settlement receivable and payable . The Company operates systems for authorizing, clearing and settling payment transactions worldwide. Most U.S. dollar settlements with the Company's financial institution clients are settled within the same day and do not result in a receivable or payable balance. Settlements in currencies other than the U.S. dollar generally remain outstanding for one to two business days, resulting in amounts due from and to clients. These amounts are presented as settlement receivable and settlement payable on the consolidated balance sheets.
+Guarantees and indemnifications . The Company recognizes an obligation at inception for guarantees and indemnifications that qualify for recognition, regardless of the probability of occurrence. The Company indemnifies its financial institution clients for settlement losses suffered due to the failure of any other client to fund its settlement obligations in accordance with the Visa operating rules. See Note 12—Settlement Guarantee Management. The
+67
+Table of Contents
+Company estimates expected credit losses and recognizes an allowance for those credit losses related to its settlement guarantee obligations. The estimated fair value of the liability for settlement guarantee is not material.
+Customer collateral . The Company has cash deposits and other non-cash assets from certain clients in order to ensure that their performance of settlement obligations arising from Visa payment services are processed in accordance with the Visa operating rules. The cash collateral assets held by the Company are restricted and fully offset by corresponding liabilities, and both balances are presented on the consolidated balance sheets. Other non-cash assets are not recorded on the consolidated balance sheets. See Note 12—Settlement Guarantee Management.
+Property, equipment and technology, net . Property, equipment and technology are recorded at historical cost less accumulated depreciation and amortization. Depreciation and amortization commence once the asset is ready for its intended use, and is computed on a straight-line basis over the asset's estimated useful life. Depreciation and amortization of technology, furniture, fixtures and equipment are computed over estimated useful lives ranging from 2 to 10 years. Leasehold improvements are depreciated over the shorter of the useful life of the asset or lease term. Building improvements are depreciated between 3 and 40 years, and buildings are depreciated over 40 years. Improvements that increase functionality of the asset are capitalized and depreciated over the asset's remaining useful life.
+Technology includes purchased and internally developed software, as well as technology assets obtained through acquisitions. Internal and external costs incurred during the preliminary project stage are expensed as incurred. Qualifying costs incurred during the application development stage are capitalized. Once the project is substantially complete and ready for its intended use these costs are amortized on a straight-line basis over the technology's estimated useful life. Acquired technology assets are initially recorded at fair value and are amortized on a straight-line basis over the estimated useful life.
+The Company evaluates long-lived assets for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset or asset group may not be recoverable. If the sum of expected undiscounted net future cash flows is less than the carrying amount of an asset or asset group, an impairment loss is recognized to the extent that the carrying amount of the asset or asset group exceeds its fair value. See Note 7—Property, Equipment and Technology, Net .
+Leases . The Company determines whether an arrangement is or contains a lease at its inception. Right-of-use (ROU) assets and the corresponding lease liabilities are recognized at the lease commencement date, based on the present value of remaining lease payments over the lease term. For this purpose, the Company considers only payments that are fixed and determinable at the time of lease commencement. As the majority of the Company's leases do not provide an implicit rate, the Company uses its incremental borrowing rate at the lease commencement date in determining the present value of remaining lease payments. The ROU asset also includes any lease payments made prior to lease commencement and is recorded net of any lease incentives received. The lease term may include options to extend or terminate the lease when it is reasonably certain that the Company will exercise such options. The Company does not record an ROU asset and the corresponding liability for leases with a lease term of 12 months or less.
+Lease agreements generally contain both lease and non-lease components. Non-lease components primarily include payments for maintenance and utilities. The Company does not combine lease components with non-lease components for any of its leases. ROU assets are included in other assets on the consolidated balance sheets. The current portion of lease liabilities is included in accrued liabilities, and the long-term portion is included in other liabilities on the consolidated balance sheets. The Company's lease cost is primarily included in general and administrative expense on the consolidated statements of operations and consists of amounts recognized under lease agreements, adjusted for impairment and sublease income. See Note 9—Leases.
+Business combinations . The Company accounts for business combinations using the acquisition method and accordingly, the identifiable assets acquired, the liabilities assumed, and any noncontrolling interests in the acquiree are generally recognized at their acquisition date fair values. The excess of the purchase price consideration over the fair value of the net assets acquired, including identifiable intangible assets, is recorded as goodwill. Acquisition-related costs are expensed in the periods in which the costs are incurred. See Note 2—Acquisitions .
+Intangible assets, net and goodwill . The Company records identifiable intangible assets at fair value on the date of acquisition and evaluates the useful life of each intangible asset.
+68
+Table of Contents
+Finite-lived intangible assets primarily consist of customer relationships obtained through acquisitions. Finite-lived intangible assets are amortized on a straight-line basis and are evaluated for impairment if events or changes in circumstances indicate that their carrying amounts may not be recoverable. These intangible assets have useful lives ranging from 5 to 15 years.
+Indefinite-lived intangible assets consist of the Visa trade name, customer relationships and reacquired rights. Intangible assets with indefinite useful lives are not amortized but are evaluated for impairment annually or more frequently if events or changes in circumstances indicate that an impairment may exist. The Company first assesses qualitative factors to determine whether it is necessary to perform a quantitative impairment test for indefinite-lived intangible assets. The Company assesses each category of indefinite-lived intangible assets for impairment on an aggregate basis. Impairment exists if the fair value of the indefinite-lived intangible asset is less than its carrying value.
+Goodwill represents the excess of the purchase price over the fair value of the net assets acquired in a business combination. Goodwill is not amortized but is evaluated for impairment at the reporting unit level annually or more frequently if events or changes in circumstances indicate that an impairment may exist.
+The Company performed its annual impairment reviews of indefinite-lived intangible assets and goodwill as of February 1, 2025, and concluded there was no impairment as of that date. No recent events or changes in circumstances indicated that an impairment existed as of September 30, 2025. See Note 8—Intangible Assets and Goodwill .
+Accrued litigation . The Company evaluates the likelihood of an unfavorable outcome in legal or regulatory proceedings to which it is a party and records a loss contingency when it is probable that a liability has been incurred and the amount of the loss can be reasonably estimated. These judgments are inherently subjective and based on a number of factors, including the specifics of such legal or regulatory proceedings, the merits of the Company's defenses and consultation with internal and external legal counsel. Actual outcomes of these legal and regulatory proceedings may differ materially from the Company's estimates. These loss contingencies are recorded in litigation provision on the consolidated statements of operations. The Company expenses legal costs as incurred in professional fees on the consolidated statements of operations. See Note 20—Legal Matters.
+Revenue recognition . The Company's net revenue is comprised principally of the following categories: service revenue, data processing revenue, international transaction revenue, and other revenue, reduced by client incentives. As a payments network service provider, the Company's obligation to the customer is to stand ready to provide continuous access to Visa's payments network over the contractual term, facilitate the processing of payment transactions, including authorization, clearing and settlement, and deliver related products and services. The Company delivers its payments network services directly to issuers and acquirers, who, in turn, provide those services to others within the payments network: sellers and consumers. The Company considers all parties in Visa's payments network as customers, and earns net revenue primarily from issuers and acquirers. Consideration is variable, based primarily on the amount and type of transactions and payments volume on Visa's products. The transaction price for each specific service is reported net of discounts attributable to individual services or fees. The Company recognizes revenue, net of sales and other similar taxes, as the payments network services are performed, in an amount that reflects the consideration the Company expects to receive in exchange for those services. The Company has elected the optional exemption to not disclose the remaining performance obligations related to payments network services and other performance obligations that are constrained by, and dependent upon, the future performance of its clients, which are variable in nature.
+The Company's value-added services consist of Issuing Solutions, Acceptance Solutions, Risk and Security Solutions, and Advisory and Other Services. These services may be offered in combination with the Company's payments network services or independently as standalone products. The Company earns revenue from its Value-added Services through fixed or transaction-based fees, and recognizes revenue, net of sales and other similar taxes, as these value-added services are performed.
+For revenue generated from arrangements that involve third parties, the Company assesses whether it is the principal, and recognizes revenue on a gross basis, or the agent, and recognizes revenue on a net basis. In making this assessment, the Company considers whether it obtains the control of the specified services before they are transferred to the customer, or it is arranging for the services to be provided.
+69
+Table of Contents
+Service revenue consists mainly of revenue earned for services provided in support of client usage of Visa's payment services. This revenue includes fees related to payments volume. Visa's obligation is to stand ready to provide continuous access to Visa's payments network and related services with respect to Visa-branded payments programs. In addition, it consists of value-added services related to certain Issuing Solutions. Service revenue for the current quarter is primarily calculated by applying the current quarter's pricing to the prior quarter's payments volume.
+Data processing revenue consists of revenue earned for authorization, clearing and settlement; value-added services primarily related to Acceptance Solutions, Risk and Security Solutions and certain Issuing Solutions; network access; and other maintenance and support services that facilitate transaction and information processing among the Company's clients globally. Data processing revenue is recognized in the same period in which the related transactions occur or the services are performed.
+International transaction revenue is earned for cross-border transaction processing and currency conversion activities. Cross-border transactions arise when the country of origin of the issuer or financial institution originating the transaction is different from that of the beneficiary. International transaction revenue is recognized in the same period in which the related transactions occur or the services are performed.
+Other revenue consists mainly of value-added services primarily related to Advisory and Other Services and certain Issuing Solutions; license fees for use of the Visa brand or technology; and fees for account holder services, certification and licensing. Other revenue is recognized in the same period in which the related transactions occur or the services are performed.
+Client incentives. The Company enters into long-term incentive contracts with financial institution clients, sellers, and other business partners for various programs that provide cash and other incentives designed to increase revenue by growing payments volume, increasing Visa product acceptance, encouraging seller acceptance and use of Visa's payment services and driving innovation. These incentives are classified as reductions to net revenue within client incentives, unless the incentive is a payment made in exchange for a distinct good or service provided by the customer, in which case the payment is classified as operating expenses. The Company generally capitalizes upfront and fixed incentive payments under these contracts as client incentives assets when paid, and amortizes the amounts as reductions to net revenue ratably over the contractual term. Incentives that are earned by the customer based on performance targets are recorded as reductions to net revenue when earned, based on management's estimate of each client's future performance, and the unpaid portion is recognized as client incentives liabilities. These accruals are regularly reviewed and estimates of performance are adjusted, as appropriate, based on changes in performance expectations, actual client performance, amendments to existing contracts or the execution of new contracts. Client incentives assets and liabilities are classified on the consolidated balance sheets as current or long-term based on a 12-month operating cycle.
+Marketing. The Company expenses the costs of producing advertising as incurred during production. The cost of media is expensed when the advertising takes place. Sponsorship costs are recognized over the periods in which the Company benefits from the sponsorship rights. Promotional costs are expensed as incurred, when the related services are received, or when the related events occur.
+Income taxes . The Company accounts for income taxes using the asset and liability method. Deferred tax assets and liabilities are recognized to reflect the future tax consequences attributable to temporary differences between the financial statement carrying amounts and the respective tax basis of existing assets and liabilities, and operating loss and credit carryforwards. Deferred tax assets and liabilities are measured using enacted tax laws and rates expected to be applied to taxable income in the periods in which those temporary differences are expected to be recovered or settled. In assessing whether deferred tax assets are realizable, management considers whether it is more likely than not that some portion or all of the deferred tax assets will not be realized. A valuation allowance is recorded for the portions that are not expected to be realized based on the level of historical taxable income, projections of future taxable income over the periods in which the temporary differences are deductible, and qualifying tax planning strategies.
+Where interpretation of the tax law may be uncertain, the Company recognizes, measures and discloses income tax uncertainties. The Company accounts for interest expenses and penalties, if any, related to uncertain tax positions in interest expense and investment income (expense) and other, respectively, on the consolidated statements of operations. See Note 19—Income Taxes .
+70
+Table of Contents
+Foreign currency remeasurement and translation . The Company's functional currency is the U.S. dollar for the majority of its foreign operations except for Visa Europe Limited (Visa Europe) whose functional currency is the Euro. Transactions denominated in currencies other than the applicable functional currency are converted to the functional currency at the exchange rate on the transaction date. At period end, monetary assets and liabilities are remeasured to the functional currency using exchange rates in effect at the balance sheet dates. Nonmonetary assets and liabilities are remeasured at historical exchange rates. Resulting foreign currency transaction gains and losses related to conversion and remeasurement are recorded in general and administrative expense on the consolidated statements of operations and were not material for fiscal 2025, 2024 and 2023.
+When the functional currency is not the U.S. dollar, translation from that functional currency to the U.S. dollar is performed for balance sheet accounts using exchange rates in effect at the balance sheet dates and for revenue and expense accounts using an average exchange rate for the period. Resulting translation adjustments are recorded as a component of accumulated other comprehensive income (loss) on the consolidated balance sheets.
+Derivative and hedging instruments . Derivatives are carried at fair value on a gross basis on the consolidated balance sheets. The Company utilizes foreign exchange forward contracts to hedge against foreign currency exchange rate fluctuations related to certain monetary assets and liabilities denominated in foreign currencies. Gains and losses resulting from changes in the fair value of these derivative instruments not designated for hedge accounting are recorded in general and administrative expense on the consolidated statements of operations.
+The Company also uses foreign exchange forward contracts, which are designated as cash flow hedges, to reduce its exposure to foreign currency rate changes on forecasted non-functional currency denominated operational cash flows. The terms of these derivative instruments are generally no more than 12 months. The Company uses regression analysis to assess hedge effectiveness prospectively and retrospectively. The effectiveness tests are performed on foreign exchange forward contracts based on changes in the spot rate of the derivative instrument compared to changes in the spot rate of the forecasted hedged transaction. Forward points are excluded from effectiveness testing purposes and are recognized in earnings. Gains and losses resulting from changes in the fair value of derivative instruments designated as cash flow hedges are recorded in other comprehensive income (loss). When the forecasted transaction occurs and is recognized in earnings, the amount in accumulated other comprehensive income (loss) related to that hedge is reclassified to the consolidated statements of operations in the corresponding line item where revenue or expense is recorded. Derivative instruments designated as cash flow hedges are subject to master netting agreements, which provide the Company with a legal right to net settle multiple payable and receivable positions with the same counterparty, in a single currency through a single payment. However, the Company presents fair value on a gross basis on the consolidated balance sheets.
+The Company designated its Euro-denominated senior notes, a non-derivative financial instrument, as net investment hedges against a portion of the Company's Euro-denominated net investment in Visa Europe. The Company also holds interest rate and cross-currency swap agreements on a portion of the outstanding senior notes that allows the Company to manage its interest rate exposure through a combination of fixed and floating rates. The Company designated the interest rate swap agreements as fair value hedges and the cross-currency swap agreements as net investment hedges. Gains and losses related to hedging instruments designated as fair value hedges, along with corresponding losses or gains related to the change in the fair value of the underlying hedged item, are recorded in interest expense on the consolidated statements of operations. Gains and losses related to derivative and non-derivative hedging instruments designated as net investment hedges are recorded in other comprehensive income (loss).
+Cash flows associated with derivatives designated as a cash flow hedge are classified as an operating activity on the consolidated statements of cash flows. Cash flows associated with derivatives designated as a fair value hedge or a net investment hedge are classified as an investing activity. Cash flows associated with derivatives not designated as a hedging instrument are classified as an operating activity. See Note 13—Derivative and Hedging Instruments .
+Share-based compensation . The Company measures share-based compensation cost at the grant date, net of estimated forfeitures, based on the estimated fair value of the award. The Company recognizes compensation cost for awards with only service conditions on a straight-line basis over the requisite service period, which is generally the vesting period. Compensation cost for performance awards is recognized on a graded-vesting basis. The amount is initially estimated based on target performance and is adjusted as appropriate based on management's best estimate throughout the performance period. See Note 17—Share-based Compensation.
+71
+Table of Contents
+Earnings per share . The Company calculates earnings per share using the two-class method to reflect the different rights of each class of outstanding common stock and participating securities.
+Basic earnings per share is computed by dividing net income available to each class of shares by the weighted-average number of shares of common stock and participating securities outstanding during the period. Participating securities include the Company's series A, B and C preferred stock and restricted stock units (RSUs) that contain non-forfeitable rights to dividends or dividend equivalents. Net income is allocated to each class of common stock and participating securities based on its proportional ownership on an as-converted basis. The weighted-average number of shares outstanding of each class of common stock reflects changes in ownership over the periods presented. See Note 15—Stockholders' Equity .
+Diluted earnings per share is computed by dividing net income available to each class of shares by the weighted-average number of shares of common stock outstanding, participating securities outstanding and, if dilutive, potential class A common stock equivalent shares outstanding during the period. Dilutive class A common stock equivalents may consist of: (1) shares of class A common stock issuable upon the conversion of series A, B and C preferred stock and class B-1, B-2 and C common stock based on the conversion rates in effect through the period, and (2) incremental shares of class A common stock calculated by applying the treasury stock method to the assumed exercise of employee stock options, the assumed purchase of stock under the Company's employee stock purchase plan and the assumed vesting of unearned performance shares. See Note 16—Earnings Per Share.
+Recently adopted accounting pronouncement. In November 2023, the Financial Accounting Standards Board issued Accounting Standards Update 2023-07, which is intended to improve reportable segment disclosure requirements, primarily through enhanced disclosures about significant segment expenses. This standard also enhances interim disclosure requirements and provides new segment disclosure requirements for entities with a single reportable segment. The Company adopted this standard in fiscal 2025, which resulted in additional disclosures. See Note 14—Segment Information.
+Note 2—Acquisitions
+Fiscal 2025 Acquisition
+In December 2024, Visa acquired Featurespace Limited, a developer of real-time artificial intelligence payments protection technology that helps prevent and mitigate payments fraud and financial crime risks, for a purchase consideration of $ 946 million. The Company allocated $ 152 million of the purchase consideration to technology, customer relationships, other net assets acquired and deferred tax liabilities and the remaining $ 794 million to goodwill.
+Fiscal 2024 Acquisition
+In January 2024, Visa acquired Pismo Holdings, a global cloud-native issuer processing and core banking platform, for a purchase consideration of $ 929 million. The Company allocated $ 139 million of the purchase consideration to technology, customer relationships, other net assets acquired and deferred tax liabilities and the remaining $ 790 million to goodwill.
+Note 3—Revenue
+The nature, amount, timing and uncertainty of the Company's revenue and cash flows and how they are affected by economic factors are most appropriately depicted through the Company's revenue categories and
+72
+Table of Contents
+geographical markets. The following tables disaggregate the Company's net revenue by revenue category and by geography:
+For the Years Ended
+September 30,
+2025 2024 2023
+(in millions)
+Service revenue
+$ 17,539 $ 16,114 $ 14,826
+Data processing revenue
+19,993 17,714 16,007
+International transaction revenue
+14,166 12,665 11,638
+Other revenue
+4,053 3,197 2,479
+Client incentives ( 15,751 ) ( 13,764 ) ( 12,297 )
+Net revenue
+$ 40,000 $ 35,926 $ 32,653
+For the Years Ended
+September 30,
+2025 2024 2023
+(in millions)
+U.S. $ 15,633 $ 14,780 $ 14,138
+International 24,367 21,146 18,515
+Net revenue
+$ 40,000 $ 35,926 $ 32,653
+For fiscal 2025, 2024, and 2023, revenue from value-added services was $ 10.9 billion, $ 8.8 billion and $ 7.2 billion, respectively. Revenue from Value-added Services is recognized within data processing, other and service revenue.
+Remaining performance obligations are comprised of deferred revenue and contract revenue that will be invoiced and recognized as revenue in future periods primarily related to value-added services. As of September 30, 2025, the remaining performance obligations were $ 4.9 billion. The Company expects approximately half to be recognized as revenue in the next two years and the remaining thereafter. However, the amount and timing of revenue recognition is affected by several factors, including contract modifications and terminations, which could impact the estimate of amounts allocated to remaining performance obligations and when such revenue could be recognized.
+Note 4—Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents
+The Company reconciles cash, cash equivalents, restricted cash and restricted cash equivalents reported on the consolidated balance sheets that aggregate to the beginning and ending balances shown in the consolidated statements of cash flows as follows:
+September 30,
+2025 2024
+(in millions)
+Cash and cash equivalents $ 17,164 $ 11,975
+Restricted cash and restricted cash equivalents:
+U.S. litigation escrow 2,990 3,089
+Customer collateral 3,625 3,524
+Prepaid expenses and other current assets 1,208 1,175
+Cash, cash equivalents, restricted cash and restricted cash equivalents $ 24,987 $ 19,763
+Prepaid expenses and other current assets include restricted cash and restricted cash equivalents primarily related to funds held by the Company on behalf of clients in segregated bank accounts that generally cannot be
+73
+Table of Contents
+withdrawn or used for general operating activities. These amounts are offset by corresponding liabilities recorded in accrued liabilities on the Company's consolidated balance sheets.
+Note 5—U.S. and Europe Retrospective Responsibility Plans
+U.S. Retrospective Responsibility Plan
+The Company has established several related mechanisms designed to address potential liability under certain litigation (U.S. covered litigation). These mechanisms are included in and referred to as the U.S. retrospective responsibility plan and consist of a U.S. litigation escrow agreement, the conversion feature of the Company's shares of class B common stock, the makewhole agreements relating to the class B-1 common stock exchange offer, the indemnification obligations of the Visa U.S.A. Inc. (Visa U.S.A.) members, an interchange judgment sharing agreement, a loss sharing agreement and an omnibus agreement, as amended.
+U.S. covered litigation consists of a number of matters that have been settled or otherwise fully or substantially resolved, as well as the following:
+the Interchange Multidistrict Litigation . In re Payment Card Interchange Fee and Merchant Discount Antitrust Litigation, 1:05-md-01720-JG-JO (E.D.N.Y.) or MDL 1720, including all cases currently included in MDL 1720, any other case that includes claims for damages relating to the period prior to the Company's initial public offering (IPO) that has been or is transferred for coordinated or consolidated pre-trial proceedings at any time to MDL 1720 by the Judicial Panel on Multidistrict Litigation or otherwise included at any time in MDL 1720 by order of any court of competent jurisdiction;
+any claim that challenges the reorganization or the consummation thereof; provided that such claim is transferred for coordinated or consolidated pre-trial proceedings at any time to MDL 1720 by the Judicial Panel on Multidistrict Litigation or otherwise included at any time in MDL 1720 by order of any court of competent jurisdiction; and
+any case brought after October 22, 2015 by a merchant that opted out of the Rule 23(b)(3) settlement class in MDL 1720 that arises out of facts or circumstances substantially similar to those alleged in MDL 1720 and that is not transferred to or otherwise included in MDL 1720. See Note 20—Legal Matters .
+U.S. litigation escrow agreement. In accordance with the U.S. litigation escrow agreement, the Company maintains an escrow account, from which settlements of, or judgments in, the U.S. covered litigation are paid. The decision to add funds to the escrow account is made by the board of directors, upon request by the Company's litigation committee, all members of which are affiliated with, or act for, certain Visa U.S.A. members. The accrual related to the U.S. covered litigation could be either higher or lower than the U.S. litigation escrow account balance. See Note 20—Legal Matters .
+The following table presents the changes in the U.S. litigation escrow account:
+For the Years Ended
+September 30,
+2025 2024
+(in millions)
+Balance as of beginning of period $ 3,089 $ 1,764
+Deposits into the U.S. litigation escrow account 875 1,500
+Payments to opt-out merchants (1) , net of interest earned on escrow funds
+( 974 ) ( 175 )
+Balance as of end of period $ 2,990 $ 3,089
+(1) These payments are associated with the interchange multidistrict litigation. See Note 20—Legal Matters .
+Conversion feature. Under the terms of the plan, when the Company funds the U.S. litigation escrow account, the value of the Company's class B-1 and B-2 common stock is subject to dilution through a downward adjustment to the rate at which shares of class B-1 and B-2 common stock ultimately convert into shares of class A common stock. This has the same economic effect on earnings per share as repurchasing the Company's class A common
+74
+Table of Contents
+stock because it reduces the class B conversion rate and consequently, reduces the as-converted class A common stock share count with each deposit amount. See Note 15—Stockholders' Equity .
+Makewhole agreements. As a condition to participating in the class B-1 common stock exchange offer, each participating shareholder, together with its respective parent guarantors (as applicable), entered into a separate makewhole agreement with Visa pursuant to which the holder agreed to reimburse Visa in cash for the portion of certain future deposits into the U.S. litigation escrow account that, but for the holder's participation in the exchange offer, would have been absorbed by such holder through a reduction in the class B-1 conversion rate in respect of the class B-1 common stock it tendered in the exchange offer. Payments under the makewhole agreements arise when, as a result of a deposit into the U.S. litigation escrow account, the as-converted value of the class B-2 common stock a holder received in the exchange offer becomes or is already less than zero, but the class B-1 conversion rate remains greater than or equal to zero. No additional payment obligations will arise under the makewhole agreements after the class B-1 conversion rate reaches zero. See Note 15—Stockholders' Equity .
+Indemnification obligations . To the extent that amounts available under the U.S. litigation escrow arrangement and other agreements in the plan are insufficient to fully resolve the U.S. covered litigation, the Company will use commercially reasonable efforts to enforce the indemnification obligations of Visa U.S.A.'s members for such excess amounts, including but not limited to enforcing indemnification obligations pursuant to Visa U.S.A.'s certificate of incorporation and bylaws and in accordance with their membership agreements.
+Interchange judgment sharing agreement. Visa U.S.A. and Visa International Service Association (Visa International) have entered into an interchange judgment sharing agreement with certain Visa U.S.A. members that have been named as defendants in the interchange multidistrict litigation, which is described in Note 20—Legal Matters . Under this judgment sharing agreement, Visa U.S.A. members that are signatories will pay their membership proportion of the amount of a final judgment not allocated to the conduct of Mastercard.
+Loss sharing agreement. Visa has entered into a loss sharing agreement with Visa U.S.A., Visa International and certain Visa U.S.A. members. The loss sharing agreement provides for the indemnification of Visa U.S.A., Visa International and, in certain circumstances, Visa with respect to: (i) the amount of a final judgment paid by Visa U.S.A. or Visa International in the U.S. covered litigation after the operation of the U.S. litigation escrow arrangement, conversion feature of the Company's class B common stock and interchange judgment sharing agreement, plus any amounts reimbursable to the interchange judgment sharing agreement signatories; or (ii) the damages portion of a settlement of a U.S. covered litigation that is approved as required under Visa U.S.A.'s certificate of incorporation by the vote of Visa U.S.A.'s specified voting members. The several obligation of each bank that is a party to the loss sharing agreement will equal the amount of any final judgment enforceable against Visa U.S.A., Visa International or any other signatory to the interchange judgment sharing agreement, or the amount of any approved settlement of a U.S. covered litigation, multiplied by such bank's then-current membership proportion as calculated in accordance with Visa U.S.A.'s certificate of incorporation.
+On October 22, 2015, Visa entered into an amendment to the loss sharing agreement. The amendment includes within the scope of U.S. covered litigation any action brought after the amendment by an opt-out from the Rule 23(b)(3) Settlement Class in MDL 1720 that arises out of facts or circumstances substantially similar to those alleged in MDL 1720 and that is not transferred to or otherwise included in MDL 1720. On the same date, Visa entered into amendments to the interchange judgment sharing agreement and omnibus agreement that include any such action within the scope of those agreements as well.
+Omnibus agreement. Visa entered into an omnibus agreement with Mastercard and certain Visa U.S.A. members that confirmed and memorialized the signatories' intentions with respect to the loss sharing agreement, the interchange judgment sharing agreement and other agreements relating to the interchange multidistrict litigation, see Note 20—Legal Matters. Under the omnibus agreement, the monetary portion of any settlement of the interchange multidistrict litigation covered by the omnibus agreement would be divided into a Mastercard portion at 33.3333 % and a Visa portion at 66.6667 %. In addition, the monetary portion of any judgment assigned to Visa-related claims in accordance with the omnibus agreement would be treated as a Visa portion. Visa would have no liabili

@@ -1,0 +1,129 @@
+{
+  "tickers": 62,
+  "filings_available": 116,
+  "drops": [
+    {
+      "doc": "IBM_FY2025",
+      "sector": "Technology",
+      "reason": "no declared reporting scale in the statement section"
+    },
+    {
+      "doc": "IBM_FY2024",
+      "sector": "Technology",
+      "reason": "no declared reporting scale in the statement section"
+    },
+    {
+      "doc": "JPM",
+      "sector": "-",
+      "reason": "only 1 10-K filing(s) in the recent window, 2 requested"
+    },
+    {
+      "doc": "BAC",
+      "sector": "-",
+      "reason": "only 1 10-K filing(s) in the recent window, 2 requested"
+    },
+    {
+      "doc": "C",
+      "sector": "-",
+      "reason": "only 1 10-K filing(s) in the recent window, 2 requested"
+    },
+    {
+      "doc": "MS",
+      "sector": "-",
+      "reason": "only 1 10-K filing(s) in the recent window, 2 requested"
+    },
+    {
+      "doc": "WFC",
+      "sector": "-",
+      "reason": "only 1 10-K filing(s) in the recent window, 2 requested"
+    },
+    {
+      "doc": "GS",
+      "sector": "-",
+      "reason": "only 1 10-K filing(s) in the recent window, 2 requested"
+    },
+    {
+      "doc": "AXP_FY2025",
+      "sector": "Payments",
+      "reason": "no declared reporting scale in the statement section"
+    },
+    {
+      "doc": "AXP_FY2024",
+      "sector": "Payments",
+      "reason": "no declared reporting scale in the statement section"
+    },
+    {
+      "doc": "PFE_FY2025",
+      "sector": "Healthcare",
+      "reason": "no declared reporting scale in the statement section"
+    },
+    {
+      "doc": "PFE_FY2024",
+      "sector": "Healthcare",
+      "reason": "no declared reporting scale in the statement section"
+    },
+    {
+      "doc": "CAT_FY2025",
+      "sector": "Industrial",
+      "reason": "no declared reporting scale in the statement section"
+    },
+    {
+      "doc": "CAT_FY2024",
+      "sector": "Industrial",
+      "reason": "no declared reporting scale in the statement section"
+    },
+    {
+      "doc": "DE_FY2025",
+      "sector": "Industrial",
+      "reason": "no declared reporting scale in the statement section"
+    },
+    {
+      "doc": "DE_FY2024",
+      "sector": "Industrial",
+      "reason": "no declared reporting scale in the statement section"
+    },
+    {
+      "doc": "XOM",
+      "sector": "-",
+      "reason": "only 0 10-K filing(s) in the recent window, 2 requested"
+    },
+    {
+      "doc": "TMUS_FY2025",
+      "sector": "Telecom",
+      "reason": "no declared reporting scale in the statement section"
+    },
+    {
+      "doc": "TMUS_FY2024",
+      "sector": "Telecom",
+      "reason": "no declared reporting scale in the statement section"
+    }
+  ],
+  "kept": 104,
+  "corpus_on_disk": 104,
+  "sectors_declared": [
+    "Automotive",
+    "Banking",
+    "Consumer",
+    "Energy",
+    "Healthcare",
+    "Industrial",
+    "Payments",
+    "Retail",
+    "Technology",
+    "Telecom",
+    "Transport"
+  ],
+  "sectors_final": {
+    "Technology": 28,
+    "Banking": 6,
+    "Payments": 4,
+    "Healthcare": 20,
+    "Consumer": 10,
+    "Retail": 10,
+    "Industrial": 8,
+    "Transport": 4,
+    "Energy": 4,
+    "Telecom": 4,
+    "Automotive": 6
+  }
+}

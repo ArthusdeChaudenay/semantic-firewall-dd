@@ -1,0 +1,523 @@
+pany's management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management's Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company's internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+Definition and Limitations of Internal Control over Financial Reporting
+A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/s/ Deloitte & Touche LLP
+Charlotte, North Carolina
+March 23, 2026
+37
+Table of Contents
+Lowe's Companies, Inc.
+Consolidated Statements of Earnings
+(In millions, except per share and percentage data)
+Fiscal Years Ended
+January 30, 2026 January 31, 2025 February 2, 2024
+Current Earnings Amount % Sales Amount % Sales Amount % Sales
+Net sales $ 86,286 100.00 % $ 83,674 100.00 % $ 86,377 100.00 %
+Cost of sales 57,401 66.52 55,797 66.68 57,533 66.61
+Gross margin 28,885 33.48 27,877 33.32 28,844 33.39
+Expenses:
+Selling, general and administrative 16,791 19.46 15,682 18.74 15,570 18.02
+Depreciation and amortization 1,941 2.25 1,729 2.07 1,717 1.99
+Operating income 10,153 11.77 10,466 12.51 11,557 13.38
+Interest net 1,406 1.63 1,313 1.57 1,382 1.60
+Pre-tax earnings 8,747 10.14 9,153 10.94 10,175 11.78
+Income tax provision 2,093 2.43 2,196 2.63 2,449 2.83
+Net earnings $ 6,654 7.71 % $ 6,957 8.31 % $ 7,726 8.95 %
+Basic earnings per common share $ 11.87 $ 12.25 $ 13.23
+Diluted earnings per common share $ 11.85 $ 12.23 $ 13.20
+Lowe's Companies, Inc.
+Consolidated Statements of Comprehensive Income
+(In millions, except percentage data)
+Fiscal Years Ended
+January 30, 2026 January 31, 2025 February 2, 2024
+Amount % Sales Amount % Sales Amount % Sales
+Net earnings $ 6,654 7.71 % $ 6,957 8.31 % $ 7,726 8.95 %
+Foreign currency translation adjustments net of tax — — — — 5 0.01
+Cash flow hedges net of tax ( 17 ) ( 0.02 ) ( 13 ) ( 0.02 ) ( 14 ) ( 0.02 )
+Other — — 1 0.01 2 —
+Other comprehensive loss ( 17 ) ( 0.02 ) ( 12 ) ( 0.01 ) ( 7 ) ( 0.01 )
+Comprehensive income $ 6,637 7.69 % $ 6,945 8.30 % $ 7,719 8.94 %
+See accompanying notes to consolidated financial statements.
+38
+Table of Contents
+Lowe's Companies, Inc.
+Consolidated Balance Sheets
+(In millions, except par value)
+January 30, 2026 January 31, 2025
+Assets
+Current assets:
+Cash and cash equivalents $ 982 $ 1,761
+Short-term investments 370 372
+Receivables - net 1,090 94
+Merchandise inventory - net 17,300 17,409
+Other current assets 1,213 722
+Total current assets 20,955 20,358
+Property, less accumulated depreciation 18,362 17,649
+Operating lease right-of-use assets 4,303 3,738
+Long-term investments 319 277
+Deferred income taxes - net — 244
+Goodwill 3,945 311
+Intangible assets - net 5,908 277
+Other assets 352 248
+Total assets $ 54,144 $ 43,102
+Liabilities and shareholders' deficit
+Current liabilities:
+Current maturities of long-term debt $ 2,431 $ 2,586
+Current operating lease liabilities 713 563
+Accounts payable 9,762 9,290
+Accrued compensation and employee benefits 1,285 1,008
+Deferred revenue 1,477 1,358
+Other current liabilities 3,795 3,952
+Total current liabilities 19,463 18,757
+Long-term debt, excluding current maturities 37,490 32,901
+Noncurrent operating lease liabilities 4,043 3,628
+Deferred income taxes - net 1,039 —
+Deferred revenue - Lowe's protection plans 1,262 1,268
+Other liabilities 764 779
+Total liabilities 64,061 57,333
+Commitments and contingencies
+Shareholders' deficit:
+Preferred stock $ 5 par value: Authorized 5.0 million shares; Issued and outstanding none
+— —
+Common stock $ 0.50 par value: Authorized 5.6 billion shares; Issued and outstanding 561 million and 560 million, respectively
+281 280
+Capital in excess of par value 370 —
+Accumulated deficit ( 10,839 ) ( 14,799 )
+Accumulated other comprehensive income 271 288
+Total shareholders' deficit ( 9,917 ) ( 14,231 )
+Total liabilities and shareholders' deficit $ 54,144 $ 43,102
+See accompanying notes to consolidated financial statements.
+39
+Table of Contents
+Lowe's Companies, Inc.
+Consolidated Statements of Shareholders' Deficit
+(In millions, except per share data)
+Common Stock Capital in Excess
+of Par Value Accumulated Deficit Accumulated Other Comprehensive
+(Loss)/Income Total
+Shares Amount
+Balance February 3, 2023 601 $ 301 $ — $ ( 14,862 ) $ 307 $ ( 14,254 )
+Net earnings — — — 7,726 — 7,726
+Other comprehensive loss — — — — ( 7 ) ( 7 )
+Cash dividends declared, $ 4.35 per share
+— — — ( 2,531 ) — ( 2,531 )
+Share-based payment expense — — 209 — — 209
+Repurchases of common stock ( 30 ) ( 15 ) ( 349 ) ( 5,970 ) — ( 6,334 )
+Issuance of common stock under share-based payment plans 3 1 140 — — 141
+Balance February 2, 2024 574 $ 287 $ — $ ( 15,637 ) $ 300 $ ( 15,050 )
+Net earnings — — — 6,957 — 6,957
+Other comprehensive loss — — — — ( 12 ) ( 12 )
+Cash dividends declared, $ 4.55 per share
+— — — ( 2,578 ) — ( 2,578 )
+Share-based payment expense — — 222 — — 222
+Repurchases of common stock ( 16 ) ( 8 ) ( 380 ) ( 3,541 ) — ( 3,929 )
+Issuance of common stock under share-based payment plans 2 1 158 — — 159
+Balance January 31, 2025 560 $ 280 $ — $ ( 14,799 ) $ 288 $ ( 14,231 )
+Net earnings — — — 6,654 — 6,654
+Other comprehensive loss — — — — ( 17 ) ( 17 )
+Cash dividends declared, $ 4.75 per share
+— — — ( 2,664 ) — ( 2,664 )
+Share-based payment expense — — 247 — — 247
+Repurchases of common stock — — ( 45 ) ( 30 ) — ( 75 )
+Issuance of common stock under share-based payment plans 1 1 148 — — 149
+Other — — 20 — — 20
+Balance January 30, 2026 561 $ 281 $ 370 $ ( 10,839 ) $ 271 $ ( 9,917 )
+See accompanying notes to consolidated financial statements.
+40
+Table of Contents
+Lowe's Companies, Inc.
+Consolidated Statements of Cash Flows
+(In millions)
+Fiscal Years Ended
+January 30, 2026 January 31, 2025 February 2, 2024
+Cash flows from operating activities:
+Net earnings $ 6,654 $ 6,957 $ 7,726
+Adjustments to reconcile net earnings to net cash provided by operating activities:
+Depreciation and amortization 2,194 1,972 1,923
+Noncash lease expense 572 520 499
+Deferred income taxes 256 9 6
+Asset impairment and loss on property - net 53 5 83
+Gain on sale of business — ( 177 ) ( 79 )
+Share-based payment expense 247 221 210
+Changes in operating assets and liabilities:
+Merchandise inventory net 703 ( 514 ) 1,637
+Other operating assets ( 243 ) 93 182
+Accounts payable 73 633 ( 1,820 )
+Other operating liabilities ( 645 ) ( 94 ) ( 2,227 )
+Net cash provided by operating activities 9,864 9,625 8,140
+Cash flows from investing activities:
+Purchases of investments ( 1,693 ) ( 1,286 ) ( 1,785 )
+Proceeds from sale/maturity of investments 1,658 1,204 1,722
+Capital expenditures ( 2,213 ) ( 1,927 ) ( 1,964 )
+Proceeds from sale of property and other long-term assets 82 105 53
+Acquisition of businesses - net ( 10,088 ) — —
+Proceeds from sale of business — 177 100
+Other net ( 10 ) ( 11 ) ( 27 )
+Net cash used in investing activities ( 12,264 ) ( 1,738 ) ( 1,901 )
+Cash flows from financing activities:
+Net change in commercial paper — — ( 499 )
+Net proceeds from issuance of debt 6,974 — 2,983
+Repayment of debt ( 2,587 ) ( 545 ) ( 601 )
+Proceeds from issuance of common stock under share-based payment plans 149 159 141
+Cash dividend payments ( 2,636 ) ( 2,566 ) ( 2,531 )
+Repurchases of common stock ( 211 ) ( 4,053 ) ( 6,138 )
+Other net ( 68 ) ( 42 ) ( 21 )
+Net cash provided by/(used in) financing activities 1,621 ( 7,047 ) ( 6,666 )
+Net (decrease)/increase in cash and cash equivalents ( 779 ) 840 ( 427 )
+Cash and cash equivalents, beginning of year 1,761 921 1,348
+Cash and cash equivalents, end of year $ 982 $ 1,761 $ 921
+See accompanying notes to consolidated financial statements.
+41
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED JANUARY 30, 2026, JANUARY 31, 2025, AND FEBRUARY 2, 2024
+NOTE 1: Summary of Significant Accounting Policies
+Lowe's Companies, Inc. and subsidiaries (the Company) is the world's second-largest home improvement retailer and operated 1,759 stores and outlets in the United States as of January 30, 2026. In addition, Lowe's operates over 540 branch locations in the United States and Canada, which include our current year acquisitions of Foundation Building Materials (FBM) and Artisan Design Group (ADG). See Note 2 for information on these acquisitions.
+Below are those accounting policies considered by the Company to be significant.
+Fiscal Year - The Company's fiscal year ends on the Friday nearest the end of January. Each of the fiscal years presented contained 52 weeks. All references herein for the years 2025, 2024, and 2023 represent the fiscal years ended January 30, 2026, January 31, 2025, and February 2, 2024, respectively.
+Principles of Consolidation - The consolidated financial statements include the accounts of the Company and its wholly-owned or controlled subsidiaries. The Company consolidates the financial results of FBM and ADG on a one-month lag due to differences in reporting calendars. All intercompany accounts and transactions have been eliminated.
+Foreign Currency - Gains and losses from foreign currency transactions are included in SG&A expense. Foreign currency denominated assets and liabilities are translated into U.S. dollars using the exchange rates in effect at the balance sheet date. Results of operations and cash flows are translated using the average exchange rates throughout the period. The effect of exchange rate fluctuations on translation of assets and liabilities is included as a component of shareholders' deficit in accumulated other comprehensive income.
+Use of Estimates - The preparation of the Company's financial statements in accordance with accounting principles generally accepted in the United States of America requires management to make estimates that affect the reported amounts of assets, liabilities, sales and expenses, and related disclosures of contingent assets and liabilities. The Company bases these estimates on historical results and various other assumptions believed to be reasonable, all of which form the basis for making estimates concerning the carrying values of assets and liabilities that are not readily available from other sources. Actual results may differ from these estimates.
+Business Combinations - The assets and liabilities of acquired businesses are recorded at their fair values at the date of acquisition. The excess of the purchase price over the fair values of the identifiable assets acquired and liabilities assumed is recorded as goodwill. During the measurement period, which is up to one year from the acquisition date, we may record adjustments to the assets acquired and liabilities assumed with the corresponding offset to goodwill. Upon conclusion of the measurement period, any subsequent adjustments are recorded to earnings.
+Cash and Cash Equivalents - Cash and cash equivalents include cash on hand, demand deposits, and short-term investments with original maturities of three months or less when purchased. Cash and cash equivalents are carried at amortized cost on the consolidated balance sheets. The majority of payments due from financial institutions for the settlement of credit card and debit card transactions process within two business days and are, therefore, classified as cash and cash equivalents.
+Investments - Investments generally consist of certificates of deposit, commercial paper, corporate debt securities, governmental securities, and money market funds, which are classified as available-for-sale. Available-for-sale debt securities are recorded at fair value, and unrealized gains and losses are recorded, net of tax, as a component of accumulated other comprehensive income. The proceeds from sales and gross realized gains and losses on available-for-sale debt securities were not significant for any of the periods presented.
+Also included in long-term investments is performance-based contingent consideration associated with the sale of the Canadian retail business. The Company accounts for the contingent consideration under the fair value option under Accounting Standards Codification (ASC) 825, Financial Instruments, which requires the contingent consideration to be recorded at fair value upon recognition and as of each balance sheet date thereafter. Changes in the estimated fair value of the contingent consideration are recognized within selling, general, and administrative (SG&A) expense in the consolidated statements of earnings.
+42
+Table of Contents
+Investments with a stated maturity date of one year or less from the balance sheet date or that are expected to be used in current operations are classified as short-term investments. All other investments are classified as long-term. Available-for-sale debt securities classified as long-term as of January 30, 2026, will mature in one to three years , based on stated maturity dates.
+The Company classifies as investments restricted balances pledged as collateral for the Company's extended protection plan program. Restricted balances included in short-term investments were $ 370 million as of January 30, 2026, and $ 372 million as of January 31, 2025. Restricted balances included in long-term investments were $ 319 million as of January 30, 2026, and $ 277 million as of January 31, 2025.
+Receivables - net - The Company's receivables relate to credit extended directly to certain customers in the ordinary course of business and are stated net of the allowance for credit losses, which are recorded based on historical collection trends as well as management's expectation of future collections. The allowance for credit losses related to these receivables was not material to our consolidated financial statements at the end of fiscal 2025 or fiscal 2024.
+Merchandise Inventory - The Company's inventory is stated at the lower of cost and net realizable value (LCNRV) using primarily the first-in, first-out method of inventory accounting. The cost of inventory includes certain costs associated with the preparation of inventory for resale, including distribution center costs, and is net of vendor funds.
+The Company records an inventory reserve for the estimated adjustment to mark down merchandise inventory to the lower of cost or net realizable value. This reserve is based on management's current knowledge with respect to inventory levels, sales trends, and historical experience. Management does not believe the Company's merchandise inventories are subject to significant risk of markdown in the near term in excess of established reserves, and management has the ability to adjust purchasing patterns based on anticipated sales trends and general economic conditions. However, changes in consumer purchasing patterns could result in the need for additional reserves. The Company's LCNRV inventory reserve was $ 229 million as of January 30, 2026, and $ 222 million as of January 31, 2025.
+The Company also records an inventory reserve for the estimated shrinkage between physical inventories. This reserve is based primarily on actual shrink results from previous physical inventories. Changes in the estimated shrink reserve are made based on the timing and results of physical inventories. The Company's reserve for inventory shrinkage was $ 436 million as of January 30, 2026, and $ 427 million as of January 31, 2025.
+The Company receives funds from vendors in the normal course of business, principally as a result of purchase volumes, early payments, or sales-based promotions of vendors' products. Generally, these vendor funds do not represent the reimbursement of specific, incremental, and identifiable costs incurred by the Company to sell the vendor's product. Therefore, the Company treats these funds as a reduction in the cost of inventory and are recognized as a reduction of cost of sales when the inventory is sold. Funds that are determined to be reimbursements of specific, incremental, and identifiable costs incurred to sell vendors' products are recorded as an offset to the related expense. The Company develops accrual rates for vendor funds based on the provisions of the agreements in place. Due to the diversity of the individual vendor agreements, the Company performs analyses and reviews historical trends throughout the year and confirms actual amounts with select vendors to ensure the amounts earned are appropriately recorded. Amounts accrued throughout the year could be impacted if actual purchase volumes differ from projected annual purchase volumes, especially in the case of programs that provide for increased funding when graduated purchase volumes are met.
+Derivative Financial Instruments - The Company is exposed to the impact of changes in benchmark interest rates and the prices of commodities used in the normal course of business. The Company occasionally utilizes derivative financial instruments to manage certain business risks. All derivative financial instruments are recognized at their fair values as either assets or liabilities at the balance sheet date and reported on a gross basis.
+The Company held fixed-to-floating interest rate swap agreements as fair value hedges on certain debt as of January 30, 2026, and January 31, 2025. The Company evaluates the effectiveness of the fair value hedges using the shortcut method of accounting under which the hedges are assumed to be perfectly effective. Thus, the change in fair value of the derivative instruments offsets the change in fair value on the hedged debt, and there is no net impact in the consolidated statements of earnings from the fair value of the derivatives.
+Credit Programs and Sale of Business Accounts Receivable - The Company has branded and private label proprietary credit cards which generate sales that are not reflected in receivables. Under an agreement with Synchrony Bank (Synchrony), credit is extended directly to customers by Synchrony. All credit program-related services are performed and controlled directly by Synchrony. The Company has the option, but no obligation, to purchase the receivables at the end of the agreement.
+43
+Table of Contents
+Property and Depreciation - Property is recorded at cost. Costs associated with major additions are capitalized and depreciated. Capital assets are expected to yield future benefits and have original useful lives which exceed one year. The total cost of a capital asset generally includes all applicable sales taxes, delivery costs, installation costs, and other appropriate costs incurred by the Company, including interest in the case of self-constructed assets. Upon disposal, the cost of properties and related accumulated depreciation is removed from the accounts, with gains and losses reflected in SG&A expense in the consolidated statements of earnings.
+Property consists of land, buildings and building improvements, equipment, and construction in progress. Buildings and building improvements includes owned buildings, as well as buildings under finance lease and leasehold improvements. Equipment primarily includes store racking and displays, computer hardware and software, forklifts, vehicles, finance lease equipment, and other store equipment . In addition, excess properties held for use are included within land and buildings.
+Depreciation is recognized over the estimated useful lives of the depreciable assets. Assets are depreciated using the straight-line method. Leasehold improvements and finance lease assets are depreciated and amortized, respectively, over the shorter of their estimated useful lives or the term of the related lease. The amortization of these assets is included in depreciation and amortization expense in the consolidated statements of earnings.
+Long-Lived Asset Impairment - The carrying amounts of long-lived assets are reviewed whenever certain events or changes in circumstances indicate that the carrying amounts may not be recoverable. A potential impairment has occurred for long-lived assets held-for-use if projected future undiscounted cash flows expected to result from the use and eventual disposition of the assets are less than the carrying amounts of the assets. For operating locations identified for sale or closure, a market approach is used to determine the fair value of the asset group. The carrying value of an operating location's asset group includes inventory, property, operating and finance lease right-of-use assets, and operating liabilities, including accounts payables, accrued compensation, and operating lease liabilities. Financial and non-operating liabilities are excluded from the carrying value of the asset group. An impairment loss is recorded for long-lived assets held-for-use when the carrying amount of the asset is not recoverable and exceeds its fair value. Impairment losses are included in SG&A expense in the consolidated statements of earnings.
+Excess properties that are expected to be sold within the next twelve months and meet the other relevant held-for-sale criteria are classified as long-lived assets held-for-sale. Excess properties consist primarily of retail outparcels and property associated with relocated or closed locations. An impairment loss is recorded for long-lived assets held-for-sale when the carrying amount of the asset exceeds its fair value less cost to sell. A long-lived asset is not depreciated while it is classified as held-for-sale.
+For long-lived assets to be abandoned, the Company considers the asset to be disposed of when it ceases to be used. Until it ceases to be used, the Company continues to classify the asset as held-for-use and tests for potential impairment accordingly. If the Company commits to a plan to abandon a long-lived asset before the end of its previously estimated useful life, its depreciable life is evaluated.
+Goodwill - Goodwill is the excess of the purchase price over the fair value of identifiable assets acquired, less liabilities assumed, in a business combination. The Company reviews goodwill for impairment at the reporting unit level, which is the operating segment level or one level below the operating segment level. Goodwill is not amortized but is evaluated for impairment at least annually on the first day of the fourth quarter or whenever events or changes in circumstances indicate that it is more likely than not that the carrying amount may not be recoverable. The evaluation begins with a qualitative assessment to determine whether a quantitative impairment test is necessary. If, after assessing qualitative factors, we determine it is more likely than not that the fair value of the reporting unit is less than the carrying amount, then the quantitative goodwill impairment test is performed.
+The quantitative goodwill impairment test used to identify potential impairment compares the fair value of a reporting unit with its carrying amount, including goodwill. Fair value represents the price a market participant would be willing to pay in a potential sale of the reporting unit and is based on a combination of an income approach, using discounted future cash flows, and a market approach, using market multiples applied to free cash flow. If the fair value exceeds carrying value, then no goodwill impairment has occurred. If the carrying value of the reporting unit exceeds its fair value, an impairment loss is recognized in an amount equal to that excess, limited to the total amount of goodwill allocated to that reporting unit. Any impairment identified is included within SG&A expense in the consolidated statements of earnings. The income tax effect from any tax deductible goodwill on the carrying amount of the reporting unit, if applicable, is considered in determining the goodwill impairment loss.
+A reporting unit is an operating segment or a business unit one level below that operating segment, for which discrete financial information is prepared and regularly reviewed by segment management. In fiscal 2025, we completed our annual qualitative
+44
+Table of Contents
+assessment of the recoverability of goodwill for our reporting units and concluded that the fair value of the reporting units exceeded their carrying value.
+Intangible Assets - net - Intangible assets with indefinite lives are evaluated for impairment on the first day of the fourth quarter or whenever events or changes in circumstances indicate that it is more likely than not that the carrying amount may not be recoverable. The cost of definite-lived intangible assets is amortized over their estimated useful lives, which range up to 20 years.
+Leases - The Company leases certain retail stores, warehouses, distribution centers, office space, land, and equipment under finance and operating leases. Lease commencement occurs on the date the Company takes possession or control of the property or equipment. Original terms for facility-related leases are generally between five and 20 years. These leases generally contain provisions for four to six renewal options of five years each. Original terms for equipment-related leases, primarily material handling equipment and vehicles, are generally between one and seven years . Some of the Company's leases also include rental escalation clauses and/or termination provisions. Renewal options and termination options are included in the determination of lease payments when management determines the options are reasonably certain of exercise, considering financial performance, strategic importance and/or invested capital. Leases with an original term of twelve months or less are not recognized on the Company's balance sheet, and the lease expense related to those short-term leases is recognized over the lease term. The Company does not account for lease and non-lease (e.g., common area maintenance) components of contracts separately for any underlying asset class.
+If readily determinable, the rate implicit in the lease is used to discount lease payments to present value; however, substantially all of the Company's leases do not provide a readily determinable implicit rate. When the implicit rate is not determinable, the Company's estimated incremental borrowing rate is utilized, determined on a collateralized basis, to discount lease payments based on information available at lease commencement.
+The Company's real estate leases typically require payment of common area maintenance and real estate taxes which represent the majority of variable lease costs. Certain lease agreements also provide for variable rental payments based on sales performance in excess of specified minimums, usage measures, or changes in the consumer price index. Variable rent payments based on future performance, usage, or changes in indices were not significant for any of the periods presented. Variable lease costs are excluded from the present value of lease obligations.
+The Company's lease agreements do not contain any material restrictions, covenants, or any material residual value guarantees. The Company subleases certain properties that are not used in its operations. Sublease income was not significant for any of the periods presented.
+Accounts Payable - The Company has an agreement with a third party to provide a supplier finance program which facilitates participating suppliers' ability to finance payment obligations from the Company with designated third-party financial institutions. Participating suppliers may, at their sole discretion, make offers to finance one or more payment obligations of the Company prior to their scheduled due dates at a discounted price to participating financial institutions. The Company's goal in entering into these arrangements is to capture overall savings in the form of pricing, payment terms, or vendor funding, created by facilitating suppliers' ability to finance payment obligations at more favorable discount rates, while providing them with greater working capital flexibility.
+The Company's obligations to its suppliers, including amounts due and scheduled payment dates, are not impacted by suppliers' decisions to finance amounts under these arrangements. However, the Company's right to offset balances due from suppliers against payment obligations is restricted by these arrangements for those payment obligations that have been financed by suppliers. The rollforward of the Company's outstanding payment obligations that suppliers financed to participating financial institutions, which are included in accounts payable on the consolidated balance sheets, are as follows:
+Years Ended
+(In millions) January 30, 2026 January 31, 2025 February 2, 2024
+Financed payment obligations outstanding at the beginning of the year $ 1,511 $ 1,356 $ 2,257
+Payment obligations financed during the year 9,341 9,926 9,573
+Financed payment obligations paid during the year ( 9,412 ) ( 9,771 ) ( 10,474 )
+Financed payment obligations outstanding at the end of the year $ 1,440 $ 1,511 $ 1,356
+45
+Table of Contents
+Other Current Liabilities - Other current liabilities on the consolidated balance sheets consist of:
+(In millions) January 30, 2026 January 31, 2025
+Accrued dividends $ 673 $ 645
+Accrued interest 485 449
+Self-insurance liabilities 426 432
+Sales tax liabilities 245 195
+Sales return reserve 178 167
+Accrued property taxes 153 138
+Income taxes payable 23 491
+Other 1,612 1,435
+Total $ 3,795 $ 3,952
+Self-Insurance - The Company is self-insured for certain losses relating to workers' compensation, automobile, property, and general and product liability claims. The Company has excess insurance coverage above certain retention amounts to limit exposure from these claims. The Company is also self-insured for certain losses relating to extended protection plans, as well as medical and dental claims. Self-insurance claims filed and claims incurred but not reported are accrued based upon management's estimates of the discounted ultimate cost for self-insured claims incurred using actuarial assumptions followed in the insurance industry and historical experience. Although management believes it has the ability to reasonably estimate losses related to claims, it is possible that actual results could differ from recorded self-insurance liabilities. Total self-insurance liabilities, including the current and non-current portions, were $ 971 million as of January 30, 2026, and $ 966 million as of January 31, 2025.
+The Company provides surety bonds issued by insurance companies to secure payment of workers' compensation liabilities as required in certain states where the Company is self-insured. Outstanding surety bonds relating to self-insurance were $ 269 million as of January 30, 2026, and $ 272 million as of January 31, 2025.
+Income Taxes - The Company establishes deferred income tax assets and liabilities for temporary differences between the tax and financial accounting bases of assets and liabilities. The tax effects of such differences are reflected in the consolidated balance sheets at the enacted tax rates expected to be in effect when the differences reverse. A valuation allowance is recorded to reduce the carrying amount of deferred tax assets if it is more likely than not that all or a portion of the asset will not be realized. The tax balances and income tax expense recognized by the Company are based on management's interpretation of the tax statutes of multiple jurisdictions.
+The Company establishes a liability for tax positions for which there is uncertainty as to whether or not the position will be ultimately sustained. The Company includes interest related to tax issues as part of net interest on the consolidated statements of earnings. The Company records any applicable penalties related to tax issues within the income tax provision.
+Transferable Tax Credits
+In August 2022, the Inflation Reduction Act was enacted which included provisions that allow for the transfer of certain federal clean energy tax credits (Federal Transferable Tax Credits). The Company paid $ 1.0 billion, $ 909 million and $ 143 million for the purchase of Federal Transferable Tax Credits in 2025, 2024 and 2023, respectively. All amounts paid have been included in payments for income taxes, and differences between tax credits purchased and amounts paid are included as a component of the income tax provision.
+Shareholders' Deficit - The Company has a share repurchase program that is executed through purchases made from time to time either in the open market or through private market transactions. Shares purchased under the repurchase program are returned to authorized and unissued status. Any excess of cost over par value is charged to additional paid-in capital to the extent that a balance is present. Once additional paid-in capital is fully depleted, remaining excess of cost over par value is charged to accumulated deficit.
+In August 2022, the Inflation Reduction Act enacted a 1% excise tax on net share repurchases after December 31, 2022. Any excise tax incurred on share repurchases is recognized as part of the cost basis of the shares acquired in the consolidated statements of shareholders' deficit.
+46
+Table of Contents
+Revenue Recognition - The Company recognizes revenue to depict the transfer of goods or services to customers in an amount that reflects the consideration to which the Company expects to be entitled in exchange for those goods or services. A description of the Company's principal revenue generating activities is as follows:
+Products - Revenue from products primarily relates to in-store and online merchandise purchases, which are recognized at the point in time when the customer obtains control of the merchandise. This occurs at the time of in-store purchase or delivery of the product to the customer. A provision for anticipated merchandise returns is provided through a reduction of sales and cost of sales in the period that the related sales are recorded. The merchandise return reserve is presented on a gross basis, with a separate asset and liability included in the consolidated balance sheets.
+Services - Revenues from services primarily relate to professional installation services the Company provides through subcontractors related to merchandise purchased by a customer. In certain instances, installation services include materials provided by the subcontractor, and both product and installation are included in service revenue. The Company recognizes revenue associated with services as they are rendered, and the majority of services are completed within one week from initiation.
+Retail deferred revenue consists of amounts received for which customers have not yet taken possession of the merchandise or for which installation has not yet been completed. Deferred revenue is recognized in sales either at a point in time when the customer obtains control of merchandise through pickup or delivery, or over time as services are provided to the customer. The majority of revenue for goods and services is recognized in the quarter following revenue deferral. In addition, the Company defers revenues from stored-value cards, which include gift cards and returned merchandise credits, and recognizes revenue into sales when the cards are redeemed.
+The Company also defers revenue for its separately-priced long-term protection plan contracts (Lowe's protection plans), which is a Lowe's-branded program for which the Company is ultimately self-insured. The Company recognizes revenue from Lowe's protection plan sales on a straight-line basis over the respective contract term. Expenses for claims are recognized in cost of sales when incurred. Incremental direct acquisition costs and administrative costs to fulfill the contracts associated with Lowe's protection plans for contracts greater than one year are also deferred and recognized as expense on a straight-line basis over the respective contract term. Lowe's protection plan contract terms primarily range from one to five years from the date of purchase or the end of the manufacturer's warranty, as applicable.
+Cost of Sales and Selling, General and Administrative Expenses - The following lists the primary costs classified in each major expense category:
+Cost of Sales Selling, General and Administrative
+n Total cost of products sold, including:
+- Purchase costs, net of vendor funds;
+- Freight expenses associated with moving merchandise inventories from vendors to selling locations;
+- Costs associated with operating the Company's distribution network, including employee compensation and benefit costs and occupancy costs;
+- Depreciation of assets associated with the Company's distribution network;
+n Costs associated with operating FBM and ADG branch locations;
+n Costs of installation services provided;
+n Costs associated with shipping and handling to customers, as well as directly from vendors to customers by third parties;
+n Depreciation of assets used in delivering product to customers;
+n Costs associated with inventory shrinkage and markdown;
+n Costs of services performed under the Lowe's protection plan.
+n Generally, payroll and benefit costs for retail and corporate employees;
+n Occupancy costs of retail and corporate facilities;
+n Advertising;
+n Store environment costs;
+n Tender costs, including bank charges, costs associated with credit card interchange fees;
+n Costs associated with self-insured plans, and premium costs for stop-loss coverage and fully insured plans;
+n Long-lived asset impairment losses, gains/losses on disposal of assets, and exit costs;
+n Other administrative costs, such as supplies, and travel and entertainment.
+47
+Table of Contents
+Advertising - Costs associated with advertising are charged to SG&A expense as incurred. Advertising expenses were $ 978 million, $ 921 million, and $ 831 million in 2025, 2024, and 2023, respectively.
+Comprehensive Income - The Company reports comprehensive income in its consolidated statements of comprehensive income and consolidated statements of shareholders' deficit. Comprehensive income represents changes in shareholders' deficit from non-owner sources and is comprised of net earnings adjusted primarily for cash flow hedge derivative contracts. Net cash flow hedge gains, net of tax, classified in accumulated other comprehensive income were $ 270 million, $ 288 million, and $ 301 million as of January 30, 2026, January 31, 2025, and February 2, 2024, respectively.
+Reclassifications - Accounts receivable-net, Goodwill, and Intangible assets - net for the prior year were reclassified to conform with current year presentation and were previously included in Other current assets and Other assets on the consolidated balance sheets.
+Accounting Pronouncements Recently Adopted - In December 2023, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures . The ASU expands income tax disclosures in the effective tax rate reconciliation table and income taxes paid. The ASU is effective for the Company's Annual Report on Form 10-K for the fiscal year ended January 30, 2026. See Note 13 for additional details of the Company's income taxes.
+Accounting Pronouncements Not Yet Adopted - In November 2024, the FASB issued ASU 2024-03, Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures . The ASU requires a public business entity to provide disaggregated disclosures of certain categories of expenses on an annual and interim basis including purchase of inventory, employee compensation, depreciation, and intangible asset amortization for each income statement line item that contains those expenses. The ASU is effective for the Company's Annual Report on Form 10-K for the fiscal year ended January 28, 2028, and subsequent interim periods, with early adoption permitted. The Company is currently evaluating the impact of adopting this ASU on its disclosures.
+In September 2025, the FASB issued ASU 2025-06, Intangibles - Goodwill and Other Internal-Use Software . The ASU amends certain aspects of the accounting for and disclosure of internal-use software and clarifies the threshold that entities apply to begin capitalizing costs. The ASU is effective for the Company's Annual Report on Form 10-K for the fiscal year ended February 2, 2029. The Company plans to early adopt the guidance in the first quarter of fiscal year ending January 29, 2027.
+Recent accounting pronouncements pending adoption not discussed in this Form 10-K are either not applicable to the Company or are not expected to have a material impact on the Company.
+Note 2: Acquisitions
+Artisan Design Group (ADG)
+On June 2, 2025, the Company completed the acquisition of ADG for an aggregate cash purchase price of $ 1.3 billion, which is included in the investing section of the consolidated statements of cash flows, net of cash acquired. Acquisition-related costs were expensed as incurred. ADG is a leading nationwide provider of design, distribution and installation services for interior surface finishers, including flooring, cabinets and countertops, to national, regional and local home builders and property managers. The acquisition is expected to expand the Company's Pro customer offering into a new distribution channel within a highly fragmented market.
+Intangible assets acquired totaled $ 714 million and include trademarks of $ 130 million with a useful life of 15 years, customer relationships of $ 550 million with a useful life of 20 years, backlog of $ 26 million, and non-compete agreements of $ 8 million with a useful life of 5 years, each of which are included in the intangible assets - net line item within the accompanying consolidated balance sheet. Goodwill of $ 366 million is primarily attributable to the synergies expected to arise after the acquisition. We expect $ 302 million of goodwill to be deductible for tax purposes.
+Foundation Building Materials (FBM)
+On October 9, 2025, the Company completed the acquisition of FBM for an aggregate cash purchase price of $ 8.8 billion, which is included in the investing section of the consolidated statements of cash flows, net of cash acquired. Acquisition-related costs were expensed as incurred. FBM is expected to accelerate the Company's Total Home strategy by enhancing its
+48
+Table of Contents
+offering to Pro customers through expanded capabilities, faster fulfillment, improved digital tools, a robust trade credit platform, and significant cross-selling opportunities between FBM and Lowe's.
+Intangible assets acquired totaled $ 5,041 million, and include trademarks of $ 950 million with a useful life of 15 years, customer relationships of $ 3,920 million with a useful life of 20 years, backlog of $ 75 million, and a non-compete agreement of $ 96 million with a useful life of 5 years, each of which are included in the intangible assets - net line item within the accompanying consolidated balance sheet. Goodwill of $ 3,254 million is primarily attributable to the synergies expected to arise after the acquisition. We expect $ 993 million of goodwill to be deductible for tax purposes.
+The following table summarizes our preliminary aggregate purchase price allocations:
+ADG FBM
+(In millions) June 2, 2025 October 9, 2025
+Allocation:
+Cash acquired $ 2 $ 71
+Receivables 202 912
+Merchandise inventory 106 485
+Other current assets 28 95
+Property 36 512
+Operating lease right-of-use assets 137 470
+Goodwill 366 3,254
+Intangible assets 714 5,041
+Other assets 35 17
+Current operating lease liabilities ( 31 ) ( 92 )
+Accounts payable ( 73 ) ( 325 )
+Accrued compensation and employee benefits ( 29 ) ( 77 )
+Deferred revenue ( 22 ) ( 66 )
+Other current liabilities ( 35 ) ( 150 )
+Noncurrent operating lease liabilities ( 95 ) ( 348 )
+Deferred income taxes, net ( 36 ) ( 995 )
+Other liabilities ( 5 ) ( 26 )
+Net assets acquired $ 1,300 $ 8,778
+We have prepared analyses necessary to assess the fair values of the assets acquired and liabilities assumed and the amount of goodwill to be recognized as of the acquisition dates. These fair values were based on management's estimates and assumptions; however, the amounts indicated above are preliminary in nature and are subject to adjustment as additional information is obtained about the facts and circumstances that existed as of the acquisition dates. Accordingly, there may be adjustments to the assigned values of acquired assets and liabilities assumed. The final determination of acquisition date fair values and residual goodwill will be completed as soon as practicable, and within the measurement period of up to one year from the acquisition dates as permitted under GAAP. Any adjustments to provisional amounts that are identified during the measurement period will be recorded in the reporting period in which the adjustment is determined. Measurement period adjustments recorded during fiscal 2025 were immaterial.
+Pro forma revenue and earnings since the acquisitions have not been provided as the acquisitions were not material to the consolidated financial statements.
+Additional asset acquisitions by FBM of approximately $ 49 million were made since our acquisition on October 9, 2025.
+NOTE 3: Revenue
+Net sales consists primarily of revenue, net of sales tax, associated with contracts with customers for the sale of goods and services in amounts that reflect consideration the Company is entitled to in exchange for those goods and services.
+49
+Table of Contents
+The following table presents the Company's sources of revenue:
+(In millions) Years Ended
+January 30, 2026 January 31, 2025 February 2, 2024
+Products $ 82,352 $ 80,538 $ 83,002
+Services 2,542 1,934 2,097
+Other 1,392 1,202 1,278
+Net sales $ 86,286 $ 83,674 $ 86,377
+The balances and classification within the consolidated balance sheets for anticipated sales returns and the associated right of return assets are as follows:
+(In millions) Classification January 30, 2026 January 31, 2025
+Anticipated sales returns Other current liabilities $ 178 $ 167
+Right of return assets Other current assets 109 99
+Deferred revenue - retail and stored-value cards
+Deferred revenue for retail and stored-value cards are as follows:
+(In millions) January 30, 2026 January 31, 2025
+Retail deferred revenue $ 936 $ 770
+Stored-value cards deferred revenue 541 588
+Deferred revenue $ 1,477 $ 1,358
+Deferred revenue - Lowe's protection plans
+Deferred revenue associated with Lowe's protection plans is as follows:
+(In millions) January 30, 2026 January 31, 2025
+Deferred revenue - Lowe's protection plans $ 1,262 $ 1,268
+Lowe's protection plan sales previously recorded as deferred revenue and claim expenses incurred are as follows:
+(In millions) Years Ended
+January 30, 2026 January 31, 2025 February 2, 2024
+Lowe's protection plan deferred revenue recognized into sales $ 580 $ 561 $ 549
+Lowe's protection plan claim expenses 239 210 224
+50
+Table of Contents
+Disaggregation of Revenues
+The following table presents the Company's net sales disaggregated by merchandise division within our Retail Home Improvement segment, as well as Other segment net sales:
+Years Ended
+January 30, 2026 January 31, 2025 February 2, 2024
+(In millions) Total Sales % Total Sales % Total Sales %
+Home D cor 1
+$ 31,527 36.5 % $ 31,307 37.5 % $ 32,535 37.5 %
+Building Products 2
+26,533 30.7 26,338 31.4 26,901 31.1
+Hardlines 3
+24,185 28.0 24,329 29.0 25,021 28.9
+Other 1,833 2.2 1,700 2.1 1,920 2.5
+Retail Home Improvement 84,078 97.4 83,674 100.0 86,377 100.0
+Other segment net sales 2,208 2.6 — — — —
+Total $ 86,286 100.0 % $ 83,674 100.0 % $ 86,377 100.0 %
+Note: Merchandise division net sales for prior periods have been reclassified to conform to the current year presentation.
+1 Home Decor includes the following product categories: Appliances, Decor, Flooring, Kitchens & Bath, and Paint
+2 Building Products includes the following product categories: Building Materials, Electrical, Lumber, Millwork, and Rough Plumbing
+3 Hardlines includes the following product categories: Hardware, Lawn & Garden, Seasonal & Outdoor Living, and Tools
+The following table presents the Company's net sales disaggregated by geographical area:
+(In millions) Years Ended
+January 30, 2026 January 31, 2025 February 2, 2024
+United States $ 86,225 $ 83,674 $ 86,377
+Canada 61 — —
+Net Sales $ 86,286 $ 83,674 $ 86,377
+NOTE 4: Fair Value Measurements
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. The authoritative guidance for fair value measurements establishes a three-level hierarchy, which encourages an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. The three levels of the hierarchy are defined as follows:
+Level 1 - inputs to the valuation techniques that are quoted prices in active markets for identical assets or liabilities
+Level 2 - inputs to the valuation techniques that are other than quoted prices but are observable for the assets or liabilities, either directly or indirectly
+Level 3 - inputs to the valuation techniques that are unobservable for the assets or liabilities
+Assets and Liabilities that are Measured at Fair Value on a Recurring Basis
+The following table presents the Company's financial assets and financial liabilities measured at fair value on a recurring basis.
+51
+Table of Contents
+Fair Value Measurements at
+(In millions) Classification Measurement Level January 30, 2026 January 31, 2025
+Available-for-sale securities:
+U.S. Treasury securities Short-term investments Level 1 $ 195 $ 199
+Money market funds Short-term investments Level 1 81 91
+Corporate debt securities Short-term investments Level 2 32 16
+Certificates of deposit Short-term investments Level 1 31 13
+Foreign government debt securities Short-term investments Level 2 21 4
+Municipal obligations Short-term investments Level 2 10 —
+Commercial paper Short-term investments Level 2 — 49
+U.S. Treasury securities Long-term investments Level 1 211 150
+Corporate debt securities Long-term investments Level 2 92 88
+Foreign government debt securities Long-term investments Level 2 16 37
+Municipal obligations Long-term investments Level 2 — 2
+Derivative instruments:
+Fixed-to-floating interest rate swaps Other current liabilities Level 2 $ 15 $ 11
+Fixed-to-floating interest rate swaps Other liabilities Level 2 — 35
+There were no transfers between Levels 1, 2, or 3 during any of the periods presented.
+When available, quoted prices were used to determine fair value. When quoted prices in active markets were available, financial assets were classified within Level 1 of the fair value hierarchy. When quoted prices in active markets were not available, fair values for financial assets and liabilities classified within Level 2 were determined using pricing models, and the inputs to those pricing models were based on observable market inputs. The inputs to the pricing models were typically benchmark yields, reported trades, broker-dealer quotes, issuer spreads, and benchmark securities, among others.
+In addition, the Company has previously received performance-based contingent consideration related to the fiscal 2022 sale of the Canadian retail business, which is classified as a Level 3 long-term investment. The Company determined the initial fair value for contingent consideration as of February 3, 2023, based on an income approach using an option pricing model, calculated using the significant unobservable inputs such as total equity value, volatility, and expected term. Subsequent measurements of fair value of the contingent consideration are based on an income approach, which requires certain assumptions considering operating performance of the business and a risk-adjusted discount rate.
+The rollforward of the fair value of contingent consideration is as follows:
+Years Ended
+(In millions) January 30, 2026 January 31, 2025
+Beginning balance $ — $ —
+Change in fair value — 177
+Proceeds received — ( 177 )
+Ending balance $ — $ —
+Assets and Liabilities that are Measured at Fair Value on a Nonrecurring Basis
+For the fiscal years ended January 30, 2026, and January 31, 2025, the Company had no material measurements of assets and liabilities at fair value on a nonrecurring basis subsequent to their initial recognition.
+Other Fair Value Disclosures
+The Company's financial assets and liabilities not measured at fair value on a recurring basis include cash and cash equivalents, accounts receivable, short-term borrowings, accounts payable, and long-term debt and are reflected in the financial statements at cost. With the exception of long-term debt, cost approximates fair value for these items due to their short-term nature. As further described in Note 9 , certain long-term debt is associated with a fair value hedge, and the changes in fair value of the
+52
+Table of Contents
+hedged debt is included in the carrying value of long-term debt on the consolidated balance sheets. The fair values of the Company's unsecured notes were estimated using quoted market prices.
+Carrying amounts and the related estimated fair value of the Company's long-term debt, excluding finance lease obligations and the 2025 Term Loan, are as follows:
+January 30, 2026 January 31, 2025
+(In millions) Carrying Amount Fair Value Carrying Amount Fair Value
+Unsecured notes (Level 1) $ 37,530 $ 34,907 $ 35,011 $ 31,557
+NOTE 5: Property and Accumulated Depreciation
+Property is summarized by major class in the following table:
+(In millions) Estimated Depreciable Lives, In Years January 30, 2026 January 31, 2025
+Cost:
+Land N/A $ 6,868 $ 6,811
+Buildings and building improvements 7 - 40
+18,953 18,386
+Equipment 2 - 15
+11,848 10,988
+Construction in progress N/A 712 616
+Total cost 38,381 36,801
+Accumulated depreciation ( 20,019 ) ( 19,152 )
+Property, less accumulated depreciation $ 18,362 $ 17,649
+Included in property, less accumulated depreciation are right-of-use assets under finance leases. The related amortization expense for right-of-use assets under finance leases is included in depreciation and amortization expense. The Company recognized depreciation and amortization expense, inclusive of amounts presented in cost of sales, of $ 2.1 billion in 2025, $ 2.0 billion in 2024, and $ 1.9 billion in 2023.
+NOTE 6: Goodwill and Intangible Assets
+Goodwill
+The changes in the carrying amount of goodwill by reportable segment for 2025, 2024, and 2023 were as follows:
+(In millions) Retail Home Improvement Other Consolidated
+Goodwill, balance at February 2, 2024 $ 311 $ — $ 311
+Acquisitions — — —
+Goodwill, balance at January 31, 2025
+$ 311 $ — $ 311
+Acquisitions — 3,634 3,634
+Goodwill, balance at January 30, 2026
+$ 311 $ 3,634 $ 3,945
+As of January 30, 2026, and January 31, 2025, the Company does not have any goodwill impairment.
+53
+Table of Contents
+Intangible Assets
+The gross carrying amount and accumulated amortization of intangible assets, consist of the following:
+January 30, 2026 January 31, 2025
+(In millions) Gross
+Carrying Amount Accumulated
+Amortization Net Carrying Amount Gross
+Carrying Amount Accumulated
+Amortization Net Carrying Amount
+Definite-lived intangible assets:
+Customer-related $ 4,722 $ ( 174 ) $ 4,548 $ 238 $ ( 96 ) $ 142
+Trademarks and trade names 1,100 ( 40 ) 1,060 20 ( 19 ) 1
+Other 208 ( 42 ) 166 1 ( 1 ) —
+Total definite-lived intangible assets $ 6,030 $ ( 256 ) $ 5,774 $ 259 $ ( 116 ) $ 143
+Indefinite-lived intangible assets:
+Trademark $ 134 $ — $ 134 $ 134 $ — $ 134
+Total intangible assets $ 6,164 $ ( 256 ) $ 5,908 $ 393 $ ( 116 ) $ 277
+Amortization expense for intangible assets is as follows:
+Years Ended
+(In millions) January 30, 2026 January 31, 2025 February 2, 2024
+Amortization expense $ 140 $ 13 $ 13
+Amortization expense expected to be recognized in future periods for intangible assets is as follows:
+(In millions) Amortization Expense
+Fiscal 2026 $ 397
+Fiscal 2027 329
+Fiscal 2028 329
+Fiscal 2029 329
+Fiscal 2030 323
+Thereafter 4,067
+Total $ 5,774
+54
+Table of Contents
+NOTE 7: Leases
+The lease-related assets and liabilities recorded on the balance sheet are summarized in the following table:
+(In millions)
+Classification January 30, 2026 January 31, 2025
+Assets
+Operating lease assets Operating lease right-of-use assets $ 4,303 $ 3,738
+Finance lease assets Property, less accumulated depreciation 1
+319 395
+Total lease assets 4,622 4,133
+Liabilities
+Current
+Operating Current operating lease liabilities 713 563
+Finance Current maturities of long-term debt 81 87
+Noncurrent
+Operating Noncurrent operating lease liabilities 4,043 3,628
+Finance Long-term debt, excluding current maturities 310 388
+Total lease liabilities $ 5,147 $ 4,666
+1 Finance lease assets are recorded net of accumulated amortization of $ 394 million as of January 30, 2026, and $ 373 million as of January 31, 2025.
+The table below presents the lease costs for finance and operating leases:
+(In millions)
+Years Ended
+January 30, 2026 January 31, 2025 February 2, 2024
+Finance lease cost
+Amortization of leased assets $ 82 $ 92 $ 88
+Interest on lease liabilities 20 23 24
+Operating lease cost 1
+768 712 630
+Variable lease cost 305 268 258
+Total lease cost $ 1,175 $ 1,095 $ 1,000
+1 Includes short-term leases and sublease income, which are immaterial.
+The future minimum rental payments required under operating and finance lease obligations as of January 30, 2026, having initial or remaining non-cancelable lease terms in excess of one year are summarized as follows:
+(In millions)
+Operating Leases 1
+Finance
+Leases 2
+Total
+Fiscal 2026 $ 873 $ 92 $ 965
+Fiscal 2027 879 64 943
+Fiscal 2028 868 59 927
+Fiscal 2029 688 47 735
+Fiscal 2030 531 37 568
+Thereafter 2,054

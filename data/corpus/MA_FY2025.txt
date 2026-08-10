@@ -1,0 +1,394 @@
+dgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+Revenue Recognition - Rebates and Incentives
+As described in Notes 1 and 3 to the consolidated financial statements, the Company provides certain customers with rebates and incentives which are a portion of total net revenue of $32.8 billion for the year ended December 31, 2025. The Company has business agreements with certain customers that provide for rebates and incentives within net revenue that could be either fixed or variable. Variable rebates and incentives are recorded primarily when volume- and transaction-based revenues are recognized over the contractual term. Variable rebates and incentives are calculated based upon estimated customer performance, such as volume thresholds, and the terms of the related business agreements. As disclosed by management, various factors are considered in estimating customer performance, including forecasted transactions, card issuance and card conversion volumes, expected payments and historical experience with that customer.
+The principal considerations for our determination that performing procedures relating to rebates and incentives is a critical audit matter are (i) the significant judgment by management when developing estimates related to rebates and incentives based on customer performance; and (ii) a high degree of auditor judgment, subjectivity and effort in performing procedures and evaluating management's estimates related to customer performance, including the reasonableness of the various applicable factors considered by management in the estimate.
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to rebates and incentives, including controls over evaluating estimated customer performance. These procedures also included, among others, evaluating the reasonableness of estimated customer performance for a sample of customer agreements, including (i) evaluating the agreements to identify whether all rebates and incentives are identified and recorded accurately; (ii) testing management's process for developing estimated customer performance, including evaluating the reasonableness of the various applicable factors considered by management; and (iii) evaluating estimated customer performance as compared to actual results in the period the customer reports actual performance.
+/s/ PricewaterhouseCoopers LLP
+New York, New York
+February 11, 2026
+We have served as the Company's auditor since 1989.
+67 MASTERCARD 2025 FORM 10-K
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Consolidated Statements of Operations
+For the Years Ended December 31,
+2025 2024 2023
+(in millions, except per share data)
+Net Revenue $ 32,791 $ 28,167 $ 25,098
+Operating Expenses:
+General and administrative 11,318 10,193 8,927
+Advertising and marketing 929 815 825
+Depreciation and amortization 1,143 897 799
+Provision for litigation 504 680 539
+Total operating expenses 13,894 12,585 11,090
+Operating income 18,897 15,582 14,008
+Other Income (Expense):
+Investment income 325 327 274
+Gains (losses) on equity investments, net ( 88 ) ( 29 ) ( 61 )
+Interest expense ( 722 ) ( 646 ) ( 575 )
+Other income (expense), net 166 20 ( 7 )
+Total other income (expense) ( 319 ) ( 328 ) ( 369 )
+Income before income taxes 18,578 15,254 13,639
+Income tax expense 3,610 2,380 2,444
+Net Income $ 14,968 $ 12,874 $ 11,195
+Basic Earnings per Share $ 16.54 $ 13.91 $ 11.86
+Basic weighted-average shares outstanding 905 925 944
+Diluted Earnings per Share $ 16.52 $ 13.89 $ 11.83
+Diluted weighted-average shares outstanding 906 927 946
+The accompanying notes are an integral part of these consolidated financial statements.
+MASTERCARD 2025 FORM 10-K 68
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Consolidated Statements of Comprehensive Income
+For the Years Ended December 31,
+2025 2024 2023
+(in millions)
+Net Income $ 14,968 $ 12,874 $ 11,195
+Other comprehensive income (loss):
+Foreign currency translation adjustments 596 ( 456 ) 328
+Income tax effect ( 72 ) 17 ( 33 )
+Foreign currency translation adjustments, net of income tax effect 524 ( 439 ) 295
+Translation adjustments on net investment hedges ( 215 ) 147 ( 165 )
+Income tax effect 46 ( 33 ) 37
+Translation adjustments on net investment hedges, net of income tax effect ( 169 ) 114 ( 128 )
+Cash flow hedges ( 301 ) 161 ( 41 )
+Income tax effect 20 ( 12 ) 10
+Reclassification adjustments for cash flow hedges
+395 ( 178 ) 35
+Income tax effect ( 11 ) — ( 8 )
+Cash flow hedges, net of income tax effect 103 ( 29 ) ( 4 )
+Defined benefit pension and other postretirement plans ( 8 ) 23 ( 18 )
+Income tax effect 2 ( 4 ) 5
+Reclassification adjustments for defined benefit pension and other postretirement plans
+— — ( 1 )
+Income tax effect — — —
+Defined benefit pension and other postretirement plans, net of income tax effect ( 6 ) 19 ( 14 )
+Investment securities available-for-sale
+— 1 6
+Income tax effect — — ( 1 )
+Investment securities available-for-sale, net of income tax effect — 1 5
+Other comprehensive income (loss), net of income tax effect 452 ( 334 ) 154
+Comprehensive Income $ 15,420 $ 12,540 $ 11,349
+The accompanying notes are an integral part of these consolidated financial statements.
+69 MASTERCARD 2025 FORM 10-K
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Consolidated Balance Sheets
+December 31,
+2025 2024
+(in millions, except per share data)
+Assets
+Current assets:
+Cash and cash equivalents $ 10,566 $ 8,442
+Restricted cash and restricted cash equivalents 561 492
+Restricted security deposits held for customers 2,121 1,874
+Investments 332 330
+Accounts receivable 4,609 3,773
+Settlement assets 1,626 1,821
+Prepaid expenses and other current assets 3,743 2,992
+Total current assets 23,558 19,724
+Property, equipment and right-of-use assets, net 2,303 2,138
+Deferred income taxes 1,567 1,614
+Goodwill 9,560 9,193
+Other intangible assets, net 5,554 5,453
+Other assets 11,615 9,959
+Total Assets $ 54,157 $ 48,081
+Liabilities and Equity
+Current liabilities:
+Accounts payable $ 999 $ 929
+Settlement obligations 2,409 2,316
+Restricted security deposits held for customers 2,121 1,874
+Accrued litigation 800 930
+Accrued expenses 13,272 10,393
+Short-term debt 749 750
+Other current liabilities 2,412 2,028
+Total current liabilities 22,762 19,220
+Long-term debt 18,251 17,476
+Deferred income taxes 307 317
+Other liabilities 5,091 4,553
+Total Liabilities 46,411 41,566
+Commitments and Contingencies
+Stockholders' Equity
+Class A common stock, $ 0.0001 par value; authorized 3,000 shares, 1,406 and 1,404 shares issued and 887 and 907 shares outstanding, respectively
+— —
+Class B common stock, $ 0.0001 par value; authorized 1,200 shares, 7 shares issued and outstanding
+— —
+Additional paid-in-capital 6,907 6,442
+Class A treasury stock, at cost, 518 and 497 shares, respectively
+( 83,224 ) ( 71,431 )
+Retained earnings 85,035 72,907
+Accumulated other comprehensive income (loss) ( 981 ) ( 1,433 )
+Mastercard Incorporated Stockholders' Equity
+7,737 6,485
+Non-controlling interests 9 30
+Total Equity 7,746 6,515
+Total Liabilities and Equity $ 54,157 $ 48,081
+The accompanying notes are an integral part of these consolidated financial statements.
+MASTERCARD 2025 FORM 10-K 70
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Consolidated Statements of Changes in Equity
+Stockholders' Equity
+Common Stock
+Additional
+Paid-In
+Capital Class A
+Treasury
+Stock Retained
+Earnings Accumulated
+Other
+Comprehensive
+Income (Loss) Mastercard Incorporated Stockholders' Equity Non-
+Controlling
+Interests Total
+Equity
+Class A Class B
+(in millions)
+Balance at December 31, 2022 $ — $ — $ 5,298 $ ( 51,354 ) $ 53,607 $ ( 1,253 ) $ 6,298 $ 58 $ 6,356
+Net income — — — — 11,195 — 11,195 — 11,195
+Activity related to non-controlling interests — — — — — — — ( 12 ) ( 12 )
+Redeemable non-controlling interest adjustments — — — — ( 7 ) — ( 7 ) — ( 7 )
+Other comprehensive income (loss) — — — — — 154 154 — 154
+Dividends — — — — ( 2,231 ) — ( 2,231 ) — ( 2,231 )
+Purchases of treasury stock — — — ( 9,088 ) — — ( 9,088 ) — ( 9,088 )
+Share-based payments — — 595 13 — — 608 — 608
+Balance at December 31, 2023 — — 5,893 ( 60,429 ) 62,564 ( 1,099 ) 6,929 46 6,975
+Net income — — — — 12,874 — 12,874 — 12,874
+Activity related to non-controlling interests — — — — — — — ( 16 ) ( 16 )
+Redeemable non-controlling interest adjustments — — — — ( 5 ) — ( 5 ) — ( 5 )
+Other comprehensive income (loss) — — — — — ( 334 ) ( 334 ) — ( 334 )
+Dividends — — — — ( 2,526 ) — ( 2,526 ) — ( 2,526 )
+Purchases of treasury stock — — — ( 11,025 ) — — ( 11,025 ) — ( 11,025 )
+Share-based payments — — 549 23 — — 572 — 572
+Balance at December 31, 2024 — — 6,442 ( 71,431 ) 72,907 ( 1,433 ) 6,485 30 6,515
+71 MASTERCARD 2025 FORM 10-K
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Consolidated Statements of Changes in Equity (Continued)
+Stockholders' Equity
+Common Stock Additional
+Paid-In
+Capital
+Class A
+Treasury
+Stock
+Retained
+Earnings Accumulated
+Other
+Comprehensive
+Income (Loss) Mastercard Incorporated Stockholders' Equity Non-
+Controlling
+Interests Total
+Equity
+Class A Class B
+(in millions)
+Balance at December 31, 2024 — — 6,442 ( 71,431 ) 72,907 ( 1,433 ) 6,485 30 6,515
+Net income — — — — 14,968 — 14,968 14,968
+Activity related to non-controlling interests — — — — — — — ( 21 ) ( 21 )
+Other comprehensive income (loss) — — — — — 452 452 — 452
+Dividends — — — — ( 2,840 ) — ( 2,840 ) — ( 2,840 )
+Purchases of treasury stock — — — ( 11,837 ) — — ( 11,837 ) — ( 11,837 )
+Share-based payments — — 465 44 — — 509 — 509
+Balance at December 31, 2025 $ — $ — $ 6,907 $ ( 83,224 ) $ 85,035 $ ( 981 ) $ 7,737 $ 9 $ 7,746
+The accompanying notes are an integral part of these consolidated financial statements.
+MASTERCARD 2025 FORM 10-K 72
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Consolidated Statements of Cash Flows
+For the Years Ended December 31,
+2025 2024 2023
+(in millions)
+Operating Activities
+Net income $ 14,968 $ 12,874 $ 11,195
+Adjustments to reconcile net income to net cash provided by operating activities:
+Amortization of customer incentives 2,098 1,830 1,622
+Depreciation and amortization 1,143 897 799
+(Gains) losses on equity investments, net 88 29 61
+Share-based compensation 597 526 460
+Deferred income taxes 57 ( 527 ) ( 236 )
+Other 139 191 22
+Changes in operating assets and liabilities:
+Accounts receivable ( 642 ) 186 ( 546 )
+Income taxes receivable ( 91 ) ( 165 ) ( 171 )
+Settlement assets 202 ( 593 ) 40
+Prepaid expenses ( 3,388 ) ( 3,225 ) ( 2,438 )
+Accrued litigation and legal settlements ( 142 ) 205 ( 375 )
+Restricted security deposits held for customers 247 29 277
+Accounts payable 45 75 ( 99 )
+Settlement obligations 89 922 282
+Accrued expenses 1,836 1,587 571
+Long-term taxes payable ( 185 ) ( 163 ) ( 129 )
+Net change in other assets and liabilities 587 102 645
+Net cash provided by operating activities 17,648 14,780 11,980
+Investing Activities
+Purchases of investment securities available-for-sale ( 501 ) ( 508 ) ( 300 )
+Purchases of investments held-to-maturity ( 28 ) ( 108 ) ( 347 )
+Proceeds from sales of investment securities available-for-sale 254 199 87
+Proceeds from maturities of investment securities available-for-sale 232 262 191
+Proceeds from maturities of investments held-to-maturity 52 378 157
+Purchases of property and equipment ( 489 ) ( 474 ) ( 371 )
+Capitalized software ( 726 ) ( 720 ) ( 717 )
+Purchases of equity investments ( 339 ) ( 42 ) ( 89 )
+Proceeds from sales of equity investments 181 125 44
+Acquisition of businesses, net of cash acquired — ( 2,511 ) —
+Other investing activities 2 ( 3 ) ( 6 )
+Net cash used in investing activities ( 1,362 ) ( 3,402 ) ( 1,351 )
+Financing Activities
+Purchases of treasury stock ( 11,727 ) ( 10,954 ) ( 9,032 )
+Dividends paid ( 2,756 ) ( 2,448 ) ( 2,158 )
+Proceeds from debt, net 1,242 3,960 1,554
+Payment of debt ( 750 ) ( 1,336 ) —
+Tax withholdings related to share-based payments ( 291 ) ( 178 ) ( 89 )
+Cash proceeds from employee stock plans 203 224 237
+Other financing activities ( 100 ) ( 104 ) —
+Net cash used in financing activities ( 14,179 ) ( 10,836 ) ( 9,488 )
+Effect of exchange rate changes on cash, cash equivalents, restricted cash and restricted cash equivalents 333 ( 199 ) 128
+Net increase in cash, cash equivalents, restricted cash and restricted cash equivalents 2,440 343 1,269
+Cash, cash equivalents, restricted cash and restricted cash equivalents - beginning of period 10,808 10,465 9,196
+Cash, cash equivalents, restricted cash and restricted cash equivalents - end of period $ 13,248 $ 10,808 $ 10,465
+The accompanying notes are an integral part of these consolidated financial statements.
+73 MASTERCARD 2025 FORM 10-K
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Notes to consolidated financial statements
+Note 1. Summary of Significant Accounting Policies
+Organization
+Mastercard Incorporated and its consolidated subsidiaries, including Mastercard International Incorporated ("Mastercard International" and together with Mastercard Incorporated, "Mastercard" or the "Company"), is a technology company in the global payments industry. Mastercard connects consumers, financial institutions, merchants, governments, digital partners, businesses and other organizations worldwide by enabling electronic payments and making those payment transactions secure, simple, smart and accessible. The Company makes payments easier and more efficient by providing a wide range of payment solutions and services using its family of well-known and trusted brands, including its primary brand Mastercard , as well as its Maestro and Cirrus brands. The Company operates a payments network that provides choice and flexibility for consumers, merchants and Mastercard customers. Through its unique and proprietary global payments network, the Company switches (authorizes, clears and settles) payment transactions. The Company has additional payments capabilities that include automated clearing house ("ACH") transactions (both batch and real-time account-based payments). Using these capabilities, the Company offers consumer and commercial payment products, captures new payment flows and provides services and solutions. The Company's services and solutions include, among others, security solutions, consumer acquisition and engagement services, business and market insights, digital and authentication, processing and gateway and other solutions, all of which draw on Mastercard's principled and responsible use of secure data. The Company's capabilities strengthen, reinforce and complement each other and are fundamentally interdependent. For the global payments network, Mastercard's franchise model sets the standards and ground-rules that balance value and risk across (and allows for interoperability among) all stakeholders. The Company employs a multi-layered approach to help protect the global payments ecosystem in which it operates.
+Mastercard is not a financial institution. The Company does not issue cards, extend credit, determine or receive revenue from interest rates or other fees charged to account holders by issuers, nor does the Company establish the rates charged by acquirers in connection with merchants' acceptance of the Company's products. In most cases, account holder relationships belong to, and are managed by, the Company's financial institution customers.
+Significant Accounting Policies
+Consolidation and basis of presentation - The consolidated financial statements include the accounts of Mastercard and its majority-owned and controlled entities, including any variable interest entities ("VIEs") for which the Company is the primary beneficiary. Investments in VIEs for which the Company is not considered the primary beneficiary are not consolidated and are accounted for as marketable, equity method or measurement alternative method investments and recorded in other assets on the consolidated balance sheets. At December 31, 2025 and 2024, there were no significant VIEs that required consolidation and the investments were not considered material to the consolidated financial statements. The Company consolidates acquisitions as of the date the Company has obtained a controlling financial interest. Intercompany transactions and balances have been eliminated in consolidation. Certain prior period amounts within the consolidated statements of cash flows have been reclassified to conform to the 2025 presentation. The reclassification had no impact on previously reported net cash flows from operating, investing or financing activities. The Company follows accounting principles generally accepted in the United States of America ("GAAP").
+Non-controlling interests represent the equity interest not owned by the Company and are recorded for consolidated entities in which the Company owns less than 100 % of the interests. Changes in a parent's ownership interest while the parent retains its controlling interest are accounted for as equity transactions, and upon loss of control, retained ownership interests are remeasured at fair value, with any gain or loss recognized in earnings. For 2025, 2024 and 2023, net income/(losses) attributable to non-controlling interests were not material and, as a result, amounts are included on the consolidated statements of operations within other income (expense).
+Use of estimates - The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting periods. Future events and their effects cannot be predicted with certainty; accordingly, accounting estimates require the exercise of judgment. These financial statements were prepared using information reasonably available as of December 31, 2025 and through the date of this Report. The accounting estimates used in the preparation of the Company's consolidated financial statements may change as new events occur, as more experience is acquired, as additional information is obtained and as the Company's operating environment changes. Actual results may differ from these estimates.
+MASTERCARD 2025 FORM 10-K 74
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Revenue recognition - Revenue is recognized to depict the transfer of promised services to customers in an amount that reflects the consideration to which the Company expects to be entitled to in exchange for those services.
+Revenue from the Company's payment network is primarily generated by charging fees to customers (issuers, acquirers and other market participants) for providing switching and other network-related services, as well as by charging fees to customers based primarily on the gross dollar volume of activity (GDV, which includes both domestic and cross-border volume) on the cards that carry the Company's brands. Revenue is recognized in the period in which the related transactions and volume occur. Certain volume-based revenue is determined from information reported by customers.
+Revenue from the Company's value-added services and solutions is generated through either fixed or transaction-based fees. These services and solutions can be integrated and sold with the Company's payment network services or can be sold on a stand-alone basis. For those contracts that include multiple performance obligations, the Company allocates revenue to each performance obligation based on its relative standalone selling price ("SSP"). The SSP is the price at which the Company would sell a promised product or service separately in similar circumstances to similar customers. Revenue from the Company's value-added services and solutions is recognized in the period in which the related services and solutions are performed or transactions occur. For services provided to customers where delivery involves the use of a third-party, the Company recognizes revenue on a gross basis if it acts as the principal, controlling the service to the customer, or on a net basis if it acts as the agent, arranging for the service to be provided.
+Mastercard has business agreements with certain customers that provide for rebates and incentives within net revenue that could be either fixed or variable. Fixed incentives typically represent payments to a customer directly related to entering into an agreement, which are generally capitalized and amortized over the life of the agreement on a straight-line basis. Variable rebates and incentives are recorded primarily when volume- and transaction-based revenues are recognized over the contractual term and are calculated based upon estimated customer performance, such as volume thresholds, and the terms of the related business agreements. Capitalized customer incentives are included in prepaid expenses and other current assets and other assets on the consolidated balance sheets. Customer incentives to be paid to customers under business agreements are included in accrued expenses and other liabilities on the consolidated balance sheets.
+Certain of the Company's contracts may include options to receive additional value-added services and solutions. The Company accounts for the option as a distinct performance obligation if the option provides a material right to the customer. Material rights are incremental to the standard offerings, which a customer would not have received without entering into the contract. If a material right exists in a contract, revenue allocated to the option is deferred and recognized as revenue when those future products or services are transferred or when the option expires. The value of the option is based on observable prices in the contract or on a relative SSP basis.
+Contract assets include unbilled consideration typically resulting from executed value-added services and solutions performed for customers in connection with Mastercard's payments network service arrangements. Collection for these services typically occurs over the contractual term. Contract assets are included in prepaid expenses and other current assets and other assets on the consolidated balance sheets.
+The Company defers the recognition of revenue when consideration has been received prior to the satisfaction of performance obligations. As these performance obligations are satisfied, revenue is subsequently recognized. Deferred revenue primarily relates to certain value-added services and solutions. Deferred revenue is included in other current liabilities and other liabilities on the consolidated balance sheets.
+Business combinations - The Company accounts for business combinations under the acquisition method of accounting. The Company measures the tangible and intangible identifiable assets acquired, liabilities assumed, any non-controlling interest in the acquiree and contingent consideration at fair value as of the acquisition date. Acquisition-related costs are expensed as incurred and are included in general and administrative expenses on the consolidated statements of operations. Any excess purchase price over the fair value of net assets acquired, including identifiable intangible assets, is recorded as goodwill. Measurement period adjustments, if any, to the preliminary estimated fair value of the intangibles assets as of the acquisition date are recorded in goodwill.
+Goodwill and other intangible assets - Indefinite-lived intangible assets consist of goodwill and customer relationships. Goodwill represents the synergies expected to arise after the acquisition date and the assembled workforce. Finite-lived intangible assets consist of capitalized software costs, intangible assets acquired in business combinations (including customer relationships and acquired technology) and other intangible assets. Intangible assets with finite useful lives are amortized over their estimated useful lives, on a straight-line basis, which range from one to twenty years . Capitalized software includes internal and external costs incurred directly related to the design, development and testing phases of each capitalized software project.
+The valuation methods for goodwill and other intangible assets acquired in business combinations involve assumptions concerning comparable company multiples, discount rates, growth projections and other assumptions of future business conditions. The
+75 MASTERCARD 2025 FORM 10-K
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Company uses various valuation techniques to determine the fair value of its intangible assets, primarily discounted cash flows analysis, relief-from-royalty and multi-period excess earnings. As the assumptions employed to measure these assets are based on management's judgment using internal and external data, these fair value determinations are classified in Level 3 of the Valuation Hierarchy (as defined in Fair value subsection below).
+Impairment of assets - Goodwill and indefinite-lived intangible assets are not amortized but tested annually for impairment at the reporting unit level in the fourth quarter, or sooner when circumstances indicate an impairment may exist. The impairment evaluation for goodwill utilizes a qualitative assessment to determine whether it is more likely than not that goodwill is impaired. The qualitative factors may include, but are not limited to, macroeconomic conditions, industry and market conditions, operating environment, financial performance and other relevant events. If it is determined that it is more likely than not that goodwill is impaired, then the Company is required to perform a quantitative goodwill impairment test. If the fair value of the reporting unit exceeds the carrying value, goodwill is not impaired. If the fair value of the reporting unit is less than its carrying value, goodwill is impaired and the excess of the reporting unit's carrying value over the fair value is recognized as an impairment charge.
+The impairment test for indefinite-lived intangible assets consists of a qualitative assessment to evaluate relevant events and circumstances that could affect the significant inputs used to determine the fair value of indefinite-lived intangible assets. If the qualitative assessment indicates that it is more likely than not that indefinite-lived intangible assets are impaired, then a quantitative assessment is required. If the fair value of the indefinite-lived intangible asset exceeds the carrying value, the asset is not impaired. If the fair value of the indefinite-lived intangible asset is less than its carrying value, the asset is impaired and the excess of the asset's carrying value over the fair value is recognized as an impairment charge.
+Long-lived assets, other than goodwill and indefinite-lived intangible assets, are tested for impairment whenever events or circumstances indicate that their carrying amount may not be recoverable. If the carrying value of the asset cannot be recovered from estimated future cash flows, undiscounted and without interest, the fair value of the asset is calculated using the present value of estimated net future cash flows. If the carrying amount of the asset exceeds its fair value, an impairment is recorded.
+Impairment charges, if any, are recorded in general and administrative expenses on the consolidated statements of operations.
+Litigation - The Company is a party to certain legal and regulatory proceedings with respect to a variety of matters. The Company evaluates the likelihood of an unfavorable outcome of all legal or regulatory proceedings to which it is a party and accrues a loss contingency when the loss is probable and reasonably estimable. Loss contingencies are recorded in provision for litigation on the consolidated statements of operations. These judgments are subjective based on the status of the legal or regulatory proceedings, the merits of its defenses and consultation with in-house and external legal counsel. Legal costs are expensed as incurred and recorded in general and administrative expenses on the consolidated statements of operations.
+Settlement and other risk management - Mastercard's rules guarantee the settlement of many of the payment network transactions between its customers. Settlement exposure is the outstanding settlement risk to customers under Mastercard's rules due to the difference in timing between the payment transaction date and subsequent settlement. For those transactions the Company guarantees, the guarantee will cover the full amount of the settlement obligation to the extent the settlement obligation is not otherwise satisfied. The duration of the settlement exposure is short-term and generally limited to a few days.
+The Company also enters into agreements in the ordinary course of business under which the Company agrees to indemnify third parties against damages, losses and expenses incurred in connection with legal and other proceedings arising from relationships or transactions with the Company. As the extent of the Company's obligations under these agreements depends entirely upon the occurrence of future events, the Company's potential future liability under these agreements is not determinable.
+The Company accounts for each of its guarantees by recording the guarantee at its fair value at the inception or modification date through earnings.
+Settlement assets/obligations - The Company operates systems for settling payment transactions among participants in the payments ecosystem in which the Company operates. Settlement is generally completed on a same-day basis. In some circumstances, however, funds may not settle until subsequent business days. In addition, the Company may receive or post funds in advance of transactions related to certain payments capabilities. The Company classifies the balances arising from these various activities as settlement assets and settlement obligations.
+Income taxes - The Company follows an asset and liability based approach in accounting for income taxes as required under GAAP. Deferred income tax assets and liabilities are recorded to reflect the tax consequences on future years of temporary differences between the financial statement carrying amounts and income tax bases of assets and liabilities. Deferred income taxes are displayed separately as noncurrent assets and liabilities on the consolidated balance sheets. Valuation allowances are provided against assets which are not more likely than not to be realized. The Company recognizes all material tax positions, including uncertain tax positions in which it is more likely than not that the position will be sustained based on its technical merits and if challenged by the relevant taxing authorities. At each balance sheet date, unresolved uncertain tax positions are reassessed to
+MASTERCARD 2025 FORM 10-K 76
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+determine whether subsequent developments require a change in the amount of recognized tax benefit. The allowance for uncertain tax positions is recorded in other current and noncurrent liabilities on the consolidated balance sheets. The Company records interest expense related to income tax matters as interest expense on the consolidated statements of operations. The Company includes penalties related to income tax matters in the income tax provision.
+Cash and cash equivalents - Cash and cash equivalents include certain investments with daily liquidity and with an original maturity of three months or less from the date of purchase. Cash equivalents are recorded at cost, which approximates fair value.
+Restricted cash and restricted cash equivalents - The Company classifies cash and cash equivalents as restricted when it is unavailable for withdrawal or use in its general operations. The Company has the following types of restricted cash and restricted cash equivalents ("restricted cash") that are included in the reconciliation of beginning-of-period and end-of-period amounts shown on the consolidated statements of cash flows:
+Restricted cash - Restricted cash includes cash segregated to meet regulatory commitments, cash within qualified legal settlement funds and cash restricted for other general business purposes, including contractually restricted deposits as well as cash balances that are restricted based on the Company's intention with regard to usage.
+Restricted security deposits held for customers - The Company requires certain customers to enter into risk mitigation arrangements, including cash collateral and/or forms of credit enhancement such as letters of credit and guarantees, for settlement of their transactions. Certain risk mitigation arrangements for settlement, such as standby letters of credit and bank guarantees, are not recorded on the consolidated balance sheets. The Company also holds cash deposits and certificates of deposit from certain customers as collateral for settlement of their transactions, which are recorded as assets on the consolidated balance sheets. These assets are fully offset by corresponding liabilities included on the consolidated balance sheets. The amount of these security deposits and the duration held are determined by the risk profile of the individual customer and the Company's risk management practices.
+Fair value - The Company measures certain financial assets and liabilities at fair value on a recurring basis by estimating the price that would be received upon the sale of an asset or paid to transfer a liability in an orderly transaction between market participants. The Company also measures certain financial and non-financial assets and liabilities at fair value on a nonrecurring basis, when a change in fair value or impairment is evidenced. The Company classifies these recurring and nonrecurring fair value measurements into a three-level hierarchy ("Valuation Hierarchy").
+The Valuation Hierarchy is based upon the transparency of inputs to the valuation of an asset or liability as of the measurement date. A financial instrument's categorization within the Valuation Hierarchy is based upon the lowest level of input that is significant to the fair value measurement. The three levels of the Valuation Hierarchy are as follows:
+Level 1 - inputs to the valuation methodology are quoted prices (unadjusted) for identical assets or liabilities in active markets.
+Level 2 - inputs to the valuation methodology include quoted prices for similar assets and liabilities in active markets, quoted prices for identical or similar assets and liabilities in inactive markets and inputs that are observable for the asset or liability.
+Level 3 - inputs to the valuation methodology are unobservable and cannot be directly corroborated by observable market data.
+The Company's financial assets and liabilities measured at fair value on a recurring basis include investment securities available-for-sale, marketable securities, derivative instruments and deferred compensation. The Company's financial assets measured at fair value on a nonrecurring basis include nonmarketable securities. The Company's non-financial assets measured at fair value on a nonrecurring basis include property, equipment and right-of-use assets, goodwill and other intangible assets and are subject to fair value adjustments in certain circumstances, such as when there is evidence of impairment.
+Investment securities - The Company classifies investments as available-for-sale or held-to-maturity at the date of acquisition.
+Available-for-sale debt securities:
+Investments in debt securities that are available to meet the Company's current operational needs are classified as current assets and the securities that are not available for current operational needs are classified as noncurrent assets on the consolidated balance sheets.
+The debt securities are carried at fair value, with unrealized gains and losses, net of tax, recorded as a separate component of accumulated other comprehensive income (loss) on the consolidated statements of changes in equity. Net realized gains and losses on debt securities are recognized in investment income on the consolidated statements of operations. The specific identification method is used to determine realized gains and losses.
+The Company evaluates its debt securities for impairment on an ongoing basis. When there has been a decline in fair value of a debt security below the amortized cost basis, the Company recognizes an impairment if: (1) it has the intent to sell the security; (2) it is more likely than not that it will be required to sell the security before recovery of the amortized cost basis;
+77 MASTERCARD 2025 FORM 10-K
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+or (3) it does not expect to recover the entire amortized cost basis of the security. The credit loss component of the impairment is recognized as an allowance and recorded in other income (expense), net on the consolidated statements of operations while the non-credit related loss remains in accumulated other comprehensive income (loss) until realized from a sale or subsequent impairment.
+Held-to-maturity securities:
+Time deposits - The Company classifies time deposits with original maturities greater than three months as held-to-maturity. Held-to-maturity securities that mature within one year are classified as current assets within investments on the consolidated balance sheets while held-to-maturity securities with maturities of greater than one year are classified as other assets. Time deposits are carried at amortized cost on the consolidated balance sheets and are intended to be held until maturity.
+Equity investments - The Company holds equity securities of publicly traded and privately held companies.
+Marketable equity securities - Marketable equity securities are strategic investments in publicly traded companies and are measured at fair value using quoted prices in their respective active markets with changes recorded through gains (losses) on equity investments, net on the consolidated statements of operations. Marketable equity securities that are expected to be held as part of the Company's long-term investment strategy are classified in other assets on the consolidated balance sheets.
+Nonmarketable equity investments - The Company's nonmarketable equity investments, which are reported in other assets on the consolidated balance sheets, include strategic investments in privately held companies without readily determinable market values. The Company uses discounted cash flows and market assumptions to estimate the fair value of its nonmarketable equity investments when certain events or circumstances indicate that impairment may exist. The Company's nonmarketable equity investments are accounted for under the measurement alternative method or equity method.
+Measurement alternative method - The Company accounts for investments in common stock or in-substance common stock under the measurement alternative method of accounting when it does not exercise significant influence, generally when it holds less than 20 % ownership in the entity or when the interest in a limited partnership or limited liability company is less than 5 % and the Company has no significant influence over the operations of the investee. Investments in companies that Mastercard does not control, but that are not in the form of common stock or in-substance common stock, are also accounted for under the measurement alternative method of accounting. Measurement alternative investments are measured at cost, less any impairment and adjusted for changes resulting from observable price changes in orderly transactions for identical or similar investments of the same issuer. Fair value adjustments, as well as impairments, are included in gains (losses) on equity investments, net on the consolidated statements of operations.
+Equity method - The Company accounts for investments in common stock or in-substance common stock under the equity method of accounting when it has the ability to exercise significant influence over the operations of the investee, generally when it holds between 20% and 50% ownership in the entity. The excess of the cost over the underlying net equity of investments accounted for under the equity method is allocated to identifiable tangible and intangible assets and liabilities based on fair values at the date of acquisition. The amortization of the excess of the cost over the underlying net equity of investments and Mastercard's share of net earnings or losses of entities accounted for under the equity method of accounting is included in other income (expense), net on the consolidated statements of operations.
+In addition, investments in flow-through entities such as limited partnerships and limited liability companies are also accounted for under the equity method when the Company has the ability to exercise significant influence over the operations of the investee, generally when the investment ownership percentage is equal to or greater than 5% of the outstanding ownership interest. The Company's share of net earnings or losses for these investments are included in gains (losses) on equity investments, net on the consolidated statements of operations.
+Derivative and hedging instruments - The Company's derivative financial instruments are recorded as either assets or liabilities on the balance sheet and measured at fair value. The Company's foreign exchange and interest rate derivative contracts are included in Level 2 of the Valuation Hierarchy as the fair value of the contracts are based on inputs that are observable based on broker quotes for the same or similar instruments. The Company does not enter into derivative instruments for trading or speculative purposes. For derivatives that are not designated as hedging instruments, realized and unrealized gains and losses from the change in fair value of the derivatives are recognized in current earnings.
+The Company's derivatives that are designated as hedging instruments are required to meet established accounting criteria. In addition, an effectiveness assessment is required to demonstrate that the derivative is expected to be highly effective at offsetting changes in fair value or cash flows of the underlying exposure both at inception of the hedging relationship and on an ongoing basis. The method of assessing hedge effectiveness and measuring hedge results is formally documented at hedge inception and assessed at least quarterly throughout the designated hedge period.
+MASTERCARD 2025 FORM 10-K 78
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The Company may designate derivative instruments as cash flow, fair value and net investment hedges, as follows:
+Cash flow hedges - Fair value adjustments to derivative instruments are recorded, net of tax, in other comprehensive income (loss) on the consolidated statements of comprehensive income. Any gains and losses deferred in accumulated other comprehensive income (loss) are subsequently reclassified to the corresponding line item on the consolidated statements of operations when the underlying hedged transactions impact earnings. For hedges that are no longer deemed highly effective, hedge accounting is discontinued prospectively, and any gains and losses remaining in accumulated other comprehensive income (loss) are reclassified to earnings when the underlying forecasted transaction occurs. Any amounts excluded from effectiveness testing of cash flow hedges are recognized in earnings over the life of the hedging instrument. If it is probable that the forecasted transaction will no longer occur, the associated gains or losses in accumulated other comprehensive income (loss) are reclassified to the corresponding line item on the consolidated statements of operations in current earnings.
+Fair value hedges - Changes in the fair value of derivative instruments are recorded in current-period earnings, along with the gain or loss on the hedged asset or liability ("hedged item") that is attributable to the hedged risk. All amounts recognized in earnings are recorded to the corresponding line item on the consolidated statements of operations as the earnings effect of the hedged item. Hedged items are measured on the consolidated balance sheets at their carrying amount adjusted for any changes in fair value attributable to the hedged risk ("basis adjustments"). The Company defers the amortization of any basis adjustments until the end of the derivative instrument's term. If the hedge designation is discontinued for reasons other than derecognition of the hedged item, the remaining basis adjustments are amortized in accordance with applicable GAAP for the hedged item.
+Net investment hedges - The Company has numerous investments in foreign subsidiaries. The net assets of these subsidiaries are exposed to volatility in foreign currency exchange rates. The Company may use foreign currency denominated debt and/or derivative instruments to hedge a portion of its net investment in foreign operations against adverse movements in exchange rates. The effective portion of the foreign currency gains and losses related to the hedging instruments are reported in accumulated other comprehensive income (loss) on the consolidated balance sheets as a cumulative translation adjustment component of equity. Gains and losses in accumulated other comprehensive income (loss) are reclassified to earnings only if the Company sells or substantially liquidates its net investments in foreign subsidiaries. Amounts excluded from effectiveness testing of net investment hedges are recognized in earnings over the life of the hedging instrument. The Company evaluates the effectiveness of the net investment hedge each quarter.
+Property, equipment and right-of-use assets - Property and equipment are stated at cost less accumulated depreciation and amortization. Depreciation and amortization is computed using the straight-line method over the estimated useful lives of the assets. Depreciation of leasehold improvements and amortization of finance leases is included in depreciation and amortization expense on the consolidated statements of operations. Operating lease amortization expense is included in general and administrative expenses on the consolidated statements of operations.
+The Company determines if a contract is, or contains, a lease at contract inception. The Company's right-of-use ("ROU") assets are primarily related to operating leases for office space, automobiles and other equipment. Leases are included in property, equipment and right-of-use assets, other current liabilities and other liabilities on the consolidated balance sheets.
+ROU assets represent the right to use an underlying asset for the lease term and lease liabilities represent the obligation to make lease payments arising from the lease. ROU assets and lease liabilities are recognized at the commencement date based on the present value of lease payments over the lease term. In addition, ROU assets include initial direct costs incurred by the lessee as well as any lease payments made at or before the commencement date, and exclude lease incentives. As most of the Company's leases do not provide an implicit rate, the Company uses its incremental borrowing rate based on the information available at the commencement date in determining the present value of lease payments. The incremental borrowing rate is determined by using the rate of interest that the Company would pay to borrow on a collateralized basis an amount equal to the lease payments for a similar term and in a similar economic environment. Lease terms include options to extend or terminate the lease when it is reasonably certain that the Company will exercise that option. Leases with a term of one year or less are excluded from ROU assets and liabilities.
+The Company excludes variable lease payments in measuring ROU assets and lease liabilities, other than those that depend on an index, a rate or are in-substance fixed payments. Lease and nonlease components are generally accounted for separately. When available, consideration is allocated to the separate lease and nonlease components in a lease contract on a relative standalone price basis using observable standalone prices.
+Pension and other postretirement plans - The Company recognizes the funded status of its single-employer defined benefit pension plans and postretirement plans as assets or liabilities on its consolidated balance sheets and recognizes changes in the funded status in the year in which the changes occur through accumulated other comprehensive income (loss). The funded status is measured as the difference between the fair value of plan assets and the projected benefit obligation at December 31, the measurement date.
+79 MASTERCARD 2025 FORM 10-K
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Overfunded plans, if any, are aggregated and recorded in other assets, while underfunded plans, if any, are aggregated and recorded as accrued expenses and other liabilities on the consolidated balance sheets.
+Net periodic pension and postretirement benefit cost/(income), excluding the service cost component, is recognized in other income (expense), net on the consolidated statements of operations. These costs include interest cost, expected return on plan assets, amortization of prior service costs or credits and gains or losses previously recognized as a component of accumulated other comprehensive income (loss). The service cost component is recognized in general and administrative expenses on the consolidated statements of operations.
+Defined contribution plans - The Company's contributions to defined contribution plans are recorded as employees render service to the Company. The charge is recorded in general and administrative expenses on the consolidated statements of operations.
+Advertising and marketing - Expenses incurred to promote Mastercard's brand, products and services are recognized in advertising and marketing on the consolidated statements of operations. The timing of recognition is dependent on the type of advertising or marketing expense.
+Foreign currency remeasurement and translation - Revenue and expense transactions in currencies other than applicable functional currency of an entity are converted to the functional currency at the exchange rate on the transaction date. Monetary assets and liabilities in a currency other than the functional currency are remeasured using current exchange rates in effect at the balance sheet date. Non-monetary assets and liabilities are recorded at historical exchange rates. Resulting exchange gains and losses related to remeasurement are included in general and administrative expenses on the consolidated statements of operations.
+Where a non-U.S. currency is the functional currency, translation from that functional currency to U.S. dollars is performed for balance sheet accounts using current exchange rates in effect at the balance sheet date and for revenue and expense accounts using a weighted-average exchange rate for the period. Resulting translation adjustments are reported as a component of accumulated other comprehensive income (loss).
+Government grants - The Company receives government grants from various jurisdictions spanning multiple years, primarily to support investment initiatives in those jurisdictions. Government grants, primarily cash grants, are recognized when there is reasonable assurance that the grant will be received and compliance with the conditions specified in the agreement will be met. Within the consolidated statements of operations, the Company records operating-related grants as a reduction to expense in the same line item as the expenditure for which the grant is intended to compensate. Government grants that are not intended to compensate operating expenses are recorded in other income (expense), net on the consolidated statements of operations.
+Treasury stock - The Company records the repurchase of shares of its common stock at cost on the trade date of the transaction. These shares are considered treasury stock, which is a reduction to stockholders' equity. Treasury stock is included in authorized and issued shares but excluded from outstanding shares. The Company also records an excise tax of 1% on the fair market value of net repurchases of shares of its common stock within treasury stock.
+Share-based payments - The Company measures share-based compensation expense at the grant date, based on the estimated fair value of the award and uses the straight-line method of attribution, net of estimated forfeitures, for expensing awards over the requisite employee service period. The Company estimates the fair value of its non-qualified stock option awards ("Options") using a Black-Scholes valuation model. The fair value of restricted stock units ("RSUs") is determined and fixed on the grant date based on the Company's stock price, adjusted for the exclusion of dividend equivalents. The Monte Carlo simulation valuation model is used to determine the grant date fair value of performance stock units ("PSUs") granted. All share-based compensation expenses are recorded in general and administrative expenses on the consolidated statements of operations.
+Earnings per share - The Company calculates basic earnings per share ("EPS") by dividing net income by the weighted-average number of common shares outstanding during the year. Diluted EPS is calculated by dividing net income by the weighted-average number of common shares outstanding during the year, adjusted for the potentially dilutive effect of stock options and unvested stock units using the treasury stock method.
+Accounting Pronouncements Not Yet Adopted
+Disaggregation of Income Statement Expenses - In November 2024, the Financial Accounting Standards Board ("FASB") issued accounting guidance to improve the disclosures of a public business entity's expenses and address requests from investors for more detailed information about the types of expenses in commonly presented expense captions. This guidance is effective for fiscal years beginning after December 15, 2026, and interim periods after December 15, 2027. The Company is in the process of evaluating when it will adopt this guidance.
+MASTERCARD 2025 FORM 10-K 80
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Targeted Improvements to the Accounting for Internal-Use Software - In September 2025, the FASB issued accounting guidance to modernize the accounting for internal-use software costs by eliminating the consideration of project development stages and clarifying the criteria for capitalization. This guidance is effective for fiscal years beginning after December 15, 2027, including interim periods. The Company is in the process of evaluating when it will adopt and assessing the impact of this guidance on its financial statements.
+Accounting for Government Grants Received by Business Entities - In December 2025, the FASB issued accounting guidance on the recognition, measurement and presentation for government grants received by business entities. This guidance is effective for fiscal years beginning after December 15, 2028, including interim periods. The Company is in the process of evaluating when it will adopt and assessing the impact of this guidance on its financial statements.
+Note 2. Acquisitions
+In 2025, the Company did not complete any business acquisitions.
+In 2024, the Company acquired businesses for total cash consideration of $ 2.8 billion. In December 2024, Mastercard acquired a 100 % equity interest in RF Ultimate Parent, Inc. ("Recorded Future"), a global threat intelligence company, for cash consideration of $ 2.7 billion. This acquisition is expected to add threat intelligence capabilities to Mastercard's identity, fraud prevention, real-time decisioning and cybersecurity services. The net assets acquired primarily related to intangible assets, including goodwill of $ 1.7 billion that is primarily attributable to the synergies expected to arise after the acquisition date. None of the goodwill is expected to be deductible for local tax purposes.
+In 2023, the Company did not complete any material business acquisitions.
+These acquisitions align with the Company's strategy to grow, diversify and build the Company's business. Refer to Note 1 (Summary of Significant Accounting Policies) for the valuation techniques Mastercard utilizes to fair value the respective components of business combinations.
+In 2025, the Company finalized the purchase accounting for the businesses acquired in 2024. The fair values of the purchase price allocations in aggregate, as of the acquisition dates, are noted below for the businesses acquired in 2024.
+2024
+(in millions)
+Assets:
+Cash and cash equivalents $ 270
+Prepaid expenses and other current assets
+79
+Goodwill 1,736
+Other intangible assets, net
+1,361
+Other assets 20
+Total assets 3,466
+Liabilities:
+Other current liabilities 413
+Deferred income taxes 207
+Other liabilities 65
+Total liabilities 685
+Net assets acquired $ 2,781
+81 MASTERCARD 2025 FORM 10-K
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The following table summarizes the identified intangible assets acquired in 2024:
+2024 2024
+Acquisition Date Fair Value Weighted-Average Useful Life
+(in millions) (in years)
+Developed technologies $ 530 8.9
+Customer relationships 781 15.0
+Other
+50 9.0
+Other intangible assets, net
+$ 1,361 12.4
+Proforma information related to these acquisitions was not included because the impact on the Company's consolidated results of operations was not considered to be material.
+Note 3. Revenue
+Mastercard is a payments network service provider that generates revenue from a wide range of payments solutions provided to customers. Revenue from contracts with customers is recognized when services are performed in an amount that reflects the consideration to which the Company expects to be entitled to in exchange for those services (i.e., fees charged to customers). The Company disaggregates its net revenue from contracts with customers into two categories: (i) payment network and (ii) value-added services and solutions. The Company's net revenue categories, payment network and value-added services and solutions, are recognized net of rebates and incentives provided to customers. Rebates and incentives can be either fixed or variable and are attributed to the category of revenue to which they pertain.
+Payment network
+Mastercard's payment network involves four participants in addition to the Company: account holders (a person or entity who holds a card or uses another device enabled for payment), issuers (the account holders' financial institutions), merchants and acquirers (the merchants' financial institutions). Revenue from the Company's payment network is primarily generated by charging fees to customers (issuers, acquirers and other market participants) for providing switching and other network-related services, as well as by charging fees to customers bas

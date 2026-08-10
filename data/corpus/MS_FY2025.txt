@@ -1,0 +1,456 @@
+lying algorithms and valuation methodologies are complex.
+We identified the valuation of Level 3 financial assets and Level 3 trading liabilities, borrowings, other secured financings, and securities sold under agreements to repurchase carried at fair value on a recurring basis and Level 3 loans held for sale as a critical audit matter given the Firm uses complex valuation models and/or valuation inputs that are not observable in the marketplace to determine the respective carrying values. Performing our audit procedures to evaluate the appropriateness of these models and inputs involved a high degree of auditor judgment, professionals with specialized skills and knowledge, and an increased extent of testing.
+How the Critical Audit Matter Was Addressed in the Audit
+Our audit procedures related to the valuation of Level 3 financial assets and Level 3 trading liabilities, borrowings, other secured
+December 2025 Form 10-K 78
+Table of Contents
+borrowings, and securities sold under agreements to repurchase carried at fair value on a recurring basis and Level 3 loans held for sale included the following, among others:
+We tested the design and operating effectiveness of the Firm's model review and price verification controls. The Firm maintains these internal controls to assess the appropriateness of its valuation methodologies and the relevant inputs and assumptions.
+We independently evaluated the appropriateness of management's valuation methodologies for selected financial instruments, including the input assumptions, considering the expected assumptions of other market participants and external data when available.
+We developed independent estimates for selected financial instruments using externally sourced inputs and independent valuation models and used such estimates to further evaluate management's estimates. For certain of our selected financial instruments, this included a comparison to the Firm's estimates for similar transactions and an evaluation of the Firm's assumptions inclusive of the inputs, as applicable.
+We tested the revenues arising from the trade date fair value estimates for selected structured transactions for which we developed independent estimates to test the valuation inputs and assumptions used by the Firm and evaluated whether these methods were consistent with the Firm's relevant valuation policies.
+We assessed the consistency by which management has applied significant and unobservable valuation assumptions used in developing the Firm's estimates.
+We performed a retrospective assessment of management's estimates for certain of our selected financial instruments, for which there were events or transactions occurring after the valuation date. We did so by comparing management's estimates to the relevant evidence provided by such events or transactions, as applicable.
+/s/ Deloitte & Touche LLP
+New York, New York
+February 19, 2026
+We have served as the Firm's auditor since 1997.
+79
+December 2025 Form 10-K
+Table of Contents
+Consolidated Income Statement
+in millions, except per share data 2025 2024 2023
+Revenues
+Investment banking $ 8,199 $ 6,705 $ 4,948
+Trading 18,556 16,763 15,263
+Investments 1,351 824 573
+Commissions and fees 5,936 5,094 4,537
+Asset management 25,145 22,499 19,617
+Other 1,412 1,265 975
+Total non-interest revenues 60,599 53,150 45,913
+Interest income 1
+59,063 54,135 45,849
+Interest expense 1
+49,017 45,524 37,619
+Net interest 10,046 8,611 8,230
+Net revenues 70,645 61,761 54,143
+Provision for credit losses 349 264 532
+Non-interest expenses
+Compensation and benefits 29,216 26,178 24,558
+Brokerage, clearing and exchange fees 4,679 4,140 3,476
+Information processing and communications 4,418 4,088 3,775
+Professional services 2,839 2,901 3,058
+Occupancy and equipment 1,872 1,905 1,895
+Marketing and business development 1,173 965 898
+Other 4,145 3,724 4,138
+Total non-interest expenses 48,342 43,901 41,798
+Income before provision for income taxes 21,954 17,596 11,813
+Provision for income taxes 4,929 4,067 2,583
+Net income $ 17,025 $ 13,529 $ 9,230
+Net income applicable to noncontrolling interests 164 139 143
+Net income applicable to Morgan Stanley $ 16,861 $ 13,390 $ 9,087
+Preferred stock dividends 612 590 557
+Earnings applicable to Morgan Stanley common shareholders $ 16,249 $ 12,800 $ 8,530
+Earnings per common share
+Basic $ 10.32 $ 8.04 $ 5.24
+Diluted 10.21 7.95 5.18
+Average common shares outstanding
+Basic 1,574 1,591 1,628
+Diluted 1,592 1,611 1,646
+1. 2023 amounts have been adjusted to conform with the current period presentation. See Note 2 for additional information.
+Consolidated Comprehensive Income Statement
+$ in millions 2025 2024 2023
+Net income $ 17,025 $ 13,529 $ 9,230
+Other comprehensive income (loss), net of tax:
+Foreign currency translation adjustments 306 ( 422 ) ( 20 )
+Change in net unrealized gains (losses) on available-for-sale securities 988 521 1,098
+Pension and other 25 12 ( 87 )
+Change in net debt valuation adjustment ( 858 ) ( 534 ) ( 1,290 )
+Net change in cash flow hedges 58 ( 51 ) 20
+Total other comprehensive income (loss) $ 519 $ ( 474 ) $ ( 279 )
+Comprehensive income $ 17,544 $ 13,055 $ 8,951
+Net income applicable to noncontrolling interests 164 139 143
+Other comprehensive income (loss) applicable to noncontrolling interests ( 10 ) ( 81 ) ( 111 )
+Comprehensive income applicable to Morgan Stanley $ 17,390 $ 12,997 $ 8,919
+December 2025 Form 10-K 80
+See Notes to Consolidated Financial Statements
+Table of Contents
+Consolidated Balance Sheet
+$ in millions, except share data At
+December 31, 2025
+At
+December 31, 2024
+Assets
+Cash and cash equivalents $ 111,695 $ 105,386
+Trading assets at fair value ( $ 213,269 and $ 148,945 were pledged to various parties)
+428,276 331,884
+Investment securities:
+Available-for-sale at fair value (amortized cost of $ 112,522 and $ 101,960 )
+110,466 98,608
+Held-to-maturity (fair value of $ 45,615 and $ 51,203 )
+53,090 61,071
+Securities purchased under agreements to resell (includes $ — and $ — at fair value)
+120,243 118,565
+Securities borrowed 151,908 123,859
+Customer and other receivables 114,720 86,158
+Loans:
+Held for investment (net of allowance for credit losses of $ 1,132 and $ 1,066 )
+268,720 225,834
+Held for sale 9,374 12,319
+Goodwill 16,726 16,706
+Intangible assets (net of accumulated amortization of $ 1,882 and $ 5,445 )
+6,010 6,453
+Other assets 29,042 28,228
+Total assets $ 1,420,270 $ 1,215,071
+Liabilities
+Deposits (includes $ 8,755 and $ 6,499 at fair value)
+$ 415,523 $ 376,007
+Trading liabilities at fair value 169,569 153,764
+Securities sold under agreements to repurchase (includes $ 696 and $ 956 at fair value)
+78,539 50,067
+Securities loaned 17,310 15,226
+Other secured financings (includes $ 16,871 and $ 14,088 at fair value)
+21,603 21,602
+Customer and other payables 226,519 175,938
+Other liabilities and accrued expenses 29,620 28,220
+Borrowings (includes $ 132,479 and $ 103,332 at fair value)
+348,935 288,819
+Total liabilities 1,307,618 1,109,643
+Commitments and contingent liabilities (see Note 14)
+Equity
+Morgan Stanley shareholders' equity:
+Preferred stock 9,750 9,750
+Common stock, $ 0.01 par value:
+Shares authorized: 3,500,000,000 ; Shares issued: 2,038,893,979 ; Shares outstanding: 1,582,834,137 and 1,606,653,706
+20 20
+Additional paid-in capital 31,153 30,179
+Retained earnings 115,091 104,989
+Employee stock trusts 5,154 5,103
+Accumulated other comprehensive income (loss) ( 6,285 ) ( 6,814 )
+Common stock held in treasury at cost, $ 0.01 par value ( 456,059,842 and 432,240,273 shares)
+( 38,097 ) ( 33,613 )
+Common stock issued to employee stock trusts ( 5,154 ) ( 5,103 )
+Total Morgan Stanley shareholders' equity 111,632 104,511
+Noncontrolling interests 1,020 917
+Total equity 112,652 105,428
+Total liabilities and equity $ 1,420,270 $ 1,215,071
+See Notes to Consolidated Financial Statements 81
+December 2025 Form 10-K
+Table of Contents
+Consolidated Statement of Changes in Total Equity
+$ in millions 2025 2024 2023
+Preferred stock
+Beginning balance $ 9,750 $ 8,750 $ 8,750
+Issuance of preferred stock — 1,000 —
+Ending balance 9,750 9,750 8,750
+Common stock
+Beginning and ending balance 20 20 20
+Additional paid-in capital
+Beginning balance 30,179 29,832 29,339
+Share-based award activity 974 352 493
+Issuance of preferred stock — ( 5 ) —
+Ending balance 31,153 30,179 29,832
+Retained earnings
+Beginning balance 104,989 97,996 94,862
+Cumulative adjustment related to the adoption of accounting standard update 1
+— ( 60 ) —
+Net income applicable to Morgan Stanley 16,861 13,390 9,087
+Preferred stock dividends 2
+( 612 ) ( 590 ) ( 557 )
+Common stock dividends 2
+( 6,147 ) ( 5,745 ) ( 5,393 )
+Other net increases (decreases) — ( 2 ) ( 3 )
+Ending balance 115,091 104,989 97,996
+Employee stock trusts
+Beginning balance 5,103 5,314 4,881
+Share-based award activity 51 ( 211 ) 433
+Ending balance 5,154 5,103 5,314
+Accumulated other comprehensive income (loss)
+Beginning balance ( 6,814 ) ( 6,421 ) ( 6,253 )
+Net change in Accumulated other comprehensive income (loss) 529 ( 393 ) ( 168 )
+Ending balance ( 6,285 ) ( 6,814 ) ( 6,421 )
+Common stock held in treasury at cost
+Beginning balance ( 33,613 ) ( 31,139 ) ( 26,577 )
+Share-based award activity 1,359 1,704 1,654
+Repurchases of common stock and employee tax withholdings ( 5,843 ) ( 4,178 ) ( 6,216 )
+Ending balance ( 38,097 ) ( 33,613 ) ( 31,139 )
+Common stock issued to employee stock trusts
+Beginning balance ( 5,103 ) ( 5,314 ) ( 4,881 )
+Share-based award activity ( 51 ) 211 ( 433 )
+Ending balance ( 5,154 ) ( 5,103 ) ( 5,314 )
+Noncontrolling interests
+Beginning balance 917 944 1,090
+Net income applicable to noncontrolling interests 164 139 143
+Net change in Accumulated other comprehensive income (loss) applicable to noncontrolling interests ( 10 ) ( 81 ) ( 111 )
+Other net increases (decreases) ( 51 ) ( 85 ) ( 178 )
+Ending balance 1,020 917 944
+Total equity
+$ 112,652 $ 105,428 $ 99,982
+1. The Firm adopted the Investments - Tax Credit Structures accounting standard update on January 1, 2024. Refer to Note 2 for further information.
+2. See Note 17 for information regarding dividends per share for each class of stock.
+December 2025 Form 10-K 82
+See Notes to Consolidated Financial Statements
+Table of Contents
+Consolidated Cash Flow Statement
+$ in millions 2025 2024 2023
+Cash flows from operating activities
+Net income $ 17,025 $ 13,529 $ 9,230
+Adjustments to reconcile net income to net cash provided by (used for) operating activities:
+Deferred income taxes 561 152 ( 463 )
+Stock-based compensation expense 1,926 1,622 1,709
+Depreciation and amortization 4,658 5,161 4,256
+Provision for credit losses 349 264 532
+Other operating adjustments 408 4 308
+Changes in assets and liabilities:
+Trading assets, net of Trading liabilities ( 67,716 ) 34,496 ( 61,026 )
+Securities borrowed ( 28,049 ) ( 2,768 ) 12,283
+Securities loaned 2,084 169 ( 622 )
+Customer and other receivables and other assets ( 26,637 ) ( 5,308 ) 602
+Customer and other payables and other liabilities 50,708 ( 25,550 ) ( 3,629 )
+Securities purchased under agreements to resell ( 1,678 ) ( 7,825 ) 3,167
+Securities sold under agreements to repurchase 28,472 ( 12,584 ) 117
+Net cash provided by (used for) operating activities ( 17,889 ) 1,362 ( 33,536 )
+Cash flows from investing activities
+Proceeds from (payments for):
+Other assets—Premises, equipment and software ( 2,898 ) ( 3,462 ) ( 3,412 )
+Changes in loans, net ( 41,383 ) ( 22,618 ) ( 4,059 )
+AFS securities:
+Purchases ( 36,578 ) ( 35,327 ) ( 23,078 )
+Proceeds from sales 5,031 5,728 5,929
+Proceeds from paydowns and maturities 21,773 21,089 14,316
+HTM securities:
+Purchases — ( 3,860 ) —
+Proceeds from paydowns and maturities 8,368 10,475 8,143
+Other investing activities ( 1,092 ) ( 1,485 ) ( 923 )
+Net cash provided by (used for) investing activities ( 46,779 ) ( 29,460 ) ( 3,084 )
+Cash flows from financing activities
+Net proceeds from (payments for):
+Other secured financings 1,125 4,358 796
+Deposits 39,143 23,955 ( 5,075 )
+Issuance of preferred stock, net of issuance costs — 995 —
+Proceeds from issuance of Borrowings 139,169 108,365 78,424
+Payments for:
+Borrowings ( 99,393 ) ( 80,230 ) ( 64,805 )
+Repurchases of common stock and employee tax withholdings ( 5,835 ) ( 4,199 ) ( 6,178 )
+Cash dividends ( 6,593 ) ( 6,138 ) ( 5,763 )
+Other financing activities 142 ( 350 ) ( 125 )
+Net cash provided by (used for) financing activities 67,758 46,756 ( 2,726 )
+Effect of exchange rate changes on cash and cash equivalents 3,219 ( 2,504 ) 451
+Net increase (decrease) in cash and cash equivalents 6,309 16,154 ( 38,895 )
+Cash and cash equivalents, at beginning of period 105,386 89,232 128,127
+Cash and cash equivalents, at end of period $ 111,695 $ 105,386 $ 89,232
+Supplemental Disclosure of Cash Flow Information
+Cash payments for:
+Interest $ 47,096 $ 46,359 $ 41,940
+Income taxes, net of refunds 3,504 1,885 2,035
+See Notes to Consolidated Financial Statements 83
+December 2025 Form 10-K
+Table of Contents
+Notes to Consolidated Financial Statements
+1. Introduction and Basis of Presentation
+The Firm
+Morgan Stanley is a global financial services firm that maintains significant market positions in each of its business segments—Institutional Securities, Wealth Management and Investment Management. Morgan Stanley, through its subsidiaries and affiliates, provides a wide variety of products and services to a large and diversified group of clients and customers, including corporations, governments, financial institutions and individuals. Morgan Stanley operates as an Integrated Firm whereby it serves clients holistically across its business segments. Unless the context otherwise requires, the terms "Morgan Stanley" or the "Firm" mean Morgan Stanley (the "Parent Company") together with its consolidated subsidiaries. See the "Glossary of Common Terms and Acronyms" for the definition of certain terms and acronyms used throughout this Form 10-K.
+A description of the clients and principal products and services of each of the Firm's business segments is below. Through the Integrated Firm some of our clients may use the products and services of more than one of our business segments.
+Institutional Securities provides a variety of products and services to corporations, governments, financial institutions and ultra-high net worth clients. Investment Banking services consist of capital raising and financial advisory services, including the underwriting of debt, equity securities and other products, as well as advice on mergers and acquisitions, restructurings and project finance. Our Markets business, which comprises Equity and Fixed Income, provides sales, financing, prime brokerage, market-making, and Asia wealth management services and holds certain business-related investments. Lending activities include originating corporate loans and commercial real estate loans, providing secured lending facilities, and extending securities-based and other financing to clients. Other activities include research.
+Wealth Management provides a comprehensive array of financial services and solutions to individual investors, including high and ultra-high net worth individuals, and businesses and institutions. Wealth Management supports clients through three channels: Advisor-Led, Self-Directed and Workplace. Wealth Management includes: financial advisor-led brokerage, investment advisory, custody, cash management, and administrative services; self-directed brokerage services; financial and wealth planning services; workplace services, including stock plan administration; securities-based lending, residential and commercial real estate loans and other lending products; banking; and retirement plan services.
+Investment Management provides a broad range of investment strategies and products that span geographies, asset classes, and public and private markets to a diverse group of clients across institutional and intermediary channels. Strategies and products, which are offered through a variety of investment vehicles, include equity, fixed income, alternatives and solutions, and liquidity and overlay services. Institutional clients include defined benefit/defined contribution plans, foundations, endowments, government entities, sovereign wealth funds, insurance companies, third-party fund sponsors and corporations. Individual clients are generally served through intermediaries, including affiliated and non-affiliated distributors.
+Basis of Financial Information
+The financial statements are prepared in accordance with U.S. GAAP, which requires the Firm to make estimates and assumptions regarding the valuations of certain financial instruments, the valuations of goodwill and intangible assets, the outcome of legal and tax matters, deferred tax assets, ACL, and other matters that affect its financial statements and related disclosures. The Firm believes that the estimates utilized in the preparation of its financial statements are prudent and reasonable. Actual results could differ materially from these estimates.
+The Notes are an integral part of the Firm's financial statements. The Firm has evaluated subsequent events for adjustment to or disclosure in these financial statements through the date of this report and has not identified any recordable or disclosable events not otherwise reported in these financial statements or the notes thereto.
+Consolidation
+The financial statements include the accounts of the Firm, its wholly owned subsidiaries and other entities in which the Firm has a controlling financial interest, including certain VIEs (see Note 15). Intercompany balances and transactions have been eliminated. For consolidated subsidiaries that are not wholly owned, the third-party holdings of equity interests are referred to as Noncontrolling interests. The net income attributable to Noncontrolling interests for such subsidiaries is presented as Net income applicable to noncontrolling interests in the income statement. The portion of shareholders' equity that is attributable to Noncontrolling interests for such subsidiaries is presented as Noncontrolling interests, a component of Total equity, in the balance sheet.
+For entities where the total equity investment at risk is sufficient to enable the entity to finance its activities without additional subordinated financial support and the equity holders bear the residual economic risks and returns of the entity and have the power to direct the activities of the entity that most significantly affect its economic performance, the Firm consolidates those entities it controls either through a
+December 2025 Form 10-K 84
+Table of Contents
+Notes to Consolidated Financial Statements
+majority voting interest or otherwise. For VIEs (i.e., entities that do not meet the aforementioned criteria), the Firm consolidates those entities where it has the power to make the decisions that most significantly affect the economic performance of the VIE and has the obligation to absorb losses or the right to receive benefits that could potentially be significant to the VIE.
+For investments in entities in which the Firm does not have a controlling financial interest but has significant influence over operating and financial decisions, it applies the equity method of accounting with net gains and losses recorded within Other revenues (see Note 11) unless the Firm has elected to measure the investment at fair value, in which case net gains and losses are recorded within Investments revenues (see Note 5).
+Equity and partnership interests held by entities qualifying for accounting purposes as investment companies are carried at fair value.
+The Firm's significant regulated U.S. and international subsidiaries include:
+Morgan Stanley & Co. LLC ("MS&Co."),
+Morgan Stanley Smith Barney LLC ("MSSB"),
+Morgan Stanley Europe SE ("MSESE"),
+Morgan Stanley & Co. International plc ("MSIP"),
+Morgan Stanley Capital Services LLC ("MSCS"),
+Morgan Stanley Capital Group Inc. ("MSCG"),
+Morgan Stanley MUFG Securities Co., Ltd. ("MSMS"),
+Morgan Stanley Bank, N.A. ("MSBNA") and
+Morgan Stanley Private Bank, National Association ("MSPBNA").
+For further information on the Firm's significant regulated U.S. and international subsidiaries, see Note 16.
+2. Significant Accounting Policies
+Revenue Recognition
+Revenues are recognized when the promised goods or services are delivered to our customers in an amount that is based on the consideration the Firm expects to receive in exchange for those goods or services when such amounts are not probable of significant reversal.
+Investment Banking
+Revenues from investment banking activities consist of revenues earned from underwriting, primarily equity and fixed income securities and loan syndications, and advisory fees, primarily for mergers, acquisitions and restructurings.
+Underwriting revenues are generally recognized on trade date if there is no uncertainty or contingency related to the amount to be paid. Underwriting costs are deferred and recognized in
+the relevant non-interest expenses line items when the related underwriting revenues are recorded.
+Advisory fees are recognized as advice is provided to the client, based on the estimated progress of work and when revenues are not probable of a significant reversal. Advisory costs are recognized as incurred in the relevant non-interest expenses line items, including those reimbursed.
+Commissions and Fees
+Commission and fee revenues generally result from transaction-based arrangements in which the client is charged a fee for the execution of transactions. Such revenues primarily arise from transactions in equity securities; services related to sales and trading activities; and sales of mutual funds, alternative funds, futures, insurance products and options, as well as revenues from order flow payments for directing customer orders to broker-dealers, exchanges and market centers for execution. Commission and fee revenues are recognized on trade date when the performance obligation is satisfied.
+Asset Management Revenues
+Asset management, distribution and administration fees are generally based on related asset levels, such as the AUM of a customer's account or the net asset value of a fund. These fees are generally recognized when services are performed and the value of the assets is known. Management fees are reduced by estimated fee waivers and expense caps, if any, provided to the customer.
+Performance-based fees not in the form of carried interest are recorded when the annual performance target is met and the revenues are not probable of a significant reversal.
+Sales commissions paid by the Firm in connection with the sale of certain classes of shares of its open-end mutual fund products are accounted for as deferred commission assets and amortized to Other expenses over the expected life of the contract. The Firm periodically tests deferred commission assets for recoverability based on cash flows expected to be received in future periods. Other asset management and distribution costs are recognized as incurred in the relevant non-interest expenses line items.
+Investments Revenues—Carried Interest
+The Firm is entitled to receive performance-based fees in the form of carried interest when the return in certain funds exceeds specified performance targets. When the Firm earns carried interest from funds as specified performance thresholds are met, that carried interest and any related general or limited partner interest are accounted for under the equity method of accounting and measured based on the Firm's claim on the NAV of the fund at the reporting date, taking into account the distribution terms applicable to the interest held. Such items are reflected within Investments revenues.
+85
+December 2025 Form 10-K
+Table of Contents
+Notes to Consolidated Financial Statements
+See Note 22 for information regarding the net cumulative unrealized amount of performance-based fee revenues at risk of reversal. See Note 14 for information regarding general partner guarantees, which include potential obligations to return performance fee distributions previously received.
+Other Items
+Revenues from certain commodities-related contracts are recognized in Trading revenues when the Firm has transferred control over the promised goods or services to the customer.
+Receivables from contracts with customers are recognized in Customer and other receivables in the balance sheet when the underlying performance obligations have been satisfied and the Firm has the right per the contract to bill the customer. Contract assets are recognized in Other assets when the Firm has satisfied its performance obligations but customer payment is conditional on something other than the passage of time. Contract liabilities are recognized in Other liabilities and accrued expenses when the Firm has collected payment from a customer based on the terms of the contract but the underlying performance obligations are not yet satisfied.
+For contracts with a term of less than one year, incremental costs to obtain the contract are expensed as incurred. Revenues are not discounted when payment is expected within one year.
+The Firm generally presents, net within revenues, taxes assessed by a governmental authority that are both imposed on and concurrent with a specific revenue-producing transaction and collected by the Firm from a customer.
+Cash and Cash Equivalents
+Cash and cash equivalents consist of Cash and due from banks and interest-bearing deposits with banks. Cash equivalents are highly liquid investments with remaining maturities of three months or less from the acquisition date that are readily convertible to cash and are not held for trading purposes.
+Cash and cash equivalents also include Restricted cash, such as cash segregated in compliance with federal or other regulations, including minimum reserve requirements set by the Federal Reserve Bank and other central banks, and the Firm's initial margin deposited with clearing organizations.
+Fair Value of Financial Instruments
+Instruments within Trading assets and Trading liabilities are measured at fair value, either as required or allowed by accounting guidance. These financial instruments primarily represent the Firm's trading and investment positions and include both cash and derivative products. In addition, securities classified as Available-for-Sale ("AFS") are measured at fair value.
+Gains and losses on instruments carried at fair value are reflected in Trading revenues, Investments revenues or Investment banking revenues in the income statement, except for gains and losses related to AFS securities (see "AFS Investment Securities" section herein and Note 7) and derivatives accounted for as hedges, as well as economic derivative hedges associated with certain held-for-sale and held-for-investment corporate loans and lending commitments (see "Hedge Accounting" and "Other Hedges" herein and Note 6).
+Interest income and interest expense are recorded within the income statement depending on the nature of the instrument and related market conventions. When interest is included as a component of the instruments' fair value, interest is recorded within Trading revenues or Investments revenues. Otherwise, it is recorded within Interest income or Interest expense. Dividend income is recorded in Trading revenues or Investments revenues depending on the business activity.
+The fair value of OTC financial instruments, including derivative contracts related to financial instruments and commodities, is presented in the accompanying balance sheet on a net-by-counterparty basis, when appropriate. Additionally, the Firm nets the fair value of cash collateral paid or received against the fair value amounts recognized for net derivative positions executed with the same counterparty under the same master netting agreement.
+Fair Value Option
+The Firm has elected to measure certain eligible instruments at fair value, including Securities purchased under agreements to resell, Loans and lending commitments, equity method investments and certain other assets, Deposits, Securities sold under agreements to repurchase, Other secured financings and Borrowings.
+Fair Value Measurement—Definition and Hierarchy
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability (i.e ., the "exit price") in an orderly transaction between market participants at the measurement date.
+Fair value is a market-based measure considered from the perspective of a market participant rather than an entity-specific measure. Therefore, even when market assumptions are not readily available, assumptions are set to reflect those that the Firm believes market participants would use in pricing the asset or liability at the measurement date. Where the Firm manages a group of financial assets, financial liabilities, and nonfinancial items accounted for as derivatives on the basis of its net exposure to either market risks or credit risk, the Firm measures the fair value of that group of financial instruments consistently with how market participants would price the net risk exposure at the measurement date.
+December 2025 Form 10-K 86
+Table of Contents
+Notes to Consolidated Financial Statements
+In determining fair value, the Firm uses various valuation approaches and establishes a hierarchy for inputs used in measuring fair value that requires the most observable inputs be used when available.
+Observable inputs are inputs that market participants would use in pricing the asset or liability that were developed based on market data obtained from sources independent of the Firm. Unobservable inputs are inputs that reflect assumptions the Firm believes other market participants would use in pricing the asset or liability that are developed based on the best information available in the circumstances. The fair value hierarchy is broken down into three levels based on the observability of inputs as follows, with Level 1 being the highest and Level 3 being the lowest level:
+Level 1. Valuations based on quoted prices in active markets that the Firm has the ability to access for identical assets or liabilities. Valuation adjustments, block discounts and discounts for entity-specific and contractual restrictions that would not transfer to market participants are not applied to Level 1 instruments. Since valuations are based on quoted prices that are readily and regularly available in an active market, valuation of these products does not entail a significant degree of judgment.
+Level 2. Valuations based on quoted prices for similar assets or liabilities in active markets, quoted prices for identical or similar assets or liabilities in inactive markets, significant market inputs other than quoted prices that are observable for the asset or liability, or market-corroborated inputs.
+Level 3. Valuations based on inputs that are unobservable and significant to the overall fair value measurement.
+The availability of observable inputs can vary from product to product and is affected by a wide variety of factors, including the type of product, whether the product is new and not yet established in the marketplace, the liquidity of markets and other characteristics particular to the product. To the extent that valuation is based on models or inputs that are less observable or unobservable in the market, the determination of fair value requires more judgment. Accordingly, the degree of judgment exercised by the Firm in determining fair value is greatest for instruments categorized in Level 3 of the fair value hierarchy.
+The Firm considers prices and inputs that are current as of the measurement date, including during periods of market dislocation. In periods of market dislocation, the observability of prices and inputs may be reduced for many instruments. This condition could cause an instrument to be reclassified from Level 1 to Level 2 or from Level 2 to Level 3 of the fair value hierarchy.
+In certain cases, the inputs used to measure fair value may fall into different levels of the fair value hierarchy. In such cases, the total fair value amount is disclosed in the level appropriate
+for the lowest level input that is significant to the total fair value of the asset or liability.
+Valuation Techniques
+Many cash instruments and OTC derivative contracts have bid and ask prices that can be observed in the marketplace. Bid prices reflect the highest price that a party is willing to pay for an asset. Ask prices represent the lowest price that a party is willing to accept for an asset. The Firm carries positions at the point within the bid-ask range that meets its best estimate of fair value. For offsetting positions in the same financial instrument, the same price within the bid-ask spread is used to measure both the long and short positions.
+Fair value for many cash instruments and OTC derivative contracts is derived using pricing models. Pricing models take into account the contract terms, as well as multiple inputs, including, where applicable, commodity prices, equity prices, interest rate yield curves, credit curves, correlation, creditworthiness of the counterparty, creditworthiness of the Firm, option volatility and currency rates.
+Where appropriate, valuation adjustments are made to account for various factors such as liquidity risk (bid-ask adjustments), credit quality, model uncertainty, and concentration risk and funding in order to arrive at fair value. Adjustments for liquidity risk adjust model-derived mid-market amounts of Level 2 and Level 3 financial instruments for the bid-mid or mid-ask spread required to properly reflect the exit price of a risk position. Bid-mid and mid-ask spreads are marked to levels observed in trade activity, broker quotes or other external third-party data. Where these spreads are unobservable for the particular position in question, spreads are derived from observable levels of similar positions.
+The Firm applies credit-related valuation adjustments to its Borrowings for which the fair value option was elected and to OTC derivatives. The Firm considers the impact of changes in its own credit spreads based upon observations of the secondary bond market spreads when measuring the fair value for Borrowings.
+For OTC derivatives, which are recognized in Trading assets at fair value in the balance sheet, the impact of changes in both the Firm's and the counterparty's credit rating is considered when measuring fair value. In determining the expected exposure, the Firm simulates the distribution of the future exposure to a counterparty, then applies market-based default probabilities to the future exposure, leveraging external third-party CDS spread data. Where CDS spread data are unavailable for a specific counterparty, bond market spreads, CDS spread data based on the counterparty's credit rating or CDS spread data that reference a comparable counterparty may be utilized. The Firm also considers collateral held and legally enforceable master netting agreements that mitigate its exposure to each counterparty.
+87
+December 2025 Form 10-K
+Table of Contents
+Notes to Consolidated Financial Statements
+Adjustments for model uncertainty are taken for positions whose underlying models are reliant on significant inputs that are neither directly nor indirectly observable, hence requiring reliance on established theoretical concepts in their derivation. These adjustments are derived by making assessments of the possible degree of variability using statistical approaches and market-based information where possible.
+The Firm may apply concentration adjustments to certain of its OTC derivative portfolios to reflect the additional cost of closing out a particularly large risk exposure. Where possible, these adjustments are based on observable market information, but in many instances, significant judgment is required to estimate the costs of closing out concentrated risk exposures due to the lack of liquidity in the marketplace.
+The Firm applies an FVA in the fair value measurements of OTC uncollateralized or partially collateralized derivatives and in collateralized derivatives where the terms of the agreement do not permit the reuse of the collateral received. In general, FVA reflects a market funding risk premium inherent in the noted derivative instruments. The methodology for measuring FVA leverages the Firm's existing credit-related valuation adjustment calculation methodologies, which apply to both assets and liabilities.
+See Note 4 for a description of valuation techniques applied to the major categories of financial instruments measured at fair value.
+Assets and Liabilities Measured at Fair Value on a Non-recurring Basis
+Certain of the Firm's assets and liabilities are measured at fair value on a non-recurring basis. The Firm incurs losses or gains for any adjustments of these assets or liabilities to fair value.
+For assets and liabilities measured at fair value on a non-recurring basis, fair value is determined by using various valuation approaches. The same hierarchy for inputs as described above, which requires that observable inputs be used when available, is used in measuring fair value for these items.
+For further information on financial assets and liabilities that are measured at fair value on a recurring and non-recurring basis, see Note 4.
+Offsetting of Derivative Instruments
+In connection with its derivative activities, the Firm generally enters into master netting agreements and collateral agreements with its counterparties. These agreements provide the Firm with the right, in the event of a default by the counterparty, to net a counterparty's rights and obligations under the agreement and to liquidate and set off cash collateral against any net amount owed by the counterparty.
+Derivatives with enforceable master netting agreements are reported net of cash collateral received and posted.
+However, in certain circumstances, the Firm may not have such an agreement in place; the relevant insolvency regime may not support the enforceability of the master netting agreement or collateral agreement; or the Firm may not have sought legal advice to support the enforceability of the agreement. In cases where the Firm has not determined an agreement to be enforceable, the related amounts are not offset (see Note 6).
+The Firm's policy is generally to receive cash and/or securities posted as collateral (with rights of rehypothecation) in connection with derivative transactions, irrespective of the enforceability determination regarding the master netting and collateral agreement. In certain cases, the Firm may agree for such collateral to be posted by the counterparty to a third-party custodian under a control agreement that enables it to take control of such collateral in the event of a counterparty default. The enforceability of the master netting agreement is taken into account in the Firm's risk management practices and application of counterparty credit limits.
+For information related to offsetting of derivatives, see Note 6.
+Hedge Accounting
+The Firm applies hedge accounting using various derivative financial instruments for the following types of hedges: hedges of changes in the fair value of assets and liabilities due to the risk being hedged (fair value hedges); hedges of variability in forecasted cash flows from floating-rate assets due to contractually specified interest rates (cash flow hedges) and hedges of net investments in foreign operations whose functional currency is different from the reporting currency of the Parent Company (net investment hedges). These financial instruments are included within Trading assets—Derivative and other contracts or Trading liabilities—Derivative and other contracts in the balance sheet. For hedges where hedge accounting is being applied, the Firm performs effectiveness testing and other procedures. The change in the fair value of the designated portion of the hedging instrument should be highly correlated, between 80 and 125 percent of the change in the fair value, cash flows, or carrying value (due to translation gains or losses) of the hedged item attributable to the risk being hedged. The Firm considers the impact of valuation adjustments related to counterparty credit spreads and its own credit spreads to determine whether they would cause the hedging relationship to be ineffective.
+Fair Value Hedges—Interest Rate Risk
+The Firm's designated fair value hedges consist of interest rate swaps designated as hedges of changes in the benchmark interest rate of certain fixed-rate AFS securities and senior borrowings. The Firm also designates interest rate swaps as fair value hedges of changes in the benchmark interest rate of certain fixed rate deposits. The Firm is permitted to hedge the
+December 2025 Form 10-K 88
+Table of Contents
+Notes to Consolidated Financial Statements
+full, or part of the contractual term of the hedged instrument. The Firm uses regression analysis to perform an ongoing prospective and retrospective assessment of the effectiveness of these hedging relationships. For qualifying fair value hedges of benchmark interest rates, the change in the fair value of the derivative, offset by the change in the fair value attributable to the change in the benchmark interest rate risk of the hedged asset (liability), is recognized in earnings each period as a component of Interest income (expense). For AFS securities, the change in fair value of the hedged item due to changes other than the risk being hedged will continue to be reported in OCI. When a derivative is de-designated as a hedge, any basis adjustment remaining on the hedged asset (liability) is amortized to Interest income (expense) over the remaining life of the asset (liability) using the effective interest method. For certain AFS securities, the Firm also applies the portfolio layer method of hedge accounting, which permits prepayable and non-prepayable assets to be included in the portfolio and allows more of the portfolio to be hedged. Further, the portfolio layer method of accounting requires that basis adjustments are maintained at the portfolio level and not allocated to individual items until certain de-designation events occur. The amount designated as hedged is the sum of the notional amounts of all outstanding layers in each portfolio. Refer to Note 6 and Note 7 to the financial statements for additional information on portfolio layer method hedging.
+Net Investment Hedges
+The Firm uses forward foreign exchange contracts to manage a portion of the currency exposure relating to its net investments in foreign operations. To the extent that the notional amounts of the hedging instruments equal the portion of the investments being hedged and the underlying exchange rate of the derivative hedging instrument is the same as the exchange rate between the functional currency of the investee and the intermediate parent entity's functional currency, it is considered to be perfectly effective. The gain or loss from revaluing qualifying hedges of net investments in foreign operations at the spot rate is reported within AOCI. The forward points on the hedging instruments are excluded from hedge effectiveness testing and changes in the fair value of this excluded component are recorded currently in Interest income.
+Cash Flow Hedges—Interest Rate Risk
+The Firm's designated cash flow hedges consist of interest rate derivatives designated as hedges of variability in forecasted cash flows from floating-rate assets due to changes in the contractually specified interest rates. The Firm uses regression analysis to perform an ongoing prospective and retrospective assessment of the effectiveness of these hedging relationships.
+The objective of this strategy is to hedge the risk of changes in the hedged item's cash flows attributable to changes in the contractually specified interest rate. For qualifying cash flow
+hedges of contractually specified interest rates, changes in the fair value of the derivative are recorded in OCI and subsequently reclassified to earnings in the same periods when the hedged item affects earnings. If cash flow hedge accounting is discontinued, AOCI is released into earnings immediately if the cash flow of the hedged item is probable of not occurring. Otherwise the amount in AOCI is released into earnings as the forecasted transaction affects earnings.
+Other Hedges
+In addition to hedges that are designated and qualify for hedge accounting, the Firm uses derivatives to economically hedge credit risk associated with certain held-for-sale and held-for-investment corporate loans and lending commitments, and the related gains and losses are reported within Other revenues in the income statement.
+For further information on derivative instruments and hedging activities, see Note 6.
+AFS Investment Securities
+AFS securities are reported at fair value in the balance sheet. Interest income, including amortization of premiums and accretion of discounts, is included in Interest income in the income statement. Unrealized gains are recorded in OCI, and unrealized losses are recorded either in OCI or in Other revenues as described below.
+AFS securities in an unrealized loss position are first evaluated to determine whether there is an intent to sell or it is more likely than not the Firm will be required to sell before recovery of the amortized cost basis. If so, the amortized cost basis is written down to the fair value of the security such that the entire unrealized loss is recognized in Other revenues, and any previously established ACL is written off.
+For all other AFS securities in an unrealized loss position, any portion of unrealized losses representing a credit loss is recognized in Other revenues and as an increase to the ACL for AFS securities, with the remainder of unrealized losses recognized in OCI. A credit loss exists if the Firm does not expect to recover the amortized cost basis of the security. When considering whether a credit loss exists, the Firm considers relevant information, including:
+guarantees (implicit or explicit) by the U.S. government;
+the extent to which the fair value has been less than the amortized cost basis;
+adverse conditions specifically related to the security, its industry or geographic area;
+changes in the financial condition of the issuer of the security or, in the case of an asset-backed debt security, changes in the financial condition of the underlying loan obligors;
+the payment structure of the debt security and the likelihood of the issuer being able to make payments that increase in the future;
+89
+December 2025 Form 10-K
+Table of Contents
+Notes to Consolidated Financial Statements
+failure of the issuer of the security to make scheduled interest or principal payments;
+the current rating and any changes to the rating of the security by a rating agency.
+If a credit loss exists, the Firm measures the credit loss as the difference between the present value of cash flows expected to be collected (discounted at the implicit interest rate at acquisition of the security or discounted at the effective yield for securities that incorporate changes in prepayment assumptions) and the amortized cost basis of the security. Changes in prepayment assumptions alone are not considered to result in a credit loss. When estimating the present value of expected cash flows, information utilized includes the remaining payment terms of the security, prepayment speeds, financial condition of the issuer, expected defaults and the value of any underlying collateral.
+Presentation of ACL and Provision for Credit Losses
+ACL Provision for
+Credit Losses
+AFS securities Contra investment securities Other revenue
+Nonaccrual and ACL Charge-offs on AFS Securities
+AFS securities follow the nonaccrual and charge-off guidance as discussed in "Nonaccrual" and "ACL Charge-offs" herein.
+HTM Securities
+HTM securities are reported at amortized cost, net of any ACL, in the balance sheet. Refer to "Allowance for Credit Losses" herein for guidance on the ACL determination. Interest income, including amortization of premiums and accretion of discounts on HTM securities, is included in Interest income in the income statement.
+Loans
+The Firm accounts for loans based on the following categories: loans held for investment; loans held for sale; and loans at fair value.
+Nonaccrual and ACL Charge-offs on Loans
+All loan categories described below follow the nonaccrual guidance as discussed in "Nonaccrual" and loans held for investment follow the charge-off guidance as discussed in "ACL Charge-offs" herein.
+Loans Held for Investment
+Loans held for investment are reported at amortized cost, which consists of the outstanding principle balance adjusted for any charge-offs, the allowance for credit losses, any unamortized deferred fees or costs for originated loans, and any unamortized premiums or discounts for purchased loans.
+Interest Income. Interest income on performing loans held for investment is accrued and recognized as interest income at the
+contractual rate of interest. Purchase price discounts or premiums, as well as net deferred loan fees or costs, are amortized into interest income over the life of the loan to produce a level rate of return.
+Lending Commitments. The Firm records the liability and related expense for the credit exposure related to commitments to fund loans. The liability is recorded in Other liabilities and accrued expenses in the balance sheet and the expense is recorded in the Provision for credit losses in the income statement. For more information regarding loan commitments, standby letters of credit and financial guarantees, see Note 14.
+For more information regarding allowance for credit losses, refer to "Allowance for Credit Losses" herein.
+Loans Held for Sale
+Loans held for sale are measured at the lower of amortized cost or fair value, with valuation changes recorded in Other revenues. The Firm determines the valuation allowance on an individual loan basis, except for residential mortgage loans for which the valuation allowance is determined at the loan product level. Any decreases in fair value below the initial carrying amount and any recoveries in fair value up to the initial carrying amount are recorded in Other revenues. Increases in fair value above initial carrying value are not recognized.
+Interest Income. Interest income on loans held for sale is accrued and recognized based on the contractual rate of interest. Loan origination fees or costs and purchase price discounts or premiums are deferred as an adjustment to the loan's cost basis until the related loan is sold and, as such, are included in the periodic determination of the lower of cost or fair value adjustments and the gain or loss recognized at the time of sale.
+Lending Commitments. Commitments to fund mortgage loans held for sale are derivatives and are reported in Trading assets or Trading liabilities in the balance sheet and in Trading revenues in the income statement.
+For commitments to fund non-mortgage loans, the Firm records the liability and related expense for the fair value exposure below cost of such commitments in Other liabilities and accrued expenses in the balance sheet with an offset to Other revenues in the income statement.
+Because loans and lending commitments held for sale are recognized at the lower of cost or fair value, the allowance for credit losses and charge-off policies do not apply to these loans.
+Loans at Fair Value
+Loans for which the fair value option is elected are carried at fair value and included in Trading assets in the balance sheet, with changes in fair value recognized in earnings. For further
+December 2025 Form 10-K 90
+Table of Contents
+Notes to Consolidated Financial Statements
+information on loans carried at fair value and classified as Trading assets, see Note 4.
+Lending Commitments. The Firm records the liability and related expense for the fair value exposure related to commitments to fund loans that will be measured at fair value. The liability is recorded in Trading liabilities in the balance sheet, and the expense is recorded in Trading revenues in the income statement.
+Because such loans and lending commitments are reported at fair value, the allowance for credit losses and charge-off policies do not apply to these loans.
+For further information on loans, see Note 9. For more information regarding loan commitments, standby letters of credit and financial guarantees, see Note 14.
+Allowance for Credit Losses
+The ACL for financial instruments measured at amortized cost and certain off-balance sheet exposures (e.g ., HFI loans and lending commitments, HTM securities, customer and other receivables and certain guarantees) represents an estimate of expected credit losses over the entire life of the financial instrument.
+Factors considered by management when determining the ACL include payment status, fair value of collateral and expected payments of principal and interest, as well as internal or external information relating to past events, current conditions, and reasonable and supportable forecasts. The Firm uses three probability-weighted scenarios including base, adverse, and favorable scenarios, to estimate ACL. These scenarios include assumptions about certain macroeconomic variables, including, but not limited to, U.S. gross domestic product ("GDP"), corporate credit spreads, interest rates and commercial real estate, home price and equity market indices. At the conclusion of the Firm's reasonable and supportable forecast period of 13 quarters, the scenarios gradually revert to historical averages.
+The ACL is measured on a collective basis when similar risk characteristics exist for multiple instruments, considering all available information relevant to assessing the collectability of cash flows. Generally, the Firm applies a probability of default/loss given default model for instruments that are collectively assessed, under which the ACL is calculated as the product of probability of default, loss given default and exposure at default. These parameters are forecast for each collective group of assets using a scenario-based statistical model.
+If the instrument does not share similar risk characteristics with other instruments, including when it is probable that the Firm will be unable to collect the full payment of principal and interest on the instrument when due, the ACL is measured on an individual basis. The Firm generally applies a
+discounted cash flow method for instruments that are individually assessed.
+The Firm may also elect to use an approach that considers the fair value of the collateral when measuring the ACL if the loan is collateral dependent (i.e ., repayment of the loan is expected to be provided substantially by the sale or operation of the underlying collateral and the borrower is experiencing financial difficulty).
+Additionally, the Firm can elect to use an approach to measure the ACL that considers the fair value of collateral where the borrower is required to, and reasonably expected to, continually adjust and replenish the amount of collateral securing the instrument to reflect changes in the fair value of such collateral. The Firm has elected to use this approach for certain securities-based loans, margin loans, securities purchased under agreements to resell and securities borrowed.
+Credit quality indicators considered in developing the ACL include:
+Corporate loans, secured lending facilities, commercial real estate loans and securities, and other loans: Internal risk ratings developed by the CRM that are refreshed at least annually, and more frequently as necessary. These ratings generally correspond to external ratings published by S&P. The Firm also considers transaction structure, including type of collateral, collateral terms and position of the obligation within the capital structure. In addition, for commercial real estate, the Firm considers property type and location, net operating income and LTV ratios, among other factors, as well as commercial real estate price and credit spread indices and capitalization rates.
+Residential real estate loans: Loan origination Fair Isaac Corporation ("FICO") credit scores as determined by independent credit agencies in the U.S. and LTV ratios.
+Employee loans: Employment status, which includes those currently employed by the Firm and for which the Firm can deduct any unpaid amounts due to it through certain compensation arrangements; and those no longer employed by the Firm where such arrangements are no longer applicable.
+Qualitative and environmental factors such as economic and business conditions, the nature and volume of the portfolio, and lending terms and the volume and severity of past due loans are also considered in the ACL calculations.
+91
+December 2025 Form 10-K
+Table of Contents
+Notes to Consolidated Financial Statements
+Presentation of ACL and Provision for Credit Losses
+ACL Provision for
+Credit Losses
+Held for investment loans Contra asset Provision for credit losses
+Other instruments measured at amortized cost (e.g ., HTM securities and customer and other receivables)
+Contra asset Other revenues
+Employee loans Contra asset Compensation and benefits expenses
+Held for investment lending commitments Other liabilities and accrued expenses Provision for credit losses
+Other off-balance sheet instruments (e.g ., certain guarantees)
+Other liabilities and accrued expenses Other expenses
+Nonaccrual
+The Firm places financial instruments on nonaccrual status if principal or interest is not expected when contractually due or is past due for a period of 90 days or more unless the obligation is well-secured and is in the process of collection.
+For any instrument placed on nonaccrual status, the Firm reverses any unpaid interest accrued with an offsetting reduction to Interest income. Principal and interest payments received on nonaccrual instruments are applied to principal if there is doubt regarding the ultimate collectability of principal. If collection of the principal is not in doubt, interest income is realized on a cash basis. If the instrument is brought current and neither principal nor interest collection is in doubt, instruments can generally return to accrual status, and interest income can be recognized.
+ACL Charge-offs
+The principal balance of a financial instrument is charged off in the period it is deemed uncollectible, resulting in a reduction in the ACL and in the balance of the financial instrument in the balance sheet. Accrued interest receivable balances that are separately recorded from the related financial instruments are charged off against Interest income when the related financial instrument is placed on nonaccrual status. Accordingly, the Firm elected not to measure an ACL for accrued interest receivables.
+Transfers of Financial Assets
+Transfers of financial assets are accounted for as sales when the Firm has relinquished control over the transferred assets. Any related gain or loss on sale is recorded in Net revenues. Transfers that are not accounted for as sales are treated as collateralized financings. Securities borrowed or purchased under agreements to resell and securities loaned or sold under agreements to repurchase are treated as collateralized financings (see Note 8).
+Securities purchased under agreements to resell ("reverse repurchase agreements") and Securities sold under agreements to repurchase ("repurchase agreements"), including repurchase and reverse repurchase agreements-to-maturity, are carried in the balance sheet at the amount of cash paid or received plus accrued interest except for certain
+reverse repurchase and repurchase agreements for which the Firm has elected the fair value option (see Note 5). Where appropriate, repurchase agreements and reverse repurchase agreements with the same counterparty are reported on a net basis, as are securities borrowed and securities loaned with the same counterparty. Securities borrowed

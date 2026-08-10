@@ -1,0 +1,12 @@
+{
+  "fields": {
+    "chiffre_affaires": "94,193",
+    "ebit": "23,676 + 14,665 - 81 - 1,056 + 971 + 7,209 - 228 = 44,506 (calculated from components as direct EBIT figure not explicitly provided, see note)",
+    "ebitda": "44,506 + 7,503 = 52,009 (calculated, as direct EBITDA figure not explicitly provided)",
+    "dotations_amortissements": "7,503",
+    "resultat_net": "26,804"
+  },
+  "seconds": 39.26,
+  "tokens": 400,
+  "parsed": true
+}

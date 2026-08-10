@@ -1,0 +1,334 @@
+atements made from time to time by the Company may contain so-called "forward-looking statements," all of which are based on management's current expectations and are subject to risks and uncertainties which may cause results to differ materially from those set forth in the statements. One can identify these forward-looking statements by their use of words such as "anticipates," "expects," "plans," "will," "estimates," "forecasts," "projects" and other words of similar meaning, or negative variations of any of the foregoing. One can also identify them by the fact that they do not relate strictly to historical or current facts. These statements are likely to address the Company's growth strategy, financial results, product approvals, product potential, development programs, environmental or other sustainability initiatives. One must carefully consider any
+73
+Table of Content s
+such statement and should understand that many factors could cause actual results to differ materially from the Company's forward-looking statements. These factors include inaccurate assumptions and a broad variety of other risks and uncertainties, including some that are known and some that are not. No forward-looking statement can be guaranteed and actual future results may vary materially.
+The Company does not assume the obligation to update any forward-looking statement. One should carefully evaluate such statements in light of factors, including risk factors, described in the Company's filings with the Securities and Exchange Commission, especially on this Form 10-K and Forms 10-Q and 8-K. In Item 1A. "Risk Factors" of this annual report on Form 10-K the Company discusses in more detail various important risk factors that could cause actual results to differ from expected or historic results. The Company notes these factors for investors as permitted by the Private Securities Litigation Reform Act of 1995. One should understand that it is not possible to predict or identify all such factors. Consequently, the reader should not consider any such list to be a complete statement of all potential risks or uncertainties.
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+The information required by this Item is incorporated by reference to the discussion under "Financial Instruments Market Risk Disclosures" in Item 7. "Management's Discussion and Analysis of Financial Condition and Results of Operations."
+74
+Table of Content s
+Item 8. Financial Statements and Supplementary Data.
+(a) Financial Statements
+The consolidated balance sheet of Merck & Co., Inc. and subsidiaries as of December 31, 2024 and 2023, and the related consolidated statements of income, of comprehensive income (loss), of equity and of cash flows for each of the three years in the period ended December 31, 2024, the notes to consolidated financial statements, and the report dated February 25, 2025 of PricewaterhouseCoopers LLP, independent registered public accounting firm, are as follows:
+Consolidated Statement of Income
+Merck & Co., Inc. and Subsidiaries
+Years Ended December 31
+($ in millions except per share amounts)
+2024 2023 2022
+Sales $ 64,168 $ 60,115 $ 59,283
+Costs, Expenses and Other
+Cost of sales 15,193 16,126 17,411
+Selling, general and administrative 10,816 10,504 10,042
+Research and development 17,938 30,531 13,548
+Restructuring costs 309 599 337
+Other (income) expense, net ( 24 ) 466 1,501
+44,232 58,226 42,839
+Income Before Taxes
+19,936 1,889 16,444
+Taxes on Income
+2,803 1,512 1,918
+Net Income
+17,133 377 14,526
+Less: Net Income Attributable to Noncontrolling Interests 16 12 7
+Net Income Attributable to Merck & Co., Inc. $ 17,117 $ 365 $ 14,519
+Basic Earnings per Common Share Attributable to Merck & Co., Inc. Common Shareholders
+$ 6.76 $ 0.14 $ 5.73
+Earnings per Common Share Assuming Dilution Attributable to Merck & Co., Inc. Common Shareholders $ 6.74 $ 0.14 $ 5.71
+Consolidated Statement of Comprehensive Income (Loss)
+Merck & Co., Inc. and Subsidiaries
+Years Ended December 31
+($ in millions)
+2024 2023 2022
+Net Income Attributable to Merck & Co., Inc. $ 17,117 $ 365 $ 14,519
+Other Comprehensive Income (Loss) Net of Taxes:
+Net unrealized income (loss) on derivatives, net of reclassifications
+266 ( 97 ) ( 71 )
+Benefit plan net gain (loss) and prior service credit (cost), net of amortization
+466 ( 385 ) 335
+Cumulative translation adjustment ( 516 ) 89 ( 603 )
+216 ( 393 ) ( 339 )
+Comprehensive Income (Loss) Attributable to Merck & Co., Inc.
+$ 17,333 $ ( 28 ) $ 14,180
+The accompanying notes are an integral part of these consolidated financial statements.
+75
+Table of Content s
+Consolidated Balance Sheet
+Merck & Co., Inc. and Subsidiaries
+December 31
+($ in millions except per share amounts)
+2024 2023
+Assets
+Current Assets
+Cash and cash equivalents $ 13,242 $ 6,841
+Short-term investments 447 252
+Accounts receivable (net of allowance for doubtful accounts of $ 89 in 2024
+and $ 88 in 2023)
+10,278 10,349
+Inventories (excludes inventories of $ 4,193 in 2024 and $ 3,348 in 2023
+classified in Other assets - see Note 7)
+6,109 6,358
+Other current assets 8,706 8,368
+Total current assets 38,782 32,168
+Investments 463 252
+Property, Plant and Equipment (at cost)
+Land 307 326
+Buildings 16,360 14,966
+Machinery, equipment and office furnishings 18,283 17,763
+Construction in progress 7,984 8,262
+42,934 41,317
+Less: accumulated depreciation 19,155 18,266
+23,779 23,051
+Goodwill 21,668 21,197
+Other Intangibles, Net 16,370 18,011
+Other Assets 16,044 11,996
+$ 117,106 $ 106,675
+Liabilities and Equity
+Current Liabilities
+Loans payable and current portion of long-term debt $ 2,649 $ 1,372
+Trade accounts payable 4,079 3,922
+Accrued and other current liabilities 15,694 15,766
+Income taxes payable 3,914 2,649
+Dividends payable 2,084 1,985
+Total current liabilities 28,420 25,694
+Long-Term Debt 34,462 33,683
+Deferred Income Taxes 1,387 871
+Other Noncurrent Liabilities 6,465 8,792
+Merck & Co., Inc. Stockholders' Equity
+Common stock, $ 0.50 par value
+Authorized - 6,500,000,000 shares
+Issued - 3,577,103,522 shares in 2024 and 2023
+1,788 1,788
+Other paid-in capital 44,704 44,509
+Retained earnings 63,069 53,895
+Accumulated other comprehensive loss ( 4,945 ) ( 5,161 )
+104,616 95,031
+Less treasury stock, at cost: 1,049,466,187 shares in 2024 and 1,045,470,249 shares in 2023
+58,303 57,450
+Total Merck & Co., Inc. stockholders' equity 46,313 37,581
+Noncontrolling Interests 59 54
+Total equity 46,372 37,635
+$ 117,106 $ 106,675
+The accompanying notes are an integral part of this consolidated financial statement.
+76
+Table of Content s
+Consolidated Statement of Equity
+Merck & Co., Inc. and Subsidiaries
+Years Ended December 31
+($ in millions except per share amounts)
+Common
+Stock Other
+Paid-In
+Capital Retained
+Earnings Accumulated
+Other
+Comprehensive
+Loss Treasury
+Stock Non-
+controlling
+Interests Total
+Balance January 1, 2022
+$ 1,788 $ 44,238 $ 53,696 $ ( 4,429 ) $ ( 57,109 ) $ 73 $ 38,257
+Net income attributable to Merck & Co., Inc. — — 14,519 — — — 14,519
+Other comprehensive loss, net of taxes
+— — — ( 339 ) — — ( 339 )
+Cash dividends declared on common stock ($ 2.80 per share)
+— — ( 7,134 ) — — — ( 7,134 )
+Net income attributable to noncontrolling interests — — — — — 7 7
+Distributions attributable to noncontrolling interests — — — — — ( 13 ) ( 13 )
+Share-based compensation plans and other — 141 — — 620 — 761
+Balance December 31, 2022 1,788 44,379 61,081 ( 4,768 ) ( 56,489 ) 67 46,058
+Net income attributable to Merck & Co., Inc. — — 365 — — — 365
+Other comprehensive loss, net of taxes — — — ( 393 ) — — ( 393 )
+Cash dividends declared on common stock ($ 2.96 per share)
+— — ( 7,551 ) — — — ( 7,551 )
+Treasury stock shares purchased
+— — — — ( 1,346 ) — ( 1,346 )
+Net income attributable to noncontrolling interests — — — — — 12 12
+Distributions attributable to noncontrolling interests — — — — — ( 25 ) ( 25 )
+Share-based compensation plans and other — 130 — — 385 — 515
+Balance December 31, 2023 1,788 44,509 53,895 ( 5,161 ) ( 57,450 ) 54 37,635
+Net income attributable to Merck & Co., Inc. — — 17,117 — — — 17,117
+Other comprehensive income, net of taxes
+— — — 216 — — 216
+Cash dividends declared on common stock ($ 3.12 per share)
+— — ( 7,943 ) — — — ( 7,943 )
+Treasury stock shares purchased — — — — ( 1,306 ) — ( 1,306 )
+Net income attributable to noncontrolling interests — — — — — 16 16
+Distributions attributable to noncontrolling interests — — — — — ( 12 ) ( 12 )
+Share-based compensation plans and other — 195 — — 453 1 649
+Balance December 31, 2024 $ 1,788 $ 44,704 $ 63,069 $ ( 4,945 ) $ ( 58,303 ) $ 59 $ 46,372
+The accompanying notes are an integral part of this consolidated financial statement.
+77
+Table of Content s
+Consolidated Statement of Cash Flows
+Merck & Co., Inc. and Subsidiaries
+Years Ended December 31
+($ in millions)
+2024 2023 2022
+Cash Flows from Operating Activities
+Net income
+$ 17,133 $ 377 $ 14,526
+Adjustments to reconcile net income to net cash provided by operating activities:
+Amortization 2,395 2,044 2,085
+Depreciation 2,104 1,828 1,824
+Intangible asset impairment charges 39 792 1,749
+(Income) loss from investments in equity securities, net ( 14 ) ( 340 ) 1,419
+Charges for certain research and development asset acquisitions
+3,456 11,409 —
+Deferred income taxes ( 1,249 ) ( 1,899 ) ( 1,568 )
+Share-based compensation 761 645 541
+Other 510 355 1,301
+Net changes in assets and liabilities:
+Accounts receivable ( 244 ) ( 1,148 ) ( 644 )
+Inventories ( 835 ) ( 816 ) ( 161 )
+Trade accounts payable 182 ( 380 ) ( 289 )
+Accrued and other current liabilities ( 2,328 ) 1,783 ( 50 )
+Income taxes payable 1,023 214 380
+Noncurrent liabilities ( 49 ) 456 ( 545 )
+Other ( 1,416 ) ( 2,314 ) ( 1,473 )
+Net Cash Provided by Operating Activities
+21,468 13,006 19,095
+Cash Flows from Investing Activities
+Capital expenditures ( 3,372 ) ( 3,863 ) ( 4,388 )
+Purchases of securities and other investments ( 519 ) ( 955 ) ( 1,204 )
+Proceeds from sale of Seagen Inc. common stock — 1,145 —
+Proceeds from sales of securities and other investments 377 1,658 721
+Acquisition of Eyebiotech Limited, net of cash acquired
+( 1,344 ) — —
+Acquisition of Elanco Animal Health Incorporated aqua business
+( 1,303 ) — —
+Acquisition of Harpoon Therapeutics, Inc., net of cash acquired
+( 746 ) — —
+Acquisition of MK-1045 from Curon Pharmaceutical
+( 700 ) — —
+Acquisition of Prometheus Biosciences, Inc., net of cash acquired — ( 10,705 ) —
+Acquisition of Imago BioSciences Inc., net of cash acquired — ( 1,327 ) —
+Other ( 127 ) ( 36 ) ( 89 )
+Net Cash Used in Investing Activities
+( 7,734 ) ( 14,083 ) ( 4,960 )
+Cash Flows from Financing Activities
+Payments on debt ( 1,290 ) ( 1,755 ) ( 2,251 )
+Proceeds from issuance of debt 3,599 5,939 —
+Purchases of treasury stock ( 1,306 ) ( 1,346 ) —
+Dividends paid to stockholders ( 7,840 ) ( 7,445 ) ( 7,012 )
+Proceeds from exercise of stock options 177 125 384
+Other ( 372 ) ( 328 ) ( 240 )
+Net Cash Used in Financing Activities
+( 7,032 ) ( 4,810 ) ( 9,119 )
+Effect of Exchange Rate Changes on Cash, Cash Equivalents and Restricted Cash ( 293 ) 23 ( 410 )
+Net Increase (Decrease) in Cash, Cash Equivalents and Restricted Cash
+6,409 ( 5,864 ) 4,606
+Cash, Cash Equivalents and Restricted Cash at Beginning of Year (includes $ 68 , $ 79 and $ 71 of restricted cash at January 1, 2024, 2023 and 2022, respectively, included in Other current assets )
+6,909 12,773 8,167
+Cash, Cash Equivalents and Restricted Cash at End of Year (includes $ 76 , $ 68 and $ 79 of restricted cash at December 31, 2024, 2023 and 2022, respectively, included in Other current assets )
+$ 13,318 $ 6,909 $ 12,773
+The accompanying notes are an integral part of this consolidated financial statement.
+78
+Table of Content s
+Notes to Consolidated Financial Statements
+Merck & Co., Inc. and Subsidiaries
+($ in millions except per share amounts)
+1. Nature of Operations
+Merck & Co., Inc. (Merck or the Company) is a global health care company that delivers innovative health solutions through its prescription medicines, including biologic therapies, vaccines and animal health products. The Company's operations are principally managed on a product basis and include two operating segments, Pharmaceutical and Animal Health, both of which are reportable segments.
+The Pharmaceutical segment includes human health pharmaceutical and vaccine products. Human health pharmaceutical products consist of therapeutic and preventive agents, generally sold by prescription, for the treatment of human disorders. The Company sells these human health pharmaceutical products primarily to drug wholesalers and retailers, hospitals, government agencies and managed health care providers such as health maintenance organizations, pharmacy benefit managers and other institutions. Human health vaccine products consist of preventive pediatric, adolescent and adult vaccines. The Company sells these human health vaccines primarily to physicians, wholesalers, distributors and government entities.
+The Animal Health segment discovers, develops, manufactures and markets a wide range of veterinary pharmaceutical and vaccine products, as well as health management solutions and services, for the prevention, treatment and control of disease in all major livestock and companion animal species. The Company also offers an extensive suite of digitally connected identification, traceability and monitoring products. The Company sells its products to veterinarians, distributors, animal producers, farmers and pet owners.
+2. Summary of Accounting Policies
+Principles of Consolidation — The consolidated financial statements include the accounts of the Company and all of its subsidiaries in which a controlling interest is maintained. Intercompany balances and transactions are eliminated. Controlling interest is determined by majority ownership interest and the absence of substantive third-party participating rights or, in the case of variable interest entities, by majority exposure to expected losses, residual returns or both. For those consolidated subsidiaries where Merck ownership is less than 100%, the outside shareholders' interests are shown as Noncontrolling interests in equity. Investments in affiliates over which the Company has significant influence but not a controlling interest, such as interests in entities owned equally by the Company and a third party that are under shared control, are carried on the equity method basis.
+Acquisitions — In a business combination, the acquisition method of accounting requires that the assets acquired and liabilities assumed be recorded as of the date of the acquisition at their respective fair values with limited exceptions. Assets acquired and liabilities assumed in a business combination that arise from contingencies are generally recognized at fair value. If fair value cannot be determined, the asset or liability is recognized if probable and reasonably estimable; if these criteria are not met, no asset or liability is recognized. Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. Accordingly, the Company may be required to value assets at fair value measures that do not reflect the Company's intended use of those assets. Any excess of the purchase price (consideration transferred) over the estimated fair values of net assets acquired is recorded as goodwill. Transaction costs and costs to restructure the acquired company are expensed as incurred. The operating results of the acquired business are reflected in the Company's consolidated financial statements after the date of the acquisition.
+If the Company determines the assets acquired do not meet the definition of a business under the acquisition method of accounting, the transaction will be accounted for as an acquisition of assets rather than a business combination and, therefore, no goodwill will be recorded. In an asset acquisition, acquired in-process research and development (IPR&D) with no alternative future use is charged to expense and contingent consideration is not recognized at the acquisition date.
+Foreign Currency Translation — The net assets of international subsidiaries where the local currencies have been determined to be the functional currencies are translated into U.S. dollars using current exchange rates and results of operations are translated at average exchange rates. The U.S. dollar effects that arise from translating the net assets of these subsidiaries at changing rates are recorded in Other Comprehensive Income (OCI) and remain in Accumulated other comprehensive loss ( AOCL ) until either the sale or complete or substantially complete liquidation of the subsidiary. For those subsidiaries that operate in highly inflationary economies and for those subsidiaries where the U.S. dollar has been determined to be the functional currency, non-monetary foreign currency
+79
+Table of Content s
+assets and liabilities are translated using historical rates, while monetary assets and liabilities are translated at current rates, with the U.S. dollar effects of rate changes included in Other (income) expense, net .
+Cash Equivalents — Cash equivalents are comprised of certain highly liquid investments with original maturities of less than three months.
+Inventories — Inventories are valued at the lower of cost or net realizable value. The cost of a substantial majority of U.S. human health inventories is determined using the last-in, first-out (LIFO) method for both financial reporting and tax purposes. The cost of all other inventories is determined using the first-in, first-out (FIFO) method. Inventories consist of currently marketed products, as well as certain inventories produced in preparation for product launches that are considered by the Company to be probable of obtaining regulatory approval. In evaluating the recoverability of inventories produced in preparation for product launches, the Company considers the likelihood that revenue will be obtained from the future sale of the related inventory together with the status of the product during the research and regulatory approval process.
+Investments — Investments in marketable debt securities classified as available-for-sale are reported at fair value. Fair values of the Company's investments in marketable debt securities are determined using quoted market prices in active markets for identical assets or quoted prices for similar assets or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities. Changes in fair value that are not impairment related are reported net of taxes in OCI . The Company considers available evidence in evaluating potential impairments of its investments in marketable debt securities, including the extent to which fair value is less than cost, whether an allowance for credit loss is required, as well as adverse factors that could affect the value of the securities. An impairment has occurred if the Company does not expect to recover the entire amortized cost basis of the marketable debt security. If the Company does not intend to sell the impaired debt security, and it is not more likely than not it will be required to sell the debt security before the recovery of its amortized cost basis, the amount of the impairment recognized in earnings, recorded in Other (income) expense, net , is limited to the portion attributed to credit loss. The remaining portion of the impairment related to other factors is recognized in OCI . Realized gains and losses for debt securities are included in Other (income) expense, net .
+Investments in publicly traded equity securities are reported at fair value as determined using quoted market prices in active markets for identical assets or quoted prices for similar assets or other inputs that are observable or can be corroborated by observable market data. Changes in fair value are included in Other (income) expense, net . Unrealized gains and losses from investments that are directly owned are determined at the end of the reporting period. Gains and losses from ownership interests in investment funds, which are accounted for as equity method investments, are reported on a one quarter lag. Investments in equity securities without readily determinable fair values are recorded at cost, plus or minus subsequent observable price changes in orderly transactions for identical or similar investments, minus impairments. Such adjustments are recognized in Other (income) expense, net . Realized gains and losses for equity securities are included in Other (income) expense, net .
+Revenue Recognition — Recognition of revenue requires evidence of a contract, probable collection of sales proceeds and completion of substantially all performance obligations. Merck acts as the principal in substantially all of its customer arrangements and therefore records revenue on a gross basis. The majority of the Company's contracts related to the Pharmaceutical and Animal Health segments have a single performance obligation - the promise to transfer goods. Shipping is considered immaterial in the context of the overall customer arrangement and damages or loss of goods in transit are rare. Therefore, shipping is not deemed a separately recognized performance obligation.
+The vast majority of revenues from sales of products are recognized at a point in time when control of the goods is transferred to the customer, which the Company has determined is when title and risks and rewards of ownership transfer to the customer and the Company is entitled to payment. The Company recognizes revenue from the sales of vaccines to the U.S. federal government for placement into vaccine stockpiles in accordance with Securities and Exchange Commission (SEC) Interpretation, Commission Guidance Regarding Accounting for Sales of Vaccines and BioTerror Countermeasures to the Federal Government for Placement into the Pediatric Vaccine Stockpile or the Strategic National Stockpile . This interpretation allows companies to recognize revenue for sales of vaccines into U.S. government stockpiles even though these sales might not meet the criteria for revenue recognition under other accounting guidance. For certain services in the Animal Health segment, revenue is recognized over time, generally ratably over the contract term as services are provided. These service revenues are not material.
+The nature of the Company's business gives rise to several types of variable consideration including discounts and returns, which are estimated at the time of sale generally using the expected value method, although the most likely amount method is used for prompt pay discounts.
+80
+Table of Content s
+In the U.S., sales discounts are issued to customers at the point-of-sale, through an intermediary wholesaler (known as chargebacks), or in the form of rebates. Additionally, sales are generally made with a limited right of return under certain conditions. Revenues are recorded net of provisions for sales discounts and returns, which are established at the time of sale. In addition, if collection of accounts receivable is expected to be in excess of one year, sales are recorded net of time value of money discounts, which have not been material.
+The U.S. provision for aggregate customer discounts covering chargebacks and rebates was $ 13.3 billion in 2024, $ 12.5 billion in 2023 and $ 12.3 billion in 2022. Chargebacks are discounts that occur when a contracted customer purchases through an intermediary wholesaler. The wholesaler then charges the Company back for the difference between the price initially paid by the wholesaler and the contract price agreed to between Merck and the customer. The provision for chargebacks is based on expected sell-through levels by the Company's wholesale customers to contracted customers, as well as estimated wholesaler inventory levels. Rebates are amounts owed based upon definitive contractual agreements or legal requirements with private sector and public sector (Medicaid and Medicare Part D) benefit providers after the final dispensing of the product to a benefit plan participant. The provision for rebates is based on expected patient usage, as well as inventory levels in the distribution channel to determine the contractual obligation to the benefit providers. The Company uses historical customer segment utilization mix, sales forecasts, changes to product mix and price, inventory levels in the distribution channel, government pricing calculations and prior payment history in order to estimate the expected provision. Amounts accrued for aggregate customer discounts are evaluated on a quarterly basis through comparison of information provided by the wholesalers, health maintenance organizations, pharmacy benefit managers, federal and state agencies, and other customers to the amounts accrued. The accrued balances relative to the provisions for chargebacks and rebates included in Accounts receivable and Accrued and other current liabilities were $ 293 million and $ 2.2 billion, respectively, at December 31, 2024 and were $ 188 million and $ 2.3 billion, respectively, at December 31, 2023.
+Outside of the U.S., variable consideration in the form of discounts and rebates are a combination of commercially-driven discounts in highly competitive product classes, discounts required to gain or maintain reimbursement, or legislatively mandated rebates. In certain European countries, legislatively mandated rebates are calculated based on an estimate of the government's total unbudgeted spending and the Company's specific payback obligation. Rebates may also be required based on specific product sales thresholds. The Company applies an estimated factor against its actual invoiced sales to represent the expected level of future discount or rebate obligations associated with the sale.
+The Company maintains a returns policy that allows its U.S. pharmaceutical customers to return product within a specified period prior to and subsequent to the expiration date (generally, three to six months before and 12 months after product expiration). The estimate of the provision for returns is based upon historical experience with actual returns. Additionally, the Company considers factors such as levels of inventory in the distribution channel, product dating and expiration period, whether products have been discontinued, entrance in the market of generic or other competition, changes in formularies or launch of over-the-counter products, among others. Outside of the U.S., returns are only allowed in certain countries on a limited basis.
+Merck's payment terms for U.S. pharmaceutical customers are typically 36 days from receipt of invoice and for U.S. animal health customers are typically 30 days from receipt of invoice; however, certain products have longer payment terms, including Keytruda ( pembrolizumab ) , which has payment terms of 90 days. Payment terms for vaccine sales in the U.S. typically range from 30 days to 60 days. Outside of the U.S., payment terms are typically 30 days to 90 days, although certain markets have longer payment terms.
+See Note 18 for disaggregated revenue disclosures.
+Depreciation — Depreciation is provided over the estimated useful lives of the assets, principally using the straight-line method. For tax purposes, accelerated tax methods are used. The estimated useful lives primarily range from 25 to 45 years for Buildings , and from 3 to 15 years for Machinery, equipment and office furnishings . Depreciation expense was $ 2.1 billion in 2024, $ 1.8 billion in 2023 and $ 1.8 billion in 2022.
+Advertising and Promotion Costs — Advertising and promotion costs are expensed as incurred. The Company recorded advertising and promotion expenses of $ 2.4 billion in 2024, $ 2.3 billion in 2023 and $ 2.2 billion in 2022.
+Software Capitalization — The Company capitalizes certain costs incurred in connection with obtaining or developing internal-use software including external direct costs of material and services, and payroll costs for employees directly involved with the software development. These costs are included in Property, plant and equipment . In addition, the Company capitalizes certain costs incurred to implement a cloud computing arrangement
+81
+Table of Content s
+that is considered a service agreement, which are included in Other Assets . Capitalized software costs are being amortized over periods ranging from 2 to 10 years, with the longer lives generally associated with enterprise-wide projects implemented over multiple years. Costs incurred during the preliminary project stage and post-implementation stage, as well as maintenance and training costs, are expensed as incurred.
+Goodwill — Goodwill represents the excess of the consideration transferred over the fair value of net assets acquired in a business combination. Goodwill is assigned to reporting units and evaluated for impairment at least annually, or more frequently if impairment indicators exist, by first assessing qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount. If the Company concludes it is more likely than not that the fair value of a reporting unit is less than its carrying amount, a quantitative fair value test is performed. If the carrying value of a reporting unit is greater than its fair value, a goodwill impairment charge will be recorded for the difference (up to the carrying value of goodwill).
+Acquired Intangibles — Intangibles acquired in a business combination include product rights, trade names and patents, licenses and other, which are initially recorded at fair value, assigned an estimated useful life, and amortized primarily on a straight-line basis over their estimated useful lives ranging from 2 to 24 years. The Company periodically evaluates whether current facts or circumstances indicate that the carrying values of its acquired intangibles may not be recoverable. If such circumstances are determined to exist, an estimate of the undiscounted future cash flows of these assets, or appropriate asset groupings, is compared to the carrying value to determine whether an impairment exists. If the asset is determined to be impaired, the loss is measured based on the difference between the carrying value of the intangible asset and its fair value, which is determined based on the net present value of estimated future cash flows.
+Acquired In-Process Research and Development — IPR&D that the Company acquires in conjunction with a business combination represents the fair value assigned to incomplete research projects which, at the time of acquisition, have not reached technological feasibility. The amounts are capitalized and are accounted for as indefinite-lived intangible assets, subject to impairment testing until completion or abandonment of the projects. Upon successful completion of each IPR&D project, Merck will make a determination as to the then-useful life of the intangible asset, generally determined by the period in which the substantial majority of the cash flows are expected to be generated, and begin amortization. The Company evaluates IPR&D for impairment at least annually, or more frequently if impairment indicators exist, by performing a quantitative test that compares the fair value of the IPR&D intangible asset with its carrying value. If the fair value is less than the carrying amount, an impairment loss is recognized in operating results.
+Contingent Consideration for Business Combinations — Certain of the Company's acquisitions involve the potential for future payment of consideration that is contingent upon the achievement of performance milestones, including product development milestones and royalty payments on future product sales. If the transaction is accounted for as a business combination, the fair value of contingent consideration liabilities is determined at the acquisition date using unobservable inputs. These inputs include the estimated amount and timing of projected cash flows, the probability of success (achievement of the contingent event) and the risk-adjusted discount rate used to present value the probability-weighted cash flows. Subsequent to the acquisition date, at each reporting period until the contingency is resolved, the contingent consideration liability is remeasured at current fair value with changes (either expense or income) recorded in earnings. Significant events that increase or decrease the probability of achieving development and regulatory milestones or that increase or decrease projected cash flows will result in corresponding increases or decreases in the fair values of the related contingent consideration obligations.
+Research and Development — Research and development is expensed as incurred. Nonrefundable advance payments for goods and services that will be used in future research and development activities are expensed when the activity has been performed or when the goods have been received rather than when the payment is made. Research and development expenses include restructuring costs and IPR&D impairment charges. In addition, research and development expenses include expense or income related to changes in the estimated fair value measurement of liabilities for contingent consideration associated with IPR&D assets. Research and development expenses also include upfront and milestone payments related to asset acquisitions and licensing transactions involving clinical development programs that have not yet received regulatory approval.
+Collaborative Arrangements — Merck has entered into collaborative arrangements that provide the Company with varying rights to develop, produce and market products together with its collaborative partners. When Merck is the principal on sales transactions with third parties, the Company recognizes sales, cost of sales and selling, general and administrative expenses on a gross basis. Profit sharing amounts it pays to its collaborative partners are recorded within Cost of sales . When the collaborative partner is the principal on sales transactions with third parties, the Company records profit sharing amounts received from its collaborative partners as alliance revenue
+82
+Table of Content s
+(within Sales ). Alliance revenue is recorded net of cost of sales and includes an adjustment to share commercialization costs between the partners in accordance with the collaboration agreement. The adjustment is determined by comparing the commercialization costs Merck has incurred directly and reported within Selling, general and administrative expenses with the costs the collaborative partner has incurred. Research and development costs Merck incurs related to collaborations are recorded within Research and development expenses. Cost reimbursements to the collaborative partner or payments received from the collaborative partner to share these costs pursuant to the terms of the collaboration agreements are recorded as increases or decreases to Research and development expenses.
+In addition, the terms of the collaboration agreements may require the Company to make payments based upon the achievement of certain developmental, regulatory approval or commercial milestones. Upfront and milestone payments payable by Merck to collaborative partners prior to regulatory approval are expensed as incurred and included in Research and development expenses. Payments due to collaborative partners upon or subsequent to regulatory approval are capitalized and amortized to Cost of sales over the estimated useful life of the corresponding intangible asset, provided that future cash flows support the amounts capitalized. Sales-based milestones payable by Merck to collaborative partners are accrued and capitalized, subject to cumulative amortization catch-up, when determined by the Company to be probable of being achieved based on future sales forecasts. The amortization catch-up is calculated either from the time of the first regulatory approval for products that were unapproved at the time the collaboration was formed or, for new indications of approved products, from the time of the formation of the collaboration. The related intangible asset that is recognized is amortized to Cost of sales over its remaining useful life, subject to impairment testing.
+Share-Based Compensation — The Company expenses all share-based payments to employees over the requisite service period based on the grant-date fair value of the awards.
+Restructuring Costs — The Company records liabilities for costs associated with exit or disposal activities in the period in which the liability is incurred. In accordance with existing benefit arrangements, future employee termination costs to be incurred in conjunction with involuntary separations are accrued when such separations are probable and estimable. When accruing these costs, the Company will recognize the amount within a range of costs that is the best estimate within the range. When no amount within the range is a better estimate than any other amount, the Company recognizes the minimum amount within the range. Costs for one-time termination benefits in which the employee is required to render service until termination in order to receive the benefits are recognized ratably over the future service period.
+Contingencies and Legal Defense Costs — The Company records accruals for contingencies and legal defense costs expected to be incurred in connection with a loss contingency when it is probable that a liability has been incurred and the amount can be reasonably estimated.
+Taxes on Income — Deferred taxes are recognized for the future tax effects of temporary differences between financial and income tax reporting based on enacted tax laws and rates. The Company evaluates tax positions to determine whether the benefits of tax positions are more likely than not of being sustained upon audit based on the technical merits of the tax position. For tax positions that are more likely than not of being sustained upon audit, the Company recognizes the amount of the benefit that is greater than 50% likely of being realized upon ultimate settlement in the financial statements. For tax positions that are not more likely than not of being sustained upon audit, the Company does not recognize any portion of the benefit in the financial statements. The Company recognizes interest and penalties associated with uncertain tax positions as a component of Taxes on Income . The Company accounts for the tax effects of the tax on global intangible low-taxed income (GILTI) of certain foreign subsidiaries in the income tax provision in the period the tax arises. The Company's policy for releasing disproportionate income tax effects from AOCL is to utilize the item-by-item approach.
+Reclassifications — Certain reclassifications have been made to prior year amounts to conform to the current year presentation.
+Use of Estimates — The consolidated financial statements are prepared in conformity with accounting principles generally accepted in the U.S. (GAAP) and, accordingly, include certain amounts that are based on management's best estimates and judgments. Estimates are used when accounting for amounts recorded in connection with acquisitions, including initial fair value determinations of assets and liabilities in a business combination (primarily IPR&D, other intangible assets and contingent consideration), as well as subsequent fair value measurements. Additionally, estimates are used in determining such items as provisions for sales discounts, rebates and returns, depreciable and amortizable lives, recoverability of inventories, including those produced in preparation for product launches, amounts recorded for contingencies, environmental liabilities, accruals for contingent sales-
+83
+Table of Content s
+based milestone payments and other reserves, pension and other postretirement benefit plan assumptions, share-based compensation assumptions, restructuring costs, impairments of long-lived assets (including intangible assets and goodwill) and investments, and taxes on income. Because of the uncertainty inherent in such estimates, actual results may differ from these estimates.
+Recently Adopted Accounting Standards — In August 2023, the Financial Accounting Standards Board (FASB) issued amended guidance that requires a newly formed joint venture to recognize and initially measure its assets and liabilities at fair value upon formation. The amended guidance includes exceptions to fair value measurement that are consistent with the accounting for business combinations guidance. The Company adopted the guidance effective July 1, 2024 on a prospective basis. There was no impact to the Company's consolidated financial statements upon adoption.
+In November 2023, the FASB issued guidance intended to improve reportable segment disclosure requirements, primarily through expanded disclosures for significant segment expenses. The Company adopted the guidance effective for the 2024 annual period. The guidance resulted in incremental disclosures to the Company's segment reporting disclosures. See Note 18 for further details.
+Recently Issued Accounting Standards Not Yet Adopted — In December 2023, the FASB issued guidance intended to improve the transparency of income tax disclosures by requiring consistent categories and disaggregation of information in the effective income tax rate reconciliation and income taxes paid disclosures by jurisdiction. The guidance also includes other amendments to improve the effectiveness of income tax disclosures by removing certain previously required disclosures. The guidance is effective for 2025 annual reporting. The guidance will result in incremental disclosures within the footnotes to the Company's financial statements.
+In November 2024, the FASB issued guidance intended to improve financial reporting by requiring entities to disclose additional information about specific expense categories at interim and annual reporting periods. The guidance is effective for 2027 annual reporting and 2028 interim reporting. Early adoption is permitted. The guidance, which can be applied on a prospective or retrospective basis, will result in incremental disclosures within the footnotes to the Company's financial statements.
+3. Acquisitions, Divestitures, Research Collaborations and Licensing Agreements
+The Company continues to pursue acquisitions and the establishment of external alliances such as research collaborations and licensing agreements to complement its internal research capabilities. These arrangements often include upfront payments; expense reimbursements or payments to the third party; milestone, royalty or profit share arrangements contingent upon the occurrence of certain future events linked to the success of the asset in development; and can also include option and continuation payments. The Company also reviews its marketed products and pipeline to examine candidates which may provide more value through out-licensing and, as part of its portfolio assessment process, may also divest certain assets. Pro forma financial information for acquired businesses is not presented if the historical financial results of the acquired entity are not significant when compared with the Company's financial results.
+Recent Transactions
+In January 2025, Merck and WuXi Vaccines, a wholly owned subsidiary of WuXi Biologics, entered into a definitive agreement pursuant to which Merck will acquire WuXi Vaccines' facility in Dundalk, Ireland for a payment of approximately $ 440 million at closing. The transaction is expected to close in the first quarter of 2025, subject to the satisfaction of customary closing conditions. There are no future contingent payments associated with the acquisition.
+2024 Transactions
+In December 2024, Merck closed an exclusive global license to develop, manufacture and commercialize MK-2010 (LM-299), a novel investigational PD-1/vascular endothelial growth factor (VEGF) bispecific antibody from LaNova Medicines Ltd (LaNova). Merck recorded a charge of $ 588 million to Research and development expenses in 2024 for the upfront payment, which was made in January 2025. LaNova is also eligible to receive $ 300 million upon technology transfer, which is anticipated to be completed in 2025, as well as future contingent developmental milestone payments of up to $ 140 million, regulatory milestone payments of up to $ 860 million and sales-based milestone payments of up to $ 1.4 billion.
+Also in December 2024, Merck closed an exclusive global license to develop, manufacture and commercialize MK-4082 (HS-10535), an investigational preclinical oral small molecule GLP-1 receptor agonist from Hansoh Pharma (Hansoh). Merck recorded a charge of $ 112 million to Research and development expenses in 2024 for the upfront payment, which was made in February 2025. Hansoh is also eligible to receive future contingent
+84
+Table of Content s
+development-related milestone payments of up to $ 115 million, regulatory milestone payments of up to $ 315 million and sales-based milestone payments of up to $ 1.47 billion, as well as tiered royalties ranging from a high-single-digit rate to a low-double-digit rate on future net sales of MK-4082 (HS-10535), if approved. Under the agreement, Hansoh may co-promote or solely commercialize MK-4082 (HS-10535) in Chinese mainland, Hong Kong and Macau, subject to certain conditions.
+In September 2024, Merck acquired MK-1045 (formally CN201), a novel investigational clinical-stage bispecific antibody for the treatment of B-cell associated diseases, from Curon Biopharmaceutical (Curon) for an upfront payment of $ 700 million. In addition, Curon is eligible to receive future contingent developmental milestone payments of up to $ 300 million and regulatory milestone payments of up to $ 300 million. The transaction was accounted for as an asset acquisition. Merck recorded a charge of $ 750 million (reflecting the upfront payment and other related costs) to Research and development expenses in 2024 related to the execution of the transaction. In connection with the agreement, Merck is also obligated to pay a third party future contingent developmental, regulatory and sales-based milestone payments of up to $ 128 million in the aggregate, as well as tiered royalties ranging from a mid-single-digit rate to a low-double-digit rate on future net sales of MK-1045, if approved.
+In July 2024, Merck acquired the aqua business of Elanco Animal Health Incorporated (Elanco aqua business) for total consideration of $ 1.3 billion. The Elanco aqua business consists of an innovative portfolio of medicines and vaccines, nutritionals and supplements for aquatic species; two related aqua manufacturing facilities in Canada and Vietnam; as well as a research facility in Chile. The acquisition broadens Animal Health's aqua portfolio with products, such as Clynav , a new generation DNA-based vaccine that protects Atlantic salmon against pancreas disease, and Imvixa , an anti-parasitic sea lice treatment. This acquisition also brings a portfolio of water treatment products for warm water production, complementing Animal Health's warm water vaccine portfolio. In addition to these products, the DNA-based vaccine technology that is a part of the business has the potential to accelerate the development of novel vaccines to address the unmet needs of the aqua industry. There are no contingent payments associated with the acquisition, which was accounted for as a business combination.
+The estimated fair values of assets acquired and liabilities assumed from the Elanco aqua business are as follows:
+July 9, 2024
+Inventories
+$ 65
+Property, plant and equipment
+66
+Product rights - Clynav (useful life 15 years) (1)
+340
+Other product rights (useful lives 15 years) (1)
+291
+Other assets and liabilities, net 23
+Total identifiable net assets 785
+Goodwill (2)
+518
+Consideration transferred $ 1,303
+(1) The estimated fair values of Clynav and other product rights were determined using an income approach, specifically the multi-period excess earnings method. The future probability-weighted net cash flows were discounted to present value utilizing a discount rate of 8.5 %. Actual cash flows are likely to be different than those assumed.
+(2) The goodwill recognized is largely attributable to anticipated synergies expected to arise after the acquisition and was allocated to the Animal Health segment. The goodwill is expected to be deductible for tax purposes.
+Also in July 2024, Merck acquired Eyebiotech Limited (EyeBio), a privately held ophthalmology-focused biotechnology company, for $ 1.2 billion (including payments to settle share-based equity awards) and also incurred $ 207 million of transaction costs. The acquisition agreement also provides for former EyeBio shareholders to receive future contingent developmental milestone payments of up to $ 200 million (of which $ 100 million was triggered and paid in 2024 as noted below), regulatory milestone payments of up to $ 1.0 billion and sales-based milestone payments of up to $ 500 million. EyeBio's development work focused on candidates for the prevention and treatment of vision loss associated with retinal vascular leakage, a known risk factor for retinal diseases. EyeBio's lead candidate, MK-3000 (formerly EYE103), is an investigational, potentially first-in-class tetravalent, tri-specific antibody that acts as an agonist of the Wingless-related integration site signaling pathway, which is in clinical development for the treatment of diabetic macular edema and neovascular age-related macular degeneration. The transaction was accounted for as an asset acquisition since MK-3000 accounted for substantially all of the fair value of the gross assets acquired (excluding cash and deferred income taxes). Merck recorded net assets of $ 21 million, as well as a charge of $ 1.35 billion to Research and development expenses in 2024 related to the acquisition. Additionally, a $ 100 million developmental milestone was triggered and paid in 2024 upon initiation of a Phase 2/3 clinical trial
+85
+Table of Content s
+evaluating MK-3000 for the treatment of diabetic macular edema, which was also recorded as a charge to Research and development expenses.
+Additionally in July 2024, Merck and Orion Corporation (Orion) announced the mutual exercise of an option to convert the companies' ongoing co-development and co-commercialization agreement for opevesostat (MK-5684/ODM-208), an investigational cytochrome P450 11A1 (CYP11A1) inhibitor in Phase 3 clinical development, and other candidates targeting CYP11A1, into an exclusive global license for Merck. With the exercise of the option, Merck assumed full responsibility for all past and future development and commercialization expenses associated with the candidates covered by the original agreement entered into in 2022 as discussed below. In addition, Orion became eligible to receive developmental milestone payments of up to $ 30 million, regulatory milestone payments of up to $ 625 million and sales-based milestone payments of up to $ 975 million, as well as annually tiered royalties ranging from a low double-digit rate up to a rate in the low twenties on net sales for any commercialized licensed product. Orion retained responsibility for the manufacture of clinical and commercial supply for Merck. No payment was associated with the exercise of the option, which became effective in September 2024.
+Also in July 2024, Merck notified Kelun-Biotech (a holding subsidiary of Sichuan Kelun Pharmaceutical Co., Ltd.) it was terminating the license and collaboration agreement entered into in July 2022 in which Merck gained exclusive worldwide rights for the development, manufacture and commercialization of an investigational antibody drug conjugate (ADC) MK-1200 (SKB315) for the treatment of solid tumors. As a result of this termination, which became effective in September 2024, all rights to SKB315 have reverted to Kelun-Biotech.
+In March 2024, Merck acquired Harpoon Therapeutics, Inc. (Harpoon), a clinical-stage immunotherapy company developing a novel class of T-cell engagers designed to harness the power of the body's immune system to treat patients suffering from cancer and other diseases for $ 765 million and also incurred $ 56 million of transaction costs. Harpoon's lead candidate, MK-6070 (formerly HPN328), is a T-cell engager targeting delta-like ligand 3 (DLL3), an inhibitory canonical Notch ligand that is expressed at high levels in small-cell lung cancer and neuroendocrine tumors. The transaction was accounted for as an asset acquisition since MK-6070 represented substantially all of the fair value of the gross assets acquired (excluding cash and deferred income taxes). Merck recorded net assets of $ 165 million, as well as a charge of $ 656 million to Research and development expenses in 2024 related to the transaction. There are no future contingent payments associated with the acquisition. In August 2024, Merck and Daiichi Sankyo expanded their existing global co-development and co-commercialization agreement to include MK-6070. See Note 4 for more information on Merck's collaboration with Daiichi Sankyo.
+2023 Transactions
+In October 2023, Merck and Daiichi Sankyo entered into a global development and commercialization agreement for three of Daiichi Sankyo's deruxtecan (DXd) ADC candidates: patritumab deruxtecan (HER3-DXd) (MK-1022), ifinatamab deruxtecan (I-DXd) (MK-2400) and raludotatug deruxtecan (R-DXd) (MK-5909). See Note 4 for additional information related to this collaboration.
+In June 2023, Merck acquired Prometheus Biosciences, Inc. (Prometheus), a clinical-stage biotechnology company pioneering a precision medicine approach for the discovery, development, and commercialization of novel therapeutic and companion diagnostic products for the treatment of immune-mediated diseases. Total consideration paid of $ 11.0 billion included $ 1.2 billion of costs to settle share-based equity awards (including $ 700 million to settle unvested equity awards). Prometheus' lead candidate, tulisokibart (MK-7240, formerly PRA023), is a humanized monoclonal antibody directed to tumor necrosis factor-like ligand 1A, a target associated with both intestinal inflammation and fibrosis. Tulisokibart is being developed for the treatment of immune-mediated diseases including ulcerative colitis, Crohn's disease, and other autoimmune conditions. Phase 3 clinical trials evaluating tulisokibart for Crohn's disease and ulcerative colitis are underway. The transaction was accounted for as an asset acquisition since tulisokibart accounted for substantially all of the fair value of the gross assets acquired (excluding cash and deferred income taxes). Merck recorded net assets of $ 877 million, including cash of $ 368 million, investments of $ 296 million, deferred tax assets of $ 218 million and other net liabilities of $ 5 million, as well as a charge of $ 10.2 billion to Research and development expenses in 2023 related to the transaction. There are no future contingent payments associated with the acquisition.
+In February 2023, Merck and Kelun-Biotech closed a license and collaboration agreement expanding their relationship in which Merck gained exclusive rights for the research, development, manufacture and commercialization of up to seven investigational preclinical ADCs for the treatment of cancer. Kelun-Biotech retained the right to research, develop, manufacture and commercialize certain licensed and option ADCs for Chinese mainland, Hong Kong and Macau. Merck made an upfront payment of $ 175 million, which was recorded as a charge to Research and development expenses in 2023. In October 2023, Merck notified Kelun-Biotech it was terminating two of the seven candidates under the agreement. Subsequently, in April 2024, Merck notified Kelun-Biotech it was terminating one additional candidate under the agreement. In July 2024, Merck notified Kelun-Biotech that it was
+86
+Table of Content s
+exercising an existing license option for one of the candidates under the agreement, granting Merck a license for the development, manufacture and commercialization worldwide excluding China. There are now three candidates licensed under the original agreement and one candidate for which the license option remains unexercised. Merck paid Kelun-Biotech $ 38 million in connection with the July option exercise, following which Kelun-Biotech remains eligible to receive future contingent payments aggregating up to $ 540 million in development-related payments, $ 1.5 billion in regulatory milestones, and $ 3.1 billion in sales-based milestones, if Kelun-Biotech does not retain Chinese mainland, Hong Kong and Macau rights for the remaining option ADC and all remaining candidates achieve regulatory approval. In addition, Kelun-Biotech is eligible to receive tiered royalties ranging from a mid-single-digit rate to a low-double-digit rate on future net sales for any commercialized ADC product. Also, in connection with the agreement, Merck invested $ 100 million in Kelun-Biotech shares in January 2023.
+In January 2023, Merck acquired Imago BioSciences, Inc. (Imago), a clinical-stage biopharmaceutical company developing new medicines for the treatment of myeloproliferative neoplasms and other bone marrow diseases, for $ 1.35 billion (including payments to settle share-based equity awards) and also incurred approximately $ 60 million of transaction costs. Imago's lead candidate, bomedemstat (MK-3543, formerly IMG-7289), which is in Phase 3 clinical development, is an investigational orally available lysine-specific demethylase 1 inhibitor currently being evaluated in multiple clinical trials for the treatment of essential thrombocythemia, myelofibrosis, and polycythemia vera, in addition to other indications. The transaction was accounted for as an asset acquisition since bomedemstat represented substantially all of the fair value of the gross assets acquired (excluding cash and deferred income taxes). Merck recorded net assets of $ 219 million, as well as a charge of $ 1.2 billion to Research and development expenses in 2023 related to the transaction. There are no future contingent payments associated with the acquisition.
+2022 Transactions
+In October 2022, Merck and Royalty Pharma plc (Royalty Pharma) entered into a funding arrangement under which Royalty Pharma paid Merck $ 50 million to co-fund Merck's development costs for a Phase 2b trial of MK-8189, an investigational oral phosphodiesterase 10A (PDE10A) inhibitor, which was being evaluated for the treatment of schizophrenia. As Royalty Pharma was sharing the risk of technical and regulatory success with Merck, the development funding was recognized by Merck as an obligation to perform contractual services. Accordingly, the payment received was recognized by Merck as a reduction to Research and development expenses ratably over the estimated Phase 2b research period. In 2024, it was determined the Phase 2b clinical trial for MK-8189 as a monotherapy for acute schizophrenia did not meet its primary efficacy endpoint; therefore, further development in schizophrenia, bipolar, and dementia indications has stopped, and the funding arrangement was terminated.
+In September 2022, Merck exercised its option to jointly develop and commercialize V940 (mRNA-4157), an investigational individualized neoantigen therapy, pursuant to the terms of an existing collaboration and license agreement with Moderna, Inc. (Moderna). See Note 4 for additional information related to this collaboration.
+In August 2022, Merck and Orna Therapeutics (Orna), a biot

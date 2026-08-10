@@ -1,0 +1,842 @@
+% ============================================================================
+%  Audit technique — Semantic Firewall DD
+%  Cible : soumission atelier FinNLP @ EMNLP
+%  Compilation : pdflatex audit_semantic_firewall.tex  (x2 pour la table)
+% ============================================================================
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage{lmodern}
+\usepackage[a4paper,margin=2.3cm]{geometry}
+\usepackage{xcolor}
+\usepackage[most]{tcolorbox}
+\usepackage{listings}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{amssymb}
+\usepackage[hidelinks]{hyperref}
+
+% ── Couleurs ───────────────────────────────────────────────────────────────
+\definecolor{cFatal}{HTML}{B3261E}
+\definecolor{cFatalBg}{HTML}{FDECEA}
+\definecolor{cSerieux}{HTML}{B26A00}
+\definecolor{cSerieuxBg}{HTML}{FFF4E5}
+\definecolor{cMineur}{HTML}{5F6368}
+\definecolor{cMineurBg}{HTML}{F1F3F4}
+\definecolor{cBon}{HTML}{1E7B34}
+\definecolor{cBonBg}{HTML}{EAF6EC}
+\definecolor{cExp}{HTML}{1A4FA0}
+\definecolor{cExpBg}{HTML}{EAF0FB}
+\definecolor{cCode}{HTML}{F7F7F9}
+\definecolor{cComment}{HTML}{6A737D}
+\definecolor{cKw}{HTML}{A626A4}
+\definecolor{cStr}{HTML}{50A14F}
+
+% ── En-têtes ───────────────────────────────────────────────────────────────
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\itshape Audit — Semantic Firewall DD}
+\fancyhead[R]{\small\itshape Cible : FinNLP @ EMNLP}
+\fancyfoot[C]{\small\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% ── Listings ───────────────────────────────────────────────────────────────
+\lstdefinestyle{py}{
+  language=Python,
+  basicstyle=\ttfamily\footnotesize,
+  keywordstyle=\color{cKw}\bfseries,
+  commentstyle=\color{cComment}\itshape,
+  stringstyle=\color{cStr},
+  backgroundcolor=\color{cCode},
+  frame=single,
+  rulecolor=\color{cMineur!30},
+  numbers=none,
+  breaklines=true,
+  showstringspaces=false,
+  columns=fullflexible,
+  xleftmargin=6pt,
+  xrightmargin=6pt,
+  framexleftmargin=6pt,
+  aboveskip=8pt,
+  belowskip=8pt,
+  extendedchars=true,
+  literate={é}{{\'e}}1 {è}{{\`e}}1 {ê}{{\^e}}1 {à}{{\`a}}1
+           {ç}{{\c c}}1 {ô}{{\^o}}1 {î}{{\^i}}1 {û}{{\^u}}1
+           {≠}{{$\neq$}}1 {→}{{$\rightarrow$}}1
+}
+\lstset{style=py}
+
+% ── Boîtes de constat ──────────────────────────────────────────────────────
+\newtcolorbox{bon}[1]{
+  enhanced, breakable,
+  colback=cBonBg, colframe=cBon, coltitle=white,
+  fonttitle=\bfseries, title={#1},
+  boxrule=0.8pt, arc=2pt, left=6pt, right=6pt, top=5pt, bottom=5pt
+}
+\newtcolorbox{fatal}[1]{
+  enhanced, breakable,
+  colback=cFatalBg, colframe=cFatal, coltitle=white,
+  fonttitle=\bfseries, title={#1},
+  boxrule=0.8pt, arc=2pt, left=6pt, right=6pt, top=5pt, bottom=5pt
+}
+\newtcolorbox{serieux}[1]{
+  enhanced, breakable,
+  colback=cSerieuxBg, colframe=cSerieux, coltitle=white,
+  fonttitle=\bfseries, title={#1},
+  boxrule=0.8pt, arc=2pt, left=6pt, right=6pt, top=5pt, bottom=5pt
+}
+\newtcolorbox{exper}[1]{
+  enhanced, breakable,
+  colback=cExpBg, colframe=cExp, coltitle=white,
+  fonttitle=\bfseries, title={#1},
+  boxrule=0.8pt, arc=2pt, left=6pt, right=6pt, top=5pt, bottom=5pt
+}
+
+\newcommand{\corr}[1]{%
+  \par\vspace{4pt}%
+  \noindent\textbf{\textcolor{cExp}{$\blacktriangleright$ Correction recommandée.}} #1%
+}
+\newcommand{\fic}[1]{\texttt{\small #1}}
+
+% ============================================================================
+\title{\vspace{-1.5cm}\textbf{Audit technique du dépôt \textit{Semantic Firewall DD}}\\[4pt]
+\large Diagnostic, corrections et plan d'expériences\\[2pt]
+\normalsize en vue d'une soumission à l'atelier FinNLP (EMNLP)}
+\author{}
+\date{30 juillet 2026}
+
+\begin{document}
+\maketitle
+\thispagestyle{fancy}
+
+\begin{tcolorbox}[colback=cMineurBg, colframe=cMineur, boxrule=0.6pt, arc=2pt]
+\textbf{Comment lire ce document.} Il se lit en trois temps. La
+section~\ref{sec:solide} liste ce qu'il faut \emph{garder}. Les
+sections~\ref{sec:fatal} à~\ref{sec:mineur} listent ce qu'il faut
+\emph{corriger}, classé par gravité, avec pour chaque point la correction à
+appliquer. La section~\ref{sec:exp} donne les expériences à lancer, dans
+l'ordre. La section~\ref{sec:route} résume tout sous forme de feuille de route.
+\end{tcolorbox}
+
+% ===========================================================================
+\section{Résumé exécutif}
+
+\subsection*{Le dépôt en chiffres}
+
+\begin{center}
+\begin{tabular}{@{}lr@{}}
+\toprule
+\textbf{Élément} & \textbf{Valeur} \\
+\midrule
+Lignes de Python & $\approx$ 12\,400 \\
+Scripts à la racine & 36 \\
+Documents de référence (corpus) & 72 \\
+Fonctions de test unitaire & 1 \\
+Fichier \fic{README} & absent \\
+Fichier \fic{requirements.txt} & absent \\
+Commits & 1 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\subsection*{Le verdict en une phrase}
+
+\begin{fatal}{Verdict}
+L'idée scientifique est bonne et défendable. \textbf{L'évaluation, elle, ne
+tient pas} : la métrique principale est tautologique, il n'existe aucune
+vérité de terrain, et les étiquettes d'anomalie sont lues dans les noms de
+fichiers. En l'état, le papier serait rejeté dès la première lecture. La bonne
+nouvelle : les corrections sont identifiées, et le déblocage principal (XBRL)
+coûte quelques jours de tuyauterie de données, pas une refonte.
+\end{fatal}
+
+\subsection*{L'idée à défendre}
+
+Elle est simple et elle est solide :
+
+\begin{center}
+\begin{tcolorbox}[colback=white, colframe=cExp, boxrule=1pt, arc=2pt, width=0.93\textwidth]
+\centering
+\textbf{Les identités comptables sont des détecteurs d'erreur gratuits,
+qui ne demandent aucune annotation.}\\[4pt]
+\small
+Si \textsc{ebitda} $\neq$ \textsc{ebit} $+$ \textsc{d\&a}, si Actif $\neq$
+Passif, si prix par action $\neq$ valorisation post-money / nombre d'actions,
+alors l'extraction du LLM est fausse --- \emph{et on le sait sans disposer de
+la bonne réponse}.
+\end{tcolorbox}
+\end{center}
+
+C'est exactement le type de contribution qu'un atelier FinNLP accueille. Tout
+le travail consiste maintenant à le \emph{mesurer honnêtement}.
+
+% ===========================================================================
+\section{Ce qui est solide --- à garder}
+\label{sec:solide}
+
+\begin{bon}{1. La thèse centrale est publiable}
+Les contrôles déterministes de \fic{dd\_base.py} (lignes 209--464) implémentent
+proprement quatre identités comptables dures : équilibre du bilan,
+décomposition de l'actif, cohérence \textsc{ebitda}/\textsc{ebit}/\textsc{d\&a},
+et cohérence de la table de capitalisation. C'est le c\oe ur du papier.
+\end{bon}
+
+\begin{bon}{2. Le parseur de montants \fic{DDTaxonomy.\_f} est excellent}
+\fic{dd\_base.py}, lignes 212--257. Il gère les négatifs entre parenthèses de la
+comptabilité anglo-saxonne, l'ambiguïté décimale française/anglaise
+($1.234{,}56$ contre $1{,}234.56$), les multiplicateurs textuels
+(\textit{million}, \textit{bn}, \textit{mm}), les espaces insécables. C'est le
+genre de détail ingrat que les relecteurs de NLP financier respectent. À
+décrire dans le papier, en un paragraphe.
+\end{bon}
+
+\begin{bon}{3. La conception bilingue évite un piège réel}
+\fic{semantic\_monitor.py}, lignes 283--332 : l'IDF et les centroïdes sont
+calculés \emph{par langue}. Un 10-K anglais n'est donc jamais pénalisé face à un
+corpus français. Beaucoup se trompent sur ce point. La liste de mots vides
+propre au \textit{boilerplate} des 10-K (lignes 60--68) est également un bon
+choix de domaine.
+\end{bon}
+
+\begin{bon}{4. L'interprétabilité est déjà là, gratuitement}
+\fic{\_jsd\_contributors} (\fic{semantic\_monitor.py}, lignes 137--173) décompose
+le score de dérive mot par mot, avec les ratios de sur- et
+sous-représentation. C'est une figure du papier, et elle ne coûte rien de plus.
+\end{bon}
+
+\begin{bon}{5. Les cas difficiles ont été choisis avec discernement}
+La liste des 49 documents (\fic{benchmark\_compare.py}, lignes 60--255) documente
+un \emph{défi} par dépôt : banques sans ligne « Net sales », exercices fiscaux
+décalés (juin, avril), résultat opérationnel de segment confondu avec le
+consolidé, amortissement de contenu de Netflix employé comme approximation de
+\textsc{d\&a}, épuisement (\textit{depletion}) de Chevron. Cette taxonomie
+sectorielle des modes de défaillance est \textbf{une contribution en soi} --- et
+elle est aujourd'hui enterrée dans des commentaires.
+\end{bon}
+
+\begin{bon}{6. Coût et latence sont déjà instrumentés}
+Le champ \fic{time\_s} est enregistré par méthode, et le \textit{runner} sait
+reprendre un calcul interrompu. C'est pragmatique et cela alimentera directement
+le tableau coût/précision du papier.
+\end{bon}
+
+% ===========================================================================
+\section{Défauts bloquants --- rédhibitoires en relecture}
+\label{sec:fatal}
+
+\begin{fatal}{D1. La métrique principale est tautologique}
+C'est le point qui, seul, condamne le papier.
+
+Dans le pare-feu M4, \fic{pipeline.py} lignes 308--313 :
+\begin{lstlisting}
+if ebit_v != 0 and da_v > 0:
+    computed_ebitda = ebit_v + da_v
+    if ebitda_v == 0 or abs(computed_ebitda - ebitda_v)/max(abs(ebitda_v),1) > 0.15:
+        ebitda_v = computed_ebitda   # on ECRASE la valeur
+\end{lstlisting}
+
+Et la métrique sur laquelle M4 est noté, \fic{benchmark\_compare.py}
+lignes 440--443 :
+\begin{lstlisting}
+err_pct = abs(ebitda - (ebit + da)) / expected * 100
+coherence = err_pct <= 15.0
+\end{lstlisting}
+
+M4 \textbf{réécrit la valeur avec la formule exacte que la métrique vérifie
+ensuite, à la même tolérance de 15\,\%}. Sa « cohérence \textsc{ebitda} » vaut
+donc 100\,\% \emph{par construction}, pas par mérite. Le même mécanisme rend le
+\fic{score\_confiance} non informatif, puisque \fic{check\_ebitda\_consistency}
+tourne après la correction.
+
+\corr{Séparer strictement le \emph{détecteur} du \emph{correcteur}. Mesurer les
+violations d'identité \textbf{avant} toute auto-correction, puis évaluer ces
+violations contre une vérité de terrain externe (voir E0 et E1). Le correcteur
+devient un second système, évalué séparément sur le gain de précision qu'il
+apporte réellement.}
+\end{fatal}
+
+\begin{fatal}{D2. Il n'existe aucune vérité de terrain}
+Le \fic{recall\_pct} (\fic{benchmark\_compare.py}, ligne 430) est la
+\emph{proportion de champs non nuls} --- c'est-à-dire un taux d'extraction, pas
+une justesse. À aucun moment le \textit{benchmark} 49 documents ne compare un
+nombre extrait à un nombre vrai.
+
+Pire : M4 dispose de repli par expressions régulières et de dérivations
+\textsc{ebit}/\textsc{ebitda} (\fic{pipeline.py}, lignes 223--318) qui
+\emph{remplissent les champs vides}. Son « rappel » dépasse donc celui de M2 par
+construction également.
+
+\textbf{Les deux axes du \textit{benchmark} sont truqués en faveur de M4, et
+aucun des deux ne mesure la justesse.}
+
+\corr{Construire la vérité de terrain depuis XBRL (expérience E0). C'est
+gratuit, exact et disponible à l'échelle de plusieurs centaines de dépôts.
+Redéfinir ensuite le rappel comme « proportion de champs \emph{corrects} »,
+avec tolérance explicite.}
+\end{fatal}
+
+\begin{fatal}{D3. Les étiquettes d'anomalie sont lues dans les noms de fichiers}
+\fic{dd\_eval.py} ligne 399 et \fic{run\_all\_eval.py} ligne 110 :
+\begin{lstlisting}
+gt_positive = any(kw in nom for kw in ("erreur", "atypique"))
+\end{lstlisting}
+
+Précision, rappel et F1 sont donc calculés sur 15 documents dont l'auteur a
+encodé l'étiquette dans le nom du fichier, et dont il a écrit le contenu pour
+déclencher les contrôles. C'est un test unitaire auto-réalisateur présenté comme
+une évaluation. Après exclusions, la population effective tombe à
+$\approx$ 14 documents : bien trop peu pour publier un F1, quelle que soit la
+méthode d'étiquetage.
+
+\corr{Supprimer entièrement cette matrice de confusion. La remplacer par des
+étiquettes dérivées de XBRL sur des dépôts réels (E0), et ne publier des
+métriques de classification que sur plusieurs centaines de documents.}
+\end{fatal}
+
+\begin{fatal}{D4. La baseline « regex » est un homme de paille}
+La méthode M1 utilise, dans \fic{benchmark\_compare.py} lignes 270--292 :
+\begin{lstlisting}
+r'Net\s+sales?\s+([\d,]+)'      # exige le nombre ACCOLE au libelle
+\end{lstlisting}
+tandis que le repli \emph{interne} de M4, pour le même champ
+(\fic{pipeline.py}, ligne 225), utilise :
+\begin{lstlisting}
+r'Net\s+sales[^\n]{0,60}?([\d,]{4,})'   # absorbe les points de conduite
+\end{lstlisting}
+
+\textbf{La baseline a reçu les motifs cassés, le système les motifs qui
+marchent.} Les échecs de M1 sont un artefact de l'ablation, pas une propriété
+des expressions régulières. Un relecteur qui ouvre les deux fichiers le voit
+immédiatement.
+
+\corr{Donner à M1 \emph{exactement} les mêmes motifs que le repli interne de M4.
+Toute autre configuration est indéfendable. Si M1 remonte fortement, c'est une
+information — pas un problème.}
+\end{fatal}
+
+\begin{fatal}{D5. La provenance annoncée ne correspond pas aux données}
+Deux cas, tous deux à corriger avant toute diffusion.
+
+\textbf{(a)} Les fichiers \fic{samples/fnspid/*.txt} sont des bilans écrits à la
+main, dont l'en-tête indique
+\fic{Source: FNSPID dataset --- SEC 10-K filing}. Or FNSPID (Dong \textit{et
+al.}, 2024) est un jeu de données de \emph{presse financière et de cours} : il ne
+contient aucun bilan de 10-K.
+
+\textbf{(b)} \fic{generate\_finnlp2020\_drift\_report.py} revendique le cadre de
+Montariol \textit{et al.} (FinNLP 2020) mais évalue sur \textbf{six documents
+écrits par l'auteur, avec \fic{expected\_alert} codé en dur à côté de chacun}
+(lignes 28--71). Écrire des documents bourrés de vocabulaire hors corpus, puis
+constater qu'une mesure de divergence lexicale se déclenche dessus, n'a aucune
+validité externe.
+
+Soumettre une provenance de jeu de données fabriquée relève de l'\textbf{intégrité
+scientifique}, pas seulement de la faiblesse méthodologique.
+
+\corr{Corriger les en-têtes de \fic{samples/fnspid/} \textbf{immédiatement} : ces
+fichiers sont synthétiques et doivent le dire. Supprimer les deux études de
+dérive synthétiques et les remplacer par de vrais décalages de distribution
+(expérience E4).}
+\end{fatal}
+
+% ===========================================================================
+\section{Défauts sérieux}
+\label{sec:serieux}
+
+\begin{serieux}{D6. Le composant le plus original est du code mort}
+\fic{check\_transcription\_divergence} (\fic{dd\_eval.py}, lignes 180--230)
+vérifie que chaque montant extrait apparaît près de sa ligne d'ancrage comptable
+--- autrement dit, c'est un \textbf{détecteur d'hallucination par ancrage
+textuel}. Il n'est jamais appelé par \fic{pipeline.py}.
+
+Il est de plus auto-neutralisé : les lignes 215--218 se rabattent sur une
+recherche dans \emph{tout} le document quand le test localisé échoue, ce qui
+détruit précisément le signal que le test existe pour mesurer.
+
+C'est le composant à plus forte valeur pour le papier, et il est à la fois
+débranché et désamorcé.
+
+\corr{Le brancher dans \fic{pipeline.py}, \textbf{supprimer le repli sur le
+document entier}, puis balayer la fenêtre d'ancrage ($\pm 0$, $\pm 2$, $\pm 5$,
+$\pm 10$ lignes). Voir E5.}
+\end{serieux}
+
+\begin{serieux}{D7. Le seuil JSD de 0,55 n'est ni motivé ni centralisé}
+Aucun balayage, aucune courbe ROC, aucune dérivation. La valeur est de plus
+recopiée en dur dans huit endroits, y compris comme chaîne de caractères dans
+les générateurs de rapport : elle peut donc se désynchroniser silencieusement de
+\fic{JSD\_ALERT\_THRESHOLD}.
+
+\corr{Une seule source de vérité : importer la constante, ne jamais retaper
+« 0.55 ». Puis justifier le seuil par un balayage et une AUROC (E4).}
+\end{serieux}
+
+\begin{serieux}{D8. Le corpus est trop petit, et déséquilibré}
+Décompte réel par couple (type, langue) :
+
+\begin{center}
+\begin{tabular}{@{}lrr@{}}
+\toprule
+\textbf{Type [langue]} & \textbf{Docs} & \textbf{Termes} \\
+\midrule
+\fic{compte\_resultat [en]} & 16 & 2\,945 \\
+\fic{compte\_resultat [fr]} & 12 & 97 \\
+\fic{bilan [fr]}            & 14 & 140 \\
+\fic{bilan [en]}            & 3  & 385 \\
+\fic{captable [fr]}         & 9  & 79 \\
+\fic{captable [en]}         & \textbf{1} & 57 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+La JSD est un \emph{minimum} sur les références document par document
+(\fic{semantic\_monitor.py}, ligne 375) : avec $n = 1$, la distribution de
+référence \emph{est} un seul document. Surtout, 2\,945 termes contre 97 signifie
+que les deux « langues » ne sont pas des conditions comparables : on compare du
+texte intégral de 10-K à de courts états synthétiques. \textbf{Toute comparaison
+FR/EN mesure ici la longueur et le registre, pas la langue.}
+
+\corr{Apparier longueur et registre entre conditions. Viser au minimum quelques
+dizaines de documents réels par couple (type, langue), et retirer toute
+conclusion FR/EN jusque-là.}
+\end{serieux}
+
+\begin{serieux}{D9. Trois scripts ne peuvent pas s'exécuter}
+\fic{generate\_finnlp2020\_drift\_report.py} (l.~18--19),
+\fic{generate\_fnspid\_drift\_report.py} (l.~13--14) et
+\fic{generate\_samples\_sec\_report.py} (l.~12--13) contiennent en dur :
+\begin{lstlisting}
+os.chdir(r'c:\Users\arthus.de.chaudenay\Projet')
+\end{lstlisting}
+De plus, l'appel \fic{SemanticMonitor().fit('samples/dd','samples')} y omet
+\fic{samples/references/*}. Ces rapports utilisent donc un corpus
+\emph{différent et plus petit} que celui de l'API : \textbf{les chiffres des PDF
+ne sont pas ceux que le système produit}.
+
+\corr{Supprimer ces trois scripts, ou les réécrire avec des chemins relatifs et
+le \emph{même} appel \fic{fit()} que \fic{get\_monitor()}. En l'état, ils
+donnent une image fausse du système.}
+\end{serieux}
+
+\begin{serieux}{D10. Le modèle de base est trop faible pour soutenir la thèse}
+Tout tourne sur \fic{meta/llama-3.1-8b-instruct}. Or « un échafaudage améliore
+un modèle 8B en zéro-\textit{shot} » n'est pas un résultat en 2026. Le
+relecteur demandera si un modèle de pointe avec décodage JSON contraint ne
+résout pas simplement le problème.
+
+\corr{Ajouter au moins un modèle de pointe, et un décodage contraint par
+schéma JSON. Si la couche symbolique n'aide que le 8B, c'est \emph{aussi} un
+résultat publiable : « petit modèle $+$ contraintes symboliques bon marché
+$\approx$ modèle de pointe pour $1/20^{\text{e}}$ du coût » est un très bon
+argument d'atelier, et le tableau de coûts est déjà instrumenté.}
+\end{serieux}
+
+\begin{serieux}{D11. Le dépôt n'est pas reproductible}
+Pas de \fic{README}, pas de \fic{requirements.txt}, aucune version épinglée,
+aucune graine aléatoire, aucun instantané de données figé.
+\fic{samples/real\_world/} est dans le \fic{.gitignore} --- \textbf{le corpus de
+49 documents est donc absent du dépôt} --- et \fic{output/} aussi, donc aucun
+résultat n'est versionné. \textbf{Personne ne peut aujourd'hui reproduire un
+seul chiffre.}
+
+\corr{Voir la liste d'actions de la section~\ref{sec:ingenierie}.}
+\end{serieux}
+
+\begin{serieux}{D12. Le dépôt est un produit, pas un artefact de recherche}
+\fic{api.py} pèse 72\,ko, dont environ 830 lignes de HTML en ligne, auxquelles
+s'ajoutent les connecteurs Notion, Airtable, Teams et SharePoint. Rien de tout
+cela n'a sa place dans une soumission, et tout cela dilue la relecture.
+
+\corr{Extraire \fic{api.py}, \fic{connectors/} et les générateurs de rapports
+HTML/PDF dans un dépôt ou une branche \fic{product/} séparée. L'artefact soumis
+ne contient que : extraction, validation, évaluation.}
+\end{serieux}
+
+% ===========================================================================
+\section{Défauts mineurs}
+\label{sec:mineur}
+
+\begin{itemize}[leftmargin=*, itemsep=4pt]
+\item \textbf{Détection de langue.} \fic{detect\_language} renvoie \fic{en} en
+cas d'égalité, y compris sur une chaîne vide (\fic{semantic\_monitor.py},
+l.~99). La classe de caractères inclut les accents mais oublie \fic{\oe} et
+\fic{ÿ}.
+
+\item \textbf{Règles de correction non idempotentes.} Le cas~3
+(\fic{pipeline.py}, l.~289--294) modifie \fic{ebit} à partir de
+$\textsc{ebitda} - \textsc{d\&a}$, puis la règle générale peut recalculer
+\fic{ebitda} depuis ce même \fic{ebit}. L'ordre compte, et rien ne le teste.
+
+\item \textbf{Les pertes sont silencieusement ignorées.} Les replis exigent
+\fic{\_v >= 100} et les corrections testent \fic{> 0} : les dépôts déficitaires
+sont écartés sans trace --- alors que la perte opérationnelle de Boeing figure
+explicitement dans la liste des 49 documents.
+
+\item \textbf{Troncature invisible.} \fic{\_certify\_dd} coupe à 200\,k
+caractères (\fic{pipeline.py}, l.~176) après que \fic{\_prepare\_text} a déjà
+plafonné à 400\,k. La troncature n'est jamais journalisée : la perte de données
+est donc invisible dans les résultats.
+
+\item \textbf{Latence faussée.} \fic{time.sleep(1.0)} est appelé à l'intérieur
+de \fic{call\_dd\_extraction} (\fic{dd\_eval.py}, l.~61) et avant chaque méthode
+mesurée (\fic{benchmark\_compare.py}, l.~526) : cela gonfle la latence des
+méthodes que l'on prétend chronométrer.
+
+\item \textbf{Identifiants mélangés FR/EN} dans tout le code : les relecteurs
+qui lisent le code trébucheront.
+
+\item \textbf{Provenance à vérifier.} Le fichier\\
+\fic{samples/references/bilan/bilan\_devoteam\_2022.txt}\\
+contient les comptes
+consolidés de votre employeur. Les chiffres 2022 ont été publiés, donc c'est
+très probablement sans risque --- mais vérifiez la concordance avec le rapport
+annuel public avant diffusion d'un artefact ouvert.
+\end{itemize}
+
+% ===========================================================================
+\section{Plan d'expériences}
+\label{sec:exp}
+
+Classées par gain de probabilité d'acceptation par unité de travail.
+
+\subsection{Palier 0 --- sans ceci, il n'y a pas de papier}
+
+\begin{exper}{E0. Construire la vérité de terrain depuis XBRL --- \textit{le} déblocage}
+Les jeux \textit{Financial Statement Data Sets} et l'API \fic{companyfacts} de
+la SEC fournissent, pour chaque dépôt, les valeurs balisées exactes et lisibles
+par machine :
+\fic{us-gaap:Revenues} (ou
+\fic{RevenueFromContractWithCustomerExcludingAssessedTax}),
+\fic{OperatingIncomeLoss},
+\fic{DepreciationDepletionAndAmortization}, \fic{NetIncomeLoss},
+\fic{Assets}, \fic{LiabilitiesAndStockholdersEquity},
+\fic{StockholdersEquity}.
+
+Cela donne une \textbf{vérité de terrain exacte sur 500 à 2\,000 dépôts, pour un
+coût d'annotation nul}. Appariement sur CIK $+$ période fiscale $+$ échelle
+d'unité.
+
+\textbf{À faire en premier : tout le reste en dépend.} Chaque métrique fausse du
+dépôt devient alors une vraie métrique — justesse en correspondance exacte ou
+tolérée, par champ, par secteur, par méthode.
+\end{exper}
+
+\begin{exper}{E1. Séparer détecteur et correcteur, puis évaluer le détecteur}
+Geler l'extraction. Calculer les violations d'identité \textbf{avant} toute
+auto-correction. Puis, avec les étiquettes E0, poser la véritable question de
+recherche :
+
+\begin{center}
+\itshape Une violation d'identité comptable prédit-elle qu'une valeur est fausse ?
+\end{center}
+
+Rapporter ROC-AUC, PR-AUC, précision@k, et la calibration de
+\fic{score\_confiance} contre les étiquettes d'erreur dérivées de XBRL.
+
+\textbf{C'est cela, votre papier.} Un détecteur d'erreur non supervisé, sans
+étiquettes, avec une AUROC mesurée sur de vrais dépôts, est une contribution
+FinNLP propre. La boucle actuelle « je corrige, puis je vérifie avec la même
+formule » n'en est pas une.
+\end{exper}
+
+\begin{exper}{E2. Réparer les baselines, puis publier l'échelle complète}
+Donner d'abord à M1 les \emph{mêmes} motifs que le repli interne de M4. Puis :
+
+\begin{center}
+\begin{tabular}{@{}ll@{}}
+\toprule
+\textbf{Réf.} & \textbf{Méthode} \\
+\midrule
+B0 & Oracle XBRL (borne supérieure) \\
+B1 & Expressions régulières, réglées de bonne foi \\
+B2 & LLM zéro-\textit{shot}, décodage contraint par schéma JSON \\
+B3 & B2 $+$ auto-cohérence sur $k=5$, vote majoritaire \\
+B4 & B2 $+$ auto-vérification CoT (votre M3 actuel) \\
+B5 & B2 $+$ couche d'identités déterministes (M4, \emph{correcteur désactivé}) \\
+B6 & B5 $+$ correction, gains attribués règle par règle \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+Deux niveaux de modèle au minimum : un 8B ouvert et un modèle de pointe.
+\end{exper}
+
+\begin{exper}{E3. B4 contre B5 : l'auto-vérification du LLM corrige-t-elle l'arithmétique ?}
+Votre invite \fic{\_COT\_VERIFY} (\fic{benchmark\_compare.py}, l.~356--366)
+demande au modèle de revérifier une identité \emph{sur sa propre sortie} : c'est
+un biais de confirmation de manuel. Mesurez-le contre les étiquettes E0.
+
+\textbf{Un résultat négatif propre ici est très publiable en atelier}, et il
+motive directement la couche déterministe. Publier la matrice de confusion
+« le CoT a changé la valeur » $\times$ « la valeur est devenue correcte ».
+\end{exper}
+
+\subsection{Palier 1 --- fait passer d'un papier mince à un papier solide}
+
+\begin{exper}{E4. Remplacer l'étude de dérive synthétique par un vrai décalage de distribution}
+Supprimer entièrement les évaluations \fic{finnlp2020/} et \fic{fnspid/}
+écrites à la main. Substituer :
+
+\begin{itemize}[leftmargin=*, itemsep=2pt]
+\item \textbf{Diachronique} : texte réel des \textit{Item 7/8} de 10-K, corpus
+2015--2019 contre dépôts 2020--2021. Le glissement lexical lié au COVID est
+réellement présent, dans de vrais documents.
+\item \textbf{Synchronique} : retirer un secteur SIC entier du corpus de
+référence, tester dessus. L'écart de vocabulaire banque/technologie est réel et
+n'a pas besoin d'être fabriqué.
+\item \textbf{Hors distribution franc} : texte non financier de longueur
+appariée.
+\end{itemize}
+
+Puis : \textbf{balayer le seuil JSD et publier une AUROC} au lieu d'affirmer
+0,55. Baselines : cosinus TF-IDF au centroïde, perplexité d'un petit modèle de
+langue, MMD sur plongements de phrases. Si la JSD perd contre la perplexité, le
+dire ; si elle égalise en AUROC et gagne en interprétabilité, c'est
+\emph{cela} l'argument, correctement établi.
+\end{exper}
+
+\begin{exper}{E5. Brancher et évaluer le contrôle d'ancrage --- votre meilleur actif inutilisé}
+Activer \fic{check\_transcription\_divergence} dans \fic{pipeline.py},
+\textbf{supprimer le repli sur le document entier} (\fic{dd\_eval.py},
+l.~215--218), et balayer la fenêtre d'ancrage.
+
+Évaluer comme détecteur d'hallucination contre E0 : quand la valeur extraite
+diffère de XBRL, le contrôle d'ancrage se déclenche-t-il ? Vous obtenez ainsi un
+\textbf{second signal d'erreur sans étiquettes, indépendant du premier}, et la
+combinaison « identité arithmétique $\vee$ ancrage textuel » constitue un
+système plus intéressant que chacun pris isolément. Publier les deux séparément,
+puis combinés.
+\end{exper}
+
+\begin{exper}{E6. Ablation des règles de correction}
+Huit règles réglées à la main dans \fic{pipeline.py}, l.~272--325.
+Retrait d'une règle à la fois, mesuré contre E0. Il est probable que deux ou
+trois portent tout le gain, et qu'une ou deux \emph{dégradent} le résultat --- le
+cas~3, qui modifie \fic{ebit}, est le premier suspect. Tester aussi l'idempotence
+et la sensibilité à l'ordre.
+
+Annoncer soi-même « 3 de mes 8 heuristiques étaient nuisibles » vaut beaucoup de
+crédibilité en relecture.
+\end{exper}
+
+\begin{exper}{E7. Analyse d'erreur stratifiée par secteur}
+La taxonomie sectorielle et les hypothèses de défaillance par document existent
+déjà (\fic{benchmark\_compare.py}, l.~60--255). Avec les étiquettes E0,
+promouvez-les du commentaire au tableau principal du papier : justesse
+d'extraction $\times$ secteur $\times$ champ, avec confirmation ou réfutation du
+mode de défaillance prédit, cellule par cellule.
+
+\textbf{Cette taxonomie d'erreurs est la contribution autonome la plus
+défendable du dépôt}, et c'est la partie que les relecteurs citeront.
+\end{exper}
+
+\subsection{Palier 2 --- si le temps le permet}
+
+\begin{itemize}[leftmargin=*, itemsep=4pt]
+\item \textbf{E8. Robustesse.} Injection de bruit d'OCR et d'extraction PDF,
+corruption au niveau caractère, perturbations d'aplatissement de tableaux
+$\rightarrow$ courbes de dégradation par méthode. Parle directement aux
+praticiens.
+\item \textbf{E9. Translingue.} De vrais dépôts français (BALO, rapports annuels
+IFRS Euronext), et non des documents synthétiques. La thèse bilingue aura alors
+un support.
+\item \textbf{E10. Front de Pareto coût / latence / justesse.} \fic{time\_s} est
+déjà journalisé ; retirer d'abord la contamination par \fic{time.sleep}.
+\end{itemize}
+
+% ===========================================================================
+\section{Chantier d'ingénierie --- avant de lancer quoi que ce soit}
+\label{sec:ingenierie}
+
+\begin{enumerate}[leftmargin=*, itemsep=4pt]
+\item Extraire \fic{api.py}, \fic{connectors/} et tous les
+\fic{generate\_*\_report.py} dans un dépôt ou une branche \fic{product/}
+séparée. L'artefact de soumission ne livre qu'extraction, validation et
+évaluation.
+\item Ajouter \fic{README.md}, \fic{requirements.txt} avec versions épinglées,
+un \fic{Makefile} qui reproduit chaque tableau, et des graines aléatoires fixes.
+\item Versionner un instantané de données immuable : CIK $+$ numéros d'accession
+$+$ identifiants de faits XBRL. Ne pas committer les PDF --- committer un script
+de récupération et un manifeste avec sommes de contrôle.
+\item Supprimer ou réparer les trois scripts en \fic{os.chdir(r'c:\textbackslash
+Users\textbackslash arthus...')} : ils donnent aujourd'hui une image fausse du
+corpus réellement utilisé.
+\item Corriger les en-têtes de provenance de \fic{samples/fnspid/}
+\textbf{maintenant}, avant toute diffusion.
+\item Une seule source de vérité pour \fic{JSD\_ALERT\_THRESHOLD} : l'importer,
+ne jamais retaper « 0.55 ».
+\item Écrire de vrais tests sur \fic{DDTaxonomy.\_f} (votre meilleur code, avec
+une couverture quasi nulle) et sur l'ordre des règles de correction.
+\end{enumerate}
+
+% ===========================================================================
+\section{Feuille de route et verdict}
+\label{sec:route}
+
+\subsection*{Synthèse défaut $\rightarrow$ correction}
+
+{\small
+\begin{longtable}{@{}p{0.055\textwidth}p{0.36\textwidth}p{0.44\textwidth}p{0.07\textwidth}@{}}
+\toprule
+\textbf{Réf.} & \textbf{Défaut} & \textbf{Correction} & \textbf{Exp.} \\
+\midrule
+\endfirsthead
+\toprule
+\textbf{Réf.} & \textbf{Défaut} & \textbf{Correction} & \textbf{Exp.} \\
+\midrule
+\endhead
+D1 & Métrique tautologique & Séparer détecteur et correcteur & E0, E1 \\
+D2 & Aucune vérité de terrain & Étiquettes XBRL & E0 \\
+D3 & Étiquettes dans les noms de fichiers & Étiquettes XBRL sur dépôts réels & E0 \\
+D4 & Baseline regex homme de paille & Motifs identiques à ceux de M4 & E2 \\
+D5 & Provenance fabriquée & Corriger les en-têtes ; vrai décalage & E4 \\
+D6 & Détecteur d'ancrage en code mort & Brancher, retirer le repli global & E5 \\
+D7 & Seuil 0,55 arbitraire & Balayage $+$ AUROC ; constante unique & E4 \\
+D8 & Corpus trop petit, déséquilibré & Apparier longueur et registre & E0, E9 \\
+D9 & Trois scripts inexécutables & Chemins relatifs ou suppression & --- \\
+D10 & Modèle de base trop faible & Ajouter un modèle de pointe & E2 \\
+D11 & Non reproductible & README, versions, instantané, graines & --- \\
+D12 & Dépôt-produit & Extraire l'API et les connecteurs & --- \\
+\bottomrule
+\end{longtable}
+}
+
+\subsection*{Ordre d'exécution}
+
+\begin{center}
+\begin{tcolorbox}[colback=cExpBg, colframe=cExp, boxrule=0.8pt, arc=2pt, width=0.95\textwidth]
+\textbf{1.} Nettoyage d'intégrité : en-têtes \fic{fnspid}, scripts inexécutables,
+constante de seuil.\\
+\textbf{2.} \textbf{E0 --- XBRL.} Rien d'autre ne compte avant.\\
+\textbf{3.} E1 (détecteur seul) $\rightarrow$ E2 (baselines) $\rightarrow$ E3
+(CoT, résultat négatif).\\
+\textbf{4.} Rédaction possible dès ici : \emph{papier court}.\\
+\textbf{5.} E4, E5, E6, E7 $\rightarrow$ \emph{papier long} confortable.
+\end{tcolorbox}
+\end{center}
+
+\subsection*{Verdict}
+
+\begin{fatal}{En l'état}
+\textbf{Probabilité d'acceptation : très faible.} Non parce que l'idée est
+faible --- elle ne l'est pas --- mais parce que chaque chiffre mis en avant est
+soit tautologique (M4 noté sur la formule qu'il applique), soit sans étiquettes
+par accident (rappel $=$ taux de non-nuls), soit mesuré sur des documents que
+l'auteur a écrits pour produire le résultat souhaité. Un seul relecteur lisant
+\fic{pipeline.py} ligne 308 en regard de \fic{benchmark\_compare.py} ligne 440
+suffit à conclure.
+\end{fatal}
+
+\begin{bon}{Avec E0 à E3 menées honnêtement}
+\textbf{Réellement compétitif} pour FinNLP @ EMNLP en papier court. Vérité de
+terrain XBRL à l'échelle, détecteur d'erreur sans étiquettes avec AUROC réelle,
+résultat négatif propre sur l'auto-vérification des LLM, et taxonomie d'erreurs
+stratifiée par secteur sur de vrais 10-K : cela forme un papier d'atelier
+cohérent, honnête et utile.
+
+Ajouter E4 à E7 en fait un papier long confortable.
+\end{bon}
+
+\vspace{6pt}
+\noindent
+L'action de plus fort levier est \textbf{E0}. XBRL transforme toute l'évaluation
+factice en évaluation réelle pour le prix de quelques jours de tuyauterie de
+données --- et rien d'autre dans cette liste ne compte avant que ce soit fait.
+
+% ===========================================================================
+\section{Addendum --- état après corrections}
+\label{sec:addendum}
+
+Les défauts D1 à D12 ont été corrigés (paquet \fic{semantic\_firewall/}, 49 tests).
+Un second passage d'audit a révélé trois défauts \emph{introduits ou rendus visibles
+par ces corrections elles-mêmes}. Ils sont désormais corrigés aussi, et E0--E3 puis
+E5--E7 ont été exécutés sur données réelles.
+
+\begin{fatal}{D13 --- Incompatibilité d'échelle (bloquant, corrigé)}
+XBRL publie en dollars absolus ($416\,161\,000\,000$) ; les tableaux impriment des
+millions ($416\,161$) ; et le prompt ordonne « ne PAS multiplier ». Conséquence :
+\textbf{100\,\% des comparaisons échouaient}. Le code tournait et renvoyait des
+nombres --- tous faux dans le même sens, ce qui est pire qu'un plantage : $0\,\%$ de
+justesse pour \emph{toutes} les baselines se lit comme un résultat de modèle, pas
+comme une erreur d'unité. L'ancienne suite de tests ne pouvait pas le voir : ses
+fixtures construisaient l'extraction \emph{depuis} la vérité de terrain, donc les
+unités coïncidaient par construction.
+
+\corr{Appliquée. Nouveau module \fic{extraction/scale.py} : le multiplicateur est
+inféré \textbf{depuis le texte du dépôt}, jamais depuis les étiquettes --- s'aligner
+sur la puissance de 1000 la plus proche de la GT ferait fuiter la réponse dans la
+prédiction et recréerait D1 ailleurs. Les dépôts sans échelle déclarée sont exclus
+(13 documents), pas devinés. \fic{classify\_error()} sépare désormais
+\emph{correct} / \emph{échelle} / \emph{signe} / \emph{valeur fausse} : une erreur
+d'unité laisse toutes les identités exactement satisfaites, elle est donc invisible à
+cette classe de méthode et exclue des étiquettes du détecteur.}
+\end{fatal}
+
+\begin{serieux}{D14 --- Décalage d'un an sur 32/46 enregistrements (corrigé)}
+\fic{nearest\_fiscal\_year()} retombait sur l'exercice disponible le plus proche : tous
+les documents étiquetés 2026 se résolvaient en FY2025. Un an d'écart sur le chiffre
+d'affaires dépasse toute tolérance et est indiscernable d'une erreur d'extraction.
+
+\corr{Corrigé à la racine : l'exercice est lu dans le \fic{reportDate} du dépôt
+lui-même, donc document et étiquette portent sur la même période par construction.
+Filet conservé : \fic{load()} exclut par défaut tout enregistrement discordant en
+rapportant le décompte.}
+\end{serieux}
+
+\begin{serieux}{D15 --- Couverture par champ non publiée (corrigé)}
+L'identité EBITDA n'était évaluable que sur 26 des 46 documents, sans que ce soit dit.
+
+\corr{\fic{coverage\_report()} publie le $n$ effectif par champ et compte les champs
+dérivés. Sur le nouveau corpus : de 63,5\,\% (EBITDA, dérivé) à 100\,\% (actif,
+passif, capitaux propres, résultat net).}
+\end{serieux}
+
+\subsection*{Ce que ces corrections ont permis de mesurer}
+
+Le corpus est passé à \textbf{104 dépôts 10-K réels, 55 sociétés, 11 secteurs}, avec
+vérité de terrain XBRL. Deux résultats n'étaient pas atteignables avant.
+
+\begin{bon}{Le résultat central : la couverture, pas la force de l'identité}
+Même code, même corpus, même modèle :
+\begin{itemize}[leftmargin=*, itemsep=1pt]
+\item \textbf{Compte de résultat} --- l'EBITDA n'étant pas une ligne GAAP, le modèle
+renvoie \fic{null} dans \textbf{0/69} cas, l'identité n'est \emph{jamais} calculable,
+et l'AUROC de $0{,}500$ est une dégénérescence par ex-æquo, pas une mesure. Le
+détecteur n'est pas imprécis, il est \emph{inapplicable}.
+\item \textbf{Bilan} --- les termes sont imprimés partout, l'identité est calculable
+sur \textbf{68/69}, et l'on obtient \textbf{AUROC $0{,}753$, PR-AUC $0{,}791$, et une
+précision de $1{,}00$ sur les documents les mieux classés} --- directement exploitable
+pour du triage, sans aucune étiquette.
+\end{itemize}
+Règle pratique qui en découle : bâtir la vérification sur les grandeurs que le dépôt
+est \emph{obligé} de publier.
+\end{bon}
+
+\begin{bon}{Le leave-one-out mentait (E6)}
+Retirer une règle à la fois donne $\Delta = 0{,}0$ pour les huit règles --- conclusion
+naturelle : ce sont des décorations. L'ablation \textbf{par bloc} montre l'inverse :
+retirer le bloc arithmétique coûte $-11{,}2$ pt (8B) et $-13{,}8$ pt (49B). Les deux
+mesures sont justes : le jeu de règles est \emph{redondant} sous itération jusqu'au
+point fixe, et le leave-one-out y est structurellement aveugle. Mon hypothèse initiale
+(« 2 ou 3 règles portent tout, 1 ou 2 nuisent ») était fausse dans les deux sens.
+\end{bon}
+
+\noindent
+Autres résultats : le correcteur déterministe atteint $84{,}5\,\%$ (8B) et
+$91{,}2\,\%$ (49B) contre $73{,}3$ / $77{,}4$ en zéro-\textit{shot}, \textbf{pour zéro
+appel supplémentaire}, battant l'auto-vérification CoT ($79{,}7$ / $89{,}9$) qui coûte
+le double. L'auto-cohérence à $k{=}5$ n'apporte rien pour cinq fois le coût. Le CoT,
+contrairement à mon attente, \emph{aide} (19 champs corrigés, 0 dégradé) --- mais
+seulement parce que le prompt lui fournit le critère externe.
+
+Le papier correspondant est \fic{paper/main.tex} (14 pages, format ACL). Aucun
+résultat de dérive lexicale n'y est publié : le seuil de $0{,}55$ n'a toujours pas été
+justifié par balayage, et le papier le déclare en Limitations plutôt que de reprendre
+les anciens chiffres synthétiques.
+
+\end{document}

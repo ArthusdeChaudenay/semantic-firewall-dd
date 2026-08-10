@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "total_assets": 180104,
+    "total_liabilities": 108614,
+    "total_equity": 71690,
+    "total_liabilities_and_equity": 180104
+  },
+  "seconds": 3.62,
+  "tokens": 45
+}

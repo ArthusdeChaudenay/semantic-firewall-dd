@@ -1,0 +1,567 @@
+ansactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/s/ Ernst & Young LLP
+San Jose, California
+February 4, 2025
+51.
+Table of Contents
+Alphabet Inc.
+Alphabet Inc.
+CONSOLIDATED BALANCE SHEETS
+(in millions, except par value per share amounts)
+As of December 31,
+2023 2024
+Assets
+Current assets:
+Cash and cash equivalents $ 24,048 $ 23,466
+Marketable securities 86,868 72,191
+Total cash, cash equivalents, and marketable securities 110,916 95,657
+Accounts receivable, net 47,964 52,340
+Other current assets 12,650 15,714
+Total current assets 171,530 163,711
+Non-marketable securities 31,008 37,982
+Deferred income taxes 12,169 17,180
+Property and equipment, net 134,345 171,036
+Operating lease assets 14,091 13,588
+Goodwill 29,198 31,885
+Other non-current assets 10,051 14,874
+Total assets $ 402,392 $ 450,256
+Liabilities and Stockholders' Equity
+Current liabilities:
+Accounts payable $ 7,493 $ 7,987
+Accrued compensation and benefits 15,140 15,069
+Accrued expenses and other current liabilities 46,168 51,228
+Accrued revenue share 8,876 9,802
+Deferred revenue 4,137 5,036
+Total current liabilities 81,814 89,122
+Long-term debt 11,870 10,883
+Income taxes payable, non-current 8,474 8,782
+Operating lease liabilities 12,460 11,691
+Other long-term liabilities 4,395 4,694
+Total liabilities 119,013 125,172
+Commitments and Contingencies (Note 10)
+Stockholders' equity:
+Preferred stock, $ 0.001 par value per share, 100 shares authorized; no shares issued and outstanding
+0 0
+Class A, Class B, and Class C stock and additional paid-in capital, $ 0.001 par value per share: 300,000 shares authorized (Class A 180,000 , Class B 60,000 , Class C 60,000 ); 12,460 (Class A 5,899 , Class B 870 , Class C 5,691 ) and 12,211 (Class A 5,835 , Class B 861 , Class C 5,515 ) shares issued and outstanding
+76,534 84,800
+Accumulated other comprehensive income (loss) ( 4,402 ) ( 4,800 )
+Retained earnings 211,247 245,084
+Total stockholders' equity 283,379 325,084
+Total liabilities and stockholders' equity $ 402,392 $ 450,256
+See accompanying notes.
+52.
+Table of Contents
+Alphabet Inc.
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF INCOME
+(in millions, except per share amounts)
+Year Ended December 31,
+2022 2023 2024
+Revenues $ 282,836 $ 307,394 $ 350,018
+Costs and expenses:
+Cost of revenues 126,203 133,332 146,306
+Research and development 39,500 45,427 49,326
+Sales and marketing 26,567 27,917 27,808
+General and administrative 15,724 16,425 14,188
+Total costs and expenses 207,994 223,101 237,628
+Income from operations 74,842 84,293 112,390
+Other income (expense), net ( 3,514 ) 1,424 7,425
+Income before income taxes 71,328 85,717 119,815
+Provision for income taxes 11,356 11,922 19,697
+Net income $ 59,972 $ 73,795 $ 100,118
+Basic net income per share (Note 12)
+$ 4.59 $ 5.84 $ 8.13
+Diluted net income per share (Note 12)
+$ 4.56 $ 5.80 $ 8.04
+See accompanying notes.
+53.
+Table of Contents
+Alphabet Inc.
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(in millions)
+Year Ended December 31,
+2022 2023 2024
+Net income $ 59,972 $ 73,795 $ 100,118
+Other comprehensive income (loss):
+Change in foreign currency translation adjustment, net of income tax benefit (expense) of $( 134 ), $ 63 and $( 49 )
+( 1,836 ) 735 ( 1,673 )
+Available-for-sale investments:
+Change in net unrealized gains (losses) ( 4,720 ) 1,344 ( 116 )
+Less: reclassification adjustment for net (gains) losses included in net income 1,007 1,168 782
+Net change, net of income tax benefit (expense) of $ 1,056 , $( 698 ), and $( 190 )
+( 3,713 ) 2,512 666
+Cash flow hedges:
+Change in net unrealized gains (losses) 1,275 168 775
+Less: reclassification adjustment for net (gains) losses included in net income ( 1,706 ) ( 214 ) ( 166 )
+Net change, net of income tax benefit (expense) of $ 110 , $ 2 , and $( 151 )
+( 431 ) ( 46 ) 609
+Other comprehensive income (loss) ( 5,980 ) 3,201 ( 398 )
+Comprehensive income $ 53,992 $ 76,996 $ 99,720
+See accompanying notes.
+54.
+Table of Contents
+Alphabet Inc.
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+(in millions)
+Class A, Class B, Class C Stock and
+Additional Paid-In Capital
+Accumulated
+Other
+Comprehensive
+Income (Loss) Retained
+Earnings Total
+Stockholders'
+Equity
+Shares Amount
+Balance as of December 31, 2021 13,242 $ 61,774 $ ( 1,623 ) $ 191,484 $ 251,635
+Stock issued 137 8 0 0 8
+Stock-based compensation
+0 19,525 0 0 19,525
+Tax withholding related to vesting of restricted stock units and other 0 ( 9,754 ) 0 ( 1 ) ( 9,755 )
+Repurchases of stock ( 530 ) ( 3,404 ) 0 ( 55,892 ) ( 59,296 )
+Sale of interest in consolidated entities 0 35 0 0 35
+Net income 0 0 0 59,972 59,972
+Other comprehensive income (loss) 0 0 ( 5,980 ) 0 ( 5,980 )
+Balance as of December 31, 2022 12,849 68,184 ( 7,603 ) 195,563 256,144
+Stock issued 139 0 0 0 0
+Stock-based compensation
+0 22,578 0 0 22,578
+Tax withholding related to vesting of restricted stock units and other 0 ( 10,164 ) 0 9 ( 10,155 )
+Repurchases of stock ( 528 ) ( 4,064 ) 0 ( 58,120 ) ( 62,184 )
+Net income 0 0 0 73,795 73,795
+Other comprehensive income (loss) 0 0 3,201 0 3,201
+Balance as of December 31, 2023 12,460 76,534 ( 4,402 ) 211,247 283,379
+Stock issued 130 0 0 0 0
+Stock-based compensation
+0 22,937 0 0 22,937
+Tax withholding related to vesting of restricted stock units and other 0 ( 12,507 ) 0 ( 16 ) ( 12,523 )
+Repurchases of stock ( 379 ) ( 3,359 ) 0 ( 58,688 ) ( 62,047 )
+Dividends and dividend equivalents declared ($ 0.60 per share)
+0 41 0 ( 7,577 ) ( 7,536 )
+Sale of interest in consolidated entities 0 1,154 0 0 1,154
+Net income 0 0 0 100,118 100,118
+Other comprehensive income (loss) 0 0 ( 398 ) 0 ( 398 )
+Balance as of December 31, 2024 12,211 $ 84,800 $ ( 4,800 ) $ 245,084 $ 325,084
+See accompanying notes.
+55.
+Table of Contents
+Alphabet Inc.
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in millions)
+Year Ended December 31,
+2022 2023 2024
+Operating activities
+Net income $ 59,972 $ 73,795 $ 100,118
+Adjustments:
+Depreciation of property and equipment 13,475 11,946 15,311
+Stock-based compensation expense 19,362 22,460 22,785
+Deferred income taxes ( 8,081 ) ( 7,763 ) ( 5,257 )
+Loss (gain) on debt and equity securities, net 5,519 823 ( 2,671 )
+Other 3,483 4,330 3,419
+Changes in assets and liabilities, net of effects of acquisitions:
+Accounts receivable, net ( 2,317 ) ( 7,833 ) ( 5,891 )
+Income taxes, net 584 523 ( 2,418 )
+Other assets ( 5,046 ) ( 2,143 ) ( 1,397 )
+Accounts payable 707 664 359
+Accrued expenses and other liabilities 3,915 3,937 ( 1,161 )
+Accrued revenue share ( 445 ) 482 1,059
+Deferred revenue 367 525 1,043
+Net cash provided by operating activities 91,495 101,746 125,299
+Investing activities
+Purchases of property and equipment ( 31,485 ) ( 32,251 ) ( 52,535 )
+Purchases of marketable securities ( 78,874 ) ( 77,858 ) ( 86,679 )
+Maturities and sales of marketable securities 97,822 86,672 103,428
+Purchases of non-marketable securities ( 2,531 ) ( 3,027 ) ( 5,034 )
+Maturities and sales of non-marketable securities 150 947 882
+Acquisitions, net of cash acquired, and purchases of intangible assets ( 6,969 ) ( 495 ) ( 2,931 )
+Other investing activities 1,589 ( 1,051 ) ( 2,667 )
+Net cash used in investing activities ( 20,298 ) ( 27,063 ) ( 45,536 )
+Financing activities
+Net payments related to stock-based award activities ( 9,300 ) ( 9,837 ) ( 12,190 )
+Repurchases of stock ( 59,296 ) ( 61,504 ) ( 62,222 )
+Dividend payments 0 0 ( 7,363 )
+Proceeds from issuance of debt, net of costs 52,872 10,790 13,589
+Repayments of debt ( 54,068 ) ( 11,550 ) ( 12,701 )
+Proceeds from sale of interest in consolidated entities, net 35 8 1,154
+Net cash used in financing activities ( 69,757 ) ( 72,093 ) ( 79,733 )
+Effect of exchange rate changes on cash and cash equivalents ( 506 ) ( 421 ) ( 612 )
+Net increase (decrease) in cash and cash equivalents 934 2,169 ( 582 )
+Cash and cash equivalents at beginning of period 20,945 21,879 24,048
+Cash and cash equivalents at end of period $ 21,879 $ 24,048 $ 23,466
+See accompanying notes.
+56.
+Table of Contents
+Alphabet Inc.
+Alphabet Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Note 1. Summary of Significant Accounting Policies
+Nature of Operations
+Google was incorporated in California in September 1998 and re-incorporated in the State of Delaware in August 2003. In 2015, we implemented a holding company reorganization, and as a result, Alphabet Inc. ("Alphabet") became the successor issuer to Google.
+We generate revenues by delivering relevant, cost-effective online advertising; cloud-based solutions that provide enterprise customers of all sizes with infrastructure, platform services, and applications; sales of other products and services, such as fees received for subscription-based products, apps and in-app purchases, and devices.
+Basis of Consolidation
+The consolidated financial statements of Alphabet include the accounts of Alphabet and entities consolidated under the variable interest and voting models. Intercompany balances and transactions have been eliminated.
+Use of Estimates
+Preparation of consolidated financial statements in conformity with GAAP requires us to make estimates and assumptions that affect the amounts reported and disclosed in the financial statements and the accompanying notes. Actual results could differ materially from these estimates due to uncertainties. On an ongoing basis, we evaluate our estimates, including those related to the allowance for credit losses; contingent liabilities; fair values of financial instruments and goodwill; income taxes; inventory; and useful lives of property and equipment, among others. We base our estimates on assumptions, both historical and forward looking, that are believed to be reasonable, and the results of which form the basis for making judgments about the carrying values of assets and liabilities.
+Revenue Recognition
+Revenues are recognized when control of the promised goods or services is transferred to our customers, and the collectibility of an amount that we expect in exchange for those goods or services is probable. Sales and other similar taxes are excluded from revenues.
+Advertising Revenues
+We generate advertising revenues primarily by delivering advertising on:
+Google Search and other properties, including revenues from traffic generated by search distribution partners who use Google.com as their default search in browsers, toolbars, etc. and other Google owned and operated properties like Gmail, Google Maps, and Google Play;
+YouTube properties; and
+Google Network properties, including revenues from Google Network properties participating in AdMob, AdSense, and Google Ad Manager.
+Our customers generally purchase advertising inventory through Google Ads, Google Ad Manager, Google Display & Video 360, and Google Marketing Platform, among others.
+We offer advertising by delivering both performance and brand advertising. We recognize revenues for performance advertising when a user engages with the advertisement. For brand advertising, we recognize revenues when the ad is displayed, or a user views the ad.
+For ads placed on Google Network properties, we evaluate whether we are the principal (i.e., report revenues on a gross basis) or agent (i.e., report revenues on a net basis). Generally, we report advertising revenues for ads placed on Google Network properties on a gross basis, that is, the amounts billed to our customers are recorded as revenues, and amounts paid to Google Network partners are recorded as cost of revenues. Where we are the principal, we control the advertising inventory before it is transferred to our customers. Our control is evidenced by our sole ability to monetize the advertising inventory before it is transferred to our customers and is further supported by us being primarily responsible to our customers and having a level of discretion in establishing pricing.
+Google Subscriptions, Platforms, and Devices
+Google subscriptions, platforms, and devices revenues consist of revenues from:
+57.
+Table of Contents
+Alphabet Inc.
+consumer subscriptions, which primarily include revenues from YouTube services, such as YouTube TV, YouTube Music and Premium, and NFL Sunday Ticket, as well as Google One;
+platforms, which primarily include revenues from Google Play sales of apps and in-app purchases;
+devices, which primarily include sales of the Pixel family of devices; and
+other products and services.
+Subscription revenues are recognized ratably over the period of the subscription, primarily monthly. We report revenues from Google Play sales of apps and in-app purchases on a net basis because our performance obligation is to facilitate a transaction between app developers and end users for which we earn a service fee.
+Google Cloud Revenues
+Google Cloud revenues consist of revenues from:
+Google Cloud Platform, which generates consumption-based fees and subscriptions for infrastructure, platform, and other services. These services provide access to solutions such as AI offerings including our AI infrastructure, Vertex AI platform, and Gemini for Google Cloud; cybersecurity; and data and analytics;
+Google Workspace, which includes subscriptions for cloud-based communication and collaboration tools for enterprises, such as Calendar, Gmail, Docs, Drive, and Meet, with integrated features like Gemini for Google Workspace; and
+other enterprise services.
+Our cloud services are generally provided on either a consumption or subscription basis and may have contract terms longer than a year. Revenues related to cloud services provided on a consumption basis are recognized when the customer utilizes the services, based on the quantity of services consumed. Revenues related to cloud services provided on a subscription basis are recognized ratably over the contract term as the customer receives and consumes the benefits of the cloud services.
+Arrangements with Multiple Performance Obligations
+Our contracts with customers may include multiple performance obligations. For such arrangements, we allocate revenues to each performance obligation based on its relative standalone selling price. We generally determine standalone selling prices based on the prices charged to customers.
+Customer Incentives and Credits
+Certain customers receive cash-based incentives or credits, which are accounted for as variable consideration. We estimate these amounts based on the expected amount to be provided to customers and reduce revenues. We believe that there will not be significant changes to our estimates of variable consideration related to customer incentives and credits.
+Sales Commissions
+We expense sales commissions when incurred when the period of the expected benefit is one year or less. We recognize an asset for certain sales commissions and amortize if the expected benefit period is greater than one year. These costs are recorded within sales and marketing expenses.
+Cost of Revenues
+Cost of revenues consists of TAC and other costs of revenues.
+TAC includes:
+amounts paid to our distribution partners who make available our search access points and services. Our distribution partners include browser providers, mobile carriers, original equipment manufacturers, and software developers; and
+amounts paid to Google Network partners primarily for ads displayed on their properties.
+Other cost of revenues includes:
+content acquisition costs, which are payments to content providers from whom we license video and other content for distribution, primarily related to YouTube (we pay fees to these content providers based on revenues generated, subscriber counts, or a flat fee);
+depreciation expense related to our technical infrastructure;
+58.
+Table of Contents
+Alphabet Inc.
+employee compensation expenses related to our technical infrastructure and other operations such as content review and customer and product support;
+inventory and other costs related to the devices we sell; and
+other technical infrastructure operations costs, including network capacity, energy, and equipment costs.
+Software Development Costs
+We expense software development costs, including costs to develop software products or the software component of products to be sold, leased, or marketed to external users, before technological feasibility is reached. Technological feasibility is typically reached shortly before the release of such products. As a result, development costs that meet the criteria for capitalization were not material for the periods presented.
+Software development costs also include costs to develop software to be used solely to meet internal needs and cloud-based applications used to deliver our services. We capitalize development costs related to these software applications once the preliminary project stage is complete and it is probable that the project will be completed and the software will be used to perform the function intended. Costs capitalized for developing such software applications were not material for the periods presented.
+Stock-based Compensation
+Stock-based compensation (SBC) primarily consists of Alphabet restricted stock units (RSUs). RSUs are equity classified and measured at the fair market value of the underlying stock at the grant date. We recognize RSU expense using the straight-line attribution method over the requisite service period and account for forfeitures as they occur. RSUs are awarded dividend equivalents, which are subject to the same vesting conditions as the underlying award, and settled in Class C shares.
+For RSUs, shares are issued on the vesting dates net of the applicable statutory income tax withholding to be paid by us on behalf of our employees. As a result, fewer shares are issued than the number of RSUs outstanding, and the income tax withholding is recorded as a reduction to additional paid-in capital.
+Additionally, SBC includes other stock-based awards, such as performance stock units (PSUs) that include market conditions and awards that may be settled in cash or the stock of certain Other Bet companies. PSUs and certain awards granted by Other Bet companies are equity classified and expense is recognized over the requisite service period. Certain awards granted by Other Bet companies are liability classified and remeasured at fair value through settlement. The fair value of awards granted by Other Bet companies is based on the equity valuation of the respective Other Bet company.
+Advertising and Promotional Expenses
+We expense advertising and promotional costs in the period in which they are incurred. For the years ended December 31, 2022 , 2023, and 2024, advertising and promotional expenses totaled approximately $ 9.2 billion, $ 8.7 billion, and $ 8.7 billion, respectively.
+Performance Fees
+Performance fees refer to compensation arrangements with payouts based on realized returns from certain investments. We record compensation expense based on the estimated payouts on an ongoing basis, which may result in expense recognized before investment returns are realized and compensation is paid and may require the use of unobservable inputs. Performance fees are recorded as a component of OI&E.
+Fair Value Measurements
+Fair value is an exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants. Assets and liabilities recorded at fair value are measured and classified in accordance with a three-tier fair value hierarchy based on the observability of the inputs available in the market used to measure fair value:
+Level 1 - Observable inputs that reflect quoted prices (unadjusted) for identical assets or liabilities in active markets.
+Level 2 - Inputs that are based upon quoted prices for similar instruments in active markets, quoted prices for identical or similar instruments in markets that are not active, and model-based valuation techniques for which all significant inputs are observable in the market or can be derived from observable market data. Where applicable,
+59.
+Table of Contents
+Alphabet Inc.
+these models project future cash flows and discount the future amounts to a present value using market-based observable inputs including interest rate curves, foreign exchange rates, and credit ratings.
+Level 3 - Unobservable inputs that are supported by little or no market activities.
+The fair value hierarchy requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. The determination of fair value involves the use of appropriate valuation methods and relevant inputs into valuation models.
+Our financial assets and liabilities that are measured at fair value on a recurring basis include cash equivalents, marketable securities, derivative financial instruments, and certain non-marketable debt securities. Our financial assets measured at fair value on a nonrecurring basis include non-marketable equity securities. Other financial assets and liabilities are carried at cost with fair value disclosed, if required.
+We measure certain other instruments, and certain assets and liabilities acquired in a business combination, also at fair value on a nonrecurring basis.
+Financial Instruments
+Our financial instruments include cash, cash equivalents, marketable and non-marketable securities, derivative financial instruments, accounts receivable, and convertible notes.
+Credit Risks
+We are subject to credit risk primarily from cash equivalents, marketable debt securities, derivative financial instruments, including foreign exchange contracts, accounts receivable, and convertible notes. We manage our credit risk exposure through timely assessment of our counterparty creditworthiness, credit limits, and use of collateral management. Foreign exchange contracts are transacted with various financial institutions with high credit standing. Accounts receivable are typically unsecured and are derived from revenues earned from customers located around the world. We manage our credit risk exposure by performing ongoing evaluations to determine customer credit and we limit the amount of credit we extend. We generally do not require collateral from our customers.
+Cash Equivalents
+We invest excess cash primarily in asset-backed and mortgage-backed securities, corporate debt securities, government bonds, money market funds, and time deposits.
+Marketable Securities
+We classify all marketable debt securities that have effective maturities of three months or less from the date of purchase as cash equivalents and those with effective maturities of greater than three months as marketable securities on our Consolidated Balance Sheets. We determine the appropriate classification of our investments in marketable debt securities at the time of purchase and reevaluate such designation at each balance sheet date. We have classified and accounted for our marketable debt securities as available-for-sale. After consideration of our risk versus reward objectives, as well as our liquidity requirements, we may sell these debt securities prior to their effective maturities. As we view these securities as available to support current operations, we classify highly liquid securities with maturities beyond 12 months as current assets under the caption marketable securities on the Consolidated Balance Sheets. We carry these securities at fair value, and report the unrealized gains and losses, net of taxes, as a component of stockholders' equity, except for the changes in allowance for expected credit losses, which are recorded in OI&E. For certain marketable debt securities we have elected the fair value option, for which changes in fair value are recorded in OI&E. We determine any realized gains and losses on the sale of marketable debt securities on a specific identification method, and we record such gains and losses as a component of OI&E.
+Our investments in marketable equity securities are measured at fair value with the related gains and losses, including unrealized, recognized in OI&E. We classify our marketable equity securities subject to long-term lock-up restrictions beyond 12 months as other non-current assets on the Consolidated Balance Sheets.
+Non-Marketable Securities
+Non-marketable securities primarily consist of equity securities. We account for non-marketable equity securities through which we exercise significant influence but do not have control over the investee under the equity method. Other non-marketable equity securities that we hold are primarily accounted for under the measurement alternative. Under the measurement alternative, the carrying value is measured at cost, less any impairment, plus or minus changes resulting from observable price changes in orderly transactions for identical or similar investments of the same issuer. Adjustments are determined primarily based on a market approach as of the transaction date and are recorded as a component of OI&E.
+60.
+Table of Contents
+Alphabet Inc.
+Non-marketable securities that do not have effective contractual maturity dates are classified as other non-current assets on the Consolidated Balance Sheets.
+Derivative Financial Instruments
+See Note 3 for the accounting policy pertaining to derivative financial instruments.
+Accounts Receivable
+Our payment terms for accounts receivable vary by the types and locations of our customers and the products or services offered. The term between invoicing and when payment is due is not significant. For certain products or services and customers, we require payment before the products or services are delivered to the customer. Additionally, accounts receivable includes amounts for services performed in advance of the right to invoice the customer.
+We maintain an allowance for credit losses for accounts receivable, which is recorded as an offset to accounts receivable, and changes in such are classified as general and administrative expense in the Consolidated Statements of Income. We assess collectibility by reviewing accounts receivable on a collective basis where similar characteristics exist and on an individual basis when we identify specific customers with known disputes or collectibility issues. In determining the amount of the allowance for credit losses, we consider historical collectibility based on past due status and make judgments about the creditworthiness of customers based on ongoing credit evaluations. We also consider customer-specific information, current market conditions, and reasonable and supportable forecasts of future economic conditions.
+Convertible Notes
+Our investments in convertible notes are primarily recorded at amortized cost which includes unpaid principal balances, deferred origination costs, and any related discount or premium, net of allowances for credit losses, and are included within other non-current assets on our Consolidated Balance Sheets.
+Other
+Our financial instruments also include debt and equity investments in companies with which we also entered into commercial arrangements at or near the same time. For these transactions, judgment is required in assessing the substance of the arrangements, including assessing whether the components of the arrangements should be accounted for as separate transactions under the applicable GAAP, and determining the value of the components of the arrangements, including the fair value of the investments. Additionally, if our investment in such companies becomes impaired, we may need to re-evaluate the accounting for the commercial arrangement, including reducing any remaining performance obligations.
+Impairment of Investments
+We periodically review our debt and non-marketable equity securities for impairment.
+For debt securities in an unrealized loss position, we determine whether a credit loss exists. The credit loss is estimated by considering available information relevant to the collectibility of the security and information about past events, current conditions, and reasonable and supportable forecasts. Any credit loss is recorded as a charge to OI&E, not to exceed the amount of the unrealized loss. Unrealized losses other than the credit loss are recognized in AOCI. If we have an intent to sell, or if it is more likely than not that we will be required to sell a debt security in an unrealized loss position before recovery of its amortized cost basis, we will write down the security to its fair value and record the corresponding charge as a component of OI&E.
+For non-marketable equity securities, including equity method investments, we consider whether impairment indicators exist by evaluating the companies' financial and liquidity position and access to capital resources, among other indicators. If the assessment indicates that the investment is impaired, we write down the investment to its fair value by recording the corresponding charge as a component of OI&E. We prepare quantitative measurements of the fair value of our equity investments using a market approach or an income approach.
+Inventory
+Inventory consists primarily of finished goods and is stated at the lower of cost and net realizable value. Cost is computed using the first-in, first-out method.
+Variable Interest Entities
+We determine at the inception of each arrangement whether an entity in which we have made an investment or in which we have other variable interests is considered a variable interest entity (VIE). We consolidate VIEs when we are
+61.
+Table of Contents
+Alphabet Inc.
+the primary beneficiary. We are the primary beneficiary of a VIE when we have the power to direct activities that most significantly affect the economic performance of the VIE and have the obligation to absorb the majority of their losses or benefits. If we are not the primary beneficiary in a VIE, we account for the investment or other variable interests in a VIE in accordance with applicable GAAP.
+Periodically, we assess whether any changes in our interest or relationship with the entity affect our determination of whether the entity is a VIE and, if so, whether we are the primary beneficiary.
+Property and Equipment
+Property and equipment is comprised of technical infrastructure, office space, corporate and other assets currently in service, and assets not yet in service. Technical infrastructure includes data center land, buildings and leasehold improvements, and servers and network equipment. Office space includes office land, buildings and leasehold improvements. Assets not yet in service are those that are not ready for our intended use, including data center buildings and servers in the process of construction or assembly.
+Property and equipment are stated at cost less accumulated depreciation. Depreciation commences once assets are ready for our intended use and is recorded using the straight-line method over the estimated useful lives of the assets, which we regularly evaluate for factors such as technological obsolescence and our planned use and utilization. We depreciate data center and office buildings over periods of seven to 40 years. We depreciate servers and network equipment generally over a period of six years . We depreciate corporate and other assets over periods of two to 25 years. We depreciate leasehold improvements over the shorter of the remaining lease term or the estimated useful lives of the assets. Land is not depreciated.
+Goodwill
+We allocate goodwill to reporting units based on the expected benefit from the business combination. We evaluate our reporting units periodically, as well as when changes in our operating segments occur. For changes in reporting units, we reassign goodwill using a relative fair value allocation approach. We test our goodwill for impairment at least annually, or more frequently if events or changes in circumstances indicate that the asset may be impaired. Goodwill impairments were no t material for the periods presented.
+Leases
+We determine if an arrangement is a lease at inception. Our lease agreements generally contain lease and non-lease components. Payments under our lease arrangements are primarily fixed. Non-lease components primarily include payments for maintenance and utilities. We combine fixed payments for non-lease components with lease payments and account for them together as a single lease component which increases the amount of our lease assets and liabilities.
+Certain lease agreements contain variable payments, which are expensed as incurred and not included in the lease assets and liabilities. These amounts primarily include payments affected by the Consumer Price Index, and payments for maintenance and utilities.
+Lease assets and liabilities are recognized at the present value of the future lease payments at the lease commencement date. The interest rate used to determine the present value of the future lease payments is our incremental borrowing rate, because the interest rate implicit in our leases is not readily determinable. Our incremental borrowing rate is estimated to approximate the interest rate on a collateralized basis with similar terms and payments, and in economic environments where the leased asset is located. Our lease terms include periods under options to extend or terminate the lease when it is reasonably certain that we will exercise that option. We generally use the base, non-cancelable, lease term when determining the lease assets and liabilities. Lease assets also include any prepaid lease payments and lease incentives.
+Lease assets and liabilities are included on our Consolidated Balance Sheets. The current portion of our operating lease liabilities is included in accrued expenses and other current liabilities, and the long-term portion is included in operating lease liabilities. Finance lease assets are included in property and equipment, net. Finance lease liabilities are included in accrued expenses and other current liabilities or other long-term liabilities.
+Operating lease expense (excluding variable lease costs) is recognized on a straight-line basis over the lease term. Finance lease expense is recognized on a straight-line basis over the shorter of the lease term or the useful life of the asset, and interest expense is recognized based on the incremental borrowing rate.
+Impairment of Long-Lived Assets
+We review leases, property and equipment, and intangible assets, excluding goodwill, for impairment when events or changes in circumstances indicate the carrying amount may not be recoverable. The evaluation is performed
+62.
+Table of Contents
+Alphabet Inc.
+at the lowest level of identifiable cash flows independent of other assets. We measure recoverability of these assets by comparing the carrying amounts to the future undiscounted cash flows that the assets or the asset group are expected to generate. If the carrying value of the assets or asset group is not recoverable, the impairment recognized is measured as the amount by which the carrying value exceeds its fair value.
+Income Taxes
+We account for income taxes using the asset and liability method, under which we recognize the amount of taxes payable or refundable for the current year and deferred tax assets and liabilities for the future tax consequences of events that have been recognized in our financial statements or tax returns. We measure current and deferred tax assets and liabilities based on provisions of enacted tax law. We evaluate the likelihood of future realization of our deferred tax assets based on all available evidence and establish a valuation allowance to reduce deferred tax assets when it is more likely than not that they will not be realized or release a valuation allowance to increase deferred tax assets when it is more likely than not that they will be realized. We have elected to account for the tax effects of the global intangible low tax income provision as a current period expense.
+We recognize the financial statement effects of a tax position when it is more likely than not that, based on technical merits, the position will be sustained upon examination. The tax benefits of the position recognized in the financial statements are then measured based on the largest amount of benefit that is greater than 50% likely to be realized upon settlement with a taxing authority. In addition, we recognize interest and penalties related to unrecognized tax benefits as a component of the income tax provision.
+Business Combinations
+We include the results of operations of the businesses that we acquire as of the acquisition date. We allocate the purchase price of the acquisitions to the assets acquired and liabilities assumed based on their estimated fair values, except for revenue contracts acquired, which are recognized in accordance with our revenue recognition policy. The excess of the purchase price over the fair values of identifiable assets and liabilities is recorded as goodwill. Acquisition-related expenses are recognized separately from the business combination and are expensed as incurred.
+Foreign Currency
+We translate the financial statements of our international subsidiaries to U.S. dollars using month-end exchange rates for assets and liabilities, and average rates for the period derived from month-end exchange rates for revenues, costs, and expenses. We record translation gains and losses in AOCI as a component of stockholders' equity. We reflect net foreign exchange transaction gains and losses resulting from the conversion of the transaction currency to functional currency as a component of foreign currency exchange gain (loss) in OI&E.
+Recently Issued Accounting Pronouncements Not Yet Adopted
+In December 2023, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2023-09 "Income Taxes (Topics 740): Improvements to Income Tax Disclosures" to expand the disclosure requirements for income taxes. Upon adoption we will be required to disclose additional specified categories in the rate reconciliation in both percentage and dollar amounts. We will also be required to disclose the amount of income taxes paid disaggregated by jurisdiction, among other disclosure requirements. The standard can be applied either prospectively or retrospectively. We will adopt the standard in our 2025 annual period and are currently assessing the effect that the updated standard will have on our financial statement disclosures.
+In November 2024, the FASB issued ASU 2024-03 "Income Statement: Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40)" to improve the disclosures about an entity's expenses. Upon adoption, we will be required to disclose in the notes to the financial statements a disaggregation of certain expense categories included within the expense captions on the face of the income statement. The standard is effective for our 2027 annual period, and our interim periods beginning in 2028, with early adoption permitted. The standard can be applied either prospectively or retrospectively. We are currently assessing adoption timing and the effect that the updated standard will have on our financial statement disclosures.
+Recently Adopted Accounting Pronouncements
+In November 2023, the FASB issued ASU No. 2023-07 "Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures" which expands annual and interim disclosure requirements for reportable segments, primarily through enhanced disclosures about significant segment expenses. We adopted this ASU for our 2024 annual period with the comparative periods updated to reflect additional disclosures. See Note 15 for further details.
+Prior Period Reclassifications
+Certain amounts in prior periods have been reclassified to conform with current period presentation.
+63.
+Table of Contents
+Alphabet Inc.
+Note 2. Revenues
+Disaggregated Revenues
+The following table presents revenues disaggregated by type (in millions):
+Year Ended December 31,
+2022 2023 2024
+Google Search & other $ 162,450 $ 175,033 $ 198,084
+YouTube ads 29,243 31,510 36,147
+Google Network 32,780 31,312 30,359
+Google advertising 224,473 237,855 264,590
+Google subscriptions, platforms, and devices
+29,055 34,688 40,340
+Google Services total 253,528 272,543 304,930
+Google Cloud 26,280 33,088 43,229
+Other Bets 1,068 1,527 1,648
+Hedging gains (losses) 1,960 236 211
+Total revenues $ 282,836 $ 307,394 $ 350,018
+No in dividual customer or groups of affiliated customers represented more than 10% of our revenues in 2022, 2023, or 2024.
+The following table presents revenues disaggregated by geography, based on the addresses of our customers (in millions):
+Year Ended December 31,
+2022 2023 2024
+United States $ 134,814 48 % $ 146,286 47 % $ 170,447 49 %
+EMEA (1)
+82,062 29 91,038 30 102,127 29
+APAC (1)
+47,024 16 51,514 17 56,815 16
+Other Americas (1)
+16,976 6 18,320 6 20,418 6
+Hedging gains (losses) 1,960 1 236 0 211 0
+Total revenues $ 282,836 100 % $ 307,394 100 % $ 350,018 100 %
+(1) Regions represent Europe, the Middle East, and Africa (EMEA); Asia-Pacific (APAC); and Canada and Latin America ("Other Americas").
+Revenue Backlog
+As of December 31, 2024, we had $ 93.2 billion of remaining performance obligations ("revenue backlog"), primarily related to Google Cloud. Revenue backlog represents commitments in customer contracts for future services that have not yet been recognized as revenue. We expect to recognize approximately half of the revenue backlog as revenues over the next 24 months with the remainder to be recognized thereafter. The estimated revenue backlog and timing of revenue recognition for these commitments is largely driven by our ability to deliver in accordance with relevant contract terms and when our customers utilize services. Revenue backlog includes related deferred revenue currently recorded as well as amounts that will be invoiced in future periods, and excludes contracts with an original expected term of one year or less and cancellable contracts.
+Deferred Revenues
+We record deferred revenues when cash payments are received or due in advance of our performance, including amounts which are refundable. Deferred revenues primarily relate to Google Cloud and Google subscriptions, platforms, and devices. Total deferred revenue as of December 31, 2023 was $ 5.0 billion, of which $ 3.9 billion was recognized as revenues for the year ended December 31, 2024. Total deferred revenue as of December 31, 2024 was $ 6.0 billion.
+Note 3. Financial Instruments
+64.
+Table of Contents
+Alphabet Inc.
+Fair Value Measurements
+Investments Measured at Fair Value on a Recurring Basis
+Cash, cash equivalents, and marketable equity securities are measured at fair value and classified within Level 1 and Level 2 in the fair value hierarchy, because we use quoted prices for identical assets in active markets or inputs that are based upon quoted prices for similar instruments in active markets.
+Debt securities are measured at fair value and classified within Level 2 in the fair value hierarchy, because we use quoted market prices to the extent available or alternative pricing sources and models utilizing market observable inputs to determine fair value. For certain marketable debt securities, we have elected the fair value option for which changes in fair value are recorded in OI&E. The fair value option was elected for these securities to align with the unrealized gains and losses from related derivative contracts.
+The following tables summarize our cash, cash equivalents, and marketable securities measured at fair value on a recurring basis (in millions):
+As of December 31, 2023
+Fair Value Hierarchy Adjusted Cost Gross Unrealized Gains Gross Unrealized Losses Fair Value Cash and Cash Equivalents Marketable Securities
+Fair value changes recorded in other comprehensive income
+Time deposits
+Level 2 $ 2,628 $ 0 $ 0 $ 2,628 $ 2,628 $ 0
+Government bonds Level 2 38,106 233 ( 679 ) 37,660 1,993 35,667
+Corporate debt securities Level 2 22,457 112 ( 637 ) 21,932 0 21,932
+Mortgage-backed and asset-backed securities Level 2 17,243 88 ( 634 ) 16,697 0 16,697
+Total investments with fair value change reflected in other comprehensive income (1)
+80,434 433 ( 1,950 ) 78,917 4,621 74,296
+Fair value adjustments recorded in net income
+Money market funds Level 1 6,480 6,480 0
+Current marketable equity securities (2)
+Level 1 4,282 0 4,282
+Mutual funds Level 2 311 0 311
+Government bonds Level 2 1,952 347 1,605
+Corporate debt securities Level 2 3,782 91 3,691
+Mortgage-backed and asset-backed securities Level 2 2,683 0 2,683
+Total investments with fair value change recorded in net income
+19,490 6,918 12,572
+Cash 0 12,509 0
+Total $ 80,434 $ 433 $ ( 1,950 ) $ 98,407 $ 24,048 $ 86,868
+(1) Represents gross unrealized gains and losses for debt securities recorded to AOCI.
+(2) The long-term portion of marketable equity securities (subject to long-term lock-up restrictions) of $ 1.4 billion as of December 31, 2023 is included within other non-current assets.
+65.
+Table of Contents
+Alphabet Inc.
+As of December 31, 2024
+Fair Value Hierarchy Adjusted Cost Gross Unrealized Gains Gross Unrealized Losses Fair Value Cash and Cash Equivalents Marketable Securities
+Fair value changes recorded in other comprehensive income
+Time deposits
+Level 2 $ 2,217 $ 0 $ 0 $ 2,217 $ 2,081 $ 136
+Government bonds Level 2 27,551 83 ( 214 ) 27,420 50 27,370
+Corporate debt securities Level 2 18,300 79 ( 222 ) 18,157 0 18,157
+Mortgage-backed and asset-backed securities Level 2 14,437 63 ( 385 ) 14,115 0 14,115
+Total investments with fair value change reflected in other comprehensive income (1)
+62,505 225 ( 821 ) 61,909 2,131 59,778
+Fair value adjustments recorded in net income
+Money market funds Level 1 $ 8,154 $ 8,154 $ 0
+Current marketable equity securities (2)
+Level 1 4,708 0 4,708
+Mutual funds Level 2 105 0 105
+Government bonds Level 2 2,035 696 1,339
+Corporate debt securities Level 2 3,037 78 2,959
+Mortgage-backed and asset-backed securities Level 2 3,302 0 3,302
+Total investments with fair value change recorded in net income
+21,341 8,928 12,413
+Cash 0 12,407 0
+Total $ 62,505 $ 225 $ ( 821 ) $ 83,250 $ 23,466 $ 72,191
+(1) Represents gross unrealized gains and losses for debt securities recorded to AOCI.
+(2) The long-term portion of marketable equity securities (subject to long-term lock-up restrictions) of $ 266 million as of December 31, 2024 is included within other non-current assets.
+Investments Measured at Fair Value on a Nonrecurring Basis
+Our non-marketable equity securities are investments in privately held companies without readily determinable market values. The carrying value of our non-marketable equity securities is adjusted to fair value upon observable transactions for identical or similar investments of the same issuer or impairment. Non-marketable equity securities that have been remeasured during the period based on observable transactions are classified within Level 2 or Level 3 in the fair value hierarchy. Non-marketable equity securities that have been remeasured due to impairment are classified within Level 3. Our valuation methods include option pricing models, market comparable approach, and common stock equivalent method, which may include a combination of the observable transaction price at the transaction date and other unobservable inputs including volatility, expected time to exit, risk free rate, and the rights and obligations of the securities we hold. These inputs vary significantly based on investment type.
+As of December 31, 2024, the carrying value of our non-marketable equity securities was $ 35.5 billion, of which $ 19.9 billion were remeasured at fair value during the year ended December 31, 2024, and were primarily classified within Level 2 of the fair value hierarchy at the time of measurement.
+Debt Securities
+The following table summarizes the estimated fair value of investments in available-for-sale marketable debt securities by effective contractual maturity dates (in millions):
+66.
+Table of Contents
+Alphabet Inc.
+As of
+December 31, 2024
+Due in 1 year or less $ 6,341
+Due in 1 year through 5 years 37,221
+Due in 5 years through 10 years 10,920
+Due after 10 years 12,896
+Total $ 67,378
+The following tables present fair values and gross unrealized losses recorded to AOCI, aggregated by investment category and the length of time that individual securities have been in a continuous loss position (in millions):
+As of December 31, 2023
+Less than 12 Months 12 Months or Greater Total
+Fair Value Unrealized
+Loss Fair Value Unrealized
+Loss Fair Value Unrealized
+Loss
+Government bonds $ 1,456 $ ( 22 ) $ 13,897 $ ( 657 ) $ 15,353 $ ( 679 )
+Corporate debt securities 827 ( 5 ) 15,367 ( 592 ) 16,194 ( 597 )
+Mortgage-backed and asset-backed securities 2,945 ( 26 ) 7,916 ( 608 ) 10,861 ( 634 )
+Total $ 5,228 $ ( 53 ) $ 37,180 $ ( 1,857 ) $ 42,408 $ ( 1,910 )
+As of December 31, 2024
+Less than 12 Months 12 Months or Greater Total
+Fair Value Unrealized
+Loss Fair Value Unrealized
+Loss Fair Value Unrealized
+Loss
+Government bonds $ 11,119 $ ( 126 ) $ 2,576 $ ( 88 ) $ 13,695 $ ( 214 )
+Corporate debt securities 4,228 ( 17 ) 6,838 ( 168 ) 11,066 ( 185 )
+Mortgage-backed and asset-backed securities 5,222 ( 106 ) 3,813 ( 279 ) 9,035 ( 385 )
+Total $ 20,569 $ ( 249 ) $ 13,227 $ ( 535 ) $ 33,796 $ ( 784 )
+We determine realized gains or losses on the sale or extinguishment of debt securities on a specific identification method. The following table summarizes gains and losses for debt securities, reflected as a component of OI&E (in millions):
+Year Ended December 31,
+2022 2023 2024
+Unrealized gain (loss) on fair value option debt securities
+$ ( 557 ) $ 386 $ 30
+Gross realized gain on debt securities 103 182 482
+Gross realized loss on debt securities ( 1,588 ) ( 1,833 ) ( 1,553 )
+(Increase) decrease in allowance for credit losses
+( 22 ) 50 ( 2 )
+Total gain (loss) on debt securities recognized in other income (expense), net $ ( 2,064 ) $ ( 1,215 ) $ ( 1,043 )
+Equity Investments
+The carrying value of equity securities is measured as the total initial cost plus the cumulative net gain (loss). Gains and losses, including impairments, are included as a component of OI&E in the Consolidated Statements of Income. See Note 7 for further details on OI&E. Certain of our non-marketable equity securities include our investments in VIE where we are not the primary beneficiary. See Note 5 for further details on VIE.
+The carrying values for marketable and non-marketable equity securities are summarized below (in millions):
+67.
+Table of Contents
+Alphabet Inc.
+As of December 31, 2023 As of December 31, 2024
+Marketable Equity Securities Non-Marketable Equity Securities Total Marketable Equity Securities Non-Marketable Equity Securities Total
+Total initial cost $ 5,418 $ 17,616 $ 23,034 $ 4,767 $ 21,240 $ 26,007
+Cumulative net gain (loss) (1)
+555 11,150 11,705 312 14,291 14,603
+Carrying value $ 5,973 $ 28,766 $ 34,739 $ 5,079 $ 35,531 $ 40,610
+(1) Non-marketable equity securities cumulative net gain (loss) is comprised of $ 18.1 billion and $ 22.7 billion of gains and $ 6.9 billion and $ 8.4 billion of losses (including impairments) as of December 31, 2023 and 2024, respectively.
+Gains and Losses on Marketable and Non-marketable Equity Securities
+Gains and losses (including impairments), net, for marketable and non-marketable equity securities included in OI&E are summarized below (in millions):
+Year Ended December 31,
+2022 2023 2024
+Realized net gain (loss) on equity securities sold during the period $ ( 442 ) $ 690 $ 186
+Unrealized net gain (loss) on marketable equity securities ( 3,242 ) 790 156
+Unrealized net gain (loss) on non-marketable equity securities (1)
+229 ( 1,088 ) 3,372
+Total gain (loss) on equity securities in other income (expense), net $ ( 3,455 ) $ 392 $ 3,714
+(1) Unrealized gain (loss) on non-marketable equity securities accounted for under the measurement alternative is comprised of $ 3.3 billion, $ 1.8 billion, and $ 5.6 billion of upward adjustments and $ 3.0 billion, $ 2.9 billion, and $ 2.2 billion of downward adjustments (including impairments) for the years ended December 31, 2022, 2023, and 2024, respectively.
+In the table above, realized net gain (loss) on equity securities sold during the period reflects the difference between the sale proceeds and the carrying value of the equity securities at the beginning of the period or the purchase date, if later.
+Cumulative net gains (losses) on equity securities sold during the period, which is summarized in the following table (in millions), represents the total net gains (losses) recognized after the initial purchase date of the equity security sold during the period. While these net gains (losses) may have been reflected in periods prior to the period of sale, we believe they are important supplemental information as they reflect the economic net gains (losses) on the securities sold during the period. Cumulative net gains (losses) are calculated as the difference between the sale price and the initial purchase price for the equity security sold during the period.
+2023 2024
+Total sale price $ 1,981 $ 2,827
+Total initial cost 1,512 2,079
+Cumulative net gains (losses)
+$ 469 $ 748
+Equity Securities Accounted for Under the Equity Method
+As of December 31, 2023 and 2024, equity securities accounted for under the equity method had a carrying value of approximately $ 1.7 billion and $ 2.0 billion, respectively. Our share of gains and losses, including impairments, are included as a component of OI&E, in the Consolidated Statements of Income. See Note 7 for further details on OI&E. Certain of our equity method securities include our investments in VIEs where we are not the primary beneficiary. See Note 4 for further details on VIEs.
+Convertible Notes
+As of December 31, 2023 and December 31, 2024 , we had investments in convertible notes of $ 921 million and $ 2.9 billion, respectively, the majority of which are convertible notes held for investment. Our convertible notes held for investment are recorded at amortized cost which includes unpaid principal balances, deferred origination costs, and any related discount or premium, net of allowances for credit losses, and are included within other non-current assets on our Consolidated Balance Sheets.
+68.
+Table of Contents
+Alphabet Inc.
+Derivative Financial Instruments
+We use derivative instruments to manage risks relating to our ongoing business operations. The primary risk managed is foreign exchange risk. We use foreign currency contracts to reduce the risk that our cash flows, earnings, and investment in foreign subsidiaries will be adversely affected by foreign currency exchange rate fluctuations. We also enter into derivative instruments to partially offset our exposure to other risks and enhance investment returns.
+We recognize derivative instruments in the Consolidated Balance Sheets at fair value and classify the derivatives primarily within Level 2 in the fair value hierarchy. We present our collar contracts (an option strategy comprised of a combination of purchased and written options) at net fair values and present all other derivatives at gross fair values. The accounting treatment for derivatives is based on the intended use and hedge designation.
+Cash Flow Hedges
+We designate foreign currency forward and option contracts (including collars) as cash flow hedges to hedge certain forecasted revenue transactions denominated in currencies other than the U.S. dollar. These contracts have maturities of 24 months or less.
+Cash flow hedge amounts included in the assessment of hedge effectiveness are deferred in AOCI and subsequently reclassified to revenue when the hedged item is recognized in earnings. We exclude forward points and time value from our assessment of hedge effectiveness and amortize them on a straight-line basis over the life of the hedging instrument in revenues. The difference between fair value changes of the excluded component and the amount amortized to revenues is recorded in AOCI.
+As of December 31, 2024 , the net accumulated gain on our foreign currency cash flow hedges before tax effect was $ 731 million, which is expected to be reclassified from AOCI into revenues within the next 12 months.
+Fair Value Hedges
+We designate foreign currency forward contracts as fair value hedges to hedge foreign currency risks for our marketable securities denominated in currencies other than the U.S. dollar. Fair value hedge amounts included in the assessment of hedge effectiveness are recognized in OI&E, along with the offsetting gains and losses of the related hedged items. We exclude forward points from the assessment of hedge effectiveness and recognize changes in the excluded component in OI&E.
+Net Investment Hedges
+We designate foreign currency forward contracts as net investment hedges to hedge the foreign currency risks related to our investment in foreign subsidiaries. Net investment hedge amounts included in the assessment of hedge effectiveness are recognized in AOCI along with the foreign currency translation adjustment. We exclude forward points from the assessment of hedge effectiveness and recognize changes in the excluded component in OI&E.
+Other Derivatives
+We enter into foreign currency forward and option contracts that are not designated as hedging instruments to hedge intercompany transactions and other monetary assets or liabilities denominated in currencies other than the functional currency of a subsidiary. Gains and losses on these derivatives that are not designated as accounting hedges are primarily recorded in OI&E along with the foreign currency gains and losses on monetary assets and liabilities.
+We also use derivatives not designated as hedging instruments to manage risks relating to interest rates, commodity prices, and credit exposures, and to enhance investment returns. From time to time, we enter into derivatives to hedge the market price risk on certain of our marketable equity securities. Gains and losses arising from other derivatives are primarily reflected within the "other" component of OI&E. See Note 7 for further details.
+69.
+Table of Contents
+Alphabet Inc.
+The gross notional amounts of outstanding derivative instruments were as follows (in millions):
+As of December 31,
+2023 2024
+Derivatives designated as hedging instruments:
+Foreign exchange contracts
+Cash flow hedges $ 18,039 $ 20,315
+Fair value hedges $ 2,065 $ 1,562
+Net investment hedges $ 9,472 $ 6,986
+Derivatives not designated as hedging instruments:
+Foreign exchange contracts $ 39,722 $ 44,227
+Other contracts $ 10,818 $ 15,082
+The fair values of outstanding derivative instruments were as follows (in millions):
+As of December 31, 2023 As of December 31, 2024
+Assets (1)
+Liabilities (2)
+Assets (1)
+Liabilities (2)
+Derivatives designated as hedging instruments:
+Foreign exchange contracts $ 205 $ 242 $ 1,054 $ 0
+Derivatives not designated as hedging instruments:
+Foreign exchange contracts 134 156 200 593
+Other contracts 114 47 474 19
+Total derivatives not designated as hedging instruments 248 203 674 612
+Total $ 453 $ 445 $ 1,728 $ 612
+(1) Derivative assets are recorded as other current and non-current assets in the Consolidate

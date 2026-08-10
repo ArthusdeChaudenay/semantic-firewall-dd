@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "actif_total": "196,485",
+    "passif_total": {
+      "total_liabilities": "91,453",
+      "stockholders_equity": "105,032",
+      "total": "196,485"
+    },
+    "capitaux_propres": "105,032"
+  },
+  "seconds": 25.63,
+  "tokens": 300
+}

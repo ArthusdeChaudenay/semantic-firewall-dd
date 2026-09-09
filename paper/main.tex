@@ -735,6 +735,9 @@ on how often method-coupled labels occur outside this pipeline.
 \clearpage
 \bibliography{custom}
 
+% Likewise the appendices, which otherwise started partway down the second page of
+% references.
+\clearpage
 \appendix
 
 \section{Field-to-Concept Mapping}
@@ -850,32 +853,9 @@ contained 28 technology filings and no retail, consumer or industrial ones, so a
 comparison on it would have confounded model scale with sector. That decision was taken
 on the composition of the subset, not on any result computed from it.
 
-\section{Detector Confusion Matrices}
-\label{app:detector}
-
-\begin{table}[h]
-\centering\small
-\begin{tabular}{@{}lrrrr@{}}
-\toprule
-\textbf{Threshold} & \textbf{TP} & \textbf{FP} & \textbf{FN} & \textbf{P (95\% CI)} \\
-\midrule
-residual $>0$      & 16 & 4 & 3 & 80.0 $[56.3, 94.3]$ \\
-residual $>0.1\%$  & 16 & 3 & 3 & 84.2 $[60.4, 96.6]$ \\
-residual $>1\%$    & 16 & 0 & 3 & \best{100.0} $[79.4, 100]$ \\
-\bottomrule
-\end{tabular}
-\caption{Coupled balance-sheet detector, 8B, $68$ documents, positive label defined as
-at least one identity input differing from its reference by more than $1\%$. Matching
-the detector threshold to the correctness tolerance eliminates every false positive.}
-\label{tab:detconf}
-\end{table}
-
-The four false positives at the loosest threshold are documents whose largest field
-error is between $0.004\%$ and $0.35\%$, all inside the correctness tolerance.
-Figure~\ref{fig:surface} generalises this to the full threshold plane.
-
-% Declared here so the float reaches the top of the Appendix F page;
-% a table* is never set on the page where it is read.
+% A table* is never set on the page where it is read, so this one is declared
+% two appendices ahead of the Appendix F text that discusses it in order to
+% reach the top of that page rather than a page of its own.
 \begin{table*}[t]
 \centering\small
 \begin{tabular}{@{}p{2.6cm}p{4.4cm}p{3.6cm}p{4.0cm}@{}}
@@ -915,6 +895,31 @@ accounting identities exactly satisfied. Deriving a missing label, as in the fir
 is a modelling decision and should be reported as one.}
 \label{tab:traps}
 \end{table*}
+
+\section{Detector Confusion Matrices}
+\label{app:detector}
+
+\begin{table}[h]
+\centering\small
+\begin{tabular}{@{}lrrrr@{}}
+\toprule
+\textbf{Threshold} & \textbf{TP} & \textbf{FP} & \textbf{FN} & \textbf{P (95\% CI)} \\
+\midrule
+residual $>0$      & 16 & 4 & 3 & 80.0 $[56.3, 94.3]$ \\
+residual $>0.1\%$  & 16 & 3 & 3 & 84.2 $[60.4, 96.6]$ \\
+residual $>1\%$    & 16 & 0 & 3 & \best{100.0} $[79.4, 100]$ \\
+\bottomrule
+\end{tabular}
+\caption{Coupled balance-sheet detector, 8B, $68$ documents, positive label defined as
+at least one identity input differing from its reference by more than $1\%$. Matching
+the detector threshold to the correctness tolerance eliminates every false positive.}
+\label{tab:detconf}
+\end{table}
+
+The four false positives at the loosest threshold are documents whose largest field
+error is between $0.004\%$ and $0.35\%$, all inside the correctness tolerance.
+Figure~\ref{fig:surface} generalises this to the full threshold plane.
+
 
 \section{Extraction Prompt}
 \label{app:prompts}

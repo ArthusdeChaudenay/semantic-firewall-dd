@@ -270,18 +270,22 @@ def fig_heatmap(rec):
 # ── Figure 5: residual ECDF ─────────────────────────────────────────────────
 def fig_ecdf(rec):
     fig, ax = plt.subplots(figsize=(3.2, 2.0))
+    # Both curves jump at the left edge and then run flat, so a legend box placed
+    # anywhere inside the axes sits on top of a plateau. The series are labelled on
+    # their own plateaus instead, which also puts the percentage where it is read.
     for m, col in ((MODELS[0], C_8B), (MODELS[1], C_49B)):
         r = np.array(sorted(x["resid"] for x in rec[m]["det"]))
         zero = float(np.mean(r <= 1e-9))
         rr = np.maximum(r, 1e-6)
         ax.step(rr, np.arange(1, len(rr) + 1) / len(rr), where="post",
-                color=col, lw=1.5, label=f"{LABEL[m]} ({100*zero:.0f}% at zero)")
+                color=col, lw=1.5)
+        ax.text(0.42, zero + 0.04, f"{LABEL[m]}, {100*zero:.0f}% at zero",
+                transform=ax.get_yaxis_transform(), color=col, fontsize=7,
+                ha="center", va="bottom")
     ax.set_xscale("log")
     ax.set_xlabel("identity residual (log scale, floored at $10^{-6}$)")
     ax.set_ylabel("cumulative fraction")
-    ax.set_ylim(0, 1.02)
-    ax.legend(frameon=False, loc="center left", bbox_to_anchor=(0.015, 0.42),
-              handlelength=1.5, borderaxespad=0.0)
+    ax.set_ylim(0, 1.08)
     ax.set_title("most documents satisfy the identity exactly", loc="left")
     fig.savefig(FIGDIR / "residual_ecdf.pdf")
     plt.close(fig)

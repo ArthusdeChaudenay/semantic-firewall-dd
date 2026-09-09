@@ -17,13 +17,13 @@
 \usepackage{amssymb}
 \usepackage{multirow}
 
-% Typography. LaTeX's defaults tolerate a single line stranded at the top or bottom of
-% a column, which left page 2 opening on "uninterpretable." and page 3 on "ing.".
-% Forbidding club and widow lines, and refusing to carry a hyphenated word across a
-% page break, removes both.
-\clubpenalty=10000
-\widowpenalty=10000
-\displaywidowpenalty=10000
+% Typography. Page 3 opened on "ing." because LaTeX will by default carry a hyphenated
+% word across a page break; forbidding that costs nothing. Club and widow lines are
+% discouraged rather than forbidden, since at 10000 the breaker cannot split a paragraph
+% at all and ends columns early.
+\clubpenalty=500
+\widowpenalty=500
+\displaywidowpenalty=500
 \brokenpenalty=10000
 
 \newcommand{\best}[1]{\textbf{#1}}
@@ -42,6 +42,12 @@
 
 \begin{document}
 \maketitle
+
+% The definition block in Section 1 cannot be split and does not fit at the foot of the
+% first page, so that column runs eight lines short. Under the template's \flushbottom
+% the shortfall was distributed as two 57pt holes between paragraphs. Every other column
+% in the paper fills naturally, so this switch changes nothing except page 1.
+\raggedbottom
 
 \begin{abstract}
 A misread figure in a financial filing is a plausible number, so an extraction error
@@ -868,41 +874,11 @@ The four false positives at the loosest threshold are documents whose largest fi
 error is between $0.004\%$ and $0.35\%$, all inside the correctness tolerance.
 Figure~\ref{fig:surface} generalises this to the full threshold plane.
 
-\section{Extraction Prompt}
-\label{app:prompts}
-
-Identical across B2--B6 and both scales; only the scaffolding differs.
-
-\begin{quote}\footnotesize\ttfamily\raggedright
-You are reading the consolidated income statement of a US 10-K filing. Extract these 5
-metrics for the MOST RECENT fiscal year shown.\\[2pt]
-Return ONLY a JSON object with exactly these keys (use null when absent):
-revenue, operating\_income, ebitda, depreciation\_\-amortization, net\_income\\[2pt]
-Rules: Copy each number EXACTLY as printed in the table. Do NOT rescale or convert
-units. Consolidated group totals only, never a single segment. Most recent fiscal year
-column only, never a comparative year. No markdown, no commentary. JSON only.
-\end{quote}
-
-Two instructions in this prompt interact with the audit. The instruction not to rescale
-is what makes document-side scale inference necessary. The instruction to return null
-when a value is absent is what the coupled field then penalised, since EBITDA is absent
-from every income statement in the corpus and the model complied throughout.
-
-\begin{figure}[h]
-\centering
-\includegraphics[width=\linewidth]{figures/residual_ecdf.pdf}
-\caption{Distribution of the identity residual. The mass at zero is what makes ranking
-metrics misleading: an area under a curve computed over this distribution is largely
-determined by how ties are broken.}
-\label{fig:ecdf}
-\end{figure}
-
-\section{Measurement Pitfalls}
-\label{app:traps}
-
-\begin{table}[h]
+% Declared here so the float reaches the top of the Appendix F page;
+% a table* is never set on the page where it is read.
+\begin{table*}[t]
 \centering\small
-\begin{tabular}{@{}p{1.6cm}p{1.9cm}p{1.5cm}p{1.4cm}@{}}
+\begin{tabular}{@{}p{2.6cm}p{4.4cm}p{3.6cm}p{4.0cm}@{}}
 \toprule
 \textbf{Trap} & \textbf{Mechanism} & \textbf{Instrument} & \textbf{Evidence here} \\
 \midrule
@@ -938,7 +914,45 @@ entire class of method, since scaling every figure by the same factor leaves all
 accounting identities exactly satisfied. Deriving a missing label, as in the first row,
 is a modelling decision and should be reported as one.}
 \label{tab:traps}
-\end{table}
+\end{table*}
+
+\section{Extraction Prompt}
+\label{app:prompts}
+
+Identical across B2--B6 and both scales; only the scaffolding differs.
+
+\begin{quote}\footnotesize\ttfamily\raggedright
+You are reading the consolidated income statement of a US 10-K filing. Extract these 5
+metrics for the MOST RECENT fiscal year shown.\\[2pt]
+Return ONLY a JSON object with exactly these keys (use null when absent):
+revenue, operating\_income, ebitda, depreciation\_\-amortization, net\_income\\[2pt]
+Rules: Copy each number EXACTLY as printed in the table. Do NOT rescale or convert
+units. Consolidated group totals only, never a single segment. Most recent fiscal year
+column only, never a comparative year. No markdown, no commentary. JSON only.
+\end{quote}
+
+Two instructions in this prompt interact with the audit. The instruction not to rescale
+is what makes document-side scale inference necessary. The instruction to return null
+when a value is absent is what the coupled field then penalised, since EBITDA is absent
+from every income statement in the corpus and the model complied throughout.
+
+
+\section{Measurement Pitfalls}
+\label{app:traps}
+
+Table \ref{tab:traps} states each of the four pitfalls of Section \ref{sec:traps}
+as a mechanism, the instrument that detects it, and the evidence observed here. The
+first two are specific to constraint-based verification. The last two apply to any
+evaluation that compares extracted quantities against a reference.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=\linewidth]{figures/residual_ecdf.pdf}
+\caption{Distribution of the identity residual. The mass at zero is what makes ranking
+metrics misleading: an area under a curve computed over this distribution is largely
+determined by how ties are broken.}
+\label{fig:ecdf}
+\end{figure}
 
 \section{Reproducibility}
 \label{app:repro}

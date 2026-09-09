@@ -1,7 +1,7 @@
-# A Derived Label Cannot Test the Rule That Derives It
+# Auditing Scaffolding Gains in LLM Financial Extraction When the Label Is the Method
 
-Official implementation and data release for the FinNLP 2026 paper *A Derived Label
-Cannot Test the Rule That Derives It* (`paper/main.pdf`), accepted at the 11th Workshop
+Official implementation and data release for the FinNLP 2026 paper *Auditing Scaffolding Gains in
+LLM Financial Extraction When the Label Is the Method* (`paper/main.pdf`), accepted at the 11th Workshop
 on Financial Technology and Natural Language Processing, co-located with EMNLP 2026.
 
 The repository contains the extraction system the paper studies, the evaluation
@@ -186,8 +186,10 @@ corpus.
 ## Citation
 
 ```bibtex
-@inproceedings{derivedlabel2026,
-  title     = {A Derived Label Cannot Test the Rule That Derives It},
+@inproceedings{scaffoldinggains2026,
+  title     = {Auditing Scaffolding Gains in {LLM} Financial Extraction When the
+               Label Is the Method},
+  author    = {le Vaillant de Chaudenay, Arthus and Riabi, Arij and No\"el, Valentin},
   booktitle = {Proceedings of the Workshop on Financial Technology and Natural
                Language Processing (FinNLP)},
   year      = {2026},

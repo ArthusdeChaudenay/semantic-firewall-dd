@@ -10,12 +10,17 @@ What ships is the paper's artifact and nothing else. The private repository also
 FastAPI service, French-language audit reports, and hand-written sample documents naming
 the authors' employer, none of which the paper uses and all of which identify.
 
+Retained for the record after acceptance. The camera-ready paper carries a real author
+block by design, so this builder now reports it and stops rather than silently stripping
+the names of an accepted paper; pass --allow-authors to build a snapshot anyway.
+
 Run:
     python -m scripts.build_anonymous_release --out ../semantic-firewall-anon
 """
 from __future__ import annotations
 
 import argparse
+import os
 import re
 import shutil
 import sys
@@ -172,6 +177,8 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default="../semantic-firewall-anon")
     ap.add_argument("--force", action="store_true")
+    ap.add_argument("--allow-authors", action="store_true",
+                    help="tolerate the camera-ready author block in paper/main.tex")
     a = ap.parse_args()
 
     src, dst = Path("."), Path(a.out).resolve()
@@ -204,6 +211,9 @@ def main() -> None:
     print(f"  no .git directory is created: the history carries author names on every commit")
 
     hits = check(dst)
+    if a.allow_authors:
+        hits = [h for h in hits if not h[0].startswith("paper" + os.sep + "main.tex")
+                and not h[0].startswith("paper/main.tex")]
     if hits:
         print(f"\n  FAILED: {len(hits)} identifying string(s) survived")
         for where, line in hits[:20]:

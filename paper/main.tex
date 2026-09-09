@@ -90,7 +90,9 @@ If an extraction violates one, at least one of the values involved is wrong, and
 knowable without holding any of them. The same identities can then repair what they
 indict. The design is a natural one, close in spirit to checking generated code against
 executable tests \citep{chen2023codet}. This paper reports what happened when we built
-it and then audited the result.
+it and then audited the result.\footnote{Code, extractions, reference values and every
+script that produces a number in this paper:
+\url{https://github.com/ArthusdeChaudenay/semantic-firewall-dd}.}
 
 The system behaved as intended. Scored against reference values drawn from regulatory
 tags, the corrector improved field accuracy over zero-shot extraction at no additional
@@ -963,7 +965,8 @@ determined by how ties are broken.}
 \label{app:repro}
 
 All tables and figures are recomputable offline from the released artifacts, with no
-model access.
+model access. The repository is
+\url{https://github.com/ArthusdeChaudenay/semantic-firewall-dd}.
 
 \begin{itemize}[leftmargin=*, itemsep=1pt]
 \item \code{data/corpus.jsonl} --- manifest with path, ticker, identifier, fiscal year,

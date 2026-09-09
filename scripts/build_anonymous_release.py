@@ -54,14 +54,19 @@ SCRUB = {
     r"arthus\.dechaudenay@studbocconi\.it": "anonymous@example.org",
     r"Valentin\s+NO[EÉ]L": "Anonymous Author",
     r"Valentin\s+No[eë]l": "Anonymous Author",
-    r"Arthus\s+de\s+Chaudenay": "Anonymous Author",
+    r"Arthus(\s+le\s+Vaillant)?\s+de\s+Chaudenay": "Anonymous Author",
+    r"Arij\s+Riabi": "Anonymous Author",
+    r"Bocconi": "Anonymous Institution",
     r"[Dd]evoteam": "Anonymous Institution",
     r"ArthusdeChaudenay": "anonymous",
     r"[Cc]:\\Users\\valno": r"~",
     r"/c/Users/valno": "~",
 }
-FORBIDDEN = [r"devoteam", r"arthus", r"chaudenay", r"valentin", r"studbocconi",
-             r"Users\\valno", r"Users/valno"]
+# Word bounded: an unanchored "riabi" matches "variability", which occurs in the
+# filings themselves and would fail the build on legitimate corpus text.
+FORBIDDEN = [r"devoteam", r"arthus", r"chaudenay", r"valentin",
+             r"studbocconi", r"riabi", r"bocconi",
+             r"Users\valno", r"Users/valno"]
 
 TEXT_SUFFIXES = {".py", ".md", ".tex", ".bib", ".txt", ".json", ".jsonl", ".toml",
                  ".cfg", ".sty", ".bst", ".yml", ".yaml", ""}

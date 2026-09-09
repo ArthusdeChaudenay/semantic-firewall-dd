@@ -17,6 +17,15 @@
 \usepackage{amssymb}
 \usepackage{multirow}
 
+% Typography. LaTeX's defaults tolerate a single line stranded at the top or bottom of
+% a column, which left page 2 opening on "uninterpretable." and page 3 on "ing.".
+% Forbidding club and widow lines, and refusing to carry a hyphenated word across a
+% page break, removes both.
+\clubpenalty=10000
+\widowpenalty=10000
+\displaywidowpenalty=10000
+\brokenpenalty=10000
+
 \newcommand{\best}[1]{\textbf{#1}}
 \newcommand{\code}[1]{\texttt{\small #1}}
 
@@ -89,12 +98,16 @@ correct. The evaluation counts one success a second time under a third name.
 
 We state the condition generally.
 
+% The definition is the pivot of the paper, so it is kept whole: allowing it to break
+% across a page left the closing clause stranded at the top of the next one.
+\begin{samepage}
 \begin{quote}
 \textbf{Method-coupled label.} A field whose reference value is produced by a formula
 that the system under test also applies is method-coupled. Accuracy on such a field
 cannot be falsified by the system's behaviour, and any gain attributed to it is
 uninterpretable.
 \end{quote}
+\end{samepage}
 
 Written down, the condition is close to definitional, and a reader may reasonably
 classify it as target leakage in domain clothing. We agree, and take the interesting
@@ -228,9 +241,9 @@ rather than filings whose header was misread.
 
 \paragraph{Configurations.} Six, sharing one extraction prompt so that differences are
 attributable to the scaffolding: B1 a regex parser given the same patterns the
-full system uses internally; B2 zero-shot extraction (one call); \textbf{B3}
+full system uses internally; B2 zero-shot extraction (one call); B3
 B2 with self-consistency, five samples at $T{=}0.7$, field-wise median; B4 B2
-with chain-of-thought self-verification of the EBITDA identity (two calls); \textbf{B5}
+with chain-of-thought self-verification of the EBITDA identity (two calls); B5
 B2 with the detector, values untouched; B6 B5 with the corrector. The
 corrector applies eight named rules to a fixed point, so its outcome is
 order-independent and idempotent, and issues no model calls, since repairing an
@@ -711,6 +724,9 @@ the coverage claims more precisely, to report what a corpus-level accuracy figur
 cannot mean given the spread across sectors, and to say plainly that we offer no evidence
 on how often method-coupled labels occur outside this pipeline.
 
+% References begin on a page of their own rather than a quarter of the way down the
+% last page of the back matter.
+\clearpage
 \bibliography{custom}
 
 \appendix

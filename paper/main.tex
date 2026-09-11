@@ -57,19 +57,23 @@ leaves no trace in the output. Verifying extractions without a reference value i
 therefore appealing, and accounting appears to supply the means, since financial
 statements satisfy arithmetic identities that any correct reading must respect.
 
-We built the system this invites, evaluated it on 104 annual reports against reference
-values taken from regulatory tags, and measured a substantial gain over zero-shot
-extraction at no additional inference cost. The gain came from one field. EBITDA is not
-covered by the reporting standard, so its reference value must be computed, and the
-formula that computes it is the one the system applies. Accuracy on that field cannot
-register a failure, and it accounts for the entire improvement. Rescored without it, six
-configurations become statistically indistinguishable and four produce identical values.
+That promise is why we built an identity-based corrector. On 104 annual reports, scored
+against reference values taken from regulatory tags, it appeared to improve substantially
+over zero-shot extraction at no additional inference cost. The apparent gain came from one
+field. EBITDA has no regulatory tag, so the evaluation computed its reference value as
+operating income plus depreciation and amortisation, and the corrector computed the field
+by the same formula. The score on it therefore tracks the two
+constituent fields rather than the rule under test, and it accounts for the entire
+improvement. Rescored without it, six configurations become statistically
+indistinguishable and four produce identical values.
 
-We state the condition that produces this, give a rescoring test that costs no
-computation, and reproduce the effect by injecting couplings deliberately, which shows
-that its severity grows with how accurate the system already is on the constituent
-fields. What survives is that zero-shot extraction is strong on this task and that none
-of the scaffolding we tested improves it.
+We call this a method-coupled label, one produced by a rule the system under test also
+applies. We give a rescoring test that costs no computation, estimate the inflation from
+the coupling rule and the raw extraction, and reproduce the effect by injecting couplings
+deliberately. The inflation is largest where the constituent fields
+are already accurate, so it flatters a mature pipeline more than a weak one. What
+survives is that zero-shot extraction is strong on this task and that none of the
+scaffolding we tested improves it.
 \end{abstract}
 
 \section{Introduction}
@@ -89,22 +93,20 @@ the reference value that production settings, by definition, do not have.
 Accounting seems to offer a way around this. Financial statements are not collections of
 independent numbers but systems tied together by identities that hold by construction.
 If an extraction violates one, at least one of the values involved is wrong, and that is
-knowable without holding any of them. The same identities can then repair what they
-indict. The design is a natural one, close in spirit to checking generated code against
+knowable without a reference value for any of them. The same identities can then
+repair what they indict. The design is a natural one, close in spirit to checking generated code against
 executable tests \citep{chen2023codet}. This paper reports what happened when we built
 it and then audited the result.\footnote{Code, extractions, reference values and every
 script that produces a number in this paper:
 \url{https://github.com/ArthusdeChaudenay/semantic-firewall-dd}.}
 
-The system behaved as intended. Scored against reference values drawn from regulatory
-tags, the corrector improved field accuracy over zero-shot extraction at no additional
-inference cost, and exceeded chain-of-thought self-verification at half the model calls.
-The improvement came from a single field, and it could not have come out otherwise.
-EBITDA is not covered by the reporting standard, so no reference value exists for it and
-the evaluation constructs one, as operating income plus depreciation and amortisation.
-The corrector computes the same field by the same formula. That field is therefore
-scored correct exactly when two other fields, each already scored separately, are both
-correct. The evaluation counts one success a second time under a third name.
+At first the system looked successful. Scored against reference values drawn from
+regulatory tags, the corrector improved field accuracy over zero-shot extraction at no
+additional inference cost, and exceeded chain-of-thought self-verification at half the
+model calls. The improvement, however, came entirely from a circularity in the
+evaluation. EBITDA has no regulatory tag, so its label was derived from operating income
+and depreciation and amortisation, and the corrector reconstructed the same quantity by
+the same identity. The evaluation counts one success a second time under a third name.
 
 We state the condition generally.
 
@@ -113,27 +115,27 @@ We state the condition generally.
 \begin{samepage}
 \begin{quote}
 \textbf{Method-coupled label.} A field whose reference value is produced by a formula
-that the system under test also applies is method-coupled. Accuracy on such a field
-cannot be falsified by the system's behaviour, and any gain attributed to it is
-uninterpretable.
+that the system under test also applies is method-coupled. Performance on such a field
+does not independently test the corresponding system rule, because correctness is mechanically
+tied to the correctness of the constituent fields. A gain attributed to it measures
+those fields, not the rule.
 \end{quote}
 \end{samepage}
 
-Written down, the condition is close to definitional, and a reader may reasonably
-classify it as target leakage in domain clothing. We agree, and take the interesting
-question to be not whether the statement is true but why it is missed. Evaluation
+Written down, the condition is close to definitional, a form of target leakage in domain
+clothing. The interesting question is not whether it is true but why it is missed.
+Evaluation
 artifacts have repeatedly inflated apparent progress in NLP through annotation shortcuts
 \citep{gururangan2018annotation,poliak2018hypothesis}, benchmarks solvable without the
 input \citep{kaushik2018much}, and test-set contamination
-\citep{sainz2023nlp,recht2019imagenet}. This one is quieter. No data leaks and no
-shortcut exists, so a held-out split and a contamination check both pass; the reference
-value is simply reconstructed by a rule of the system. In our case the coupling was
+\citep{sainz2023nlp,recht2019imagenet}. This one is quieter. No example leaks from train to
+test and no shortcut lets a model bypass the input, so a held-out split and a
+contamination check both pass; a missing reference label is simply filled in by a rule
+that later appears inside the system. In our case the coupling was
 introduced deliberately, by people filling a gap in the reference data, and it survived a
 full development cycle and two rounds of self-audit aimed at this very class of defect.
-What we add to the definition is a test, a predictor, and a measurement of severity, the
-last being the least obvious: coupling pays most where a system is already accurate on
-the constituent fields, so it rewards mature pipelines more than weak ones. We audited
-only our own system and offer no evidence on prevalence.
+What we add to the definition is a test, a predictor, and a measurement of severity. We
+audited only our own system and offer no evidence on prevalence.
 
 \paragraph{Contributions.}
 \begin{enumerate}[leftmargin=*, itemsep=2pt, topsep=2pt]
@@ -371,12 +373,11 @@ boundary.
 A coupled field can therefore be flagged, and its contribution quantified, without
 rerunning the model.
 
-Two things this does not claim. The prediction is not made from the label definition on
-its own: it reads the raw extraction to determine which documents omitted the field and
-whether their constituents were correct. What the definition supplies is the form of the
-predictor, not its value. Nor is the magnitude a property of the coupling alone, since it
-depends on how accurate the system already is on the constituents. That dependence is not
-a caveat but the quantity Section \ref{sec:inject} measures directly.
+The predictor has two inputs. The label definition supplies the form of the rule, and the
+raw extraction supplies the documents where the derived field was omitted and the
+constituent fields were already correct. The magnitude is therefore a property of the
+coupling and of the system's constituent-field accuracy together, and Section
+\ref{sec:inject} measures that dependence directly.
 
 \subsection{Controlled Injection}
 \label{sec:inject}
@@ -617,10 +618,10 @@ small and no per-sector claim is made; the pattern is reported because it is whe
 domain-specific schema, rather than a better model or more scaffolding, would help.
 
 This spread also limits what the aggregate accuracy means. Because sectors differ in
-reporting structure far more than configurations differ from one another, a single
-corpus-level number is largely a statement about sector composition. It is reported
-here to place the configuration comparison in context, not as a measure of how well
-extraction would work on a differently balanced corpus. The comparison between
+reporting structure far more than configurations differ from one another, a
+corpus-level number is largely a statement about sector composition rather than a
+measure of how well extraction would work on a differently balanced corpus. The
+comparison between
 configurations is unaffected, since every configuration is scored on the same documents.
 
 Finally, the coupled field is genuinely unenforceable rather than merely outside the
@@ -633,10 +634,9 @@ item.
 \section{Recommendations}
 \label{sec:traps}
 
-Four measurement pitfalls surfaced in the course of this work. Two are specific to
-constraint-based verification and two apply to any evaluation that compares extracted
-quantities against a reference. Each is stated in Appendix \ref{app:traps} as a
-mechanism, the instrument that detects it, and the evidence observed here.
+Four measurement pitfalls surfaced in the course of this work. Appendix
+\ref{app:traps} states each as a mechanism, the instrument that detects it, and the
+evidence observed here.
 
 Three of them are caught by changing what is reported rather than what is run: rescore
 with coupled fields excluded, count how often each rule of an ablation actually executes,
@@ -646,7 +646,9 @@ accounting identity can see, since scaling every figure by the same factor leave
 identity exactly satisfied.
 
 
-\paragraph{Recommendations.} Verify over quantities the filer is required to disclose,
+\paragraph{Recommendations.} Begin by marking which reference values are read from the
+source and which are computed, and compare the computed ones against the rules of the
+system being scored. Verify over quantities the filer is required to disclose,
 and confirm the identity holds in the reference data before assuming it holds in the
 extraction. Report per-field sample sizes, since tag coverage is a property of the
 filer. Report class balance alongside any ranking metric, and prefer a confusion matrix
@@ -663,6 +665,8 @@ turns out not to be an identity of the reporting standard. What remains is that
 zero-shot extraction is accurate, substantially better than pattern matching, and
 improved by none of the scaffolding we tested. We release the corpus manifest, cached
 outputs and audit scripts so that these conclusions can themselves be re-evaluated.
+The check is cheap: whenever a missing reference value is computed, ask whether the system under
+test computes it too.
 
 \section*{Limitations}
 \label{sec:limitations}
@@ -867,10 +871,10 @@ on the composition of the subset, not on any result computed from it.
 \textbf{Trap} & \textbf{Mechanism} & \textbf{Instrument} & \textbf{Evidence here} \\
 \midrule
 Method-coupled label &
-A field's reference value is produced by a formula the system also applies, so accuracy
-on it cannot fail &
-Rescore with such fields excluded; predict the inflation from the label definition
-(\S\ref{sec:predict}) &
+A field's reference value is produced by a formula the system also applies, so the field
+does not independently test that rule &
+Rescore with such fields excluded; estimate the inflation from the coupling rule and the
+baseline extraction outputs (\S\ref{sec:predict}) &
 $15.5\%$ of scored instances, $100\%$ of the reported gain; reproduced on 15 injected
 couplings \\
 \addlinespace[2pt]
